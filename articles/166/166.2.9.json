@@ -1,0 +1,402 @@
+[
+  {
+    "author": [
+      {
+        "family": "Čelakovský",
+        "given": "L."
+      }
+    ],
+    "title": "Analytická květena Čech, Moravy a rak",
+    "editor": [
+      {
+        "given": "Slézska"
+      }
+    ],
+    "publisher": "F. Tempský, Praha",
+    "type": "book",
+    "issued": "1887",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Dvořáková",
+        "given": "M."
+      }
+    ],
+    "title": "Euphrasia L.—světlík",
+    "editor": [
+      {
+        "literal": "In: Kubát, K., Hrouda, L., Chrtek junior, J., Kaplan, Z., Kirschner, J. & Štěpánek, J. (eds"
+      }
+    ],
+    "container-title": "Klíč ke květeně České republiky. Academia, Praha",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "560 562"
+  },
+  {
+    "author": [
+      {
+        "family": "Günther",
+        "given": "C."
+      },
+      {
+        "family": "Grabowski",
+        "given": "H."
+      },
+      {
+        "family": "F",
+        "given": "Wimmer"
+      }
+    ],
+    "title": "Enumeratio stirpium phanerogamarum quae in Silesia sponte proveniunt",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "G. T. Korn",
+    "issue": "laviae",
+    "issued": "1824",
+    "page": "168"
+  },
+  {
+    "author": [
+      {
+        "family": "Junger",
+        "given": "E."
+      }
+    ],
+    "title": "Euphrasia uechtritziana Junger-Engler",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Österreichische Botanische Zeitschrift",
+    "issued": "1867",
+    "page": "141 143",
+    "URL": "http://dx.doi.org/10.1007/bf01613110",
+    "DOI": "10.1007/bf01613110"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerner",
+        "given": "A."
+      }
+    ],
+    "title": "Schedae ad floram exsiccatam Austro-Hungaricam. 1",
+    "publisher": "A. Eurich, Vindobonae",
+    "type": "book",
+    "issued": "1881",
+    "page": "138"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "G.D.J."
+      }
+    ],
+    "title": "Synopsis Florae Germanicae et Helveticae",
+    "editor": [
+      {
+        "family": "Wilmans",
+        "given": "F."
+      },
+      {
+        "family": "Moenum",
+        "given": "Francofurti",
+        "particle": "ad"
+      }
+    ],
+    "type": null,
+    "issued": "1837",
+    "page": "846"
+  },
+  {
+    "author": [
+      {
+        "family": "Králik",
+        "given": "E."
+      }
+    ],
+    "title": "Euphrasia L.—očianka",
+    "editor": [
+      {
+        "family": "Goliašová",
+        "given": "K."
+      }
+    ],
+    "container-title": "Flóra Slovenska",
+    "volume": "5",
+    "publisher": "Veda",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1997",
+    "page": "329–375",
+    "publisher-place": "Bratislava"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "PruďHomme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Weirsema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile",
+    "volume": "154",
+    "type": null,
+    "issued": "2012",
+    "page": "– , 1–208"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F."
+      }
+    ],
+    "title": "Grundzüge der Pflanzenverbreitung in den Karpathen. 2",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Drude",
+        "given": "O."
+      }
+    ],
+    "container-title": "Die Vegetation der Erde",
+    "volume": "10",
+    "publisher": "W. Engelmann",
+    "type": "chapter",
+    "issued": "1908",
+    "page": "– , 1–321",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagorski",
+        "given": "E."
+      },
+      {
+        "family": "Schneider",
+        "given": "G."
+      }
+    ],
+    "title": "Flora der Centralkarpathen mit specieller Berücksichtigung der in der Hohen Tatra vorkommenden Phanerogamen und Gefäss-Cryptogamen nach eigenen und fremden Beobachtungen",
+    "edition": "2. E",
+    "publisher": "Kummer, Leipzig",
+    "type": "book",
+    "issued": "1891",
+    "page": "591"
+  },
+  {
+    "author": [
+      {
+        "family": "Schube",
+        "given": "T."
+      }
+    ],
+    "title": "Flora von Schlesien preußischen und österreichischen Anteils",
+    "publisher": "W. G. Korn, Breslau",
+    "type": "book",
+    "issued": "1904",
+    "page": "456",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.9731",
+    "DOI": "10.5962/bhl.title.9731"
+  },
+  {
+    "author": [
+      {
+        "family": "Smejkal",
+        "given": "M."
+      }
+    ],
+    "title": "Taxonomické studie československých druhů rodu Euphrasia L",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Biologické Práce Slovenskej Akadémie Vied",
+    "issue": "9",
+    "issued": "1963",
+    "page": "1–83"
+  },
+  {
+    "author": [
+      {
+        "family": "Tausch",
+        "given": "I.F."
+      }
+    ],
+    "title": "Plantae selectae Florae bohemicae, fasc. secundus",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "1834",
+    "page": "444 447"
+  },
+  {
+    "author": [
+      {
+        "family": "Tausch",
+        "given": "I.F."
+      }
+    ],
+    "title": "Plantae selectae Florae Bohemicae",
+    "volume": null,
+    "issue": "I. et II. Flora 17, Intelligenzblatt 1",
+    "type": null,
+    "issued": "1834",
+    "page": "5–8"
+  },
+  {
+    "author": [
+      {
+        "family": "Vitek",
+        "given": "E."
+      }
+    ],
+    "title": "Euphrasia L.—Augentrost",
+    "editor": [
+      {
+        "family": "Jäger",
+        "given": "E.J."
+      },
+      {
+        "family": "Werner",
+        "given": "K."
+      }
+    ],
+    "volume": "4",
+    "publisher": "Kritischer Band. Spektrum Akademischer Verlag",
+    "type": "article-journal",
+    "container-title": "Bd",
+    "issued": "2002",
+    "page": "575–578",
+    "publisher-place": "Gefäßpflanzen"
+  },
+  {
+    "author": [
+      {
+        "literal": "Wettstein von, R."
+      }
+    ],
+    "title": "Untersuchungen über Pflanzen der österreichisch-ungarischen Monarchie. II. Die Arten der Gattung Euphrasia",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Österreichische Botanische Zeitschrift",
+    "issued": "1894",
+    "page": "92 97",
+    "URL": "http://dx.doi.org/10.1007/bf01794988",
+    "DOI": "10.1007/bf01794988"
+  },
+  {
+    "author": [
+      {
+        "literal": "Wettstein von, R."
+      }
+    ],
+    "title": "Monographie der Gattung Euphrasia. Arbeiten des botanischen Instituts der k",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "k. deutschen Universität in Prag",
+    "issued": "1896",
+    "page": "1–316"
+  },
+  {
+    "author": [
+      {
+        "family": "Yeo",
+        "given": "P.F."
+      }
+    ],
+    "title": "Euphrasia L",
+    "editor": [
+      {
+        "given": "In"
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea 3",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "257–266",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H"
+  },
+  {
+    "author": [
+      {
+        "family": "Yeo",
+        "given": "P.F."
+      }
+    ],
+    "title": "A taxonomic revision of Euphrasia in Europe",
+    "volume": "77",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1978",
+    "page": "223–334",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1978.tb01401.x",
+    "DOI": "10.1111/j.1095-8339.1978.tb01401.x"
+  }
+]

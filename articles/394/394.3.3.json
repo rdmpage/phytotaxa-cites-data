@@ -1,0 +1,196 @@
+[
+  {
+    "author": [
+      {
+        "family": "Balfour",
+        "given": "I.B."
+      }
+    ],
+    "title": "Diagnoses plantarum novarum et imperfecte descriptarum Phanerogamarum Socotrensium. Pars prima",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Royal Society of Edinburgh",
+    "issued": "1882",
+    "page": "498–514",
+    "URL": "https://doi.org/10.1017/S0370164600047702",
+    "DOI": "10.1017/S0370164600047702"
+  },
+  {
+    "author": [
+      {
+        "family": "Birdwood",
+        "given": "G."
+      }
+    ],
+    "title": "On the genus Boswellia, with descriptions and figures of three new species",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1870",
+    "page": "111–148",
+    "URL": "https://doi.org/10.1111/j.1096-3642.1870.tb00205.x",
+    "DOI": "10.1111/j.1096-3642.1870.tb00205.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Colebrooke",
+        "given": "H.T."
+      }
+    ],
+    "title": "On olibanum or frankincense",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Asiatic Researches, or Transactions of the Society",
+    "issued": "1807",
+    "page": "377–382"
+  },
+  {
+    "author": [
+      {
+        "family": "Flückiger",
+        "given": "F.A."
+      }
+    ],
+    "title": "Lehrbuch der Pharmakognosie des Pflanzenreiches. Naturgeschichte der wichtigeren Arzneistoffe vegetabilischen Ursprunges",
+    "publisher": "Gaertner",
+    "type": "book",
+    "issued": "1867",
+    "page": "748",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Hepper",
+        "given": "F.N."
+      }
+    ],
+    "title": "Boswellia nana and B. popoviana",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Hookerʼs Icones Plantarum Ser",
+    "issue": "4",
+    "issued": "1971",
+    "page": "3677"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria",
+    "edition": "Version 3.1",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "2",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberleyʼs plant-book",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Cambridge University Press, UK",
+    "type": "book",
+    "issued": "2017",
+    "page": "4",
+    "URL": "https://doi.org/10.1017/9781316335581",
+    "DOI": "10.1017/9781316335581"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "A.G."
+      },
+      {
+        "family": "Morris",
+        "given": "M."
+      }
+    ],
+    "title": "Ethnoflora of the Soqotra archipelago",
+    "publisher": "Royal Botanic Garden",
+    "type": "book",
+    "issued": "2004",
+    "page": "759",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Thulin",
+        "given": "M."
+      }
+    ],
+    "title": "Burseraceae",
+    "editor": [
+      {
+        "family": "Thulin",
+        "given": "M."
+      }
+    ],
+    "container-title": "Flora of Somalia",
+    "volume": "2",
+    "publisher": "Royal Botanic Gardens",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "183–228",
+    "publisher-place": "Kew, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Thulin",
+        "given": "M."
+      },
+      {
+        "family": "Al-Gifri",
+        "given": "A."
+      }
+    ],
+    "title": "The frankincense trees (Boswellia spp.) on Soqotra",
+    "editor": [
+      {
+        "family": "Dumont",
+        "given": "H.J."
+      }
+    ],
+    "container-title": "Proceedings of the first international symposium on Soqotra Island: present and future",
+    "publisher": "United Nations Publications",
+    "type": "paper-conference",
+    "issued": "1996",
+    "page": "107–113",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Thulin",
+        "given": "M."
+      },
+      {
+        "family": "Warfa",
+        "given": "A.M."
+      }
+    ],
+    "title": "The frankincense trees (Boswellia spp., Burseraceae) of northern Somalia and southern Arabia",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1987",
+    "page": "487–500",
+    "URL": "https://doi.org/10.2307/4110063",
+    "DOI": "10.2307/4110063"
+  }
+]

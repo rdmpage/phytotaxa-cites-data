@@ -1,0 +1,996 @@
+[
+  {
+    "author": [
+      {
+        "family": "Acharius",
+        "given": "E."
+      }
+    ],
+    "title": "Methodus qua omnes detectos lichenes secundum organa carpomorpha ad genera, species et varietates redigere atque observationibus illustrare tentavit Erik Acharius (Methodus Lichenum",
+    "publisher": "F.D.D. Ulrich",
+    "type": "book",
+    "issued": "1803",
+    "page": "394",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Aptroot",
+        "given": "A."
+      }
+    ],
+    "title": "New lichens and lichen records from Papua New Guinea, with the description of Crustospathula, a new genus in the Bacidiaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Tropical Bryology",
+    "issued": "1998",
+    "page": "25–34"
+  },
+  {
+    "author": [
+      {
+        "family": "Arnold",
+        "given": "F."
+      }
+    ],
+    "title": "Lichenologische Ausflüge in Tirol. XXII",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Sulden. Verhandlungen der Zoologisch-Botanischen Gesellschaft Wien",
+    "issued": "1886",
+    "page": "61 88"
+  },
+  {
+    "author": [
+      {
+        "family": "Breuss",
+        "given": "O."
+      }
+    ],
+    "title": "Verrucaria",
+    "editor": [
+      {
+        "family": "T.H.",
+        "given": "Nash",
+        "suffix": "III"
+      },
+      {
+        "family": "Gries",
+        "given": "C."
+      },
+      {
+        "family": "Bungartz",
+        "given": "F."
+      }
+    ],
+    "container-title": "Lichen Flora of the Greater Sonoran Desert Region",
+    "volume": "3",
+    "publisher": "Arizona State University",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "335–377",
+    "publisher-place": "Tempe"
+  },
+  {
+    "author": [
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Roux",
+        "given": "C."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Using a multigene phylogenetic analysis to assess generic delineation and character evolution in Verrucariaceae (Verrucariale, Ascomycota",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2007",
+    "page": "1147 1168",
+    "URL": "http://dx.doi.org/10.1016/j.mycres.2007.08.010",
+    "DOI": "10.1016/j.mycres.2007.08.010"
+  },
+  {
+    "author": [
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Ruibal Villaseñor",
+        "given": "C."
+      },
+      {
+        "family": "Hoog",
+        "given": "G.S.",
+        "particle": "de"
+      },
+      {
+        "family": "Gorbushina",
+        "given": "A.A."
+      },
+      {
+        "family": "Untereiner",
+        "given": "W.A."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "A rock-inhabiting ancestor for mutualistic and pathogen-rich fungal lineages",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2008",
+    "page": "111–119",
+    "URL": "http://dx.doi.org/10.3114/sim.2008.61.11",
+    "DOI": "10.3114/sim.2008.61.11"
+  },
+  {
+    "author": [
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Savić",
+        "given": "S."
+      },
+      {
+        "family": "Thüs",
+        "given": "H."
+      },
+      {
+        "family": "Keller",
+        "given": "C."
+      },
+      {
+        "family": "Tibell",
+        "given": "L."
+      },
+      {
+        "family": "Prieto",
+        "given": "M."
+      },
+      {
+        "family": "Heidmarsson",
+        "given": "S."
+      },
+      {
+        "family": "Breuss",
+        "given": "O."
+      },
+      {
+        "family": "Orange",
+        "given": "A."
+      },
+      {
+        "family": "Fröberg",
+        "given": "L."
+      },
+      {
+        "family": "Amtoft",
+        "given": "W.A."
+      },
+      {
+        "family": "Navarro-Rosines",
+        "given": "P."
+      },
+      {
+        "family": "Krzewicka",
+        "given": "B."
+      },
+      {
+        "family": "Pykälä",
+        "given": "J."
+      },
+      {
+        "family": "Martin",
+        "given": "G."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Generic classification of the Verrucariaceae (Ascomycota) based on molecular and morphological evidence: recent progress and remaining challenges",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2009",
+    "page": "184 208"
+  },
+  {
+    "author": [
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Thüs",
+        "given": "H."
+      },
+      {
+        "family": "Pérez-Ortega",
+        "given": "S."
+      }
+    ],
+    "title": "Phylogenetic position of the brown algae-associated lichenized fungus Verrucaria tavaresiae (Verrucariaceae",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "The Bryologist",
+    "issued": "2011",
+    "page": "563–569",
+    "URL": "http://dx.doi.org/10.1639/0007-2745-114.3.563",
+    "DOI": "10.1639/0007-2745-114.3.563"
+  },
+  {
+    "author": [
+      {
+        "family": "Guzow-Krzeminska",
+        "given": "B."
+      },
+      {
+        "family": "Halda",
+        "given": "J.P."
+      },
+      {
+        "family": "Czarnota",
+        "given": "P."
+      }
+    ],
+    "title": "A new Agonimia from Europe with a flabelliform thallus",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2012",
+    "page": "55 66",
+    "URL": "http://dx.doi.org/10.1017/S0024282911000600",
+    "DOI": "10.1017/S0024282911000600"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      }
+    ],
+    "title": "Notes on aquatic species of Verrucaria",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "1989",
+    "page": "23 28"
+  },
+  {
+    "author": [
+      {
+        "family": "Krzewicka",
+        "given": "B."
+      }
+    ],
+    "title": "A revision of Verrucaria s.l. (Verrucariaceae) in Poland",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Polish Botanical Studies",
+    "issued": "2012",
+    "page": "1 141"
+  },
+  {
+    "author": [
+      {
+        "family": "Laundon",
+        "given": "J.R."
+      },
+      {
+        "given": "WaterfieldA"
+      }
+    ],
+    "title": "Borrer’s lichens in the Supplement to the English Botany 1829-1866",
+    "volume": "154",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2007",
+    "page": "381–392",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2007.00656.x",
+    "DOI": "10.1111/j.1095-8339.2007.00656.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      },
+      {
+        "family": "Wagner",
+        "given": "P."
+      },
+      {
+        "family": "Reeb",
+        "given": "V."
+      },
+      {
+        "family": "Zoller",
+        "given": "S."
+      }
+    ],
+    "title": "Integrating ambiguously aligned regions of DNA sequences in phylogenetic analyses without violating positional homology",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2000",
+    "page": "628–651",
+    "URL": "http://dx/doi.10.1080/106351500750049743"
+  },
+  {
+    "author": [
+      {
+        "family": "Maddison",
+        "given": "W.P."
+      },
+      {
+        "family": "Maddison",
+        "given": "D.R."
+      }
+    ],
+    "title": "MacClade: Analysis of Phylogeny and Character Evolution, Version 4.6",
+    "type": null,
+    "issued": "2003",
+    "publisher-place": "Sinauer, Sunderland, MA"
+  },
+  {
+    "author": [
+      {
+        "family": "Mason-Gamer",
+        "given": "R."
+      },
+      {
+        "family": "Kellog",
+        "given": "E."
+      }
+    ],
+    "title": "Testing for phylogenetic conflict among molecular datasets in the tribe Triticeae (Graminae",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1996",
+    "page": "524–545"
+  },
+  {
+    "author": [
+      {
+        "family": "McCarthy",
+        "given": "P."
+      }
+    ],
+    "title": "Verrucaria",
+    "editor": [
+      {
+        "family": "McCarthy",
+        "given": "P."
+      }
+    ],
+    "container-title": "Flora of Australia",
+    "volume": null,
+    "issue": "ens",
+    "type": "article-journal",
+    "issued": "2001",
+    "page": "176–196"
+  },
+  {
+    "author": [
+      {
+        "family": "Nascimbene",
+        "given": "J."
+      },
+      {
+        "family": "Thüs",
+        "given": "H."
+      },
+      {
+        "family": "Marini",
+        "given": "L."
+      },
+      {
+        "family": "Nimis",
+        "given": "P.L."
+      }
+    ],
+    "title": "Freshwater lichens in springs of the eastern Italian Alps: floristics, ecology and potential for bioindication",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Annales de Limnologie – International Journal of Limnology",
+    "issued": "2007",
+    "page": "285–292",
+    "URL": "http://dx.doi.org/10.1051/limn:2007006",
+    "DOI": "10.1051/limn:2007006"
+  },
+  {
+    "author": [
+      {
+        "family": "Nascimbene",
+        "given": "J."
+      },
+      {
+        "family": "Thüs",
+        "given": "H."
+      },
+      {
+        "family": "Marini",
+        "given": "L."
+      },
+      {
+        "family": "Nimis",
+        "given": "P.L."
+      }
+    ],
+    "title": "Early colonization of stone by freshwater lichens of restored habitats: a case study in northern Italy",
+    "volume": "407",
+    "type": "article-journal",
+    "container-title": "Science of the Total Environment",
+    "issued": "2009",
+    "page": "5001 5006",
+    "URL": "http://dx.doi.org/10.1016/j.scitotenv.2009.06.012",
+    "DOI": "10.1016/j.scitotenv.2009.06.012"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      }
+    ],
+    "title": "Two parasitic species of Placopyrenium (Verrucariaceae) from freshwater habitats in north-western Europe",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2009",
+    "page": "131 139",
+    "URL": "http://dx.doi.org/10.1017/S002428290900841X",
+    "DOI": "10.1017/S002428290900841X"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      }
+    ],
+    "title": "Verrucaria",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "C.W."
+      },
+      {
+        "family": "Aptroot",
+        "given": "A."
+      },
+      {
+        "family": "Coppins",
+        "given": "B.J."
+      },
+      {
+        "family": "Fletcher",
+        "given": "A."
+      },
+      {
+        "family": "Gilbert",
+        "given": "O.L."
+      },
+      {
+        "family": "James",
+        "given": "P.W."
+      },
+      {
+        "family": "Wolseley",
+        "given": "P.A."
+      }
+    ],
+    "container-title": "Lichens of Great Britain and Ireland",
+    "publisher": "The British Lichen Society",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "931 957",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      }
+    ],
+    "title": "Semi-cryptic marine species of Hydropunctaria (Verrucariaceae, lichenised Ascomycota) from north-west Europe",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2012",
+    "page": "299 320",
+    "URL": "http://dx.doi.org/10.1017/S0024282911000867",
+    "DOI": "10.1017/S0024282911000867"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      }
+    ],
+    "title": "Four new species of Verrucaria (Verrucariaceae, lichenised Ascomycota) from freshwater habitats in Europe",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2013",
+    "page": "305 322",
+    "URL": "http://dx.doi.org/10.1017/S0024282912000898",
+    "DOI": "10.1017/S0024282912000898"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "Modeltest: testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818"
+  },
+  {
+    "author": [
+      {
+        "family": "Poulton",
+        "given": "E.M."
+      }
+    ],
+    "title": "The structure and life-history of Verrucaria margacea Wahl. an aquatic lichen",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "1914",
+    "page": "241 249"
+  },
+  {
+    "author": [
+      {
+        "family": "Pykälä",
+        "given": "J."
+      }
+    ],
+    "title": "Additions to the lichen flora of Finland",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "V. Graphis Scripta",
+    "issued": "2010",
+    "page": "54 62"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "R."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.F."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180.",
+    "DOI": "10.1093/bioinformatics/btg180."
+  },
+  {
+    "author": [
+      {
+        "family": "Savić",
+        "given": "S."
+      },
+      {
+        "family": "Tibell",
+        "given": "L."
+      }
+    ],
+    "title": "Atla, a new genus in the Verrucariaceae (Verrucariales",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2008",
+    "page": "269 282",
+    "URL": "http://dx.doi.org/10.1017/S0024282908007512",
+    "DOI": "10.1017/S0024282908007512"
+  },
+  {
+    "author": [
+      {
+        "family": "Savić",
+        "given": "S."
+      },
+      {
+        "family": "Tibell",
+        "given": "L."
+      }
+    ],
+    "title": "The lichen genus Henrica (Verrucariaceae, Eurotiomycetes) in northern Europe",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2008",
+    "page": "237 247",
+    "URL": "http://dx.doi.org/10.1111/j.1756-1051.2008.00216.x",
+    "DOI": "10.1111/j.1756-1051.2008.00216.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Savić",
+        "given": "S."
+      },
+      {
+        "family": "Tibell",
+        "given": "L."
+      },
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Molecular phylogeny and systematics of Polyblastia (Verrucariaceae, Eurotiomycetes) and allied genera",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2008",
+    "page": "1307",
+    "URL": "http://dx.doi.org/10.1016/j.mycres.2008.05.002",
+    "DOI": "10.1016/j.mycres.2008.05.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Servít",
+        "given": "M."
+      }
+    ],
+    "title": "The new lichens of the Pyrenocarpae-Group, III",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Studia Botanica Cechoslovaca",
+    "issued": "1950",
+    "page": "7 41"
+  },
+  {
+    "author": [
+      {
+        "family": "Servít",
+        "given": "M."
+      }
+    ],
+    "title": "Nové amálo známé druhy z čeledí Verrucariaceae a Dermatocarpaceae",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Preslia",
+    "issued": "1952",
+    "page": "345 390"
+  },
+  {
+    "author": [
+      {
+        "family": "Servít",
+        "given": "M."
+      }
+    ],
+    "title": "Československé Lisejniky Celedi Verrucariaceae. Lichenes Familiae Verrucariacearum",
+    "publisher": "Nakladatelstvi Československé Akademie Vĕd, Praha",
+    "type": "book",
+    "issued": "1954",
+    "page": "249"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "K.P."
+      },
+      {
+        "family": "Sinha",
+        "given": "G.P."
+      }
+    ],
+    "title": "Indian Lichens: An Annotated Checklist. - Botanical Survey of India, Ministry of Environment and Forests",
+    "type": null,
+    "issued": "2010",
+    "page": "572",
+    "publisher-place": "Salt Lake City, Kolkata, India"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Ludwig",
+        "given": "T."
+      },
+      {
+        "family": "Meier",
+        "given": "H."
+      }
+    ],
+    "title": "RAxML-III: A fast program for maximum likelihood-based inference of large phylogenetic trees",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2005",
+    "page": "456–463"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Rougemont",
+        "given": "J."
+      }
+    ],
+    "title": "A rapid bootstrap algorithm for the RAxML web-servers",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2008",
+    "page": "758–771"
+  },
+  {
+    "author": [
+      {
+        "family": "Swinscow",
+        "given": "T.D.V."
+      }
+    ],
+    "title": "Pyrenocarpous lichens: 13. Freshwater species of Verrucaria in the British Isles",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "1968",
+    "page": "34 54"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*. Phylogenetic analysis using parsimony (*and other methods",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Ver",
+    "issue": "0b3a",
+    "issued": "1999",
+    "publisher-place": "Sinauer Associates, Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomson",
+        "given": "J.W."
+      }
+    ],
+    "title": "American Arctic Lichens",
+    "container-title": "The Microlichens 2",
+    "publisher": "The University of Wisconsin Press, Madison",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "675"
+  },
+  {
+    "author": [
+      {
+        "family": "Thüs",
+        "given": "H."
+      }
+    ],
+    "title": "Taxonomie, Verbreitung und Ökologie silicoler Hydro-Verrucarien im außeralpinen Mitteleuropa",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Lichenologica",
+    "issued": "2002",
+    "page": "1–214"
+  },
+  {
+    "author": [
+      {
+        "family": "Thüs",
+        "given": "H."
+      }
+    ],
+    "title": "Neufunde und Gefährdung amphibischer Flechten aus dem Saarland und Rheinland-Pfalz",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Delattinia",
+    "issued": "2006",
+    "page": "127–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Thüs",
+        "given": "H."
+      },
+      {
+        "family": "Nascimbene",
+        "given": "J."
+      }
+    ],
+    "title": "Contributions towards a new taxonomy of Central European freshwater species of the lichen genus Thelidium (Verrucariaceae, Ascomycota",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2008",
+    "page": "499–521",
+    "URL": "http://dx.doi.org/10.1017/S0024282908007603",
+    "DOI": "10.1017/S0024282908007603"
+  },
+  {
+    "author": [
+      {
+        "family": "Thüs",
+        "given": "H."
+      },
+      {
+        "family": "Schultz",
+        "given": "M."
+      }
+    ],
+    "title": "Lichens",
+    "volume": "21",
+    "publisher": "Spektrum",
+    "type": "article-journal",
+    "container-title": "Freshwater Flora of Central Europe",
+    "issue": "1",
+    "issued": "2008",
+    "page": "224",
+    "publisher-place": "Heidelberg"
+  },
+  {
+    "author": [
+      {
+        "literal": "Thüs, H., Muggia, L., Pérez-Ortega, S. Favero-Longo, S.E., Joneson, S., O’Brien, H., Nelsen, M.P., Duque-Thüs, R., Grube, M., Friedl, T., Brodie, J., Andrew, C.J., Lücking, R., Lutzoni, F. & Gueidan, C."
+      }
+    ],
+    "title": "Revisiting photobiont diversity in the lichen family Verrucariaceae (Ascomycota",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "European Journal of Phycology",
+    "issued": "2011",
+    "page": "399–415",
+    "URL": "http://dx.doi.org/10.1080/09670262.2011.629788",
+    "DOI": "10.1080/09670262.2011.629788"
+  },
+  {
+    "author": [
+      {
+        "family": "Wirth",
+        "given": "V."
+      }
+    ],
+    "title": "Die Silikatflechten-Gemeinschaften im ausseralpinen Zentraleuropa",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Dissertiones Botanicae",
+    "issued": "1972",
+    "page": "1–306"
+  },
+  {
+    "author": [
+      {
+        "family": "Zschacke",
+        "given": "H."
+      }
+    ],
+    "title": "Die mitteleuropäischen Verrucariaceen IV",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Hedwigia",
+    "issued": "1924",
+    "page": "46–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Zschacke",
+        "given": "H."
+      }
+    ],
+    "title": "Die mitteleuropäischen Verrucariaceen V",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Hedwigia",
+    "issued": "1927",
+    "page": "45–85"
+  },
+  {
+    "author": [
+      {
+        "family": "Zschacke",
+        "given": "H."
+      }
+    ],
+    "title": "Epigloeaceae, Verrucariaceae und Dermatocarpaceae",
+    "editor": [
+      {
+        "family": "Kryptogamen-Flora",
+        "given": "Dr L.Rabenhorst‘s"
+      }
+    ],
+    "publisher": "Akademische Verlagsanstalt, Leipzig",
+    "type": "book",
+    "issued": "1934",
+    "page": "481–695"
+  },
+  {
+    "author": [
+      {
+        "family": "Zoller",
+        "given": "S."
+      },
+      {
+        "family": "Scheidegger",
+        "given": "C."
+      },
+      {
+        "family": "Sperisen",
+        "given": "C."
+      }
+    ],
+    "title": "PCR primers for the amplification of mitochondrial small subunit ribosomal DNA of lichen-forming ascomycetes",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "The Lichenologist",
+    "issued": "1999",
+    "page": "511–516"
+  }
+]

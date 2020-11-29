@@ -1,0 +1,82 @@
+[
+  {
+    "author": [
+      {
+        "family": "Middleton",
+        "given": "D.J."
+      },
+      {
+        "family": "Atkins",
+        "given": "H."
+      },
+      {
+        "family": "Luu",
+        "given": "H.T."
+      },
+      {
+        "family": "Nishii",
+        "given": "K."
+      },
+      {
+        "family": "Möller",
+        "given": "M."
+      }
+    ],
+    "title": "Billolivia, a new genus of Gesneriaceae from Vietnam with five new species",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2014",
+    "page": "241–269",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.161.4.1",
+    "DOI": "10.11646/phytotaxa.161.4.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Middleton",
+        "given": "D.J."
+      },
+      {
+        "family": "Leong-Škorničková",
+        "given": "J."
+      },
+      {
+        "family": "Nguyễn",
+        "given": "Q.B."
+      }
+    ],
+    "title": "A new species of Billolivia (Gesneriaceae) from Vietnam",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Gardens’ Bulletin Singapore",
+    "issued": "2014",
+    "page": "189–194"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2012",
+    "publisher-place": "Gland and Cambridge"
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      },
+      {
+        "family": "Hollenberg",
+        "given": "G.J."
+      }
+    ],
+    "title": "Marine algae of California",
+    "publisher": "Stanford University Press",
+    "type": "book",
+    "issued": "1976",
+    "page": "827",
+    "publisher-place": "Stanford, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Aguilar-Rosas",
+        "given": "R."
+      },
+      {
+        "family": "Aguilar-Rosas",
+        "given": "L.E."
+      },
+      {
+        "family": "Ávila",
+        "given": "G."
+      },
+      {
+        "family": "González",
+        "given": "O."
+      },
+      {
+        "family": "Beanill",
+        "given": "F."
+      }
+    ],
+    "title": "Macroalgas submareales de la Bahía de Todos Santos, Baja California, México",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issued": "2010",
+    "page": "601–618"
+  },
+  {
+    "author": [
+      {
+        "family": "Dawson",
+        "given": "E.Y."
+      }
+    ],
+    "title": "Some new and unreported sublittoral algae from Cerros Island, Mexico",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Southern California Academy of Sciences",
+    "issued": "1945",
+    "page": "102–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Dawson",
+        "given": "E.Y."
+      }
+    ],
+    "title": "Marine red algae of Pacific Mexico. Part 6",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Rhodymeniales. Nova Hedwigia",
+    "issued": "1963",
+    "page": "437–476"
+  },
+  {
+    "author": [
+      {
+        "family": "Dereeper",
+        "given": "A."
+      },
+      {
+        "family": "Guignon",
+        "given": "V."
+      },
+      {
+        "family": "Blanc",
+        "given": "G."
+      },
+      {
+        "family": "Audic",
+        "given": "S."
+      },
+      {
+        "family": "Buffet",
+        "given": "S."
+      },
+      {
+        "family": "Chevenet",
+        "given": "F."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.F."
+      },
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Lescot",
+        "given": "M."
+      },
+      {
+        "family": "Claverie",
+        "given": "J.M."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "Phylogeny. fr: robust phylogenetic analysis for the non-specialist",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2008",
+    "page": "465–469",
+    "URL": "http://dx.doi.org/10.1093/nar/gkn180",
+    "DOI": "10.1093/nar/gkn180"
+  },
+  {
+    "author": [
+      {
+        "family": "Eiseman",
+        "given": "N.J."
+      },
+      {
+        "family": "Moe",
+        "given": "R.L."
+      }
+    ],
+    "title": "Maripelta atlantica sp. nov. (Rhodophyta, Rhodymeniales) a new deep-water alga from Florida",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "1981",
+    "page": "299–308",
+    "URL": "http://dx.doi.org/10.1111/j.1529-8817.1981.tb00855.x",
+    "DOI": "10.1111/j.1529-8817.1981.tb00855.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Giardine",
+        "given": "B."
+      },
+      {
+        "family": "Riemer",
+        "given": "C."
+      },
+      {
+        "family": "Hardison",
+        "given": "R.C."
+      },
+      {
+        "family": "Burhans",
+        "given": "R."
+      },
+      {
+        "family": "Elnitski",
+        "given": "L."
+      },
+      {
+        "family": "Shah",
+        "given": "P."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Blankenberg",
+        "given": "D."
+      },
+      {
+        "family": "Albert",
+        "given": "I."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      },
+      {
+        "family": "Miller",
+        "given": "W."
+      },
+      {
+        "family": "Kent",
+        "given": "W.J."
+      },
+      {
+        "family": "Nekrutenko",
+        "given": "A."
+      }
+    ],
+    "title": "Galaxy: a platform for interactive large-scale genome analysis",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Genome Research",
+    "issued": "2005",
+    "page": "1451–1455"
+  },
+  {
+    "author": [
+      {
+        "family": "Goecks",
+        "given": "J."
+      },
+      {
+        "family": "Nekrutenko",
+        "given": "A."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      },
+      {
+        "family": "Team",
+        "given": "The Galaxy"
+      }
+    ],
+    "title": "Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Genome Biology",
+    "issued": "2010",
+    "page": "86"
+  },
+  {
+    "author": [
+      {
+        "family": "Hommersand",
+        "given": "M.H."
+      },
+      {
+        "family": "Fredericq",
+        "given": "S."
+      },
+      {
+        "family": "Freshwater",
+        "given": "D.W."
+      }
+    ],
+    "title": "Phylogenetic systematics and biogeography of the Gigartinaceae (Gigartinales, Rhodophyta) based on sequence analysis of rbcL",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Botanica Marina",
+    "issued": "1994",
+    "page": "193–203",
+    "URL": "http://dx.doi.org/10.1515/botm.1994.37.3.193",
+    "DOI": "10.1515/botm.1994.37.3.193"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Nielsen",
+        "given": "R."
+      },
+      {
+        "family": "Bollback",
+        "given": "J.P."
+      }
+    ],
+    "title": "Bayesian inference of phylogeny and its impact on evolutionary biology",
+    "volume": "294",
+    "type": "article-journal",
+    "container-title": "Science",
+    "issued": "2001",
+    "page": "2310–2314",
+    "URL": "http://dx.doi.org/10.1126/science.1065889",
+    "DOI": "10.1126/science.1065889"
+  },
+  {
+    "author": [
+      {
+        "family": "Hughey",
+        "given": "J.R."
+      },
+      {
+        "family": "Gabrielson",
+        "given": "P.G."
+      }
+    ],
+    "title": "Comment on “Acquiring DNA sequence data from dried archival red algae (Florideophyceae) for the purpose of applying available names to contemporary genetic species: a critical assessment”",
+    "volume": "90",
+    "type": "article-journal",
+    "container-title": "Botany",
+    "issued": "2012",
+    "page": "191–203",
+    "URL": "http://dx.doi.org/10.1139/b2012-102",
+    "DOI": "10.1139/b2012-102"
+  },
+  {
+    "author": [
+      {
+        "family": "Le Gall",
+        "given": "L."
+      },
+      {
+        "family": "Dalen",
+        "given": "J.L."
+      },
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      }
+    ],
+    "title": "Phylogenetic analyses of the red algal order Rhodymeniales supports recognition of the Hymenocladiaceae fam",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "nov., Fryeellaceae fam. nov., and Neogastroclonium gen. nov. Journal of Phycology",
+    "issued": "2008",
+    "page": "1556–1571",
+    "URL": "http://dx.doi.org/10.1111/j.1529-8817.2008.00599.x",
+    "DOI": "10.1111/j.1529-8817.2008.00599.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindstrom",
+        "given": "S.C."
+      },
+      {
+        "family": "Hughey",
+        "given": "J.R."
+      },
+      {
+        "family": "Martone",
+        "given": "P.T."
+      }
+    ],
+    "title": "New, resurrected and redefined species of Mastocarpus (Phyllophoraceae, Rhodophyta) from the northeast Pacific",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2011",
+    "page": "661–683",
+    "URL": "http://dx.doi.org/10.2216/10-38.1",
+    "DOI": "10.2216/10-38.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindstrom",
+        "given": "S.C."
+      },
+      {
+        "family": "Hughey",
+        "given": "J.R."
+      },
+      {
+        "family": "Aguilar–Rosas",
+        "given": "L.E."
+      }
+    ],
+    "title": "Four new species of Pyropia (Bangiales, Rhodophyta) from the west coast of North America: the Pyropia lanceolata species complex updated",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Phytokeys",
+    "issued": "2015",
+    "page": "1–22",
+    "URL": "http://dx.doi.org/10.3897/phytokeys.52.5009",
+    "DOI": "10.3897/phytokeys.52.5009"
+  },
+  {
+    "author": [
+      {
+        "family": "Millar",
+        "given": "A.J.K."
+      }
+    ],
+    "title": "The genus Sciadophycus (Rhodymeniaceae, Rhodophyta) from the Indo-Pacific (Research Note",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2001",
+    "page": "168–171",
+    "URL": "http://dx.doi.org/10.2216/i0031-8884-40-2-168.1",
+    "DOI": "10.2216/i0031-8884-40-2-168.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      },
+      {
+        "family": "Strachan",
+        "given": "I.M."
+      },
+      {
+        "family": "Kraft",
+        "given": "G.T."
+      }
+    ],
+    "title": "The families of the order Rhodymeniales (Rhodophyta): a molecular-systematic investigation with a description of Faucheaceae fam. nov",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "1999",
+    "page": "23–40",
+    "URL": "http://dx.doi.org/10.2216/i0031-8884-38-1-23.1",
+    "DOI": "10.2216/i0031-8884-38-1-23.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Rougemont",
+        "given": "J."
+      }
+    ],
+    "title": "A Rapid Bootstrap Algorithm for the RAxML Web-Servers",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2008",
+    "page": "758–771",
+    "URL": "http://dx.doi.org/10.1080/10635150802429642",
+    "DOI": "10.1080/10635150802429642"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "W.R."
+      }
+    ],
+    "title": "Pacific marine algae of the Allan Hancock Expeditions to the Galapagos Islands",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Allan Hancock Pacific Expeditions",
+    "issued": "1945",
+    "page": "1–528"
+  }
+]

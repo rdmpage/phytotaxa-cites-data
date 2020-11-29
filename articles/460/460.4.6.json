@@ -1,0 +1,1975 @@
+[
+  {
+    "author": [
+      {
+        "family": "Albertó",
+        "given": "E."
+      },
+      {
+        "family": "Petersen",
+        "given": "R.H."
+      },
+      {
+        "family": "Hughes",
+        "given": "K.W."
+      },
+      {
+        "family": "Lechner",
+        "given": "B.E."
+      }
+    ],
+    "title": "Miscellaneous notes on Pleurotus",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2002",
+    "page": "55–69"
+  },
+  {
+    "author": [
+      {
+        "family": "Alfaro",
+        "given": "M.E."
+      },
+      {
+        "family": "Zoller",
+        "given": "S."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Bayes or bootstrap? A simulation study comparing the performance of Bayesian Markov Chain Monte Carlo sampling and bootstrapping in assessing phylogenetic confidence",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2003",
+    "page": "255–266",
+    "URL": "https://doi.org/10.1093/molbev/msg028",
+    "DOI": "10.1093/molbev/msg028"
+  },
+  {
+    "author": [
+      {
+        "family": "Bao",
+        "given": "D.Kinugasa"
+      },
+      {
+        "given": "S."
+      },
+      {
+        "family": "Kitamoto",
+        "given": "Y."
+      }
+    ],
+    "title": "The biological species of oyster mushrooms (Pleurotus spp.) from Asia based on mating compatibility tests",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Journal of Wood Science",
+    "issued": "2004",
+    "page": "162–168",
+    "URL": "https://doi.org/10.1007/s10086-003-0540-z",
+    "DOI": "10.1007/s10086-003-0540-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "B.N."
+      },
+      {
+        "family": "Roy",
+        "given": "S."
+      },
+      {
+        "family": "Barman",
+        "given": "S."
+      },
+      {
+        "family": "Chakraborty",
+        "given": "U."
+      }
+    ],
+    "title": "Development of an easy and efficient technique for cultivation of different species of Pleurotus",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "NBU Journal of Plant Sciences",
+    "issued": "2014",
+    "page": "13–18"
+  },
+  {
+    "author": [
+      {
+        "family": "Chandrasrikul",
+        "given": "A.Suwanarit"
+      },
+      {
+        "family": "P.",
+        "given": "Sangwanit"
+      },
+      {
+        "family": "U.",
+        "given": "Lumyong"
+      },
+      {
+        "family": "S.",
+        "given": "Payapanon"
+      },
+      {
+        "family": "A.",
+        "given": "Sanoamuang"
+      },
+      {
+        "family": "N.",
+        "given": "Pukahuta"
+      },
+      {
+        "family": "C.",
+        "given": "Petcharat"
+      },
+      {
+        "family": "V.",
+        "given": "Sardsud"
+      },
+      {
+        "family": "U.",
+        "given": "Duengkae"
+      },
+      {
+        "family": "K.",
+        "given": "Klinhom"
+      },
+      {
+        "family": "U.",
+        "given": "Thongkantha"
+      },
+      {
+        "given": "S."
+      },
+      {
+        "family": "Thongklam",
+        "given": "S."
+      }
+    ],
+    "title": "Mushroom (basidiomycetes) in Thailand",
+    "publisher": "Office of Natural Resources and Environmental Policy and Planning",
+    "type": "book",
+    "issued": "2011",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "literal": "Cohen, R., Persky, L. &Hadar, Y."
+      }
+    ],
+    "title": "Biotechnological applications and potential of wood degrading mushrooms of the genus Pleurotus",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Applied Microbiology and Biotechnology",
+    "issued": "2002",
+    "page": "582–594",
+    "URL": "https://doi.org/10.1007/s00253-002-0930-y",
+    "DOI": "10.1007/s00253-002-0930-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Corner",
+        "given": "E.J.H."
+      }
+    ],
+    "title": "The agaric genera Lentinus, Panus, and Pleurotus with particular reference to Malaysian species",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Beiheftezur Nova Hedwigia",
+    "issued": "1981",
+    "page": "1–169"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2004",
+    "page": "1792–1797",
+    "URL": "https://doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence intervals on phylogenetics: an approach using bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "https://doi.org/10.1111/j.1558-5646.1985.tb00420.x",
+    "DOI": "10.1111/j.1558-5646.1985.tb00420.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Harder",
+        "given": "C.B."
+      },
+      {
+        "family": "Lassoe",
+        "given": "T."
+      },
+      {
+        "family": "Kjoller",
+        "given": "R."
+      },
+      {
+        "family": "Froslev",
+        "given": "T.G."
+      }
+    ],
+    "title": "A comparison between ITS phylogenetic relationships and morphological species recognition within Mycena sect",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Calodontes in Northern Europe. Mycological Progress",
+    "issued": "2010",
+    "page": "395–405",
+    "URL": "https://doi.org/10.1007/s11557-009-0648-7",
+    "DOI": "10.1007/s11557-009-0648-7"
+  },
+  {
+    "author": [
+      {
+        "literal": "He, M.Q., Zhao, R.L., Hyde, K.D., Begerow, D., Kemler, M., Yurkov, A., McKenzie, E.H.C., Raspé, O., Kakishima, M., Sánchez-Ramírez, S., Vellinga, E.C., Halling, R., Papp, V., Zmitrovich, I.V., Buyck, B., Ertz, D., Wijayawardene, N.N., Cui, B.K., Schoutteten, N., Liu, X.Z., Li, T.H., Yao, Y.J., Zhu, X.Y., Liu, A.Q., Li, G.J., Zhang, M.Z., Ling, Z.L., Cao, B., Antonín, V., Boekhout, T., Da Silva, B.D.B., De Crop, E., Decock, C., Dima, B., Dutta, A.K., Fell, J.W., Geml, J., Ghobad-Nejhad, M., Giachini, A.J., Gibertoni, T.B., Gorjón, S.P., Haelewaters, D., He, S.H., Hodkinson, B.P., Horak, E., Hoshino, T., Justo, A., Lim, Y.W., Menolli Jr, N., Mešić, A., Moncalvo, J.M., Mueller, G.M., Nagy, L.G., Nilsson, R.H., Noordeloos, M., Nuytinck, J., Orihara, T., Ratchadawan, C., Rajchenberg, M., Silva-Filho, A.G.S., Sulzbacher, M.A., Tkalčec, Z., Valenzuela, R., Verbeken, A., Vizzini, A., Wartchow, F., Wei, T.Z., Weiß, M., Zhao, C.L. & Kirk, P.M."
+      }
+    ],
+    "title": "Notes, outline and divergence times of Basidiomycota",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2019",
+    "page": "105–367",
+    "URL": "https://doi.org/10.1007/s13225-019-00435-4",
+    "DOI": "10.1007/s13225-019-00435-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Hillis",
+        "given": "D.M."
+      },
+      {
+        "family": "Bull",
+        "given": "J.J."
+      }
+    ],
+    "title": "An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analysis",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1993",
+    "page": "182–192",
+    "URL": "https://doi.org/10.1093/sysbio/42.2.182",
+    "DOI": "10.1093/sysbio/42.2.182"
+  },
+  {
+    "author": [
+      {
+        "family": "Hilber",
+        "given": "O."
+      }
+    ],
+    "title": "The taxa of the genus Pleurotus - a key for determination",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Mitteilungen Versuchsanstalt Pilzanbau Landw. Kammer Rheinland",
+    "issued": "1993",
+    "page": "57–63"
+  },
+  {
+    "author": [
+      {
+        "family": "Homolka",
+        "given": "L."
+      },
+      {
+        "family": "Lisa",
+        "given": "L."
+      },
+      {
+        "family": "Eichlerova",
+        "given": "I."
+      },
+      {
+        "family": "Valaskova",
+        "given": "V."
+      },
+      {
+        "family": "Baldrian",
+        "given": "P."
+      }
+    ],
+    "title": "Effect of long-term preservation of basidiomycetes on perlite in liquid nitrogen on their growth, morphological, enzymatic and genetic characteristics",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Fungal Biology",
+    "issued": "2010",
+    "page": "929–935",
+    "URL": "https://doi.org/10.1016/j.funbio.2010.08.009",
+    "DOI": "10.1016/j.funbio.2010.08.009"
+  },
+  {
+    "author": [
+      {
+        "family": "Huerta",
+        "given": "G."
+      },
+      {
+        "family": "Martinez-Carrera",
+        "given": "D."
+      },
+      {
+        "family": "Sanchez",
+        "given": "J.E."
+      },
+      {
+        "family": "Leal-Lara",
+        "given": "H."
+      },
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      }
+    ],
+    "title": "Genetic relationship between Mexican species of Pleurotus analyzing the ITS-region from rDNA",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Micologia Aplicada International",
+    "issued": "2015",
+    "page": "15–25"
+  },
+  {
+    "author": [
+      {
+        "family": "Junior",
+        "given": "N.M."
+      },
+      {
+        "family": "Asai",
+        "given": "T."
+      },
+      {
+        "family": "Capelari",
+        "given": "M."
+      },
+      {
+        "family": "Paccola-Meirelles",
+        "given": "L.D."
+      }
+    ],
+    "title": "Morphological and molecular identification of four brazilian commercial isolates of Pleurotus spp. and cultivation on corncob",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Brazilian Archives of Biology and Technology",
+    "issued": "2010",
+    "page": "397–408",
+    "URL": "https://doi.org/10.1590/S1516-89132010000200019",
+    "DOI": "10.1590/S1516-89132010000200019"
+  },
+  {
+    "author": [
+      {
+        "family": "Junior",
+        "given": "N.M."
+      },
+      {
+        "family": "Breternitz",
+        "given": "B.S."
+      },
+      {
+        "family": "Capelari",
+        "given": "M."
+      }
+    ],
+    "title": "The genus Pleurotus in Brazil: a molecular and taxonomic overview",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2014",
+    "page": "378–389",
+    "URL": "https://doi.org/10.1016/j.myc.2013.12.001",
+    "DOI": "10.1016/j.myc.2013.12.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Khan",
+        "given": "S.M."
+      },
+      {
+        "family": "Nawaz",
+        "given": "A."
+      },
+      {
+        "family": "Malik",
+        "given": "W."
+      },
+      {
+        "family": "Javed",
+        "given": "N."
+      },
+      {
+        "family": "Yasmin",
+        "given": "T."
+      },
+      {
+        "family": "Rehman",
+        "given": "M."
+      },
+      {
+        "family": "Qayyum",
+        "given": "A."
+      },
+      {
+        "family": "Iqbal",
+        "given": "Q."
+      },
+      {
+        "family": "Ahmad",
+        "given": "T."
+      },
+      {
+        "family": "Khan",
+        "given": "A.A."
+      }
+    ],
+    "title": "Morphological and molecular characterization of oyster mushroom (Pleurotus spp",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "African Journal of Biotechnology",
+    "issued": "2011",
+    "page": "2638–2643",
+    "URL": "https://doi.org/10.5897/AJB10.499",
+    "DOI": "10.5897/AJB10.499"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Minter",
+        "given": "D."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Dictionary of the fungi",
+    "edition": "10th",
+    "publisher": "CAB International",
+    "type": "book",
+    "issued": "2008",
+    "publisher-place": "Wallingford"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of colour, 3nded",
+    "publisher": "Eyre Methuen, London",
+    "type": "book",
+    "issued": "1978",
+    "page": "252"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumla",
+        "given": "J."
+      },
+      {
+        "family": "Suwannarach",
+        "given": "N."
+      },
+      {
+        "family": "Jaiyasen",
+        "given": "A."
+      },
+      {
+        "family": "Bussaban",
+        "given": "B."
+      },
+      {
+        "family": "Lumyong",
+        "given": "S."
+      }
+    ],
+    "title": "Development of an edible wild strain of Thai oyster mushroom for economic mushroom production",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Chiang Mai Journal of Science",
+    "issued": "2013",
+    "page": "161–172"
+  },
+  {
+    "author": [
+      {
+        "family": "Kummer",
+        "given": "P."
+      }
+    ],
+    "title": "De Führer in die Pizkunde",
+    "type": null,
+    "issued": "1871",
+    "page": "146",
+    "publisher-place": "Luppe, Zerbst"
+  },
+  {
+    "author": [
+      {
+        "family": "Lechner",
+        "given": "B.E."
+      },
+      {
+        "family": "Wright",
+        "given": "J.E."
+      },
+      {
+        "family": "Albertó",
+        "given": "E."
+      }
+    ],
+    "title": "The genus Pleurotus in Argentina",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2004",
+    "page": "845–858",
+    "URL": "https://doi.org/10.2307/3762117",
+    "DOI": "10.2307/3762117"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "J."
+      },
+      {
+        "family": "He",
+        "given": "X."
+      },
+      {
+        "family": "Lui",
+        "given": "X.B."
+      },
+      {
+        "family": "Zhao",
+        "given": "Z.W."
+      }
+    ],
+    "title": "Species clarification of oyster mushrooms in China and their DNA barcoding",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2017",
+    "page": "191–203",
+    "URL": "https://doi.org/10.1007/s11557-016-1266-9",
+    "DOI": "10.1007/s11557-016-1266-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Lui",
+        "given": "X.B."
+      },
+      {
+        "family": "Li",
+        "given": "J."
+      },
+      {
+        "family": "Horak",
+        "given": "E."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Pleurotus placentodes, originally described from Sikkim, rediscovered after 164 years",
+    "volume": "267",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2016",
+    "page": "137–145",
+    "URL": "https://doi.org/10.11646/phytotaxa.267.2.6",
+    "DOI": "10.11646/phytotaxa.267.2.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Lui",
+        "given": "X.B."
+      },
+      {
+        "family": "Liu",
+        "given": "J.W."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "A new edible mushroom resource, Pleurotus abieticola, in southwestern China",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "2015",
+    "page": "581–588",
+    "URL": "http://dx.doi.org/10.13346/j.mycosystema.150051",
+    "DOI": "10.13346/j.mycosystema.150051"
+  },
+  {
+    "author": [
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      },
+      {
+        "family": "KauV",
+        "given": "F."
+      },
+      {
+        "family": "Cox",
+        "given": "C.J."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "D."
+      },
+      {
+        "family": "Celio",
+        "given": "G."
+      },
+      {
+        "family": "Dentinger",
+        "given": "B."
+      },
+      {
+        "family": "Padamsee",
+        "given": "M."
+      },
+      {
+        "family": "Hibbett",
+        "given": "D."
+      },
+      {
+        "family": "James",
+        "given": "T.Y."
+      },
+      {
+        "family": "Baloch",
+        "given": "E."
+      },
+      {
+        "family": "Grube",
+        "given": "M."
+      },
+      {
+        "family": "Reeb",
+        "given": "V."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Schoch",
+        "given": "C."
+      },
+      {
+        "family": "Arnold",
+        "given": "A.E."
+      },
+      {
+        "family": "Miadlikowska",
+        "given": "J."
+      },
+      {
+        "family": "Spatafora",
+        "given": "J."
+      },
+      {
+        "family": "Johnson",
+        "given": "D."
+      },
+      {
+        "family": "Hambleton",
+        "given": "S."
+      },
+      {
+        "family": "Crockett",
+        "given": "M."
+      },
+      {
+        "family": "Shoemaker",
+        "given": "R."
+      },
+      {
+        "family": "Sung",
+        "given": "G.-H."
+      },
+      {
+        "family": "Lucking",
+        "given": "R."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "T."
+      },
+      {
+        "family": "O’Donnell",
+        "given": "K."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Ertz",
+        "given": "D."
+      },
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Hansen",
+        "given": "K."
+      },
+      {
+        "family": "Harris",
+        "given": "R.C."
+      },
+      {
+        "family": "Hosaka",
+        "given": "K."
+      },
+      {
+        "family": "Lim",
+        "given": "Y.-W."
+      },
+      {
+        "family": "Matheny",
+        "given": "B."
+      },
+      {
+        "family": "Nishida",
+        "given": "H."
+      },
+      {
+        "family": "PWster",
+        "given": "D."
+      },
+      {
+        "family": "Rogers",
+        "given": "J."
+      },
+      {
+        "family": "Rossman",
+        "given": "A."
+      },
+      {
+        "family": "Schmitt",
+        "given": "I."
+      },
+      {
+        "family": "Sipman",
+        "given": "H."
+      },
+      {
+        "family": "Stone",
+        "given": "J."
+      },
+      {
+        "family": "Sugiyama",
+        "given": "J."
+      },
+      {
+        "family": "Yahr",
+        "given": "R."
+      },
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      }
+    ],
+    "title": "Assembling the fungal tree of life: progress, classification, and evolution of subcellular traits",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2004",
+    "page": "1446–1480",
+    "URL": "http://dx.doi.org/10.3732/ajb.91.10.1446",
+    "DOI": "10.3732/ajb.91.10.1446"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "K.H."
+      },
+      {
+        "family": "Lee",
+        "given": "G.A."
+      },
+      {
+        "family": "Lee",
+        "given": "S.Y."
+      },
+      {
+        "family": "Gwag",
+        "given": "J.G."
+      },
+      {
+        "family": "Kim",
+        "given": "T.S."
+      },
+      {
+        "family": "Kong",
+        "given": "W.S."
+      },
+      {
+        "family": "Seo",
+        "given": "K.I."
+      },
+      {
+        "family": "Lee",
+        "given": "G.S."
+      },
+      {
+        "family": "Park",
+        "given": "Y.J."
+      }
+    ],
+    "title": "Development and characterization of new microsatellite markers for the oyster mushroom (Pleurotus ostreatus",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Journal of Microbiology and Biotechnology",
+    "issued": "2009",
+    "page": "851–857",
+    "URL": "https://doi.org/10.4014/jmb.0811.604",
+    "DOI": "10.4014/jmb.0811.604"
+  },
+  {
+    "author": [
+      {
+        "family": "Mandeel",
+        "given": "Q.A."
+      },
+      {
+        "family": "Al-laith",
+        "given": "A.A."
+      },
+      {
+        "family": "Mohamed",
+        "given": "S.D."
+      }
+    ],
+    "title": "Cultivation of oyster fungus (Pleurotus spp.) on various lignocellulosic wastes",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "World Journal of Microbiology and Biotechnology",
+    "issued": "2005",
+    "page": "601–607",
+    "URL": "https://doi.org/10.1007/s11274-004-3494-4",
+    "DOI": "10.1007/s11274-004-3494-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      }
+    ],
+    "title": "Improving phylogenetic inference of mushrooms with RPB1 and RPB2 nucleotide sequences (Inocybe, Agaricales",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2005",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1016/j.ympev.2004.11.014",
+    "DOI": "10.1016/j.ympev.2004.11.014"
+  },
+  {
+    "author": [
+      {
+        "family": "Pawlik",
+        "given": "A."
+      },
+      {
+        "family": "Janusz",
+        "given": "G."
+      },
+      {
+        "family": "Koszerny",
+        "given": "J."
+      },
+      {
+        "family": "Małek",
+        "given": "W."
+      },
+      {
+        "family": "Rogalski",
+        "given": "J."
+      }
+    ],
+    "title": "Genetic diversity of the edible mushroom Pleurotus sp. by amplified fragment length polymorphism",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Current Microbiology",
+    "issued": "2012",
+    "page": "438–445",
+    "URL": "https://doi.org/10.1007/s00284-012-0175-7",
+    "DOI": "10.1007/s00284-012-0175-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "A preliminary agaric flora of East Africa",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin Additional Series",
+    "issued": "1977",
+    "page": "1–615"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "Agaric flora of Sri Lanka",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin Additional Series",
+    "issued": "1986",
+    "page": "1–519"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Izquierdo",
+        "given": "L."
+      },
+      {
+        "family": "Morin",
+        "given": "E."
+      },
+      {
+        "family": "Maurice",
+        "given": "J.P."
+      },
+      {
+        "family": "Martin",
+        "given": "F."
+      },
+      {
+        "family": "Rincon",
+        "given": "A."
+      },
+      {
+        "family": "Buee",
+        "given": "M."
+      }
+    ],
+    "title": "A new promising phylogenetic marker to study the diversity of fungal communities: The Glycoside Hydrolase 63 gene",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2016",
+    "page": "1–11",
+    "URL": "https://doi.org/10.1111/1755-0998.12678",
+    "DOI": "10.1111/1755-0998.12678"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "R.H."
+      },
+      {
+        "family": "Hughes",
+        "given": "K.W."
+      }
+    ],
+    "title": "A new species of Pleurotus",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1997",
+    "page": "173–180",
+    "URL": "http://dx.doi.org/10.2307/3761186",
+    "DOI": "10.2307/3761186"
+  },
+  {
+    "author": [
+      {
+        "family": "Ravash",
+        "given": "R."
+      },
+      {
+        "family": "Shiran",
+        "given": "B."
+      },
+      {
+        "family": "Alavi",
+        "given": "A."
+      },
+      {
+        "family": "Zarvagis",
+        "given": "J."
+      }
+    ],
+    "title": "Evaluation of genetic diversity in oyster mushroom (Pleurotus eryngii) isolates using RAPD marker",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Journal of Science and Technology of Agriculture and Natural Resources",
+    "issued": "2009",
+    "page": "739–741"
+  },
+  {
+    "author": [
+      {
+        "family": "Rehner",
+        "given": "S.A."
+      },
+      {
+        "family": "Buckley",
+        "given": "E.P."
+      }
+    ],
+    "title": "A Beauveria phylogeny inferred from nuclear ITS and EF1-alpha sequences: evidence for cryptic diversification and links to Cordyceps teleomorphs",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2005",
+    "page": "84–98",
+    "URL": "http://dx.doi.org/10.3852/mycologia.97.1.84",
+    "DOI": "10.3852/mycologia.97.1.84"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and modelchoice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodriguez",
+        "given": "A.E."
+      },
+      {
+        "family": "Jimenez-Gasco",
+        "given": "M.D.M."
+      },
+      {
+        "family": "Royse",
+        "given": "D.J."
+      }
+    ],
+    "title": "Pleurotus eryngii species complex: sequence analysis and phylogeny based on partial EF1αand RPB2 genes",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Fungal Biology",
+    "issued": "2010",
+    "page": "421–428",
+    "URL": "https://doi.org/10.1016/j.funbio.2010.03.003",
+    "DOI": "10.1016/j.funbio.2010.03.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Schoch",
+        "given": "C.L."
+      },
+      {
+        "family": "Robbertse",
+        "given": "B."
+      },
+      {
+        "family": "Robert",
+        "given": "V."
+      },
+      {
+        "family": "Vu",
+        "given": "D."
+      },
+      {
+        "family": "Cardinali",
+        "given": "G."
+      },
+      {
+        "family": "Irinyi",
+        "given": "L."
+      },
+      {
+        "family": "Meyer",
+        "given": "W."
+      },
+      {
+        "family": "Nilsson",
+        "given": "R.H."
+      },
+      {
+        "family": "Hughes",
+        "given": "K."
+      },
+      {
+        "family": "Miller",
+        "given": "A.N."
+      },
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Abarenkov",
+        "given": "K."
+      },
+      {
+        "family": "Aime",
+        "given": "M.C."
+      },
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Bidartondo",
+        "given": "M."
+      },
+      {
+        "family": "Boekhout",
+        "given": "T."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Cai",
+        "given": "Q."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Crespo",
+        "given": "A."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Damm",
+        "given": "U."
+      },
+      {
+        "family": "De Beer",
+        "given": "Z.W."
+      },
+      {
+        "family": "Dentinger",
+        "given": "B.T.M."
+      },
+      {
+        "family": "Divakar",
+        "given": "P.K."
+      },
+      {
+        "family": "Dueñas",
+        "given": "M."
+      },
+      {
+        "family": "Feau",
+        "given": "N."
+      },
+      {
+        "family": "Fliegerova",
+        "given": "K."
+      },
+      {
+        "family": "García",
+        "given": "M.A."
+      },
+      {
+        "family": "Ge",
+        "given": "Z.W."
+      },
+      {
+        "family": "Griffith",
+        "given": "G.W."
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      },
+      {
+        "family": "Groenewald",
+        "given": "M."
+      },
+      {
+        "family": "Grube",
+        "given": "M."
+      },
+      {
+        "family": "Gryzenhout",
+        "given": "M."
+      },
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Guo",
+        "given": "L."
+      },
+      {
+        "family": "Hambleton",
+        "given": "S."
+      },
+      {
+        "family": "Hamelin",
+        "given": "R."
+      },
+      {
+        "family": "Hansen",
+        "given": "K."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Hong",
+        "given": "S.B."
+      },
+      {
+        "family": "Houbraken",
+        "given": "J."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Inderbitzin",
+        "given": "P."
+      },
+      {
+        "family": "Johnston",
+        "given": "P.R."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Kõljalg",
+        "given": "U."
+      },
+      {
+        "family": "Kovács",
+        "given": "G.M."
+      },
+      {
+        "family": "Kraichak",
+        "given": "E."
+      },
+      {
+        "family": "Krizsan",
+        "given": "K."
+      },
+      {
+        "family": "Kurtzman",
+        "given": "C.P."
+      },
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      },
+      {
+        "family": "Leavitt",
+        "given": "S."
+      },
+      {
+        "family": "Letcher",
+        "given": "P.M."
+      },
+      {
+        "family": "Liimatainen",
+        "given": "K."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Lodge",
+        "given": "D.J."
+      },
+      {
+        "family": "Luangsaard",
+        "given": "J.J."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "Manamgoda",
+        "given": "D."
+      },
+      {
+        "family": "Martín",
+        "given": "M.P."
+      },
+      {
+        "family": "Minnis",
+        "given": "A.M."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      },
+      {
+        "family": "Mulè",
+        "given": "G."
+      },
+      {
+        "family": "Nakasone",
+        "given": "K.K."
+      },
+      {
+        "family": "Niskanen",
+        "given": "T."
+      },
+      {
+        "family": "Olariaga",
+        "given": "I."
+      },
+      {
+        "family": "Papp",
+        "given": "T."
+      },
+      {
+        "family": "Petkovits",
+        "given": "T."
+      },
+      {
+        "family": "Pino-Bodas",
+        "given": "R."
+      },
+      {
+        "family": "Powell",
+        "given": "M.J."
+      },
+      {
+        "family": "Raja",
+        "given": "H.A."
+      },
+      {
+        "family": "Redecker",
+        "given": "D."
+      },
+      {
+        "family": "Sarmiento-Ramirez",
+        "given": "J.M."
+      },
+      {
+        "family": "Seifert",
+        "given": "K.A."
+      },
+      {
+        "family": "Shrestha",
+        "given": "B."
+      },
+      {
+        "family": "Stenroos",
+        "given": "S."
+      },
+      {
+        "family": "Stielow",
+        "given": "B."
+      },
+      {
+        "family": "Suh",
+        "given": "S.O."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Tedersoo",
+        "given": "L."
+      },
+      {
+        "family": "Telleria",
+        "given": "M.T."
+      },
+      {
+        "family": "Udayanga",
+        "given": "D."
+      },
+      {
+        "family": "Untereiner",
+        "given": "W.A."
+      },
+      {
+        "family": "Uribeondo",
+        "given": "J.D."
+      },
+      {
+        "family": "Subbarao",
+        "given": "K.V."
+      },
+      {
+        "family": "Vágvölgyi",
+        "given": "C."
+      },
+      {
+        "family": "Visagie",
+        "given": "C."
+      },
+      {
+        "family": "Voigt",
+        "given": "K."
+      },
+      {
+        "family": "Walker",
+        "given": "D.M."
+      },
+      {
+        "family": "Weir",
+        "given": "B.S."
+      },
+      {
+        "family": "Weiß",
+        "given": "M."
+      }
+    ],
+    "title": "Wijayawardene",
+    "publisher": "W.Y. & Federhen",
+    "type": "article-journal",
+    "container-title": "Database",
+    "issued": "2014",
+    "page": "1–21",
+    "publisher-place": "N.N., Wingfield, M.J., Xu, J.P., Yang, Z.L., Zhang, N., Zhuang",
+    "URL": "https://doi.org/10.1093/database/bau061",
+    "DOI": "10.1093/database/bau061"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The agaricales in modern taxonomy",
+    "edition": "4th edn",
+    "note": "Koeltz, Koenigstein.",
+    "type": null,
+    "issued": "1986"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Urbanelli",
+        "given": "S."
+      },
+      {
+        "family": "Rosa",
+        "given": "V.D."
+      },
+      {
+        "family": "Punelli",
+        "given": "F."
+      },
+      {
+        "family": "Porretta",
+        "given": "D."
+      },
+      {
+        "family": "Reverberi",
+        "given": "M."
+      },
+      {
+        "family": "Fabbri",
+        "given": "A.A."
+      },
+      {
+        "family": "Fanelli",
+        "given": "C."
+      }
+    ],
+    "title": "DNA-fingerprinting (AFLP and RFLP) for genotypic identification in species of the Pleurotus eryngii complex",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Applied Microbiology and Biotechnology",
+    "issued": "2007",
+    "page": "592–600",
+    "URL": "https://doi.org/10.1007/s00253-006-0684-z",
+    "DOI": "10.1007/s00253-006-0684-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "https://doi.org/10.1128/JB.172.8.4238-4246.1990",
+    "DOI": "10.1128/JB.172.8.4238-4246.1990"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Sun",
+        "given": "B.L."
+      }
+    ],
+    "title": "Ancient and recent patterns of geographic speciation in the oyster mushroom Pleurotus revealed by phylogenetic analysis of ribosomal DNA sequences",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "91",
+    "type": "paper-conference",
+    "issued": "1994",
+    "page": "4599–4603",
+    "URL": "https://doi.org/10.1073/pnas.91.10.4599",
+    "DOI": "10.1073/pnas.91.10.4599"
+  },
+  {
+    "author": [
+      {
+        "family": "Vu",
+        "given": "D."
+      },
+      {
+        "family": "Groenewald",
+        "given": "M."
+      },
+      {
+        "family": "deVries",
+        "given": "M."
+      },
+      {
+        "family": "Gehrmann",
+        "given": "T."
+      },
+      {
+        "family": "Stielow",
+        "given": "B."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Al-Hatmi",
+        "given": "A."
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      },
+      {
+        "family": "Cardinali",
+        "given": "G."
+      },
+      {
+        "family": "Houbraken",
+        "given": "J."
+      },
+      {
+        "family": "Boekhout",
+        "given": "T."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Robert",
+        "given": "V."
+      },
+      {
+        "family": "Verkley",
+        "given": "G.J.M."
+      }
+    ],
+    "title": "Large-scale generation and analysis of filamentous fungal DNA barcodes boosts coverage for kingdom fungi and reveals thresholds for fungal species and higher taxon delimitation",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2019",
+    "page": "135–154",
+    "URL": "https://doi.org/10.1016/j.simyco.2018.05.001",
+    "DOI": "10.1016/j.simyco.2018.05.001"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Burns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "Whitish",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols, a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zervakis",
+        "given": "G.I."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.-M."
+      },
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      }
+    ],
+    "title": "Molecular phylogeny, biogeography and speciation of the mushroom species Pleurotus cystidiosus and allied taxa",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "Microbiology",
+    "issued": "2004",
+    "page": "715–726",
+    "URL": "https://doi.org/10.1099/mic.0.26673-0",
+    "DOI": "10.1099/mic.0.26673-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Zervakis",
+        "given": "G.I."
+      },
+      {
+        "family": "Ntougias",
+        "given": "S."
+      },
+      {
+        "family": "Gargano",
+        "given": "M.L."
+      },
+      {
+        "family": "Besi",
+        "given": "M.I."
+      },
+      {
+        "family": "Polemis",
+        "given": "E."
+      },
+      {
+        "family": "Typas",
+        "given": "M.A."
+      },
+      {
+        "family": "Venturella",
+        "given": "G."
+      }
+    ],
+    "title": "A reappraisal of the Pleurotus eryngii complex–new species and taxonomic combinations based on the application of a polyphasic approach, and an identification key to Pleurotus taxa associated with Apiaceae plants",
+    "volume": "118",
+    "type": "article-journal",
+    "container-title": "Fungal Biology",
+    "issued": "2014",
+    "page": "814–834",
+    "URL": "https://doi.org/10.1016/j.funbio.2014.07.001",
+    "DOI": "10.1016/j.funbio.2014.07.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Zervakis",
+        "given": "G.I."
+      },
+      {
+        "family": "Venturella",
+        "given": "G."
+      },
+      {
+        "family": "Fryssouli",
+        "given": "V."
+      },
+      {
+        "family": "Inglese",
+        "given": "P."
+      },
+      {
+        "family": "Polemis",
+        "given": "E."
+      },
+      {
+        "family": "Gargano",
+        "given": "M.L."
+      }
+    ],
+    "title": "Pleurotus opuntiae revisited e An insight to the phylogeny of dimitic Pleurotus species with emphasis on the P. djamor complex",
+    "volume": "123",
+    "type": "article-journal",
+    "container-title": "Fungal Biology",
+    "issued": "2019",
+    "page": "188–199",
+    "URL": "https://doi.org/org/10.1016/j.funbio.2018.12.005",
+    "DOI": "10.1016/j.funbio.2018.12.005"
+  },
+  {
+    "author": [
+      {
+        "family": "Zervakis",
+        "given": "G.I."
+      },
+      {
+        "family": "Venturella",
+        "given": "G."
+      },
+      {
+        "family": "Papadopoulou",
+        "given": "K."
+      }
+    ],
+    "title": "Genetic polymorphism and taxonomic infrastructure of the Pleurotus eryngiis pecies-complex as determined by RAPD analysis, isozyme profiles and ecomorphological characters",
+    "volume": "147",
+    "type": "article-journal",
+    "container-title": "Microbiology",
+    "issued": "2001",
+    "page": "3183–3194",
+    "URL": "https://doi.org/10.1099/00221287-147-11-3183",
+    "DOI": "10.1099/00221287-147-11-3183"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "M."
+      },
+      {
+        "family": "Zhang",
+        "given": "J."
+      },
+      {
+        "family": "Chen",
+        "given": "Q."
+      },
+      {
+        "family": "Wu",
+        "given": "X."
+      },
+      {
+        "family": "Gao",
+        "given": "W."
+      },
+      {
+        "family": "Deang",
+        "given": "W."
+      },
+      {
+        "family": "Huang",
+        "given": "C."
+      }
+    ],
+    "title": "The famous cultivated mushroom Bailinggu is a separate species of the Pleurotus eryngii species complex",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Scientific Reports",
+    "issued": "2016",
+    "page": "33066",
+    "URL": "https://doi.org/10.1038/srep33066",
+    "DOI": "10.1038/srep33066"
+  }
+]

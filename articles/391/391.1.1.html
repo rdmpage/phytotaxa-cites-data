@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+	<title>  Phylogenetic and morphological analyses of species of the  Entolomataceae  (Agaricales, Basidiomycota) with cuboid basidiospores   | KARSTEDT | Phytotaxa</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMHUldUABAEVVdWAAADUlE=",licenseKey:"4f72ad4ec1",applicationID:"416471445"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(23),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(24),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script>
+	<meta name="description" content="  Phylogenetic and morphological analyses of species of the  Entolomataceae  (Agaricales, Basidiomycota) with cuboid basidiospores  " />
+			<meta name="keywords" content="Entoloma, Inocephalus, Nolanea, phylogeny, taxonomy, Trichopilus, Fungi" />
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Contributor.Sponsor" xml:lang="en" content=""/>
+	<meta name="DC.Creator.PersonalName" content="FERNANDA KARSTEDT"/>
+	<meta name="DC.Creator.PersonalName" content="MARINA CAPELARI"/>
+	<meta name="DC.Creator.PersonalName" content="TIMOTHY J. BARONI"/>
+	<meta name="DC.Creator.PersonalName" content="DAVID L. LARGENT"/>
+	<meta name="DC.Creator.PersonalName" content="SARAH E. BERGEMANN"/>
+	<meta name="DC.Date.created" scheme="ISO8601" content="2019-01-29"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2018-06-24"/>
+	<meta name="DC.Date.issued" scheme="ISO8601" content="2019-01-29"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2019-01-29"/>
+	<meta name="DC.Description" xml:lang="en" content=" The generic or subgeneric delimitation by morphology of the  Entolomataceae  ( Agaricales ,  Basidiomycota ) is often based on the habit and external features of the basidiomata, the hyphal arrangement of the pileus surface and the shape of the basidiospores, which possess either bumps or undulate-pustules forming short ridges, or longitudinal ridges or are obviously angular with four to nine angles in profile view. Here, we examine the basidiospore shape of species in the /Entoloma clade described as cuboid to evaluate its importance in taxonomy using both phylogenetic and detailed analyses of the shape with Scanning Electron Microscopy. Our phylogenetic analyses support the placement of species with cuboid basidiospores into one of two clades. Based on this separation, two new subgenera of  Entoloma  are proposed:  Cuboeccilia  with an omphalinoid habit and fusoid cystidia and  Cubospora  which has a mycenoid to tricholomatoid habit and clavate, rarely fusoid cheilocystidia. "/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Identifier" content="phytotaxa.391.1.1"/>
+	<meta name="DC.Identifier.pageNumber" content="1–27"/>
+							<meta name="DC.Identifier.DOI" content="10.11646/phytotaxa.391.1.1"/>
+		<meta name="DC.Identifier.URI" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.391.1.1"/>
+	<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+	<meta name="DC.Rights" content="Copyright (c) 2019 Phytotaxa" />
+	<meta name="DC.Rights" content=""/>
+	<meta name="DC.Source" content="Phytotaxa"/>
+	<meta name="DC.Source.ISSN" content="1179-3163"/>
+	<meta name="DC.Source.Issue" content="1"/>	<meta name="DC.Source.URI" content="https://www.biotaxa.org/Phytotaxa"/>
+	<meta name="DC.Source.Volume" content="391"/>						<meta name="DC.Subject" xml:lang="en" content="Entoloma, Inocephalus, Nolanea, phylogeny, taxonomy, Trichopilus, Fungi"/>
+				<meta name="DC.Title" content="  Phylogenetic and morphological analyses of species of the  Entolomataceae  (Agaricales, Basidiomycota) with cuboid basidiospores  "/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Article"/>
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="Phytotaxa"/>
+	<meta name="citation_issn" content="1179-3163"/>
+        <meta name="citation_author" content="FERNANDA KARSTEDT"/>
+        <meta name="citation_author_institution" content="Instituto de Botânica, Núcleo de Pesquisa em Micologia, Caixa Postal 68041, 04045-902 São Paulo, SP, Brazil"/>
+        <meta name="citation_author" content="MARINA CAPELARI"/>
+        <meta name="citation_author_institution" content="Instituto de Botânica, Núcleo de Pesquisa em Micologia, Caixa Postal 68041, 04045-902 São Paulo, SP, Brazil"/>
+        <meta name="citation_author" content="TIMOTHY J. BARONI"/>
+        <meta name="citation_author_institution" content="State University of New York—College at Cortland, Department of Biological Sciences, NY 13045, USA"/>
+        <meta name="citation_author" content="DAVID L. LARGENT"/>
+        <meta name="citation_author_institution" content="Humboldt State University, Biological Sciences, 1 Harpst St, Arcata CA 95521, USA"/>
+        <meta name="citation_author" content="SARAH E. BERGEMANN"/>
+        <meta name="citation_author_institution" content="Middle Tennessee State University, Biology Department, PO Box 60, Murfreesboro, TN 37132, USA"/>
+<meta name="citation_title" content="  Phylogenetic and morphological analyses of species of the  Entolomataceae  (Agaricales, Basidiomycota) with cuboid basidiospores  "/>
+
+	<meta name="citation_date" content="2019/01/29"/>
+
+	<meta name="citation_volume" content="391"/>
+	<meta name="citation_issue" content="1"/>
+
+			<meta name="citation_firstpage" content="1"/>
+				<meta name="citation_lastpage" content="27"/>
+								<meta name="citation_doi" content="10.11646/phytotaxa.391.1.1"/>
+		<meta name="citation_abstract_html_url" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.391.1.1"/>
+	<meta name="citation_language" content="en"/>
+						<meta name="citation_keywords" xml:lang="en" content="Entoloma, Inocephalus, Nolanea, phylogeny, taxonomy, Trichopilus, Fungi"/>
+									<meta name="citation_pdf_url" content="https://www.biotaxa.org/Phytotaxa/article/download/phytotaxa.391.1.1/39098"/>
+				
+
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/compiled.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/articleView.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/rtEmbedded.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://www.biotaxa.org/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://www.biotaxa.org/public/site/sitestyle.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+	</script>
+	
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	
+	<script type="text/javascript" src="https://www.biotaxa.org/js/relatedItems.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/inlinePdf.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/pdfobject.js"></script>
+
+</head>
+<body id="pkp-common-openJournalSystems">
+
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	<img src="https://www.biotaxa.org/public/journals/2/pageHeaderTitleImage_en_US.jpg" width="1101" height="98" alt="Page Header" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://www.biotaxa.org/Phytotaxa/help')">Journal Help</a>
+</div><div class="block" id="sidebarSubscription">
+	<span class="blockTitle">Subscription</span>
+							Login to verify subscription
+			</div><div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+												<form method="post" action="https://www.biotaxa.org/Phytotaxa/login/signIn">
+					<table>
+						<tr>
+							<td><label for="sidebar-username">Username</label></td>
+							<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+						</tr>
+						<tr>
+							<td><label for="sidebar-password">Password</label></td>
+							<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+						</tr>
+					</table>
+				</form>
+						</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://www.biotaxa.org/Phytotaxa/notification">View</a></li>
+			<li><a href="https://www.biotaxa.org/Phytotaxa/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://www.biotaxa.org/Phytotaxa/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">By Issue</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/authors">By Author</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/titles">By Title</a></li>
+		
+					<li><a href="https://www.biotaxa.org/index">Other Journals</a></li>
+						</ul>
+	</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Algae"><span style="font-size: 92%;">Algae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Andes"><span style="font-size: 78%;">Andes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Asteraceae"><span style="font-size: 79%;">Asteraceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Atlantic%20Forest"><span style="font-size: 78%;">Atlantic Forest</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Basidiomycota"><span style="font-size: 78%;">Basidiomycota</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Brazil"><span style="font-size: 85%;">Brazil</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Bryophytes"><span style="font-size: 81%;">Bryophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Cerrado"><span style="font-size: 77%;">Cerrado</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=China"><span style="font-size: 89%;">China</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Compositae"><span style="font-size: 82%;">Compositae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Eudicots"><span style="font-size: 175%;">Eudicots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fabaceae"><span style="font-size: 78%;">Fabaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fungi"><span style="font-size: 105%;">Fungi</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=General"><span style="font-size: 78%;">General</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=ITS"><span style="font-size: 80%;">ITS</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=IUCN"><span style="font-size: 78%;">IUCN</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=India"><span style="font-size: 82%;">India</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Iran"><span style="font-size: 77%;">Iran</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Magnoliids"><span style="font-size: 80%;">Magnoliids</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Mexico"><span style="font-size: 78%;">Mexico</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Monocots"><span style="font-size: 118%;">Monocots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Morphology"><span style="font-size: 77%;">Morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Neotropics"><span style="font-size: 81%;">Neotropics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Nomenclature"><span style="font-size: 79%;">Nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Orchidaceae"><span style="font-size: 79%;">Orchidaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Phylogeny"><span style="font-size: 79%;">Phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Pteridophytes"><span style="font-size: 83%;">Pteridophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=SEM"><span style="font-size: 78%;">SEM</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=South%20America"><span style="font-size: 80%;">South America</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Taxonomy"><span style="font-size: 92%;">Taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Turkey"><span style="font-size: 79%;">Turkey</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Vietnam"><span style="font-size: 78%;">Vietnam</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=biodiversity"><span style="font-size: 79%;">biodiversity</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=conservation"><span style="font-size: 79%;">conservation</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=diatoms"><span style="font-size: 78%;">diatoms</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=distribution"><span style="font-size: 78%;">distribution</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemic"><span style="font-size: 81%;">endemic</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemism"><span style="font-size: 83%;">endemism</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=flora"><span style="font-size: 78%;">flora</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotype"><span style="font-size: 81%;">lectotype</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotypification"><span style="font-size: 80%;">lectotypification</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=molecular%20phylogeny"><span style="font-size: 80%;">molecular phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=morphology"><span style="font-size: 92%;">morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20combination"><span style="font-size: 78%;">new combination</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20species"><span style="font-size: 101%;">new species</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20taxon"><span style="font-size: 78%;">new taxon</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=nomenclature"><span style="font-size: 91%;">nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=phylogeny"><span style="font-size: 91%;">phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=systematics"><span style="font-size: 79%;">systematics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=taxonomy"><span style="font-size: 162%;">taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=typification"><span style="font-size: 83%;">typification</span></a>
+	</div>
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/information/readers">For Readers</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/authors">For Authors</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/librarians">For Librarians</a></li>	</ul>
+</div>
+
+
+<div class="block" id="sidebarRTArticleTools">
+
+	<span class="blockTitle">Article Tools</span>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/printArticle.png" class="articleToolIcon" alt="" /> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/printerFriendly/phytotaxa.391.1.1/0');">Print this article</a>
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/metadata.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/metadata/phytotaxa.391.1.1/0');">Indexing metadata</a><br />
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/citeArticle.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/captureCite/phytotaxa.391.1.1/0');">How to cite item</a><br />
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/findingReferences.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/findingReferences/39482/0');">Finding References</a>
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email this article <span style="font-size: 0.8em">(Login required)</span>		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email the author <span style="font-size: 0.8em">(Login required)</span>		</div>
+		</div>
+
+
+<script type="text/javascript">
+	initRelatedItems();
+</script>
+
+
+<div class="block" id="sidebarRTRelatedItems">
+	<span class="blockTitle">Related Items</span>
+		<table width="100%">
+			<tr>
+				<td valign="top" style="width:26px;">
+					<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/lookupTerms.png" class="articleToolIcon" alt=""/>
+				</td>
+				<td valign="top">
+					<div id="relatedItems">
+						<ul class="plain">
+																					<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/445');">Author&#039;s work</a></li>
+																																									<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/447');">Related studies</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/448');">Book searches</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/449');">Pay-per-view</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/450');">Relevant portals</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/451');">Online forums</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/452');">Teaching files</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/453');">Government policy</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/454');">Media reports</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/455');">Web search</a></li>
+																			</ul>
+					</div>
+					<div id="toggleRelatedItems">
+						<a id="hideRelatedItems" style="display:none;" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_out.png" alt=""/> 
+							Hide
+						</a>
+						<a id="showRelatedItems" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_in.png" alt=""/>
+							Show all
+						</a>
+					</div>
+				</td>
+			</tr>
+		</table>
+</div>
+
+
+<div class="block" id="sidebarRTAuthorBios">
+	<span class="blockTitle">
+					About The Authors
+			</span>
+		<div class="authorBio">
+	<p>
+		<em>FERNANDA KARSTEDT</em>
+								<br />Instituto de Botânica, Núcleo de Pesquisa em Micologia, Caixa Postal 68041, 04045-902 São Paulo, SP, Brazil		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>MARINA CAPELARI</em>
+								<br />Instituto de Botânica, Núcleo de Pesquisa em Micologia, Caixa Postal 68041, 04045-902 São Paulo, SP, Brazil		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>TIMOTHY J. BARONI</em>
+								<br />State University of New York—College at Cortland, Department of Biological Sciences, NY 13045, USA		<br />United States	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>DAVID L. LARGENT</em>
+								<br />Humboldt State University, Biological Sciences, 1 Harpst St, Arcata CA 95521, USA		<br />United States	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>SARAH E. BERGEMANN</em>
+								<br />Middle Tennessee State University, Biology Department, PO Box 60, Murfreesboro, TN 37132, USA		<br />United States	</p>
+
+	<p></p>
+	</div>
+	
+	</div>
+			</div>
+			</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="https://www.biotaxa.org/Phytotaxa/index">Home</a></li>
+		<li id="about"><a href="https://www.biotaxa.org/Phytotaxa/about">About</a></li>
+
+					<li id="login"><a href="https://www.biotaxa.org/Phytotaxa/login">Login</a></li>
+							<li id="register"><a href="https://www.biotaxa.org/Phytotaxa/user/register">Register</a></li>
+												<li id="search"><a href="https://www.biotaxa.org/Phytotaxa/search">Search</a></li>
+		
+					<li id="current"><a href="https://www.biotaxa.org/Phytotaxa/issue/current">Current</a></li>
+			<li id="archives"><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">Archives</a></li>
+		
+					<li id="announcements"><a href="https://www.biotaxa.org/Phytotaxa/announcement">Announcements</a></li>
+				
+
+									<li class="navItem" id="navItem-0"><a href="http://www.mapress.com/phytotaxa/">Publisher</a></li>
+												<li class="navItem" id="navItem-1"><a href="http://www.biotaxa.org">Biotaxa</a></li>
+						</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://www.biotaxa.org/Phytotaxa/index" target="_parent">Home</a> &gt;
+	<a href="https://www.biotaxa.org/Phytotaxa/issue/view/phytotaxa.391.1" target="_parent">Vol 391, No 1</a> &gt;	<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.391.1.1/0" class="current" target="_parent">KARSTEDT</a>
+</div>
+
+<div id="content">
+
+
+	<div id="topBar">
+							<div id="accessKey">
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_open_medium.gif" alt="Open Access" />
+				Open Access&nbsp;
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+									Subscription Access
+							</div>
+			</div>
+		
+	<div id="articleTitle"><h3><p><strong>Phylogenetic and morphological analyses of species of the <em>Entolomataceae</em> (Agaricales, Basidiomycota) with cuboid basidiospores</strong></p></h3></div>
+	<div id="authorString"><em>FERNANDA KARSTEDT, MARINA CAPELARI, TIMOTHY J. BARONI, DAVID L. LARGENT, SARAH E. BERGEMANN</em></div>
+	<br />
+			<div id="articleAbstract">
+		<h4>Abstract</h4>
+		<br />
+		<div><p>The generic or subgeneric delimitation by morphology of the <em>Entolomataceae</em> (<em>Agaricales</em>, <em>Basidiomycota</em>) is often based on the habit and external features of the basidiomata, the hyphal arrangement of the pileus surface and the shape of the basidiospores, which possess either bumps or undulate-pustules forming short ridges, or longitudinal ridges or are obviously angular with four to nine angles in profile view. Here, we examine the basidiospore shape of species in the /Entoloma clade described as cuboid to evaluate its importance in taxonomy using both phylogenetic and detailed analyses of the shape with Scanning Electron Microscopy. Our phylogenetic analyses support the placement of species with cuboid basidiospores into one of two clades. Based on this separation, two new subgenera of <em>Entoloma</em> are proposed: <em>Cuboeccilia</em> with an omphalinoid habit and fusoid cystidia and <em>Cubospora</em> which has a mycenoid to tricholomatoid habit and clavate, rarely fusoid cheilocystidia.</p></div>
+		<br />
+		</div>
+	
+			<div id="articleSubject">
+		<h4>Keywords</h4>
+		<br />
+		<div>Entoloma, Inocephalus, Nolanea, phylogeny, taxonomy, Trichopilus, Fungi</div>
+		<br />
+		</div>
+	
+				
+			<div id="articleFullText">
+		<h4>Full Text:</h4>
+									<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.391.1.1/39098" class="file" target="_parent">PDF/A (1MB)</a>
+																			<img class="accessLogo" src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+											</div>
+	
+			<div id="articleCitations">
+		<h4>References</h4>
+		<br />
+		<div>
+							<p><p>Aime, M.C., Largent, D.L., Henkel, T.W. &amp; Baroni, T.J. (2010) The Entolomataceae<em> </em>of Pakaraima Mountains of Guyana IV: new species of <em>Calliderma, Paraeccilia</em> and <em>Trichopilus</em>. <em>Mycologia</em> 102: 633–649.</p><p> https://doi.org/10.3852/09-162<em></em></p><p>Alves, M.H. &amp; Nascimento, C.C. (2012) <em>Entoloma </em>(Sacc.) E Horak ex Courtec., 1986 (Agaricales: Entolomataceae): The first record for the Caatinga biome, Ceará, Brazil. <em>CheckList</em> 8: 577–580.</p><p> https://doi.org/10.15560/8.3.577</p><p>Anil-Raj, K.N. &amp; Manimohan, P. (2012) A new species of <em>Entoloma</em> s.l. associated with earthworm casts. <em>Mycosphere</em> 3: 331–334.<br /> https://doi.org/10.5943/mycosphere/3/3/6</p><p>Baker, R.E.D. &amp; Dale, W.T. (1951) Fungi of Trinidad and Tobago. <em>Mycological Papers</em> 33: 1–123.</p><p>Baroni, T.J. &amp; Halling, R.E. (2000) Some Entolomataceae (Agaricales) from Costa Rica. <em>Brittonia</em> 52: 121–135.</p><p> https://doi.org/10.2307/2666502</p><p>Baroni, T.J. &amp; Lodge, D.J. (1998) <em>Alboleptonia</em> from the Greater Antilles. <em>Mycologia</em> 90: 680–696.</p><p> https://doi.org/10.1080/00275514.1998.12026957</p><p>Baroni, T.J. &amp; Matheny, P.B. (2011) A re-evaluation of gasteroid and cyphelloid species of Entolomataceae from Eastern North America. <em>Harvard Papers in Botany</em> 16: 293–310.</p><p> https://doi.org/10.3100/0.25.016.0205</p><p>Baroni, T.J. (1981) A revision of the genus <em>Rhodocybe </em>Maire (Agaricales). <em>Beihefte zur Nova Hedwigia </em>67: 1–194.</p><p>Baroni, T.J., Hofstetter, V., Largent, D.L. &amp; Vilgalys, R. (2011) <em>Entocybe </em>is proposed as a new genus in the Entolomataceae (Agaricomycetes, Basidiomycota) based on morphological and molecular evidence. <em>North American Fungi</em> 6: 1–19.</p><p> https://doi.org/10.2509/naf2011.006.012</p><p>Berkeley, M.J. &amp; Curtis, M.A. (1859) Centuries of North American fungi. <em>Annals and Magazine of Natural History </em>4: 284–296.</p><p> https://doi.org/10.1080/00222935908697127</p><p>Bi, Z.S., Zheng, G.Y. &amp; Li, T.H. (1986) Taxonomic studies on the genus <em>Entoloma </em>from Guangdong. Acta Mycologica Sinica 5: 161-169.</p><p>Blanco-Dias, J.B. (2015) Notas sobre el género <em>Entoloma </em>en el Noroeste de la Península Ibérica (VII): nuevas combinaciones y nuevos nombres. <em>Tarrelos</em> 17: 32–38.</p><p>Britzelmayr, M. (1881) Hyporhodii und Leucospori aus Südbayern (Hymenomyceten aus Südbayern 2). <em>Berichte des Naturhistorischen Vereins Augsburg</em> 26: 133–148.</p><p>Bulliard, J.B.F. (1790) <em>Herbier de la France</em> 10: 433–480.</p><p>Castresana, J. (2000) Selection of conserved blocks from multiple alignments for their use in phylogenetic analyses. <em>Molecular Biology and Evolution</em> 17: 540–552.<strong></strong></p><p><strong> </strong>https://doi.org/10.1093/oxfordjournals.molbev.a026334</p><p>Co-David, D., Langeveld, D. &amp; Noordeloos, M.E. (2009) Molecular phylogeny and spore evolution of Entolomataceae. <em>Persoonia</em> 23: 147–176.</p><p> https://doi.org/10.3767/003158509X480944</p><p>Coimbra, V.R.M., Wartchow, F. &amp; Gibertoni, T.B. (2013) Studies on <em>Entoloma </em>(Agaricales, Basidiomycota) in the Atlantic Forest, Northeast Brazil. <em>Nova Hedwigia</em> 97: 139–157.</p><p> https://doi.org/10.1127/0029-5035/2013/0100</p><p>Coker, W.C. &amp; Couch, J.N. (1928) <em>The Gasteromycetes of the Eastern United States and Canada</em>. Courier Corporation, pp. 1–201.</p><p>Cooke, M.C. (1871) <em>Handbook of British fungi</em> 1: 1–488.</p><p>Courtecuisse, R. (1986) Notes de nomenclature concernant les Hyménomycètes; IV Sur quelques épithètes spécifiques préoccupés, 3. <em>Mycotaxon</em> 27: 127–145.</p><p>Dennis, R.W.G. (1953) Les Agaricales de l’Île de la Trinité: Rhodosporae-Ochrosporae. <em>Bulletin Trimestriel de la Société Mycologique de France</em> 69: 145–198.</p><p>Dennis, R.W.G. (1961) Fungi venezuelani IV: Agaricales. <em>Kew Bulletin</em> 15: 67–156.</p><p> https://doi.org/10.2307/4115784</p><p>Dodge, C.W. &amp; Zeller, S.M. (1934) <em>Hymenogaster</em> and related genera. <em>Annals of the Missouri Botanical Garden</em> 21: 625–708.</p><p> https://doi.org/10.2307/2394189</p><p>Edgar, R.C. (2004) MUSCLE: mutiple sequence alignement with high accuracy and high throughput. <em>Nucleic Acids Research</em> 32: 1792–1797.</p><p> https://doi.org/10.1093/nar/gkh340</p><p>Ediriweera, A.N., Karunarathna, S.C., Xu, J., Hyde, K.D. &amp; Mortimer, P.E. (2017) <em>Entoloma mengsongense</em> sp. nov. (Entolomataceae, Agaricales), a remarkable blue mushroom from Yunnan Province, China. <em>Turkish Journal of Botany</em> 41: 505–515.</p><p> https://doi.org/10.3906/bot-1611-13</p><p>Eyssartier, G., Buyck, B. &amp; Courtecuisse, R.B. (2001) New species and combinations in cuboid-spored <em>Entoloma</em> species from Madagascar. <em>Mycological Research</em> 105: 1144–1148.</p><p> https://doi.org/10.1016/S0953-7562(08)61979-6</p><p>Eyssartier, G., Ducousso, M. &amp; Buyck, B. (2010) <em>Entoloma pseudomurrayi </em>sp. nov., un nouvel entolome jaune des forêts néo-calédoniennes de montagne à <em>Nothofagus</em>. <em>Cryptogamie Mycologie</em> 31: 3–8.</p><p>Fayod, M.V. (1889) Prodrome d´une histoire naturelle des Agaricinés. <em>Annales des Sciences Naturelles Botanique</em> 9: 181–411.</p><p>Gillet, C.C. (1876) <em>Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France</em>. Ch. Thomas, pp. 177–560.</p><p>Halling, R.E. &amp; Mueller, G.M. (2005) Common mushrooms of the Talamanca Mountains, Costa Rica. <em>Memoirs of the New York Botanical Garden</em> 90: 1–195.</p><p>He, X.-L., Li, T.H., Jiang, Z.-D. &amp; Shen, Y.-H. (2012a) Type studies on four <em>Entoloma</em> from South China. <em>Mycotaxon</em> 121: 435–445.</p><p> https://doi.org/10.5248/121.435</p><p>He, X.-L., Li, T.H., Xi, P.-G., Jiang, Z.-D. &amp; Shen, Y.-H. (2012b) Four new species of <em>Entoloma </em>s.l. (Agaricales) from southern China. <em>Mycological Progress</em> 11: 915–925.</p><p> https://doi.org/10.1007/s11557-012-0807-0</p><p>He, X.-L., Li, T.H., Xi, P.-G., Jiang, Z.-D. &amp; Shen, Y.-H. (2013) Phylogeny of <em>Entoloma </em>s.l. subgenus <em>Pouzarella </em>with descriptions of five new species from China. <em>Fungal Diversity</em> 58: 227–243.</p><p> https://doi.org/10.1007/s13225-012-0212-7</p><p>He, X.-L., Horak, E., Li, T.-H., Peng, W.-H. &amp; Gan, B.-C. (2015) Two new cuboid-spored species of <em>Entoloma </em>s.l. (Agaricales, Entolomataceae) from Southern China. <em>Cryptogamie Mycologie</em> 36: 237–249.</p><p> https://doi.org/10.7872/crym/v36.iss2.2015.237</p><p>Heim, R. (1936) Observations sur la flore mycologique malgache. IV. Étude de quelques Agarics à latex non résinoïde. <em>Revue de Mycologie</em> 1: 223–256.</p><p>Henkel, T.W., Aime, M.C., Largent, D.L. &amp; Baroni, T.J. (2010) The Entolomataceae of the Pakaraima Mountains of Guyana 5: new species of <em>Alboleptonia</em>. <em>Mycotaxon</em> 114: 115–126.</p><p> https://doi.org/10.5248/114.115</p><p>Hennings, P. (1900) Fungi monsunenses. <em>Monsunia</em> 1: 1–38.</p><p>Hesler, L.R. (1967) <em>Entoloma</em> in Southeastern North America. <em>Beihefte zur Nova Hedwigia</em> 23: 1–196.</p><p>Hoffmann, G.F. (1793)<em> Naturgetreue Abblidungen und Beschreibungen der essbaren, schädlichen und verdächtigen Schwämme</em> (Prague) 3: tab. 24.</p><p>Hongo, T. (1990) New and noteworthy agarics from New Zealand. <em>Reports of the Tottori Mycological Institute</em> 28: 129–134.</p><p>Horak, E. (1973) Fungi agaricini Novazelandiae I-V: I. <em>Entoloma</em> (Fr.) and related genera. <em>Beihefte zur Nova Hedwigia</em> 43: 1–86.</p><p>Horak, E. (1976) On cuboid-spored species of<em> Entoloma</em> (Agaricales). <em>Sydowia</em> 28: 171–236.</p><p>Horak, E. (1977a) Additions to “On cuboid-spored species of <em>Entoloma</em>”. <em>Sydowia</em> 29: 289–299.</p><p>Horak, E. (1977b) <em>Entoloma</em> in South America. I. <em>Sydowia</em> 30: 40–110.</p><p>Horak, E. (1980) <em>Entoloma</em> (Agaricales) in Indomalaya and Australasia. <em>Beihefte zur Nova Hedwigia</em> 65: 1–352.</p><p>Horak, E. (1982) <em>Entoloma</em> in South America. II. <em>Sydowia</em> 35: 75–99.</p><p>Horak, E. (2008) Agaricales of New Zealand 1: Pluteaceae (<em>Pluteus</em>, <em>Volvariella</em>); Entolomataceae (<em>Claudopus</em>, <em>Clitopilus</em>, <em>Entoloma</em>, <em>Pouzarella</em>, <em>Rhodocybe</em>, <em>Richoniella</em>). <em>Fungal Diversity Research Series</em> 19: 1–305.</p><p>Horak, E. &amp; Cheype, J.-L. (2008) <em>Entoloma acutopallidum </em>et <em>Entoloma pileofribrosum </em>deux espèces nouvelles de la Guyane française. <em>Bulletin de la Société Mycologique de France</em> 124: 287–298.</p><p>Horak, E. &amp; Desjardin, D.E. (1993) Agaricales of the Hawaiian Islands. 2. Notes on some <em>Entoloma</em> species. <em>Mycologia</em> 85: 480–489.</p><p> https://doi.org/10.1080/00275514.1993.12026298</p><p>Horak, E. &amp; Moreno, G. (1998) <em>Rhodogaster</em> <em>calongei</em> sp. nov. (<em>Basidiomycota</em>), first European record of the secotiaceous entolomatoid genus from northern Spain. <em>Sydowia</em> 50: 187–191.</p><p>Justo, A., Vizzini, A., Minnis, A.M., Menolli Jr., N., Capelari, M. Rodríguez, O., Malyshva, E., Contu, M., Ghignone, S. &amp; Hibbett, D.S. (2011) Phylogeny of Pluteaceae (Agaricales, Basidiomycota): taxonomy and character evolution. <em>Fungal Biology</em> 115: 1-20.</p><p> https://doi.org/10.1016/j.funbio.2010.09.012</p><p>Karstedt, F. &amp; Capelari, M. (2013) <em>Inocephalus</em> (Entolomataceae, Agaricales) from São Paulo State, Brazil. <em>Nova Hedwigia</em> 96: 279–308.</p><p> https://doi.org/10.1127/0029-5035/2012/0055</p><p>Karstedt, F. &amp; Capelari, M. (2015) A new species of Entolomataceae with cuboidal basidiospores from the São Paulo Metropolitan Region, Brazil. <em>Mycosphere</em> 6: 69–73.</p><p> https://doi.org/10.5943/mycosphere/6/1/8</p><p>Karstedt, F. &amp; Capelari, M. (2017) A new species of <em>Entoloma</em> subgenus <em>Trichopilus</em> from Atlantic Forest Region (Brazil). <em>Sydowia</em> 69: 23–28.</p><p>Kinoshita, A., Sasaki, H. &amp; Nara, K. (2012) Multiple origins of sequestrate basidiomes within <em>Entoloma</em> inferred from molecular phylogenetic analyses. <em>Fungal Biology</em> 116: 1250–1262.</p><p> https://doi.org/10.1016/j.funbio.2012.09.006</p><p><em>Kluting, </em>K.L., Baroni, T.J. &amp; Bergemann, S.E. (2014) Toward a stable classification of genera within the Entolomataceae: a phylogenetic re-evaluation of the Rhodocybe-Clitopilus clade. <em>Mycologia</em> 106: 1127–1142.</p><p> https://doi.org/10.3852/13-270</p><p>Kotlaba, F. &amp; Pouzar, Z. (1972) Taxonomic and nomenclatural notes on some Macromycetes. <em>Ceská Mykologie</em> 26: 217–222.</p><p>Kühner, R. &amp; Boursier, J. (1929) La forme des spores chez les agarics rhodo-goniosporés (genre <em>Rhodophyllus </em>Quélet). <em>Bulletin trimestriel de la Société Mycologique de France</em> 45: 264–277.</p><p>Kummer, P. (1871) <em>Der Führer in die Pilzkunde: Anleitung zum methodischen, leichten und sichern Bestimmen der in Deutschland vorkommenden Pilze: mit Ausnahme der Schimmel- und allzu winzigen Schleim- und Kern-Pilzchen. </em>Verlag von E. Luppe’s Buchhandlung, Zerbst, 146 pp.<em></em></p><p>Largent, D.L. (1974) Rhodophylloid fungi of the Pacific Coast (United States). IV. Infrageneric concepts in <em>Entoloma</em>, <em>Nolanea</em>, and <em>Leptonia</em>. <em>Mycologia</em> 66: 987–1021.</p><p> https://doi.org/10.1080/00275514.1974.12019703</p><p>Largent, D.L. (1994) <em>Entolomatoid fungi of the Western United States and Alaska</em>. Mad River Press, Eureka.</p><p>Largent, D.L. &amp; Benedict, R.G. (1970) Studies in the rhodophylloid fungi. II: <em>Alboleptonia</em>, a new genus. <em>Mycologia</em> 62: 437–452.</p><p> https://doi.org/10.1080/00275514.1970.12018985</p><p>Largent, D.L. &amp; Miller Jr, O.K. (1986) A new species of <em>Nolanea </em>with quadrate basidiospores. <em>Mycologia</em> 78: 136–138.</p><p> https://doi.org/10.1080/00275514.1986.12025218</p><p>Largent, D.L., Aime, M.C., Henkel, T.W. &amp; Baroni, T.J. (2008) The Entolomataceae of the Pakaraima Mountains of Guyana 2: <em>Inocephalus dragonosporus </em>comb. nov. <em>Mycotaxon</em> 105: 185–190.</p><p>Largent, D.L. &amp; Abell-Davis, S. (2011) Observations on <em>Inocephalus virescens </em>comb. nov. and <em>Alboleptonia stylophora </em>from northeastern Queensland. <em>Mycotaxon</em> 116: 231–245.</p><p> https://doi.org/10.5248/116.231</p><p>Largent, D.L., Bergemann, S.E., Cummings, G.A., Ryan, K.L., Abell-Davis, S.E., Moore, S. (2011) <em>Pouzarella</em> (Agaricales, Entolomataceae) species from New South Wales (Barrington Tops National Park) and northeastern Queensland, Australia. <em>Mycotaxon</em> 117: 435–483.</p><p> https://doi.org/10.5248/117.435</p><p>Largent, D.L., Bergemann, S.E., Abell-Davis, S.E., Kluting, K.L. &amp; Cummings, G.A. (2013a) Three new <em>Inocephalus </em>species with cuboid basidiospores from New South Wales and Queensland, Australia. <em>Mycotaxon</em> 123: 301–319.</p><p> https://doi.org/10.5248/123.301</p><p>Largent, D.L., Bergemann, S.E., Abell-Davis, S.E., Kluting, K.L. &amp; Cummings, G.A. (2013b) Five <em>Leptonia</em> species from New South Wales and Queensland, Australia. <em>Mycotaxon</em> 125: 11–35.</p><p> https://doi.org/10.5248/125.11</p><p>Li, C.-H., Li, T.H. &amp; Shen, Y.-H. (2009) Two new blue species of <em>Entoloma</em> (Basidiomycetes<em>, </em>Agaricales) from South China. <em>Mycotaxon</em> 107: 405–412.</p><p> https://doi.org/10.5248/107.405</p><p>Lundell, S. &amp; Nannfeldt, J.A. (1942) <em>Fungi Exsiccati Suecici. Fasc.</em> 23–24: 1101–1200.</p><p>Maddison, W.P. &amp; Maddison, D.R. (2011) Mesquite: a modular system for evolutionary analysis. Version 2.75. Available from:<em> </em>http://mesquiteproject.org (accessed 25 January 2019)</p><p>Manimohan, P., Leelavathy, K.M. &amp; Noordeloos, M.E. (2002) Three new species of <em>Entoloma </em>from Kerela State, India. <em>Persoonia</em> 17: 625–630.</p><p>Manimohan, P., Noordeloos, M.E. &amp; Dhanya, A.M. (2006) Studies on the genus <em>Entoloma </em>(Basidiomycetes, Agaricales) in Kerala State, India. <em>Persoonia</em> 19: 45–93.</p><p>Matheny, P.B., Curtis, J.M., Hofstetter, V., Aime, M.C., Moncalvo, J.-M., Ge, Z.-W., Yang, Z.-L., Slot, J.C., Ammirati, J.F., Baroni, T.J., Bougher, N.L., Hughes, K.W., Lodge, D.J., Kerrigan, R.W., Seidl, M.T., Aanen, D.K., DeNitis, M., Daniele, G.M., Desjardin, D.E., Kropp, B.R., Norvell, L.L., Parker, A., Vellinga, E.C., Vilgalys, R. &amp; Hibbett, D.S. (2006) Major clades of Agaricales: a multilocus phylogenetic overview. <em>Mycologia</em> 98: 982–995.</p><p> https://doi.org/10.1080/15572536.2006.11832627</p><p>Mazzer, S.J. (1976) A monographic study of the genus <em>Pouzarella</em>, a new genus in the Rhodophyllaceae, Agaricales, Basidiomycetes. <em>Bibliotheca Mycologica</em> 46: 1–191.</p><p>Miller, M.A., Pfeiffer, W. &amp; Schwartz, T. (2010) Creating the CIPRES SCIENCE Gateway for inference of large phylogenetic trees. <em>Proceedings of the Gateway Computing Environments Workshop (GCE), 14 Nov. 2010.</em> New Orleans, LA, pp. 1–8.</p><p> https://doi.org/10.1109/GCE.2010.5676129</p><p>Morgado, L.N., Noordeloos, M.E., Lamoureux, Y. &amp; Gemls, J. (2013) Multi-gene phylogenetic analyses reveal species limits, phylogeographic patterns, and evolutionary histories of key morphological traits in <em>Entoloma</em> (Agaricales, Basidiomycota). <em>Persoonia</em> 31: 159–178.</p><p> https://doi.org/10.3767/003158513X673521</p><p>Morozova, O.V., Noordeloos, M.E. &amp; Vila, J. (2014) <em>Entoloma</em> subgenus <em>Leptonia</em> in boreal-temperate Eurasia: towards a phylogenetic species concept. <em>Persoonia</em> 32: 141–169.</p><p> https://doi.org/10.3767/003158514X681774</p><p>Morozova, O.V., Popov, E.S. &amp; Kovalenko, A.E. (2012) Studies on mycobiota of Vietnam. I. Genus <em>Entoloma</em>: new records and new species. <em>Mikologiya i Fitopatologiya</em> 46: 182–200.</p><p>Murrill, W.A. (1911) The Agaricaceae of Tropical North America: IV. <em>Mycologia</em> 3: 271–282.</p><p>Natarajan, K. &amp; Ravidran, C. (2003) Two new species of the genus <em>Entoloma</em> from South India. <em>Mycotaxon</em> 85: 143–146.</p><p>Noordeloos, M.E. (1980) <em>Entoloma</em> subgenus <em>Nolanea</em> in the Netherlands and adjacent region with a reconnaissance of its remaing taxa in Europe. <em>Persoonia</em> 100: 520–521.</p><p>Noordeloos, M.E. (1981) Introduction to the taxonomy of the genus <em>Entoloma </em>sensu lato (Agaricales). <em>Persoonia</em> 11: 121–151.</p><p>Noordeloos, M.E. (1983) Studies in <em>Entoloma </em>– 7. <em>Entoloma</em> sect. <em>Phlebophora</em>, sect. nov. <em>Persoonia</em> 12: 75–79.</p><p>Noordeloos, M.E. (1992) <em>Entoloma</em> s.l. <em>Fungi Europaei</em> 5: 1–760.</p><p>Noordeloos, M.E. (2004) <em>Entoloma</em> s.l. <em>Fungi Europaei</em> 5a: 761–1378.</p><p>Noordeloos, M.E.&amp; Hausknecht, A. (1993) Die Gattung <em>Entoloma</em> in Ostösterreich. <em>Österreichische Zeitschrift für Pilzkunde</em> 2: 45–96.</p><p>Noordeloos, M.E. &amp; Hausknecht, A. (2007) The genus <em>Entoloma</em> (Basidiomycetes, Agaricales) of the Mascarenes and Seychelles. <em>Fungal Diversity</em> 27: 111–144.</p><p>Noordeloos, M.E. &amp; Morozova, O.V. (2010) New and noteworthy <em>Entoloma </em>species from the Prismorsky Territory, Russian Far East. <em>Mycotaxon</em> 112: 231–255.</p><p> https://doi.org/10.5248/112.231</p><p>Noordeloos, M.E. &amp; Gates, G.M. (2012) The Entolomataceae of Tasmania. <em>Fungal Diversity Research Series </em>22: 1–400.</p><p> https://doi.org/10.1007/978-94-007-4679-4</p><p>Orton, P.D. (1991a) A revised list of the British species of <em>Entoloma</em> sensu lato. <em>Mycologist</em> 5: 123–138.</p><p> https://doi.org/10.1016/S0269-915X(09)80307-8</p><p>Orton, P.D. (1991b) A revised list of the British species of <em>Entoloma</em> sensu lato. <em>Mycologist</em> 5: 172–176.</p><p> https://doi.org/10.1016/S0269-915X(09)80478-3</p><p>Osmundson, T.W., Robert, V.A., Schoch, C.L., Baker, L.J., Smith, A., Robich, G., Mizzan, L. &amp; Garbelotto, M.M. (2013) Filling gaps in biodiversity knowledge for macrofungi: contributions and assessment of an herbarium collection DNA barcode sequencing project. <em>PLoS ONE</em> 8 (4): E62419.</p><p> https://doi.org/10.1371/journal.pone.0062419</p><p>Peck, C.H. (1902) Report of the State Botanist (1900). <em>Annual Report on the New York State Museum of Natural History</em> 54: 131–199.</p><p>Petch, T. (1917) Revisions of Ceylon fungi V. <em>Annals of the Royal Botanic Gardens Peradeniya</em> 6: 307–355</p><p>Pegler, D.N. (1983) Agaric flora of the Lesser Antilles. <em>Kew Bulletin </em>Additional Series, 9: 1–668.</p><p>Pegler, D.N. &amp; Young, T.W.K. (1978) Entolomataceae Kotl. &amp; Pouz. <em>World Pollen and Spore Flora</em> 7: 1–32.</p><p>Pegler, D.N. &amp; Young, T.W.K. (1979) Spore form and phylogeny of Entolomataceae (Agaricales). <em>Sydow Beihefte</em> 8: 290–303.</p><p>Pilát, A. (1953) Hymenomycetes novi vel minus cogniti Cechoslovakiae. II. <em>Acta Musei Nationalis Pragae</em> 9B: 1–109.</p><p>Posada, D. (2008) jModelTest: Phylogenetic Model Averaging. <em>Molecular Biology and Evolution</em> 25: 1253–1256.</p><p> https://doi.org/10.1093/molbev/msn083</p><p>Pradeep, C.K., Vrinda, K.B., Varghese, S.P. &amp; Baroni, T.J. (2012) New species of <em>Entoloma </em>(Basidiomycetes, Agaricales) from Kerala State, India. <em>Mycotaxon</em> 120: 331–342.</p><p> https://doi.org/10.5248/120.331</p><p>Pradeep, C.K., Shibu, P.V., Vrinda, K.B. &amp; Baroni, T.B. (2013) Cuboid spored <em>Entoloma </em>in Kerala State, India. <em>Mycosphere</em> 4: 333–344.</p><p> https://doi.org/10.5943/mycosphere/4/2/14</p><p>Pradeep, C.K., Vrinda, K.B., Bijeesh, C. &amp; Baroni, T.J. (2016) Additions to the quadrate-spored <em>Entoloma </em>(Agaricales) in Kerala State, India. <em>Mycosphere</em> 7: 642–648.</p><p> https://doi.org/10.5943/mycosphere/7/5/9</p><p>Quélet, L. (1872) Les Champignons du Jura et des Vosges. <em>Mémoires de la Société d’Émulation de Montbéliard</em> 5: 43–332.</p><p>Romagnesi, H. (1937) Essai d’une sectionnement du genre <em>Rhodophyllus</em>. <em>Bulletin trimestriel de la Société Mycologique de France</em> 53: 319–338.</p><p>Romagnesi, H. (1941) Les Rhodophylles de Madagascar (<em>Entoloma</em>, <em>Nolanea</em>, <em>Leptonia</em>, <em>Eccilia</em>, <em>Claudopus</em>). <em>Prodrome à une Flore Mycologique de Madagascar</em> 2: 1–164.</p><p>Romagnesi, H. (1956) Les Rhodophylles du Congo Belge d’après les rècoltes de Mme. Goossens-Fontana. <em>Bulletin du Jardin Botanique de Bruxelles</em> 26: 137–182.</p><p>Romagnesi, H. (1974) Essai d’une classification des rhodophylles. <em>Bulletin Mensuel de la Société Linnéenne de Lyon </em>43: 325–332.</p><p>Romagnesi, H. &amp; Gilles, G. (1979) Les Rhodophylles des forêts côtières du Gabon et de la Côte d’Ivoire. <em>Beihefte zur Nova Hedwigia </em>59: 1–649.</p><p>Ronquist, F., Teslenko, M., van der Mark, P., Ayres, D.L., Höhna, S., Larget, B., Liu, L., Suchard, M.A. &amp; Huelsenbeck, J.P. (2012) MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space. <em>Systematic Biology </em>61: 539<strong>–</strong>542.</p><p> https://doi.org/10.1093/sysbio/sys029</p><p>Rozen, S. &amp; Skaletsky, H. (2000) Primer3 on the WWW for general users and for biologist programmers. <em>Methods in Molecular Biology</em> 132: 365<strong>–</strong>386.</p><p>Saccardo, P.A. (1887) Sylloge Hymenomycetum, Vol. I. Agaricineae. <em>Sylloge Fungorum</em> 5: 1–1146.</p><p>Saccardo, P.A. (1891) Supplementum Universale, Pars I. Agaricaceae-Laboulbeniaceae. <em>Sylloge Fungorum</em> 9: 1<strong>–</strong>1141.</p><p>Saccardo, P.A. &amp; Sydow, P. (1899) Supplementum Universale, Pars IV. <em>Sylloge Fungorum</em> 14: 1–1316.</p><p>Singer, R. (1940) Notes sur quelques Basidiomycètes. <em>Revue de Mycologie</em> 5: 3–13.</p><p>Singer, R. (1965) Interesting and new Agaricales from Brazil. <em>Atas do Instituto de Micologia</em> 2: 15–59.</p><p>Singer, R. (1973) Diagnosis Fungorum Novorum Agaricaliam III. <em>Beiheft</em> <em>Sydowia</em> 7: 1–106.</p><p>Stamatakis, A. (2006) RAxML-VI-HPC: Maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models. <em>Bioinformatics </em>22: 2688–2690.</p><p> https://doi.org/10.1093/bioinformatics/btl446</p><p>Stamatakis, A. (2014) RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. <em>Bioinformatics</em> 30: 1312–1313.</p><p> https://doi.org/10.1093/bioinformatics/btu033</p><p>Stanke, M., Diekhans, M., Baertsch, R. &amp; Haussler, D. (2008) Using native and syntenically mapped cDNA alignments to improve de novo gene finding. <em>Bioinformatics</em> 24: 637–644.</p><p> https://doi.org/10.1093/bioinformatics/btn013</p><p>Stevenson, G. (1962) The Agaricales of New Zealand: III. Rhodophyllaceae. <em>Kew Bulletin</em> 16: 227–237.</p><p> https://doi.org/10.2307/4118823</p><p>Talavera, G. &amp; Castresana, J. (2007) Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments. <em>Systematic Biology</em> 56: 564–577.</p><p> https://doi.org/10.1080/10635150701472164</p><p>Vellinga, E.C., Kuyper, T.W., Ammirati, J., Desjardin, D.E., Halling, R.E., Justo, A., Læssøe, T., Lebel, T., Lodge, D.J., Matheny, P.B., Methven, A.S., Moreau, P.-A., Mueller, G.M., Noordeloos, M.E., Nuytinck, J., Ovrebo, C.L. &amp; Verbeken, A. (2015) Six simple guidelines for introducing new genera of fungi. <em>IMA Fungus</em> 6: 65–68.</p><p>Wartchow, F. (2006) The neotropical <em>Entoloma dragonosporum </em>(Agaricales, Basidiomycota): New record from northeast Brazil. <em>Biociências</em> 14: 93–94.</p></p>
+					</div>
+		<br />
+		</div>
+	
+							<br />
+		<br />
+		DOI: <a id="pub-id::doi" href="https://doi.org/10.11646/phytotaxa.391.1.1">https://doi.org/10.11646/phytotaxa.391.1.1</a>																				
+
+<div class="separator"></div>
+
+<h3>Refbacks</h3>
+
+<ul>
+				<li>There are currently no refbacks.</li>
+	</ul>
+
+
+		
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_id=https%3A%2F%2Fwww.biotaxa.org%2FPhytotaxa%2Farticle%2Fview%2F39482&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.title=Phytotaxa&amp;rft.jtitle=Phytotaxa&amp;rft.atitle=%3Cp%3E%3Cstrong%3EPhylogenetic+and+morphological+analyses+of+species+of+the+%3Cem%3EEntolomataceae%3C%2Fem%3E+%28Agaricales%2C+Basidiomycota%29+with+cuboid+basidiospores%3C%2Fstrong%3E%3C%2Fp%3E&amp;rft.artnum=phytotaxa.391.1.1&amp;rft.stitle=Phytotaxa&amp;rft.volume=391&amp;rft.issue=1&amp;rft.aulast=KARSTEDT&amp;rft.aufirst=FERNANDA&amp;rft.auinit=&amp;rft.date=2019-01-29&amp;rft.au=FERNANDA+KARSTEDT&amp;rft.au=MARINA+CAPELARI&amp;rft.au=TIMOTHY+J.+BARONI&amp;rft.au=DAVID+L.+LARGENT&amp;rft.au=SARAH+E.+BERGEMANN&amp;rft_id=info%3Adoi%2F10.11646%2Fphytotaxa.391.1.1&amp;rft.pages=1%E2%80%9327&amp;rft.issn=1179-3155&amp;rft.eissn=1179-3163"></span>
+<!-- Google Analytics -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89286081-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<!-- End Google Analytics -->
+<br /><br />
+<p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;"><img src="/public/site/images/mapress/mpicon.gif" alt="" /></span></p><p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN <span lang="EN-AU">1179-3155 (print); </span></span><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN 1179-3163 (online)</span></p><p>Published by <a title="Magnolia Press" href="http://www.mapress.com/phytotaxa/index.htm" target="_blank">Magnolia Press</a>, Auckland, New Zealand</p><div> </div>
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+<script type="text/javascript">
+
+<!--
+	// Open "Define Terms" context when double-clicking any text
+	function openSearchTermWindow(url) {
+		var term;
+		if (window.getSelection) {
+			term = window.getSelection();
+		} else if (document.getSelection) {
+			term = document.getSelection();
+		} else if(document.selection && document.selection.createRange && document.selection.type.toLowerCase() == 'text') {
+			var range = document.selection.createRange();
+			term = range.text;
+		}
+		if (term != ""){
+			if (url.indexOf('?') > -1) openRTWindowWithToolbar(url + '&defineTerm=' + term);
+			else openRTWindowWithToolbar(url + '?defineTerm=' + term);
+		}
+	}
+
+	if(document.captureEvents) {
+		document.captureEvents(Event.DBLCLICK);
+	}
+
+	// Make sure to only open the reading tools when double clicking within the galley
+	if (document.getElementById('inlinePdfResizer')) {
+		context = document.getElementById('inlinePdfResizer');
+	}
+	else if (document.getElementById('content')) {
+		context = document.getElementById('content');
+	}
+	else {
+		context = document;
+	}
+
+	context.ondblclick = new Function("openSearchTermWindow('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.391.1.1/0/446')");
+// -->
+
+</script>
+
+
+</div> <!-- container -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"4f72ad4ec1","applicationID":"416471445","transactionName":"ZF0AZkZRWRVUVEINDF0XN0BdH14IUVJOShNbSA==","queueTime":0,"applicationTime":321,"atts":"SBoDEA5LShs=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

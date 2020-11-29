@@ -1,0 +1,476 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alfaro",
+        "given": "M.E."
+      },
+      {
+        "family": "Zoller",
+        "given": "S.F."
+      }
+    ],
+    "title": "Bayes or bootstrap? A simulation study comparing the performance of Bayesian Markov chain Monte Carlo sampling and bootstrapping in assessing phylogenetic confidence",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Molecular Biology & Evolution",
+    "issue": "2",
+    "issued": "2003",
+    "page": "255–266",
+    "URL": "https://doi.org/10.1093/molbev/msg028",
+    "DOI": "10.1093/molbev/msg028"
+  },
+  {
+    "author": [
+      {
+        "family": "Dring",
+        "given": "D.M."
+      }
+    ],
+    "title": "Techniques for microscopic preparation",
+    "editor": [
+      {
+        "family": "Booth",
+        "given": "C."
+      }
+    ],
+    "container-title": "Methods in microbiology",
+    "volume": "4",
+    "publisher": "Academic Press Inc",
+    "type": "chapter",
+    "issued": "1971",
+    "page": "95–111",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes—application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issue": "2",
+    "issued": "1993",
+    "page": "13–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilkey",
+        "given": "H.M."
+      }
+    ],
+    "title": "Tuberales",
+    "volume": "II 1",
+    "type": "article-journal",
+    "container-title": "North American Flora Ser",
+    "issued": "1954",
+    "page": "1–36"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "I.R."
+      },
+      {
+        "family": "Brown",
+        "given": "G.T."
+      },
+      {
+        "family": "Zambonelli",
+        "given": "A."
+      }
+    ],
+    "title": "Taming the truffle: the history, lore and science of the ultimate mushroom",
+    "publisher": "Timber Press",
+    "type": "book",
+    "issued": "2007",
+    "page": "304",
+    "publisher-place": "Portland, Oregon"
+  },
+  {
+    "author": [
+      {
+        "family": "Hillis",
+        "given": "D.M."
+      },
+      {
+        "family": "Bull",
+        "given": "J.J."
+      }
+    ],
+    "title": "An empirical test of bootstrapping as amethod for assessing confidence in phylogenetic analysis",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1993",
+    "page": "182–192",
+    "URL": "https://doi.org/10.1093/sysbio/42.2.182",
+    "DOI": "10.1093/sysbio/42.2.182"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J."
+      }
+    ],
+    "title": "MrModeltest 2.2. Computer software distributed by the University of Uppsala",
+    "publisher": "Evolutionary Biology Centre",
+    "type": "book",
+    "issued": "2004",
+    "publisher-place": "Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.D.M."
+      }
+    ],
+    "title": "TreeView32 1.6.6",
+    "note": "Distributed by the author. Available on internet at:",
+    "type": null,
+    "issued": "2001",
+    "URL": "http://taxonomy.zoology.gla.ac.uk/rod/rod.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Quélet",
+        "given": "L."
+      }
+    ],
+    "title": "Quelques espécies critiques ou nouvelles de la flore mycologique de France. Association française pour l’avancement des sciences",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Comptes-rendus",
+    "issued": "1883",
+    "page": "387– 412"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "Estimating the rate of molecular evolution: incorporating non-contemporaneous sequences into maximum likelihood phylogenies",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issue": "4",
+    "issued": "2000",
+    "page": "395–399",
+    "URL": "https://doi.org/10.1093/bioinformatics/16.4.395",
+    "DOI": "10.1093/bioinformatics/16.4.395"
+  },
+  {
+    "author": [
+      {
+        "family": "Rehner",
+        "given": "S.A."
+      },
+      {
+        "family": "Buckley",
+        "given": "E."
+      }
+    ],
+    "title": "A Beauveria phylogeny inferred from nuclear its and EF1-α sequences: evidence for cryptic diversification and links to cordyceps teleomorphs",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "1",
+    "issued": "2005",
+    "page": "84–98",
+    "URL": "https://doi.org/10.1080/15572536.2006.11832842",
+    "DOI": "10.1080/15572536.2006.11832842"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Ludwig",
+        "given": "T."
+      },
+      {
+        "family": "Meier",
+        "given": "H."
+      }
+    ],
+    "title": "RAxML-III: a fast program for maximum likelihood-based inference of large phylogenetic trees",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2005",
+    "page": "456–463",
+    "URL": "https://doi.org/10.1093/bioinformatics/bti191",
+    "DOI": "10.1093/bioinformatics/bti191"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum-likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issue": "9",
+    "issued": "2014",
+    "page": "1312–1313",
+    "URL": "https://doi.org/10.1093/bioinformatics/btu033",
+    "DOI": "10.1093/bioinformatics/btu033"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: phylogenetic analysis using parsimony (* and other methods), version 4.0 b10",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Tao",
+        "given": "K."
+      }
+    ],
+    "title": "A preliminary study on Chinese underground fungi",
+    "genre": "Master Thesis,",
+    "publisher": "Shanxi University, P.R. China",
+    "type": "thesis",
+    "issued": "1988",
+    "page": "77"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The clustal_x windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "https://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Trappe",
+        "given": "J.M."
+      }
+    ],
+    "title": "A synopsis of the Carbomycetaceae and Terfeziaceae (Tuberales",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issue": "1",
+    "issued": "1971",
+    "page": "85–92",
+    "URL": "https://doi.org/10.1016/S0007-1536(71)80083-9",
+    "DOI": "10.1016/S0007-1536(71)80083-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Trappe",
+        "given": "J.M."
+      }
+    ],
+    "title": "The hunted: commercially attractive truffles native to North America. In: Les champignons forestiers comestibles à potentiel commercial. ÉDITEUR",
+    "note": "RNC, 30 novembre et 1er décembre,",
+    "type": null,
+    "issued": "2009",
+    "page": "97–102",
+    "publisher-place": "Biopterre, ACCHF, Université Laval, CEF"
+  },
+  {
+    "author": [
+      {
+        "family": "Trappe",
+        "given": "M.J."
+      },
+      {
+        "family": "Trappe",
+        "given": "J.M."
+      },
+      {
+        "family": "Bonito",
+        "given": "G.M."
+      }
+    ],
+    "title": "Kalapuya brunnea gen. & sp. nov. and its relationship to the other sequestrate genera in Morchellaceae",
+    "volume": "102",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2010",
+    "page": "1058–1065",
+    "URL": "https://doi.org/10.3852/09-232",
+    "DOI": "10.3852/09-232"
+  },
+  {
+    "author": [
+      {
+        "family": "Tulasne",
+        "given": "L.R."
+      },
+      {
+        "family": "Tulasne",
+        "given": "C."
+      }
+    ],
+    "title": "Fungi hypogaei",
+    "edition": "ed. 2",
+    "type": null,
+    "issued": "1862",
+    "page": "222",
+    "publisher-place": "Klincksieck, Paris, XXIV"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issue": "8",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "https://doi.org/10.1128/jb.172.8.4238-4246.1990",
+    "DOI": "10.1128/jb.172.8.4238-4246.1990"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      },
+      {
+        "family": "Lee",
+        "given": "S.B."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: A Guide to Methods and Applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "URL": "https://doi.org/10.1016/b978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/b978-0-12-372180-8.50042-1"
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "7",
+    "publisher": "Treuttel & Würtz",
+    "issue": "2",
+    "type": "book",
+    "issued": "1839",
+    "page": "801",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "De Wilde",
+        "given": "W.J.J.O."
+      },
+      {
+        "family": "Dufjes",
+        "given": "B.E.E."
+      }
+    ],
+    "title": "The lesser-sized Lobelias of Asia and Malesia",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Thai Forest Bulletin (Botany",
+    "issued": "2012",
+    "page": "38–56"
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "C."
+      },
+      {
+        "family": "Maule",
+        "given": "A.F."
+      }
+    ],
+    "title": "Pehr Osbeck’s collections and Linnaeus’s Species Plantarum (1753",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issue": "3",
+    "issued": "1973",
+    "page": "189–212",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1973.tb01738.x",
+    "DOI": "10.1111/j.1095-8339.1973.tb01738.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Order out of Chaos. Linnaean plant names and their types",
+    "publisher": "Linnean Society of London & the Natural History Museum",
+    "type": "book",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Lammers",
+        "given": "T.G."
+      }
+    ],
+    "title": "Revision of the infrageneric classification of Lobelia L",
+    "director": [
+      {
+        "given": "Campanulaceae"
+      }
+    ],
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issue": "1",
+    "issued": "2011",
+    "page": "37–62",
+    "URL": "https://doi.org/10.3417/2007150",
+    "DOI": "10.3417/2007150"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "vols",
+    "note": "Impensis Laurentii Salvii, Holmiæ [Stockholm], 1200",
+    "type": null,
+    "issued": "1753",
+    "page": "1–2",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Mantissa plantarum altera",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1771",
+    "page": "445"
+  },
+  {
+    "author": [
+      {
+        "family": "Mani",
+        "given": "S."
+      }
+    ],
+    "title": "Lobelia zeylanica",
+    "container-title": "The IUCN Red List of Threatened Species 2013",
+    "type": "chapter",
+    "issued": "2013",
+    "URL": "http://dx.doi.org/10.2305/IUCN.UK.2011-1.RLTS.T177096A7360672.en",
+    "DOI": "10.2305/IUCN.UK.2011-1.RLTS.T177096A7360672.en"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "Adopted by the Eighteenth International Botanical Congress",
+    "note": "Regnum Vegetabile 154]. Koeltz Scientific Books, Königstein, xxx",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "208",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      },
+      {
+        "family": "Perry",
+        "given": "L.M."
+      }
+    ],
+    "title": "Plantae Papuanae Archboldianae, VII",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1941",
+    "page": "375–388"
+  },
+  {
+    "author": [
+      {
+        "family": "Moeliono",
+        "given": "B."
+      },
+      {
+        "family": "Tuyn",
+        "given": "P."
+      }
+    ],
+    "title": "Lobelia",
+    "editor": [
+      {
+        "family": "Steenis",
+        "given": "C.G.G.J.",
+        "particle": "van"
+      }
+    ],
+    "container-title": "Flora Malesiana",
+    "volume": "6",
+    "publisher": "Wolters-Noordhoff",
+    "type": "chapter",
+    "issued": "1960",
+    "page": "121–136",
+    "publisher-place": "Groningen"
+  },
+  {
+    "author": [
+      {
+        "family": "Murata",
+        "given": "J."
+      }
+    ],
+    "title": "A revision of the infrageneric classification of Lobelia (Campanulaceae: Lobelioideae) with special reference to seed coat morphology",
+    "volume": "3) 15",
+    "type": "article-journal",
+    "container-title": "Journal of the Faculty of Science, University of Tokyo (Section",
+    "issued": "1995",
+    "page": "349–371"
+  },
+  {
+    "author": [
+      {
+        "family": "Savage",
+        "given": "S."
+      }
+    ],
+    "title": "A Catalogue of the Linnaean Herbarium",
+    "publisher": "Linnean Society of London, London",
+    "type": "book",
+    "issued": "1945",
+    "page": "225"
+  },
+  {
+    "author": [
+      {
+        "family": "Wimmer",
+        "given": "F.E."
+      }
+    ],
+    "title": "Vorarbeiten zur Monographie der Campanulaceae-Lobelioideae: II",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Trib. Lobelieae. Annalen des Naturhistorisches Museums in Wien",
+    "issued": "1948",
+    "page": "317–374"
+  }
+]

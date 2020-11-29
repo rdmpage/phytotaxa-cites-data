@@ -1,0 +1,768 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ammirati",
+        "given": "J.F."
+      },
+      {
+        "family": "Parker",
+        "given": "A.D."
+      },
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      }
+    ],
+    "title": "Cleistocybe, a new genus of Agaricales",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2007",
+    "page": "282–289",
+    "URL": "http://dx.doi.org/10.1007/s10267-007-0365-5",
+    "DOI": "10.1007/s10267-007-0365-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Wen",
+        "given": "H.A."
+      },
+      {
+        "family": "Tolgor",
+        "given": "B."
+      },
+      {
+        "family": "Li",
+        "given": "T.H."
+      }
+    ],
+    "title": "A revised checklist of edible fungi in China",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "2010",
+    "page": "1–21"
+  },
+  {
+    "author": [
+      {
+        "family": "Harmaja",
+        "given": "H."
+      }
+    ],
+    "title": "The genus Clitocybe (Agaricales) in Fennoscandia",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Karstenia",
+    "issued": "1969",
+    "page": "5–168"
+  },
+  {
+    "author": [
+      {
+        "family": "Harmaja",
+        "given": "H."
+      }
+    ],
+    "title": "Notes on Clitocybe s. lato (Agaricales",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2003",
+    "page": "213–218"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "container-title": "Nucleic Acids Symposium Series",
+    "volume": "41",
+    "type": "paper-conference",
+    "issued": "1999",
+    "page": "95 98"
+  },
+  {
+    "author": [
+      {
+        "literal": "Hofstetter, V., Clémençon, H., Vilgalys, R. & Moncalvo, J.M."
+      }
+    ],
+    "title": "Phylogenetic analyses of the Lyophylleae (Agaricales, Basidiomycota) based on nuclear and mitochondrial rDNA sequences",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2002",
+    "page": "1043 1059",
+    "URL": "http://dx.doi.org/10.1017/S095375620200641X",
+    "DOI": "10.1017/S095375620200641X"
+  },
+  {
+    "author": [
+      {
+        "family": "Hughes",
+        "given": "K.W."
+      },
+      {
+        "family": "Petersen",
+        "given": "R.H."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      }
+    ],
+    "title": "Using heterozygosity to estimate a percentage DNA sequence similarity for environmental species’ delimitation across basidiomycete fungi",
+    "volume": "182",
+    "type": "article-journal",
+    "container-title": "New Phytologist",
+    "issued": "2009",
+    "page": "795 798",
+    "URL": "http://dx.doi.org/10.1111/j.1469-8137.2009.02802.x",
+    "DOI": "10.1111/j.1469-8137.2009.02802.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Fungorum",
+        "given": "Index"
+      }
+    ],
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.indexfungorum.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Jayasiri",
+        "given": "S.C."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Bhat",
+        "given": "J."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Cai",
+        "given": "L."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Abd-Elsalam",
+        "given": "K.A."
+      },
+      {
+        "family": "Ertz",
+        "given": "D."
+      },
+      {
+        "family": "Hidayat",
+        "given": "I."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Luangsa-ard",
+        "given": "J.J."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      },
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Nilsson",
+        "given": "H."
+      },
+      {
+        "family": "Pang",
+        "given": "K."
+      },
+      {
+        "family": "Pereira",
+        "given": "O.L."
+      },
+      {
+        "family": "Phillips",
+        "given": "A.J.L."
+      },
+      {
+        "family": "Raspé",
+        "given": "O."
+      },
+      {
+        "family": "Rollins",
+        "given": "A.W."
+      },
+      {
+        "family": "Romero",
+        "given": "A.I."
+      },
+      {
+        "family": "Etayo",
+        "given": "J."
+      },
+      {
+        "family": "Selçuk",
+        "given": "F."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Suetrong",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.E."
+      },
+      {
+        "family": "Tsui",
+        "given": "C.K.M."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Abdel-Wahab",
+        "given": "M.A."
+      },
+      {
+        "family": "Wen",
+        "given": "T.C."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Dai",
+        "given": "D.Q."
+      },
+      {
+        "family": "Daranagama",
+        "given": "D.A."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A.J."
+      },
+      {
+        "family": "Ekanayaka",
+        "given": "A.H."
+      },
+      {
+        "family": "Fryar",
+        "given": "S.C."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R.S."
+      },
+      {
+        "family": "Li",
+        "given": "W.J."
+      },
+      {
+        "family": "Perera",
+        "given": "R.H."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "De Silva",
+        "given": "N.I."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Kang",
+        "given": "J.C."
+      },
+      {
+        "family": "Promputtha",
+        "given": "I."
+      }
+    ],
+    "title": "The Faces of Fungi database: fungal names linked with morphology, phylogeny and human impacts",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "3–18",
+    "URL": "http://dx.doi.org/10.1007/s13225-015-0351-8",
+    "DOI": "10.1007/s13225-015-0351-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Brief in Bioinformatics",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "http://dx.doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Minter",
+        "given": "D.W."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Dictionary of the fungi",
+    "publisher": "Oxford Univ Pr",
+    "type": "book",
+    "issued": "2008",
+    "page": "341",
+    "publisher-place": "Wallingford"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Taschenlexikon der Farben 3",
+    "publisher": "Aufl. Verlag Muster-Schmidt, Göttingen",
+    "type": "book",
+    "issued": "1981",
+    "page": "242"
+  },
+  {
+    "author": [
+      {
+        "family": "Maeta",
+        "given": "K."
+      },
+      {
+        "family": "Ochi",
+        "given": "T."
+      },
+      {
+        "family": "Tokimoto",
+        "given": "K."
+      },
+      {
+        "family": "Shimomura",
+        "given": "N."
+      },
+      {
+        "family": "Maekawa",
+        "given": "N."
+      },
+      {
+        "family": "Kawaguchi",
+        "given": "N."
+      },
+      {
+        "family": "Aimi",
+        "given": "T."
+      }
+    ],
+    "title": "Rapid species identification of cooked poisonous mushrooms by using real-time PCR",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Applied and Environmental Microbiology",
+    "issued": "2008",
+    "page": "3306–3309",
+    "URL": "http://dx.doi.org/10.1128/AEM.02082-07",
+    "DOI": "10.1128/AEM.02082-07"
+  },
+  {
+    "author": [
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "Curtis",
+        "given": "J.M."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Aime",
+        "given": "M.C."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      },
+      {
+        "family": "Ge",
+        "given": "Z.W."
+      },
+      {
+        "family": "Bougher",
+        "given": "N.L."
+      }
+    ],
+    "title": "Major clades of Agaricales: a multilocus phylogenetic overview",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2006",
+    "page": "982–995",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.3852/mycologia.98.6.982"
+  },
+  {
+    "author": [
+      {
+        "family": "Malysheva",
+        "given": "E.F."
+      },
+      {
+        "family": "Morozova",
+        "given": "O.V."
+      },
+      {
+        "family": "Contu",
+        "given": "M."
+      }
+    ],
+    "title": "New combinations in Clitocybula: a study of cystidiate Pseudoomphalina species (Basidiomycota, Agaricomycetes",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "2011",
+    "page": "85–104"
+  },
+  {
+    "author": [
+      {
+        "family": "Qin",
+        "given": "J."
+      },
+      {
+        "family": "Feng",
+        "given": "B."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Li",
+        "given": "Y.C."
+      },
+      {
+        "family": "Ratkowsky",
+        "given": "D."
+      },
+      {
+        "family": "Gates",
+        "given": "G."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      }
+    ],
+    "title": "The taxonomic foundation, species circumscription and continental endemisms of Singerocybe: evidence from morphological and molecular data",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2014",
+    "page": "1015–1026",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.3852/13-338"
+  },
+  {
+    "author": [
+      {
+        "family": "Osmundson",
+        "given": "T.W."
+      },
+      {
+        "family": "Robert",
+        "given": "V.A."
+      },
+      {
+        "family": "Schoch",
+        "given": "C.L."
+      },
+      {
+        "family": "Baker",
+        "given": "L.J."
+      },
+      {
+        "family": "Smith",
+        "given": "A."
+      },
+      {
+        "family": "Robich",
+        "given": "G."
+      },
+      {
+        "family": "Garbelotto",
+        "given": "M.M."
+      }
+    ],
+    "title": "Filling gaps in biodiversity knowledge for macrofungi: contributions and assessment of an herbarium collection DNA barcode sequencing project",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "PloS ONE",
+    "issued": "2013",
+    "page": "62419– 62419",
+    "URL": "http://dx.doi.org/10.1371/journal.pone.0062419",
+    "DOI": "10.1371/journal.pone.0062419"
+  },
+  {
+    "author": [
+      {
+        "family": "Sabotič",
+        "given": "J."
+      },
+      {
+        "family": "Gaser",
+        "given": "D."
+      },
+      {
+        "family": "Rogelj",
+        "given": "B."
+      },
+      {
+        "family": "Gruden",
+        "given": "K."
+      },
+      {
+        "family": "Štrukelj",
+        "given": "B."
+      },
+      {
+        "family": "Brzin",
+        "given": "J."
+      }
+    ],
+    "title": "Heterogeneity in the cysteine protease inhibitor clitocypin gene family",
+    "volume": "387",
+    "type": "article-journal",
+    "container-title": "Biological Chemistry",
+    "issued": "2006",
+    "page": "1559–1566",
+    "URL": "http://dx.doi.org/10.1515/BC.2006.194",
+    "DOI": "10.1515/BC.2006.194"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "Agaricales in modern taxonomy",
+    "publisher": "Koeltz Scientific Books",
+    "type": "book",
+    "issued": "1986",
+    "page": "239"
+  },
+  {
+    "author": [
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Musumeci",
+        "given": "E."
+      },
+      {
+        "family": "Murat",
+        "given": "C."
+      }
+    ],
+    "title": "Trichocybe, a new genus for Clitocybe puberula (Agaricomycetes, Agaricales",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2010",
+    "page": "97–105",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.1007/s13225-010-0030-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Contu",
+        "given": "M."
+      },
+      {
+        "family": "Musumeci",
+        "given": "E."
+      },
+      {
+        "family": "Ercole",
+        "given": "E."
+      }
+    ],
+    "title": "A new taxon in the Infundibulicybe gibba complex (Basidiomycota, Agaricales, Tricholomataceae) from Sardinia (Italy",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2011",
+    "page": "203–208",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.3852/10-137"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Li",
+        "given": "Y.K."
+      },
+      {
+        "family": "Zhu",
+        "given": "X.T."
+      },
+      {
+        "family": "Zhao",
+        "given": "Y.C."
+      },
+      {
+        "family": "Liang",
+        "given": "J.F."
+      }
+    ],
+    "title": "Russula nigrovirens sp. nov.(Russulaceae) from southwestern China",
+    "volume": "236",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "249–256",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.11646/phytotaxa.236.3.5"
+  }
+]

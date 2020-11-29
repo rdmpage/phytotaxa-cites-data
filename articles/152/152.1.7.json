@@ -1,0 +1,429 @@
+[
+  {
+    "author": [
+      {
+        "literal": "Backer, C.A. & Bakhuizen van den Brink Jr., R.C."
+      }
+    ],
+    "title": "Flora of Java 2",
+    "publisher": "P. Noordhoff Ltd., Groningen",
+    "type": "book",
+    "issued": "1965",
+    "page": "641"
+  },
+  {
+    "author": [
+      {
+        "family": "Balgooy",
+        "given": "M.M.J.van"
+      }
+    ],
+    "title": "Pacific plant areas 5",
+    "publisher": "Rijksherbarium/Hortus Botanicus, Leiden University, Leiden",
+    "type": "book",
+    "issued": "1993",
+    "page": "251"
+  },
+  {
+    "author": [
+      {
+        "family": "Balgooy",
+        "given": "M.M.J.van"
+      }
+    ],
+    "title": "Malesian seed plants 3",
+    "publisher": "Nationaal Herbarium Nederland–Universiteit Leiden Branch, Leiden",
+    "type": "book",
+    "issued": "2001",
+    "page": "260"
+  },
+  {
+    "author": [
+      {
+        "family": "Chong",
+        "given": "K.Y."
+      },
+      {
+        "family": "Tan",
+        "given": "H.T.W."
+      },
+      {
+        "family": "Corlett",
+        "given": "R.T."
+      }
+    ],
+    "title": "A checklist of the total vascular plant flora of Singapore: native, naturalised and cultivated species",
+    "publisher": "Raffles Museum of Biodiversity Research, National University of Singapore, Singapore",
+    "type": "book",
+    "issued": "2009",
+    "page": "273"
+  },
+  {
+    "author": [
+      {
+        "family": "Conn",
+        "given": "B.J."
+      },
+      {
+        "family": "Lee",
+        "given": "L.L."
+      },
+      {
+        "family": "Kiapranis",
+        "given": "R."
+      }
+    ],
+    "title": "PNGplants database: plant collections from Papua New Guinea",
+    "note": "Available from",
+    "type": null,
+    "issued": "2004",
+    "URL": "http://www.pngplants.org/PNGdatabase"
+  },
+  {
+    "author": [
+      {
+        "family": "Coode",
+        "given": "M.J.E."
+      },
+      {
+        "family": "Dransfield",
+        "given": "J."
+      },
+      {
+        "family": "Forman",
+        "given": "L.L."
+      },
+      {
+        "family": "Kirkup",
+        "given": "D.W."
+      },
+      {
+        "family": "Said",
+        "given": "I.M."
+      }
+    ],
+    "title": "A checklist of the flowering plants & gymnosperms of Brunei Darussalam",
+    "publisher": "Ministry of Industry and Primary Resources",
+    "type": "book",
+    "issued": "1996",
+    "page": "476",
+    "publisher-place": "Brunei Darussalam"
+  },
+  {
+    "author": [
+      {
+        "family": "Hance",
+        "given": "H.F."
+      }
+    ],
+    "title": "Adversaria in stirpes imprimis Asiae Orientalis: criticas minusve notas interjectis novarum plurimarum diagnosibus",
+    "editor": [
+      {
+        "family": "Brongniart",
+        "given": "A."
+      },
+      {
+        "family": "Decaisne",
+        "given": "J."
+      }
+    ],
+    "container-title": "Annales des Sciences Naturelles, Botanique Sér",
+    "volume": "5",
+    "publisher": "Victor Masson",
+    "type": "chapter",
+    "issued": "1866",
+    "page": "5",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Hatusima",
+        "given": "S."
+      }
+    ],
+    "title": "An enumeration of the plants of Batan Island, N",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Philippines. Memoirs of the Faculty of Agriculture, Kagoshima University",
+    "issue": "3",
+    "issued": "1966",
+    "page": "13–70"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN Red list of the threatened species, version 2010.4",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "URL": "http://www.iucnredlist.org"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for application of IUCN red list criteria at regional and national levels, version 4.0",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "41",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK, iii"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunze",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio generum plantarum vascularium omnium atque cellularium multarum secundum leges nomenclaturae internationales cum enumeratione plantarum exoticarum in itinere mundi collectarum 2",
+    "publisher": "A. Felix, Leipzig",
+    "type": "book",
+    "issued": "1891",
+    "page": "637"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "H.L."
+      }
+    ],
+    "title": "Plumbaginaceae",
+    "container-title": "Editorial Committee of the Flora of Taiwan",
+    "editor": [
+      {
+        "family": "Edition",
+        "given": "Second"
+      }
+    ],
+    "edition": "2nd",
+    "publisher": "Second Edition",
+    "type": "chapter",
+    "issued": "1998",
+    "page": "79–82",
+    "publisher-place": "Taipei"
+  },
+  {
+    "author": [
+      {
+        "family": "Matsumura",
+        "given": "S.I."
+      },
+      {
+        "family": "Yokoyama",
+        "given": "J."
+      },
+      {
+        "family": "Tateishi",
+        "given": "Y."
+      },
+      {
+        "family": "Maki",
+        "given": "M."
+      }
+    ],
+    "title": "Intraspecific variation of flower colour and its distribution within a sea lavender, Limonium wrightii (Plumbaginaceae), in the northwestern Pacific Islands",
+    "volume": "119",
+    "type": "article-journal",
+    "container-title": "Journal of Plant Research",
+    "issued": "2006",
+    "page": "625–632",
+    "URL": "http://dx.doi.org/10.1007/s10265-006-0022-7",
+    "DOI": "10.1007/s10265-006-0022-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "On a collection of plants from the Batanes and Babuyanes Islands",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Philippine Journal of Science, section C, Botany",
+    "issued": "1908",
+    "page": "385–442"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "An enumeration of Philippine flowering plants 3",
+    "publisher": "Bureau of Printing, Manila",
+    "type": "book",
+    "issued": "1923",
+    "page": "628"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The gardeners dictionary",
+    "edition": "Abridged",
+    "note": "4. John and James Rivington, London, without pagination.",
+    "type": null,
+    "issued": "1754"
+  },
+  {
+    "author": [
+      {
+        "family": "Environment",
+        "given": "Ministry",
+        "particle": "of the"
+      },
+      {
+        "given": "Japan"
+      }
+    ],
+    "note": "Red Data List (Plants). Available from",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.biodic.go.jp/rdb/rdb_f.html."
+  },
+  {
+    "author": [
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "J.F.",
+        "given": "Barcelona"
+      },
+      {
+        "family": "D.L",
+        "given": "Nickrent"
+      }
+    ],
+    "title": "Co's digital flora of the Philippines",
+    "note": "Available from",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.philippineplants.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Peng",
+        "given": "Z.X."
+      },
+      {
+        "family": "Kamelin",
+        "given": "V."
+      }
+    ],
+    "title": "Plumbaginaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China 15. Missouri Botanical Garden Press, St",
+    "type": "chapter",
+    "issued": "1996",
+    "page": "190–204",
+    "publisher-place": "Louis, Missouri"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "The Flora of the Malay Peninsula 2",
+    "editor": [
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "family": "Ltd",
+        "given": "Co"
+      }
+    ],
+    "type": null,
+    "issued": "1923",
+    "page": "672",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Senga",
+        "given": "R.G."
+      }
+    ],
+    "title": "Establishing protected areas in the Philippines",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "The George Wright Forum",
+    "issued": "2001",
+    "page": "56–65"
+  },
+  {
+    "author": [
+      {
+        "family": "Steenis",
+        "given": "C.G.G.J.van"
+      }
+    ],
+    "title": "Plumbaginaceae",
+    "editor": [
+      {
+        "family": "Steenis",
+        "given": "C.G.G.J.van"
+      }
+    ],
+    "container-title": "Flora Malesiana",
+    "volume": "Series 1",
+    "publisher": "P. Noordhoff Ltd",
+    "type": "chapter",
+    "issued": "1949",
+    "page": "4",
+    "publisher-place": "Groningen",
+    "URL": "http://dx.doi.org/10.2307/4113668",
+    "DOI": "10.2307/4113668"
+  },
+  {
+    "author": [
+      {
+        "family": "J.C.",
+        "given": "Wang"
+      },
+      {
+        "family": "Chiou",
+        "given": "W.L."
+      },
+      {
+        "family": "Chang",
+        "given": "H.M."
+      }
+    ],
+    "title": "A preliminary Red List of Taiwanese vascular plants",
+    "publisher": "Endemic Species Research Institute & Taiwan Society of Plant Systematics, Nanto",
+    "type": "book",
+    "issued": "2012",
+    "page": "94",
+    "publisher-place": "Taiwan"
+  }
+]

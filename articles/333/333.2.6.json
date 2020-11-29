@@ -1,0 +1,364 @@
+[
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Decaisne",
+        "given": "J."
+      }
+    ],
+    "title": "Plantae rariores, quas in India orientali collegit Victor Jacquemont",
+    "editor": [
+      {
+        "family": "Jacquemont",
+        "given": "V.V."
+      }
+    ],
+    "volume": "4",
+    "publisher": "Paris",
+    "issue": "Botany",
+    "type": "book",
+    "issued": "1841",
+    "page": "57–183",
+    "publisher-place": "Guizot"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf material",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemical Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Ebersbach",
+        "given": "J."
+      },
+      {
+        "family": "Muellner-Riehl",
+        "given": "A.N."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      },
+      {
+        "family": "Tkach",
+        "given": "N."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "M.H."
+      },
+      {
+        "family": "Röser",
+        "given": "M."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Favre",
+        "given": "A."
+      }
+    ],
+    "title": "In and out of the Qinghai-Tibet Plateau: divergence time estimation and historical biogeography of the large arctic-alpine genus Saxifraga L",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2017",
+    "page": "900–910",
+    "URL": "https://doi.org/10.1111/jbi.12899",
+    "DOI": "10.1111/jbi.12899"
+  },
+  {
+    "author": [
+      {
+        "family": "Ebersbach",
+        "given": "J."
+      },
+      {
+        "family": "Schnitzler",
+        "given": "J."
+      },
+      {
+        "family": "Favre",
+        "given": "A."
+      },
+      {
+        "family": "Muellner-Riehl",
+        "given": "A.N."
+      }
+    ],
+    "title": "Evolutionary radiations in the species-rich mountain genus Saxifraga L",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2017",
+    "page": "119",
+    "URL": "https://doi.org/10.1186/s12862-017-0967-2",
+    "DOI": "10.1186/s12862-017-0967-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      },
+      {
+        "family": "Irmscher",
+        "given": "E."
+      }
+    ],
+    "title": "Plantae Chinenses Forrestianae. Enumeration and description of species of Saxifraga and Bergenia",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden, Edinburgh",
+    "issue": "24",
+    "issued": "1912",
+    "page": "123–148, 187–102"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A."
+      }
+    ],
+    "title": "Saxifragaceae, Crassulaceae et Combretaceae novae e flora sinensi",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique [Ed. L. Morot",
+    "issued": "1896",
+    "page": "260–269, 281–292"
+  },
+  {
+    "author": [
+      {
+        "family": "Gao",
+        "given": "Q."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Gornall",
+        "given": "R.J."
+      },
+      {
+        "family": "Zhang",
+        "given": "Z."
+      },
+      {
+        "family": "Zhang",
+        "given": "F."
+      },
+      {
+        "family": "Xing",
+        "given": "R."
+      }
+    ],
+    "title": "Phylogeny and speciation in Saxifraga sect. Ciliatae (Saxifragaceae): evidence from psbA-trnH, trnL-F and ITS sequences",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2015",
+    "page": "703–713",
+    "URL": "https://doi.org/10.12705/644.3",
+    "DOI": "10.12705/644.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Haworth",
+        "given": "A.H."
+      }
+    ],
+    "title": "A new arrangement of the genus Saxifraga",
+    "type": "article-journal",
+    "container-title": "Miscellanea naturalia. J. Taylor, London",
+    "issued": "1803",
+    "page": "145–168"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": null,
+    "issued": "1753",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Pan",
+        "given": "J.-T."
+      },
+      {
+        "family": "Gornall",
+        "given": "R.J."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "title": "Saxifraga",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2001",
+    "page": "280–344",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "C.P.J."
+      }
+    ],
+    "title": "Mantissa prima florae halensis",
+    "publisher": "C. Kümmelium",
+    "type": "book",
+    "issued": "1807",
+    "publisher-place": "Halae"
+  },
+  {
+    "author": [
+      {
+        "family": "Sternberg",
+        "given": "K.M."
+      }
+    ],
+    "title": "Revisio Saxifragarum",
+    "publisher": "H.F.A. Augustin",
+    "type": "book",
+    "issued": "1810",
+    "publisher-place": "Ratsibonae"
+  },
+  {
+    "author": [
+      {
+        "family": "Tkach",
+        "given": "N."
+      },
+      {
+        "family": "Röser",
+        "given": "M."
+      },
+      {
+        "family": "Miehe",
+        "given": "G."
+      },
+      {
+        "family": "Muellner-Riehl",
+        "given": "A.N."
+      },
+      {
+        "family": "Ebersbach",
+        "given": "J."
+      },
+      {
+        "family": "Favre",
+        "given": "A."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "M.H."
+      }
+    ],
+    "title": "Molecular phylogenetics, morphology and a revised classification of the complex genus Saxifraga (Saxifragaceae",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2015",
+    "page": "1159–1187",
+    "URL": "https://doi.org/10.12705/646.4",
+    "DOI": "10.12705/646.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Villars",
+        "given": "D."
+      }
+    ],
+    "title": "Prospectus de l’histoire des plantes de Dauphiné",
+    "publisher": "Imprimerie Royale",
+    "type": "book",
+    "issued": "1779",
+    "publisher-place": "Grenoble"
+  },
+  {
+    "author": [
+      {
+        "family": "Webb",
+        "given": "D.A."
+      },
+      {
+        "family": "Gornall",
+        "given": "R.J."
+      }
+    ],
+    "title": "Saxifrages of Europe",
+    "publisher": "C. Helm",
+    "type": "book",
+    "issued": "1989",
+    "publisher-place": "London"
+  }
+]

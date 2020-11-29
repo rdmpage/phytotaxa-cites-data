@@ -1,0 +1,309 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool. e- Infrastructures for data publishing in biodiversity science",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1855",
+    "page": "1–799"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issue": "1",
+    "issued": "1857",
+    "page": "1–656"
+  },
+  {
+    "author": [
+      {
+        "given": "B.F.G."
+      }
+    ],
+    "title": "Growing knowledge: an overview of Seed Plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2015",
+    "page": "1085–1113",
+    "URL": "https://doi.org/10.1590/2175-7860201566411",
+    "DOI": "10.1590/2175-7860201566411"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "issued": "1828",
+    "page": "207–296"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "E."
+      },
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Morfologia vegetal",
+    "edition": "2",
+    "publisher": "São Paulo, Plantarum",
+    "type": "book",
+    "issued": "2011",
+    "page": "544"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Ashton",
+        "given": "P."
+      },
+      {
+        "family": "Barrie",
+        "given": "F."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      },
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Nic Lughadha",
+        "given": "E."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      },
+      {
+        "family": "Soares-Silva",
+        "given": "L."
+      },
+      {
+        "family": "Wilson",
+        "given": "P.G."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Myrtaceae",
+    "container-title": "World Checklist of Selected Plant Families",
+    "note": "Available from:http://apps.kew.org/wcsp/qsearch.do (accessed 13 November 2016",
+    "type": "chapter",
+    "issued": "2016"
+  },
+  {
+    "author": [
+      {
+        "family": "Hickey",
+        "given": "M."
+      },
+      {
+        "family": "King",
+        "given": "C."
+      }
+    ],
+    "title": "The Cambridge illustrated glossary of botanical terms",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "208"
+  },
+  {
+    "author": [
+      {
+        "given": "I.B.G.E."
+      }
+    ],
+    "title": "IBGE cidades",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://cidades.ibge.gov.br/xtras/home.php?lang="
+  },
+  {
+    "author": [
+      {
+        "given": "I.N.C.T."
+      }
+    ],
+    "note": "speciesLink. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://inct.splink.org.br/"
+  },
+  {
+    "title": "IUCN [International Union for the Conservation of Nature and Natural Resources",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Species Plantarum",
+    "issued": "1753",
+    "page": "1–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Bünger",
+        "given": "M.O."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Sections in Eugenia (Myrteae, Myrtaceae): nomenclatural notes and a key",
+    "volume": "289",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "225–236",
+    "URL": "https://doi.org/10.11646/phytotaxa.289.3.2",
+    "DOI": "10.11646/phytotaxa.289.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "McDade",
+        "given": "L."
+      }
+    ],
+    "title": "Species concepts and problems in practice: insight from botanical monographs",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "1995",
+    "page": "606–622",
+    "URL": "https://doi.org/10.2307/2419813",
+    "DOI": "10.2307/2419813"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Flora of Peru—Myrtaceae",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Field Museum Publications in Botany",
+    "issued": "1958",
+    "page": "569–818"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum. A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  }
+]

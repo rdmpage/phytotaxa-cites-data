@@ -1,0 +1,107 @@
+[
+  {
+    "author": [
+      {
+        "family": "Decaisne",
+        "given": "M.J."
+      }
+    ],
+    "title": "Description d ́une herbier de l ́ile de Timor",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Nouvelles Annales du Museum d‘Histoire Naturelle",
+    "issued": "1834",
+    "page": "333–501"
+  },
+  {
+    "author": [
+      {
+        "family": "Gong",
+        "given": "X."
+      },
+      {
+        "family": "Li",
+        "given": "H."
+      }
+    ],
+    "title": "A new Amorphophallus species (Araceae) from Vietnam",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bangladesh Journal of Plant Taxonomy",
+    "issued": "2012",
+    "page": "201–203",
+    "URL": "https://doi.org/10.3329/bjpt.v19i2.13136",
+    "DOI": "10.3329/bjpt.v19i2.13136"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "J.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "publisher": "Adopted by the Eighteenth International Botanical Congress Melbourne",
+    "type": "book",
+    "issued": "2012",
+    "page": "240",
+    "publisher-place": "Melbourne Code"
+  }
+]

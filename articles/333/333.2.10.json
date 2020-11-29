@@ -1,0 +1,932 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bernicchia",
+        "given": "A."
+      },
+      {
+        "family": "Gorjón",
+        "given": "S.P."
+      }
+    ],
+    "title": "Corticiaceae s.l",
+    "volume": "n12",
+    "editor": [
+      {
+        "family": "Italia",
+        "given": "Ed Candusso"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Fungi Europaei",
+    "issued": "2010"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Global diversity and molecular systematics of Wrightoporia s. l",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Russulales, Basidiomycota). Persoonia",
+    "issued": "2016",
+    "page": "21–36",
+    "URL": "https://doi.org/10.3767/003158516X689666",
+    "DOI": "10.3767/003158516X689666"
+  },
+  {
+    "author": [
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Li",
+        "given": "B.D."
+      }
+    ],
+    "title": "Notes on the genus Rigidoporus (Basidiomycota, Polyporaceae) in China",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "2009",
+    "page": "189–297",
+    "URL": "https://doi.org/10.1127/0029-5035/2009/0088-0189",
+    "DOI": "10.1127/0029-5035/2009/0088-0189"
+  },
+  {
+    "author": [
+      {
+        "family": "Eriksson",
+        "given": "J."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "The Corticiaceae of North Europe",
+    "volume": "3",
+    "type": null,
+    "issued": "1975",
+    "page": "–",
+    "publisher-place": "Fungiflora, Oslo"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence intervals on phylogenetics: an approach using bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "https://doi.org/10.1111/j.1558-5646.1985.tb00420.x",
+    "DOI": "10.1111/j.1558-5646.1985.tb00420.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Floudas",
+        "given": "D."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      },
+      {
+        "family": "Riley",
+        "given": "R."
+      },
+      {
+        "family": "Barry",
+        "given": "K."
+      },
+      {
+        "family": "Blanchette",
+        "given": "R.A."
+      },
+      {
+        "family": "Henrissat",
+        "given": "B."
+      },
+      {
+        "family": "Martínez",
+        "given": "A.T."
+      },
+      {
+        "family": "Otillar",
+        "given": "R."
+      },
+      {
+        "family": "Spatafora",
+        "given": "J.W."
+      },
+      {
+        "family": "Yadav",
+        "given": "J.S."
+      },
+      {
+        "family": "Aerts",
+        "given": "A."
+      },
+      {
+        "family": "Benoit",
+        "given": "I."
+      },
+      {
+        "family": "Boyd",
+        "given": "A."
+      },
+      {
+        "family": "Carlson1",
+        "given": "A."
+      },
+      {
+        "family": "Copeland",
+        "given": "A."
+      },
+      {
+        "family": "Coutinho",
+        "given": "P.M."
+      },
+      {
+        "family": "Vries",
+        "given": "R.P.",
+        "particle": "de"
+      },
+      {
+        "family": "Ferreira",
+        "given": "P."
+      },
+      {
+        "family": "Findley",
+        "given": "K."
+      },
+      {
+        "family": "Foster",
+        "given": "B."
+      },
+      {
+        "family": "Gaskell",
+        "given": "J."
+      },
+      {
+        "family": "Glotzer",
+        "given": "D."
+      },
+      {
+        "family": "Górecki",
+        "given": "P."
+      },
+      {
+        "family": "Heitman",
+        "given": "J."
+      },
+      {
+        "family": "Hesse",
+        "given": "C."
+      },
+      {
+        "family": "Hori",
+        "given": "C."
+      },
+      {
+        "family": "Igarashi",
+        "given": "K."
+      },
+      {
+        "family": "Jurgens",
+        "given": "J.A."
+      },
+      {
+        "family": "Kallen",
+        "given": "N."
+      },
+      {
+        "family": "Kersten",
+        "given": "P."
+      },
+      {
+        "family": "Kohler",
+        "given": "A."
+      },
+      {
+        "family": "Kües",
+        "given": "U."
+      },
+      {
+        "family": "Arun Kumar",
+        "given": "T.K."
+      },
+      {
+        "family": "Kuo",
+        "given": "A."
+      },
+      {
+        "family": "LaButti",
+        "given": "K."
+      },
+      {
+        "family": "Larrondo",
+        "given": "L.F."
+      },
+      {
+        "family": "Lindquist",
+        "given": "E."
+      },
+      {
+        "family": "Ling",
+        "given": "A."
+      },
+      {
+        "family": "Lombard",
+        "given": "V."
+      },
+      {
+        "family": "Lucas",
+        "given": "S."
+      },
+      {
+        "family": "Lundell",
+        "given": "T."
+      },
+      {
+        "family": "Martin",
+        "given": "R."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "D.J."
+      },
+      {
+        "family": "Morgenstern",
+        "given": "I."
+      },
+      {
+        "family": "Morin",
+        "given": "E."
+      },
+      {
+        "family": "Murat",
+        "given": "C."
+      },
+      {
+        "family": "Nagy",
+        "given": "L.G."
+      },
+      {
+        "family": "Nolan",
+        "given": "M."
+      },
+      {
+        "family": "Ohm",
+        "given": "R.A."
+      },
+      {
+        "family": "Patyshakuliyeva",
+        "given": "A."
+      },
+      {
+        "family": "Rokas",
+        "given": "A."
+      },
+      {
+        "family": "Ruiz-Dueñas",
+        "given": "F.J."
+      },
+      {
+        "family": "Sabat",
+        "given": "G."
+      },
+      {
+        "family": "Salamov",
+        "given": "A."
+      },
+      {
+        "family": "Samejima",
+        "given": "M."
+      },
+      {
+        "family": "Schmutz",
+        "given": "J."
+      },
+      {
+        "family": "Slot",
+        "given": "J.C."
+      },
+      {
+        "family": "John",
+        "given": "F.S."
+      },
+      {
+        "family": "Stenlid",
+        "given": "J."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Sun",
+        "given": "S."
+      },
+      {
+        "family": "Syed",
+        "given": "K."
+      },
+      {
+        "family": "Tsang",
+        "given": "A."
+      },
+      {
+        "family": "Wiebenga",
+        "given": "A."
+      },
+      {
+        "family": "Young",
+        "given": "D."
+      },
+      {
+        "family": "Pisabarro",
+        "given": "A."
+      }
+    ],
+    "title": "The Paleozonic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes",
+    "volume": "336",
+    "type": "article-journal",
+    "container-title": "Science",
+    "issued": "2012",
+    "page": "1715–1719",
+    "publisher-place": "Eastwood, D.C., Martin, F., Cullen, D., Grigoriev, I.V., Hibbett, D.S",
+    "URL": "https://doi.org/10.1126/science.1221748",
+    "DOI": "10.1126/science.1221748"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "Bioedit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Han",
+        "given": "M.L."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Shen",
+        "given": "L.L."
+      },
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "Vlasák",
+        "given": "J."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Taxonomy and phylogeny of the brown-rot fungi: Fomitopsis and its related genera",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2016",
+    "page": "343–373",
+    "URL": "https://doi.org/10.1007/s13225-016-0364-y",
+    "DOI": "10.1007/s13225-016-0364-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Hjortstam",
+        "given": "K."
+      }
+    ],
+    "title": "Studies in tropical Corticiaceae (Basidiomycetes). V. Specimens from East Africa collected by L",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Ryvarden. Mycotaxon",
+    "issued": "1983",
+    "page": "555–572"
+  },
+  {
+    "author": [
+      {
+        "family": "Hjortstam",
+        "given": "K."
+      },
+      {
+        "literal": "II."
+      }
+    ],
+    "title": "Corticioid fungi described by M.J",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1990",
+    "page": "415–423",
+    "publisher-place": "Berkeley"
+  },
+  {
+    "author": [
+      {
+        "family": "Hjortstam",
+        "given": "K."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "Some new and noteworthy fungi (Aphyllophorales, Basidiomycetes) from Iguazu, Argentina",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1986",
+    "page": "539–567"
+  },
+  {
+    "author": [
+      {
+        "family": "Hjortstam",
+        "given": "K."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "some new tropical genera and species of corticioid fungi (Basidiomycotina, Aphyllophorales",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2004",
+    "page": "20–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Jülich",
+        "given": "W."
+      }
+    ],
+    "title": "Studies in resupinate basidiomycetes - III",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "1975",
+    "page": "291–305"
+  },
+  {
+    "author": [
+      {
+        "family": "Jülich",
+        "given": "W."
+      }
+    ],
+    "title": "Studies in resupinate basidiomycetes - V",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "1978",
+    "page": "137–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Jülich",
+        "given": "W."
+      }
+    ],
+    "title": "Higher taxa of Basidiomycetes",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Mycologica",
+    "issued": "1981",
+    "page": "1–485"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Briefings In Bioinformatics",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "https://doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "David",
+        "given": "J.C."
+      },
+      {
+        "family": "Minter",
+        "given": "D.W."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Ainsworth and Bisby’s dictionary of the fungi",
+    "edition": "10th",
+    "note": "CAB international, Oxon.",
+    "type": null,
+    "issued": "2008",
+    "URL": "https://doi.org/10.1079/9780851998268.0000",
+    "DOI": "10.1079/9780851998268.0000"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      },
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Kõljalg",
+        "given": "U."
+      }
+    ],
+    "title": "High phylogenetic diversity among corticioid homobasidiomycetes",
+    "volume": "108",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2004",
+    "page": "983–1002",
+    "URL": "https://doi.org/10.1017/S0953756204000851",
+    "DOI": "10.1017/S0953756204000851"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      }
+    ],
+    "title": "Re-thinking the classification of corticioid fungi",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2007",
+    "page": "1040–1063",
+    "URL": "https://doi.org/10.1016/j.mycres.2007.08.001",
+    "DOI": "10.1016/j.mycres.2007.08.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "H.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Taxonomy and multi-gene phylogeny of Datronia (Polyporales, Basidiomycota",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2014",
+    "page": "170–182",
+    "URL": "https://doi.org/10.3767/003158514X681828",
+    "DOI": "10.3767/003158514X681828"
+  },
+  {
+    "author": [
+      {
+        "family": "Núñez",
+        "given": "M."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "East Asian polypores 2",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2001",
+    "page": "165–522"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "J.H."
+      }
+    ],
+    "title": "Farvekort. The Danish Mycological Society ́s colour-chart",
+    "volume": "Greve. 6",
+    "type": "article-journal",
+    "container-title": "Foreningen til Svampekundskabens Fremme",
+    "issued": "1996",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pouzar",
+        "given": "Z."
+      }
+    ],
+    "title": "New genera of higher fungi III",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Ceská Mykologie",
+    "issued": "1959",
+    "page": "10–19"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "Modeltest: testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818",
+    "URL": "https://doi.org/10.1093/bioinformatics/14.9.817",
+    "DOI": "10.1093/bioinformatics/14.9.817"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Shen",
+        "given": "L.L."
+      },
+      {
+        "family": "Liu",
+        "given": "H.X."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Morphological characters and molecular data reveal two new species of Postia (Basidiomycota) from China",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2015",
+    "page": "7",
+    "URL": "https://doi.org/10.1007/s11557-015-1032-4",
+    "DOI": "10.1007/s11557-015-1032-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Phylogeny, divergence time and historical biogeography of Laetiporus (Basidiomycota, Polyporales",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2017",
+    "page": "102",
+    "URL": "https://doi.org/10.1186/s12862-017-0948-5",
+    "DOI": "10.1186/s12862-017-0948-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Wang",
+        "given": "M."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Phylogeny and biogeography of the remarkable genus Bondarzewia (Basidiomycota, Russulales",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Scientific Reports",
+    "issued": "2016",
+    "page": "34568",
+    "URL": "https://doi.org/10.1038/srep34568",
+    "DOI": "10.1038/srep34568"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (*and other methods",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "0b10",
+    "issued": "2002",
+    "publisher-place": "Sinauer Associates, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "container-title": "PCR Protocols: a guide to methods and applications (eds. MA Innis, DH Gelfand, JJ Sninsky and TJ White",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "F."
+      },
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Ji",
+        "given": "X.H."
+      },
+      {
+        "family": "Vlasák",
+        "given": "J."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Phylogeny and diversity of the morphologically similar polypore genera Rigidoporus, Physisporinus, Oxyporus and Leucophellinus",
+    "genre": "Mycologia.",
+    "type": null,
+    "issued": "2017",
+    "URL": "https://doi.org/10.1080/00275514.2017.1405215",
+    "DOI": "10.1080/00275514.2017.1405215"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "C.L."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Phylogeny and taxonomy of Ceriporiopsis (Polyporales) with descriptions of two new species from southern China",
+    "volume": "164",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "17–28",
+    "URL": "https://doi.org/10.11646/phytotaxa.164.1.2",
+    "DOI": "10.11646/phytotaxa.164.1.2"
+  }
+]

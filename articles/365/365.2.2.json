@@ -1,0 +1,533 @@
+[
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Diagnoses plantarum orientalium novarum",
+    "volume": "2",
+    "editor": [
+      {
+        "family": "Hermann",
+        "given": "Apud B."
+      },
+      {
+        "given": "Lipsiae"
+      },
+      {
+        "family": "Baillière",
+        "given": "Apud J.-B."
+      },
+      {
+        "given": "Parisiis"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "ser",
+    "issued": "1859",
+    "page": "6"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Flora Orientalis 2",
+    "editor": [
+      {
+        "family": "Georg",
+        "given": "Apud H."
+      },
+      {
+        "family": "Bibliopolam",
+        "given": "Genevae et Basileae"
+      }
+    ],
+    "type": null,
+    "issued": "1872",
+    "page": "1159"
+  },
+  {
+    "author": [
+      {
+        "family": "Chernova",
+        "given": "N.M."
+      }
+    ],
+    "title": "Umbelliferae (Apiaceae",
+    "editor": [
+      {
+        "family": "Rubtsov",
+        "given": "N.I."
+      }
+    ],
+    "publisher": "Science Publishers",
+    "note": "in Russian",
+    "type": null,
+    "issued": "1972",
+    "page": "331–359",
+    "publisher-place": "Leningrad"
+  },
+  {
+    "volume": "92",
+    "title": "Council Directive 92/43/EEC of 21 May 1992 on the Conservation of Natural Habitats and of Wild Fauna and Flora",
+    "type": "article-journal",
+    "container-title": "Directive",
+    "issue": "43/EEC",
+    "issued": "1992",
+    "page": "7–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Hand",
+        "given": "R."
+      }
+    ],
+    "title": "Apiaceae. Euro+Med Plantbase-the information resource for Euro-Mediterranean plant diversity",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/PTaxonDetail.asp?NameId=106829&PTRefFk=7500000"
+  },
+  {
+    "author": [
+      {
+        "family": "Kariagin",
+        "given": "I."
+      }
+    ],
+    "title": "Bupleurum L",
+    "editor": [
+      {
+        "family": "Kariagin",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora of Azerbaijan 6. Academy of Sciences of Azerbaijan SSR, Baku",
+    "note": "in Russian",
+    "type": "chapter",
+    "issued": "1955",
+    "page": "426–434"
+  },
+  {
+    "author": [
+      {
+        "family": "Koso-Poljansky",
+        "given": "B."
+      }
+    ],
+    "title": "Bupleura nonnulla taurico-caucasica",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Acta Horti Botanici Universitatis Imperialis Jurjevensis",
+    "issue": "1",
+    "issued": "1912",
+    "page": "12–16"
+  },
+  {
+    "author": [
+      {
+        "family": "Koso-Poljansky",
+        "given": "B."
+      }
+    ],
+    "title": "Epitome Bupleurorum Rossiae",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Acta Horti Petropolitani",
+    "issue": "2",
+    "issued": "1915",
+    "page": "135–333"
+  },
+  {
+    "author": [
+      {
+        "family": "Kotov",
+        "given": "M.I."
+      }
+    ],
+    "title": "Bupleurum L",
+    "editor": [
+      {
+        "family": "Prokudin",
+        "given": "YuN"
+      }
+    ],
+    "publisher": "Science Publishers",
+    "note": "in Russian",
+    "type": null,
+    "issued": "1987",
+    "page": "231–232",
+    "publisher-place": "Kiev"
+  },
+  {
+    "author": [
+      {
+        "family": "Ledebour",
+        "given": "C.F."
+      }
+    ],
+    "title": "Flora Rossica 2(1,5",
+    "genre": "E.Schweizerbart,",
+    "publisher": "Stuttgart",
+    "type": null,
+    "issued": "1844",
+    "page": "205–462"
+  },
+  {
+    "author": [
+      {
+        "family": "Linczevski",
+        "given": "I."
+      }
+    ],
+    "title": "Bupleurum L",
+    "editor": [
+      {
+        "family": "Shishkin",
+        "given": "B."
+      }
+    ],
+    "container-title": "Flora of URSS 16. Editio Academiae Scientiarum URSS, Mosqua & Leningrad",
+    "note": "in Russian",
+    "type": "chapter",
+    "issued": "1950",
+    "page": "275–349"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": "article-journal",
+    "container-title": "Laurentii Salvii, Holmiae [Stockholm",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2, vol. 1",
+    "publisher": "Laurentii Salvii, Holmiae [Stockholm",
+    "type": "book",
+    "issued": "1762",
+    "page": "784"
+  },
+  {
+    "author": [
+      {
+        "family": "Mandenova",
+        "given": "I."
+      }
+    ],
+    "title": "Bupleurum L",
+    "editor": [
+      {
+        "family": "Takhtajan",
+        "given": "A.L."
+      }
+    ],
+    "container-title": "Flora of Armenia 6. Akademii Nauk Armenia SSR, Yerevan",
+    "note": "in Russian",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "329–338"
+  },
+  {
+    "author": [
+      {
+        "family": "Mandenova",
+        "given": "I."
+      }
+    ],
+    "title": "Bupleurum L",
+    "editor": [
+      {
+        "family": "Kuthatheladze",
+        "given": "Sch"
+      },
+      {
+        "family": "Latschashvili",
+        "given": "I."
+      },
+      {
+        "family": "Mandenova",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora Georgiae 9",
+    "publisher": "Metsniereba",
+    "note": "in Georgian",
+    "type": "chapter",
+    "issued": "1984",
+    "page": "185–199",
+    "publisher-place": "Tbilisi"
+  },
+  {
+    "author": [
+      {
+        "family": "Herbarium",
+        "given": "Moscow Digital"
+      }
+    ],
+    "title": "National Depository Bank of Live Systems",
+    "note": "accessed 7 March 2018). Available from:",
+    "type": null,
+    "URL": "https://plant.depo.msu.ru/public/scan.jpg?pcode=MW0698488,"
+  },
+  {
+    "author": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      },
+      {
+        "family": "Snogerup",
+        "given": "S."
+      }
+    ],
+    "title": "Bupleurum L",
+    "editor": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "container-title": "Flora Iranica 162",
+    "publisher": "Akademische Druck-und Verlagsanstalt, Graz",
+    "type": "chapter",
+    "issued": "1988",
+    "page": "269–297"
+  },
+  {
+    "author": [
+      {
+        "family": "Snogerup",
+        "given": "S."
+      }
+    ],
+    "title": "Bupleurum L",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Edinburgh University Press",
+    "type": "book",
+    "issued": "1972",
+    "page": "393–418",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Snogerup",
+        "given": "S."
+      },
+      {
+        "family": "Snogerup",
+        "given": "B."
+      }
+    ],
+    "title": "Bupleurum L. (Umbelliferae) in Europe: 1",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "The annuals, B. sect. Bupleurum and sect. Aristata. Willdenowia",
+    "issued": "2001",
+    "page": "205–308",
+    "URL": "https://doi.org/10.3372/wi.31.31201",
+    "DOI": "10.3372/wi.31.31201"
+  },
+  {
+    "author": [
+      {
+        "family": "Snogerup",
+        "given": "S."
+      },
+      {
+        "family": "Snogerup",
+        "given": "B."
+      }
+    ],
+    "title": "Local endemism in European annual Bupleurum (Umbelliferae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Bocconea",
+    "issue": "2",
+    "issued": "2003",
+    "page": "751–755"
+  },
+  {
+    "author": [
+      {
+        "family": "Tchihatcheff",
+        "given": "P."
+      }
+    ],
+    "title": "Asie Mineure description physique, statistique et archéologique",
+    "volume": "1",
+    "publisher": "Gide",
+    "type": "article-journal",
+    "container-title": "Botanique",
+    "issued": "1860",
+    "page": "484",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated]. Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "New York Botanical Garden. Available from:",
+    "type": null,
+    "issued": "2008",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "publisher": "Koeltz Botanical Books, Glashütten",
+    "type": "chapter",
+    "issued": "2018",
+    "page": "254",
+    "publisher-place": "China"
+  },
+  {
+    "author": [
+      {
+        "family": "JACQ",
+        "given": "Virtual Herbaria"
+      }
+    ],
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018-03-07",
+    "URL": "http://herbarium.univie.ac.at/database/detail.php?ID=1186749"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolff",
+        "given": "H."
+      }
+    ],
+    "title": "Umbelliferae-Apioideae-Bupleurum, Trinia et reliquae Ammineae heteroclitae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Die Pflanzenreich 43 (IV, 228",
+    "publisher": "Wilhelm Engelmann, Leipzig",
+    "type": "chapter",
+    "issued": "1910",
+    "page": "214"
+  },
+  {
+    "author": [
+      {
+        "family": "Yena",
+        "given": "A.V."
+      }
+    ],
+    "title": "Spontaneous Flora of the Crimean Peninsula",
+    "publisher": "N. Orianda, Simferopol",
+    "note": "in Russian",
+    "type": null,
+    "issued": "2012",
+    "page": "232"
+  }
+]

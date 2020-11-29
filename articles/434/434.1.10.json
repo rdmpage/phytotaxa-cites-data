@@ -1,0 +1,616 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bertoloni",
+        "given": "A."
+      }
+    ],
+    "title": "Miscellanea botanica 3. Ex typographaeo Emygdii ab Ulmo",
+    "type": "article-journal",
+    "container-title": "Bononiae [Bologna",
+    "issued": "1844",
+    "page": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Euphorbieae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.L.P.P.de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis 15",
+    "publisher": "Victor Masson & Fils",
+    "type": "chapter",
+    "issued": "1862",
+    "page": "2",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      }
+    ],
+    "title": "Auxilium ad botanicorum graphicem",
+    "type": "article-journal",
+    "container-title": "Conservatoire et Jardin Botaniques, Genève",
+    "issued": "1979",
+    "page": "525"
+  },
+  {
+    "author": [
+      {
+        "family": "Delprete",
+        "given": "P.G."
+      },
+      {
+        "family": "Forneris",
+        "given": "G."
+      },
+      {
+        "family": "Pistarino",
+        "given": "A."
+      }
+    ],
+    "title": "Carlo Bertero (1789–1831) in the New World",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Sida",
+    "issued": "2002",
+    "page": "621–644"
+  },
+  {
+    "author": [
+      {
+        "family": "Forneris",
+        "given": "G."
+      },
+      {
+        "family": "Pistarino",
+        "given": "A."
+      },
+      {
+        "family": "Mossetti",
+        "given": "U."
+      },
+      {
+        "family": "Montacchini",
+        "given": "F."
+      }
+    ],
+    "title": "Il contributo di botanici e di erborizzatori sul territorio piemontese alla redazione della Flora Italica di Antonio Bertoloni",
+    "editor": [
+      {
+        "family": "Pichi Sermolli",
+        "given": "R.E.G."
+      },
+      {
+        "family": "Ferrarini",
+        "given": "E."
+      },
+      {
+        "family": "Faggioni",
+        "given": "P.E."
+      }
+    ],
+    "container-title": "Atti del convegno Studi sulla flora dell’Appennino settentrionale ed Alpi Apuane in celebrazione di Antonio Bertoloni (1775–1869). Sarzana 13–15 giugno 1991. Memorie della Accademia Lunigianese di Scienze «Giovanni Capellini»",
+    "volume": "1",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "60–61"
+  },
+  {
+    "author": [
+      {
+        "family": "Galasso",
+        "given": "G."
+      },
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Alessandrini",
+        "given": "A."
+      },
+      {
+        "family": "Ardenghi",
+        "given": "N.M.G."
+      },
+      {
+        "family": "Bacchetta",
+        "given": "G."
+      },
+      {
+        "family": "Ballelli",
+        "given": "S."
+      },
+      {
+        "family": "Bartolucci",
+        "given": "F."
+      },
+      {
+        "family": "Brundu",
+        "given": "G."
+      },
+      {
+        "family": "Buono",
+        "given": "S."
+      },
+      {
+        "family": "Busnardo",
+        "given": "G."
+      },
+      {
+        "family": "Calvia",
+        "given": "G."
+      },
+      {
+        "family": "Capece",
+        "given": "P."
+      },
+      {
+        "family": "D’Antraccoli",
+        "given": "M."
+      },
+      {
+        "family": "Di Nuzzo",
+        "given": "L."
+      },
+      {
+        "family": "Fanfarillo",
+        "given": "E."
+      },
+      {
+        "family": "Ferretti",
+        "given": "G."
+      },
+      {
+        "family": "Guarino",
+        "given": "R."
+      },
+      {
+        "family": "Iamonico",
+        "given": "D."
+      },
+      {
+        "family": "Iberite",
+        "given": "M."
+      },
+      {
+        "family": "Latini",
+        "given": "M."
+      },
+      {
+        "family": "Lazzaro",
+        "given": "L."
+      },
+      {
+        "family": "Lonati",
+        "given": "M."
+      },
+      {
+        "family": "Lozano",
+        "given": "V."
+      },
+      {
+        "family": "Magrini",
+        "given": "S."
+      },
+      {
+        "family": "Mei",
+        "given": "G."
+      },
+      {
+        "family": "Mereu",
+        "given": "G."
+      },
+      {
+        "family": "Moro",
+        "given": "A."
+      },
+      {
+        "family": "Mugnai",
+        "given": "M."
+      },
+      {
+        "family": "Nicolella",
+        "given": "G."
+      },
+      {
+        "family": "Nimis",
+        "given": "P.L."
+      },
+      {
+        "family": "Olivieri",
+        "given": "Н."
+      },
+      {
+        "family": "Pennesi",
+        "given": "R."
+      },
+      {
+        "family": "Peruzzi",
+        "given": "L."
+      },
+      {
+        "family": "Podda",
+        "given": "L."
+      },
+      {
+        "family": "Probo",
+        "given": "M."
+      },
+      {
+        "family": "Prosser",
+        "given": "F."
+      },
+      {
+        "family": "Ravetto Enri",
+        "given": "S."
+      },
+      {
+        "family": "Roma-Marzio",
+        "given": "F."
+      },
+      {
+        "family": "Ruggero",
+        "given": "A."
+      },
+      {
+        "family": "Scafidi",
+        "given": "F."
+      },
+      {
+        "family": "Stinca",
+        "given": "A."
+      },
+      {
+        "family": "Nepi",
+        "given": "C."
+      }
+    ],
+    "title": "Notulae to the Italian alien vascular flora: 6",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Italian Botanist",
+    "issued": "2018",
+    "page": "65–90",
+    "URL": "https://doi.org/10.3897/italianbotanist.6.30560",
+    "DOI": "10.3897/italianbotanist.6.30560"
+  },
+  {
+    "author": [
+      {
+        "given": "Lagasca"
+      },
+      {
+        "family": "Segura",
+        "given": "M."
+      }
+    ],
+    "title": "Genera et species plantarum",
+    "volume": "Madrid",
+    "type": "article-journal",
+    "container-title": "Typographia Regia",
+    "issued": "1816",
+    "page": "35"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Maugini",
+        "given": "E."
+      }
+    ],
+    "title": "La figura di Antonio Bertoloni nei suoi rapporti con i botanici toscani (da scritti editi ed inediti",
+    "editor": [
+      {
+        "family": "Pichi Sermolli",
+        "given": "R.E.G."
+      },
+      {
+        "family": "Ferrarini",
+        "given": "E."
+      },
+      {
+        "family": "Faggioni",
+        "given": "P.E."
+      }
+    ],
+    "container-title": "Atti del convegno Studi sulla flora dell’Appennino settentrionale ed Alpi Apuane in celebrazione di Antonio Bertoloni (1775–1869). Sarzana 13–15 giugno 1991. Memorie della Accademia Lunigianese di Scienze «Giovanni Capellini»",
+    "volume": "1",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "60–61"
+  },
+  {
+    "author": [
+      {
+        "family": "Pignatti",
+        "given": "S."
+      }
+    ],
+    "title": "Flora d’italia",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2",
+    "publisher": "Edagricole",
+    "type": "book",
+    "issued": "2012",
+    "page": "2",
+    "publisher-place": "Bologna"
+  },
+  {
+    "author": [
+      {
+        "family": "Pistarino",
+        "given": "A."
+      },
+      {
+        "family": "Clemente",
+        "given": "F."
+      },
+      {
+        "family": "Forneris",
+        "given": "G."
+      }
+    ],
+    "title": "La personalità e la ricerca floristica di Carlo Bertero (1789–1831) delineate attraverso i suoi manoscritti e materiali d’erbario",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Rivista Piemontese di Storia Naturale",
+    "issued": "1989",
+    "page": "5–28"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Second decade of undescribed American plants",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "The American Monthly Magazine and Critical Review",
+    "issued": "1817",
+    "page": "119–120"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "K.P.J."
+      }
+    ],
+    "title": "Systema Vegetabilium, Editio Decima Sexta, 3. Sumptibus Librariae Dieterichianae",
+    "publisher": "Göttingen",
+    "type": "book",
+    "issued": "1826",
+    "page": "936"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "A.F."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2, 1",
+    "publisher": "A–G). Bohn, Scheltema & Holtema",
+    "type": "book",
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "A.F."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "editor": [
+      {
+        "literal": "ed."
+      },
+      {
+        "family": "Bohn",
+        "given": "Sal–Ste)"
+      },
+      {
+        "given": "Scheltema"
+      },
+      {
+        "given": "Holtema"
+      }
+    ],
+    "volume": "2, 5",
+    "type": null,
+    "issued": "1985",
+    "page": null,
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "The New York Botanical Garden, New York. Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "volume": "159",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Regnum Vegetabile",
+    "issued": "2018",
+    "page": "1–254",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.S.P."
+      }
+    ],
+    "title": "World Checklist of Selected Plant Families. Facilitated by the Royal Botanic Gardens",
+    "note": "Kew. Published on the Internet. Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://wcsp.science.kew.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Y."
+      },
+      {
+        "family": "Riina",
+        "given": "R."
+      },
+      {
+        "family": "Morawetz",
+        "given": "J.J."
+      },
+      {
+        "family": "Haevermans",
+        "given": "T."
+      },
+      {
+        "family": "Aubriot",
+        "given": "X."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      }
+    ],
+    "title": "Molecular phylogenetics and classification of Euphorbia subgenus Chamaesyce (Euphorbiaceae",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2012",
+    "page": "764–789",
+    "URL": "https://doi.org/10.1002/tax.614005",
+    "DOI": "10.1002/tax.614005"
+  }
+]

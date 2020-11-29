@@ -1,0 +1,409 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berger",
+        "given": "A."
+      }
+    ],
+    "title": "Crassulaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      },
+      {
+        "literal": "ed."
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien",
+    "volume": "2. 18a",
+    "publisher": "Verlag Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1930",
+    "page": "352–458",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Carrillo-Reyes",
+        "given": "P."
+      },
+      {
+        "family": "Sosa",
+        "given": "V."
+      },
+      {
+        "family": "Mort",
+        "given": "M.E."
+      }
+    ],
+    "title": "Molecular phylogeny of the Acre clade (Crassulaceae): dealing with the lack of definitions for Echeveria and Sedum",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2009",
+    "page": "267–276",
+    "URL": "https://doi.org/10.1016/j.ympev.2009.05.022",
+    "DOI": "10.1016/j.ympev.2009.05.022"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Crassulaceae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "container-title": "Prodromus systematics naturalis regni vegetabilis III",
+    "publisher": "Treutel et Würtz",
+    "type": "chapter",
+    "issued": "1828",
+    "page": "401",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "García",
+        "given": "E."
+      }
+    ],
+    "title": "Modificaciones al sistema de clasificación climática de Köppen",
+    "container-title": "2a edición Instituto de Geografía. Universidad Nacional Autónoma de México",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "246",
+    "publisher-place": "México, D.F"
+  },
+  {
+    "author": [
+      {
+        "family": "Ham",
+        "given": "R.H.J."
+      },
+      {
+        "family": "Hart",
+        "given": "H."
+      }
+    ],
+    "title": "Phylogenetic relationships in the Crassulaceae inferred from chloroplast DNA variation",
+    "editor": [
+      {
+        "family": "Hart",
+        "given": "H."
+      },
+      {
+        "family": "Eggli",
+        "given": "U."
+      }
+    ],
+    "container-title": "Evolution and systematics of the Crassulaceae",
+    "publisher": "Backhuys Publishers",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "16–29",
+    "publisher-place": "Leiden"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "type": null,
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK, iv"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Einer neuen mexikanischen Pflanze Pachyphytum bracteosum",
+    "editor": [
+      {
+        "family": "Otto",
+        "given": "F."
+      },
+      {
+        "family": "Dietrich",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Allgemeine Gartenzeitung",
+    "volume": "9",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1841",
+    "page": "9"
+  },
+  {
+    "author": [
+      {
+        "family": "Leinfellner",
+        "given": "W."
+      }
+    ],
+    "title": "Beiträge zur kronblattmorphologie. III. Die kronblätter der Gattung Pachyphytum",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "Österreichische Botanische Zeitschrift",
+    "issued": "1954",
+    "page": "586–591",
+    "URL": "https://doi.org/10.1007/BF01284373",
+    "DOI": "10.1007/BF01284373"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyrán",
+        "given": "G.J."
+      },
+      {
+        "family": "Chávez",
+        "given": "L.L."
+      }
+    ],
+    "title": "Las Crassuláceas de México. Sociedad Mexicana de Cactología",
+    "publisher": "D.F",
+    "type": "book",
+    "issued": "2003",
+    "page": "234",
+    "publisher-place": "A.C., México"
+  },
+  {
+    "author": [
+      {
+        "family": "Moran",
+        "given": "R."
+      }
+    ],
+    "title": "Pachyphytum brevifolium Rose and P. glutinicaule, a new species from Hidalgo, Mexico",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Cactus and Succulent Journal",
+    "issued": "1963",
+    "page": "35–41"
+  },
+  {
+    "author": [
+      {
+        "family": "Moran",
+        "given": "R."
+      }
+    ],
+    "title": "Pachyphytum coeruleum Meyrán",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Natural Cacti & Succulent Journal",
+    "issued": "1965",
+    "page": "37–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Moran",
+        "given": "R."
+      }
+    ],
+    "title": "New subgeneric groups in Echeveria and Pachyphytum",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Cactus and Succulent Journal of America",
+    "issued": "1968",
+    "page": "36–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Moran",
+        "given": "R."
+      }
+    ],
+    "title": "Pachyphytum fittkaui, a new species from Guanajuato, Mexico",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Cactus and Succulent Journal",
+    "issued": "1971",
+    "page": "26–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Calix",
+        "given": "E."
+      }
+    ],
+    "title": "Crassulaceae. Fascículo 156. Flora del Bajío y regiones adyacentes",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Instituto de Ecología, A. C., Centro regional del Bajío, Pátzcuaro",
+    "issue": "oacán",
+    "issued": "2008",
+    "page": "141"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Calix",
+        "given": "E."
+      },
+      {
+        "family": "Glass",
+        "given": "C."
+      }
+    ],
+    "title": "Pachyphytum brevifolium Rose (Crassulaceae) a un siglo de su descubrimiento y Pachyphytum garciae, una especie nueva del centro de México",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "1999",
+    "page": "1–10",
+    "URL": "https://doi.org/10.21829/abm48.1999.829",
+    "DOI": "10.21829/abm48.1999.829"
+  },
+  {
+    "author": [
+      {
+        "family": "Rose",
+        "given": "J.N."
+      }
+    ],
+    "title": "Studies of Mexican and Central American plants -No 7",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Contributions United States Natural",
+    "issue": "erbarium13",
+    "issued": "1911",
+    "page": "291–312"
+  },
+  {
+    "author": [
+      {
+        "family": "Dyck",
+        "given": "Salm-"
+      }
+    ],
+    "title": "Beschreibung einer neuen mexikanischen Pflanze Diotostemon hookeri",
+    "editor": [
+      {
+        "family": "Otto",
+        "given": "F."
+      },
+      {
+        "family": "Dietrich",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Allgemeine Gartenzeitung",
+    "volume": "22",
+    "issue": "34",
+    "type": "article-journal",
+    "issued": "1854",
+    "page": "265"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiede",
+        "given": "J."
+      }
+    ],
+    "title": "Pachyphytum",
+    "editor": [
+      {
+        "family": "Eggli",
+        "given": "U."
+      }
+    ],
+    "container-title": "Crassulaceae. Illustrated handbook of succulent plants",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "190–195",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Walther",
+        "given": "E."
+      }
+    ],
+    "title": "Genus Pachyphytum",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Journal of the Cactus and Succulent Society of America",
+    "issued": "1931",
+    "page": "9–13"
+  },
+  {
+    "author": [
+      {
+        "family": "Walther",
+        "given": "E."
+      }
+    ],
+    "title": "Pachyphytum viride, a new species",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Cactus and Succulent Journal",
+    "issued": "1937",
+    "page": "210–211"
+  },
+  {
+    "author": [
+      {
+        "family": "Walther",
+        "given": "E."
+      }
+    ],
+    "title": "Echeveria. California Academy of Sciences",
+    "publisher": "San Francisco",
+    "type": "book",
+    "issued": "1972",
+    "page": "426"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamudio",
+        "given": "S."
+      },
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      },
+      {
+        "family": "Carranza",
+        "given": "E."
+      },
+      {
+        "family": "Calderón",
+        "given": "G."
+      }
+    ],
+    "title": "La vegetación del Estado de Querétaro, panorama preliminar",
+    "container-title": "Instituto de Ecología, Centro Regional del Bajío. Pátzcuaro",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "92"
+  }
+]

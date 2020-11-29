@@ -1,0 +1,559 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "I."
+      }
+    ],
+    "title": "History of Vitaceae inferred from morphology-based phylogeny and the fossil record of seeds",
+    "genre": "Ph.D. thesis.",
+    "publisher": "University of Florida, Gainesville",
+    "type": "thesis",
+    "issued": "2009",
+    "page": "326"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Z.D."
+      },
+      {
+        "family": "Ren",
+        "given": "H."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Vitaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Science Press and Missouri Botanical Garden Press, Beijing and St. Louis",
+    "issued": "2007",
+    "page": "173–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilg",
+        "given": "E.F."
+      },
+      {
+        "family": "Diels",
+        "given": "L."
+      }
+    ],
+    "title": "Vitaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "type": "chapter",
+    "issued": "1901",
+    "page": "29",
+    "publisher-place": "Schweizerbart, Stuttgart"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L.de"
+      }
+    ],
+    "title": "Columellia",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "G.F."
+      }
+    ],
+    "edition": "ed. 2 10. F. G",
+    "type": null,
+    "issued": "1818",
+    "page": "102–103",
+    "publisher-place": "Levrault, Strasbourg, Le Normant, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Lawson",
+        "given": "M.A."
+      }
+    ],
+    "title": "Ampelideae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "The Flora of British India",
+    "volume": "1",
+    "publisher": "L. Reeve & Co",
+    "issue": "3",
+    "type": "article-journal",
+    "issued": "1875",
+    "page": "644–668",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "C.L."
+      }
+    ],
+    "title": "Yua C.L.Li - A new genus of Vitaceae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1990",
+    "page": "1–10"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "C.L."
+      }
+    ],
+    "title": "New taxa in Vitaceae from China",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Chinese Journal of Environmental Biology",
+    "issued": "1996",
+    "page": "43–53"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum, 1",
+    "publisher": "L. Savius",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Lu",
+        "given": "L.M."
+      },
+      {
+        "family": "Wang",
+        "given": "W."
+      },
+      {
+        "family": "Chen",
+        "given": "Z.D."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Phylogeny of the non-monophyletic Cayratia Juss. (Vitaceae) and implications for character evolution and biogeography",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2013",
+    "page": "502–515",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2013.04.023",
+    "DOI": "10.1016/j.ympev.2013.04.023"
+  },
+  {
+    "author": [
+      {
+        "family": "Metcalf",
+        "given": "F.P."
+      }
+    ],
+    "title": "Critical Notes on Parthenocissus. Bulletin of the Fan Memorial Institute of Biology",
+    "volume": "1",
+    "type": null,
+    "issued": "1948",
+    "page": "131–137",
+    "publisher-place": "Botany, Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Michaux",
+        "given": "A."
+      }
+    ],
+    "title": "Flora boreali-americana, 1. Typis Caroli Crapelet, apud Fratres Levrault",
+    "publisher": "Paris & Strasbourg",
+    "type": "book",
+    "issued": "1803",
+    "page": "330"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "volume": "8",
+    "type": null,
+    "issued": "2010",
+    "page": null,
+    "publisher-place": "New Orleans, LA",
+    "URL": "http://dx.doi.org/10.1109/gce.2010.5676129",
+    "DOI": "10.1109/gce.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "H.H."
+      }
+    ],
+    "title": "Vitaceae",
+    "editor": [
+      {
+        "family": "Nguyen",
+        "given": "T.B."
+      }
+    ],
+    "publisher": "Agricultural Publishing House, Hanoi",
+    "type": "book",
+    "issued": "2004",
+    "page": "1145–1160"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "T.C."
+      }
+    ],
+    "title": "Taxonomic revision of the grape family (Vitaceae Juss.) from Vietnam",
+    "genre": "PhD thesis.",
+    "publisher": "Institute of Ecology and Biological Resources, Vietnam Academy of Science and Technology, Hanoi",
+    "type": "thesis",
+    "issued": "2012",
+    "page": "122"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Pham",
+        "given": "H.H."
+      }
+    ],
+    "title": "An Illustrated Flora Vietnam, 2",
+    "publisher": "Young Publishing House, Hochiminh",
+    "type": "book",
+    "issued": "2003",
+    "page": "951"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.E."
+      }
+    ],
+    "title": "Ampelocissus Planch. Les vignes américaines: leur culture, leur résistance au Phylloxera et leur avenir en Europe",
+    "volume": "8",
+    "issue": "1",
+    "type": null,
+    "issued": "1884",
+    "page": "370–381"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.E."
+      }
+    ],
+    "title": "Monographie des Ampélidées vrais",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A.F.P.P."
+      },
+      {
+        "family": "Candolle",
+        "given": "C.",
+        "particle": "de"
+      }
+    ],
+    "container-title": "Monographiae Phanaerogamarum, 5",
+    "publisher": "Sumptibus G. Masson",
+    "type": "chapter",
+    "issued": "1887",
+    "page": "305–654",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Reid",
+        "given": "E.M."
+      },
+      {
+        "family": "Chandler",
+        "given": "M.E.J."
+      }
+    ],
+    "title": "The London clay flora",
+    "publisher": "British Museum, London",
+    "type": "book",
+    "issued": "1933",
+    "page": "561",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.110147",
+    "DOI": "10.5962/bhl.title.110147"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P."
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Shetty",
+        "given": "B.V."
+      },
+      {
+        "family": "Singh",
+        "given": "P."
+      }
+    ],
+    "title": "Vitaceae",
+    "editor": [
+      {
+        "family": "Singh",
+        "given": "N.P."
+      },
+      {
+        "family": "Vohra",
+        "given": "J.N."
+      },
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      },
+      {
+        "family": "Singh",
+        "given": "D.K."
+      }
+    ],
+    "container-title": "Flora of India, 5. Botanical Survey of India, Calcutta",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "246–324"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Stuntz",
+        "given": "S.C."
+      }
+    ],
+    "title": "34578. Psedera thomsoni (Lawson) Stuntz",
+    "editor": [
+      {
+        "family": "Taylor",
+        "given": "W.A."
+      }
+    ],
+    "volume": null,
+    "publisher": "Government Printing Office",
+    "issue": "33",
+    "type": "book",
+    "issued": "1915",
+    "page": "35",
+    "publisher-place": "Washington"
+  },
+  {
+    "author": [
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Vitaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "publisher": "Springer-Verlag",
+    "type": "book",
+    "issued": "2007",
+    "page": "466–478",
+    "publisher-place": "Berlin",
+    "URL": "http://dx.doi.org/10.1007/978-3-540-32219-1_54",
+    "DOI": "10.1007/978-3-540-32219-1_54"
+  },
+  {
+    "author": [
+      {
+        "family": "Wen",
+        "given": "J."
+      },
+      {
+        "family": "Lu",
+        "given": "L.M."
+      },
+      {
+        "family": "Nie",
+        "given": "Z.L."
+      },
+      {
+        "family": "Manchester",
+        "given": "S.R."
+      },
+      {
+        "family": "Ickert-Bond",
+        "given": "S.M."
+      },
+      {
+        "family": "Chen",
+        "given": "Z.D."
+      }
+    ],
+    "title": "Phylogenetics and a revised classification of Vitaceae. Botany 2015",
+    "type": null,
+    "issued": "2015",
+    "publisher-place": "Edmonton, Alberta"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "N."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      },
+      {
+        "family": "Zimmer",
+        "given": "E.A."
+      }
+    ],
+    "title": "Expression patterns of AP1, FUL, FT and LEAFY orthologs in Vitaceae support the homology of tendrils and inflorescences throughout the grape family",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2015",
+    "page": "469–476",
+    "URL": "http://dx.doi.org/10.1111/jse.12138",
+    "DOI": "10.1111/jse.12138"
+  }
+]

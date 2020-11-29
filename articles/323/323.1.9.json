@@ -1,0 +1,647 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Bijdragen tot de flora",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Bijdragen tot de flora van Nederlandsch Indië",
+    "issued": "1825",
+    "page": "285–354"
+  },
+  {
+    "author": [
+      {
+        "family": "Brieger",
+        "given": "F.G."
+      }
+    ],
+    "title": "403. Campanulorchis Brieg",
+    "editor": [
+      {
+        "family": "Schlechter",
+        "given": "F.R.R."
+      }
+    ],
+    "volume": "3",
+    "publisher": "Auflage. Parey",
+    "type": "article-journal",
+    "container-title": "Kultur und Züchtung",
+    "issued": "1981",
+    "page": "750–751",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Cameron",
+        "given": "K.M."
+      },
+      {
+        "family": "Freudenstein",
+        "given": "J.V."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Salazar",
+        "given": "G."
+      },
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      },
+      {
+        "family": "Schuiteman",
+        "given": "A."
+      }
+    ],
+    "title": "An updated classification of Orchidaceae",
+    "volume": "177",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2015",
+    "page": "151–174",
+    "URL": "https://doi.org/10.1111/boj.12234",
+    "DOI": "10.1111/boj.12234"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      },
+      {
+        "family": "Luo",
+        "given": "Y.B."
+      },
+      {
+        "family": "Wood",
+        "given": "J.J."
+      },
+      {
+        "family": "In",
+        "given": "Campanulorchis Brieger"
+      },
+      {
+        "family": "Chen",
+        "given": "S.C."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      },
+      {
+        "family": "Zhu",
+        "given": "G.H."
+      },
+      {
+        "family": "Lang",
+        "given": "K.Y."
+      },
+      {
+        "family": "Ji",
+        "given": "Z.H."
+      },
+      {
+        "family": "Luo",
+        "given": "Y.B."
+      },
+      {
+        "family": "Jin",
+        "given": "X.H."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Wood",
+        "given": "J.J."
+      },
+      {
+        "family": "Gale",
+        "given": "S.W."
+      },
+      {
+        "family": "Ormerod",
+        "given": "P."
+      },
+      {
+        "family": "Vermeulen",
+        "given": "J.J."
+      }
+    ],
+    "title": "Wood",
+    "editor": [
+      {
+        "family": "H.P.",
+        "given": "Clayton"
+      },
+      {
+        "given": "D."
+      },
+      {
+        "family": "Bell",
+        "given": "A."
+      }
+    ],
+    "container-title": "Orchidaceae. Flora of China",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2017",
+    "page": "120",
+    "URL": "http://flora.huh.harvard.edu/china/mss/volume25/FOC_25_Orchidaceae_all.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      },
+      {
+        "family": "Wood",
+        "given": "J.J."
+      }
+    ],
+    "title": "Campanulorchis thao",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "25",
+    "publisher": "Orchidaceae). Science Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "346",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      },
+      {
+        "family": "Wood",
+        "given": "J.J."
+      }
+    ],
+    "title": "Mycaranthes pannea",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "25",
+    "publisher": "Orchidaceae). Science Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "348",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Cribb",
+        "given": "P."
+      },
+      {
+        "family": "Ng",
+        "given": "Y.P."
+      }
+    ],
+    "title": "Subtribe Eriinae, phylogenetics",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F."
+      }
+    ],
+    "container-title": "Genera orchidacearum",
+    "volume": "4",
+    "note": "Epidendroideae (part one).",
+    "publisher": "Oxford University Press, Oxford",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "532"
+  },
+  {
+    "author": [
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "Artificial key to the genera of Eriinae",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F."
+      }
+    ],
+    "container-title": "Genera orchidacearum",
+    "volume": "4",
+    "note": "Epidendroideae (part one).",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "534–535",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "Campanulorchis, description",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F."
+      }
+    ],
+    "container-title": "Genera orchidacearum",
+    "volume": "4",
+    "note": "Epidendroideae (part one).",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "545–546",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Ganepain",
+        "given": "F."
+      }
+    ],
+    "title": "Orchidacées nouvelles d ́Indochine",
+    "volume": "2° Série 22",
+    "type": "article-journal",
+    "container-title": "Bulletin du Museìum national d’histoire naturelle",
+    "issued": "1950",
+    "page": "502–633"
+  },
+  {
+    "author": [
+      {
+        "family": "Ganepain",
+        "given": "M.F."
+      }
+    ],
+    "title": "Eria nouveaux d ́Indo-Chine",
+    "volume": "2° Série 2",
+    "type": "article-journal",
+    "container-title": "Bulletin du Museìum national d’histoire naturelle",
+    "issued": "1930",
+    "page": "304–312"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      }
+    ],
+    "title": "World checklist of Orchidaceae. Facilitated by the Royal Botanic Gardens, Kew",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Guillaumin",
+        "given": "A."
+      }
+    ],
+    "title": "Plantes nouvelles, rares ou critiques des serres du Muséum (Notules sur quelque orchidées d ́Indochine, IX",
+    "volume": "2° Série 26",
+    "type": "article-journal",
+    "container-title": "Bulletin du Museìum national d’histoire naturelle",
+    "issued": "1955",
+    "page": "691–694"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Order CXLVIII. Orchideae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "The flora of British India",
+    "volume": "5",
+    "publisher": "Chenopodiaceae to Orchidaceae. Reeve",
+    "type": "chapter",
+    "issued": "1890",
+    "page": "667–858",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Eria stellata, starry eria",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "The Botanical Register",
+    "issued": "1825",
+    "page": "904"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Miscellaneous matter of the Botanical Register, 1842",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register",
+    "issued": "1842",
+    "page": "1–86"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Contributions to the Orchidology of India",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "The Journal of the Linnean Society, Botany",
+    "issue": "II",
+    "issued": "1858",
+    "page": "1–63"
+  },
+  {
+    "author": [
+      {
+        "family": "Ng",
+        "given": "Y.P."
+      }
+    ],
+    "title": "Phylogenetic relationships in tribe Podochileae (Orchidaceae: Epidendroideae): based on combined evidence from molecular and morphological data",
+    "genre": "Ph.D. thesis.",
+    "publisher": "University of London, United Kingdom",
+    "type": "thesis",
+    "issued": "2002"
+  },
+  {
+    "author": [
+      {
+        "family": "Ng",
+        "given": "Y.P."
+      },
+      {
+        "family": "Cribb",
+        "given": "P."
+      }
+    ],
+    "title": "New combinations in subtribe Eriinae (Orchidaceae: Epidendroideae: Podochileae",
+    "volume": "113",
+    "type": "article-journal",
+    "container-title": "Orchid Review",
+    "issued": "2005",
+    "page": "272–273"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfitzer",
+        "given": "E."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien, II Teil",
+    "volume": "6",
+    "type": "chapter",
+    "issued": "1888",
+    "page": "52–218",
+    "publisher-place": "Engelmann, Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Seidenfaden",
+        "given": "G."
+      }
+    ],
+    "title": "Orchid genera in Thailand 10",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Trichotosia Bl. and Eria Lindl. Opera Botanica",
+    "issued": "1982",
+    "page": "1–157"
+  },
+  {
+    "author": [
+      {
+        "family": "Seidenfaden",
+        "given": "G."
+      }
+    ],
+    "title": "The orchids of Indochina",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Opera Botanica",
+    "issued": "1992",
+    "page": "1–502"
+  },
+  {
+    "author": [
+      {
+        "family": "Speckmaier",
+        "given": "M."
+      },
+      {
+        "family": "Sieder",
+        "given": "A."
+      }
+    ],
+    "title": "Was ist eigentlich Eria thao?",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Die Orchidee",
+    "issued": "2008",
+    "page": "348–354"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "J.J."
+      }
+    ],
+    "title": "New orchids from Papua New Guinea, Sabah and Sulawesi",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Orchid Review",
+    "issued": "1981",
+    "page": "209–213"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "J.J."
+      }
+    ],
+    "title": "Campanulorchis pseudoleiophylla",
+    "editor": [
+      {
+        "family": "Wood",
+        "given": "J.J."
+      },
+      {
+        "family": "Beaman",
+        "given": "T.E."
+      },
+      {
+        "family": "Lamb",
+        "given": "A."
+      },
+      {
+        "family": "Lun",
+        "given": "C.C."
+      },
+      {
+        "family": "Beaman",
+        "given": "J.H."
+      }
+    ],
+    "container-title": "Orchids of Mount Kinabalu",
+    "volume": "2",
+    "publisher": "Natural History Publications, Kota Kinabalu",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "176"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "J.J."
+      },
+      {
+        "family": "Beaman",
+        "given": "T.E."
+      },
+      {
+        "family": "Lamb",
+        "given": "A."
+      },
+      {
+        "family": "Lun",
+        "given": "C.C."
+      },
+      {
+        "family": "Beaman",
+        "given": "J.H."
+      }
+    ],
+    "title": "Orchids of Mount Kinabalu",
+    "volume": "2",
+    "publisher": "Natural History Publications",
+    "type": "book",
+    "issued": "2011",
+    "page": null,
+    "publisher-place": "Kota Kinabalu"
+  }
+]

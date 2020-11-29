@@ -1,0 +1,191 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blatter",
+        "given": "E."
+      },
+      {
+        "family": "Hallberg",
+        "given": "P.F."
+      }
+    ],
+    "title": "The Flora of the Indian Desert (Jodhpur and Jaisalmer), Part 2",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Journal of Bombay Natural History Society",
+    "issue": "3",
+    "issued": "1919",
+    "page": "525–531"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Compositae Wightianae",
+    "editor": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "publisher": "Parbury, Allen & Co",
+    "type": "book",
+    "issued": "1834",
+    "page": "5–27",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "Aperçu des genres nouveaux formés par M. Henri Cassini dans la famille des synanthérées",
+    "volume": "1817",
+    "type": "article-journal",
+    "container-title": "Bulletin des Sciences, par la Société Philomatique",
+    "issued": "1817",
+    "page": "137–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Chowdhery",
+        "given": "H.J."
+      }
+    ],
+    "title": "Tribe Heliantheae",
+    "editor": [
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      },
+      {
+        "family": "Rao",
+        "given": "R.R."
+      },
+      {
+        "family": "Singh",
+        "given": "D.K."
+      },
+      {
+        "family": "Uniyal",
+        "given": "B.P."
+      }
+    ],
+    "container-title": "Flora of India",
+    "volume": "12",
+    "publisher": "Botanical Survey of India",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "358–431",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria",
+    "edition": "Version 3.1. Second",
+    "note": "IUCN, Species Survival Commission, Gland. Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von filius"
+      }
+    ],
+    "title": "Supplementum Plantarum",
+    "publisher": "Orphanotrophei, Brunsvigae",
+    "type": "book",
+    "issued": "1782",
+    "page": "468"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant-Book: A portable dictionary of plants, their classification and uses",
+    "edition": "Fourth",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2017",
+    "page": null,
+    "publisher-place": "Cambridge",
+    "URL": "https://doi.org/10.1017/9781316335581",
+    "DOI": "10.1017/9781316335581"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Flora van Nederlandsch Indië",
+    "volume": "2",
+    "publisher": "C.G. van der Post, Amsterdam",
+    "type": "book",
+    "issued": "1856",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "P."
+      },
+      {
+        "family": "Karthigeyan",
+        "given": "K."
+      },
+      {
+        "family": "Lakshminarasimhan",
+        "given": "P."
+      },
+      {
+        "family": "Dash",
+        "given": "S.S."
+      }
+    ],
+    "title": "Endemic Vascular Plants of India",
+    "volume": "Kolkata",
+    "type": "article-journal",
+    "container-title": "Botanical Survey of India",
+    "issued": "2015",
+    "page": "339"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldkamp",
+        "given": "J.F."
+      },
+      {
+        "family": "Kreffer",
+        "given": "L.A."
+      }
+    ],
+    "title": "Notes on Southeast Asian and Australian Coreopsidinae (Asteraceae",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issue": "2",
+    "issued": "1991",
+    "page": "459–482"
+  }
+]

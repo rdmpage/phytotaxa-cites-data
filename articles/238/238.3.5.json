@@ -1,0 +1,180 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Hooker’s Icones Plantarum",
+    "volume": "12",
+    "publisher": "Longman, Rees, Orme, Brown, Green, & Longman, etc",
+    "type": "book",
+    "issued": "1873",
+    "page": "36 39",
+    "publisher-place": "London",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.16059",
+    "DOI": "10.5962/bhl.title.16059"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "6",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1838",
+    "page": "687",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H."
+      }
+    ],
+    "title": "Apercu des genres nouveaux formés par M. Henri Cassini, dans la famille des Synanthérées (1",
+    "volume": "1816",
+    "type": "article-journal",
+    "container-title": "Bulletin des Sciences par la Société Philomathique de Paris",
+    "issued": "1816",
+    "page": "198 200"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Compositae Indicae",
+    "publisher": "Thacker, Spink and Co., Calcutta",
+    "type": "book",
+    "issued": "1876",
+    "page": "347"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A."
+      }
+    ],
+    "title": "Compositae novae e flora sinensi",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique",
+    "issued": "1896",
+    "page": "412 423"
+  },
+  {
+    "author": [
+      {
+        "family": "Good",
+        "given": "R.D."
+      }
+    ],
+    "title": "The taxonomy and geography of the Sino-Himalayan genus Cremanthodium Benth",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "The Journal of Linnean Society of London",
+    "issued": "1929",
+    "page": "259 316",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1929.tb00589.x",
+    "DOI": "10.1111/j.1095-8339.1929.tb00589.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "A taxonomic study on the genus Cremanthodium Benth",
+    "volume": "1",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Acta Biologia Plateau Sinica",
+    "issued": "1982",
+    "page": "49 59"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "The taxonomic system of the genus Ligularia Cass",
+    "volume": "5",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Research (Harbin",
+    "issued": "1985",
+    "page": "63 80"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "Cremanthodium Bentham",
+    "editor": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      },
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "77",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1989",
+    "page": "115 171",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      },
+      {
+        "family": "Illarionova",
+        "given": "I."
+      }
+    ],
+    "title": "Cremanthodium Bentham",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols. 20−21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "415 435",
+    "publisher-place": "Beijing"
+  }
+]

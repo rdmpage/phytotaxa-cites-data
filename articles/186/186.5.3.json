@@ -1,0 +1,236 @@
+[
+  {
+    "author": [
+      {
+        "family": "Farr",
+        "given": "D.F."
+      },
+      {
+        "family": "Bills",
+        "given": "G.F."
+      },
+      {
+        "family": "Chamuris",
+        "given": "G.P."
+      },
+      {
+        "family": "Rossman",
+        "given": "A.Y."
+      }
+    ],
+    "title": "Fungi on Plants and Plant Products in the United States",
+    "publisher": "APS Press, St. Paul",
+    "type": "book",
+    "issued": "1989",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kobayashi",
+        "given": "T."
+      },
+      {
+        "family": "Zhao",
+        "given": "J.Z."
+      }
+    ],
+    "title": "Notes on diseases of woody plants and their causal fungi in Heilongjiang Province, China (1",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1989",
+    "page": "277–293"
+  },
+  {
+    "author": [
+      {
+        "family": "Rappaz",
+        "given": "F."
+      }
+    ],
+    "title": "Taxonomie et nomenclature des Diatrypacées à asques octospores (1",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Mycologia Helvetica",
+    "issued": "1987",
+    "page": "285–648"
+  },
+  {
+    "author": [
+      {
+        "family": "Tai",
+        "given": "F.L."
+      }
+    ],
+    "title": "Sylloge Fungorum Sinicorum",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1979",
+    "page": null,
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Teng",
+        "given": "S.C."
+      }
+    ],
+    "title": "Fungi of China",
+    "publisher": "Mycotaxon Ltd., Ithaca",
+    "type": "book",
+    "issued": "1996",
+    "page": "586"
+  },
+  {
+    "author": [
+      {
+        "family": "Vasilyeva",
+        "given": "L.N."
+      }
+    ],
+    "title": "Pyrenomycetes and Loculoascomycetes",
+    "editor": [
+      {
+        "family": "Azbukina",
+        "given": "Z.M."
+      }
+    ],
+    "genre": "Tom 4.",
+    "publisher": "Pirenomitsety i Lokuloaskomitsety, Nauka, St. Petersburg",
+    "type": null,
+    "issued": "1998",
+    "page": "419"
+  },
+  {
+    "author": [
+      {
+        "family": "Vasilyeva",
+        "given": "L.N."
+      }
+    ],
+    "title": "Ascomycetes: Sordariomycetidae, Dothideomycetidae, Erysiphomycetidae, Rhytismomycetidae",
+    "editor": [
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Azbukina",
+        "given": "Z.M."
+      }
+    ],
+    "container-title": "Fungi of Ussuri River Valley",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "1–32",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Vasilyeva",
+        "given": "L.N."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      }
+    ],
+    "title": "Some pyrenomycetous fungi new to China",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2009",
+    "page": "415–428",
+    "URL": "http://dx.doi.org/10.5248/109.415",
+    "DOI": "10.5248/109.415"
+  },
+  {
+    "author": [
+      {
+        "family": "Vasilyeva",
+        "given": "L.N."
+      },
+      {
+        "family": "Ma",
+        "given": "H.X."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      }
+    ],
+    "title": "Biogeography and taxonomy of fungi 3. The area around the Sea of Japan",
+    "volume": "126",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2013",
+    "page": "1–14",
+    "URL": "http://dx.doi.org/10.5248/126.1",
+    "DOI": "10.5248/126.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Vasilyeva",
+        "given": "L.N."
+      },
+      {
+        "family": "S.L",
+        "given": "Stephenson"
+      }
+    ],
+    "title": "Pyrenomycetes of the Great Smoky Mountains National Park. I",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Diatrype Fr. (Diatrypaceae). Fungal Diversity",
+    "issued": "2004",
+    "page": "191–201"
+  },
+  {
+    "author": [
+      {
+        "family": "L.N.",
+        "given": "Vasilyeva"
+      },
+      {
+        "family": "S.L",
+        "given": "Stephenson"
+      }
+    ],
+    "title": "Biogeographical patterns in pyrenomycetous fungi and their taxonomy. 1. The Grayan disjunction",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2010",
+    "page": "281–303",
+    "URL": "http://dx.doi.org/10.5248/114.281",
+    "DOI": "10.5248/114.281"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "W.-Y."
+      }
+    ],
+    "title": "Ascomycota III. Taphrinomycetidae, Eurotiomycetidae, Dothideomycetidae, and Sordariomycetidae",
+    "editor": [
+      {
+        "family": "Zhuang",
+        "given": "W.-Y."
+      }
+    ],
+    "container-title": "Fungi of northwestern China. Mycotaxon Ltd., Ithaca",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "113–124"
+  }
+]

@@ -1,0 +1,630 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Genera plantarum 1(3",
+    "publisher": "Reeve & Co",
+    "type": "book",
+    "issued": "1867",
+    "page": "721–1040",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis 3",
+    "publisher": "Treuttel & Würtz",
+    "type": "book",
+    "issued": "1828",
+    "page": "494",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Flora Brasiliensis 14",
+    "type": "chapter",
+    "issued": "1888",
+    "page": "1–655",
+    "publisher-place": "Fleischer, Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Melastomaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.L.P.P.de"
+      },
+      {
+        "family": "Candolle",
+        "given": "A.C.P.de"
+      }
+    ],
+    "container-title": "Monographie Phanerogamarum 7",
+    "publisher": "Masson",
+    "type": "chapter",
+    "issued": "1891",
+    "page": "1–1256",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Plantae novae andiane imprimis Weberbauerinae IV; Melastomataceae Peruvianae",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik",
+    "issued": "1908",
+    "page": "131–148"
+  },
+  {
+    "author": [
+      {
+        "family": "Crueger",
+        "given": "H."
+      }
+    ],
+    "title": "Melastomataceae insulae Trinitatis",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1847",
+    "page": "99–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "An illustration of the natural family of plants called Melastomataceae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Wernerian Natural History Society",
+    "issued": "1823",
+    "page": "276–329"
+  },
+  {
+    "author": [
+      {
+        "family": "Fawcett",
+        "given": "W."
+      },
+      {
+        "family": "Rendle",
+        "given": "A.B."
+      }
+    ],
+    "title": "Notes on Jamaica Plants",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Journal of Botany",
+    "issued": "1926",
+    "page": "103–105"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilli",
+        "given": "A."
+      }
+    ],
+    "title": "Beitrage zur Flora von Ecuador 1. Choripetalae",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issued": "1981",
+    "page": "675–687"
+  },
+  {
+    "author": [
+      {
+        "family": "Gleason",
+        "given": "H.A."
+      }
+    ],
+    "title": "Studies on the Flora of Northern South America-VIII",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1925",
+    "page": "447–460"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "O gênero Miconia Ruiz & Pav. (Melastomataceae): I. Listagens analíticas, II. Revisão taxonômica da seção Hypoxanthus (Rich. ex DC.) Hook.f."
+      }
+    ],
+    "genre": "Ph.D. thesis,",
+    "publisher": "Universidade Estadual de Campinas",
+    "type": "thesis",
+    "issued": "2000",
+    "page": "249",
+    "publisher-place": "Campinas"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Martin",
+        "given": "C.V."
+      }
+    ],
+    "title": "Taxonomic notes on South-American Miconia (Melastomataceae",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Harvard Papers in Botany",
+    "issued": "2008",
+    "page": "223–227"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Caddah",
+        "given": "M.K."
+      },
+      {
+        "family": "Martin",
+        "given": "C.V."
+      }
+    ],
+    "title": "Taxonomic notes on South American Miconia (Melastomataceae",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2010",
+    "page": "23– 28"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "D.S.",
+        "given": "Penneys"
+      },
+      {
+        "family": "F.",
+        "given": "Almeda"
+      },
+      {
+        "family": "Judd",
+        "given": "W.S."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      }
+    ],
+    "title": "Phylogeny of Miconia (Melastomataceae): Patterns of stamen diversification in a megadiverse Neotropical genus",
+    "volume": "169",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2008",
+    "page": "963–979"
+  },
+  {
+    "author": [
+      {
+        "family": "Howard",
+        "given": "R.A."
+      }
+    ],
+    "title": "Flora of the Lesser Antilles 5—Dicotyledoneae Part 2",
+    "publisher": "Arnold Arboretum of Harvard University, Jamaica Plain",
+    "type": "book",
+    "issued": "1989",
+    "page": "604"
+  },
+  {
+    "author": [
+      {
+        "family": "Judd",
+        "given": "W.S."
+      }
+    ],
+    "title": "Systematics of axillary-flowered Miconieae (Melastomataceae",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany (Supplementum",
+    "issued": "1987",
+    "page": "737"
+  },
+  {
+    "author": [
+      {
+        "family": "Judd",
+        "given": "W.S."
+      }
+    ],
+    "title": "Taxonomic studies in the Miconieae (Melastomataceae) III. Cladistic analysis of axillary-flowered taxa",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1989",
+    "page": "476–495"
+  },
+  {
+    "author": [
+      {
+        "family": "Judd",
+        "given": "W.S."
+      },
+      {
+        "family": "Skean",
+        "given": "J.D.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "Taxonomic studies in the Miconieae (Melastomataceae) IV. Generic realignments among terminal-flowered taxa",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Florida Museum of Natural History. Biological Sciences",
+    "issued": "1991",
+    "page": "25–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "C.E.O."
+      }
+    ],
+    "title": "Revisio Generum Plantarum 2",
+    "type": null,
+    "issued": "1891",
+    "page": "375–1011",
+    "publisher-place": "Felix, Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Loudon",
+        "given": "J.C."
+      }
+    ],
+    "title": "Loudon's Hortus britannicus",
+    "publisher": "Longman, Rees, Orme, Brown & Green, London",
+    "type": "book",
+    "issued": "1830",
+    "page": "576"
+  },
+  {
+    "author": [
+      {
+        "family": "Macbride",
+        "given": "J.F."
+      }
+    ],
+    "title": "A new Miconia and other large Melastomes of Peru",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Tropical Woods",
+    "issued": "1929",
+    "page": "12–14"
+  },
+  {
+    "author": [
+      {
+        "family": "Macbride",
+        "given": "J.F."
+      }
+    ],
+    "title": "Melastomataceae. In: Flora of Peru. Publications of the Field Museum of Natural History",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Botanical series",
+    "issue": "4, 1",
+    "issued": "1941",
+    "page": "249–523"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Nicolson",
+        "given": "D.H."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Silva",
+        "given": "P.C."
+      },
+      {
+        "family": "Skog",
+        "given": "J.E."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "eds."
+      }
+    ],
+    "container-title": "International Code of Botanical Nomenclature (Vienna Code) adopted by the Seventeenth International Botanical Congress Vienna",
+    "note": "Regnum Vegetabile 146].",
+    "publisher": "Gantner, Ruggell",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "568",
+    "publisher-place": "Austria"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Bécquer-Granados",
+        "given": "E.R."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Acevedo-Rodríguez",
+        "given": "P."
+      },
+      {
+        "family": "Strong",
+        "given": "M.T."
+      }
+    ],
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Smithsonian Contributions to Botany",
+    "issued": "2012",
+    "page": "531–562"
+  },
+  {
+    "author": [
+      {
+        "family": "Naudin",
+        "given": "C.V."
+      }
+    ],
+    "title": "Melastomacearum monographicae descriptiones. Annales des Sciences Naturelles, Botanique",
+    "volume": "3, 16",
+    "type": "article-journal",
+    "container-title": "Séries",
+    "issued": "1850",
+    "page": "83–246"
+  },
+  {
+    "author": [
+      {
+        "family": "Renner",
+        "given": "S.S."
+      },
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      }
+    ],
+    "title": "A new name and a new synonym in Miconia (Melastomataceae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2011",
+    "page": "35"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz",
+        "given": "H."
+      },
+      {
+        "family": "Pavon",
+        "given": "J."
+      }
+    ],
+    "title": "Florae Peruvianae et Chilensis prodromus",
+    "volume": "Madrid",
+    "type": "article-journal",
+    "container-title": "Gabrielis de Sancha",
+    "issued": "1794",
+    "page": "153"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O.L."
+      }
+    ],
+    "title": "Nova genera et species plantarum seu Prodromus",
+    "publisher": "Swederi",
+    "type": "article-journal",
+    "container-title": "Acad. M",
+    "issued": "1788",
+    "page": "152",
+    "publisher-place": "Stockholm, Uppsala"
+  },
+  {
+    "author": [
+      {
+        "family": "Triana",
+        "given": "J."
+      }
+    ],
+    "title": "Les Melastomacées",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1871",
+    "page": "1–188"
+  },
+  {
+    "author": [
+      {
+        "family": "Ule",
+        "given": "E.H.G."
+      }
+    ],
+    "title": "Melastomataceae",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Notizblatt des Königlichen Botanischen Gartens und Museums zu Berlin",
+    "issued": "1915",
+    "page": "348–368"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      },
+      {
+        "family": "Camp",
+        "given": "H."
+      }
+    ],
+    "title": "Plants collected in Ecuador by W",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1967",
+    "page": "1–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Certamen Melastomataceis XVIII",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1972",
+    "page": "299–418"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Harling",
+        "given": "G."
+      },
+      {
+        "family": "Sparre",
+        "given": "B."
+      }
+    ],
+    "volume": "Göteborg",
+    "type": "article-journal",
+    "container-title": "Swedish Natural Science Research Council",
+    "issued": "1980",
+    "page": "406"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Certamen Melastomataceis XXXV",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1982",
+    "page": "61–69"
+  }
+]

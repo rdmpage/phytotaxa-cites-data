@@ -1,0 +1,595 @@
+[
+  {
+    "author": [
+      {
+        "literal": "APG III Angiosperm Phylogeny Group"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2009",
+    "page": "105–121",
+    "URL": "https://doi.org/10.1111/j.1095-8339.2009.00996.x",
+    "DOI": "10.1111/j.1095-8339.2009.00996.x"
+  },
+  {
+    "author": [
+      {
+        "literal": "APG IV Angiosperm Phylogeny Group"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants",
+    "volume": "181",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2016",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1111/boj.12385",
+    "DOI": "10.1111/boj.12385"
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "note": "Version BETA",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Barros",
+        "given": "M.J.F."
+      },
+      {
+        "family": "Silva-Arias",
+        "given": "G.A."
+      },
+      {
+        "family": "Fregonezi",
+        "given": "J.N."
+      },
+      {
+        "family": "Turchetto-Zolet",
+        "given": "A.C."
+      },
+      {
+        "family": "Iganci",
+        "given": "J.R.V."
+      },
+      {
+        "family": "Diniz-Filho",
+        "given": "J.A.F."
+      },
+      {
+        "family": "Freitas",
+        "given": "L.B."
+      }
+    ],
+    "title": "Environmental drivers of diversity in Subtropical Highland Grasslands",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Perspectives in Plant Ecology Evolution and Systematics",
+    "issued": "2015",
+    "page": "360–368",
+    "URL": "https://doi.org/10.1016/j.ppees.2015.08.001",
+    "DOI": "10.1016/j.ppees.2015.08.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Beentje",
+        "given": "H."
+      }
+    ],
+    "title": "The Kew Plant Glossary: an illustrated dictionary of plant terms",
+    "publisher": "Kew Publishing",
+    "type": "book",
+    "issued": "2010",
+    "page": "160"
+  },
+  {
+    "title": "Preliminary phylogeny of Valerianaceae (Dipsacales) inferred from nuclear and chloroplast DNA sequence data",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issue": "1",
+    "issued": "2004",
+    "page": "340–350",
+    "publisher-place": "Bell, C.D",
+    "URL": "https://doi.org/10.1016/j.ympev.2003.07.006",
+    "DOI": "10.1016/j.ympev.2003.07.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Donoghue",
+        "given": "M.J."
+      }
+    ],
+    "title": "Phylogeny and biogeography of Valerianaceae (Dipsacales) with special reference to the South American valerians",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Organisms, Diversity & Evolution",
+    "issued": "2005",
+    "page": "147–159",
+    "publisher-place": "Bell, C.D",
+    "URL": "https://doi.org/10.1016/j.ode.2004.10.014",
+    "DOI": "10.1016/j.ode.2004.10.014"
+  },
+  {
+    "author": [
+      {
+        "family": "Bell",
+        "given": "C.D."
+      },
+      {
+        "family": "Kutschker",
+        "given": "A."
+      },
+      {
+        "family": "Arroyo",
+        "given": "M.T.K."
+      }
+    ],
+    "title": "Phylogeny and diversification of Valerianaceae (Dipsacales) in the southern Andes",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2012",
+    "page": "724–737",
+    "URL": "https://doi.org/10.1016/j.ympev.2012.02.015",
+    "DOI": "10.1016/j.ympev.2012.02.015"
+  },
+  {
+    "author": [
+      {
+        "family": "Calderon",
+        "given": "G."
+      },
+      {
+        "family": "Gonzalez",
+        "given": "L.A."
+      },
+      {
+        "family": "Scholz",
+        "given": "A."
+      },
+      {
+        "family": "Liede-Schumann",
+        "given": "S."
+      }
+    ],
+    "title": "Resolving relationships within Valerianaceae (Dipsacales): New insights and hypotheses from low-copy nuclear regions",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2015",
+    "page": "327–335",
+    "publisher-place": "Bell, C.D",
+    "URL": "https://doi.org/10.1600/036364415X686611",
+    "DOI": "10.1600/036364415X686611"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonzalez",
+        "given": "L.A."
+      }
+    ],
+    "title": "Exploring the utility of “next-generation” sequence data on inferring the phylogeny of the South American Valeriana (Valerianaceae",
+    "volume": "123",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2018",
+    "page": "44–49",
+    "publisher-place": "Bell, C.D",
+    "URL": "https://doi.org/10.1016/j.ympev.2018.02.014",
+    "DOI": "10.1016/j.ympev.2018.02.014"
+  },
+  {
+    "author": [
+      {
+        "family": "Borsini",
+        "given": "O.E."
+      }
+    ],
+    "title": "Revisión de las valerianaceas de Brasil",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Lilloa. Tucumán",
+    "issued": "1962",
+    "page": "149–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Borsini",
+        "given": "O.E."
+      }
+    ],
+    "title": "Valerianaceas del estado de Santa Catarina (Brasil",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Sellowia, Itajaí",
+    "issued": "1963",
+    "page": "123–136"
+  },
+  {
+    "author": [
+      {
+        "family": "Graebner",
+        "given": "P."
+      }
+    ],
+    "title": "Beiträge zur Kentniss der süd-und centralamerikanischen Valerianaceae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik",
+    "issued": "1899",
+    "page": "436"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "J.G."
+      },
+      {
+        "family": "Harris",
+        "given": "M.W."
+      }
+    ],
+    "title": "Plant identification terminology: an illustrated glossary",
+    "edition": "2nd",
+    "publisher": "Spring Lake Publishing, Utah",
+    "type": "book",
+    "issued": "2001",
+    "page": "216"
+  },
+  {
+    "author": [
+      {
+        "family": "Hidalgo",
+        "given": "O."
+      },
+      {
+        "family": "Garnatje",
+        "given": "T."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Mathez",
+        "given": "J."
+      }
+    ],
+    "title": "Phylogeny of Valerianaceae based on matK and ITS markers with reference to matK individual polymorphism",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2004",
+    "page": "283–293",
+    "URL": "https://doi.org/10.1093/aob/mch042",
+    "DOI": "10.1093/aob/mch042"
+  },
+  {
+    "author": [
+      {
+        "family": "Iganci",
+        "given": "J.R."
+      },
+      {
+        "family": "Heiden",
+        "given": "G."
+      },
+      {
+        "family": "Miotto",
+        "given": "S.T.S."
+      },
+      {
+        "family": "Pennington",
+        "given": "R.T."
+      }
+    ],
+    "title": "Campos de Cima da Serra: the Brazilian Subtropical Highland Grasslands show an unexpected level of plant endemism",
+    "volume": "167",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2011",
+    "page": "378–393",
+    "URL": "https://doi.org/10.1111/j.1095-8339.2011.01182.x",
+    "DOI": "10.1111/j.1095-8339.2011.01182.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Iganci",
+        "given": "J.R.V."
+      },
+      {
+        "family": "Rabuske",
+        "given": "C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Caprifoliaceae. Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB15083"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 13. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio generum plantarum, 3",
+    "publisher": "Artur Felix, Leipzig",
+    "type": "book",
+    "issued": "1898",
+    "page": "375",
+    "URL": "https://doi.org/10.5962/bhl.title.327",
+    "DOI": "10.5962/bhl.title.327"
+  },
+  {
+    "author": [
+      {
+        "family": "Kutschker",
+        "given": "A."
+      }
+    ],
+    "title": "Revisión del género Valeriana (Valerianaceae) in Sudamérica austral",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Gayana Botanica",
+    "issued": "2011",
+    "page": "244–296",
+    "URL": "https://doi.org/10.4067/S0717-66432011000200016",
+    "DOI": "10.4067/S0717-66432011000200016"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsen",
+        "given": "B.B."
+      }
+    ],
+    "title": "A taxonomic revision of Phyllactis and Valeriana sect",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Bracteata (Valerianaceae). Nordic Journal of Botany",
+    "issued": "1986",
+    "page": "427–446",
+    "URL": "https://doi.org/10.1111/j.1756-1051.1986.tb00899.x",
+    "DOI": "10.1111/j.1756-1051.1986.tb00899.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": "article-journal",
+    "container-title": "Imprensis Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null,
+    "URL": "https://doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "F.G."
+      }
+    ],
+    "title": "Valeriana in North America and the West Indies (Valerianaceae",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1951",
+    "page": "377–503",
+    "URL": "https://doi.org/10.2307/2394571",
+    "DOI": "10.2307/2394571"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "C.A."
+      }
+    ],
+    "title": "Valerianaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "F.F.P."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Monachii",
+    "issued": "1885",
+    "page": "339–350"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Flora Ilustrada do Rio Grande do Sul/25: Valerianaceae",
+    "container-title": "Boletim do Instituto de Biociências/UFRGS-58",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "61",
+    "publisher-place": "Porto Alegre"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Valeriana tajuvensis (Valerianaceae), a New Species from Southern Brazil",
+    "volume": "9",
+    "publisher": "Novon, Saint Louis",
+    "issue": "1",
+    "type": "book",
+    "issued": "1999",
+    "page": "114–117",
+    "URL": "https://doi.org/10.2307/3392135",
+    "DOI": "10.2307/3392135"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Valeriana eupatoria (Valerianaceae), a New Species from Rio Grande do Sul",
+    "volume": "10",
+    "publisher": "Novon, Saint Louis",
+    "type": "article-journal",
+    "container-title": "Brazil",
+    "issue": "2",
+    "issued": "2000",
+    "page": "149–152",
+    "URL": "https://doi.org/10.2307/3393016",
+    "DOI": "10.2307/3393016"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Weberling",
+        "given": "F."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      }
+    ],
+    "title": "Valerianaceae",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants. XIV",
+    "note": "Flowering Plants-Eudicots: Aquifoliales, Boraginales, Bruniales, Dipsacales, Escalloniales, Garryales, Paracryphiales, Solanales (except Convolvulaceae), Icacinaceae, Metteniusaceae, Vahliaceae.",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "2016",
+    "page": "385–401",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-319-28534-4_35",
+    "DOI": "10.1007/978-3-319-28534-4_35"
+  },
+  {
+    "author": [
+      {
+        "family": "Enrech",
+        "given": "N.",
+        "particle": "Xena de"
+      }
+    ],
+    "title": "Valerianaceae",
+    "editor": [
+      {
+        "family": "Morillo",
+        "given": "G."
+      }
+    ],
+    "container-title": "Flora de Venezuela",
+    "volume": "5",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "221–267"
+  }
+]

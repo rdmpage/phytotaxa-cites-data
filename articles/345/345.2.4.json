@@ -1,0 +1,523 @@
+[
+  {
+    "author": [
+      {
+        "family": "André",
+        "given": "E.F."
+      }
+    ],
+    "title": "Tillandsia xiphioides var. arequitae",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Revue Horticole",
+    "issued": "1893",
+    "page": "156–157"
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "In",
+        "given": "Version B.E.T.A.)"
+      },
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "http://geocat.kew.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Barfuss",
+        "given": "M.H.J."
+      },
+      {
+        "family": "Till",
+        "given": "W."
+      },
+      {
+        "family": "Leme",
+        "given": "E.M.C."
+      },
+      {
+        "family": "Pinzón",
+        "given": "J.P."
+      },
+      {
+        "family": "Manzanares",
+        "given": "J.M."
+      },
+      {
+        "family": "Halbritter",
+        "given": "H."
+      },
+      {
+        "family": "Samuel",
+        "given": "R."
+      },
+      {
+        "family": "Brown",
+        "given": "G.K."
+      }
+    ],
+    "title": "Taxonomic revision of Bromeliaceae subfam. Tillandsioideae based on a multi-locus DNA sequence phylogeny and morphology",
+    "volume": "279",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "1–97",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.279.1.1",
+    "DOI": "10.11646/phytotaxa.279.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Benzing",
+        "given": "D.H."
+      }
+    ],
+    "title": "Bromeliaceae: Profile of an adaptive radiation",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "2000",
+    "page": "690",
+    "URL": "http://dx.doi.org/10.1017/CBO9780511565175",
+    "DOI": "10.1017/CBO9780511565175"
+  },
+  {
+    "author": [
+      {
+        "family": "Brito",
+        "given": "A.H."
+      },
+      {
+        "family": "Llano",
+        "given": "L."
+      }
+    ],
+    "title": "Bromelias del Uruguay",
+    "volume": "Montevideo",
+    "type": "article-journal",
+    "container-title": "Linardi y Risso",
+    "issued": "2008",
+    "page": "228"
+  },
+  {
+    "author": [
+      {
+        "family": "Givnish",
+        "given": "T.J."
+      },
+      {
+        "family": "Barfuss",
+        "given": "M.H.J."
+      },
+      {
+        "family": "Van Ee",
+        "given": "B."
+      },
+      {
+        "family": "Riina",
+        "given": "R."
+      },
+      {
+        "family": "Schulte",
+        "given": "K."
+      },
+      {
+        "family": "Horres",
+        "given": "R."
+      },
+      {
+        "family": "Gonsiska",
+        "given": "P.A."
+      },
+      {
+        "family": "Jabaily",
+        "given": "R.S."
+      },
+      {
+        "family": "Crayn",
+        "given": "D.M."
+      },
+      {
+        "family": "Smith",
+        "given": "J.A.C."
+      },
+      {
+        "family": "Winter",
+        "given": "K."
+      },
+      {
+        "family": "Brown",
+        "given": "G.K."
+      },
+      {
+        "family": "Evans",
+        "given": "T.M."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      },
+      {
+        "family": "Luther",
+        "given": "H."
+      },
+      {
+        "family": "Till",
+        "given": "W."
+      },
+      {
+        "family": "Zizka",
+        "given": "G."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Sytsma",
+        "given": "K.J."
+      }
+    ],
+    "title": "Phylogeny, adaptive radiation, and historical biogeography in Bromeliaceae: Insights from an eight-locus plastid phylogeny",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2011",
+    "page": "872–895",
+    "URL": "http://dx.doi.org/10.3732/ajb.1000059",
+    "DOI": "10.3732/ajb.1000059"
+  },
+  {
+    "author": [
+      {
+        "family": "Gouda",
+        "given": "E.J."
+      },
+      {
+        "family": "Butcher",
+        "given": "D."
+      },
+      {
+        "family": "Gouda",
+        "given": "C.S."
+      }
+    ],
+    "title": "Encyclopaedia of Bromeliads, version 3",
+    "publisher": "University Botanic Gardens",
+    "note": "Available from:",
+    "type": null,
+    "issued": "continuously updated",
+    "publisher-place": "Utrecht",
+    "URL": "http://encyclopedia.florapix.nl/"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Plantae Lorentzianae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen",
+    "issued": "1874",
+    "page": "49–279"
+  },
+  {
+    "author": [
+      {
+        "given": "I.B.O.D.A."
+      }
+    ],
+    "title": "continuously updated] Base de datos. Flora del Cono Sur",
+    "container-title": "Instituto de Botánica Darwinion. Buenos Aires, Argentina",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2017",
+    "URL": "http://www2.darwin.edu.ar/"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN Red List of Threatened Species, version 2016.1",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Ker Gawler",
+        "given": "J.B."
+      }
+    ],
+    "title": "The Botanical Register 2",
+    "note": "without pagination.",
+    "type": null,
+    "issued": "1816",
+    "publisher-place": "James Ridgway, Piccadilly, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Generum Plantarum: vascularium omnium atque cellularium multarum secundum leges nomeclaturae internationales cum enumeratione plantarum exoticarum in itinere mundi collectarum 3",
+    "publisher": "Arthur Felix, Leipzig",
+    "type": "book",
+    "issued": "1898",
+    "page": "576",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.327",
+    "DOI": "10.5962/bhl.title.327"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Imprensis Laurentii Salvii, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Mez",
+        "given": "C."
+      }
+    ],
+    "title": "Bromeliaceae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "C."
+      }
+    ],
+    "container-title": "Monographiae phanerogamarum",
+    "volume": "9",
+    "publisher": "Masson & Cie",
+    "type": "chapter",
+    "issued": "1896",
+    "page": "– , 1–990",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Rauh",
+        "given": "W."
+      }
+    ],
+    "title": "Bromelienstudien. Neue und wenig bekannte Arten aus Peru und anderen Landern",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Tropische und subtropische Pflanzenwelt",
+    "issued": "1984",
+    "page": "1–36"
+  },
+  {
+    "author": [
+      {
+        "family": "Scharf",
+        "given": "U."
+      },
+      {
+        "family": "Gouda",
+        "given": "E.J."
+      }
+    ],
+    "title": "Bringing Bromeliaceae back to homeland Botany",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Journal of the Bromeliad Society",
+    "issued": "2008",
+    "page": "123–129"
+  },
+  {
+    "author": [
+      {
+        "family": "Simpson",
+        "given": "M.G."
+      }
+    ],
+    "title": "Plants systematics",
+    "publisher": "Elsevier Academic Press",
+    "type": "book",
+    "issued": "2006",
+    "page": "590",
+    "publisher-place": "Burlington, San Diego, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "L.B."
+      }
+    ],
+    "title": "Studies in the Bromeliaceae: VI",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "70",
+    "type": "paper-conference",
+    "issued": "1935",
+    "page": "147–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "L.B."
+      },
+      {
+        "family": "Downs",
+        "given": "R.J."
+      }
+    ],
+    "title": "Tillandsioideae (Bromeliaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica",
+    "issued": "1977",
+    "page": "659–1492"
+  },
+  {
+    "author": [
+      {
+        "family": "Strehl",
+        "given": "T."
+      }
+    ],
+    "title": "Novos táxons de Tillandsia subgênero Anoplophytum (Bromeliaceae) do Rio Grande do Sul, Brasil",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Iheringia Série Botânica",
+    "issued": "2000",
+    "page": "19–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Till",
+        "given": "W."
+      }
+    ],
+    "title": "Tillandsia barfussii­—eine neue Art aus Zentralparaguay",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Die Bromelie",
+    "issued": "2009",
+    "page": "36–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Zizka",
+        "given": "G."
+      },
+      {
+        "family": "Schmidt",
+        "given": "M."
+      },
+      {
+        "family": "Schulte",
+        "given": "K."
+      },
+      {
+        "family": "Novoa",
+        "given": "P."
+      },
+      {
+        "family": "Pinto",
+        "given": "R."
+      },
+      {
+        "family": "König",
+        "given": "K."
+      }
+    ],
+    "title": "Chilean Bromeliaceae: diversity, distribution and evaluation of conservation status",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Biodiversity and Conservation",
+    "issued": "2009",
+    "page": "2449–2471",
+    "URL": "http://dx.doi.org/10.1007/s10531-009-9601-y",
+    "DOI": "10.1007/s10531-009-9601-y"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barros",
+        "given": "M."
+      }
+    ],
+    "title": "Las ciperaceas del estado de Santa Catalina",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Sellowia",
+    "issued": "1960",
+    "page": "181–448"
+  },
+  {
+    "author": [
+      {
+        "family": "Boeckeler",
+        "given": "J.O."
+      }
+    ],
+    "title": "Die Cyperaceen des Königlichen Herbariums zu Berlin",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1873",
+    "page": "520–647"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Cyperaceae",
+    "editor": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Symbolae Antillanae seu Fundamenta Florae Indiae Occidentalis. Fratres Borntraeger, Lipsiae",
+    "type": "chapter",
+    "issued": "1900",
+    "page": "8–162"
+  },
+  {
+    "author": [
+      {
+        "family": "Gale",
+        "given": "S."
+      }
+    ],
+    "title": "Rhynchospora sect. Eurhynchospora in Canada, the United States and the West Indies",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Rhodora",
+    "issued": "1944",
+    "page": "80–134 159–197 255–278"
+  },
+  {
+    "author": [
+      {
+        "family": "Guaglianone",
+        "given": "E.R."
+      }
+    ],
+    "title": "Sobre Rhynchospora rugosa (Vahl) Gale (Cyperaceae) y algunas especies afines",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Darwiniana",
+    "issued": "1979",
+    "page": "255–311"
+  },
+  {
+    "author": [
+      {
+        "family": "Kükenthal",
+        "given": "G."
+      }
+    ],
+    "title": "Vorarbeiten zu einer Monographie der Rhynchosporoideae - Rhynchospora. Botanisches Jahrbücher fur Systematik",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1950",
+    "page": "90–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Nees",
+        "given": "C.G.D."
+      }
+    ],
+    "title": "Cyperaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1842",
+    "page": "1–226"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G."
+      }
+    ],
+    "title": "Synopsis Plantarum Glumacearum",
+    "publisher": "J.B. Metzler, Stuttgart",
+    "type": "book",
+    "issued": "1855",
+    "page": "475",
+    "URL": "https://doi.org/10.5962/bhl.title.471",
+    "DOI": "10.5962/bhl.title.471"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Cyperaceae",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Fieldiana Botany, Chicago",
+    "issued": "1957",
+    "page": "790–808"
+  },
+  {
+    "author": [
+      {
+        "family": "Strong",
+        "given": "M.T."
+      }
+    ],
+    "title": "Taxonomy and Distribution of Rhynchospora (Cyperaceae) in the Guianas, South America",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Contributions from the United States National Herbarium",
+    "issued": "2006",
+    "page": "1–225"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "W.W."
+      }
+    ],
+    "title": "Rhynchospora",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Berry",
+        "given": "P.B."
+      },
+      {
+        "family": "Holst",
+        "given": "B.H."
+      }
+    ],
+    "container-title": "Flora of the Venezuelan Guayana",
+    "volume": "4",
+    "type": "article-journal",
+    "issued": "1998",
+    "page": "610–639"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "W.W."
+      },
+      {
+        "family": "Araujo",
+        "given": "A.C."
+      },
+      {
+        "family": "Alves",
+        "given": "M.V."
+      }
+    ],
+    "title": "A Preliminary Molecular Phylogeny of the Rhynchosporeae (Cyperaceae",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Botanical Review",
+    "issued": "2009",
+    "page": "22–29",
+    "URL": "https://doi.org/10.1007/s12229-008-9023-7",
+    "DOI": "10.1007/s12229-008-9023-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Enumeratio Plantarum II",
+    "editor": [
+      {
+        "family": "Filii",
+        "given": "Typis N.Möller",
+        "particle": "et"
+      },
+      {
+        "given": "Copenhague"
+      }
+    ],
+    "type": null,
+    "issued": "1805",
+    "page": "423"
+  }
+]

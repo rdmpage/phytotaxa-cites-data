@@ -1,0 +1,213 @@
+[
+  {
+    "author": [
+      {
+        "family": "France",
+        "given": "Société Botanique",
+        "particle": "de"
+      }
+    ],
+    "title": "Bulletin de la Société Botanique de France",
+    "volume": "26",
+    "publisher": "La Société",
+    "type": "book",
+    "issued": "1879",
+    "page": "87–88",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      },
+      {
+        "family": "H.B.",
+        "given": "Yang"
+      },
+      {
+        "family": "C.L",
+        "given": "Jin"
+      }
+    ],
+    "title": "Scrophularia",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Missouri Botanical Garden Press, St. Louis",
+    "type": "book",
+    "issued": "1998",
+    "page": "11–20",
+    "publisher-place": "Missouri, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "G.J."
+      },
+      {
+        "family": "Doh",
+        "given": "E.J."
+      },
+      {
+        "family": "Lee",
+        "given": "M.Y."
+      },
+      {
+        "family": "Ko",
+        "given": "B.S."
+      },
+      {
+        "family": "Oh",
+        "given": "S.E."
+      }
+    ],
+    "title": "Discrimination of three Scrophularia plants utilizing ‘Scrophularia Radix’ by DNA markers based on internal transcribed spacer (ITS) sequences",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Genes & Genomics",
+    "issued": "2010",
+    "page": "181–189",
+    "URL": "http://dx.doi.org/10.1007/s13258-009-0886-8",
+    "DOI": "10.1007/s13258-009-0886-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "619"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakai",
+        "given": "T."
+      }
+    ],
+    "title": "Plantae novae Asiaticae",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "The Botanical Magazine",
+    "issued": "1909",
+    "page": "185–192",
+    "URL": "http://dx.doi.org/10.15281/jplantres1887.23.273_185",
+    "DOI": "10.15281/jplantres1887.23.273_185"
+  },
+  {
+    "author": [
+      {
+        "family": "Han",
+        "given": "K.S."
+      },
+      {
+        "family": "So",
+        "given": "S.K."
+      },
+      {
+        "family": "Lee",
+        "given": "C.H."
+      },
+      {
+        "family": "Kim",
+        "given": "M.Y."
+      }
+    ],
+    "title": "Taxonomy of the genus Scrophularia (Scrophulariaceae) in Korea",
+    "type": null,
+    "issued": "2003"
+  },
+  {
+    "author": [
+      {
+        "family": "Olivencia",
+        "given": "O.A."
+      }
+    ],
+    "title": "Scrophularia",
+    "editor": [
+      {
+        "family": "Benedí",
+        "given": "C."
+      },
+      {
+        "family": "Rico",
+        "given": "E."
+      },
+      {
+        "family": "Güemes",
+        "given": "J."
+      },
+      {
+        "family": "Herrero",
+        "given": "A."
+      }
+    ],
+    "container-title": "Flora Iberica, Plantaginaceae to Scrophulariaceae",
+    "volume": "13",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "97–134",
+    "publisher-place": "Real Jardín Botánico, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Olivencia",
+        "given": "O.A."
+      },
+      {
+        "family": "Devesa",
+        "given": "J.A."
+      }
+    ],
+    "title": "Revisión del género Scrophularia L. (Scrophulariaceae) en la Península Ibérica e Islas Baleares, Ruizia, 11",
+    "publisher": "Monografías del Real Jardín",
+    "type": "book",
+    "issued": "1993",
+    "publisher-place": "Botánico, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamamoto",
+        "given": "A."
+      },
+      {
+        "family": "Miyase",
+        "given": "T."
+      },
+      {
+        "family": "Ueno",
+        "given": "A."
+      },
+      {
+        "family": "Maeda",
+        "given": "T."
+      }
+    ],
+    "title": "Scrophulasaponins II-IV, new saikosaponin homologs from Scrophularia kakudensis FRANCH",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Chemical & Pharmaceutical Bulletin",
+    "issue": "10",
+    "issued": "1993",
+    "page": "1780–1783",
+    "URL": "http://dx.doi.org/10.1248/cpb.41.1780",
+    "DOI": "10.1248/cpb.41.1780"
+  }
+]

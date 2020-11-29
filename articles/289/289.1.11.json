@@ -1,0 +1,176 @@
+[
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "D.Z."
+      },
+      {
+        "family": "Zhu",
+        "given": "G."
+      }
+    ],
+    "title": "Thalictrum L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "6",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "289–311",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "1. L",
+    "type": null,
+    "issued": "1753",
+    "page": "545–547",
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Riedl",
+        "given": "H."
+      },
+      {
+        "family": "Nasir",
+        "given": "Y.J."
+      }
+    ],
+    "title": "Ranunculaceae",
+    "editor": [
+      {
+        "family": "Ali",
+        "given": "S.I."
+      },
+      {
+        "family": "Yasin",
+        "given": "J.N."
+      }
+    ],
+    "container-title": "Flora of Pakistan",
+    "volume": null,
+    "publisher": "Ranunculaceae. University of Karachi",
+    "issue": "193",
+    "type": "article-journal",
+    "issued": "1991",
+    "page": "1–157",
+    "publisher-place": "Karachi"
+  },
+  {
+    "author": [
+      {
+        "family": "Rau",
+        "given": "M.A."
+      }
+    ],
+    "title": "Ranunculaceae",
+    "editor": [
+      {
+        "family": "Sharma",
+        "given": "B.D."
+      },
+      {
+        "family": "Balakrishnan",
+        "given": "N.P."
+      },
+      {
+        "family": "Rao",
+        "given": "R.R."
+      },
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      }
+    ],
+    "container-title": "Flora of India Vol-1. Botanical Survey of India, Calcutta",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "1–145"
+  },
+  {
+    "author": [
+      {
+        "family": "Santapau",
+        "given": "H."
+      },
+      {
+        "family": "Henry",
+        "given": "A.N."
+      }
+    ],
+    "title": "A dictionary of flowering plants in India",
+    "container-title": "Publications & information Directorate",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "170",
+    "publisher-place": "CSIR, New Delhi"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "M."
+      }
+    ],
+    "title": "Ranunculaceae",
+    "editor": [
+      {
+        "family": "Hiepko",
+        "given": "P."
+      }
+    ],
+    "container-title": "Engler’s Die Naturlichen Pflanzenfamilien",
+    "publisher": "Duncker & Humblot",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "223–497",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Numerical list of dried specimens of plants in the Museum of the Honl. East India Company/ which have been supplied by Dr",
+    "container-title": "Wallich, superintendent of the Botanic Garden at Calcutta",
+    "publisher": "East India Company, Museum",
+    "type": "chapter",
+    "issued": "1828",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Plantae Asiaticae Rariores",
+    "volume": "2",
+    "publisher": "Treuttel and Würtz",
+    "type": "book",
+    "issued": "1831",
+    "page": "26",
+    "publisher-place": "London"
+  }
+]

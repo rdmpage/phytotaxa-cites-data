@@ -1,0 +1,572 @@
+[
+  {
+    "author": [
+      {
+        "family": "Burke",
+        "given": "J.M."
+      },
+      {
+        "family": "Bayly",
+        "given": "M.J."
+      },
+      {
+        "family": "Adams",
+        "given": "P.B."
+      },
+      {
+        "family": "Laddiges",
+        "given": "P.Y."
+      }
+    ],
+    "title": "Molecular phylogenetic analysis of Dendrobium (Orchidaceae), with emphasis on the Australian section Dendrocoryne, and implications for generic classification",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Australian Systematic Botany",
+    "issued": "2008",
+    "page": "1–14",
+    "URL": "https://doi.org/10.1071/SB07038",
+    "DOI": "10.1071/SB07038"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.P."
+      },
+      {
+        "family": "Ma",
+        "given": "L."
+      },
+      {
+        "family": "Lan",
+        "given": "S.R."
+      },
+      {
+        "family": "Li",
+        "given": "M.H."
+      }
+    ],
+    "title": "Morphological and molecular evidence for a new species from China: Dendrobium zhenghuoense (Epidendroideae; Orchidaceae",
+    "volume": "275",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "277–287",
+    "URL": "https://doi.org/10.11646/phytotaxa.275.3.5",
+    "DOI": "10.11646/phytotaxa.275.3.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Clements",
+        "given": "M.A."
+      }
+    ],
+    "title": "Molecular phylogenetic systematics in Dendrobieae (Orchidaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Aliso",
+    "issued": "2006",
+    "page": "465–480",
+    "URL": "https://doi.org/10.5642/aliso.20062201.37",
+    "DOI": "10.5642/aliso.20062201.37"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List categories and criteria, version 3.1",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "J.W."
+      },
+      {
+        "family": "Ye",
+        "given": "D.P."
+      },
+      {
+        "family": "Jin",
+        "given": "X.H."
+      },
+      {
+        "family": "Yin",
+        "given": "J.W."
+      }
+    ],
+    "title": "Dendrobium zhenyuanense (Orchidaceae), a new Chinese species in section Stachyobium",
+    "volume": "178",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2014",
+    "page": "217–220",
+    "URL": "https://doi.org/10.11646/phytotaxa.178.3.8",
+    "DOI": "10.11646/phytotaxa.178.3.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      }
+    ],
+    "title": "Dendrobium hekouense (Orchidaceae), a new species from Yunnan",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2011",
+    "page": "87–90",
+    "URL": "https://doi.org/10.5735/085.048.0114",
+    "DOI": "10.5735/085.048.0114"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments workshop (GCE",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "volume": "6, Epidendroideae (part 3",
+    "publisher": "Oxford University Press",
+    "type": "article-journal",
+    "container-title": "Genera orchidacearum",
+    "issued": "2014",
+    "page": "51–100",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ronquist, F. &Huelsenbeck, J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Schuiteman",
+        "given": "A."
+      }
+    ],
+    "title": "Dendrobium (Orchidaceae): to split or not to split?",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Gardens’ Bulletin Singapore",
+    "issued": "2011",
+    "page": "245–257"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Dendrobium",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Nova Acta Regiae Societatis Scientiarum Upsaliensis",
+    "issued": "1799",
+    "page": "82–85"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*. Phylogenetic analysis using parsimony (*and other methods), v. 4.0 beta 10",
+    "type": null,
+    "issued": "2002",
+    "publisher-place": "Sinauer, Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "H.P."
+      }
+    ],
+    "title": "The dendrobiums",
+    "type": "article-journal",
+    "container-title": "Gantner, Ruggell",
+    "issued": "2006",
+    "page": "3–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Xiang",
+        "given": "X.G."
+      },
+      {
+        "family": "Mi",
+        "given": "X.C."
+      },
+      {
+        "family": "Zhou",
+        "given": "H.L."
+      },
+      {
+        "family": "Li",
+        "given": "J.W."
+      },
+      {
+        "family": "Chung",
+        "given": "S.W."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      },
+      {
+        "family": "Huang",
+        "given": "W.C."
+      },
+      {
+        "family": "Jin",
+        "given": "W.T."
+      },
+      {
+        "family": "Li",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Huang",
+        "given": "L.Q."
+      },
+      {
+        "family": "Jin",
+        "given": "X.H."
+      }
+    ],
+    "title": "Biogeographical diversification of mainland Asian Dendrobium (Orchidaceae) and its implications for the historical dynamics of evergreen broad-leaved forests",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2016",
+    "page": "1310–1323",
+    "URL": "https://doi.org/10.1111/jbi.12726",
+    "DOI": "10.1111/jbi.12726"
+  },
+  {
+    "author": [
+      {
+        "family": "Xiang",
+        "given": "X.G."
+      },
+      {
+        "family": "Schuiteman",
+        "given": "A."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      },
+      {
+        "family": "Huang",
+        "given": "W.C."
+      },
+      {
+        "family": "Chung",
+        "given": "S.W."
+      },
+      {
+        "family": "Li",
+        "given": "J.W."
+      },
+      {
+        "family": "Zhou",
+        "given": "H.L."
+      },
+      {
+        "family": "Jin",
+        "given": "W.T."
+      },
+      {
+        "family": "Lai",
+        "given": "Y.J."
+      },
+      {
+        "family": "Li",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Jin",
+        "given": "X.H."
+      }
+    ],
+    "title": "Molecular systematics of Dendrobium (Orchidaceae, Dendrobieae) from mainland Asia based on plastid and nuclear sequences",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2013",
+    "page": "950–960",
+    "URL": "https://doi.org/10.1016/j.ympev.2013.06.009",
+    "DOI": "10.1016/j.ympev.2013.06.009"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Q."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      },
+      {
+        "family": "Luo",
+        "given": "Y.B."
+      }
+    ],
+    "title": "Two new species of Dendrobium (Orchidaceae: Epidendroideae) from China: evidence from morphology and DNA",
+    "volume": "174",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "129–143",
+    "URL": "https://doi.org/10.11646/phytotaxa.174.3.1",
+    "DOI": "10.11646/phytotaxa.174.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Q."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Wu",
+        "given": "X.Y."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      }
+    ],
+    "title": "Dendrobium maguanense (Orchidaceae; Epidendroideae), a new species from China: evidence from morphology and DNA",
+    "volume": "286",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2016",
+    "page": "47–53",
+    "URL": "https://doi.org/10.11646/phytotaxa.286.1.6",
+    "DOI": "10.11646/phytotaxa.286.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Yukawa",
+        "given": "T."
+      },
+      {
+        "family": "Kita",
+        "given": "K."
+      },
+      {
+        "family": "Handa",
+        "given": "T."
+      }
+    ],
+    "title": "DNA phylogeny and morphological diversification of Australian Dendrobium (Orchidaceae",
+    "editor": [
+      {
+        "family": "Wilson",
+        "given": "K.L."
+      },
+      {
+        "family": "Mossison",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Monocots: systematics and evolution",
+    "publisher": "CSIRO Publishing",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "465–471",
+    "publisher-place": "Melbourne"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Liu",
+        "given": "K.W."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      },
+      {
+        "family": "Xiao",
+        "given": "X.J."
+      },
+      {
+        "family": "Zhai",
+        "given": "J.W."
+      },
+      {
+        "family": "Li",
+        "given": "L.Q."
+      },
+      {
+        "family": "Cai",
+        "given": "J."
+      },
+      {
+        "family": "Hsiao",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Rao",
+        "given": "W.H.Huang"
+      },
+      {
+        "family": "J.",
+        "given": "Ma"
+      },
+      {
+        "family": "X.Y.",
+        "given": "Chung"
+      },
+      {
+        "family": "S.W.",
+        "given": "Huang"
+      },
+      {
+        "family": "L.Q.",
+        "given": "Tsai"
+      },
+      {
+        "given": "W.C."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      }
+    ],
+    "title": "A new molecular phylogeny and a new genus, Pendulorchis, of the Aerides-Vanda alliance (Orchidaceae: Epidendroideae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "PloS One",
+    "issued": "2013",
+    "page": "60097",
+    "URL": "https://doi.org/10.1371/journal.pone.0060097",
+    "DOI": "10.1371/journal.pone.0060097"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "G.H."
+      },
+      {
+        "family": "Ji",
+        "given": "Z.H."
+      },
+      {
+        "family": "Wood",
+        "given": "J.J."
+      },
+      {
+        "family": "Wood",
+        "given": "H.P."
+      }
+    ],
+    "title": "Dendrobium",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "publisher": "Scientific Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "367–397",
+    "publisher-place": "Beijing"
+  }
+]

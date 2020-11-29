@@ -1,0 +1,635 @@
+[
+  {
+    "author": [
+      {
+        "family": "Allioni",
+        "given": "C."
+      }
+    ],
+    "title": "Flora Pedemontana. Tomus secundus",
+    "publisher": "I.M. Briolus, Augusta Taurinorum",
+    "type": "book",
+    "issued": "1785",
+    "page": "220"
+  },
+  {
+    "author": [
+      {
+        "family": "Brotero",
+        "given": "F."
+      }
+    ],
+    "title": "Flora Lusitanica. Pars 2. Ex Typ",
+    "container-title": "Regia. Olissipone [Lisbona",
+    "type": "chapter",
+    "issued": "1805",
+    "page": "557"
+  },
+  {
+    "author": [
+      {
+        "family": "Burnat",
+        "given": "E."
+      }
+    ],
+    "title": "Flore des Alpes Maritimes",
+    "volume": "4",
+    "publisher": "H. Georg, Genève",
+    "type": "book",
+    "issued": "1906",
+    "page": "304"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Rapport Sur un Voyage botanique et agronomique dans les Départements du Sud-Ouest",
+    "container-title": "Mémoires de la Société d’Agriculture du Department de la Seine",
+    "volume": "11",
+    "type": "chapter",
+    "issued": "1808",
+    "page": "1–72"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuccuini",
+        "given": "P."
+      },
+      {
+        "family": "Nepi",
+        "given": "C."
+      }
+    ],
+    "title": "Herbarium Centrale Italicum (Phanerogamic Section): The genesis and structure of a herbarium. The main collections, the collectors, the handwriting samples and the personnel in its 150-year history",
+    "publisher": "Arti Grafiche Giorgi & Gambi, Firenze",
+    "type": "book",
+    "issued": "1999",
+    "page": "466"
+  },
+  {
+    "author": [
+      {
+        "family": "Durovic",
+        "given": "S.Z."
+      },
+      {
+        "family": "Kuzmanovic",
+        "given": "N."
+      },
+      {
+        "family": "Tomovic",
+        "given": "G."
+      },
+      {
+        "family": "M",
+        "given": "Niketic"
+      }
+    ],
+    "title": "Nomenclatural noters and typification of the names related to Silene saxifraga group (Caryophyllaceae",
+    "volume": "344",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2018",
+    "page": "201–214",
+    "URL": "https://doi.org/10.11646/phytotaxa.344.3.1",
+    "DOI": "10.11646/phytotaxa.344.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Figueiredo",
+        "given": "E."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Silva",
+        "given": "V."
+      }
+    ],
+    "title": "Three unpublished letters by Felix Avelar Brotero reveal new information on his herbarium and types",
+    "volume": "382",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2018",
+    "page": "243–254",
+    "URL": "https://doi.org/10.11646/phytotaxa.382.3.1",
+    "DOI": "10.11646/phytotaxa.382.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Gallo",
+        "given": "L."
+      }
+    ],
+    "title": "Towards a review of the genus Petrosedum (Crassulaceae): Taxonomic and nomenclatural notes on Iberian taxa",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Webbia",
+    "issue": "2",
+    "issued": "2017",
+    "page": "207–216",
+    "URL": "https://doi.org/10.1080/00837792.2017.1363978",
+    "DOI": "10.1080/00837792.2017.1363978"
+  },
+  {
+    "author": [
+      {
+        "family": "Gallo",
+        "given": "L."
+      },
+      {
+        "family": "Tison",
+        "given": "J.-M."
+      },
+      {
+        "given": "Gallo"
+      },
+      {
+        "given": "J.–M."
+      }
+    ],
+    "title": "Sedum ×elaverinum L",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique. Société botanique de France",
+    "issued": "2016",
+    "page": "37–39"
+  },
+  {
+    "author": [
+      {
+        "family": "Gandoger",
+        "given": "M."
+      }
+    ],
+    "title": "Novus conspectus Florae Europae [",
+    "editor": [
+      {
+        "family": "fil",
+        "given": "A.Mermann",
+        "particle": "et"
+      }
+    ],
+    "publisher": "T.O. Weigel, Lipsiae",
+    "type": "book",
+    "issued": "1910",
+    "page": "541",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Gmelin",
+        "given": "C.C."
+      }
+    ],
+    "title": "Flora Badensis Alsatica",
+    "translator": [
+      {
+        "literal": "Tom. II. Off. Aul. Mulleriana. Carlsruhae."
+      }
+    ],
+    "type": null,
+    "issued": "1806",
+    "page": "717"
+  },
+  {
+    "author": [
+      {
+        "family": "Grenier",
+        "given": "M.C."
+      }
+    ],
+    "title": "Préface et Revue de la flore des monts Jura",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Impr. E. Martinet",
+    "issue": "",
+    "issued": "1876",
+    "page": "90"
+  },
+  {
+    "author": [
+      {
+        "family": "Grulich",
+        "given": "V."
+      }
+    ],
+    "title": "Generic division of Sedoideae in Europe and the adjacent regions",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Preslia",
+    "issue": "1",
+    "issued": "1984",
+    "page": "29–45"
+  },
+  {
+    "author": [
+      {
+        "literal": "Hart, ‘t H. & Bleij, B."
+      }
+    ],
+    "title": "Sedum",
+    "editor": [
+      {
+        "family": "Eggli",
+        "given": "U."
+      }
+    ],
+    "container-title": "Illustrated Handbook of Succulent Plants",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "235–332",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Heath",
+        "given": "P.V."
+      }
+    ],
+    "title": "Sussex succulents",
+    "type": "article-journal",
+    "container-title": "Sussex Cactus & Succulents. Yearbook",
+    "issued": "1987",
+    "page": "48–59"
+  },
+  {
+    "author": [
+      {
+        "family": "Host",
+        "given": "N.T."
+      }
+    ],
+    "title": "Flora Austriaca",
+    "volume": "I. Sumpt",
+    "publisher": "C.F. Beck, Viennae",
+    "type": "book",
+    "issued": "1827",
+    "page": "576"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeanbernat",
+        "given": "E."
+      },
+      {
+        "family": "Timbal-Lagrave",
+        "given": "E."
+      }
+    ],
+    "title": "Le Massif du Laurenti. Pyrénées francaises. Géographie, Géologie, Botanique",
+    "publisher": "Asselin Libr.-Edit",
+    "type": "book",
+    "issued": "1879",
+    "page": "434",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "W.D.J."
+      }
+    ],
+    "title": "Synopsis Florae Germanicae et Helveticae 2",
+    "type": "article-journal",
+    "container-title": "Supmt. Wilmans, Francofurti ad Moenum",
+    "issued": "1837",
+    "page": "353–844"
+  },
+  {
+    "author": [
+      {
+        "family": "Lagasca",
+        "given": "M."
+      }
+    ],
+    "title": "Elenchus plantarum quae in Horto Regio Botanico Matritensi colebantur anno 1815 cum novarum, aut minus cognitarum stirpium diagnosi, nonnullarumque descriptionibus contractis",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Ex Typ. Regia. Matriti",
+    "issued": "1816",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Le Grand",
+        "given": "M.A."
+      }
+    ],
+    "title": "Contributions a la flore des Pyrenees–orientales",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Bull. Soc. Bot. France",
+    "issued": "1870",
+    "page": "386–389",
+    "URL": "https://doi.org/10.1080/00378941.1869.10839491",
+    "DOI": "10.1080/00378941.1869.10839491"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "editor": [
+      {
+        "family": "Salvii",
+        "given": "Imp L."
+      },
+      {
+        "given": "Holmiae"
+      }
+    ],
+    "type": null,
+    "issued": "1753",
+    "page": "1–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Flora suecica",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "publisher": "Stockolmiae",
+    "type": "book",
+    "issued": "1755",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Post",
+        "given": "G.E."
+      }
+    ],
+    "title": "Flora of Syria, Palestine, and Sinai",
+    "type": null,
+    "issued": "1896",
+    "page": "919"
+  },
+  {
+    "author": [
+      {
+        "family": "Rouy",
+        "given": "G."
+      },
+      {
+        "family": "Camus",
+        "given": "E.G."
+      }
+    ],
+    "title": "Flore de France. 7. Les Fils d’E",
+    "publisher": "Deyrolle",
+    "type": "book",
+    "issued": "1901",
+    "page": "440",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Sibthorp",
+        "given": "J."
+      },
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "title": "Florae Grecae Prodromus",
+    "volume": "1",
+    "editor": [
+      {
+        "family": "socii",
+        "given": "Typis R.Taylor",
+        "particle": "et"
+      }
+    ],
+    "container-title": "Londini",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1806",
+    "page": "1–218"
+  },
+  {
+    "author": [
+      {
+        "family": "Sibthorp",
+        "given": "J."
+      },
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "title": "Florae Grecae Prodromus",
+    "volume": "1",
+    "editor": [
+      {
+        "family": "socii",
+        "given": "Typis R.Taylor",
+        "particle": "et"
+      }
+    ],
+    "container-title": "Londini",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1809",
+    "page": "219–442"
+  },
+  {
+    "author": [
+      {
+        "family": "Sibthorp",
+        "given": "J."
+      },
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "title": "Florae Graeca",
+    "volume": "5",
+    "publisher": "Typis R. Taylor. Londini",
+    "issue": "2",
+    "type": "book",
+    "issued": "1825",
+    "page": "39–81"
+  },
+  {
+    "author": [
+      {
+        "family": "Songeon",
+        "given": "A."
+      },
+      {
+        "family": "Perrier",
+        "given": "E."
+      }
+    ],
+    "title": "Sur des plantes nouvelles ou peu connues de la Savoie",
+    "volume": "N. 2",
+    "type": "article-journal",
+    "container-title": "Billotia",
+    "issue": "4",
+    "issued": "1866",
+    "page": "– 1866"
+  },
+  {
+    "author": [
+      {
+        "family": "F.A.",
+        "given": "Stafleu"
+      },
+      {
+        "family": "R.S",
+        "given": "Cowan"
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "volume": "1",
+    "edition": "Second",
+    "editor": [
+      {
+        "family": "Bohn",
+        "given": "Scheltema"
+      },
+      {
+        "given": "Holkema"
+      }
+    ],
+    "type": null,
+    "issued": "1976",
+    "page": "–",
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "edition": "Second",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Regnum vegetabile",
+    "issued": "1985",
+    "page": "–2"
+  },
+  {
+    "author": [
+      {
+        "family": "Suter",
+        "given": "J.R."
+      }
+    ],
+    "title": "Flora helvetica 1. Erstes Baendchen. Imp",
+    "publisher": "Orell Fuesli et Socc., Turici",
+    "type": "book",
+    "issued": "1802",
+    "page": "345"
+  },
+  {
+    "author": [
+      {
+        "family": "Tenore",
+        "given": "M."
+      }
+    ],
+    "title": "Synopsis novarum plantarum [",
+    "volume": "1",
+    "issue": "2",
+    "type": null,
+    "issued": "1811",
+    "page": "– , 21–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "onwards) Index Herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Velayos",
+        "given": "M."
+      }
+    ],
+    "title": "Combinaciones en Sedum s.l",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Crassulaceae). Anales del Jardín Botánico de Madrid",
+    "issue": "2",
+    "issued": "1989",
+    "page": "584–585"
+  },
+  {
+    "author": [
+      {
+        "family": "Villars",
+        "given": "D."
+      }
+    ],
+    "title": "Histoire des plantes de Dauphiné. Tome troisieme, contenant les Especes, les Caracteres, les Synonymes & les Vertus",
+    "type": "article-journal",
+    "container-title": "Chez l’Auteur & chez les Librairies, Grenoble",
+    "issued": "1789",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zografidis",
+        "given": "A."
+      }
+    ],
+    "title": "Resurrection and typification of Verbascum auriculatum (Scrophulariaceae), a long-discussed name in Flora Graeca Sibthorpiana",
+    "volume": "361",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2018",
+    "page": "233–243",
+    "URL": "https://doi.org/10.11646/phytotaxa.361.2.8",
+    "DOI": "10.11646/phytotaxa.361.2.8"
+  }
+]

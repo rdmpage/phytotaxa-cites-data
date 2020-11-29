@@ -1,0 +1,978 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      },
+      {
+        "family": "Hollenberg",
+        "given": "G.J."
+      }
+    ],
+    "title": "Marine algae of California",
+    "publisher": "Stanford University Press, California",
+    "type": "book",
+    "issued": "1976",
+    "page": "827"
+  },
+  {
+    "author": [
+      {
+        "family": "Acleto",
+        "given": "C.O."
+      }
+    ],
+    "title": "Las algas marinas del Perú",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Boletin de la Sociedad Peruana de Botánica",
+    "issued": "1973",
+    "page": "1–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "J."
+      }
+    ],
+    "title": "Species Genera et Ordines Algarum",
+    "volume": "2",
+    "publisher": "C.W.K. Greerup",
+    "issue": "2",
+    "type": "book",
+    "issued": "1851",
+    "page": "337–506",
+    "publisher-place": "Lund"
+  },
+  {
+    "author": [
+      {
+        "family": "Boo",
+        "given": "G.H."
+      },
+      {
+        "family": "Geraldino",
+        "given": "P.J.L."
+      }
+    ],
+    "title": "Pterocladiella maribagoensis (Gelidiales, Rhodophyta), a new marine alga from Cebu, Philippines",
+    "volume": "288",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "239–248",
+    "URL": "https://doi.org/10.11646/phytotaxa.288.3.4",
+    "DOI": "10.11646/phytotaxa.288.3.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Boo",
+        "given": "G.H."
+      },
+      {
+        "family": "Park",
+        "given": "J.K."
+      },
+      {
+        "family": "Boo",
+        "given": "S.M."
+      }
+    ],
+    "title": "Gelidiophycus (Rhodophyta: Gelidiales): a new genus of marine algae from East Asia",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2013",
+    "page": "1105–1116",
+    "URL": "https://doi.org/10.12705/626.7",
+    "DOI": "10.12705/626.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Boo",
+        "given": "G.H."
+      },
+      {
+        "family": "Le Gall",
+        "given": "L."
+      },
+      {
+        "family": "Hwang",
+        "given": "I.K."
+      },
+      {
+        "family": "Boo",
+        "given": "S.M."
+      }
+    ],
+    "title": "Pterocladiella feldmannii sp",
+    "editor": [
+      {
+        "given": "nov"
+      },
+      {
+        "family": "nov",
+        "given": "P.",
+        "particle": "hamelii sp."
+      }
+    ],
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Cryptogamie, Algologie",
+    "issued": "2016",
+    "page": "179–198",
+    "URL": "https://doi.org/10.7872/crya/v37.iss3.2016.179",
+    "DOI": "10.7872/crya/v37.iss3.2016.179"
+  },
+  {
+    "author": [
+      {
+        "family": "Boo",
+        "given": "G.H."
+      },
+      {
+        "family": "Le Gall",
+        "given": "L."
+      },
+      {
+        "family": "Miller",
+        "given": "K.A."
+      },
+      {
+        "family": "Freshwater",
+        "given": "D.W."
+      },
+      {
+        "family": "Wernberg",
+        "given": "T."
+      },
+      {
+        "family": "Terada",
+        "given": "R."
+      },
+      {
+        "family": "Yoon",
+        "given": "K.J."
+      },
+      {
+        "family": "Boo",
+        "given": "S.M."
+      }
+    ],
+    "title": "A novel phylogeny of the Gelidiales (Rhodophyta) based on five genes including the nuclear CesA, with descriptions of Orthogonacladia gen",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "nov. and Orthogonacladiaceae fam. nov. Molecular Phylogenetics and Evolution",
+    "issued": "2016",
+    "page": "359–372",
+    "URL": "https://doi.org/10.1016/j.ympev.2016.05.018",
+    "DOI": "10.1016/j.ympev.2016.05.018"
+  },
+  {
+    "author": [
+      {
+        "family": "Boo",
+        "given": "G.H."
+      },
+      {
+        "family": "Hughey",
+        "given": "J.R."
+      },
+      {
+        "family": "Miller",
+        "given": "K.A."
+      },
+      {
+        "family": "Boo",
+        "given": "S.M."
+      }
+    ],
+    "title": "Mitogenomes from type specimens, a genotyping tool for morphologically simple species: ten genomes of agar-producing red algae",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Scientific Reports",
+    "issued": "2016",
+    "page": "35337",
+    "URL": "https://doi.org/10.1038/srep35337",
+    "DOI": "10.1038/srep35337"
+  },
+  {
+    "author": [
+      {
+        "family": "Cribb",
+        "given": "A.B."
+      }
+    ],
+    "title": "Marine algae of the southern Great Barrier Reef. Part I",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Rhodophyta. Australian Coral Reef Society, Handbook",
+    "issue": "2, Brisbane",
+    "issued": "1983",
+    "page": "173"
+  },
+  {
+    "author": [
+      {
+        "family": "Dawson",
+        "given": "E.Y."
+      }
+    ],
+    "title": "Marine red algae of Pacific Mexico. Part I. Bangiales to Corallinaceae subf",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Corallinoideae. Allan Hancock Pacific Expeditions",
+    "issued": "1953",
+    "page": "1–239"
+  },
+  {
+    "author": [
+      {
+        "family": "Dawson",
+        "given": "E.Y."
+      }
+    ],
+    "title": "Notes on Pacific coast marine algae, VII",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Southern California Academy of Sciences",
+    "issued": "1958",
+    "page": "65–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Felicini",
+        "given": "G.P."
+      },
+      {
+        "family": "Perrone",
+        "given": "C."
+      }
+    ],
+    "title": "Pterocladia",
+    "editor": [
+      {
+        "family": "Akatuka",
+        "given": "I."
+      }
+    ],
+    "publisher": "SPB Academic Publishing, The Hague",
+    "type": "book",
+    "issued": "1994",
+    "page": "283–344"
+  },
+  {
+    "author": [
+      {
+        "family": "Freshwater",
+        "given": "D.W."
+      },
+      {
+        "family": "Rueness",
+        "given": "J."
+      }
+    ],
+    "title": "Phylogenetic relationships of some European Gelidium (Gelidiales, Rhodophyta) species, based on rbcL nucleotide sequence analysis",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "1994",
+    "page": "187–194",
+    "URL": "https://doi.org/10.2216/i0031-8884-33-3-187.1",
+    "DOI": "10.2216/i0031-8884-33-3-187.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Freshwater",
+        "given": "D.W."
+      },
+      {
+        "family": "Tudor",
+        "given": "K."
+      },
+      {
+        "family": "O’Shaughnessy",
+        "given": "K."
+      },
+      {
+        "family": "Wysor",
+        "given": "B."
+      }
+    ],
+    "title": "DNA barcoding in the red algal order Gelidiales: comparison of COI with rbcL and verification of the “barcoding gap”",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Cryptogamie Algologie",
+    "issued": "2010",
+    "page": "435–449"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "N.L."
+      }
+    ],
+    "title": "New species of Gelidium on the Pacific coast of North America",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "University of California Publications in Botany",
+    "issued": "1927",
+    "page": "273–318"
+  },
+  {
+    "author": [
+      {
+        "family": "Gavio",
+        "given": "B."
+      },
+      {
+        "family": "Fredericq",
+        "given": "S."
+      }
+    ],
+    "title": "Grateloupia turuturu (Halymeniaceae, Rhodophyta) is the correct name of the non-native species in the Atlantic known as Grateloupia doryphora",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "European Journal of Phycology",
+    "issued": "2002",
+    "page": "349–359",
+    "URL": "https://doi.org/10.1017/S0967026202003839",
+    "DOI": "10.1017/S0967026202003839"
+  },
+  {
+    "author": [
+      {
+        "family": "Geraldino",
+        "given": "P.J.L."
+      },
+      {
+        "family": "Yang",
+        "given": "E.C."
+      },
+      {
+        "family": "Boo",
+        "given": "S.M."
+      }
+    ],
+    "title": "Morphology and molecular phylogeny of Hypnea flexicaulis (Gigartinales, Rhodophyta) from Korea",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Algae",
+    "issued": "2006",
+    "page": "417–423",
+    "URL": "https://doi.org/10.4490/ALGAE.2006.21.4.417",
+    "DOI": "10.4490/ALGAE.2006.21.4.417"
+  },
+  {
+    "author": [
+      {
+        "family": "Guiry",
+        "given": "M.D."
+      },
+      {
+        "family": "Guiry",
+        "given": "G.M."
+      }
+    ],
+    "title": "AlgaeBase",
+    "genre": "World-wide electronic publication,",
+    "publisher": "National University of Ireland",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "publisher-place": "Galway",
+    "URL": "http://www.algaebase.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Howe",
+        "given": "M.A."
+      }
+    ],
+    "title": "The marine algae of Peru",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Torrey Botanical Club",
+    "issued": "1914",
+    "page": "1–185",
+    "URL": "https://doi.org/10.5962/bhl.title.97549",
+    "DOI": "10.5962/bhl.title.97549"
+  },
+  {
+    "author": [
+      {
+        "family": "Iha",
+        "given": "C."
+      },
+      {
+        "family": "Jamas",
+        "given": "M."
+      },
+      {
+        "family": "Guimarães",
+        "given": "S.M.P.B."
+      },
+      {
+        "family": "Fujii",
+        "given": "M.T."
+      },
+      {
+        "family": "Freshwater",
+        "given": "D.W."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Pterocladiella (Gelidiales, Rhodophyta) species of Brazil including morphological studies of Pterocladiella media and a reassessment of Pterocladiella taylorii",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2017",
+    "page": "624–637",
+    "URL": "https://doi.org/10.2216/17-8.1",
+    "DOI": "10.2216/17-8.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamouroux",
+        "given": "J.V.F."
+      }
+    ],
+    "title": "Essai sur les genres de la famille des Thallasiophytes non articulées",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Annales Muséum National D’Histoire Naturelle, par les professeurs de cet éstablissemen",
+    "issued": "1813",
+    "page": "21–47, 115–139, 267–293"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanfear",
+        "given": "R."
+      },
+      {
+        "family": "Calcott",
+        "given": "B."
+      },
+      {
+        "family": "Ho",
+        "given": "S.Y.W."
+      },
+      {
+        "family": "Guindon",
+        "given": "S."
+      }
+    ],
+    "title": "PartitionFinder: Combined selection of partitioning schemes and substitution models for phylogenetic analyses",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2012",
+    "page": "1695–1701",
+    "URL": "https://doi.org/10.1093/molbev/mss020",
+    "DOI": "10.1093/molbev/mss020"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "S.-M."
+      },
+      {
+        "family": "Fredericq",
+        "given": "S."
+      },
+      {
+        "family": "Hommersand",
+        "given": "M.H."
+      }
+    ],
+    "title": "Systematics of the Delesseriaceae (Ceramiales, Rhodophyta) based on large subunit rDNA and rbcL sequences, including the Phycodryoideae",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "subfam. nov. Journal of Phycology",
+    "issued": "2001",
+    "page": "881–899",
+    "URL": "https://doi.org/10.1046/j.1529-8817.2001.01012.x",
+    "DOI": "10.1046/j.1529-8817.2001.01012.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindberg",
+        "given": "D.R."
+      }
+    ],
+    "title": "Marine biotic interchange between the northern and southern hemispheres",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Paleobiology",
+    "issued": "1991",
+    "page": "308–324",
+    "URL": "https://doi.org/10.1017/S0094837300010629",
+    "DOI": "10.1017/S0094837300010629"
+  },
+  {
+    "author": [
+      {
+        "family": "Millar",
+        "given": "A.J.K."
+      },
+      {
+        "family": "Freshwater",
+        "given": "D.W."
+      }
+    ],
+    "title": "Morphology and molecular phylogeny of the marine algal order Gelidiales (Rhodophyta) from New South Wales, including Lord Howe and Norfolk Islands",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Australian Systematic Botany",
+    "issued": "2005",
+    "page": "215–263",
+    "URL": "https://doi.org/10.1071/SB04041",
+    "DOI": "10.1071/SB04041"
+  },
+  {
+    "author": [
+      {
+        "family": "Norris",
+        "given": "R.E."
+      }
+    ],
+    "title": "Pterocladia (Gelidiaceae, Rhodophyceae), a genus previously unknown in South Africa, as it occurs in Natal",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "1987",
+    "page": "39–43",
+    "URL": "https://doi.org/10.1016/S0254-6299(16)31471-5",
+    "DOI": "10.1016/S0254-6299(16)31471-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Ramírez",
+        "given": "M.E."
+      },
+      {
+        "family": "Santelices",
+        "given": "B."
+      }
+    ],
+    "title": "Catálogo de las algas marinas bentónicas de la costa temperada del Pacífico de Sudamérica",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Monografías Biológicas",
+    "issued": "1991",
+    "page": "1–437"
+  },
+  {
+    "author": [
+      {
+        "family": "Renfrew",
+        "given": "D.E."
+      },
+      {
+        "family": "Gabrielson",
+        "given": "P.W."
+      },
+      {
+        "family": "Scagel",
+        "given": "R.F."
+      }
+    ],
+    "title": "The marine algae of British Columbia, northern Washington, and southeast Alaska: division Rhodophyta (red algae), class Rhodophyceae, order Gelidiales",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issued": "1989",
+    "page": "3295–3314",
+    "URL": "https://doi.org/10.1139/b89-406",
+    "DOI": "10.1139/b89-406"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Hohna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Santelices",
+        "given": "B."
+      }
+    ],
+    "title": "A taxonomic review of Hawaiian Gelidiales (Rhodophyta",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Pacific Science",
+    "issued": "1977",
+    "page": "61–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Santelices",
+        "given": "B."
+      }
+    ],
+    "title": "Phylogeographic characterization of the temperate coast of Pacific South America",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "1980",
+    "page": "1–12",
+    "URL": "https://doi.org/10.2216/i0031-8884-19-1-1.1",
+    "DOI": "10.2216/i0031-8884-19-1-1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Santelices",
+        "given": "B."
+      }
+    ],
+    "title": "Taxonomic review of the species of Pterocladia (Gelidiales, Rhodophyta",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "1998",
+    "page": "237–252",
+    "URL": "https://doi.org/10.1023/A:1008095915164",
+    "DOI": "10.1023/A:1008095915164"
+  },
+  {
+    "author": [
+      {
+        "family": "Santelices",
+        "given": "B."
+      }
+    ],
+    "title": "Testing the usefulness of attachment structures in the taxonomy of small-sized gelidioids",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2007",
+    "page": "293–299",
+    "URL": "https://doi.org/10.2216/06-63.1",
+    "DOI": "10.2216/06-63.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Santelices",
+        "given": "B."
+      },
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "title": "New records of marine algae from Chile and their effect on phytogeography",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "1978",
+    "page": "213–222",
+    "URL": "https://doi.org/10.2216/i0031-8884-17-2-213.1",
+    "DOI": "10.2216/i0031-8884-17-2-213.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Santelices",
+        "given": "B."
+      },
+      {
+        "family": "Hommersand",
+        "given": "M."
+      }
+    ],
+    "title": "Pterocladiella, a new genus in the Gelidiaceae (Gelidiales, Rhodophyta",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "1997",
+    "page": "114–119",
+    "URL": "https://doi.org/10.2216/i0031-8884-36-2-114.1",
+    "DOI": "10.2216/i0031-8884-36-2-114.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Santelices",
+        "given": "B."
+      },
+      {
+        "family": "Montalva",
+        "given": "S."
+      }
+    ],
+    "title": "Taxonomic studies on Gelidiaceae (Rhodophyta) from central Chile",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "1983",
+    "page": "185–196",
+    "URL": "https://doi.org/10.2216/i0031-8884-22-2-185.1",
+    "DOI": "10.2216/i0031-8884-22-2-185.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Shimada",
+        "given": "S."
+      },
+      {
+        "family": "Masuda",
+        "given": "M."
+      }
+    ],
+    "title": "New records of Gelidiella pannosa, Pterocladiella caerulescens and Pterocladiella caloglossoides (Rhodophyta, Gelidiales) from Japan",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Phycological Research",
+    "issued": "2000",
+    "page": "95–102",
+    "URL": "https://doi.org/10.1111/j.1440-1835.2000.tb00202.x",
+    "DOI": "10.1111/j.1440-1835.2000.tb00202.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Shimada",
+        "given": "S."
+      },
+      {
+        "family": "Horiguchi",
+        "given": "T."
+      },
+      {
+        "family": "Masuda",
+        "given": "M."
+      }
+    ],
+    "title": "Confirmation of the status of three Pterocladia species (Gelidiales, Rhodophyta) described by K",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Okamura. Phycologia",
+    "issued": "2000",
+    "page": "10–18",
+    "URL": "https://doi.org/10.2216/i0031-8884-39-1-10.1",
+    "DOI": "10.2216/i0031-8884-39-1-10.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Sohrabipour",
+        "given": "J."
+      },
+      {
+        "family": "Lim",
+        "given": "P.-E."
+      },
+      {
+        "family": "Maggs",
+        "given": "C.A."
+      },
+      {
+        "family": "Phang",
+        "given": "S.-M."
+      }
+    ],
+    "title": "Two new species and two new records of Pterocladiella (Gelidiales) from Malaysia based on analysis of rbcL and cox1 gene sequences",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2013",
+    "page": "517–537",
+    "URL": "https://doi.org/10.2216/12-123.1",
+    "DOI": "10.2216/12-123.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML Version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2014",
+    "page": "1312–1313",
+    "URL": "https://doi.org/10.1093/bioinformatics/btu033",
+    "DOI": "10.1093/bioinformatics/btu033"
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "J.G."
+      }
+    ],
+    "title": "Systematics of Pterocladia media from California",
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Southern California Academy of Sciences",
+    "issued": "1974",
+    "page": "105–108"
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "J.G."
+      },
+      {
+        "family": "Norris",
+        "given": "J.N."
+      }
+    ],
+    "title": "Gelidiaceae (Rhodophyta) from the northern Gulf of California, Mexico",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "1981",
+    "page": "273–284",
+    "URL": "https://doi.org/10.2216/i0031-8884-20-3-273.1",
+    "DOI": "10.2216/i0031-8884-20-3-273.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "W.R."
+      }
+    ],
+    "title": "Pacific marine algae of the Allan Hancock Expeditions to the Galapagos Islands",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Allan Hancock Pacific Expeditions",
+    "issued": "1945",
+    "page": "1–528"
+  },
+  {
+    "author": [
+      {
+        "family": "Tronchin",
+        "given": "E.M."
+      },
+      {
+        "family": "Freshwater",
+        "given": "D.W."
+      }
+    ],
+    "title": "Four Gelidiales (Rhodophyta) new to southern Africa, Aphanta pachyrrhiza gen. et sp. nov., Gelidium profundum sp",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "nov., Pterocladiella caerulescens and P. psammophila sp. nov. Phycologia",
+    "issued": "2007",
+    "page": "325–348",
+    "URL": "https://doi.org/10.2216/06-73.1",
+    "DOI": "10.2216/06-73.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Weber-van Bosse",
+        "given": "A."
+      },
+      {
+        "literal": "II. Rhodophyceae."
+      }
+    ],
+    "title": "Liste des algues du Siboga",
+    "volume": "59b",
+    "type": "article-journal",
+    "container-title": "Siboga-Expeditie Monographie",
+    "issued": "1921",
+    "page": "187–310"
+  },
+  {
+    "author": [
+      {
+        "family": "Xia",
+        "given": "B.M."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      }
+    ],
+    "title": "Taxonomic studies on Pterocladiella (Gelidiaceae, Gelidiales, Rhodophyta) from China",
+    "editor": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "container-title": "Taxonomy of Economic Seaweeds with Reference to Some Pacific Species",
+    "volume": "VII",
+    "publisher": "California Sea Grant College Program, La Jolla",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "81–86"
+  }
+]

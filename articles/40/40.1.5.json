@@ -1,0 +1,151 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Flora of Mauritius and the Seychelles",
+    "editor": [
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "type": null,
+    "issued": "1877",
+    "page": "557",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bojer",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus Mauritianus ou énumération des plantes, exotiques et indigènes, qui croissent à l’île Maurice, disposées d’après la méthode naturelle",
+    "publisher": "Aimé Mamarot & Co., Mauritius",
+    "type": "book",
+    "issued": "1837",
+    "page": "456"
+  },
+  {
+    "author": [
+      {
+        "family": "Bosser",
+        "given": "J."
+      },
+      {
+        "family": "Cadet",
+        "given": "T."
+      },
+      {
+        "family": "Guého",
+        "given": "J."
+      },
+      {
+        "family": "Marais",
+        "given": "W."
+      }
+    ],
+    "title": "Flore des Mascareignes – La Réunion",
+    "publisher": "MSIRI/ORSTOM-IRD/KEW",
+    "type": "book",
+    "issued": "1976",
+    "publisher-place": "Maurice, Rodrigues"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "W."
+      },
+      {
+        "family": "D’Argent",
+        "given": "G.A."
+      }
+    ],
+    "title": "A vegetation survey of Mauritius (Indian Ocean) to identify priority rainforest areas for conservation management",
+    "genre": "IUCN/MWF report,",
+    "publisher": "Mauritius",
+    "type": "report",
+    "issued": "1997"
+  },
+  {
+    "author": [
+      {
+        "family": "Roberts",
+        "given": "D.L."
+      }
+    ],
+    "title": "Reproductive biology and conservation of the orchids of Mauritius",
+    "genre": "PhD thesis.",
+    "publisher": "University of Aberdeen",
+    "type": "thesis",
+    "issued": "2001",
+    "page": "290"
+  },
+  {
+    "author": [
+      {
+        "family": "Sevathian",
+        "given": "J.C."
+      }
+    ],
+    "title": "The rediscovery of Jumellea recurva (Orchidaceae) in native forests of Bel Ombre, Mauritius",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2011",
+    "page": "56–60"
+  },
+  {
+    "author": [
+      {
+        "family": "Strahm",
+        "given": "W.A."
+      }
+    ],
+    "title": "The conservation and restoration of the flora of Mauritius and Rodrigues",
+    "genre": "PhD thesis.",
+    "publisher": "University of Reading",
+    "type": "thesis",
+    "issued": "1993"
+  },
+  {
+    "author": [
+      {
+        "family": "Thouars",
+        "given": "A.A.P."
+      }
+    ],
+    "title": "Histoire particulière des plantes orchidées recueillies sur les trois îles Australes d’Afrique, de France, de Bourbon et de Madagascar",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "The author, Paris",
+    "issued": "1822",
+    "page": "109"
+  },
+  {
+    "author": [
+      {
+        "family": "Walter",
+        "given": "K.S."
+      },
+      {
+        "family": "Gillet",
+        "given": "H.J."
+      }
+    ],
+    "title": "IUCN Red List of threatened plants",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "1998",
+    "publisher-place": "Cambridge, UK"
+  }
+]

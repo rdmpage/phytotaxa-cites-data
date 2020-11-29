@@ -1,0 +1,789 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issue": "1",
+    "issued": "1857",
+    "page": "1–528"
+  },
+  {
+    "author": [
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliae Meridionalis",
+    "issued": "1832",
+    "page": "277–381"
+  },
+  {
+    "author": [
+      {
+        "family": "Informação Ambiental",
+        "given": "C.R.I.A.—Centro",
+        "particle": "de Referência em"
+      }
+    ],
+    "note": "speciesLink. Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://inct.splink.org.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Faria Júnior",
+        "given": "J.E.Q."
+      }
+    ],
+    "title": "Revisão taxonômica e filogenia de Eugenia sect. Pilothecium (Kiaersk.) D.Legrand (Myrtaceae",
+    "genre": "PhD Thesis.",
+    "publisher": "Universidade de Brasília",
+    "type": "thesis",
+    "issued": "2014",
+    "page": "215"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "E.G."
+      },
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Morfologia Vegetal: Organografia e dicionário ilustrado de morfologia das plantas",
+    "publisher": "Editora Plantarum, Nova Odessa",
+    "type": "book",
+    "issued": "2007",
+    "page": "416"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Ashton",
+        "given": "P."
+      },
+      {
+        "family": "Barrie",
+        "given": "F."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      },
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Nic Lughadha",
+        "given": "E."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      },
+      {
+        "family": "Silva",
+        "given": "L.H.S."
+      },
+      {
+        "family": "Wilson",
+        "given": "P.G."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      }
+    ],
+    "title": "World Checklist of Myrtaceae",
+    "volume": "1",
+    "publisher": "Royal Botanic Garden, Kew",
+    "type": "book",
+    "issued": "2008",
+    "page": "455"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 9.0. Prepared by the Standards and Petitions Subcommittee",
+    "type": null,
+    "issued": "2011"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawasaki",
+        "given": "M.L."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      }
+    ],
+    "title": "New species and new combinations in Myrtaceae from Northeastern South America",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "1",
+    "issued": "1994",
+    "page": "137–143",
+    "URL": "https://doi.org/10.2307/2807155",
+    "DOI": "10.2307/2807155"
+  },
+  {
+    "author": [
+      {
+        "family": "Kronka",
+        "given": "F.J.N."
+      },
+      {
+        "family": "Nalon",
+        "given": "M.A."
+      },
+      {
+        "family": "Matsukuma",
+        "given": "C.K."
+      },
+      {
+        "family": "Pavão",
+        "given": "M."
+      },
+      {
+        "family": "Guillaumon",
+        "given": "J.R."
+      },
+      {
+        "family": "Cavalli",
+        "given": "A.C."
+      },
+      {
+        "family": "Giannotti",
+        "given": "E."
+      },
+      {
+        "family": "Iwane",
+        "given": "M.S.S."
+      },
+      {
+        "family": "Lima",
+        "given": "L.M.P.R."
+      },
+      {
+        "family": "Montes",
+        "given": "J."
+      },
+      {
+        "family": "Del Cali",
+        "given": "I.H."
+      },
+      {
+        "family": "Haack",
+        "given": "P.G."
+      }
+    ],
+    "title": "Áreas de domínio do cerrado no Estado de São Paulo",
+    "note": "Secretaria de Estado do Meio Ambiente, Instituto Florestal.",
+    "type": null,
+    "issued": "1998",
+    "publisher-place": "São Paulo"
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      },
+      {
+        "family": "Kawasaki",
+        "given": "M.L."
+      }
+    ],
+    "title": "The genera of Myrtaceae in Brazil: an illustrated synoptic treatment and identification keys",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "4",
+    "issued": "1997",
+    "page": "508–536",
+    "URL": "https://doi.org/10.2307/2807742",
+    "DOI": "10.2307/2807742"
+  },
+  {
+    "author": [
+      {
+        "family": "Legrand",
+        "given": "C.D."
+      },
+      {
+        "family": "Klein",
+        "given": "R.M."
+      }
+    ],
+    "title": "Mirtáceas",
+    "editor": [
+      {
+        "family": "Reitz",
+        "given": "P.R."
+      }
+    ],
+    "container-title": "Flora Ilustrada Catarinense",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "553–876",
+    "publisher-place": "Herbário Barbosa Rodrigues, Itajaí"
+  },
+  {
+    "author": [
+      {
+        "family": "Lima",
+        "given": "R.A.F."
+      },
+      {
+        "family": "Dittrich",
+        "given": "V.A.O."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Salino",
+        "given": "A."
+      },
+      {
+        "family": "Breier",
+        "given": "T.B."
+      },
+      {
+        "family": "Aguiar",
+        "given": "O.T."
+      }
+    ],
+    "title": "Flora vascular do Parque Estadual Carlos Botelho, São Paulo, Brasil",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Biota Neotropica",
+    "issued": "2011",
+    "page": "173–214",
+    "URL": "https://doi.org/10.1590/S1676-06032011000400018",
+    "DOI": "10.1590/S1676-06032011000400018"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von"
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      },
+      {
+        "family": "Harris",
+        "given": "S.A."
+      },
+      {
+        "family": "Nic Lughadha",
+        "given": "E.M."
+      },
+      {
+        "family": "Benardini",
+        "given": "B."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetics, morphology, and evolution of the large genus Myrcia s.l",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Myrtaceae). International Journal of Plant Sciences",
+    "issue": "7",
+    "issued": "2011",
+    "page": "915–934",
+    "URL": "https://doi.org/10.1086/660913",
+    "DOI": "10.1086/660913"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "A preliminary phylogenetic analysis of Eugenia (Myrtaceae: Myrteae), with a focus on Neotropical species",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2014",
+    "page": "9497",
+    "URL": "https://doi.org/10.1007/s12225-014-9497-x",
+    "DOI": "10.1007/s12225-014-9497-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Bünger",
+        "given": "M.O."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Sections in Eugenia (Myrteae, Myrtaceae): nomenclatural notes and a key",
+    "volume": "289",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2016",
+    "page": "225–236",
+    "URL": "https://doi.org/10.11646/phytotaxa.289.3.2",
+    "DOI": "10.11646/phytotaxa.289.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Heine",
+        "given": "W.F.",
+        "particle": "Prud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature of Algae Fungi and Plants (Melbourne Code). Regnum Veg.",
+    "type": null,
+    "issued": "2012"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "The botany of Guyana highland–Part VIII–Myrtaceae",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Memoirs of The New York Botanical Garden",
+    "issued": "1969",
+    "page": "55–286"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S."
+      },
+      {
+        "family": "Boom",
+        "given": "B."
+      },
+      {
+        "family": "Carvalho",
+        "given": "A.M."
+      },
+      {
+        "family": "Santos",
+        "given": "T."
+      }
+    ],
+    "title": "Ecological Importance of Myrtaceae in an Eastern Brazilian Wet Forest",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Biotropica",
+    "issued": "1983",
+    "page": "68–70",
+    "URL": "https://doi.org/10.2307/2388002",
+    "DOI": "10.2307/2388002"
+  },
+  {
+    "author": [
+      {
+        "family": "Murray-Smith",
+        "given": "C."
+      },
+      {
+        "family": "Brummitt",
+        "given": "N.A."
+      },
+      {
+        "family": "Oliveira-Filho",
+        "given": "A.T."
+      },
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Lughadha",
+        "given": "E.M.N."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      }
+    ],
+    "title": "Plant diversity hotspots in the Atlantic coastal forests of Brazil",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Conservation Biology",
+    "issued": "2009",
+    "page": "151–163",
+    "URL": "https://doi.org/10.1111/j.1523-1739.2008.01075.x",
+    "DOI": "10.1111/j.1523-1739.2008.01075.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliveira-Filho",
+        "given": "A.T."
+      },
+      {
+        "family": "Fontes",
+        "given": "M.A.L."
+      }
+    ],
+    "title": "Patterns of floristic differentiation among Atlantic forests in southeastern Brazil, and the influence of climate",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Biotropica",
+    "issued": "2000",
+    "page": "793–810",
+    "URL": "https://doi.org/10.1111/j.1744-7429.2000.tb00619.x",
+    "DOI": "10.1111/j.1744-7429.2000.tb00619.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.I.U."
+      },
+      {
+        "family": "Landim",
+        "given": "M.F."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Prata",
+        "given": "A.P.N."
+      },
+      {
+        "family": "Amaral",
+        "given": "M.C.E."
+      },
+      {
+        "family": "Farias",
+        "given": "M.C.V."
+      },
+      {
+        "family": "Alves",
+        "given": "M.C."
+      }
+    ],
+    "container-title": "Flora de Sergipe",
+    "volume": "1",
+    "publisher": "Gráfica e Editora Triunfo Ltda",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "364–430",
+    "publisher-place": "Aracaju"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickison",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular Plant Systematics",
+    "publisher": "Harper & Row Publishers",
+    "type": "book",
+    "issued": "1974",
+    "page": "891",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Sabine",
+        "given": "J."
+      }
+    ],
+    "title": "Account of a new Psidium",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Transactions of the Horticultural Society of London",
+    "issued": "1821",
+    "page": "315–317, 11"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "A família Myrtaceae no Rio Grande do Sul",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Editora Unisinos, São Leopoldo",
+    "type": "book",
+    "issued": "2003",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Proença",
+        "given": "C."
+      },
+      {
+        "family": "Souza",
+        "given": "M."
+      },
+      {
+        "family": "Mazine",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Myrtaceae in Lista de Espécies da Flora do Brasil",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.floradobrasil.jbrj.gov.br/reflora/listaBrasil/PrincipalUC/PrincipalUC.do"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M.da C."
+      }
+    ],
+    "title": "Flora Fluminensis",
+    "publisher": "Typographia Nationali, Rio de Janeiro",
+    "type": "book",
+    "issued": "1829",
+    "page": "352"
+  },
+  {
+    "author": [
+      {
+        "family": "Wanderley",
+        "given": "M.G.L."
+      },
+      {
+        "family": "Shepherd",
+        "given": "G.J."
+      },
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      }
+    ],
+    "title": "Flora Fanerogâmica do Estado de São Paulo",
+    "volume": "1",
+    "publisher": "Instituto de Botânica",
+    "type": "book",
+    "issued": "2001",
+    "page": "292",
+    "publisher-place": "São Paulo"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "P.G."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "container-title": "The families and genera of vascular plants",
+    "volume": "10",
+    "publisher": "Eudicots",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "212–271",
+    "publisher-place": "Flowering plants"
+  }
+]

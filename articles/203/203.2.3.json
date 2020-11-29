@@ -1,0 +1,289 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Prodromus florae Novae Hollandiae et insulae Van-Diemen, exhibens characteres plantarum quas annis 1802-1805 per oras utriusque insulae collegit et descripsit",
+    "publisher": "Taylor & socii, Londini",
+    "type": "book",
+    "issued": "1810",
+    "page": "590"
+  },
+  {
+    "author": [
+      {
+        "family": "Colla",
+        "given": "A."
+      }
+    ],
+    "title": "Herbarium Pedemontanum",
+    "genre": "Regio typographeo,",
+    "publisher": "Turin",
+    "type": null,
+    "issued": "1836",
+    "page": "602"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN red list of threatened species, version 2010.4",
+    "genre": "IUCN Red List Unit,",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "publisher-place": "Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "A.J."
+      }
+    ],
+    "title": "Chenopodiaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "container-title": "Flora Xizangica",
+    "volume": "1",
+    "publisher": "Science Press",
+    "note": "in Chinese",
+    "type": "chapter",
+    "issued": "1983",
+    "page": "637–645",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "issue": "–2",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Mosyakin",
+        "given": "S.L."
+      },
+      {
+        "family": "Clemants",
+        "given": "S.E."
+      }
+    ],
+    "title": "New nomenclatural combinations in Dysphania R",
+    "container-title": "Br. (Chenopodiaceae): taxa occurring in North America. Ukrainskiy Botanicheskiy Zhurnal",
+    "volume": "59",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "380–385"
+  },
+  {
+    "author": [
+      {
+        "family": "Mosyakin",
+        "given": "S.L."
+      },
+      {
+        "family": "Clemants",
+        "given": "S.E."
+      }
+    ],
+    "title": "Further transfers of glandular-pubescent species from Chenopodium subgen. Ambrosia to Dysphania (Chenopodiaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Journal of the Botanical Research Institute of Texas",
+    "issued": "2008",
+    "page": "425–431"
+  },
+  {
+    "author": [
+      {
+        "family": "Sukhorukov",
+        "given": "A.P."
+      }
+    ],
+    "title": "Axyris (Chenopodiaceae s.str. or Amaranthaceae s.l.) in the Himalayas and Tibet",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2011",
+    "page": "75–82",
+    "URL": "http://dx.doi.org/10.3372/wi.41.41108",
+    "DOI": "10.3372/wi.41.41108"
+  },
+  {
+    "author": [
+      {
+        "family": "Sukhorukov",
+        "given": "A.P."
+      }
+    ],
+    "title": "Taxonomic notes on Dysphania and Atriplex (Chenopodiaceae",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2012",
+    "page": "169–180",
+    "URL": "http://dx.doi.org/10.3372/wi.42.42202",
+    "DOI": "10.3372/wi.42.42202"
+  },
+  {
+    "author": [
+      {
+        "family": "Sukhorukov",
+        "given": "A.P."
+      }
+    ],
+    "title": "The reproductive organ morphology of Dysphania R.Br. (Chenopodiaceae) in the context of geographic isolation",
+    "editor": [
+      {
+        "family": "Mavrodiev",
+        "given": "E.V."
+      }
+    ],
+    "container-title": "Analytical approaches in floristic studies and methods of biogeography: Proc. 1st Int. Conference",
+    "publisher": "Astrakhan State Univ",
+    "note": "in Russian with English summary",
+    "type": "paper-conference",
+    "issued": "2012",
+    "page": "64–67",
+    "publisher-place": "Astrakhan"
+  },
+  {
+    "author": [
+      {
+        "family": "Sukhorukov",
+        "given": "A.P."
+      }
+    ],
+    "title": "The carpology of the Chenopodiaceae with reference to the phylogeny, systematics and diagnostics of its representatives",
+    "publisher": "Grif & Co., Tula",
+    "note": "in Russian with English summary",
+    "type": null,
+    "issued": "2014",
+    "page": "400"
+  },
+  {
+    "author": [
+      {
+        "family": "Sukhorukov",
+        "given": "A.P."
+      },
+      {
+        "family": "Kushunina",
+        "given": "M.A."
+      }
+    ],
+    "title": "Taxonomic revision of Chenopodiaceae in Nepal",
+    "volume": "191",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "10–44",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.191.1.2",
+    "DOI": "10.11646/phytotaxa.191.1.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Sukhorukov",
+        "given": "A.P."
+      },
+      {
+        "family": "Zhang",
+        "given": "M."
+      }
+    ],
+    "title": "Fruit and seed anatomy of Chenopodium and related genera (Chenopodioideae, Chenopodiaceae/Amaranthaceae): Implications for evolution and phylogeny",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "PLoS One",
+    "issued": "2013",
+    "page": "1–18, 61906",
+    "URL": "http://dx.doi.org/10.1371/journal.pone.0061906",
+    "DOI": "10.1371/journal.pone.0061906"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: A global directory of public herbaria and associated staff",
+    "publisher": "New York Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2013",
+    "publisher-place": "Bronx, NY",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Uotila",
+        "given": "P."
+      }
+    ],
+    "title": "Dysphania sect. Botryodes (Amaranthaceae s.lat.) in Asia",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2013",
+    "page": "65–80",
+    "URL": "http://dx.doi.org/10.3372/wi.43.43107",
+    "DOI": "10.3372/wi.43.43107"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "G.-L."
+      },
+      {
+        "family": "Mosyakin",
+        "given": "S.L."
+      },
+      {
+        "family": "Clemants",
+        "given": "S.E."
+      }
+    ],
+    "title": "Chenopodiaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "5",
+    "publisher": "Ulmaceae–Basellaceae. St. Louis",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "351–414"
+  }
+]

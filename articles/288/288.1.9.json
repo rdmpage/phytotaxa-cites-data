@@ -1,0 +1,400 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "F."
+      }
+    ],
+    "title": "Histoire des Plantes de la Guiane Françoise",
+    "volume": "2",
+    "editor": [
+      {
+        "family": "Didot",
+        "given": "P.F."
+      }
+    ],
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1775",
+    "page": "976"
+  },
+  {
+    "author": [
+      {
+        "family": "Choisy",
+        "given": "J.D."
+      }
+    ],
+    "title": "Mémoire sur un nouveau genre de Guttifères",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Mémoires de la Société d’Histoire Naturelle de Paris",
+    "issue": "2",
+    "issued": "1824",
+    "page": "210–232"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Guttiferae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Frid. Fleischer, Lipsiae",
+    "issued": "1888",
+    "page": "381–486"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Die natürlichen Pflanzenfamilien",
+    "volume": "3",
+    "publisher": "Wilhelm Engelmann, Leipzig",
+    "issue": "6 & 6a",
+    "type": "book",
+    "issued": "1893",
+    "page": "225"
+  },
+  {
+    "author": [
+      {
+        "family": "Gehrig",
+        "given": "H.H."
+      },
+      {
+        "family": "Aranda",
+        "given": "J."
+      },
+      {
+        "family": "Cushman",
+        "given": "M.A."
+      },
+      {
+        "family": "Virgo",
+        "given": "A."
+      },
+      {
+        "family": "Cushman",
+        "given": "J.C."
+      },
+      {
+        "family": "Hammel",
+        "given": "B.E."
+      },
+      {
+        "family": "Winter",
+        "given": "K."
+      }
+    ],
+    "title": "Cladogram of Panamanian Clusia based on nuclear DNA: implications for the origins of crassulacean acid metabolism",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Plant Biology",
+    "issued": "2003",
+    "page": "59–70",
+    "URL": "https://doi.org/10.1055/s-2003-37983",
+    "DOI": "10.1055/s-2003-37983"
+  },
+  {
+    "author": [
+      {
+        "family": "Gustafsson",
+        "given": "M.H.G."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      }
+    ],
+    "title": "Evolution of morphological diversity and resin secretion in flowers of Clusia (Clusiaceae): insights from ITS sequence variation",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issue": "2",
+    "issued": "2003",
+    "page": "183–203",
+    "URL": "https://doi.org/10.1111/j.1756-1051.2002.tb01364.x",
+    "DOI": "10.1111/j.1756-1051.2002.tb01364.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Gustafsson",
+        "given": "M.H.G."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      },
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      }
+    ],
+    "title": "Phylogeny of Clusia based on rbcL sequences",
+    "volume": "163",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issue": "6",
+    "issued": "2002",
+    "page": "1045–1054",
+    "URL": "https://doi.org/10.1086/342521",
+    "DOI": "10.1086/342521"
+  },
+  {
+    "author": [
+      {
+        "family": "Gustafsson",
+        "given": "M.H.G."
+      },
+      {
+        "family": "Winter",
+        "given": "K."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      }
+    ],
+    "title": "Diversity, phylogeny and classification of Clusia",
+    "editor": [
+      {
+        "family": "Lüttge",
+        "given": "U."
+      }
+    ],
+    "volume": "194",
+    "publisher": "Springer-Verlag",
+    "type": "article-journal",
+    "container-title": "Ecological Studies",
+    "issued": "2007",
+    "page": "95–116",
+    "publisher-place": "Berlin Heidelberg",
+    "URL": "https://doi.org/10.1007/978-3-540-37243-1_7",
+    "DOI": "10.1007/978-3-540-37243-1_7"
+  },
+  {
+    "author": [
+      {
+        "family": "Hale",
+        "given": "M.L."
+      },
+      {
+        "family": "Borland",
+        "given": "A.M."
+      },
+      {
+        "family": "Gustafsson",
+        "given": "M.H.G."
+      },
+      {
+        "family": "Wolff",
+        "given": "K."
+      }
+    ],
+    "title": "Causes of size homoplasy among chloroplast microsatellites in closely related Clusia species",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Journal of Molecular Evolution",
+    "issued": "2004",
+    "page": "182–190",
+    "URL": "https://doi.org/10.1007/s00239-003-2540-4",
+    "DOI": "10.1007/s00239-003-2540-4"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1. Prepared by the IUCN Species Survival Commission",
+    "volume": "32",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "IUCN, Gland and Cambridge",
+    "issued": "2001",
+    "page": null,
+    "URL": "http://jr.iucnredlist.org/documents/redlist_cats_crit_en.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "publisher": "Imprensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Maguire",
+        "given": "B."
+      },
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      },
+      {
+        "family": "Leonard",
+        "given": "E.C."
+      },
+      {
+        "family": "Monachino",
+        "given": "J."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "The botany of the Guayana Highland - Part IV (2",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issue": "4",
+    "issued": "1961",
+    "page": "27–29"
+  },
+  {
+    "author": [
+      {
+        "family": "Pipoly",
+        "given": "J.J."
+      }
+    ],
+    "title": "A synopsis of the genus Clusia sections Criuvopsis and Brachystemon (Clusiaceae) in northern South America",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Sida",
+    "issue": "3",
+    "issued": "1995",
+    "page": "505–528"
+  },
+  {
+    "author": [
+      {
+        "family": "Pipoly",
+        "given": "J.J."
+      },
+      {
+        "family": "Kearns",
+        "given": "D.M."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      }
+    ],
+    "title": "Clusia L",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      }
+    ],
+    "container-title": "Flora of the Venezuelan Guayana",
+    "volume": "4",
+    "type": "chapter",
+    "issued": "1998",
+    "page": "260–294"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.E."
+      },
+      {
+        "family": "Triana",
+        "given": "J."
+      }
+    ],
+    "title": "Mémoire sur la famille des Guttifères. Annales des sciences naturelles",
+    "volume": "4, Bot. 13",
+    "type": "article-journal",
+    "container-title": "Botanique, ser",
+    "issued": "1860",
+    "page": "306–376"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.E."
+      },
+      {
+        "family": "Triana",
+        "given": "J."
+      }
+    ],
+    "title": "Mémoire sur la famille des Guttifères. Annales des sciences naturelles",
+    "volume": "4, Bot. 14",
+    "type": "article-journal",
+    "container-title": "Botanique, ser",
+    "issued": "1860",
+    "page": "226–367"
+  },
+  {
+    "author": [
+      {
+        "family": "Vaasen",
+        "given": "A."
+      },
+      {
+        "family": "Begerow",
+        "given": "D."
+      },
+      {
+        "family": "Lüttge",
+        "given": "L."
+      },
+      {
+        "family": "Hampp",
+        "given": "R."
+      }
+    ],
+    "title": "The genus Clusia L.: Molecular evidence for independent evolution of photosynthetic flexibility",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Plant Biology",
+    "issued": "2002",
+    "page": "86–93",
+    "URL": "https://doi.org/10.1055/s-2002-20440",
+    "DOI": "10.1055/s-2002-20440"
+  }
+]

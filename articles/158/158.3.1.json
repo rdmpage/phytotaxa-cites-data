@@ -1,0 +1,862 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C."
+      }
+    ],
+    "title": "Histoire des Plantes de la Guiane francoise 2",
+    "publisher": "Chez Pierre François",
+    "type": "book",
+    "issued": "1775",
+    "page": "622–976",
+    "publisher-place": "London",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.48831",
+    "DOI": "10.5962/bhl.title.48831"
+  },
+  {
+    "author": [
+      {
+        "family": "Bennett",
+        "given": "A.W."
+      }
+    ],
+    "title": "Polygalaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "publisher": "Frid. Fleischer",
+    "type": "book",
+    "issued": "1874",
+    "page": "1–82",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernardi",
+        "given": "L."
+      }
+    ],
+    "title": "Consideraciones taxonómicas y fitogeográficas acerca 101 Polygalae Americanas",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Cavanillesia Altera",
+    "issued": "2000",
+    "page": "1–455"
+  },
+  {
+    "author": [
+      {
+        "family": "Brade",
+        "given": "A.C."
+      }
+    ],
+    "title": "Espécies novas do gênero Polygala do Brasil",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Arquivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1954",
+    "page": "17–27"
+  },
+  {
+    "author": [
+      {
+        "family": "Chodat",
+        "given": "R.H."
+      }
+    ],
+    "title": "Contributions a la Flore du Paraguay",
+    "volume": "30 part 2",
+    "type": "article-journal",
+    "container-title": "Mémoires de la Société de Physique et d’Histoire Naturelle de Genève",
+    "issued": "1889",
+    "page": "100–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Chodat",
+        "given": "R.H."
+      }
+    ],
+    "title": "Monographia Polygalacearum",
+    "volume": "31 part 2",
+    "type": "article-journal",
+    "container-title": "Mémoires de la Société de Physique et d’Histoire Naturelle de Genève",
+    "issued": "1893",
+    "page": "1–500"
+  },
+  {
+    "author": [
+      {
+        "family": "Chodat",
+        "given": "R.H."
+      }
+    ],
+    "title": "Plantae Hasslerianæ soit Enumeration des Plantes Recoltees au Paraguay par le Dr. Émile Hassler, D’Aarau (Suisse) de 1885-1895 et de 1898-1900 et Déterminées par le Prof",
+    "volume": "2, 1",
+    "type": "article-journal",
+    "container-title": "Dr. R. Chodat avec L’aide de plusieurs collaborateurs. Bulletin de l’Herbier Boissier ser",
+    "issued": "1901",
+    "page": "395–442",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.45112",
+    "DOI": "10.5962/bhl.title.45112"
+  },
+  {
+    "author": [
+      {
+        "family": "Chodat",
+        "given": "R.H."
+      }
+    ],
+    "title": "Polygalaceae andinae",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik",
+    "issued": "1909",
+    "page": "97–104"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis 1",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1824",
+    "page": "745",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "G."
+      }
+    ],
+    "title": "Travels in the Interior of Brazil: Principally Through the Northern Provinces, and the Gold and Diamond Districts, During the Years 1836-1841",
+    "publisher": "Reeve brothers, London",
+    "type": "book",
+    "issued": "1846",
+    "page": "562"
+  },
+  {
+    "author": [
+      {
+        "family": "Hasskarl",
+        "given": "J.C."
+      }
+    ],
+    "title": "Polygalaceae, praesertim indicae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Annales Musei Botanici Lugduno-Batavi",
+    "issued": "1864",
+    "page": "142–196"
+  },
+  {
+    "author": [
+      {
+        "family": "Dwyer",
+        "given": "J.D."
+      }
+    ],
+    "title": "The Botanical Catalogues of Auguste De St",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Hilaire Annals of the Missouri Botanical Garden",
+    "issued": "1955",
+    "page": "153–170",
+    "URL": "http://dx.doi.org/10.2307/2394600",
+    "DOI": "10.2307/2394600"
+  },
+  {
+    "author": [
+      {
+        "family": "Herter",
+        "given": "W."
+      }
+    ],
+    "title": "Auf den Spuren der Naturforscher Sellow und Saint-Hilaire",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik",
+    "issued": "1945",
+    "page": "119–149"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L."
+      }
+    ],
+    "title": "Dixième Mémoire: Sur les caractères généraux des familles tirés des graines, et confirmés ou rectifiés par les observations de Gærtner. Renonculacées - Malpighiacées",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Annales du Museum National d'Histoire Naturelle",
+    "issued": "1811",
+    "page": "472–487"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.H.L."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      },
+      {
+        "family": "Jussieu",
+        "given": "A.de"
+      },
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "title": "Flora Brasiliae Meridionalis 3",
+    "publisher": "A. Belin Bibliopolam",
+    "type": "book",
+    "issued": "1832",
+    "page": "5–86",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Humboldt",
+        "given": "A."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A."
+      },
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "container-title": "Nova genera et species plantarum 5",
+    "publisher": "Librairie Graeco-Latino-Germanicae",
+    "type": "chapter",
+    "issued": "1823",
+    "page": "432",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Systema Naturae ed",
+    "volume": "10",
+    "type": null,
+    "issued": "1759",
+    "page": "2",
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Mantissa Plantarum",
+    "edition": "Generum editionis VI et specierum editionis II",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1767",
+    "page": "588",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.69083",
+    "DOI": "10.5962/bhl.title.69083"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud'homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "volume": "N. (eds. & comps",
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code), adopted by the Eighteenth International Botanical Congress",
+    "publisher": "Koeltz Scientific Books, Königstein",
+    "type": "chapter",
+    "issued": "2012",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Marques",
+        "given": "M.C.M."
+      }
+    ],
+    "title": "Revisão das espécies do gênero Polygala L. (Polygalaceae) do Estado do Rio de Janeiro",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "1979",
+    "page": "69–339"
+  },
+  {
+    "author": [
+      {
+        "family": "Marques",
+        "given": "M.C.M."
+      }
+    ],
+    "title": "Polígalas do Brasil V, seção Polygala (Polygalaceae",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Arquivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1989",
+    "page": "1–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.P.F.von"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Spix",
+        "given": "J.B."
+      },
+      {
+        "family": "Martius",
+        "given": "C.P.F.von"
+      }
+    ],
+    "container-title": "Reise Brasilien 1",
+    "publisher": "Erster Theil, Munich",
+    "type": "chapter",
+    "issued": "1823",
+    "page": "412",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.16406",
+    "DOI": "10.5962/bhl.title.16406"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      },
+      {
+        "family": "Cardoso",
+        "given": "D.B.O.S."
+      },
+      {
+        "family": "Aymard",
+        "given": "G.A."
+      }
+    ],
+    "title": "A Synopsis, New Combinations, and Synonyms in Acanthocladus (Polygalaceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2010",
+    "page": "317–324",
+    "URL": "http://dx.doi.org/10.3417/2009030",
+    "DOI": "10.3417/2009030"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Bredemeyera hebeclada a new combination in Polygalaceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2010",
+    "page": "314–316",
+    "URL": "http://dx.doi.org/10.3417/2008135",
+    "DOI": "10.3417/2008135"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Caamembeca: Generic status and new name for Polygala subgenus Ligustrina (Polygalaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2012",
+    "page": "435–442"
+  },
+  {
+    "type": null,
+    "URL": "http://dx.doi.org/10.3417/2009030",
+    "DOI": "10.3417/2009030"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Proposal to conserve the name Polygala longicaulis against P. brachistachyos (polygalaceae",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2062",
+    "page": "474–475"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      },
+      {
+        "family": "Abbott",
+        "given": "J.R."
+      }
+    ],
+    "title": "Taxonomic notes and new combinations for Asemeia (Polygalaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2012",
+    "page": "801–813",
+    "DOI": "10.1007/s12225-012-9397-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      },
+      {
+        "family": "Moraes",
+        "given": "P."
+      }
+    ],
+    "title": "Synopsis, new combinations, and synonyms in Gymnospora (Polygalaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2013",
+    "page": "304–306",
+    "URL": "http://dx.doi.org/10.3417/2010113",
+    "DOI": "10.3417/2010113"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "A review of Vellozo’s names for Polygalaceae in his Flora Fluminensis",
+    "volume": "108",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "41–48",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.108.1.2.",
+    "DOI": "10.11646/phytotaxa.108.1.2."
+  },
+  {
+    "author": [
+      {
+        "family": "Pignal",
+        "given": "M."
+      },
+      {
+        "family": "Romaniuc-Neto",
+        "given": "S."
+      },
+      {
+        "family": "Souza",
+        "given": "S.",
+        "particle": "de"
+      },
+      {
+        "family": "Chagnoux",
+        "given": "S."
+      },
+      {
+        "family": "Canhos",
+        "given": "D.A.L."
+      }
+    ],
+    "title": "Saint-Hilaire virtual herbarium, a new upgradeable tool to study Brazilian botany Adansonia 35:7–18",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://dx.doi.org/10.5252/a2013n1a1",
+    "DOI": "10.5252/a2013n1a1"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      },
+      {
+        "family": "Moquin-Tandon",
+        "given": "C.B.A."
+      }
+    ],
+    "title": "Conspectus Polygacearum Brasilie Meridionalis. Annales de la Société des Sciences",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Belles-Lettres et Arts d'Orléans",
+    "issued": "1828",
+    "page": "44–59"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      },
+      {
+        "family": "Moquin-Tandon",
+        "given": "C.B.A."
+      }
+    ],
+    "title": "Premier Mémoire sur la famille des Polygalées",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Mémoires du Museum d'Histoire Naturelle",
+    "issued": "1828",
+    "page": "313–375"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Polygalae",
+    "editor": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      },
+      {
+        "family": "Jussieu",
+        "given": "A.de"
+      },
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "container-title": "Flora Brasiliae Meridionalis 2",
+    "publisher": "A. Belin Bibliopolam",
+    "type": "chapter",
+    "issued": "1829",
+    "page": "5–75",
+    "publisher-place": "Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.45474",
+    "DOI": "10.5962/bhl.title.45474"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Viagem à Provincia de Santa Catharina (1820) Companhia Editora Nacional",
+    "publisher": "São Paulo",
+    "type": "book",
+    "issued": "1936",
+    "page": "252"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Segunda Viagem ao interior do Brasil. Espírito Santo",
+    "publisher": "Companhia Editora Nacional, São Paulo",
+    "type": "book",
+    "issued": "1936",
+    "page": "245"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Viagem às nascentes do Rio S. Francisco e pela Provincia de Goyaz. Tomo 1",
+    "publisher": "Companhia Editora Nacional, São Paulo",
+    "type": "book",
+    "issued": "1937",
+    "page": "341"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Viagem às nascentes do Rio S. Francisco e pela Provincia de Goyaz",
+    "genre": "Tomo 2.",
+    "publisher": "Companhia Editora Nacional, São Paulo",
+    "type": null,
+    "issued": "1937",
+    "page": "306"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Segunda Viagem do rio de Janeiro a Minas Gerais Companhia Editora Nacional",
+    "publisher": "Porto Alegre",
+    "type": "book",
+    "issued": "1938",
+    "page": "223"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Viagem ao Rio Grande do Sul (1820-1821",
+    "publisher": "Companhia Editora Nacional, São Paulo",
+    "type": "book",
+    "issued": "1939",
+    "page": "404"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Viagem pelo Distrito dos Diamantes e Litoral do Brasil",
+    "container-title": "Companhia Editora Nacional",
+    "type": "chapter",
+    "issued": "1941",
+    "page": "452",
+    "publisher-place": "Porto Alegre"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Viagem a comarca de Curitiba",
+    "publisher": "São Paulo",
+    "type": "book",
+    "issued": "1964",
+    "page": "189"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Viagem pelas provícias do Rio de Janeiro e Minas Gerais",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Tomo",
+    "issued": "1975",
+    "page": "378",
+    "publisher-place": "Belo Horizonte, Itatiaia"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      }
+    ],
+    "title": "Viagem pelas provícias do Rio de Janeiro e Minas Gerais Tomo 2",
+    "type": null,
+    "issued": "1975",
+    "page": "370",
+    "publisher-place": "Belo Horizonte, Itatiaia"
+  },
+  {
+    "author": [
+      {
+        "family": "Spix",
+        "given": "J.B."
+      },
+      {
+        "family": "Martius",
+        "given": "C.P.F.von"
+      }
+    ],
+    "title": "Viagem Pelo Brasil 1",
+    "publisher": "São Paulo, Editora Itatiaia",
+    "type": "book",
+    "issued": "1981",
+    "page": "346"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Prodromus Plantarum Capensium 2",
+    "volume": "Uppsala",
+    "type": "article-journal",
+    "container-title": "John. Edman",
+    "issued": "1800",
+    "page": "85–121",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.84",
+    "DOI": "10.5962/bhl.title.84"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Symbolae Botanicae 2",
+    "editor": [
+      {
+        "family": "filius",
+        "given": "N.Möller",
+        "particle": "et"
+      }
+    ],
+    "type": null,
+    "issued": "1791",
+    "page": "108"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Drei neue Pflanzen-Gattungen",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Neue Schriften der Gesellschaft Naturforschender Freunde zu Berlin",
+    "issued": "1801",
+    "page": "403–412"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Notes on Brazilian Polygalaceae",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1974",
+    "page": "10–14"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "author": [
+      {
+        "family": "Burman",
+        "given": "N.L."
+      }
+    ],
+    "title": "Flora Indica",
+    "editor": [
+      {
+        "family": "Haak",
+        "given": "C."
+      },
+      {
+        "given": "Leiden"
+      },
+      {
+        "family": "Schreuder",
+        "given": "J."
+      },
+      {
+        "given": "Amsterdam"
+      }
+    ],
+    "type": null,
+    "issued": "1768",
+    "page": "241"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Acanthaceae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "The Flora of British India",
+    "volume": "4",
+    "publisher": "L. Reeve & Co",
+    "type": "chapter",
+    "issued": "1884",
+    "page": "387–558",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "Flora of the Presidency of Madras, part VI (Scrophulariaceae to Plantaginaceae",
+    "publisher": "Adlard & Son",
+    "type": "book",
+    "issued": "1924",
+    "page": "963–1160",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Gnanasekaran",
+        "given": "G."
+      },
+      {
+        "family": "Murthy",
+        "given": "G.V.S."
+      }
+    ],
+    "title": "Lectotypifications in Andrographis (Acanthaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Rheedea",
+    "issued": "2012",
+    "page": "77–79"
+  },
+  {
+    "author": [
+      {
+        "family": "Gnanasekaran",
+        "given": "G."
+      },
+      {
+        "family": "Murthy",
+        "given": "G.V.S."
+      }
+    ],
+    "title": "Taxonomy, lectotypification and distribution of Andrographis stenophylla (Acanthaceae), a little known endemic species from southern India",
+    "volume": "156",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2014",
+    "page": "175–181",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.156.3.8",
+    "DOI": "10.11646/phytotaxa.156.3.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Gnanasekaran",
+        "given": "G."
+      },
+      {
+        "family": "Murthy",
+        "given": "G.V.S."
+      }
+    ],
+    "title": "Andrographis producta (Acanthaceae), an endemic species from the Western Ghats: Its taxonomy, lectotypification and distribution",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Telopea",
+    "issued": "2015",
+    "page": "209–216",
+    "URL": "http://dx.doi.org/10.7751/telopea8906",
+    "DOI": "10.7751/telopea8906"
+  },
+  {
+    "author": [
+      {
+        "family": "Gnanasekaran",
+        "given": "G."
+      },
+      {
+        "family": "Swamy",
+        "given": "A.N."
+      },
+      {
+        "family": "Murthy",
+        "given": "G.V.S."
+      }
+    ],
+    "title": "Andrographis glandulosa (Acanthaceae) from southern India: Its taxonomy, lectotypification and distribution",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Nelumbo",
+    "issued": "2014",
+    "page": "1–7"
+  },
+  {
+    "author": [
+      {
+        "family": "Karthikeyan",
+        "given": "S."
+      },
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      },
+      {
+        "family": "Moorthy",
+        "given": "S."
+      }
+    ],
+    "title": "Flowering Plants of India",
+    "volume": "Dicotyledons vol. 1",
+    "publisher": "Acanthaceae–Avicenniaceae). Botanical Survey of India, Kolkata",
+    "type": "book",
+    "issued": "2009",
+    "page": "365"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154. Koeltz Scientific Books, Koenigstein. Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.iapt-taxon.org/nomen"
+  },
+  {
+    "author": [
+      {
+        "family": "Esenbeck",
+        "given": "C.G.",
+        "particle": "Nees von"
+      }
+    ],
+    "title": "Acanthaceae Indiae Orientalis",
+    "editor": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "container-title": "Plantae Asiaticae Rariores",
+    "volume": "3",
+    "publisher": "Treuttel, Würtz & Ritter",
+    "type": "chapter",
+    "issued": "1832",
+    "page": "70–117",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Rheede",
+        "given": "H.A.van"
+      }
+    ],
+    "title": "Hortus Indicus Malabaricus",
+    "volume": "9",
+    "editor": [
+      {
+        "family": "Someren",
+        "given": "Sumptibus Johannis Van"
+      },
+      {
+        "family": "Joannis Van Dyck",
+        "particle": "et"
+      },
+      {
+        "given": "Amsterdam"
+      }
+    ],
+    "type": null,
+    "issued": "1689",
+    "page": "109–110"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature",
+    "edition": "2nd",
+    "volume": "1",
+    "publisher": "Bohn, Scheltema & Holkema",
+    "type": "book",
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Illustrations of Indian Botany",
+    "volume": "2",
+    "publisher": "J.B. Pharoah",
+    "type": "book",
+    "issued": "1850",
+    "page": "188–191",
+    "publisher-place": "Madras"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Icones Plantarum Indiae Orientalis",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Pharoach",
+    "issued": "1850",
+    "page": "18"
+  }
+]

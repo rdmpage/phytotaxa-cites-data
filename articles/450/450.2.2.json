@@ -1,0 +1,525 @@
+[
+  {
+    "author": [
+      {
+        "family": "Besser",
+        "given": "W.S."
+      }
+    ],
+    "title": "Lettre de Mr. le Dr. Besser au directeur",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Impériale des Naturalistes de Moscou",
+    "issued": "1829",
+    "page": "219–265"
+  },
+  {
+    "author": [
+      {
+        "family": "Besser",
+        "given": "W.S."
+      }
+    ],
+    "title": "Dracunculi, seu de sectione quarta et ultima Artemisiarum Linnaei",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Impériale des Naturalistes de Moscou",
+    "issued": "1835",
+    "page": "1–97"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "6",
+    "publisher": "Treuttel & Würtz",
+    "type": "book",
+    "issued": "1838",
+    "page": "687",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Handel-Mazzetti",
+        "given": "H."
+      },
+      {
+        "family": "Vernonia",
+        "particle": "ausgenommen"
+      },
+      {
+        "family": "Adenostemma",
+        "given": "Tussilago"
+      },
+      {
+        "family": "Cirsium",
+        "given": "Gerbera"
+      },
+      {
+        "given": "Myripnois"
+      }
+    ],
+    "title": "Plantae sinenses a Dre. H. Smith annis 1912–22 et 1924 lectae. XXXII",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Compositae",
+    "issued": "1938",
+    "page": "203–360"
+  },
+  {
+    "author": [
+      {
+        "family": "Hemsley",
+        "given": "W.B."
+      },
+      {
+        "family": "Pearson",
+        "given": "H.W."
+      }
+    ],
+    "title": "The flora of Tibet or high Asia; being a consolidated account of the various Tibetan botanical collections in the herbarium of the Royal Gardens, Kew, together with an exposition of what is known of the flora of Tibet",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "The Journal of the Linnean Society of London",
+    "issued": "1902",
+    "page": "124–265",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1902.tb01472.x",
+    "DOI": "10.1111/j.1095-8339.1902.tb01472.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "S.Y."
+      }
+    ],
+    "title": "The Compositae of China (II",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Quarterly Journal of the Taiwan Museum",
+    "issued": "1965",
+    "page": "233–334"
+  },
+  {
+    "author": [
+      {
+        "family": "Kitamura",
+        "given": "S."
+      },
+      {
+        "given": "Kawaguchi"
+      }
+    ],
+    "title": "Tibetan plants collected by E",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issued": "1953",
+    "page": "37–43"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y.R."
+      }
+    ],
+    "title": "Taxa nova generum Artemisiae et Seriphidii xizangensis",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1980",
+    "page": "504–513"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y.R."
+      }
+    ],
+    "title": "Artemisia L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "container-title": "Flora Xizangica",
+    "volume": "4",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1985",
+    "page": "742–793",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y.R."
+      }
+    ],
+    "title": "The Chinese Artemisia Linn. –– the classification, distribution and application of Artemisia Linn. in China",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Research (Harbin",
+    "issue": "4",
+    "issued": "1988",
+    "page": "1–61"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y.R."
+      }
+    ],
+    "title": "Hengduang-Himalayan MTS. (HH), a special area from the floristic point of view for Artemisia L",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Compositae). Bulletin of Botanical Research (Harbin",
+    "issue": "3",
+    "issued": "1990",
+    "page": "73–92"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y.R."
+      }
+    ],
+    "title": "Artemisia L",
+    "editor": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      },
+      {
+        "family": "Ling",
+        "given": "Y.R."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "76",
+    "publisher": "Science Press",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1991",
+    "page": "1–253",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y.R."
+      }
+    ],
+    "title": "Artemisia L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "container-title": "Flora Yunnanica",
+    "volume": "13",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "318–359",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y.R."
+      },
+      {
+        "family": "Humphries",
+        "given": "C.J."
+      },
+      {
+        "family": "Gilbert",
+        "given": "M.G."
+      }
+    ],
+    "title": "Artemisia L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "20–21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "676–737",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": "article-journal",
+    "container-title": "L. Salvius, Holmia",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "Artemisia L",
+    "editor": [
+      {
+        "family": "Ho",
+        "given": "T.N."
+      },
+      {
+        "family": "Liu",
+        "given": "S.W.Flora Qinghaica"
+      }
+    ],
+    "volume": "3",
+    "publisher": "Qinghai People’s Publishing House",
+    "type": "book",
+    "issued": "1996",
+    "page": "376–408",
+    "publisher-place": "Xining"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      }
+    ],
+    "title": "Holotype specimens and type citations: general issues",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2014",
+    "page": "1112–1113",
+    "URL": "https://doi.org/10.12705/635.7",
+    "DOI": "10.12705/635.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Pampanini",
+        "given": "R."
+      }
+    ],
+    "title": "Materiali per lo studio delle Artemisie asiatiche",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Nuovo Giornale Botanico Italiano (Nouva serie",
+    "issued": "1927",
+    "page": "632–708"
+  },
+  {
+    "author": [
+      {
+        "family": "Pampanini",
+        "given": "R."
+      }
+    ],
+    "title": "Materiali per lo studio delle Artemisie asiatiche (IV",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Nuovo Gionale Botanico Italiano (Nouva serie",
+    "issued": "1939",
+    "page": "551–599",
+    "URL": "https://doi.org/10.1080/11263503909440577",
+    "DOI": "10.1080/11263503909440577"
+  },
+  {
+    "author": [
+      {
+        "family": "Snedecor",
+        "given": "G.W."
+      },
+      {
+        "family": "Cochran",
+        "given": "W.G."
+      }
+    ],
+    "title": "Statistical Methods",
+    "edition": "8th",
+    "publisher": "The Iowa State University Press, Iowa City",
+    "type": "book",
+    "issued": "1989",
+    "page": "503"
+  },
+  {
+    "author": [
+      {
+        "family": "Poljakov",
+        "given": "P.P."
+      }
+    ],
+    "title": "Artemisia L",
+    "editor": [
+      {
+        "family": "Schischkin",
+        "given": "B.K."
+      },
+      {
+        "family": "Bobrov",
+        "given": "E.G."
+      }
+    ],
+    "container-title": "Flora SSSR",
+    "volume": "26",
+    "publisher": "Akademiya Nauk SSSR",
+    "note": "in Russian",
+    "type": "chapter",
+    "issued": "1961",
+    "page": "425–631",
+    "publisher-place": "Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "Trautvetter",
+        "given": "E.R."
+      }
+    ],
+    "title": "Enumeratio plantarum songoricarum a Dr. Alex. Schrenk annis 1840–1843 collectarum (Continuatio 2",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Impériale des Naturalistes de Moscou",
+    "issued": "1866",
+    "page": "307–392"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code). Regnum Vegetabile 159.",
+    "publisher": "Koeltz Botanical Books, Glashütten",
+    "type": null,
+    "issued": "2018",
+    "page": "254",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "title": "Index Florae Yunnanensis",
+    "volume": "2",
+    "publisher": "Yunnan People’s Publishing House",
+    "type": "book",
+    "issued": "1984",
+    "page": "1071–2259",
+    "publisher-place": "Kunming"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Y.H."
+      }
+    ],
+    "title": "The Vascular Plants and their Eco-Geographical Distribution of the Qinghai-Tibetan Plateau",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2008",
+    "page": null,
+    "publisher-place": "Beijing"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Manual de La Flora de los Alrededores de Buenos Aires",
+    "type": "article-journal",
+    "container-title": "Editorial Acme, Buenos Aires",
+    "issued": "1953",
+    "page": "531"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      },
+      {
+        "family": "Klein",
+        "given": "R.M."
+      }
+    ],
+    "title": "Compostas. Tribo: Mutisieae",
+    "editor": [
+      {
+        "family": "Reitz",
+        "given": "R."
+      }
+    ],
+    "container-title": "Flora Ilustrada Catarinense",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "1–124",
+    "publisher-place": "Herbário Barbosa Rodrigues, Itajaí"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      },
+      {
+        "family": "Willink",
+        "given": "A."
+      }
+    ],
+    "title": "Biogeografia de America Latina",
+    "container-title": "Colección de Monografías Científicas OEA Serie Biología, Monografía 13",
+    "publisher": "O.E.A",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "120",
+    "publisher-place": "Washington D.C"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H."
+      }
+    ],
+    "title": "Bulletin des Sciences par la Societe Philomatique Paris",
+    "volume": "13",
+    "type": null,
+    "issued": "1817",
+    "page": "1791–1805"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H."
+      }
+    ],
+    "title": "Trichocline",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      }
+    ],
+    "container-title": "Dictionnaire des Sciences Naturelles. Le Normant",
+    "volume": "55",
+    "type": "chapter",
+    "issued": "1826",
+    "page": "215–219",
+    "publisher-place": "Paris"
+  },
+  {
+    "editor": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      }
+    ],
+    "title": "Systematics, Evolution and Biogeographics of Compositae",
+    "publisher": "IAPT, Vienna",
+    "type": "book",
+    "issued": "2009",
+    "page": "965"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list categories and criteria, version 3.1",
+    "note": "IUCN Red List Unit, Cambridge U.K. Available from:",
+    "type": null,
+    "issued": "2001",
+    "URL": "http://www.iucn.org/about/work/programmes/species/red_list/about_the_red_list/"
+  },
+  {
+    "author": [
+      {
+        "family": "Katinas",
+        "given": "L."
+      },
+      {
+        "family": "Pruski",
+        "given": "J."
+      },
+      {
+        "family": "Sancho",
+        "given": "G."
+      },
+      {
+        "family": "Tellería",
+        "given": "M.C."
+      }
+    ],
+    "title": "The Subfamily Mutisioideae (Asteraceae",
+    "volume": "74",
+    "note": "DOI 10.1007/s12229-008-9016-6.",
+    "type": "article-journal",
+    "container-title": "Botanical Review",
+    "issued": "2008",
+    "page": "469–716"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "publisher-place": "Salvii, Holmiae"
+  },
+  {
+    "author": [
+      {
+        "family": "Lessing",
+        "given": "C.F."
+      }
+    ],
+    "title": "De synanthereis herbarii regii Berolinensis dissertatio tertia",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1830",
+    "page": "237–298"
+  },
+  {
+    "author": [
+      {
+        "family": "Monge",
+        "given": "M."
+      }
+    ],
+    "title": "Trichocline in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2010",
+    "URL": "http://floradobrasil.jbrj.gov.br/2010/FB005515"
+  },
+  {
+    "author": [
+      {
+        "family": "Zardini",
+        "given": "E.M."
+      }
+    ],
+    "title": "Revisión del género Trichocline (Compositae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Darwiniana",
+    "issued": "1975",
+    "page": "618–733"
+  }
+]

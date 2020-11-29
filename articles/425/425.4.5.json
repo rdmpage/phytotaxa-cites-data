@@ -1,0 +1,610 @@
+[
+  {
+    "author": [
+      {
+        "family": "Babcock",
+        "given": "E.B."
+      },
+      {
+        "family": "Stebbins",
+        "given": "G.L."
+      }
+    ],
+    "title": "The genus Youngia",
+    "publisher": "Carnegie Institution of Washington",
+    "note": "Carnegie Institution of Washington Publication 484",
+    "type": null,
+    "issued": "1937",
+    "page": "106",
+    "publisher-place": "Washington DC"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "7",
+    "publisher": "Treuttel & Würtz",
+    "type": "book",
+    "issued": "1838",
+    "page": "801",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H.de"
+      }
+    ],
+    "title": "Descriptions de quelques Synanthérées de l’île Maurice",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles",
+    "issued": "1831",
+    "page": "84–93"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.S."
+      }
+    ],
+    "title": "Youngia baoxingensis, a new species of Asteraceae (tribe Cichorieae) from Sichuan, China",
+    "volume": "382",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2018",
+    "page": "239–242",
+    "URL": "https://doi.org/10.11646/phytotaxa.382.2.10",
+    "DOI": "10.11646/phytotaxa.382.2.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Deng",
+        "given": "T."
+      },
+      {
+        "family": "Zhang",
+        "given": "J.W."
+      },
+      {
+        "family": "Zhu",
+        "given": "X.X."
+      },
+      {
+        "family": "Zhang",
+        "given": "D.G."
+      },
+      {
+        "family": "Nie",
+        "given": "Z.L."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      }
+    ],
+    "title": "Youngia zhengyiana (Asteraceae, Crepidinae), a new species from south China, with notes on the systematics of Youngia inferred from morphology and nrITS phylogeny",
+    "volume": "170",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2014",
+    "page": "259–268",
+    "URL": "https://doi.org/10.11646/phytotaxa.170.4.3",
+    "DOI": "10.11646/phytotaxa.170.4.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemistry Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Forbes",
+        "given": "F.B."
+      },
+      {
+        "family": "Hemsley",
+        "given": "W.B."
+      }
+    ],
+    "title": "An enumeration of all the plants known from China Proper, Formosa, Hainan, Corea, the Luchu Archipelago, and the island of Hongkong, together with their distribution and synonymy",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Journal of Linnean Society of London, Botany",
+    "issued": "1888",
+    "page": "1–521",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1886.tb00530.x",
+    "DOI": "10.1111/j.1095-8339.1886.tb00530.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "Z.X."
+      },
+      {
+        "family": "Jiao",
+        "given": "B.H."
+      },
+      {
+        "family": "Nie",
+        "given": "B."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.J."
+      },
+      {
+        "family": "Gao",
+        "given": "T.G."
+      },
+      {
+        "family": "Consortium",
+        "given": "China Phylogeny"
+      }
+    ],
+    "title": "A comprehensive generic-level phylogeny of the sunflower family: Implications for the systematics of Chinese Asteraceae",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2016",
+    "page": "416–437",
+    "URL": "https://doi.org/10.1111/jse.12216",
+    "DOI": "10.1111/jse.12216"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogenetic trees",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Janssens",
+        "given": "S."
+      },
+      {
+        "family": "Geuten",
+        "given": "K."
+      },
+      {
+        "family": "Yuan",
+        "given": "Y.M."
+      },
+      {
+        "family": "Song",
+        "given": "Y."
+      },
+      {
+        "family": "Küpfer",
+        "given": "P."
+      },
+      {
+        "family": "Smets",
+        "given": "E."
+      }
+    ],
+    "title": "Phylogenetics of Impatiens and Hydrocera (Balsaminaceae) using chloroplast atpB-rbcL pacer sequences",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2006",
+    "page": "171–180",
+    "URL": "https://doi.org/10.1600/036364406775971796",
+    "DOI": "10.1600/036364406775971796"
+  },
+  {
+    "author": [
+      {
+        "family": "Ke",
+        "given": "R."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.S."
+      }
+    ],
+    "title": "A new species of Youngia (Asteraceae, tribe Cichorieae) from Yunnan, China",
+    "volume": "275",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2016",
+    "page": "140–148",
+    "URL": "https://doi.org/10.11646/phytotaxa.275.2.5",
+    "DOI": "10.11646/phytotaxa.275.2.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Linder",
+        "given": "C.R."
+      },
+      {
+        "family": "Goertzen",
+        "given": "L.R."
+      },
+      {
+        "family": "Heuvel",
+        "given": "B.V."
+      },
+      {
+        "family": "Francisco-Ortega",
+        "given": "J."
+      },
+      {
+        "family": "Jansen",
+        "given": "R.K."
+      }
+    ],
+    "title": "The complete external tran-scribed spacer of 18S-26S rDNA: Amplification and phylogenetic utility at low taxonomic levels in Asteraceae and closely allied families",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2000",
+    "page": "285–303",
+    "URL": "https://doi.org/10.1006/mpev.1999.0706",
+    "DOI": "10.1006/mpev.1999.0706"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Mantissa plantarum",
+    "publisher": "L Salvius, Holmia",
+    "type": "book",
+    "issued": "1767",
+    "page": "142"
+  },
+  {
+    "author": [
+      {
+        "family": "Mandel",
+        "given": "J.R."
+      },
+      {
+        "family": "Dikow",
+        "given": "R.B."
+      },
+      {
+        "family": "Siniscalchi",
+        "given": "C.M."
+      },
+      {
+        "family": "Thapa",
+        "given": "R."
+      },
+      {
+        "family": "Watson",
+        "given": "L.E."
+      },
+      {
+        "family": "Funk",
+        "given": "V.A."
+      }
+    ],
+    "title": "A fully resolved backbone phylogeny reveals numerous dispersals and explosive diversifications throughout the history of Asteraceae",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "116",
+    "type": "paper-conference",
+    "issued": "2019",
+    "page": "14083–14088",
+    "URL": "https://doi.org/10.1073/pnas.1903871116",
+    "DOI": "10.1073/pnas.1903871116"
+  },
+  {
+    "author": [
+      {
+        "family": "Peng",
+        "given": "Y.L."
+      },
+      {
+        "family": "Gao",
+        "given": "X.F."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.B."
+      }
+    ],
+    "title": "Youngia jiulongensis (Crepidinae, Cichorieae, Asteraceae), a New Species from Sichuan, China",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2017",
+    "page": "298–301",
+    "URL": "https://doi.org/10.3417/2015028",
+    "DOI": "10.3417/2015028"
+  },
+  {
+    "author": [
+      {
+        "family": "Peng",
+        "given": "Y.L."
+      },
+      {
+        "family": "Ju",
+        "given": "W.B."
+      },
+      {
+        "family": "Gao",
+        "given": "X.F."
+      },
+      {
+        "family": "Gao",
+        "given": "Y.D."
+      }
+    ],
+    "title": "Youngia purpimea (Asteraceae), a new species from Sichuan, China",
+    "volume": "236",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2015",
+    "page": "191–195",
+    "URL": "https://doi.org/10.11646/phytotaxa.236.2.8",
+    "DOI": "10.11646/phytotaxa.236.2.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "MODELTEST: testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818",
+    "URL": "https://doi.org/10.1093/bioinformatics/14.9.817",
+    "DOI": "10.1093/bioinformatics/14.9.817"
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "C."
+      },
+      {
+        "family": "Kilian",
+        "given": "N."
+      }
+    ],
+    "title": "Youngia",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols. 20–21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "252–263",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Shih",
+        "given": "C."
+      }
+    ],
+    "title": "Youngia",
+    "editor": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      },
+      {
+        "family": "Shih",
+        "given": "C."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "80",
+    "publisher": "Science Press",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1997",
+    "page": "125–159",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Sonboli",
+        "given": "A."
+      },
+      {
+        "family": "Stroka",
+        "given": "K."
+      },
+      {
+        "family": "Osaloo",
+        "given": "S.K."
+      },
+      {
+        "family": "Oberprieler",
+        "given": "C."
+      },
+      {
+        "given": "Compositae"
+      }
+    ],
+    "title": "Molecular phylogeny and taxonomy of Tanacetum L",
+    "volume": "298",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2012",
+    "page": "431–444",
+    "URL": "https://doi.org/10.1007/s00606-011-0556-6",
+    "DOI": "10.1007/s00606-011-0556-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic Analysis using Parsimony (* and Other Methods), version 4.0b10",
+    "type": null,
+    "issued": "2002",
+    "publisher-place": "Sinauer, Sunderland. Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "https://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Vaniot",
+        "given": "E."
+      }
+    ],
+    "title": "Plantae Bodinierianae: Composees",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Acadeìmie Internationale de Geìographie Botanique",
+    "issued": "1903",
+    "page": "317–320"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "G.J."
+      },
+      {
+        "family": "Hu",
+        "given": "H.H."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.F."
+      },
+      {
+        "family": "Tian",
+        "given": "X.J."
+      },
+      {
+        "family": "Peng",
+        "given": "H."
+      },
+      {
+        "family": "Gao",
+        "given": "T.G."
+      }
+    ],
+    "title": "Inaccessible biodiversity on limestone cliffs: Aster tianmenshanensis (Asteraceae), a new critically endangered species from China",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "PlosOne",
+    "issue": "8",
+    "issued": "2015",
+    "page": "0134895",
+    "URL": "https://doi.org/10.1371/journal.pone.0134895",
+    "DOI": "10.1371/journal.pone.0134895"
+  }
+]

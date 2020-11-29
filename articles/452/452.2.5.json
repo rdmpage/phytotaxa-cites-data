@@ -1,0 +1,654 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barroso",
+        "given": "G.M."
+      },
+      {
+        "family": "Marques",
+        "given": "M.C.M."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Marques",
+        "given": "M.C.M."
+      },
+      {
+        "family": "Vaz",
+        "given": "A.S.F."
+      },
+      {
+        "family": "Marquete",
+        "given": "R."
+      }
+    ],
+    "container-title": "Flórula da APA Cairuçu",
+    "publisher": "espécies vasculares",
+    "note": "Jardim Botânico do Rio de Janeiro, Rio de Janeiro,",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "314–382",
+    "publisher-place": "Parati, RJ"
+  },
+  {
+    "author": [
+      {
+        "family": "Beentje",
+        "given": "H."
+      }
+    ],
+    "title": "The Kew Plant Glossary, an illustrated dictionary of plant terms",
+    "publisher": "Kew Publishing, Royal Botanic Gardens",
+    "type": "book",
+    "issued": "2010",
+    "page": "160",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1855",
+    "page": "1–472"
+  },
+  {
+    "author": [
+      {
+        "family": "Briggs",
+        "given": "B.G."
+      },
+      {
+        "family": "Johnson",
+        "given": "L.A.S."
+      }
+    ],
+    "title": "Evolution in the Myrtaceae – Evidence from inflorescence structure",
+    "volume": "102",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Linnean Society of New South Wales",
+    "issued": "1979",
+    "page": "157–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Caliari",
+        "given": "C.P."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      }
+    ],
+    "title": "Two new species of Myrcia (Myrtaceae) from Brazilian Atlantic Forest",
+    "volume": "267",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "201–210",
+    "URL": "https://doi.org/10.11646/phytotaxa.267.3.3",
+    "DOI": "10.11646/phytotaxa.267.3.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "literal": "In: Saint-Hilaire, A., De Jussieu, A., Cambessèdes, J. (Eds.) Flora Brasiliae Meridonalis. Apud A. Berlin, Bibliopolam"
+      }
+    ],
+    "container-title": "Via Dicta Des Marthuris S.-J., Parisiis",
+    "type": "chapter",
+    "issued": "1833",
+    "page": "373"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "D.G."
+      }
+    ],
+    "title": "The importance of floristic inventory in the tropics",
+    "editor": [
+      {
+        "family": "Campbell",
+        "given": "D.G."
+      },
+      {
+        "family": "Hammond",
+        "given": "D."
+      }
+    ],
+    "publisher": "NewYork Botanical Garden",
+    "type": "book",
+    "issued": "1989",
+    "page": "5–30",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Myrtacées",
+    "editor": [
+      {
+        "family": "Saint-Vincent",
+        "given": "J.B.G.M.",
+        "particle": "Bory de"
+      }
+    ],
+    "container-title": "Dictionnaire classique d’histoire naturelle",
+    "volume": "11",
+    "type": "chapter",
+    "issued": "1827",
+    "page": "399–403"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus ystematis naturalis regni vegetabilis",
+    "volume": "3",
+    "type": null,
+    "issued": "1828",
+    "page": "1–494",
+    "URL": "https://doi.org/10.1111/j.1759-6831.2010.00087.x",
+    "DOI": "10.1111/j.1759-6831.2010.00087.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernandes",
+        "given": "T."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Santos",
+        "given": "M.F."
+      },
+      {
+        "family": "Braga",
+        "given": "J.M.A."
+      }
+    ],
+    "title": "Myrcia auriculata (Myrtaceae), a new species from the Brazilian Atlantic Forest",
+    "volume": "399",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2019",
+    "page": "77–82",
+    "URL": "https://doi.org/10.11646/phytotaxa.399.1.8",
+    "DOI": "10.11646/phytotaxa.399.1.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Brasil",
+        "given": "Flora",
+        "particle": "do"
+      }
+    ],
+    "title": "Myrtaceae. In: Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://www.floradobrasil.jbrj.gov.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Flora of the British West Indian Islands",
+    "publisher": "Reeve, London",
+    "type": "book",
+    "issued": "1860",
+    "page": "789"
+  },
+  {
+    "author": [
+      {
+        "family": "Hickey",
+        "given": "L.J."
+      }
+    ],
+    "title": "Classification of the architecture of Dicotyledonous leaves",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1973",
+    "page": "17–33",
+    "URL": "https://doi.org/10.1002/j.1537-2197.1973.tb10192.x",
+    "DOI": "10.1002/j.1537-2197.1973.tb10192.x"
+  },
+  {
+    "author": [
+      {
+        "given": "ICMBio"
+      }
+    ],
+    "title": "Plano de Manejo da Área de Proteção Ambiental de Cairuçu",
+    "note": "Rio de Janeiro. Available from:",
+    "type": "article-journal",
+    "container-title": "Paraty",
+    "issued": "2018",
+    "URL": "http://www.icmbio.gov.br/cairucu/images/stories/downloads/PM_APA_CAIRUCU_2-2019.pdf"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 13. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "given": "J.A.B.O.T."
+      }
+    ],
+    "title": "Banco de dados do herbário do Jardim Botânico do Rio de Janeiro",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://jabot.jbrj.gov.br/v2/consulta.php"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      },
+      {
+        "family": "Harris",
+        "given": "S.A."
+      },
+      {
+        "family": "Nic Lughadha",
+        "given": "E.M."
+      },
+      {
+        "family": "Benardini",
+        "given": "B."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetics, Morphology, and evolution of the large genus Myrcia s.l",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Myrtaceae). International Journal of Plant Sciences",
+    "issued": "2011",
+    "page": "915–934",
+    "URL": "https://doi.org/10.1086/660913",
+    "DOI": "10.1086/660913"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Wilson",
+        "given": "C.E."
+      },
+      {
+        "family": "Lima",
+        "given": "D.F."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      }
+    ],
+    "title": "A Conspectus of Myrcia sect",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "Aulomyrcia (Myrtaceae). Missouri Botanical Garden",
+    "issued": "2016",
+    "page": "648–698",
+    "URL": "https://doi.org/10.3417/2014015",
+    "DOI": "10.3417/2014015"
+  },
+  {
+    "director": [
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Lima",
+        "given": "D.F."
+      },
+      {
+        "family": "Lima-Lourenço",
+        "given": "A.R."
+      },
+      {
+        "family": "NicLughadha",
+        "given": "E.M."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      },
+      {
+        "family": "Rosa",
+        "given": "P.O."
+      },
+      {
+        "family": "Rosário",
+        "given": "A.S."
+      }
+    ],
+    "author": [
+      {
+        "family": "Staggemeier",
+        "given": "V.G."
+      },
+      {
+        "family": "Vasconcelos",
+        "given": "T.N.C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "A new infra-generic classification of the species-rich Neotropical genus Myrcia s.l",
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2018",
+    "page": "9",
+    "publisher-place": "Santos, L.L., Santos, M.F., Souza, M.C",
+    "URL": "https://doi.org/10.1007/s12225-017-9730-5",
+    "DOI": "10.1007/s12225-017-9730-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Marques",
+        "given": "M.C.M."
+      },
+      {
+        "family": "Vaz",
+        "given": "A.S.F."
+      },
+      {
+        "family": "Marquete",
+        "given": "R."
+      }
+    ],
+    "title": "Flórula da APA Cairuçu",
+    "publisher": "espécies vasculares. Jardim Botânico do Rio de Janeiro, Rio de Janeiro",
+    "type": "book",
+    "issued": "1997",
+    "page": "576",
+    "publisher-place": "Parati, RJ"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "title": "Beiblätter zur Flora oder allgemeinen botanischen Zeitung",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Flora oder Botanische Zeitung",
+    "issued": "1841",
+    "page": "1–112"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Tropical American Myrtaceae: notes on generic concepts and descriptions of previously unrecognized species",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Fieldiana, Bot",
+    "issued": "1956",
+    "page": "145–228",
+    "URL": "https://doi.org/10.5962/bhl.title.2444",
+    "DOI": "10.5962/bhl.title.2444"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.G."
+      }
+    ],
+    "title": "Bestimmungen einiger von Hrn. P. Claussen in Brasilien gesammelten Pflanzen",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1847",
+    "page": "431–446"
+  },
+  {
+    "author": [
+      {
+        "given": "Q.G.I.S."
+      }
+    ],
+    "title": "QGIS Development Team. QGIS Geographic Information System",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Open Source Geospatial Foundation Project",
+    "issued": "2019",
+    "URL": "http://qgis.osgeo.org."
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickson",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular plant systematics",
+    "publisher": "Harper & Row Publisher",
+    "type": "book",
+    "issued": "1974",
+    "page": "891"
+  },
+  {
+    "author": [
+      {
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Phylogeny, morphology and circumscription of Myrcia sect",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Sympodiomyrcia (Myrcia s.l., Myrtaceae). Taxon",
+    "issued": "2016",
+    "page": "759–774",
+    "publisher-place": "Santos, M.F., Sano, P.T., Forest",
+    "URL": "https://doi.org/10.12705/654.5",
+    "DOI": "10.12705/654.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Antunes",
+        "given": "K."
+      }
+    ],
+    "title": "Myrcia auxotelica, a new southeastern Brazilian Myrtaceae",
+    "volume": "379",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "297–300",
+    "URL": "https://doi.org/10.11646/phytotaxa.379.4.4",
+    "DOI": "10.11646/phytotaxa.379.4.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Caliari",
+        "given": "C.P."
+      },
+      {
+        "family": "Gressler",
+        "given": "E."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Magenta",
+        "given": "M."
+      },
+      {
+        "family": "Viana",
+        "given": "P.L."
+      }
+    ],
+    "title": "Seven new southeastern Brazilian species of Myrcia (Myrtaceae",
+    "volume": "247",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "27–44",
+    "URL": "https://doi.org/10.11646/phytotaxa.247.1.2",
+    "DOI": "10.11646/phytotaxa.247.1.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Staggemeier",
+        "given": "V.G."
+      },
+      {
+        "family": "Diniz-Filho",
+        "given": "J.A."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      }
+    ],
+    "title": "Phylogenetic analysis in Myrcia section Aulomyrcia and inferences on plant diversity in the Atlantic rainforest",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Annals of Botany Company",
+    "issued": "2015",
+    "page": "747–761",
+    "URL": "https://doi.org/10.1093/aob/mcv005",
+    "DOI": "10.1093/aob/mcv005"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s VirtualHerbarium",
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.S.P."
+      }
+    ],
+    "title": "World Checklist of Selected Plant Families. Facilitated by the Royal Botanic Gardens, Kew",
+    "note": "Available from",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://wcsp.science.kew.org/"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clausen",
+        "given": "R.T."
+      }
+    ],
+    "title": "A monograph of the Ophioglossaceae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Memoirs of Torrey Botanical Club",
+    "issue": "2",
+    "issued": "1938",
+    "page": "5–177"
+  },
+  {
+    "author": [
+      {
+        "family": "Fraser-Jenkins",
+        "given": "C.R."
+      },
+      {
+        "family": "Gandhi",
+        "given": "K.N."
+      },
+      {
+        "family": "Kholia",
+        "given": "B.S."
+      },
+      {
+        "family": "Benniamin",
+        "given": "A."
+      }
+    ],
+    "title": "An Annotated Checklist of Indian Pteridophytes Part-1 [Lycopodiaceae to Thelypteridaceae",
+    "publisher": "Bishen Singh Mahendra Pal Singh, Dehradun, India",
+    "type": "book",
+    "issued": "2017",
+    "page": "562"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      },
+      {
+        "family": "Greville",
+        "given": "R.K."
+      }
+    ],
+    "title": "Icones Filicum",
+    "volume": "I. R",
+    "publisher": "Taylor, London",
+    "type": "book",
+    "issued": "1828",
+    "page": "120 , 79"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": "article-journal",
+    "container-title": "Impensis Laurentii Salvii, Holmiae [Stockholm",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "D.L."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Proud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "J.F."
+      },
+      {
+        "given": "Wiersema"
+      }
+    ],
+    "title": "J.H",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code): Adopted by the Eighteenth International Botanical Congress",
+    "volume": "154",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "1–208",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "volume": "2. Vol. 7",
+    "publisher": "Bohn, Scheltema & Holkema, Utrecht",
+    "type": "book",
+    "issued": "1988",
+    "page": "653"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Genera et species filicum ordine systematico redactarum, adiectis synonymis et iconibus selectis, nec non speciebus recenter detectis, et demum plurimis dubiosis, ulterius investigandis",
+    "note": "Schrader, Göttingen 1800",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Journal für die Botanik. H. A",
+    "issued": "1801",
+    "page": "1–120"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "A Numerical List of Dried Specimens of Plants in the East India Company’s Museum, collected under the superintendence of Dr",
+    "container-title": "Wallich, of the Company’s Botanic Garden at Calcutta (The Wallich Catalogue",
+    "type": "chapter",
+    "issued": "1828",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "X.C."
+      },
+      {
+        "family": "Liu",
+        "given": "Q.R."
+      },
+      {
+        "family": "Sahashi",
+        "given": "N."
+      }
+    ],
+    "title": "Ophioglossaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "2–3",
+    "publisher": "Pteridophytes), Science Press",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "73–80",
+    "publisher-place": "Beijing",
+    "URL": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10634"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "New genera and species of Cyperaceae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1908",
+    "page": "68–69"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Hemicarex and its allies",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1884",
+    "page": "378–381"
+  },
+  {
+    "author": [
+      {
+        "family": "Kükenthal",
+        "given": "G."
+      }
+    ],
+    "title": "Cobresia [sic] Willd",
+    "volume": null,
+    "publisher": "Engelmann-Cramer, Weinheim",
+    "type": "article-journal",
+    "container-title": "Engler, H.G.A.(Ed.) Das Pflanzenreich",
+    "issue": "38",
+    "issued": "1909",
+    "page": "40–48"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International Code of Nomenclature for algae,fungi and plants",
+    "publisher": "Koeltz Scientific",
+    "type": "book",
+    "issued": "2012",
+    "page": "1–240",
+    "publisher-place": "Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "volume": "ed.2. vol. I",
+    "publisher": "A–G), Bohn, Scheltema & Holkema,Utrecht",
+    "type": "article-journal",
+    "container-title": "Taxonomic Literature",
+    "issued": "1976",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "editor": [
+      {
+        "literal": "ed."
+      },
+      {
+        "literal": "Bohn, Scheltema & Holkema,Utrecht, dr. W. Junk b.v."
+      }
+    ],
+    "volume": "II",
+    "publisher": "Publishers, The Hague",
+    "issue": "–Le)",
+    "type": "book",
+    "issued": "1979",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature, A Selective Guide to Botanical Publications and Collections with Dates, Commentaries and Types",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2, vol. III",
+    "publisher": "Bohn, Scheltema & Holkema, Utrecht",
+    "type": "book",
+    "issued": "1981",
+    "page": "980"
+  }
+]

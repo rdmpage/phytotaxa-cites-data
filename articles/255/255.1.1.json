@@ -1,0 +1,245 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aiton",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus Kewensis",
+    "volume": "3",
+    "type": null,
+    "issued": "1789",
+    "page": "496",
+    "publisher-place": "George Nicol, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Pugillus Plantarum Indiae Orientalis",
+    "container-title": "Nova Acta Physico-Medica Academiae Caesareae Leopoldino-Carolinae Naturae Curiosorum",
+    "volume": "18",
+    "type": "chapter",
+    "issued": "1836",
+    "page": "321–356"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Smithia",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "Flora of British India",
+    "volume": "2",
+    "publisher": "L. Reeve & Co",
+    "type": "chapter",
+    "issued": "1876",
+    "page": "148–151",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Leguminosae inter plantas Nilgherrenses Hohenackeri",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Linnaea; Ein Journal für die Botanik in ihrem ganzen Umfange",
+    "issued": "1851",
+    "page": "642–645"
+  },
+  {
+    "author": [
+      {
+        "family": "Dalzell",
+        "given": "N.A."
+      }
+    ],
+    "title": "Contributions to the Botany of Western India",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Hooker’s Journal of Botany and Kew Garden Miscellany",
+    "issued": "1851",
+    "page": "134–139 206–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Hance",
+        "given": "H.F."
+      }
+    ],
+    "title": "Sertulum Chinense quartum: A fourth decade of new Chinese plants",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Journal of Botany, British and Foreign",
+    "issued": "1869",
+    "page": "163–168"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "Smithia purpurea, Purple-flowered Smithia",
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "Curtis’s Botanical Magazine",
+    "issued": "1847",
+    "page": "4283"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Proud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "Adopted by the eighteenth International Botanical Congress",
+    "volume": "154",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "1–274",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Royle",
+        "given": "J.F."
+      }
+    ],
+    "title": "Illustrations of the Botany and other branches of Natural History of the Himalayan Mountains and of the flora of Cashmere",
+    "type": "article-journal",
+    "container-title": "Wm. H. Alland and Co., London",
+    "issued": "1835",
+    "page": "201 35"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "Legumes of India",
+    "editor": [
+      {
+        "family": "Singh",
+        "given": "Bishen Singh Mahendra Pal"
+      },
+      {
+        "family": "Dun",
+        "given": "Dehra"
+      }
+    ],
+    "type": null,
+    "issued": "1992",
+    "page": "246–248"
+  },
+  {
+    "author": [
+      {
+        "family": "List",
+        "given": "The Plant"
+      }
+    ],
+    "title": "The Plant List. Version 1.1",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://www.theplantlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Prodromus Florae Peninsulae Indiae Orientalis, vol.1",
+    "publisher": "Parbury, Allen & Co., London",
+    "type": "book",
+    "issued": "1834",
+    "page": "221"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Notes on Orchidaceae",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1881",
+    "page": "281–360",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1881.tb01258.x",
+    "DOI": "10.1111/j.1095-8339.1881.tb01258.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Generum Planta 2",
+    "publisher": "Klincksieck",
+    "type": "book",
+    "issued": "1891",
+    "page": null,
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Margońska",
+        "given": "H.B."
+      },
+      {
+        "family": "Kowalkowska",
+        "given": "A.K."
+      },
+      {
+        "family": "Górniak",
+        "given": "M."
+      },
+      {
+        "family": "Rutkowski",
+        "given": "P."
+      }
+    ],
+    "title": "Taxonomic redefinition of subtribe Malaxidinae (Orchidales,Orchidaceae",
+    "volume": "Koenigstein",
+    "type": "article-journal",
+    "container-title": "Koeltz",
+    "issued": "2012",
+    "page": "606"
+  },
+  {
+    "author": [
+      {
+        "family": "Margońska",
+        "given": "H.B."
+      },
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      }
+    ],
+    "title": "Two new combinations and a new subsection in Crepidium Bl. emend",
+    "volume": "111B",
+    "type": "article-journal",
+    "container-title": "Szlach",
+    "issued": "2010",
+    "page": "175–180"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Die Orchidaceen von Deutsch Neu Guinea",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis, Beihefte",
+    "issued": "1911",
+    "page": "1–1079"
+  },
+  {
+    "author": [
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      }
+    ],
+    "title": "Systema Orchidalium. Fragmenta Floristica et Geobotanica",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Supplementum",
+    "issued": "1995",
+    "page": "1–152"
+  },
+  {
+    "author": [
+      {
+        "family": "Zollinger",
+        "given": "H."
+      }
+    ],
+    "title": "Observationes phytographicae praecipue genera et species nova nonnulla",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Natuur– en Geneeskundig Archief voor Nederlandsch-Indië",
+    "issued": "1844",
+    "page": "372–405"
+  }
+]

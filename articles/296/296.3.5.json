@@ -1,0 +1,694 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "title": "e-Infrastructures for data publishing in biodiversity science",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O.K."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "container-title": "Flora brasiliensis",
+    "volume": "14",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1857",
+    "page": "1–656"
+  },
+  {
+    "author": [
+      {
+        "given": "B.F.G."
+      }
+    ],
+    "title": "Growing knowledge: an overview of Seed Plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodrigueìsia",
+    "issue": "4",
+    "issued": "2015",
+    "page": "1085–1113"
+  },
+  {
+    "author": [
+      {
+        "given": "B.F.G."
+      }
+    ],
+    "title": "Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://floradobrasil.jbrj.gov.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Bünger",
+        "given": "M.O."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Stehmann",
+        "given": "J.R."
+      }
+    ],
+    "title": "Eugenia membranifolia: a long-forgotten Brazilian Atlantic rainforest Myrtaceae",
+    "volume": "170",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2014",
+    "page": "297–300",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.170.4.9",
+    "DOI": "10.11646/phytotaxa.170.4.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Bünger",
+        "given": "M.O."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Stehmann",
+        "given": "J.R."
+      }
+    ],
+    "title": "Two new Atlantic Forest Myrtaceae from Brazil",
+    "volume": "147",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2013",
+    "page": "55–60",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.147.2.3",
+    "DOI": "10.11646/phytotaxa.147.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "D.G."
+      }
+    ],
+    "title": "The importance of floristic inventory in the tropics",
+    "editor": [
+      {
+        "family": "Campbell",
+        "given": "D.G."
+      },
+      {
+        "family": "Hammond",
+        "given": "D."
+      }
+    ],
+    "type": null,
+    "issued": "1989",
+    "page": "5–30",
+    "publisher-place": "New York, New York Botanical Garden"
+  },
+  {
+    "title": "CRIA (Centro de Referência em Informação Ambiental",
+    "note": "SpeciesLink. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.splink.org.br"
+  },
+  {
+    "author": [
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      }
+    ],
+    "title": "Eugenia pyrifera (Myrtaceae), a new species from the cerrado vegetation of Goiás, Brazil",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2012",
+    "page": "245–249"
+  },
+  {
+    "author": [
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      }
+    ],
+    "title": "Two new species of Eugenia (Myrtaceae) from the Cabo Frio Center of Plant Diversity, Rio de Janeiro, Brazil",
+    "volume": "208",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "201–208",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.208.3.2",
+    "DOI": "10.11646/phytotaxa.208.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Giaretta",
+        "given": "A."
+      },
+      {
+        "family": "Fraga",
+        "given": "C.N."
+      }
+    ],
+    "title": "Two new Eugenia species (Myrtaceae) from the Brazilian Atlantic forest",
+    "volume": "163",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2014",
+    "page": "113–120",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.163.2.5",
+    "DOI": "10.11646/phytotaxa.163.2.5"
+  },
+  {
+    "title": "IBGE (Instituto Brasileiro de Geografia e Estatística",
+    "note": "IBGEestados@ Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.ibge.gov.br/estadosat/"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 12. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Species Plantarum",
+    "issued": "1753",
+    "page": "1–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Lourenço",
+        "given": "A.R."
+      },
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Alves",
+        "given": "M.V."
+      }
+    ],
+    "title": "Eugenia pipensis, a new species of Eugenia sect. Umbellatae (Myrtaceae) from northeastern Brazil",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "30–34",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.104.1.4",
+    "DOI": "10.11646/phytotaxa.104.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "New species of Eugenia sect. Racemosae (Myrtaceae) from Atlantic Forest",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Eastern Brazil. Novon",
+    "issued": "2009",
+    "page": "80–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "New species of Eugenia sect. Racemosae (Myrtaceae) from the cerrados of the state of Mato Grosso",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Brazil. Revista Brasileira de Botânica",
+    "issue": "20",
+    "issued": "2010",
+    "page": "285–290"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      }
+    ],
+    "title": "A new species of Eugenia (Myrtaceae) from South America",
+    "volume": "151",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "53–57",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.151.1.5",
+    "DOI": "10.11646/phytotaxa.151.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "A new species of Eugenia (Myrtaceae) from north-eastern Brazil",
+    "volume": "158",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2008",
+    "page": "775–777"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "New species of Eugenia sect. Racemosae (Myrtaceae) from Brazilian Amazon Rainforest",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2009",
+    "page": "147–153"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "A preliminary phylogenetic analysis of Eugenia (Myrtaceae, Myrteae), with a focus on Neotropical species",
+    "volume": "69: (9497",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2014",
+    "page": "1–14"
+  },
+  {
+    "author": [
+      {
+        "family": "Soares-Silva",
+        "given": "L.H."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Eugenia myrciariifolia (Myrtaceae), a new species from Paranaì",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Brazil. Novon",
+    "issue": "2",
+    "issued": "2004",
+    "page": "236–238"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      }
+    ],
+    "title": "Eugenia goiapabana (Myrtaceae), a new species from Espírito Santo",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Brazil. Novon",
+    "issued": "2010",
+    "page": "348–350"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Eugenia inversa (Myrtaceae), a new species from Espírito Santo, Brazil",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Sida",
+    "issue": "3",
+    "issued": "2005",
+    "page": "1465–1469"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Três novas Myrtaceae de Santa Teresa, Espiìrito Santo, Brasil",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Boletim do Museu de Biologia Mello Leitão",
+    "issued": "2006",
+    "page": "73–82"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Uma nova espeìcie e duas novas combinaçoÞes em Myrtaceae do Brasil",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Lundiana",
+    "issue": "2",
+    "issued": "2008",
+    "page": "107–110"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Ten new Myrtaceae from Eastern and Northeastern Brazil",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal of the Botanical Research Institute of Texas",
+    "issue": "1",
+    "issued": "2010",
+    "page": "133–158"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Three new montane forest Myrtaceae from Espírito Santo",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Brazil. Novon",
+    "issued": "2010",
+    "page": "338–344"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Eight new Atlantic Rainforest species and nomenclatural notes in Brazilian Myrtaceae",
+    "volume": "135",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "43–61",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.135.1.6",
+    "DOI": "10.11646/phytotaxa.135.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Ibrahim",
+        "given": "M.U."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Rigueira",
+        "given": "D."
+      },
+      {
+        "family": "Stadnik",
+        "given": "A."
+      },
+      {
+        "family": "Villaroel",
+        "given": "D."
+      }
+    ],
+    "title": "Thirteen new Myrtaceae from Bahia, Brazil",
+    "volume": "224",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "201–231",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.224.3.1",
+    "DOI": "10.11646/phytotaxa.224.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Grippa",
+        "given": "C.R."
+      },
+      {
+        "family": "Souza",
+        "given": "M.C."
+      },
+      {
+        "family": "Aguiar",
+        "given": "O.T."
+      },
+      {
+        "family": "Bertoncello",
+        "given": "R."
+      },
+      {
+        "family": "Guimarães",
+        "given": "T.B."
+      }
+    ],
+    "title": "Fourteen new species and two taxonomic notes on Brazilian Myrtaceae",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "19–50",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.50.1.3",
+    "DOI": "10.11646/phytotaxa.50.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Leoni",
+        "given": "L."
+      },
+      {
+        "family": "Souza",
+        "given": "M.C."
+      },
+      {
+        "family": "Melo",
+        "given": "E.A.D."
+      }
+    ],
+    "title": "Five New Southeastern Brazilian Myrtaceae",
+    "volume": "253",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2016",
+    "page": "57–70",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.253.1.4",
+    "DOI": "10.11646/phytotaxa.253.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "constantly updated) Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Villarroel",
+        "given": "D."
+      },
+      {
+        "family": "Gomes-Bezerra",
+        "given": "K.M."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      }
+    ],
+    "title": "Una nueva especie de Eugenia (Myrtaceae) del Cerrado boliviano",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2014",
+    "page": "316–320"
+  }
+]

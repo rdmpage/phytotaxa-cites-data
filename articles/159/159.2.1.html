@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+	<title>  Phylogenetics, character evolution and a subgeneric revision of the genus  Pelargonium  (Geraniaceae)                                                                                                                                                                                                                                                                                                                                                                                                                                         /* Style Definitions */ table.MsoNormalTable	{mso-style-name:&quot;Table Normal&quot;;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-parent:&quot;&quot;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	text-align:justify;	line-height:150%;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;	mso-fareast-language:DE;}   | Roeschenbleck | Phytotaxa</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMHUldUABAEVVdWAAADUlE=",licenseKey:"4f72ad4ec1",applicationID:"416471445"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(23),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(24),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script>
+	<meta name="description" content="  Phylogenetics, character evolution and a subgeneric revision of the genus  Pelargonium  (Geraniaceae)                                                                                                                                                                                                                                                                                                                                                                                                                                         /* Style Definitions */ table.MsoNormalTable	{mso-style-name:&quot;Table Normal&quot;;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-parent:&quot;&quot;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	text-align:justify;	line-height:150%;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;	mso-fareast-language:DE;}  " />
+			<meta name="keywords" content="atpB-rbcL, flavonoids, floral traits, indels, trnL-F" />
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Contributor.Sponsor" xml:lang="en" content="Jörg Kudla, Westfälische Wilhelms-University"/>
+	<meta name="DC.Creator.PersonalName" content="Joachim Roeschenbleck"/>
+	<meta name="DC.Creator.PersonalName" content="Focke Albers"/>
+	<meta name="DC.Creator.PersonalName" content="Kai Müller"/>
+	<meta name="DC.Creator.PersonalName" content="Stefan Weinl"/>
+	<meta name="DC.Creator.PersonalName" content="Jörg Kudla"/>
+	<meta name="DC.Date.created" scheme="ISO8601" content="2014-02-11"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2013-09-06"/>
+	<meta name="DC.Date.issued" scheme="ISO8601" content="2014-02-11"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2014-02-11"/>
+	<meta name="DC.Description" xml:lang="en" content="  
+  
+   Normal 
+   0 
+   
+   
+   
+   
+   false 
+   false 
+   false 
+   
+   EN-US 
+   JA 
+   X-NONE 
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+   
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   Previous molecular phylogenetic studies of  Pelargonium  have remained inconclusive with respect to branching patterns of major infrageneric lineages, with the exception of a basalmost generic split that reflects chromosome length differences. Because of this and the lack of clearly distinguishing morphological characters, no subgeneric classification has been undertaken so far. Here, we present increased phylogenetic signal using chloroplast  atp B- rbc L spacer and  trn L-F sequences including additional taxa (110 taxa in total) and character sampling. All analyses confirmed the previously recognised first split into two clades characterised by chromosome size, and also converged on four major clades (two within each chromosome size group). The four major clades are further supported by synapomorphic length mutations from both intergenic spacers. The evolution of characters from flower morphology and phenolic constituents was examined for usefulness for clade delimitation. Although character state distributions did not generally reveal clear synapomorphies for the respective lineages, differences in state distributions of floral characters and leaf phenols support the circumscription of these major clades. In particular, nectar guides and petal-ratios indicate character state shifts among clades. The leaf flavonoids, myricetin and prodelphinidin, exhibit differing evolutionary trends in  Pelargonium  species with small chromosomes. In summary, all results favour the recognition of four, morphologically diagnosable, lineages as subgenera and support a revised subgeneric classification of  Pelargonium . In addition, a new section ( stat. nov. ) including two subsections ( comb. nov. ) is segregated from an otherwise paraphyletic section  Polyactium.    
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+   
+ 
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:&quot;Table Normal&quot;;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:&quot;&quot;;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:150%;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
+	mso-fareast-language:DE;}
+ 
+ "/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Identifier" content="phytotaxa.159.2.1"/>
+	<meta name="DC.Identifier.pageNumber" content="31–76"/>
+							<meta name="DC.Identifier.DOI" content="10.11646/phytotaxa.159.2.1"/>
+		<meta name="DC.Identifier.URI" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.159.2.1"/>
+	<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+	<meta name="DC.Rights" content="Copyright (c) 2016 Phytotaxa" />
+	<meta name="DC.Rights" content=""/>
+	<meta name="DC.Source" content="Phytotaxa"/>
+	<meta name="DC.Source.ISSN" content="1179-3163"/>
+	<meta name="DC.Source.Issue" content="2"/>	<meta name="DC.Source.URI" content="https://www.biotaxa.org/Phytotaxa"/>
+	<meta name="DC.Source.Volume" content="159"/>						<meta name="DC.Subject" xml:lang="en" content="atpB-rbcL, flavonoids, floral traits, indels, trnL-F"/>
+				<meta name="DC.Title" content="  Phylogenetics, character evolution and a subgeneric revision of the genus  Pelargonium  (Geraniaceae)                                                                                                                                                                                                                                                                                                                                                                                                                                         /* Style Definitions */ table.MsoNormalTable	{mso-style-name:&quot;Table Normal&quot;;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-parent:&quot;&quot;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	text-align:justify;	line-height:150%;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;	mso-fareast-language:DE;}  "/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Article"/>
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="Phytotaxa"/>
+	<meta name="citation_issn" content="1179-3163"/>
+        <meta name="citation_author" content="Joachim Roeschenbleck"/>
+        <meta name="citation_author_institution" content="Institute for Evolution and Biodiversity &amp; Botanical Garden at Westfälische Wilhelms University, Münster"/>
+        <meta name="citation_author" content="Focke Albers"/>
+        <meta name="citation_author_institution" content="Institute for Evolution and Biodiversity, Evolution and Biodiversity of Plants &amp; Botanical Garden, Westfälische Wilhelms-Universität"/>
+        <meta name="citation_author" content="Kai Müller"/>
+        <meta name="citation_author_institution" content="Institute for Evolution and Biodiversity, Evolution and Biodiversity of Plants &amp; Botanical Garden, Westfälische Wilhelms-Universität"/>
+        <meta name="citation_author" content="Stefan Weinl"/>
+        <meta name="citation_author_institution" content="Institute of Plant Biology and Biotechnology, Molecular Genetics and Cell Biology of Plants, Westfälische Wilhelms-Universität"/>
+        <meta name="citation_author" content="Jörg Kudla"/>
+        <meta name="citation_author_institution" content="Institute of Plant Biology and Biotechnology, Molecular Genetics and Cell Biology of Plants, Westfälische Wilhelms-Universität"/>
+<meta name="citation_title" content="  Phylogenetics, character evolution and a subgeneric revision of the genus  Pelargonium  (Geraniaceae)                                                                                                                                                                                                                                                                                                                                                                                                                                         /* Style Definitions */ table.MsoNormalTable	{mso-style-name:&quot;Table Normal&quot;;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-parent:&quot;&quot;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	text-align:justify;	line-height:150%;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;	mso-fareast-language:DE;}  "/>
+
+	<meta name="citation_date" content="2014/02/11"/>
+
+	<meta name="citation_volume" content="159"/>
+	<meta name="citation_issue" content="2"/>
+
+			<meta name="citation_firstpage" content="31"/>
+				<meta name="citation_lastpage" content="76"/>
+								<meta name="citation_doi" content="10.11646/phytotaxa.159.2.1"/>
+		<meta name="citation_abstract_html_url" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.159.2.1"/>
+	<meta name="citation_language" content="en"/>
+						<meta name="citation_keywords" xml:lang="en" content="atpB-rbcL, flavonoids, floral traits, indels, trnL-F"/>
+									<meta name="citation_pdf_url" content="https://www.biotaxa.org/Phytotaxa/article/download/phytotaxa.159.2.1/6778"/>
+								<meta name="citation_pdf_url" content="https://www.biotaxa.org/Phytotaxa/article/download/phytotaxa.159.2.1/6787"/>
+				
+
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/compiled.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/articleView.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/rtEmbedded.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://www.biotaxa.org/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://www.biotaxa.org/public/site/sitestyle.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+	</script>
+	
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	
+	<script type="text/javascript" src="https://www.biotaxa.org/js/relatedItems.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/inlinePdf.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/pdfobject.js"></script>
+
+</head>
+<body id="pkp-common-openJournalSystems">
+
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	<img src="https://www.biotaxa.org/public/journals/2/pageHeaderTitleImage_en_US.jpg" width="1101" height="98" alt="Page Header" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://www.biotaxa.org/Phytotaxa/help')">Journal Help</a>
+</div><div class="block" id="sidebarSubscription">
+	<span class="blockTitle">Subscription</span>
+							Login to verify subscription
+			</div><div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+												<form method="post" action="https://www.biotaxa.org/Phytotaxa/login/signIn">
+					<table>
+						<tr>
+							<td><label for="sidebar-username">Username</label></td>
+							<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+						</tr>
+						<tr>
+							<td><label for="sidebar-password">Password</label></td>
+							<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+						</tr>
+					</table>
+				</form>
+						</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://www.biotaxa.org/Phytotaxa/notification">View</a></li>
+			<li><a href="https://www.biotaxa.org/Phytotaxa/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://www.biotaxa.org/Phytotaxa/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">By Issue</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/authors">By Author</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/titles">By Title</a></li>
+		
+					<li><a href="https://www.biotaxa.org/index">Other Journals</a></li>
+						</ul>
+	</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Algae"><span style="font-size: 92%;">Algae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Andes"><span style="font-size: 78%;">Andes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Asteraceae"><span style="font-size: 79%;">Asteraceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Atlantic%20Forest"><span style="font-size: 78%;">Atlantic Forest</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Basidiomycota"><span style="font-size: 78%;">Basidiomycota</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Brazil"><span style="font-size: 85%;">Brazil</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Bryophytes"><span style="font-size: 81%;">Bryophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Cerrado"><span style="font-size: 77%;">Cerrado</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=China"><span style="font-size: 89%;">China</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Compositae"><span style="font-size: 82%;">Compositae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Eudicots"><span style="font-size: 175%;">Eudicots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fabaceae"><span style="font-size: 78%;">Fabaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fungi"><span style="font-size: 105%;">Fungi</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=General"><span style="font-size: 78%;">General</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=ITS"><span style="font-size: 80%;">ITS</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=IUCN"><span style="font-size: 78%;">IUCN</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=India"><span style="font-size: 82%;">India</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Iran"><span style="font-size: 77%;">Iran</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Magnoliids"><span style="font-size: 80%;">Magnoliids</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Mexico"><span style="font-size: 78%;">Mexico</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Monocots"><span style="font-size: 118%;">Monocots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Morphology"><span style="font-size: 77%;">Morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Neotropics"><span style="font-size: 81%;">Neotropics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Nomenclature"><span style="font-size: 79%;">Nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Orchidaceae"><span style="font-size: 79%;">Orchidaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Phylogeny"><span style="font-size: 79%;">Phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Pteridophytes"><span style="font-size: 83%;">Pteridophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=SEM"><span style="font-size: 78%;">SEM</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=South%20America"><span style="font-size: 80%;">South America</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Taxonomy"><span style="font-size: 92%;">Taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Turkey"><span style="font-size: 79%;">Turkey</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Vietnam"><span style="font-size: 78%;">Vietnam</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=biodiversity"><span style="font-size: 79%;">biodiversity</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=conservation"><span style="font-size: 79%;">conservation</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=diatoms"><span style="font-size: 78%;">diatoms</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=distribution"><span style="font-size: 78%;">distribution</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemic"><span style="font-size: 81%;">endemic</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemism"><span style="font-size: 83%;">endemism</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=flora"><span style="font-size: 78%;">flora</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotype"><span style="font-size: 81%;">lectotype</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotypification"><span style="font-size: 80%;">lectotypification</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=molecular%20phylogeny"><span style="font-size: 80%;">molecular phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=morphology"><span style="font-size: 92%;">morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20combination"><span style="font-size: 78%;">new combination</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20species"><span style="font-size: 101%;">new species</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20taxon"><span style="font-size: 78%;">new taxon</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=nomenclature"><span style="font-size: 91%;">nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=phylogeny"><span style="font-size: 91%;">phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=systematics"><span style="font-size: 79%;">systematics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=taxonomy"><span style="font-size: 162%;">taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=typification"><span style="font-size: 83%;">typification</span></a>
+	</div>
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/information/readers">For Readers</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/authors">For Authors</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/librarians">For Librarians</a></li>	</ul>
+</div>
+
+
+<div class="block" id="sidebarRTArticleTools">
+
+	<span class="blockTitle">Article Tools</span>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/printArticle.png" class="articleToolIcon" alt="" /> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/printerFriendly/phytotaxa.159.2.1/0');">Print this article</a>
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/metadata.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/metadata/phytotaxa.159.2.1/0');">Indexing metadata</a><br />
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/citeArticle.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/captureCite/phytotaxa.159.2.1/0');">How to cite item</a><br />
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/findingReferences.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/findingReferences/2900/0');">Finding References</a>
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email this article <span style="font-size: 0.8em">(Login required)</span>		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email the author <span style="font-size: 0.8em">(Login required)</span>		</div>
+		</div>
+
+
+<script type="text/javascript">
+	initRelatedItems();
+</script>
+
+
+<div class="block" id="sidebarRTRelatedItems">
+	<span class="blockTitle">Related Items</span>
+		<table width="100%">
+			<tr>
+				<td valign="top" style="width:26px;">
+					<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/lookupTerms.png" class="articleToolIcon" alt=""/>
+				</td>
+				<td valign="top">
+					<div id="relatedItems">
+						<ul class="plain">
+																					<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/445');">Author&#039;s work</a></li>
+																																									<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/447');">Related studies</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/448');">Book searches</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/449');">Pay-per-view</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/450');">Relevant portals</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/451');">Online forums</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/452');">Teaching files</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/453');">Government policy</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/454');">Media reports</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/455');">Web search</a></li>
+																			</ul>
+					</div>
+					<div id="toggleRelatedItems">
+						<a id="hideRelatedItems" style="display:none;" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_out.png" alt=""/> 
+							Hide
+						</a>
+						<a id="showRelatedItems" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_in.png" alt=""/>
+							Show all
+						</a>
+					</div>
+				</td>
+			</tr>
+		</table>
+</div>
+
+
+<div class="block" id="sidebarRTAuthorBios">
+	<span class="blockTitle">
+					About The Authors
+			</span>
+		<div class="authorBio">
+	<p>
+		<em>Joachim Roeschenbleck</em>
+								<br />Institute for Evolution and Biodiversity &amp; Botanical Garden at Westfälische Wilhelms University, Münster		<br />Germany	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>Focke Albers</em>
+								<br />Institute for Evolution and Biodiversity, Evolution and Biodiversity of Plants &amp; Botanical Garden, Westfälische Wilhelms-Universität			</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>Kai Müller</em>
+								<br />Institute for Evolution and Biodiversity, Evolution and Biodiversity of Plants &amp; Botanical Garden, Westfälische Wilhelms-Universität			</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>Stefan Weinl</em>
+								<br />Institute of Plant Biology and Biotechnology, Molecular Genetics and Cell Biology of Plants, Westfälische Wilhelms-Universität			</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>Jörg Kudla</em>
+								<br />Institute of Plant Biology and Biotechnology, Molecular Genetics and Cell Biology of Plants, Westfälische Wilhelms-Universität			</p>
+
+	<p></p>
+	</div>
+	
+	</div>
+			</div>
+			</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="https://www.biotaxa.org/Phytotaxa/index">Home</a></li>
+		<li id="about"><a href="https://www.biotaxa.org/Phytotaxa/about">About</a></li>
+
+					<li id="login"><a href="https://www.biotaxa.org/Phytotaxa/login">Login</a></li>
+							<li id="register"><a href="https://www.biotaxa.org/Phytotaxa/user/register">Register</a></li>
+												<li id="search"><a href="https://www.biotaxa.org/Phytotaxa/search">Search</a></li>
+		
+					<li id="current"><a href="https://www.biotaxa.org/Phytotaxa/issue/current">Current</a></li>
+			<li id="archives"><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">Archives</a></li>
+		
+					<li id="announcements"><a href="https://www.biotaxa.org/Phytotaxa/announcement">Announcements</a></li>
+				
+
+									<li class="navItem" id="navItem-0"><a href="http://www.mapress.com/phytotaxa/">Publisher</a></li>
+												<li class="navItem" id="navItem-1"><a href="http://www.biotaxa.org">Biotaxa</a></li>
+						</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://www.biotaxa.org/Phytotaxa/index" target="_parent">Home</a> &gt;
+	<a href="https://www.biotaxa.org/Phytotaxa/issue/view/phytotaxa.159.2" target="_parent">Vol 159, No 2</a> &gt;	<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.159.2.1/0" class="current" target="_parent">Roeschenbleck</a>
+</div>
+
+<div id="content">
+
+
+	<div id="topBar">
+							<div id="accessKey">
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_open_medium.gif" alt="Open Access" />
+				Open Access&nbsp;
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+									Subscription Access
+							</div>
+			</div>
+		
+	<div id="articleTitle"><h3><p><strong>Phylogenetics, character evolution and a subgeneric revision of the genus <em>Pelargonium</em> (Geraniaceae)</strong></p><br /></h3></div>
+	<div id="authorString"><em>Joachim Roeschenbleck, Focke Albers, Kai Müller, Stefan Weinl, Jörg Kudla</em></div>
+	<br />
+			<div id="articleAbstract">
+		<h4>Abstract</h4>
+		<br />
+		<div><p>Previous molecular phylogenetic studies of <em>Pelargonium</em> have remained inconclusive with respect to branching patterns of major infrageneric lineages, with the exception of a basalmost generic split that reflects chromosome length differences. Because of this and the lack of clearly distinguishing morphological characters, no subgeneric classification has been undertaken so far. Here, we present increased phylogenetic signal using chloroplast <em>atp</em>B-<em>rbc</em>L spacer and <em>trn</em>L-F sequences including additional taxa (110 taxa in total) and character sampling. All analyses confirmed the previously recognised first split into two clades characterised by chromosome size, and also converged on four major clades (two within each chromosome size group). The four major clades are further supported by synapomorphic length mutations from both intergenic spacers. The evolution of characters from flower morphology and phenolic constituents was examined for usefulness for clade delimitation. Although character state distributions did not generally reveal clear synapomorphies for the respective lineages, differences in state distributions of floral characters and leaf phenols support the circumscription of these major clades. In particular, nectar guides and petal-ratios indicate character state shifts among clades. The leaf flavonoids, myricetin and prodelphinidin, exhibit differing evolutionary trends in <em>Pelargonium</em> species with small chromosomes. In summary, all results favour the recognition of four, morphologically diagnosable, lineages as subgenera and support a revised subgeneric classification of <em>Pelargonium</em>. In addition, a new section (<em>stat. nov.</em>) including two subsections (<em>comb. nov.</em>) is segregated from an otherwise paraphyletic section <em>Polyactium.</em></p></div>
+		<br />
+		</div>
+	
+			<div id="articleSubject">
+		<h4>Keywords</h4>
+		<br />
+		<div>atpB-rbcL, flavonoids, floral traits, indels, trnL-F</div>
+		<br />
+		</div>
+	
+				
+			<div id="articleFullText">
+		<h4>Full Text:</h4>
+									<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.159.2.1/6778" class="file" target="_parent">PDF (4.67 MB)</a>
+											<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.159.2.1/6787" class="file" target="_parent">PDF/A (4.66 MB)</a>
+																			<img class="accessLogo" src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+											</div>
+	
+			<div id="articleCitations">
+		<h4>References</h4>
+		<br />
+		<div>
+							<p><p>Agnew, A.D. (1967) Contributions to the Flora of Iraq: IV. Notes on the Geraniaceae of Iraq, with a new species of <em>Pelargonium</em>. <em>Kew Bulletin</em> 21, 2: 225–227.</p><p>Aiton, W. (1789) <em>Hortus Kewensis</em>, Vol. 2. Nicol, London, pp. 460.</p><p>Albers, F. (1988) Strategies in chromosome evolution in <em>Pelargonium</em> (Geraniaceae).<em> Monographs in Systematic Botany from the Missouri Botanical Garden </em>25: 499–502.</p><p>Albers, F. (1996) The taxonomic status of<em> Sarcocaulon</em> (Geraniaceae).<em> South African Journal of Botany </em>62: 345–347.</p><p>Albers, F. (2002) Geraniaceae. <em>In</em>: Eggli, U. (ed.), <em>Illustrated handbook of succulent plants: Dicotyledons</em>. Springer, Berlin, Heidelberg, New York, pp. 241–272.</p><p>Albers, F. &amp; Becker, M. (2010) Phylogeny and Speciation in Succulent Geraniaceae (Geraniales). In: Metzing, D. &amp; Jürgens, N. (eds.), <em>Evolution of succulent plant families</em>: Schumannia 6/Biodiversity &amp; Ecology Vol. 3, pp. 59–67.</p><p>Albers, F., Gibby, M. &amp; Austmann, M. (1992) A reappraisal of<em> Pelargonium</em> sect.<em> Ligularia</em> (Geraniaceae).<em> Plant Systematics and Evolution </em>179: 257–276.</p><p> http://dx.doi.org/10.1007/BF00937601</p><p>Albers, F. &amp; Van der Walt, J.J.A. (1984) Untersuchungen zur Karyologie und Mikrosporogenese von<em> Pelargonium</em> sect.<em> Pelargonium</em> (Geraniaceae).<em> Plant Systematics and Evolution </em>147: 177–188.</p><p> http://dx.doi.org/10.1007/BF00989382</p><p>Albers, F. &amp; Van der Walt, J.J.A. (1992) Karyological and chemotaxonomical studies of the hybrid <em>Pelargonium incarnatum</em> × <em>P. patulum</em> (Geraniaceae) and its parents.<em> Plant Systematics and Evolution </em>183: 161–167.</p><p> http://dx.doi.org/10.1007/BF00937740</p><p>Albers, F., Van der Walt, J.J.A., Gibby, M., Marschewski, D.E., Price, R.A. &amp; Du Preez, G. (1995) A biosystematic study of <em>Pelargonium</em> section <em>Ligularia</em>: 2. Reappraisal of section <em>Chorisma</em>.<em> South African Journal of Botany </em>61: 339–346.</p><p>Albers, F., Van der Walt, J.J.A., Marais, E.M., Gibby, M., Marschewski, D.E., Van der Merwe, A.M., Bakker, F.T. &amp; Culham, A. (2000) A biosystematics study of <em>Pelargonium</em> section <em>Ligularia</em>: 4. The section <em>Ligularia</em> sensu stricto.<em> South African Journal of Botany </em>66: 31–43.</p><p>Albers, F. &amp; Van der Walt, J.J.A. (2007) Geraniaceae. <em>In</em>: Kubitzki, K. (ed.), <em>The families and genera of vascular plants. IX Eudicots</em>. Springer, Berlin, Heidelberg, New York, pp. 157–167</p><p>Alcantara, S. &amp; Lohmann, L.G. (2010) Evolution of floral morphology and pollination system in <em>Bignonieae</em> (Bignoniaceae).<em> American Journal of Botany </em>97: 782–796.</p><p> http://dx.doi.org/10.3732/ajb.0900182</p><p>Aldasoro, J.J., Navarro, C., Vargas, P., Sáez, L. &amp; Aedo, C. (2002) <em>California</em>, a new genus of Geraniaceae endemic to the southwest of North America.<em> Anales de Jardin Botánico de Madrid </em>59: 209–216.</p><p>APG III. (2009) An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III.<em> Botanical Journal of the Linnean Society </em>161: 105–121.</p><p> <a href="http://dx.doi.org/10.1046/j.1095-8339.2003.t01-1-00158.x">http://dx.doi.org/10.1046/j.1095-8339.2003.t01-1-00158.x</a></p><p>Bailey L.H. (1916) <em>The standard cyclopedia of horticulture</em>, Vol. V. Macmillan, New York, London, pp. 2423–3041.</p><p>Baker, J.G. (1897) Geraniaceae, in Diagnoses Africanae X. <em>Bulletin of Miscellaneous Information</em>, 121–132: 243–300.</p><p>Bakker, F.T., Breman, F. &amp; Merckx, V. (2006) DNA sequence evolution in fast evolving mitochondrial DNA <em>nad</em> exons in Geraniaceae and Plantaginaceae.<em> Taxon </em>55: 887–896.</p><p> http://www.jstor.org/stable/25065683</p><p>Bakker, F.T., Culham, A., Daugherty, L.C. &amp; Gibby, M. (1999a) A <em>trn</em>L-F based phylogeny for species of<em> Pelargonium</em> (Geraniaceae) with small chromosomes.<em> Plant Systematics and Evolution </em>216: 309–324.</p><p> <a href="http://dx.doi.org/10.1007/BF01084405">http://dx.doi.org/10.1007/BF01084405</a></p><p>Bakker, F.T., Culham, A. &amp; Gibby, M. (1999b) Phylogenetics and diversification in <em>Pelargonium</em>. <em>In</em>: Hollingsworth, P.M., Bateman, R.M. &amp; Gornall, R.J. (eds.), <em>Molecular systematics and plant evolution</em>. Taylor and Francis, London, pp. 353–374.</p><p>Bakker, F.T., Culham, A., &amp; Gibby, M. (1999c) A new approach to classification of <em>Pelargonium</em> (Geraniaceae). XVI International Botanical Congress. Poster.</p><p>Bakker, F.T., Culham, A., Pankhurst, C.E. &amp; Gibby, M. (2000) Mitochondrial and chloroplast DNA-based phylogeny of <em>Pelargonium</em> (Geraniaceae).<em> American Journal of Botany </em>87: 727–734.</p><p>Bakker, F.T., Culham, A., Hettiarachi, P., Touloumenidou, T. &amp; Gibby, M. (2004) Phylogeny of <em>Pelargonium</em> (Geraniaceae) based on DNA sequences from three genomes.<em> Taxon </em>53: 17–28.</p><p> http://www.jstor.org/stable/4135485</p><p>Bakker, F.T., Culham, A., Marais, E.M. &amp; Gibby, M. (2005) Nested radiation in Cape Pelargonium. <em>In</em>: Bakker, F.T. &amp; Chatrou, L.W. (eds.), <em>Plant species-level systematic: new perspectives on pattern &amp; process</em>. Koeltz scientific books, Koenigstein, pp. 75–100.</p><p>Bakker, F.T., Hellbrügge, D., Culham, A. &amp; Gibby, M. (1998) Phylogenetic relationships within<em> Pelargonium</em> sect.<em> Peristera</em> (Geraniaceae) inferred from nrDNA and cpDNA sequence comparisons.<em> Plant Systematics and Evolution </em>211: 273–287. http://dx.doi.org/10.1007/BF00985364</p><p>Barker, N. (1990) <em>Pelargonium schizopetalum</em>.<em> The Flowering Plants of Africa </em>51: Pl. 2019.</p><p>Bate-Smith, E.C. (1962) The phenolic constituents of plants and their taxonomic significance. I. Dicotyledons.<em> Botanical Journal of the Linnean Society </em>58: 95–173.</p><p> http://dx.doi.org/10.1111/j.1095-8339.1962.tb00890.x</p><p>Bate-Smith, E.C. (1972) Ellagitannin content of leaves of <em>Geranium</em> species.<em> Phytochemistry </em>11: 1755–1757.</p><p> http://dx.doi.org/10.1016/0031-9422(72)85032-5</p><p>Bate-Smith, E.C. (1973) Chemotaxonomy of <em>Geranium</em>.<em> Botanical Journal of the Linnean Society </em>67: 347–359.</p><p> <a href="http://dx.doi.org/10.1111/j.1095-8339.1973.tb02552.x">http://dx.doi.org/10.1111/j.1095-8339.1973.tb02552.x</a></p><p>Bate-Smith, E.C. (1981) Astringent tannins of the leaves of <em>Geranium</em> species.<em> Phytochemistry </em>20: 211–216.</p><p> http://dx.doi.org/10.1016/0031-9422(81)85095-9</p><p>Becker, M. (2006) <em>Revision der </em>Pelargonium<em>-Sektion </em>Otidia<em> (Geraniaceae) aus dem Winterregengebiet des südlichen Afrikas und Bewertung evolutiver Strategien der Pelargonien aus der Capensis. </em>Dissertation. Westfälische Wilhelms-Universität, Münster, 161 pp.</p><p>Becker, M. &amp; Albers, F. (2009) Taxonomy and phylogeny of two subgroups of <em>Pelargonium</em> section <em>Otidia</em> (Geraniaceae). 1. The <em>Pelargonium carnosum</em> complex.<em> Bothalia </em>39: 47–59.</p><p>Becker, M. &amp; Albers, F. (2010) Pollinator shift and speciation in <em>Pelargonium alternans</em> (Geraniaceae). In: Metzing, D. &amp; Jürgens, N. (eds.), <em>Evolution of succulent plant families</em>: Schumannia 6/Biodiversity &amp; Ecology Vol. 3, pp. 207–226.</p><p>Bohm, B.A., Yang, J.Y., Page, J.E. &amp; Soltis, D.S. (1999) Flavonoids, DNA and relationships of <em>Itea</em> and <em>Pterostemon</em>.<em> Biochemical Systematics and Ecology </em>27: 79–83.</p><p> http://dx.doi.org/10.1016/S0305-1978(98)00062-3</p><p>Briggs, B.G. &amp; Linder, H.P. (2009) A new subfamilial and tribal classification of Restionaceae (Poales).<em> Telopea </em>12: 333–345.</p><p>Brown, N.E. (1895) Geraniaceae, in Diagnoses Africanae VI. <em>Bulletin of Miscellaneous Information</em>, 97-108: 141-153.</p><p>Brown, N.E. (1909) <em>Pelargonium brevipetalum</em>, in Diagnoses Africanae XXVIII. <em>Bulletin of Miscellaneous Information</em>, 1–10: 184-188.</p><p>Burr, B. &amp; Barthlott, W. (1993) Untersuchungen zur Ultrareflexion von Angiospermenblüten II. Magnoliidae, Ranunculidae, Hamamelididae, Caryophyllidae, Rosidae.<em> Tropische und subtropische Pflanzenwelt </em>87: 1–193.</p><p>Burtt Davy, J. (1926) <em>A manual of the flowering plants and ferns of the Transvaal with Swaziland, South Africa</em>, Vol. 1. Longmans, Green &amp; Co, London, New York, pp. 269.</p><p>Choze, R., Delprete, P.G. &amp; Lião, L.M. (2010) Chemotaxonomic significance of flavonoids, coumarins and triterpenes of <em>Augusta longifolia</em> (Spreng.) Rehder, Rubiaceae-Ixoroideae, with new insights about its systematic position within the family.<em> Revista Brasileira de Farmacognosia </em>20: 295–299.</p><p> http://dx.doi.org/10.1590/S0102-695X2010000300002</p><p>Chumley, T.W., Palmer, J.D., Mower, J.P., Fourcade, H.M., Calie, P.J., Boore, J.L. &amp; Jansen, R.K. (2006) The Complete Chloroplast Genome Sequence of <em>Pelargonium</em> × <em>hortorum</em>: Organization and Evolution of the Largest and Most Highly Rearranged Chloroplast Genome of Land Plants.<em> Molecular Biology and Evolution </em>23: 2175–2190.</p><p> http://dx.doi.org/<em>10.1093/molbev/msl089</em></p><p>Clifford, D. (1958) <em>Pelargoniums including the popular 'Geranium'</em>. Blandford Press, London, 350 pp.</p><p>Coffin, J.L. &amp; Harney, P.M. (1978) Intersubgeneric crosses within the genus <em>Pelargonium</em>.<em> Euphytica </em>27: 567–576.</p><p> http://dx.doi.org/10.1007/BF00043183</p><p>Compton, R.H. (1931) The Flora of the Whitehill District. <em>Transactions of the Royal Society of South Africa</em> 19: 269–326.</p><p>Curtis, J. (1800) <em>Botanical Magazine</em>, 14: t. 469-504.</p><p>Cusimano, N., Bogner, J., Mayo, S.J., Boyce, P.C., Wong, S.Y., Hesse, M., Hetterscheid, W.L.A., Keating, R.C. &amp; French, J.C. (2011) Relationships within the Araceae: Comparison of morphological patterns with molecular phylogenies.<em> American Journal of Botany </em>98: 654–668.</p><p> http://dx.doi.org/10.3732/ajb.1000158</p><p>De Candolle, A.P. (1824) Geraniaceae. <em>Prodromus systematis naturalis regni vegetabilis, vol. 1</em>. Treutel &amp; Wuertz, Paris, pp. 637–682.</p><p>Dietrich, F.G. (1807) <em>Vollständiges Lexicon der Gärtnerei und Botanik</em>, Bd. 7. Gädicke, Berlin, pp. 741.</p><p>Dinter, K. (1914) <em>Neue und wenig bekannte Pflanzen Deutsch-Südwest-Afrikas unter besonderer Berücksichtigung der Sukkulenten</em>, Okahandja, pp. 62.</p><p>Dinter, K. (1920) Plantae novae Schäferianae.<em> Repertorium novarum specierum regni vegetabilis </em>16: 335–344.</p><p>Dreyer, L.L., Albers, F., Van der Walt, J.J.A. &amp; Marschewski, D.E. (1992a) Subdivision of<em> Pelargonium</em> sect.<em> Cortusina</em> (Geraniaceae).<em> Plant Systematics and Evolution </em>183: 83–97.</p><p> http://dx.doi.org/10.1007/BF00937737</p><p>Dreyer, L.L. &amp; Van der Walt, J.J.A. (1990) A new species of <em>Pelargonium </em>from the eastern Transvaal.<em> South African Journal of Botany </em>56: 65–67.</p><p>Dreyer, L.L., Vorster, P. &amp; Van der Walt, J.J.A. (1992b) <em>Pelargonium caylae</em>.<em> The Flowering Plants of Africa </em>52: Pl. 2039.</p><p>Dreyer, L.L. &amp; Marais, E.M. (2000) Section <em>Reniformia</em>, a new section in the genus <em>Pelargonium</em> (Geraniaceae).<em> South African Journal of Botany </em>66: 44–51.</p><p>Endress, P. &amp; Matthews, M. (2006) First steps towards a floral structural characterization of the major rosid subclades.<em> Plant Systematics and Evolution </em>260: 223–251.</p><p> http://dx.doi.org/10.1007/s00606-006-0444-7</p><p>Engler, A. (1895) Geraniaceae. <em>In</em>: Engler, A. (ed.): <em>Die Pflanzenwelt Ost-Afrikas und der Nachbargebiete, Theil C Verzeichnis der bis jetzt aus Ost-Afrika bekannt gewordenen Pflanzen</em>. Reimer, Berlin, pp. 224–225.</p><p>Fecka, I., Kowalczyk, A. &amp; Cisowski, W. (2001) Phenolic acids and depsides from some species of the <em>Erodium</em> genera.<em> Zeitschrift für Naturforschung. B, A journal of chemical sciences </em>56: 943–950.</p><p>Fenzl, E. (1842) <em>Pugillus plantarum novarum Syriae et Tauri occidentalis</em>, Vol. 1. Beck, Vienna, pp. 18.</p><p>Fico, G., Spada, A., Braca, A., Agradi, E., Morelli, I. &amp; Tomé, F. (2003) RAPD analysis and flavonoid composition of <em>Aconitum</em> as an aid for taxonomic discrimination.<em> Biochemical Systematics and Ecology </em>31: 293–301.</p><p> http://dx.doi.org/10.1016/S0305-1978(02)00153-9</p><p>Fiz, O., Vargas, P., Alarcón, M., Aedo, C., García, J.L. &amp; Aldasoro, J.J. (2008) Phylogeny and Historical Biogeography of Geraniaceae in Relation to Climate Changes and Pollination Ecology.<em> Systematic Botany </em>33: 326–342.</p><p> http://dx.doi.org/10.1600/036364408784571482</p><p>Friis, I. &amp; Gilbert, M.G. (1976) <em>Pelargonium boranense</em>.<em> The Flowering Plants of Africa </em>43: Pl. 1705.</p><p>Giannasi, D. &amp; Chuang, T. (1976) Flavonoid systematics of the genus <em>Perideridia</em> (Umbelliferae).<em> Brittonia </em>28: 177–194.</p><p> http://dx.doi.org/10.2307/2805829</p><p>Gibby, M. (1989) <em>Pelargonium ranunculophyllum</em> (Geraniaceae) in southern Africa.<em> South African Journal of Botany </em>55: 539–542.</p><p>Gibby, M. (1990) Cytological and morphological variation within <em>Pelargonium alchemilloides</em> s.l. (Geraniaceae).<em> Mitteilungen aus dem Institut für allgemeine Botanik in Hamburg </em>23b: 707–722.</p><p>Gibby, M., Albers, F. &amp; Prinsloo, B. (1990) Karyological studies in<em>Pelargonium</em> sectt.<em> Ciconium, Dibrachya</em> and<em> Jenkinsonia</em> (Geraniaceae).<em> Plant Systematics and Evolution </em>170: 151–159.</p><p> http://dx.doi.org/10.1007/BF00937700</p><p>Gibby, M., Hinnah, S., Marais, E.M. &amp; Albers, F. (1996) Cytological variation and evolution within<em> Pelargonium</em> section<em> Hoarea</em> (Geraniaceae).<em> Plant Systematics and Evolution </em>203: 111–142.</p><p> http://dx.doi.org/10.1007/BF00985241</p><p>Gibby, M. &amp; Westfold, J. (1986) A cytological study of<em> Pelargonium</em> sect.<em> Eumorpha</em> (Geraniaceae).<em> Plant Systematics and Evolution </em>153: 205–222.</p><p> http://dx.doi.org/10.1007/BF00983688</p><p>Gilbert, M.G. &amp; Vorster, P. (2000) Geraniaceae. In: Edwards, S., Tadesse, M., Demissew, S. &amp; Hedberg, I. (eds.), <em>Flora of Ethiopia &amp; Eritrea, Vol.2, Part 1, Magnoliaceae to Flacourtiaceae</em>. Addis Ababa, Ethiopia; Uppsala, Sweden, pp. 364–378.</p><p>Goldblatt, P. &amp; Manning, J. (1998) <em>Gladiolus in Southern Africa</em>. Vlaeberg: Fernwood Press.</p><p>Goldblatt, P. &amp; Manning, J.C. (2000) The long-proboscid fly pollination system in southern Africa.<em> Annals of the Missouri Botanical Garden </em>87: 146–170.</p><p> http://www.jstor.org/stable/2666158</p><p>Goldblatt, P. &amp; Manning, J.C. March 2006) Radiation of Pollination Systems in the Iridaceae of sub-Saharan Africa.<em> Annals of Botany </em>97: 317–344.</p><p> http://dx.doi.org/<em>10.1093/aob/mcj040</em></p><p>Goldblatt, P., Manning, J.C. &amp; Bernhardt, P. (2001) Radiation of Pollination Systems in <em>Gladiolus</em> (Iridaceae: Crocoideae) in Southern Africa.<em> Annals of the Missouri Botanical Garden </em>88: 713–734.</p><p> http://www.jstor.org/stable/3298641</p><p>Guisinger, M.M., Kuehl, J.V., Boore, J.L. &amp; Jansen, R.K. (2008) Genome-wide analyses of Geraniaceae plastid DNA reveal unprecedented patterns of increased nucleotide substitutions.<em> Proceedings of the National Academy of Sciences </em>105: 18424–18429.</p><p> http://dx.doi.org/10.1073/pnas.0806759105</p><p>Guisinger, M.M., Kuehl, J.V., Boore, J.L. &amp; Jansen, R.K. (2011) Extreme Reconfiguration of Plastid Genomes in the Angiosperm Family Geraniaceae: Rearrangements, Repeats, and Codon Usage.<em> Molecular Biology and Evolution </em>28: 583–600.</p><p> http://dx.doi.org/<em>10.1093/molbev/msq229</em></p><p>Hall, T.A. (1999) BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT.<em> Nucleic Acids Symposium Series </em>41: 95–98.</p><p>Harborne, J.B. (1977) Flavonoids and the evolution of the angiosperms.<em> Biochemical Systematics and Ecology </em>5: 7–22.</p><p> <a href="http://dx.doi.org/10.1016/0305-1978(77)90013-8">http://dx.doi.org/10.1016/0305-1978(77)90013-8</a></p><p>Harborne, J.B. (1979) Correlations between flavonoid chemistry, anatomy and geography in the Restionaceae.<em> Phytochemistry </em>18: 1323–1327.</p><p> <a href="http://dx.doi.org/10.1016/0031-9422(79)83015-0">http://dx.doi.org/10.1016/0031-9422(79)83015-0</a></p><p>Harvey, W.H. (1860) Geraniaceae. In: Harvey, W.H. &amp; Sonder, O.W. (eds.), <em>Flora capensis</em>, Vol. 1. Hodges, Smith &amp; Co, Dublin, pp. 259–308.</p><p>Harvey, W.H. (1862) Addenda and corrigenda to the first volume. In: Harvey, W.H. &amp; Sonder, O.W. (eds.), <em>Flora capensis</em>, Vol. 2. Hodges, Smith &amp; Co, Dublin, pp. 583–592.</p><p>Hellbrügge, D. (1997) <em>Revision der </em>Pelargonium<em>-Sektion </em>Peristera<em> (Geraniaceae). </em>Dissertation. Westfälische Wilhelms-Universität, Münster, 412 pp.</p><p>Horn, W. (1994) Interspecific crossability and inheritance in <em>Pelargonium</em>.<em> Plant Breeding </em>113: 3–17.</p><p> http://dx.doi.org/10.1111/j.1439-0523.1994.tb00696.x</p><p>Humbert, H. (1936 (1935, publ. 1936) Sur un Pelargonium nouveau de Madagascar et sur les affinités des Géraniales malgaches. <em>Bulletin de la Société Botanique de France</em> 82: 593–602.</p><p>Ivancheva, S. &amp; Petrova, A. (2000) A chemosystematic study of eleven <em>Geranium</em> species.<em> Biochemical Systematics and Ecology </em>28: 255–260. http://dx.doi.org/10.1016/S0305-1978(99)00060-5</p><p>Jacquin, N.J. (1797) Plantarum rariorum horti caesarei schoenbrunnensis, Vol. 2. Wappler, Vienna, pp. 67.</p><p>Janssens, S., Geuten, K., Yuan, Y., Song, Y., Küpfer, P. &amp; Smets, E. (2006) Phylogenetics of <em>Impatiens</em> and <em>Hydrocera</em> (Balsaminaceae) Using Chloroplast <em>atp</em>B-<em>rbc</em>L Spacer Sequences.<em> Systematic Botany </em>31: 171–180.</p><p> http://dx.doi.org/10.1600/036364406775971796</p><p>Johnson, M.A.T. &amp; Mathew, B. (1993) Two <em>Pelargonium</em> species from Turkey and northern Iraq.<em> Curtis's Botanical Magazine </em>10: 124–131.</p><p>Johnson, M.A.T. &amp; Özhatay, N. (1988) The distribution and cytology of Turkish <em>Pelargonium</em> (Geraniaceae).<em> Kew Bulletin </em>43: 139–148.</p><p>Johnson, S.D. (2010) The pollination niche and its role in the diversification and maintenance of the southern African flora.<em> Philosophical Transactions of the Royal Society B: Biological Sciences </em>365: 499–516.</p><p> http://dx.doi.org/10.1098/rstb.2009.0243</p><p>Johnson, S.D. &amp; Midgley, J.J. (1997) Fly pollination of <em>Gorteria diffusa</em> (Asteraceae), and a possible mimetic function for dark spots on the capitulum.<em> American Journal of Botany </em>84: 429–429.</p><p>Jones, C.S., Bakker, F.T., Schlichting, C.D. &amp; Nicotra, A.B. (2009) Leaf shape evolution in the South African genus <em>Pelargonium</em> L'Hér. (Geraniaceae).<em> Evolution </em>63: 479–497.</p><p> http://dx.doi.org/10.1111/j.1558-5646.2008.00552.x</p><p>Joshi, K., Seneviratne, G.I. &amp; Senanayake, S.P. (2004) Leaf flavonoid aglycone patterns in the species of Dipterocarpaceae in Sri Lanka.<em> Biochemical Systematics and Ecology </em>32: 329–336.</p><p> http://dx.doi.org/10.1016/j.bse.2003.06.001</p><p>Knuth, R. (1912) Geraniaceae. <em>In</em>: Engler, A. (eds.), <em>Das Pflanzenreich IV.129</em>. Engelmann, Leibzig, pp. 640.</p><p>Knuth, R. (1918) Geraniaceae novae. <em>In</em>: Fedde, F. (eds.), <em>Repertorium specierum novarum regni vegetabile</em>, 15: 135–138.</p><p>Kokwaro, J.O. (1971) Geraniaceae. In: Milne-Redhead, E. &amp; Polhill, R.M. (eds.), <em>Flora Of Tropical East Africa</em>. Crown Agents For Oversea Goverments and Administrations, London, pp. 25.</p><p>Kosteletzky, V.F. (1836) <em>Allgemeine medizinisch-pharmazeutische Flora</em>, Bd. 5. Borrosch &amp; André, Prague, pp. 1557–2906.</p><p>Lavranos, J.J. (1978) <em>Pelargonium christophoranum</em>. <em>The Flowering Plants of Africa </em>178: Pl. 1772.</p><p>L’Héritier de Brutelles, C.L. (1792 (1787–1788, publ. 1792) <em>Geraniologia, seu Erodii, Pelargonii, Geranii, Monsoniae et Grieli, Historia iconibus illustrata</em>. Didot, Paris, t. 1–44.</p><p>L’Héritier de Brutelles, C. L. (1802 (publ. date: 10. May 1802) <em>Compendium geranialogium</em>, Paris, pp.64.</p><p>Linnaeus, C. (1737) <em>Genera Plantarum</em>, ed. 1. Wishoff, Leiden, pp. 384.</p><p>Linnaeus, C. (1767) <em>Systema Naturae</em>, ed.12, 2. L. Salvius, Stockholm, pp. 736.</p><p>Mabberley, D.J. (2008) <em>Mabberley’s Plant-book: a portable dictionary of plants, their classification and uses</em>, 3<sup>rd</sup> edition. Cambridge University Press, Cambridge, pp. 1021.</p><p>Maddison, W.P. &amp; Maddison, D.R. (2011) Mesquite: a modular system for evolutionary analysis. Version 2.75. Available from: http://mesquiteproject.org/mesquite/mesquite.html (accessed 10 August 2012)</p><p>Maggs, G.L., Vorster, P. &amp; Van der Walt, J.J.A. (1995a) Taxonomy of the genus <em>Pelargonium</em> (Geraniaceae): the section <em>Polyactium</em>. 1. Circumscription and intrasectional classification.<em> South African Journal of Botany </em>61: 53–59.</p><p>Maggs, G.L., Vorster, P. &amp; Van der Walt, J.J.A. (1995b) Taxonomy of the genus <em>Pelargonium</em> (Geraniaceae): the section <em>Polyactium</em> 2. The subsection <em>Caulescentia</em>.<em> South African Journal of Botany </em>61: 173–179.</p><p>Maggs, G.L., Vorster, P., Van der Walt, J.J.A. &amp; Gibby, M. (1999) Taxonomy of the genus <em>Pelargonium</em> (Geraniaceae): the section <em>Polyactium</em> 3. The subsection <em>Polyactium</em>.<em> South African Journal of Botany </em>65: 115–143.</p><p>Manning, J.C. &amp; Goldblatt, P. (1995) The <em>Prosoeca peringueyi</em> (<em>Diptera</em>: <em>Nemestrinidae</em>) pollination guild in southern Africa: long-tongued flies and their tubular flowers.<em> Annals of the Missouri Botanical Garden </em>82: 517–534.</p><p> http://www.jstor.org/stable/2399969</p><p>Manning, J.C. &amp; Goldblatt, P. (1997) The <em>Moegistorhynchus longirostris</em> (<em>Diptera</em>: <em>Nemestrinidae</em>) pollination guild: long-tubed flowers and a specialized long-proboscid fly pollination system in southern Africa.<em> Plant Systematics and Evolution </em>206: 51–69.</p><p> http://dx.doi.org/10.1007/BF00987941</p><p>Manning, J.C. &amp; Goldblatt, P. (2011) <em>Pelargonium elandsmontanum</em> (Geraniaceae: section <em>Hoarea</em>), a new species from the Western Cape Province, South Africa.<em> South African Journal of Botany </em>77: 241–243.</p><p> http://dx.doi.org/10.1016/j.sajb.2010.07.021</p><p>Manning, J.C. &amp; Goldblatt, P. (2012) <em>Pelargonium saxatile</em> (Geraniaceae: Section <em>Hoarea</em>), a new species from the southwestern Cape, South Africa, and a key to the species of the <em>P. dipetalum</em> group.<em> South African Journal of Botany </em>78: 266–269.</p><p> http://dx.doi.org/10.1016/j.sajb.2011.04.007</p><p>Marais, E.M. (1994) <em>Taxonomic Studies in Pelargonium section </em>Hoarea<em> (Geraniaceae). </em>Dissertation. University of Stellenbosch, Stellenbosch, 297 pp.</p><p>Marais, E.M. (1996a) <em>Pelargonium glabriphyllum</em> (Geraniaceae), a new species from the Nieuwouldtville area.<em> South African Journal of Botany </em>62: 228–230.</p><p>Marais, E.M. (1996b) <em>Pelargonium tripalmatum</em> (Geraniaceae), a new species from the Richtersveld.<em> South African Journal of Botany </em>62: 225–227.</p><p>Marais, E.M. (1997) Three new species of <em>Pelargonium</em> (Geraniaceae) from Namaqualand.<em> South African Journal of Botany </em>63: 82–89.</p><p>Marais, E.M. (1998) <em>Pelargonium githagineum</em> (Geraniaceae), a new species from the Roggeveld plateau and Matjiesfontein area.<em> South African Journal of Botany </em>64: 308–311.</p><p>Marais, E.M. (2014) One name change and three new species of <em>Pelargonium</em>, section Hoarea (Geraniaceae) from the Western Cape Province.<em> South African Journal of Botany</em> 90: 118–127.</p><p>Marschewski, D. (1995) <em>Chemotaxonomische Untersuchungen an </em>Pelargonium<em>-Arten (Geraniaceae) als Beitrag zur Systematik der Gattung. </em>Dissertation. Westfälische Wilhelms-Universität, Münster, 322 pp.</p><p>Medel, R., Botto-Mahan, C. &amp; Kalin-Arroyo, M. (2003) Pollinator-mediated selection on the nectar guide phenotype in the Andean monkey flower, <em>Mimulus luteus</em>.<em> Ecology </em>84: 1721–1732.</p><p> http://dx.doi.org/10.1890/01-0688</p><p>Meve, U., Schmiedel, U. &amp; Marais, E.M. (2000) <em>Pelargonium quarticola</em> (Geraniaceae), a new species from the Knersvlakte.<em> South African Journal of Botany </em>66: 96–98.</p><p>Miller, A.G. &amp; Morris, M. (2004) <em>Ethnoflora of the Soqotra archipelago</em>. Edinburgh: Royal Botanic Garden Edinburgh, 776 pp.</p><p>Mower, J., Touzet, P., Gummow, J., Delph, L. &amp; Palmer, J. (2007) Extensive variation in synonymous substitution rates in mitochondrial genes of seed plants.<em> BMC Evolutionary Biology </em>7: 135–148.</p><p> http://www.biomedcentral.com/1471-2148/7/135</p><p>Müller, K. (2004) PRAP-computation of Bremer support for large data sets.<em> Molecular Phylogenetics and Evolution </em>31: 780–782.</p><p> http://dx.doi.org/10.1016/j.ympev.2003.12.006</p><p>Müller, K. (2005) SeqState: Primer Design and Sequence Statistics for Phylogenetic DNA Datasets.<em> Appl Bioinformatics </em>4: 65–69.</p><p>Müller, K. (2006) Incorporating information from length-mutational events into phylogenetic analysis.<em> Molecular Phylogenetics and Evolution </em>38: 667–676.</p><p> http://dx.doi.org/10.1016/j.ympev.2005.07.011</p><p>Olivier, M.C. &amp; Van der Walt, J.J.A. (1984) The taxonomy of the <em>Pelargonium peltatum</em> (L.) L'Hérit. complex.<em> Journal of South African Botany </em>50: 1–14.</p><p>Parkinson, C., Mower, J., Qiu, Y., Shirk, A., Song, K., Young, N., dePamphilis, C. &amp; Palmer, J. (2005) Multiple major increases and decreases in mitochondrial substitution rates in the plant family Geraniaceae.<em> BMC Evolutionary Biology </em>5: 73–84. http://www.biomedcentral.com/1471-2148/5/73</p><p>Posada, D. (2008) jModelTest: Phylogenetic Model Averaging.<em> Molecular Biology and Evolution </em>25: 1253–1256.</p><p>Price, R.A. &amp; Palmer, J.D. (1993) Phylogenetic relationships of the Geraniaceae and Geraniales from <em>rbc</em>L sequence comparisons.<em> Annals of the Missouri Botanical Garden </em>80: 661–671. http://www.jstor.org/stable/2399852</p><p>Rambaut, A. &amp; Drummond, A.J. (2007) Tracer v1.5 a program for analysing results from Bayesian MCMC programs such as BEAST &amp; Mr. Bayes.</p><p>Remy, J. (1847) Analecta Boliviana. <em>Annales des sciences naturelles. Botanique</em>, ser. 3, v.8: 224-239.</p><p>Retief, E., Craib, C. &amp; Condy, G. (2007a) <em>Pelargonium luridum</em> (Geraniaceae).<em> The Flowering Plants of Africa </em>60: 78–83.</p><p>Retief, E., Craib, C. &amp; Condy, G. (2007b) <em>Pelargonium schlechteri</em> (Geraniaceae).<em> The Flowering Plants of Africa </em>60: 84–88.</p><p>Richard, A. (1847) <em>Tentamen flora abyssinicae seu enumeration plantarum</em>, Vol.1. Bertrand, Paris, pp. 472.</p><p>Ronquist, F. &amp; Huelsenbeck, J.P. (2003) MrBayes 3: Bayesian phylogenetic inference under mixed models.<em> Bioinformatics </em>19: 1572–1574.</p><p>Ronse De Craene, L.P. (2010) Distinctive systematic characters and cryptic apomorphies. In: Ronse De Craene, L.P. (ed.), <em>Floral Diagrams: An Aid to Understanding Flower Morphology and Evolution</em>: Cambridge University Press, Cambridge, pp. 351–352.</p><p>Saleh, N.A.M., El-karemy, Z.A.R., Mansour, R.M.A. &amp; Fayed, A.A. (1983) A chemosystematic study of some Geraniaceae.<em> Phytochemistry </em>22: 2501–2505.</p><p>Salter, T.M. (1938) <em>Pelargonium pillansii</em>. <em>Journal of South African Botany</em> 4: 120–120.</p><p>Salter, T.M. (1942) <em>Pelargonium plurisectum</em>. <em>Journal of South African Botany</em> 8: 279–279.</p><p>Schlechter, R. (1898) Decades plantarum novarum austro-africanorum. <em>Journal of Botany, British and Foreign</em> 36: 314–318.</p><p>Setoguchi, H., Ono, M., Doi, Y., Koyama, H. &amp; Tsuda, M. (1997) Molecular phylogeny of<em> Nothofagus</em> (Nothofagaceae) based on the <em>atpB-rbcL</em> intergenic spacer of the chloroplast DNA.<em> Journal of Plant Research </em>110: 469–484.</p><p> http://dx.doi.org/10.1007/BF02506808</p><p>Simmons, M.P. &amp; Ochoterena, H. (2000) Gaps as characters in sequence-based phylogenetic analyses.<em> Systematic Biology </em>49: 369–381.</p><p>Sims, J. (1804) <em>Curtis’s Botanical Magazine</em>, 20: t.740–761.</p><p>Soares, G.L.G. &amp; Kaplan, M.A.C. (2001) Analysis of flavone-flavonol ratio in Dicotyledoneae.<em> Botanical Journal of the Linnean Society </em>135: 61–66.</p><p> http://dx.doi.org/10.1111/j.1095-8339.2001.tb02369.x</p><p>Stafford, P.J. &amp; Gibby, M. (1992) Pollen morphology of the genus <em>Pelargonium</em> (Geraniaceae).<em> Review of Palaeobotany and Palynology </em>71: 79–109. http://dx.doi.org/10.1016/0034-6667(92)90158-D</p><p>Stamatakis, A. (2006) Phylogenetic models of rate heterogeneity: a high performance computing perspective.<em> Parallel and Distributed Processing Symposium, 2006. IPDPS 2006. 20th International </em>: pp. 8.</p><p>Stamatakis, A., Hoover, P. &amp; Rougemont, J. (2008) A Rapid Bootstrap Algorithm for the RAxML Web Servers.<em> Systematic Biology </em>57: 758–771.</p><p>Steudel, E.T. (1841) <em>Nomenklator Botanicus seu Synonymia Plantarum Universalis</em>, Part 2, Cottae, Stuttgart, Tübingen, pp. 810.</p><p>Stevens, P.F. (2001) onwards. Angiosperm Phylogeny Website. Available from: http://www.mobot.org/MOBOT/research/APweb/, (accessed 03 April 2012).</p><p>Struck, M. (1997) Floral divergence and convergence in the genus<em> Pelargonium</em> (Geraniaceae) in southern Africa: Ecological and evolutionary considerations.<em> Plant Systematics and Evolution </em>208: 71–97. http://dx.doi.org/10.1007/BF00986083</p><p>Struck, M. &amp; Van der Walt, J.J.A. (1996) Floral structure and pollination in <em>Pelargonium</em>. In: Maesen, L.J.G., Burgt, X.M. &amp; Rooy, J.M.M. (eds.), <em>The biodiversity of African plants: proceedings, XIVth AETFAT Congress, 22–27 August 1994, Wageningen, Netherlands</em>. Kluwer Academic Publishers, Dordrecht, pp. 631–638.</p><p>Stuessy, T.F. (2009) <em>Plant taxonomy: the systematic evaluation of comparative data</em>. Columbia University Press, New York, 539 pp.</p><p>Sweet, R. (1820–1822) <em>Geraniaceae 1.</em> Ridgway, London, Pl. 1–100.</p><p>Sweet, R. (1822–1824) <em>Geraniaceae 2.</em> Ridgway, London, Pl. 101–200.</p><p>Sweet, R. (1824–1826) <em>Geraniaceae 3.</em> Ridgway, London, Pl. 201–300.</p><p>Sweet, R. (1826) <em>Hortus Britannicus</em>, part 1. Ridgway, London, pp. 240.</p><p>Sweet, R. (1826–1828) <em>Geraniaceae 4.</em> Ridgway, London, Pl. 301–400.</p><p>Sweet, R. (1828–1830) <em>Geraniaceae, supplementary volume.</em> Ridgway, London, Pl. 1–100.</p><p>Swofford, D.L. (2003) PAUP 4.0: phylogenetic analysis using parsimony (and other methods). Sinauer, Sunderland.</p><p>Talip, N., Greenham, J., Cutler, D.F. &amp; Keith-Lucas, M. (2008) The utility of leaf flavonoids as taxonomic markers for some Malaysian species of the tribe <em>Shoreae</em> (Dipterocarpaceae).<em> Botanical Journal of the Linnean Society </em>157: 755–762.</p><p> http://dx.doi.org/10.1111/j.1095-8339.2008.00833.x</p><p>Thulin, M. (1993) Geraniaceae. <em>In</em>: Thulin, M. (ed.), <em>Flora of Somalia: Pteridophyta; Gymnospermae; Angiospermae (Annonaceae-Fabaceae)</em>. Kew: Royal Botanic Gardens, pp. 186–192.</p><p>Touloumenidou, T., Bakker, F.T., Marais, E.M. &amp; Albers, F. (2004) Chromosomal evolution interpreted from the rDNA ITS phylogeny for <em>Pelargonium</em> sect. <em>Hoarea</em> (Geraniaceae). In: Thiede, J., Veste, M., Jürgens, N. &amp; Metzing, D. (eds.), <em>Succulent Plant Research in Africa</em>: Schumannia 4/Biodiversity &amp; Ecology 2, pp. 93–106.</p><p>Turczaninow, N. (1858) Animadversiones in secundam partem herbaria Turczaninowiani, nunc universitatis Caesareae Charkowiensis. In: <em>Bulletin de la Société Impériale des Naturalistes de Moscou</em> 31, 1: 418–476.</p><p>Van der Walt, J.J.A. (1977) <em>Pelargoniums of Southern Africa</em>. Purnell, Cape Town, 51 pp.</p><p>Van der Walt, J.J.A. (1979) Notes on the nomenclature of <em>Pelargonium</em> (Geraniaceae). <em>Journal of South African Botany </em>45: 378–379.</p><p>Van der Walt, J.J.A. (1985) A taxonomic revision of the type section of <em>Pelargonium</em> L'Hérit. (Geraniaceae).<em> Bothalia </em>15: 345–385.</p><p>Van der Walt, J.J.A. (1991) <em>Pelargonium tabulare</em>.<em> The Flowering Plants of Africa </em>51: Pl. 2035.</p><p>Van der Walt, J.J.A. (1994) A new species of <em>Pelargonium</em> section <em>Campylia</em> (Geraniaceae).<em> South African Journal of Botany </em>60: 144–148.</p><p>Van der Walt, J.J.A. &amp; Boucher, D.A. (1986) A taxonomic revision of the section <em>Myrrhidium</em> of <em>Pelargonium</em> (Geraniaceae) in Southern Africa.<em> South African Journal of Botany </em>52: 438–462.</p><p>Van der Walt, J.J.A. &amp; Van Zyl, L. (1988) A taxonomic revision of <em>Pelargonium</em> section <em>Campylia</em> (Geraniaceae).<em> South African Journal of Botany </em>54: 145–171.</p><p>Van der Walt, J.J.A. &amp; Vorster, P.J. (1981a) <em>Pelargoniums of Southern Africa. Vol. 2</em>. Juta, Kenwyn, 149 pp.</p><p>Van der Walt, J.J.A. &amp; Vorster, P.J. (1981b) Typification of the genus Pelargonium L’Hérit. (Fam. Geraniaceae). <em>Taxon</em> 30 (1): 307-307.</p><p>Van der Walt, J.J.A. &amp; Vorster, P.J. (1983) Phytogeography of <em>Pelargonium</em>.<em> Bothalia </em>14: 517–523.</p><p>Van der Walt, J.J.A. &amp; Vorster, P.J. (1988) <em>Pelargoniums of Southern Africa, including some representative species from other parts of the world. Vol. 3</em>. National Botanic Gardens Kirstenbosch, Kirstenbosch, 149 pp.</p><p>Van der Walt, J.J.A., Albers, F. &amp; Gibby, M. (1990a) Delimitation of<em> Pelargonium</em> sect.<em>Glaucophyllum</em> (Geraniaceae).<em> Plant Systematics and Evolution </em>171: 15–26.</p><p> http://dx.doi.org/10.1007/BF00940594</p><p>Van der Walt, J.J.A., McDonald, D.J. &amp; Van Wyk, N. (1990b) A new species of <em>Pelargonium</em> with notes on its ecology and pollination biology.<em> South African Journal of Botany </em>56: 467–470.</p><p>Van der Walt, J.J.A., Venter, H.J.T., Verhoeven, R. &amp; Dreyer, L.L. (1990c) The transfer of <em>Erodium incarnatum</em> to the genus <em>Pelargonium</em> (Geraniaceae).<em> South African Journal of Botany </em>56: 560–564.</p><p>Van der Walt, J.J.A., Albers, F., Gibby, M., Marschewski, D.E. &amp; Price, R.A. (1995) A biosystematic study of <em>Pelargonium</em> section <em>Ligularia</em>: 1. A new section <em>Subsucculentia</em>.<em> South African Journal of Botany </em>61: 331–338.</p><p>Van Der Walt, J.J.A., Albers, F., Gibby, M., Marschewski, D.E., Hellbrügge, D., Price, R.A. &amp; Van Der Merwe, A.M. (1997) A biosystematic study of <em>Pelargonium</em> section <em>Ligularia</em>: 3. Reappraisal of section <em>Jenkinsonia</em>.<em> South African Journal of Botany </em>63: 4–21.</p><p>Van Jaarsveld, E.J. &amp; Van Wyk, A.E. (2006) <em>Pelargonium vanderwaltii</em>, a new cliff dwelling species from Otjihipa Mountains, northern Namibia.<em> Aloe </em>2 &amp; 3: 32–34.</p><p>Verdcourt, B. (1968) A new <em>Pelargonium</em> from the Somali Republic.<em> Kew Bulletin </em>22: 428–428.</p><p>Vogel, S. (1954) Blütenbiologische Typen als Elemente der Sippengliederung. Dargestellt anhand der Flora Südafrikas.<em> Botanische Studien </em>1: 1–338.</p><p>Vorster, P. (1986) Name changes: <em>Pelargonium nanum</em> (Geraniaceae) and its synonyms. <em>South African Journal of Botany </em>52: 383-384.</p><p>Vorster, P. (1987) Name change: <em>Pelargonium minimum</em> (Geraniaceae), the correct name for <em>P. fumaroides</em>. <em>South African Journal of Botany </em>53: 184–185.</p><p>Vorster, P. (1992) <em>Pelargonium mutans</em>.<em> The Flowering Plants of Africa </em>52: Pl. 2060.</p><p>Vorster, P. (2000) Geraniaceae. In: Goldblatt, P. &amp; Manning, J.C. (eds.), <em>Cape plants: a conspectus of the Cape flora of South Africa</em>. National Botanical Institute of South Africa and Missouri Botanical Garden, Pretoria, pp. 516–528.</p><p>Vorster, P. &amp; Van der Walt, J.J.A. (1983) Two new species of <em>Pelargonium</em> L’Hérit. (Geraniaceae) from South Africa. <em>South African Journal of Botany </em>2: 76–81.</p><p>Wanntorp, L., Kocyan, A., van Donkelaar, R. &amp; Renner, S.S. (2006) Towards a Monophyletic <em>Hoya</em> (Marsdenieae, Apocynaceae): Inferences from the Chloroplast <em>trn</em>L Region and the <em>rbc</em>L-<em>atp</em>B Spacer.<em> Systematic Botany </em>31: 586–596. http://dx.doi.org/10.1043/05-58.1</p><p>Waterman, P.G. (2007) The current status of chemical systematics.<em> Phytochemistry </em>68: 2896–2903.</p><p> http://dx.doi.org/10.1016/j.phytochem.2007.06.029</p><p>Wendland, J.C. (1798) <em>Hortus Herrenhusanus, Seu Plantae Rariores Quae in Horto Regio Herrenhusano Prope Hannoveram Coluntur</em>, 1–2. Gebrüder Hahn, Hannover, pp.16.</p><p>Weng, M., Ruhlman, T.A., Gibby, M. &amp; Jansen, R.K. (2012) Phylogeny, rate variation, and genome size evolution of <em>Pelargonium</em> (Geraniaceae).<em> Molecular Phylogenetics and Evolution </em>64: 654–670. http://dx.doi.org/10.1016/j.ympev.2012.05.026</p><p>Willdenow, C.L. (1800) <em>Caroli a Linné Species Plantarum, Editio Quarta, Post Reichardianum Quinta</em>, Vol.3. G.C. Nauk, Berlin, pp. 847.</p><p>Williams, C.A., Richardson, J., Greenham, J. &amp; Eagles, J. (1993) Correlations between leaf flavonoids, taxonomy and plant geography in the genus <em>Disporum</em>.<em> Phytochemistry </em>34: 197–203.</p><p> http://dx.doi.org/10.1016/S0031-9422(00)90805-7</p><p>Williams, C.A., Newman, M. &amp; Gibby, M. (2000) The application of leaf phenolic evidence for systematic studies within the genus <em>Pelargonium</em> (Geraniaceae).<em> Biochemical Systematics and Ecology </em>28: 119–132.</p><p> http://dx.doi.org/10.1016/S0305-1978(99)00044-7</p><p>Wink, M. (2003) Evolution of secondary metabolites from an ecological and molecular phylogenetic perspective.<em> Phytochemistry </em>64: 3–19.</p><p> http://dx.doi.org/10.1016/S0031-9422(03)00300-5</p><p>Wissemann, V. &amp; Ritz, C.M. (2005) The genus <em>Rosa</em> (Rosoideae, Rosaceae) revisited: molecular analysis of nrITS-1 and <em>atp</em>B-<em>rbc</em>L intergenic spacer (IGS) versus conventional taxonomy.<em> Botanical Journal of the Linnean Society </em>147: 275–290.</p><p> http://dx.doi.org/10.1111/j.1095-8339.2005.00368.x</p><p>Wollenweber, E., Stevens, J.F., Dörr, M. &amp; Rozefelds, A.C. (2003) Taxonomic significance of flavonoid variation in temperate species of <em>Nothofagus</em>.<em> Phytochemistry </em>62: 1125–1131.</p><p> http://dx.doi.org/10.1016/S0031-9422(02)00666-0</p><p>Yu, S.-N. (1985) <em>Untersuchungen zur interspezifischen Kompatibilität und Biosystematik bei der Gattung </em>Pelargonium<em>. </em>Dissertation. Fak. Landw. und Gartenb., Techn. Univ. München-Weihenstephan, 270 pp.</p><p>Yu, Y., Harris, A.J. &amp; He, X. (2013) RASP (Reconstruct Ancestral State in Phylogenies) 2.1 beta. Available from: http://mnh.scu.edu.cn/soft/blog/RASP, (accessed 20 December 2012).</p><p>Zietsman, P.C. (1993) Pollination in <em>Pelargonium dolomiticum</em> R.Knuth (Geraniaceae).<em> South African Journal of Botany </em>59: 259–264. </p></p>
+							<p></p>
+							<p></p>
+							<p></p>
+							<p>&lt;![endif]--&gt;<p> </p></p>
+					</div>
+		<br />
+		</div>
+	
+							<br />
+		<br />
+		DOI: <a id="pub-id::doi" href="https://doi.org/10.11646/phytotaxa.159.2.1">https://doi.org/10.11646/phytotaxa.159.2.1</a>																																			
+
+<div class="separator"></div>
+
+<h3>Refbacks</h3>
+
+<ul>
+				<li>There are currently no refbacks.</li>
+	</ul>
+
+
+		
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_id=https%3A%2F%2Fwww.biotaxa.org%2FPhytotaxa%2Farticle%2Fview%2F2900&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.title=Phytotaxa&amp;rft.jtitle=Phytotaxa&amp;rft.atitle=%3Cp+class%3D%22HeadingRunIn%22%3E%3Cstrong%3EPhylogenetics%2C+character+evolution+and+a+subgeneric+revision+of+the+genus+%3Cem%3EPelargonium%3C%2Fem%3E+%28Geraniaceae%29%3C%2Fstrong%3E%3C%2Fp%3E%3Cbr+%2F%3E%3C%21--%5Bif+gte+mso+9%5D%3E%3Cxml%3E+%3Cw%3ALatentStyles+DefLockedState%3D%22false%22+DefUnhideWhenUsed%3D%22true%22++DefSemiHidden%3D%22true%22+DefQFormat%3D%22false%22+DefPriority%3D%2299%22++LatentStyleCount%3D%22267%22%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%220%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Normal%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22heading+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+QFormat%3D%22true%22+Name%3D%22heading+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+QFormat%3D%22true%22+Name%3D%22heading+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+QFormat%3D%22true%22+Name%3D%22heading+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+QFormat%3D%22true%22+Name%3D%22heading+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+QFormat%3D%22true%22+Name%3D%22heading+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+QFormat%3D%22true%22+Name%3D%22heading+7%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+QFormat%3D%22true%22+Name%3D%22heading+8%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%229%22+QFormat%3D%22true%22+Name%3D%22heading+9%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+7%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+8%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+Name%3D%22toc+9%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2235%22+QFormat%3D%22true%22+Name%3D%22caption%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2210%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Title%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%221%22+Name%3D%22Default+Paragraph+Font%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2211%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Subtitle%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2222%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Strong%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2220%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Emphasis%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2259%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Table+Grid%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+UnhideWhenUsed%3D%22false%22+Name%3D%22Placeholder+Text%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%221%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22No+Spacing%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2260%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Shading%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2261%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+List%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2262%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Grid%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2263%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2264%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2265%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2266%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2267%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2268%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2269%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2270%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Dark+List%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2271%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Shading%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2272%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+List%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2273%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Grid%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2260%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Shading+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2261%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+List+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2262%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Grid+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2263%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+1+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2264%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+2+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2265%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+1+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+UnhideWhenUsed%3D%22false%22+Name%3D%22Revision%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2234%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22List+Paragraph%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2229%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Quote%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2230%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Intense+Quote%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2266%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+2+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2267%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+1+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2268%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+2+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2269%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+3+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2270%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Dark+List+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2271%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Shading+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2272%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+List+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2273%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Grid+Accent+1%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2260%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Shading+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2261%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+List+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2262%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Grid+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2263%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+1+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2264%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+2+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2265%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+1+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2266%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+2+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2267%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+1+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2268%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+2+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2269%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+3+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2270%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Dark+List+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2271%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Shading+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2272%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+List+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2273%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Grid+Accent+2%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2260%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Shading+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2261%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+List+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2262%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Grid+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2263%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+1+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2264%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+2+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2265%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+1+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2266%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+2+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2267%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+1+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2268%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+2+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2269%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+3+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2270%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Dark+List+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2271%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Shading+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2272%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+List+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2273%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Grid+Accent+3%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2260%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Shading+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2261%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+List+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2262%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Grid+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2263%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+1+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2264%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+2+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2265%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+1+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2266%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+2+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2267%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+1+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2268%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+2+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2269%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+3+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2270%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Dark+List+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2271%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Shading+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2272%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+List+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2273%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Grid+Accent+4%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2260%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Shading+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2261%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+List+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2262%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Grid+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2263%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+1+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2264%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+2+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2265%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+1+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2266%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+2+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2267%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+1+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2268%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+2+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2269%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+3+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2270%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Dark+List+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2271%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Shading+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2272%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+List+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2273%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Grid+Accent+5%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2260%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Shading+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2261%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+List+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2262%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Light+Grid+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2263%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+1+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2264%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Shading+2+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2265%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+1+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2266%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+List+2+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2267%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+1+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2268%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+2+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2269%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Medium+Grid+3+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2270%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Dark+List+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2271%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Shading+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2272%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+List+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2273%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+Name%3D%22Colorful+Grid+Accent+6%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2219%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Subtle+Emphasis%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2221%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Intense+Emphasis%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2231%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Subtle+Reference%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2232%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Intense+Reference%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2233%22+SemiHidden%3D%22false%22+++UnhideWhenUsed%3D%22false%22+QFormat%3D%22true%22+Name%3D%22Book+Title%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2237%22+Name%3D%22Bibliography%22%2F%3E++%3Cw%3ALsdException+Locked%3D%22false%22+Priority%3D%2239%22+QFormat%3D%22true%22+Name%3D%22TOC+Heading%22%2F%3E+%3C%2Fw%3ALatentStyles%3E%3C%2Fxml%3E%3C%21%5Bendif%5D--%3E%3C%21--%5Bif+gte+mso+10%5D%3E%3Cstyle%3E+%2F%2A+Style+Definitions+%2A%2F+table.MsoNormalTable%09%7Bmso-style-name%3A%22Table+Normal%22%3B%09mso-tstyle-rowband-size%3A0%3B%09mso-tstyle-colband-size%3A0%3B%09mso-style-noshow%3Ayes%3B%09mso-style-priority%3A99%3B%09mso-style-parent%3A%22%22%3B%09mso-padding-alt%3A0cm+5.4pt+0cm+5.4pt%3B%09mso-para-margin%3A0cm%3B%09mso-para-margin-bottom%3A.0001pt%3B%09text-align%3Ajustify%3B%09line-height%3A150%25%3B%09mso-pagination%3Awidow-orphan%3B%09font-size%3A10.0pt%3B%09font-family%3A%22Times+New+Roman%22%2C%22serif%22%3B%09mso-fareast-language%3ADE%3B%7D%3C%2Fstyle%3E%3C%21%5Bendif%5D--%3E&amp;rft.artnum=phytotaxa.159.2.1&amp;rft.stitle=Phytotaxa&amp;rft.volume=159&amp;rft.issue=2&amp;rft.aulast=Roeschenbleck&amp;rft.aufirst=Joachim&amp;rft.auinit=&amp;rft.date=2014-02-11&amp;rft.au=Joachim+Roeschenbleck&amp;rft.au=Focke+Albers&amp;rft.au=Kai+M%C3%BCller&amp;rft.au=Stefan+Weinl&amp;rft.au=J%C3%B6rg+Kudla&amp;rft_id=info%3Adoi%2F10.11646%2Fphytotaxa.159.2.1&amp;rft.pages=31%E2%80%9376&amp;rft.issn=1179-3155&amp;rft.eissn=1179-3163"></span>
+<!-- Google Analytics -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89286081-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<!-- End Google Analytics -->
+<br /><br />
+<p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;"><img src="/public/site/images/mapress/mpicon.gif" alt="" /></span></p><p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN <span lang="EN-AU">1179-3155 (print); </span></span><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN 1179-3163 (online)</span></p><p>Published by <a title="Magnolia Press" href="http://www.mapress.com/phytotaxa/index.htm" target="_blank">Magnolia Press</a>, Auckland, New Zealand</p><div> </div>
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+<script type="text/javascript">
+
+<!--
+	// Open "Define Terms" context when double-clicking any text
+	function openSearchTermWindow(url) {
+		var term;
+		if (window.getSelection) {
+			term = window.getSelection();
+		} else if (document.getSelection) {
+			term = document.getSelection();
+		} else if(document.selection && document.selection.createRange && document.selection.type.toLowerCase() == 'text') {
+			var range = document.selection.createRange();
+			term = range.text;
+		}
+		if (term != ""){
+			if (url.indexOf('?') > -1) openRTWindowWithToolbar(url + '&defineTerm=' + term);
+			else openRTWindowWithToolbar(url + '?defineTerm=' + term);
+		}
+	}
+
+	if(document.captureEvents) {
+		document.captureEvents(Event.DBLCLICK);
+	}
+
+	// Make sure to only open the reading tools when double clicking within the galley
+	if (document.getElementById('inlinePdfResizer')) {
+		context = document.getElementById('inlinePdfResizer');
+	}
+	else if (document.getElementById('content')) {
+		context = document.getElementById('content');
+	}
+	else {
+		context = document;
+	}
+
+	context.ondblclick = new Function("openSearchTermWindow('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.159.2.1/0/446')");
+// -->
+
+</script>
+
+
+</div> <!-- container -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"4f72ad4ec1","applicationID":"416471445","transactionName":"ZF0AZkZRWRVUVEINDF0XN0BdH14IUVJOShNbSA==","queueTime":0,"applicationTime":351,"atts":"SBoDEA5LShs=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

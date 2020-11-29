@@ -1,0 +1,128 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cavalcanti",
+        "given": "L.H."
+      }
+    ],
+    "title": "Myxomycota in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br"
+  },
+  {
+    "author": [
+      {
+        "family": "Ing",
+        "given": "B."
+      }
+    ],
+    "title": "Myxomycetes from Nigeria",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issue": "1",
+    "issued": "1964",
+    "page": "49–55",
+    "URL": "http://dx.doi.org/10.1016/S0007-1536(64)80079-6",
+    "DOI": "10.1016/S0007-1536(64)80079-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Lado",
+        "given": "C."
+      }
+    ],
+    "title": "An online nomenclatural information system of Eumycetozoa. Real Jardín Botánico, CSIC",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "publisher-place": "Madrid, Spain",
+    "URL": "http://www.nomen."
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "G.W."
+      },
+      {
+        "family": "Alexopoulos",
+        "given": "C.J."
+      }
+    ],
+    "title": "The Myxomycetes",
+    "publisher": "Iowa, University of Iowa Press",
+    "type": "book",
+    "issued": "1969"
+  },
+  {
+    "author": [
+      {
+        "family": "Nannenga-Bremekamp",
+        "given": "N.E."
+      }
+    ],
+    "title": "Notes on Myxomycetes. XXI: the use of polarized light as an aid in the taxonomy of the Trichiales",
+    "container-title": "Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen: Series C: Biological and Medical Sciences",
+    "volume": "85",
+    "issue": "4",
+    "type": "article-journal",
+    "issued": "1982",
+    "page": "541–562"
+  },
+  {
+    "author": [
+      {
+        "family": "Poulain",
+        "given": "M."
+      },
+      {
+        "family": "Meyer",
+        "given": "M."
+      },
+      {
+        "family": "Bozonnet",
+        "given": "J."
+      }
+    ],
+    "title": "Les Myxomycètes",
+    "container-title": "Fédération Mycologique et Botanique Dauphiné-Savoie",
+    "type": "chapter",
+    "issued": "2011",
+    "publisher-place": "Sévrier"
+  },
+  {
+    "author": [
+      {
+        "family": "Rammeloo",
+        "given": "J."
+      }
+    ],
+    "title": "Five new Myxomycete species (Trichiales) from Rwanda",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique National de Belgique",
+    "issue": "1/2",
+    "issued": "1981",
+    "page": "229–230",
+    "URL": "http://dx.doi.org/10.2307/3667752",
+    "DOI": "10.2307/3667752"
+  },
+  {
+    "author": [
+      {
+        "family": "Rammeloo",
+        "given": "J."
+      }
+    ],
+    "title": "Icones Mycologicae 35–54",
+    "publisher": "Nationale Plantentuin van België",
+    "type": "book",
+    "issued": "1984",
+    "publisher-place": "Meise"
+  }
+]

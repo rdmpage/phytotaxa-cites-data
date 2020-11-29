@@ -1,0 +1,2642 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abrams",
+        "given": "L.R."
+      }
+    ],
+    "title": "Illustrated Flora of the Pacific States: Washington, Oregon, and California",
+    "volume": "II",
+    "publisher": "Stanford University Press",
+    "type": "book",
+    "issued": "1944",
+    "page": "635",
+    "publisher-place": "Stanford, CA"
+  },
+  {
+    "author": [
+      {
+        "family": "Aiken",
+        "given": "S.G."
+      },
+      {
+        "family": "Dallwitz",
+        "given": "M.J."
+      },
+      {
+        "family": "Consaul",
+        "given": "L.L."
+      },
+      {
+        "family": "McJannet",
+        "given": "C.L."
+      },
+      {
+        "family": "Boles",
+        "given": "R.L."
+      },
+      {
+        "family": "Argus",
+        "given": "G.W."
+      },
+      {
+        "family": "Gillett",
+        "given": "J.M."
+      },
+      {
+        "family": "Scott",
+        "given": "P.J."
+      },
+      {
+        "family": "Elven",
+        "given": "R."
+      },
+      {
+        "family": "LeBlanc",
+        "given": "M.C."
+      },
+      {
+        "family": "Gillespie",
+        "given": "L.J."
+      },
+      {
+        "family": "Brysting",
+        "given": "A.K."
+      },
+      {
+        "family": "Solstad",
+        "given": "H."
+      },
+      {
+        "family": "Harris",
+        "given": "J.G."
+      }
+    ],
+    "title": "Flora of the Canadian Arctic Archipelago: Descriptions, illustrations, identification, and information retrieval",
+    "publisher": "NRC Research Press, National Research Council of Canada",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2007",
+    "publisher-place": "Ottawa",
+    "URL": "http://nature.ca/aaflora/data"
+  },
+  {
+    "author": [
+      {
+        "family": "Benson",
+        "given": "L.D."
+      }
+    ],
+    "title": "A treatise on the North American Ranunculi",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "The American Midland Naturalist",
+    "issued": "1948",
+    "page": "1–261",
+    "URL": "https://doi.org/10.2307/2421547",
+    "DOI": "10.2307/2421547"
+  },
+  {
+    "author": [
+      {
+        "family": "Benson",
+        "given": "L.D."
+      }
+    ],
+    "title": "Supplement to a treatise on the North American Ranunculi",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "The American Midland Naturalist",
+    "issued": "1954",
+    "page": "328–369",
+    "URL": "https://doi.org/10.2307/2422237",
+    "DOI": "10.2307/2422237"
+  },
+  {
+    "author": [
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      },
+      {
+        "family": "Gray",
+        "given": "S.F."
+      }
+    ],
+    "note": "Shelkovniki (Batrachium (DC.",
+    "title": "Ranunculaceae) evropeiskoi chasti Rossii i ikh sistematika [Water crowfoots (Batrachium (DC.) S.F. Gray, Ranunculaceae) of the European part of Russia and their systematics",
+    "container-title": "Gidrobotanika: metodologiya, metody: Materialy Shkoly po gidrobotanike [Hydrobotany: methodology, methods: Proceedings of Courses on hydrobotany",
+    "publisher": "IBIW RAS",
+    "type": "paper-conference",
+    "issued": "2003",
+    "page": "70–81",
+    "publisher-place": "Rybinsk"
+  },
+  {
+    "author": [
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      },
+      {
+        "family": "Mochalova",
+        "given": "O.A."
+      },
+      {
+        "family": "Chemeris",
+        "given": "E.V."
+      }
+    ],
+    "title": "Zametki o vodnykh i pribrezhno-vodnykh sosudistykh rateniyakh Kamchatki [Notes on aquatic and semiaquatic vascular plants of Kamchatka",
+    "volume": "99",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Botanicheskii Zhurnal [Botanical Journal, St. Petersburg",
+    "issue": "9",
+    "issued": "2014",
+    "page": "1025–1043"
+  },
+  {
+    "author": [
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      },
+      {
+        "family": "Mochalova",
+        "given": "O.A."
+      }
+    ],
+    "title": "Zametki o vodnykh sosudistykh rateniyakh Yakutii po materialam yakutskikh gerbariev [Notes on aquatic vascular plants of Yakutia on materials of the Yakutian herbaria",
+    "volume": "45",
+    "note": "+ tabl. I, II. [in Russian",
+    "type": "article-journal",
+    "container-title": "Novitates Systematicae Plantarum Vascularium",
+    "issued": "2014",
+    "page": "122–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      },
+      {
+        "family": "Movergoz",
+        "given": "E.A."
+      }
+    ],
+    "title": "Ekologicheskie i fitocenoticheskie osobennosti Batrachium circinatum",
+    "editor": [
+      {
+        "literal": "B. trichophyllum i B. kauffmannii (Ranunculaceae"
+      },
+      {
+        "family": "trichophyllum",
+        "given": "B."
+      },
+      {
+        "family": "kauffmannii",
+        "given": "B."
+      }
+    ],
+    "container-title": "Ecological and phytocoenotic features of Batrachium circinatum",
+    "volume": "99",
+    "note": "in Russian",
+    "type": "article-journal",
+    "issue": "3",
+    "issued": "2014",
+    "page": "325–339"
+  },
+  {
+    "author": [
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      },
+      {
+        "family": "Erst",
+        "given": "A.S."
+      },
+      {
+        "family": "Ankova",
+        "given": "T.V."
+      },
+      {
+        "family": "Movergoz",
+        "given": "E.A."
+      }
+    ],
+    "title": "Chisla khromosom vodyanykh lyutikov (Ranunculus sektsiya Batrachium, Ranunculaceae) flory Rossii [Chromosome numbers of water crowfoots (Ranunculus section Batrachium, Ranunculaceae) of the flora of Russia",
+    "volume": "100",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Botanicheskii Zhurnal [Botanical Journal, St. Petersburg",
+    "issue": "6",
+    "issued": "2015",
+    "page": "595–600"
+  },
+  {
+    "author": [
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      },
+      {
+        "family": "Zalewska-Gałosz",
+        "given": "J."
+      },
+      {
+        "family": "Jopek",
+        "given": "M."
+      },
+      {
+        "family": "Movergoz",
+        "given": "E.A."
+      }
+    ],
+    "title": "Ranunculus schmalhausenii (section Batrachium, Ranunculaceae), a neglected water crowfoot endemic to Fennoscandia, a case of rapid hybrid speciation in postglacial environment in North Europe",
+    "volume": "233",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2015",
+    "page": "101–138",
+    "URL": "https://doi.org/10.11646/phytotaxa.233.2.1",
+    "DOI": "10.11646/phytotaxa.233.2.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Bradley",
+        "given": "C.R."
+      },
+      {
+        "family": "Duignan",
+        "given": "C."
+      },
+      {
+        "family": "Preston",
+        "given": "S.J."
+      },
+      {
+        "family": "Provan",
+        "given": "J."
+      }
+    ],
+    "title": "Conservation genetics of Ireland’s sole population of River water crowfoot (Ranunculus fluitans Lam",
+    "volume": "107",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issued": "2013",
+    "page": "54–58",
+    "URL": "https://doi.org/10.1016/j.aquabot.2013.01.011",
+    "DOI": "10.1016/j.aquabot.2013.01.011"
+  },
+  {
+    "author": [
+      {
+        "family": "Casper",
+        "given": "S.J."
+      },
+      {
+        "family": "Krausch",
+        "given": "H.D."
+      }
+    ],
+    "title": "Pteridophyta und Anthophyta. 2. Teil: Saururaceae bis Asteraceae",
+    "editor": [
+      {
+        "family": "Ettl",
+        "given": "H."
+      },
+      {
+        "family": "Gerloff",
+        "given": "J."
+      },
+      {
+        "family": "Heynig",
+        "given": "H."
+      }
+    ],
+    "container-title": "Süßwasserflora von Mitteleuropa",
+    "publisher": "Gustav Fischer",
+    "type": "chapter",
+    "issued": "1981",
+    "page": "24",
+    "publisher-place": "Jena"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.-M."
+      },
+      {
+        "family": "Du",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Yuan",
+        "given": "Y.-Y."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.-F."
+      }
+    ],
+    "title": "Phylogeography of an alpine aquatic herb Ranunculus bungei (Ranunculaceae) on the Qinghai-Tibet plateau",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issue": "3",
+    "issued": "2014",
+    "page": "313–325",
+    "URL": "https://doi.org/10.1111/jse.12093",
+    "DOI": "10.1111/jse.12093"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "L.-Y."
+      },
+      {
+        "family": "Zhao",
+        "given": "S.-Y."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.-F."
+      },
+      {
+        "family": "Moody",
+        "given": "M.L."
+      }
+    ],
+    "title": "Transcriptome sequencing of three Ranunculus species (Ranunculaceae) reveals candidate genes in adaptation from terrestrial to aquatic habitats",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Scientific Reports",
+    "issued": "2015",
+    "page": "10098",
+    "URL": "https://doi.org/10.1038/srep10098",
+    "DOI": "10.1038/srep10098"
+  },
+  {
+    "author": [
+      {
+        "family": "Cody",
+        "given": "W.J."
+      }
+    ],
+    "title": "Flora of the Yukon territory",
+    "edition": "2nd",
+    "publisher": "NRC Research Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "669",
+    "publisher-place": "Ottawa, xvii"
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "C.D.K."
+      }
+    ],
+    "title": "Studies on Ranunculus L. subgenus Batrachium (DC.) A",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Gray. I. Chromosome numbers. Watsonia",
+    "issue": "3",
+    "issued": "1962",
+    "page": "123–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "C.D.K."
+      },
+      {
+        "family": "A",
+        "given": "Ranunculus L.Subgen Batrachium"
+      }
+    ],
+    "title": "Gray",
+    "volume": "1",
+    "publisher": "Lycopodiaceae to Platanaceae. Cambridge University Press",
+    "type": "article-journal",
+    "container-title": "Flora Europaea",
+    "issued": "1964",
+    "page": "19",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "C.D.K."
+      }
+    ],
+    "title": "A monographic study of Ranunculus subgenus Batrachium (DC.) A",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Gray. Mitteilungen der Botanischen Staatssammlung München",
+    "issued": "1966",
+    "page": "47–237"
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "C.D.K."
+      }
+    ],
+    "title": "Studies in Ranunculus subgen",
+    "editor": [
+      {
+        "literal": "Batrachium (DC.) A. Gray. III. Ranunculus hederaceus L. and R."
+      }
+    ],
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Watsonia",
+    "issue": "4",
+    "issued": "1966",
+    "page": "246–259"
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "C.D.K."
+      }
+    ],
+    "title": "Subg",
+    "editor": [
+      {
+        "family": "In",
+        "given": "Batrachium A.Gray"
+      },
+      {
+        "family": "C.A",
+        "given": "Stace"
+      }
+    ],
+    "container-title": "Hybridization and the flora of the British Isles",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1975",
+    "page": "125–129",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "C.D.K."
+      }
+    ],
+    "title": "Validation of Ranunculus peltatus subsp. peltatus var. microcarpus Meikle",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issue": "1",
+    "issued": "1984",
+    "page": "220"
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "C.D.K."
+      }
+    ],
+    "title": "Subgen",
+    "editor": [
+      {
+        "family": "In",
+        "given": "I.Batrachium A.Gray"
+      }
+    ],
+    "container-title": "Flora Iberica",
+    "volume": "1",
+    "type": "chapter",
+    "issued": "1986",
+    "page": "–",
+    "publisher-place": "Real Jardín Botánico, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "C.D.K."
+      },
+      {
+        "family": "A",
+        "given": "Ranunculus L.Subgen Batrachium"
+      }
+    ],
+    "title": "Gray",
+    "volume": "1",
+    "container-title": "Psilotaceae to Platanaceae",
+    "edition": "2nd",
+    "publisher": "Cambridge University Press",
+    "type": "article-journal",
+    "issued": "1993",
+    "page": "19",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Coppi",
+        "given": "A."
+      },
+      {
+        "family": "Lastrucci",
+        "given": "L."
+      },
+      {
+        "family": "Carta",
+        "given": "A."
+      },
+      {
+        "family": "Foggi",
+        "given": "B."
+      }
+    ],
+    "title": "Analysis of genetic structure of Ranunculus baudotii in a Mediterranean wetland. Implications for selection of seeds and seedlings for conservation",
+    "volume": "126",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issued": "2015",
+    "page": "25–31",
+    "URL": "https://doi.org/10.1016/j.aquabot.2015.06.002",
+    "DOI": "10.1016/j.aquabot.2015.06.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Crow",
+        "given": "G.E."
+      },
+      {
+        "family": "Hellquist",
+        "given": "C.B."
+      }
+    ],
+    "title": "Aquatic and wetland plants of northeastern North America",
+    "volume": null,
+    "container-title": "gymnosperms, and angiosperms: dicotyledons",
+    "publisher": "University of Wisconsin Press",
+    "issue": "ytes",
+    "type": "article-journal",
+    "issued": "2000",
+    "page": "480",
+    "publisher-place": "Madison"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlgren",
+        "given": "G."
+      }
+    ],
+    "title": "Karyological investigations in Ranunculus subg. Batrachium (Ranunculaceae) in the Aegean islands",
+    "volume": "177",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issue": "3–4",
+    "issued": "1991",
+    "page": "193–211",
+    "URL": "https://doi.org/10.1007/BF00937957",
+    "DOI": "10.1007/BF00937957"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlgren",
+        "given": "G."
+      }
+    ],
+    "title": "Ranunculus subgenus Batrachium on the Aegean islands and adjacent areas: nectary types and breeding system",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issue": "3",
+    "issued": "1992",
+    "page": "299–310",
+    "URL": "https://doi.org/10.1111/j.1756-1051.1992.tb01305.x",
+    "DOI": "10.1111/j.1756-1051.1992.tb01305.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlgren",
+        "given": "G."
+      }
+    ],
+    "title": "Ranunculus penicillatus in Norden",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issue": "6",
+    "issued": "1993",
+    "page": "593–605",
+    "URL": "https://doi.org/10.1111/j.1756-1051.1993.tb00104.x",
+    "DOI": "10.1111/j.1756-1051.1993.tb00104.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlgren",
+        "given": "G."
+      }
+    ],
+    "title": "Differentiation patterns in Ranunculus subgenus Batrachium (Ranunculaceae",
+    "editor": [
+      {
+        "family": "Jensen",
+        "given": "U."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      }
+    ],
+    "container-title": "Systematics and Evolution of the Ranunculiflorae. Plant Systematics and Evolution—Supplementa 9",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "305–317",
+    "publisher-place": "Vienna",
+    "URL": "https://doi.org/10.1007/978-3-7091-6612-3_32",
+    "DOI": "10.1007/978-3-7091-6612-3_32"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlgren",
+        "given": "G."
+      },
+      {
+        "family": "Cronberg",
+        "given": "N."
+      }
+    ],
+    "title": "Species differentiation and relationships in Ranunculus subgenus Batrachium (Ranunculaceae) elucidated by isozyme electrophoresis",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Symbolae Botanicae Upsalienses",
+    "issued": "1996",
+    "page": "91–104"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlgren",
+        "given": "G."
+      },
+      {
+        "family": "Svensson",
+        "given": "L."
+      }
+    ],
+    "title": "Variation in leaves and petals of Ranunculus subgenus Batrachium on the Aegean Islands, analyzed by multivariate analysis",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issue": "3",
+    "issued": "1994",
+    "page": "253–270",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1994.tb01935.x",
+    "DOI": "10.1111/j.1095-8339.1994.tb01935.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlgren",
+        "given": "G."
+      },
+      {
+        "family": "Jonsell",
+        "given": "B."
+      }
+    ],
+    "title": "13. Ranunculus hederaceus L.–19. Ranunculus penicillatus (Dumort.) Bab",
+    "editor": [
+      {
+        "family": "Jonsell",
+        "given": "B."
+      }
+    ],
+    "container-title": "Flora Nordica",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "229, 259–269"
+  },
+  {
+    "author": [
+      {
+        "family": "Dönmez",
+        "given": "A.A."
+      }
+    ],
+    "title": "Ranunculus kastamonuensis sp. nov",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Ranunculaceae) from Turkey. Nordic Journal of Botany",
+    "issue": "2",
+    "issued": "2002",
+    "page": "219–222",
+    "URL": "https://doi.org/10.1111/j.1756-1051.2002.tb01369.x",
+    "DOI": "10.1111/j.1756-1051.2002.tb01369.x"
+  },
+  {
+    "editor": [
+      {
+        "family": "Douglas",
+        "given": "G.W."
+      },
+      {
+        "family": "Meidinger",
+        "given": "D.V."
+      },
+      {
+        "family": "Pojar",
+        "given": "J."
+      }
+    ],
+    "title": "Illustrated Flora of British Columbia",
+    "volume": "4",
+    "note": "Dicotyledons (Orobanchaceae through Rubiaceae).",
+    "publisher": "British Columbia Ministry of Environment, Lands and Parks; British Columbia Ministry of Forests",
+    "type": null,
+    "issued": "1999",
+    "page": "427",
+    "publisher-place": "Victoria"
+  },
+  {
+    "author": [
+      {
+        "family": "Drew",
+        "given": "W.B."
+      }
+    ],
+    "title": "Contributions from the Gray Herbarium of Harvard University—No. CX",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "The North American representatives of Ranunculus, § Batrachium. Rhodora",
+    "issue": "445",
+    "issued": "1936",
+    "page": "1–47"
+  },
+  {
+    "author": [
+      {
+        "family": "Erikson",
+        "given": "J."
+      }
+    ],
+    "title": "Några växtfynd fran Blekinge",
+    "type": "article-journal",
+    "container-title": "Botaniska Notiser",
+    "issued": "1905",
+    "page": "317–322"
+  },
+  {
+    "author": [
+      {
+        "family": "Union",
+        "given": "European"
+      }
+    ],
+    "title": "Directive 2000/60/EC of the European Parliament and of the council of October 2000 establishing a framework for community action in the field of water policy",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Brussels",
+    "issued": "2000",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Garbey",
+        "given": "C."
+      },
+      {
+        "family": "Thiébaut",
+        "given": "G."
+      },
+      {
+        "family": "Muller",
+        "given": "S."
+      }
+    ],
+    "title": "Morphological plasticity of a spreading aquatic macrophyte, Ranunculus peltatus, in response to environmental variables",
+    "volume": "173",
+    "type": "article-journal",
+    "container-title": "Plant Ecology",
+    "issue": "1",
+    "issued": "2004",
+    "page": "125–137",
+    "URL": "https://doi.org/10.1023/B:VEGE.0000026336.44576.ff",
+    "DOI": "10.1023/B:VEGE.0000026336.44576.ff"
+  },
+  {
+    "author": [
+      {
+        "family": "Glück",
+        "given": "H."
+      }
+    ],
+    "title": "Pteridophyten und Phanerogamen",
+    "editor": [
+      {
+        "family": "Pascher",
+        "given": "A."
+      }
+    ],
+    "container-title": "Die Süßwasserflora Europas. Hf. 15",
+    "publisher": "Gustav Fischer, Jena",
+    "type": "chapter",
+    "issued": "1936",
+    "page": "486"
+  },
+  {
+    "author": [
+      {
+        "family": "Gureeva",
+        "given": "I.I."
+      },
+      {
+        "family": "Balashova",
+        "given": "V.F."
+      }
+    ],
+    "title": "Tipovye obraztsy Ranunculaceae Juss",
+    "editor": [
+      {
+        "family": "P.N. Krylova",
+        "particle": "v Gerbarii im."
+      }
+    ],
+    "container-title": "Type specimens of Ranunculaceae Juss. in the Krylov Herbarium (TK)]. Sistematicheskie Zametki [Systematic Notes",
+    "volume": "Tomsk] 105",
+    "note": "in Russian",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "32–52"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "H."
+      }
+    ],
+    "title": "The Japanese species of Ranunculus § Batrachium",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine",
+    "issued": "1947",
+    "page": "77–82",
+    "URL": "https://doi.org/10.15281/jplantres1887.60.77",
+    "DOI": "10.15281/jplantres1887.60.77"
+  },
+  {
+    "author": [
+      {
+        "family": "Haslam",
+        "given": "S.M."
+      },
+      {
+        "family": "Sinker",
+        "given": "C.A."
+      },
+      {
+        "family": "Wolseley",
+        "given": "P.A."
+      }
+    ],
+    "title": "British water plants",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Field Studies",
+    "issue": "2",
+    "issued": "1975",
+    "page": "243–351"
+  },
+  {
+    "author": [
+      {
+        "family": "Hiern",
+        "given": "W.P."
+      }
+    ],
+    "title": "On the forms and distribution over the world of the Batrachium section of Ranunculus",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Journal of Botany",
+    "issued": "1871",
+    "page": "43–49, 65–69, 97–107"
+  },
+  {
+    "author": [
+      {
+        "family": "Holmes",
+        "given": "N.T.H."
+      }
+    ],
+    "title": "A guide to identification of Batrachium Ranunculus species of Britain. Chief Scientist’s Team Notes 14",
+    "publisher": "Nature Conservancy Council",
+    "type": "book",
+    "issued": "1979",
+    "page": "31",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "title": "A biosystematic study in Ranunculus subgenus Batrachium in S Sweden",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issue": "1",
+    "issued": "1991",
+    "page": "41–59",
+    "URL": "https://doi.org/10.1111/j.1756-1051.1991.tb01793.x",
+    "DOI": "10.1111/j.1756-1051.1991.tb01793.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Hörandl",
+        "given": "E."
+      },
+      {
+        "family": "Emadzade",
+        "given": "K."
+      }
+    ],
+    "title": "Evolutionary classification: A case study on the diverse plant genus Ranunculus L",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Ranunculaceae). Perspectives in Plant Ecology, Evolution and Systematics",
+    "issue": "4",
+    "issued": "2012",
+    "page": "310–324",
+    "URL": "https://doi.org/10.1016/j.ppees.2012.04.001",
+    "DOI": "10.1016/j.ppees.2012.04.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Hörandl",
+        "given": "E."
+      },
+      {
+        "family": "Paun",
+        "given": "O."
+      },
+      {
+        "family": "Johansson",
+        "given": "J.T."
+      },
+      {
+        "family": "Lehnebach",
+        "given": "C."
+      },
+      {
+        "family": "Armstrong",
+        "given": "T."
+      },
+      {
+        "family": "Chen",
+        "given": "L."
+      },
+      {
+        "family": "Lockhart",
+        "given": "P."
+      }
+    ],
+    "title": "Phylogenetic relationships and evolutionary traits in Ranunculus s.l. (Ranunculaceae) inferred from ITS sequence analysis",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issue": "2",
+    "issued": "2005",
+    "page": "305–327",
+    "URL": "https://doi.org/10.1016/j.ympev.2005.02.009",
+    "DOI": "10.1016/j.ympev.2005.02.009"
+  },
+  {
+    "author": [
+      {
+        "family": "Hörandl",
+        "given": "E."
+      },
+      {
+        "family": "Raab-Straube",
+        "given": "E.",
+        "particle": "von"
+      }
+    ],
+    "title": "Ranunculeae. In: Euro+Med Plantbase—the information resource for Euro-Mediterranean plant diversity",
+    "note": "accessed 14 October 2016",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www2.bgbm.org/EuroPlusMed/"
+  },
+  {
+    "author": [
+      {
+        "family": "Hultén",
+        "given": "E."
+      }
+    ],
+    "title": "Flora of Alaska and neighboring territories. A manual of the vascular plants",
+    "edition": "2nd",
+    "publisher": "Stanford University Press",
+    "type": "book",
+    "issued": "1981",
+    "page": "8",
+    "publisher-place": "Stanford, xxii"
+  },
+  {
+    "author": [
+      {
+        "family": "Hutchinson",
+        "given": "G.E."
+      }
+    ],
+    "title": "A treatise on limnology",
+    "volume": "3",
+    "publisher": "Limnological botany. John Wiley & Sons",
+    "type": "book",
+    "issued": "1975",
+    "page": "660",
+    "publisher-place": "New York, x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ivanova",
+        "given": "S.V."
+      }
+    ],
+    "title": "O taxonomicheskom statuse Ranunculus divaricatus Schrank (podrod Batrachium (DC.) Peterm., Ranunculaceae Juss.) [On taxonomic status of Ranunculus divaricatus Schrank (subgenus Batrachium (DC.) Peterm., Ranunculaceae Juss.)]. Byulleten’ Moskovskogo Obschestva Ispytatelei Prirody",
+    "volume": "101",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Otdel Biologicheskii [Bulletin of Moscow Society of Naturalists. Biological Series",
+    "issue": "4",
+    "issued": "1996",
+    "page": "58–63"
+  },
+  {
+    "author": [
+      {
+        "family": "Jo",
+        "given": "I.S."
+      },
+      {
+        "family": "Han",
+        "given": "D.U."
+      },
+      {
+        "family": "Cho",
+        "given": "Y.J."
+      },
+      {
+        "family": "Lee",
+        "given": "EJu"
+      }
+    ],
+    "title": "Effects of light, temperature, and water depth on growth of a rare aquatic plant, Ranunculus kadzusensis",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Journal of Plant Biology",
+    "issue": "1",
+    "issued": "2010",
+    "page": "88–93",
+    "URL": "https://doi.org/10.1007/s12374-009-9092-0",
+    "DOI": "10.1007/s12374-009-9092-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Jonsell",
+        "given": "B."
+      }
+    ],
+    "title": "Lectotypifications and new combinations for Flora Nordica",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issue": "1",
+    "issued": "1996",
+    "page": "3–8",
+    "URL": "https://doi.org/10.1111/j.1756-1051.1996.tb00210.x",
+    "DOI": "10.1111/j.1756-1051.1996.tb00210.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kapitonova",
+        "given": "O.A."
+      }
+    ],
+    "title": "Novyi vid shelkovnika Batrachium (Ranunculaceae) iz Udmurtii [A new species of water crowfoots Batrachium (Ranunculaceae) from Udmurtia",
+    "volume": "91",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Botanicheskii Zhurnal [Botanical Journal, St. Petersburg",
+    "issue": "2",
+    "issued": "2006",
+    "page": "276–278"
+  },
+  {
+    "author": [
+      {
+        "family": "Kimura",
+        "given": "Y."
+      },
+      {
+        "family": "Kunii",
+        "given": "H."
+      }
+    ],
+    "title": "Comparison of morphological traits and growth characteristics in Ranunculus nipponicus var. submersus and R. nipponicus var. okayamaensis",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Japanese Journal of Ecology",
+    "issued": "1998",
+    "page": "257–264"
+  },
+  {
+    "author": [
+      {
+        "family": "Koga",
+        "given": "K."
+      },
+      {
+        "family": "Kadono",
+        "given": "Y."
+      },
+      {
+        "family": "Setoguchi",
+        "given": "H."
+      }
+    ],
+    "title": "The genetic structure of populations of the vulnerable aquatic macrophyte Ranunculus nipponicus (Ranunculaceae",
+    "volume": "120",
+    "type": "article-journal",
+    "container-title": "Journal of Plant Research",
+    "issue": "2",
+    "issued": "2007",
+    "page": "176–174",
+    "URL": "https://doi.org/10.1007/s10265-006-0060-1",
+    "DOI": "10.1007/s10265-006-0060-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Koga",
+        "given": "K."
+      },
+      {
+        "family": "Kadono",
+        "given": "Y."
+      },
+      {
+        "family": "Setoguchi",
+        "given": "H."
+      }
+    ],
+    "title": "Phylogeography of Japanese water crowfoot based on chloroplast DNA haplotypes",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issued": "2008",
+    "page": "1–8",
+    "URL": "https://doi.org/10.1016/j.aquabot.2007.12.012",
+    "DOI": "10.1016/j.aquabot.2007.12.012"
+  },
+  {
+    "author": [
+      {
+        "family": "Kops",
+        "given": "J."
+      },
+      {
+        "family": "Hartsen",
+        "given": "F.A."
+      },
+      {
+        "family": "Eeden",
+        "given": "F.W.",
+        "particle": "van"
+      },
+      {
+        "literal": "J. C. Sepp en Zoon, Amsterdam, xii S. + Pl."
+      }
+    ],
+    "title": "Flora Batava, of Afbeeldingen en Beschrijving van Nederlandsche gewassen",
+    "volume": "13",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Deel",
+    "issued": "1868",
+    "URL": "http://caliban.mpipz.mpg.de/batava/band13/index.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Kreczetovicz",
+        "given": "V.I."
+      },
+      {
+        "family": "Shelkovnik",
+        "given": "vodyanoi lyutik—Batrachium S.F."
+      }
+    ],
+    "title": "Rod 536",
+    "editor": [
+      {
+        "family": "In",
+        "given": "F.Gray]"
+      },
+      {
+        "family": "Komarov",
+        "given": "V.L."
+      },
+      {
+        "family": "Komarov",
+        "given": "V."
+      }
+    ],
+    "container-title": "Flora SSSR. T. 7 [Flora of USSR",
+    "volume": "7",
+    "note": "in Russian] (English edition: Kreczetovicz,",
+    "publisher": "Ranales and Rhoeadales. Keter Press",
+    "issue": "I",
+    "type": "article-journal",
+    "issued": "1937",
+    "page": "– 335–350",
+    "publisher-place": "Jerusalem"
+  },
+  {
+    "author": [
+      {
+        "family": "Ku",
+        "given": "Y.B."
+      },
+      {
+        "family": "Oh",
+        "given": "H.K."
+      },
+      {
+        "family": "Lee",
+        "given": "J.H."
+      },
+      {
+        "family": "Kong",
+        "given": "H.Y."
+      },
+      {
+        "family": "Kil",
+        "given": "J.H."
+      },
+      {
+        "family": "Cho",
+        "given": "K.H."
+      }
+    ],
+    "title": "Distribution and genetic uniformity of an endangered aquatic plant, Ranunculus kadzusensis in a South Korean rice paddy",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Weed Biology and Management",
+    "issue": "2",
+    "issued": "2007",
+    "page": "120–123",
+    "URL": "https://doi.org/10.1111/j.1445-6664.2007.00246.x",
+    "DOI": "10.1111/j.1445-6664.2007.00246.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kutscher",
+        "given": "G."
+      },
+      {
+        "family": "Kohler",
+        "given": "A."
+      }
+    ],
+    "title": "Verbreitung und Ökologie submerser Makrophyten in Fließgewässern des Erdinger Mooses (Münchner Ebene",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Berichte der Bayerischen Botanischen Gesellschaft",
+    "issued": "1976",
+    "page": "175–228"
+  },
+  {
+    "author": [
+      {
+        "family": "Lambertini",
+        "given": "C."
+      },
+      {
+        "family": "Gustafsson",
+        "given": "M.G.H."
+      },
+      {
+        "family": "Baattrup-Pedersen",
+        "given": "A."
+      },
+      {
+        "family": "Riis",
+        "given": "T."
+      }
+    ],
+    "title": "Genetic structure of the submersed Ranunculus baudotii (sect. Batrachium) population in a lowland stream in Denmark",
+    "volume": "136",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issued": "2017",
+    "page": "186–196",
+    "URL": "http://dx.doi.org./10.1016/j.aquabot.2016.10.07"
+  },
+  {
+    "author": [
+      {
+        "family": "Lambinon",
+        "given": "J."
+      },
+      {
+        "family": "Wiegleb",
+        "given": "G."
+      }
+    ],
+    "title": "Ranunculus peltatus Schrank",
+    "editor": [
+      {
+        "family": "Jeanmonod",
+        "given": "D."
+      },
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      }
+    ],
+    "container-title": "Notes et contributions à la flore de",
+    "volume": "51",
+    "type": "article-journal",
+    "issued": "1996",
+    "page": "547–548",
+    "publisher-place": "Corse, XII"
+  },
+  {
+    "author": [
+      {
+        "family": "Lansdown",
+        "given": "R.V."
+      }
+    ],
+    "title": "The identity of Ranunculus subgenus Batrachium in the River Itchen",
+    "volume": "Stroud",
+    "type": "article-journal",
+    "container-title": "Ardeola Environmental Services",
+    "issued": "2007",
+    "page": "82"
+  },
+  {
+    "author": [
+      {
+        "family": "Lansdown",
+        "given": "R.V."
+      }
+    ],
+    "title": "A field guide to the riverine plants of Britain and Ireland. Including selected vascular plants, bryophytes, lichens and algae",
+    "volume": "Stroud",
+    "type": "article-journal",
+    "container-title": "Ardeola Environmental Services",
+    "issued": "2009",
+    "page": "335"
+  },
+  {
+    "author": [
+      {
+        "family": "Lansdown",
+        "given": "R.V."
+      }
+    ],
+    "title": "IUCN Red List. Ranunculaceae",
+    "note": "accessed 14 October 2016",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.iucnredlist.org/details"
+  },
+  {
+    "author": [
+      {
+        "family": "Lansdown",
+        "given": "R.V."
+      }
+    ],
+    "title": "Ranunculus subgenus Batrachium (DC.) A. Gray",
+    "editor": [
+      {
+        "family": "Stace",
+        "given": "C.A."
+      },
+      {
+        "family": "Preston",
+        "given": "C.D."
+      },
+      {
+        "family": "Pearman",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Hybrid flora of the British Isles",
+    "publisher": "BSBI",
+    "type": "chapter",
+    "issued": "2015",
+    "page": "36–42",
+    "publisher-place": "Bristol"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindquist",
+        "given": "B."
+      }
+    ],
+    "title": "Ranunculus fluitans Lamarck, en för svenska floran ny växt",
+    "volume": "1932",
+    "type": "article-journal",
+    "container-title": "Botaniska Notiser",
+    "issued": "1932",
+    "page": "393–400"
+  },
+  {
+    "author": [
+      {
+        "family": "Liou",
+        "given": "L."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Batrachium S.F.Gray"
+      },
+      {
+        "family": "Wang",
+        "given": "W.T."
+      }
+    ],
+    "title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "28",
+    "publisher": "Chinese Academy of Sciences",
+    "note": "in Chinese",
+    "type": null,
+    "issued": "1980",
+    "page": "41",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Luferov",
+        "given": "A.N."
+      },
+      {
+        "family": "Juss.)]",
+        "given": "Ranunculaceae"
+      }
+    ],
+    "title": "Novye taksony i nomenclaturnye kombintsii roda Ranunculus L",
+    "volume": "107",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Otdel Biologicheskii [Bulletin of Moscow Society of Naturalists. Biological Series",
+    "issue": "2",
+    "issued": "2002",
+    "page": "31–35"
+  },
+  {
+    "author": [
+      {
+        "family": "Lumbreras",
+        "given": "A."
+      },
+      {
+        "family": "Molina",
+        "given": "J.A."
+      },
+      {
+        "family": "Benavent",
+        "given": "A."
+      },
+      {
+        "family": "Marticorena",
+        "given": "A."
+      },
+      {
+        "family": "Pardo",
+        "given": "C."
+      }
+    ],
+    "title": "Disentangling the taxonomy and ecology of South American Ranunculus subgen",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Batrachium. Aquatic Botany",
+    "issued": "2014",
+    "page": "21–28",
+    "URL": "https://doi.org/10.1016/j.aquabot.2013.12.004",
+    "DOI": "10.1016/j.aquabot.2013.12.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Manning",
+        "given": "J.C."
+      },
+      {
+        "family": "Goldblatt",
+        "given": "P."
+      }
+    ],
+    "title": "The native and naturalized species of Peltocalathos and Ranunculus (Ranunculaceae: Ranunculeae) in southern Africa",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Bothalia",
+    "issue": "2",
+    "issued": "2013",
+    "page": "179–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Movergoz",
+        "given": "E.A."
+      }
+    ],
+    "title": "Biomorphologicheskie osobennosti geterofil’nogo vodyanogo lyutika Ranunculus schmalhausenii (Batrachium, Ranunculaceae) [Biomorphological features of heterophyllous water crowfoot Ranunculus schmalhausenii (Batrachium, Ranunculaceae",
+    "volume": "99",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Botanicheskii Zhurnal [Botanical Journal, St. Petersburg",
+    "issue": "2",
+    "issued": "2014",
+    "page": "178–187"
+  },
+  {
+    "author": [
+      {
+        "family": "Movergoz",
+        "given": "E.A."
+      },
+      {
+        "family": "Belyakov",
+        "given": "E.A."
+      },
+      {
+        "family": "Tikhonov",
+        "given": "A.V."
+      },
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      }
+    ],
+    "title": "Nakhodki Batrachium × felixii (Ranunculaceae) v Verkhnem Povolzhie [Records of Batrachium × felixii (Ranunculaceae) in Upper Volga region]. Byulleten’ Moskovskogo Obschestva Ispytatelei Prirody",
+    "volume": "119",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Otdel Biologicheskii [Bulletin of Moscow Society of Naturalists. Biological Series",
+    "issue": "3",
+    "issued": "2014",
+    "page": "64"
+  },
+  {
+    "author": [
+      {
+        "family": "Movergoz",
+        "given": "E.A."
+      },
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      }
+    ],
+    "title": "Sravnitel’naya morphologiya i bilogiya vodyanykh lyutikov Ranunculus circinatus, R. trichophyllus i R. kauffmannii (Batrachium, Ranunculaceae) v Central’noi Rossii [Comparative morphology and biology of water crowfoots Ranunculus circinatus",
+    "editor": [
+      {
+        "family": "trichophyllus",
+        "given": "R."
+      },
+      {
+        "family": "kauffmannii",
+        "given": "R."
+      }
+    ],
+    "container-title": "Ranunculaceae) in Central Russia]. Ekologiya, morphologiya i sistematika vodnykh rastenii [Ecology, morphology and systematics of aquatic plants]. Transactions of IBIW RAS",
+    "volume": "76",
+    "note": "in Russian",
+    "issue": "79",
+    "type": "article-journal",
+    "issued": "2016",
+    "page": "93–118",
+    "publisher-place": "Filigran, Yaroslavl"
+  },
+  {
+    "author": [
+      {
+        "family": "Movergoz",
+        "given": "E.A."
+      },
+      {
+        "family": "Sinyushin",
+        "given": "A.A."
+      },
+      {
+        "family": "Zaitseva",
+        "given": "AYa"
+      },
+      {
+        "family": "Lapirov",
+        "given": "A.G."
+      }
+    ],
+    "title": "O gibridnoi prirode Ranunculus × gluckii A",
+    "editor": [
+      {
+        "family": "C. D. K. Cook",
+        "given": "Félix",
+        "particle": "ex"
+      }
+    ],
+    "volume": "14",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Félix ex C. D. K. Cook (Ranunculaceae)]. Turczaninowia",
+    "issue": "4",
+    "issued": "2011",
+    "page": "29–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Nobis",
+        "given": "M."
+      },
+      {
+        "family": "Ebel",
+        "given": "A.L."
+      },
+      {
+        "family": "Nowak",
+        "given": "A."
+      },
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Bobrov",
+        "given": "A.A."
+      },
+      {
+        "family": "Kotukhov",
+        "given": "Y.A."
+      },
+      {
+        "family": "Kupriyanov",
+        "given": "A.N."
+      },
+      {
+        "family": "Nobis",
+        "given": "A."
+      },
+      {
+        "family": "Zalewska-Gałosz",
+        "given": "J."
+      },
+      {
+        "family": "Olonova",
+        "given": "M.V."
+      },
+      {
+        "family": "Verloove",
+        "given": "F."
+      },
+      {
+        "family": "Chen",
+        "given": "W.-L."
+      },
+      {
+        "family": "Kushunina",
+        "given": "M."
+      },
+      {
+        "family": "Kwolek",
+        "given": "D."
+      },
+      {
+        "family": "Lashchinskiy",
+        "given": "N.N."
+      },
+      {
+        "family": "Piwowarczyk",
+        "given": "R."
+      },
+      {
+        "family": "Sukhorukov",
+        "given": "A.P."
+      },
+      {
+        "family": "Nowak",
+        "given": "S."
+      },
+      {
+        "family": "Plášek",
+        "given": "V."
+      },
+      {
+        "family": "Pliszko",
+        "given": "A."
+      }
+    ],
+    "title": "Contribution to the flora of Asian and European countries: new national and regional vascular plant records, 4",
+    "volume": "162",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Gallica: Botany Letters",
+    "issue": "4",
+    "issued": "2015",
+    "page": "301–316",
+    "URL": "https://doi.org/10.1080/12538078.2015.1090329",
+    "DOI": "10.1080/12538078.2015.1090329"
+  },
+  {
+    "author": [
+      {
+        "family": "Oeder",
+        "given": "G.C."
+      }
+    ],
+    "title": "Flora Danica [Icones plantarum sponte nascentium in regno Daniae et in ducatibus Slesvici, Holsatiae et Lauenburgia ad illustrandum opus de iidem plantis, regio jussu exarandum, florae Danicae nominae inscriptum",
+    "volume": "16",
+    "editor": [
+      {
+        "family": "Lange",
+        "given": "J.Typis L.Klein"
+      },
+      {
+        "given": "Hauniae"
+      }
+    ],
+    "note": "+ Tabl. 2761–2820.",
+    "issue": "47",
+    "type": null,
+    "issued": "1879",
+    "page": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "flora",
+        "given": "Panarctic"
+      }
+    ],
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://nhm2.uio.no/paf/"
+  },
+  {
+    "author": [
+      {
+        "family": "Paun",
+        "given": "O."
+      },
+      {
+        "family": "Lehnebach",
+        "given": "C."
+      },
+      {
+        "family": "Johansson",
+        "given": "J.T."
+      },
+      {
+        "family": "Lockhart",
+        "given": "P."
+      },
+      {
+        "family": "Hörandl",
+        "given": "E."
+      }
+    ],
+    "title": "Phylogenetic relationshps and biogeography of Ranunculus and allied genera (Ranunculaceae) in the Mediterranean region an in the European Alpine System",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "4",
+    "issued": "2005",
+    "page": "911–930",
+    "URL": "https://doi.org/10.2307/25065478",
+    "DOI": "10.2307/25065478"
+  },
+  {
+    "author": [
+      {
+        "family": "Pizarro",
+        "given": "J."
+      }
+    ],
+    "title": "Sobre la distribución de Ranunculus peltatus Schrank var. microcarpus Meikle en la región mediterránea",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Lazaroa",
+    "issued": "1988",
+    "page": "303–306"
+  },
+  {
+    "author": [
+      {
+        "family": "Pizarro",
+        "given": "J."
+      }
+    ],
+    "title": "Contributión al studio taxonómico de Ranunculus L",
+    "editor": [
+      {
+        "family": "Batrachium A. Gray",
+        "particle": "subgen."
+      }
+    ],
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Lazaroa",
+    "issued": "1995",
+    "page": "21–113"
+  },
+  {
+    "author": [
+      {
+        "family": "Poynter",
+        "given": "A.J.W."
+      }
+    ],
+    "title": "Impacts on environmental stressors on the River Itchen Ranunculus community",
+    "genre": "PhD thesis,",
+    "publisher": "University of Birmingham",
+    "type": "thesis",
+    "issued": "2013",
+    "page": "265"
+  },
+  {
+    "author": [
+      {
+        "family": "Preston",
+        "given": "C.D."
+      },
+      {
+        "family": "Croft",
+        "given": "J.M."
+      }
+    ],
+    "title": "Aquatic plants in Britain and Ireland",
+    "publisher": "Harley Books, Martins",
+    "type": "book",
+    "issued": "1997",
+    "page": "365"
+  },
+  {
+    "author": [
+      {
+        "family": "Rascio",
+        "given": "N."
+      },
+      {
+        "family": "Cuccato",
+        "given": "F."
+      },
+      {
+        "family": "Dala Vecchia",
+        "given": "F."
+      },
+      {
+        "family": "La Rocca",
+        "given": "N."
+      },
+      {
+        "family": "Larcher",
+        "given": "W."
+      }
+    ],
+    "title": "Structural and functional features of the leaves of Ranunculus trichophyllus Chaix., a freshwater submerged macrophyte",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Plant, Cell and Environment",
+    "issue": "2",
+    "issued": "1999",
+    "page": "205–212",
+    "URL": "https://doi.org/10.1046/j.1365-3040.1999.00394.x",
+    "DOI": "10.1046/j.1365-3040.1999.00394.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Reshetnikova",
+        "given": "N.M."
+      },
+      {
+        "family": "Maiorov",
+        "given": "S.R."
+      },
+      {
+        "family": "Skvortsov",
+        "given": "A.K."
+      },
+      {
+        "family": "Krylov",
+        "given": "A.V."
+      },
+      {
+        "family": "Voronkina",
+        "given": "N.V."
+      },
+      {
+        "family": "Popchenko",
+        "given": "M.I."
+      },
+      {
+        "family": "Shmytov",
+        "given": "A.A."
+      }
+    ],
+    "title": "Kaluzhskaya flora. Annotirovannyi spisok sosudistykh rastenii Kaluzhskoi oblasti [Kaluga flora. An annotated list of vascular plants of Kaluga Region",
+    "publisher": "KMK, Moscow",
+    "note": "ill.",
+    "type": null,
+    "issued": "2010",
+    "page": "548 212"
+  },
+  {
+    "author": [
+      {
+        "family": "Riis",
+        "given": "T."
+      },
+      {
+        "family": "Sand-Jensen",
+        "given": "K."
+      },
+      {
+        "family": "Vestergaard",
+        "given": "O."
+      }
+    ],
+    "title": "Plant communities in lowland Danish streams: species composition and environmental factors",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issue": "4",
+    "issued": "2000",
+    "page": "255–272",
+    "URL": "https://doi.org/10.1016/S0304-3770(99)00079-0",
+    "DOI": "10.1016/S0304-3770(99)00079-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Rott",
+        "given": "E."
+      },
+      {
+        "family": "Gross",
+        "given": "E."
+      },
+      {
+        "family": "Schwienbacher",
+        "given": "E."
+      }
+    ],
+    "title": "Small-scale heterogeneity of Ranunculus trichophyllus in Lake Tovel (microhabitat, morphology, phenolic compounds and molecular taxonomy",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "Studi Trentini di Scienze Naturali—Acta Biologica",
+    "issue": "Suppl. 2",
+    "issued": "2006",
+    "page": "359–367"
+  },
+  {
+    "author": [
+      {
+        "family": "Sonnberger",
+        "given": "B."
+      }
+    ],
+    "title": "Anmerkungen zum Sippenkomplex Ranunculus peltatus/penicillatus in der Ortenau (Schwarzwald",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Berichte der Bayerischen Botanischen Gesellschaft",
+    "issued": "2016",
+    "page": "239–242"
+  },
+  {
+    "author": [
+      {
+        "family": "Sotiaux",
+        "given": "A."
+      },
+      {
+        "family": "Enroth",
+        "given": "J."
+      },
+      {
+        "family": "Olsson",
+        "given": "S."
+      },
+      {
+        "family": "Quandt",
+        "given": "D."
+      },
+      {
+        "family": "Vanderpoorten",
+        "given": "A."
+      }
+    ],
+    "title": "When morphology and molecules tell us different stories: a case-in-point with Leptodon corsicus, a new and unique endemic moss species from Corsica",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Journal of Bryology",
+    "issue": "3",
+    "issued": "2009",
+    "page": "186–196",
+    "URL": "https://doi.org/10.1179/174328209X455299",
+    "DOI": "10.1179/174328209X455299"
+  },
+  {
+    "author": [
+      {
+        "family": "Sowerby",
+        "given": "J."
+      }
+    ],
+    "title": "English Botany, or, Coloured figures of British plants",
+    "edition": "3rd",
+    "volume": "1",
+    "publisher": "R. Hardwicke",
+    "type": "book",
+    "issued": "1863",
+    "page": "235",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      },
+      {
+        "family": "Sugawara",
+        "given": "T."
+      }
+    ],
+    "title": "Typification of Dr. Tomitaro Makino’s botanical names (5",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issue": "5",
+    "issued": "2009",
+    "page": "283–293"
+  },
+  {
+    "author": [
+      {
+        "family": "Telford",
+        "given": "A."
+      },
+      {
+        "family": "O’Hare",
+        "given": "M."
+      },
+      {
+        "family": "Cravers",
+        "given": "S."
+      },
+      {
+        "family": "Holmes",
+        "given": "N."
+      },
+      {
+        "family": "Batrachium A. Gray?",
+        "particle": "subgenus"
+      }
+    ],
+    "title": "Can genetic barcoding be used to identify aquatic Ranunculus L",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issued": "2011",
+    "page": "65–70",
+    "URL": "https://doi.org/10.1016/j.aquabot.2011.03.004",
+    "DOI": "10.1016/j.aquabot.2011.03.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Turała",
+        "given": "K."
+      }
+    ],
+    "title": "Cyto-taxonomical studies in Ranunculus fluitans Lam. and R. penicillatus (Dumort.) Bab. from Lower Silesia (Poland",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Preliminary report. Acta Biologica Cracoviensia. Series Botanica",
+    "issued": "1970",
+    "page": "119–123 20–23"
+  },
+  {
+    "author": [
+      {
+        "family": "Turała",
+        "given": "K."
+      },
+      {
+        "family": "Wołek",
+        "given": "J."
+      }
+    ],
+    "title": "A natural tetraploid hybrid of Ranunculus subgenus Batrachium from the Nowy Targ Basin (Poland",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Acta Biologica Cracoviensia. Series Botanica",
+    "issued": "1971",
+    "page": "153–157 22–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Turała-Szybowska",
+        "given": "K."
+      },
+      {
+        "family": "Wędzony",
+        "given": "M."
+      }
+    ],
+    "title": "Endopolyploidy in the antipodals of Ranunculus subgenus Batrachium",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Acta Biologica Cracoviensia. Series Botanica",
+    "issued": "1981",
+    "page": "161–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Tzvelev",
+        "given": "N.N."
+      },
+      {
+        "family": "Vostochnoi Evrope",
+        "given": "Rod Batrachium S.F.Gray",
+        "particle": "v"
+      }
+    ],
+    "title": "Gray (Ranunculaceae) in East Europe",
+    "volume": "31",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Novitates Systematicae Plantarum Vascularium",
+    "issued": "1998",
+    "page": "67–81"
+  },
+  {
+    "author": [
+      {
+        "family": "Velayos",
+        "given": "M."
+      }
+    ],
+    "title": "Acotaciónes a Ranunculus subgénero Batrachium (DC.) A. Gray: tratamiento taxonómico general y studio de la variabilidad de R. peltatus",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Anales del Jardin Botánico de Madrid",
+    "issue": "1",
+    "issued": "1988",
+    "page": "103–119"
+  },
+  {
+    "author": [
+      {
+        "family": "Vollrath",
+        "given": "H."
+      }
+    ],
+    "title": "Das Florengebiet um Hagenhaus am Südrand des Kohlwaldes (Fichtelgebirge, Bavaria septentrionalis",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Blätter zur Flora Nordbayerns",
+    "issued": "2004",
+    "page": "2–17"
+  },
+  {
+    "author": [
+      {
+        "family": "Vollrath",
+        "given": "H."
+      },
+      {
+        "family": "Kohler",
+        "given": "A."
+      }
+    ],
+    "title": "Batrachium-Fundorte aus bayerischen Naturräumen",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Berichte der Bayerischen Botanischen Gesellschaft",
+    "issued": "1972",
+    "page": "63–75"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallnöfer",
+        "given": "B."
+      }
+    ],
+    "title": "An annotated checklist of the vascular plants of the Cres-Lošinj (Cherso-Lussino) archipelago (NE-Adriatic Sea, Croatia",
+    "volume": "109 B",
+    "type": "article-journal",
+    "container-title": "Annalen des Naturhistorischen Museums in Wien",
+    "issued": "2008",
+    "page": "207–318"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      },
+      {
+        "family": "Tamura",
+        "given": "M."
+      }
+    ],
+    "title": "35. Batrachium (de Candolle) Gray",
+    "container-title": "Flora of China",
+    "volume": "6",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "431–438",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Y.H."
+      },
+      {
+        "family": "Chen",
+        "given": "J.M."
+      },
+      {
+        "family": "Xu",
+        "given": "C."
+      },
+      {
+        "family": "Liu",
+        "given": "X."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.F."
+      },
+      {
+        "family": "Motley",
+        "given": "T.J."
+      }
+    ],
+    "title": "Population genetic structure of an aquatic herb Batrachium bungei (Ranunculaceae) in the Hengduan Mountains of China",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issue": "2",
+    "issued": "2010",
+    "page": "221–225",
+    "URL": "https://doi.org/10.1016/j.aquabot.2009.12.004",
+    "DOI": "10.1016/j.aquabot.2009.12.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "S.D."
+      }
+    ],
+    "title": "Two natural hybrids in Ranunculus L. subgenus Batrachium (DC.) A",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Gray. Watsonia",
+    "issue": "1",
+    "issued": "1986",
+    "page": "25–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "S.D."
+      }
+    ],
+    "title": "Ranunculus penicillatus (Dumort.) Bab. in Great Britain and Ireland",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Watsonia",
+    "issue": "1",
+    "issued": "1988",
+    "page": "1–22"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "S.D."
+      }
+    ],
+    "title": "Three natural hybrids in Ranunculus L. subgenus Batrachium (DC.) A",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Gray. Watsonia",
+    "issue": "2",
+    "issued": "1990",
+    "page": "139–146"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "S.D."
+      }
+    ],
+    "title": "A chromatographic investigation of the flavonoids of Ranunculus L. subgenus Batrachium A. Gray (water buttercups) and selected species in the subgenus Ranunculus",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issue": "1",
+    "issued": "1991",
+    "page": "11–26",
+    "URL": "https://doi.org/10.1016/0304-3770(91)90070-L",
+    "DOI": "10.1016/0304-3770(91)90070-L"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "S.D."
+      }
+    ],
+    "title": "Ranunculus subgenus Batrachium",
+    "editor": [
+      {
+        "family": "Rich",
+        "given": "T.C.G."
+      },
+      {
+        "family": "Jermy",
+        "given": "A.C."
+      }
+    ],
+    "container-title": "Plant Crib",
+    "publisher": "BSBI",
+    "note": "updated by T.C.G. Rich, 2012).",
+    "type": "chapter",
+    "issued": "1998",
+    "page": "51–64",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Whittemore",
+        "given": "A.T."
+      }
+    ],
+    "title": "2e. Ranunculus Subg. Batrachium (de Candolle) Seringe",
+    "container-title": "Flora of North America north of Mexico",
+    "volume": "3",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "130",
+    "publisher-place": "New York—Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiegleb",
+        "given": "G."
+      }
+    ],
+    "title": "Notes on Japanese Ranunculus subgenus Batrachium",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issue": "4–6",
+    "issued": "1988",
+    "page": "117–132"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiegleb",
+        "given": "G."
+      }
+    ],
+    "title": "Die Lebens- und Wuchsformen der makrophytischen Wasserpflanzen und deren Beziehungen zu Ökologie, Verbreitung und Vergesellschaftung der Arten",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Tuexenia",
+    "issued": "1991",
+    "page": "135–148"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiegleb",
+        "given": "G."
+      },
+      {
+        "given": "Gefäßpflanzen"
+      }
+    ],
+    "title": "Wasserhahnenfuß—subgen",
+    "editor": [
+      {
+        "family": "In",
+        "given": "Batrachium Arcang"
+      },
+      {
+        "family": "Jäger",
+        "given": "E.J."
+      }
+    ],
+    "volume": "4",
+    "publisher": "Spektrum",
+    "type": "article-journal",
+    "container-title": "Bd",
+    "issued": "2011",
+    "page": "317–321",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiegleb",
+        "given": "G."
+      },
+      {
+        "family": "Herr",
+        "given": "W."
+      }
+    ],
+    "title": "Taxonomie und Verbreitung von Ranunculus subgenus Batrachium in niedersächsischen Fließgewässern unter besonderer Berücksichtigung des Ranunculus penicillatus Komplexes",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Göttinger Floristische Rundbriefe",
+    "issue": "3–4",
+    "issued": "1983",
+    "page": "101–150"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiegleb",
+        "given": "G."
+      },
+      {
+        "family": "Herr",
+        "given": "W."
+      }
+    ],
+    "title": "The occurrence of communities with Ranunculus subgenus Batrachium species in Central Europe—preliminary remarks",
+    "container-title": "Advances in vegetation science",
+    "volume": "5",
+    "type": "article-journal",
+    "issued": "1985",
+    "page": "235–241",
+    "URL": "https://doi.org/10.1007/978-94-009-5508-0_25",
+    "DOI": "10.1007/978-94-009-5508-0_25"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiegleb",
+        "given": "G."
+      },
+      {
+        "family": "Kaplan",
+        "given": "Z."
+      }
+    ],
+    "title": "An account of the taxonomy of Potamogeton",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Folia Geobotanica",
+    "issued": "1998",
+    "page": "241–316"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolff",
+        "given": "P."
+      }
+    ],
+    "title": "Ranunculus rionii Lagger en France. Bulletin de la Socieìteì Botanique de France",
+    "volume": "136",
+    "type": "article-journal",
+    "container-title": "Lettres Botaniques",
+    "issue": "3",
+    "issued": "1989",
+    "page": "235–241",
+    "URL": "https://doi.org/10.1080/01811797.1989.10824847",
+    "DOI": "10.1080/01811797.1989.10824847"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Q.E."
+      }
+    ],
+    "title": "Cytology of eleven species in the genus Ranunculus L. and five in its four related genera from China",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issue": "5",
+    "issued": "2001",
+    "page": "405–422"
+  },
+  {
+    "author": [
+      {
+        "family": "Zalewska-Gałosz",
+        "given": "J."
+      },
+      {
+        "family": "Jopek",
+        "given": "M."
+      },
+      {
+        "family": "Ilnicki",
+        "given": "T."
+      }
+    ],
+    "title": "Hybridization in Batrachium group: Controversial delimitation between heterophyllous Ranunculus penicillatus and the hybrid Ranunculus fluitans × R. peltatus",
+    "volume": "120",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issued": "2015",
+    "page": "160–168",
+    "URL": "https://doi.org/10.1016/j.aquabot.2014.03.002",
+    "DOI": "10.1016/j.aquabot.2014.03.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Zander",
+        "given": "B."
+      },
+      {
+        "family": "Wiegleb",
+        "given": "G."
+      }
+    ],
+    "title": "Biosystematische Untersuchungen an Populationen von Ranunculus subgenus Batrachium in Nordwestdeutschland",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik",
+    "issue": "1",
+    "issued": "1987",
+    "page": "81–130"
+  }
+]

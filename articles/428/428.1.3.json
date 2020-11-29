@@ -1,0 +1,767 @@
+[
+  {
+    "author": [
+      {
+        "family": "Akaike",
+        "given": "H."
+      }
+    ],
+    "title": "Information theory as an extension of the maximum likelihood principle",
+    "editor": [
+      {
+        "family": "Petrov",
+        "given": "B.N."
+      },
+      {
+        "family": "CsaKi",
+        "given": "F."
+      }
+    ],
+    "container-title": "Second international symposium on information theory",
+    "publisher": "Akademiai Kiado",
+    "type": "paper-conference",
+    "issued": "1973",
+    "page": "267–281",
+    "publisher-place": "Budapest"
+  },
+  {
+    "author": [
+      {
+        "family": "Clements",
+        "given": "M."
+      }
+    ],
+    "title": "Molecular phylogenetic systematics in the Dendrobiinae (Orchidaceae), with emphasis on Dendrobium sect",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Pedilonum. Telopea",
+    "issued": "2003",
+    "page": "247–298",
+    "URL": "https://doi.org/10.7751/telopea20035619",
+    "DOI": "10.7751/telopea20035619"
+  },
+  {
+    "author": [
+      {
+        "family": "Clements",
+        "given": "M."
+      }
+    ],
+    "title": "Molecular Phylogentics Systematics in Dendrobieae (Orchidaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Aliso",
+    "issued": "2006",
+    "page": "465–480",
+    "URL": "https://doi.org/10.5642/aliso.20062201.37",
+    "DOI": "10.5642/aliso.20062201.37"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "phytochemistry Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Finet",
+        "given": "A.E."
+      }
+    ],
+    "title": "Enumeration des especes du genera Dendrobium (Orchidees",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Bulletin du Museìum national d’histoire naturelle",
+    "issued": "1903",
+    "page": "295–304"
+  },
+  {
+    "author": [
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Huit genres nouveaux D’Orchidees indochinoises",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Bulletin du Muséum National d’Histoire Naturelle ser",
+    "issued": "1932",
+    "page": "590–601"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.F."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Anisimova",
+        "given": "M."
+      },
+      {
+        "family": "Hordijk",
+        "given": "W."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2010",
+    "page": "307–321",
+    "URL": "https://doi.org/10.1093/sysbio/syq010",
+    "DOI": "10.1093/sysbio/syq010"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "The flora of British India",
+    "publisher": "L. Reeve",
+    "type": "book",
+    "issued": "1890",
+    "page": "711",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "publisher": "Information Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "30",
+    "publisher-place": "Gland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Misawa",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nucleic acids research",
+    "issued": "2002",
+    "page": "3059–3066",
+    "URL": "https://doi.org/10.1093/nar/gkf436",
+    "DOI": "10.1093/nar/gkf436"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Rozewicki",
+        "given": "J."
+      },
+      {
+        "family": "Yamada",
+        "given": "K.D."
+      }
+    ],
+    "title": "MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization",
+    "container-title": "Briefings in Bioinformatics",
+    "type": "chapter",
+    "issued": "2017",
+    "page": "1–7",
+    "URL": "https://doi.org/10.1093/bib/bbx108",
+    "DOI": "10.1093/bib/bbx108"
+  },
+  {
+    "author": [
+      {
+        "family": "Kraenzlin",
+        "given": "F.W.L."
+      }
+    ],
+    "title": "Das Pflanzenreich",
+    "publisher": "Verlag von Wilhelm Engelmann, Leipzig",
+    "type": "book",
+    "issued": "1910",
+    "page": "55"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Li",
+        "given": "M."
+      },
+      {
+        "family": "Knyaz",
+        "given": "C."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2018",
+    "page": "1547–1549",
+    "URL": "https://doi.org/10.1093/molbev/msy096",
+    "DOI": "10.1093/molbev/msy096"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Plantae Asiaticae rariores, or, Descriptions and figures of a select number of unpublished East Indian plants",
+    "volume": "London",
+    "type": "article-journal",
+    "container-title": "Treuttel and Würtz",
+    "issued": "1830",
+    "page": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Folia Orchidacea: An enumeration of the known species of orchids",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "J. Matthews, London",
+    "issued": "1853",
+    "page": null,
+    "URL": "https://doi.org/10.5962/bhl.title.51709",
+    "DOI": "10.5962/bhl.title.51709"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Contributions the Orchidology of India.--No.II",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Journal of the proceedings of the Linnean Society, Botany",
+    "issued": "1859",
+    "page": "7",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1858.tb02055.x",
+    "DOI": "10.1111/j.1095-8339.1858.tb02055.x"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Dendrobium bensonae",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Botanische Zeitung. Berlin",
+    "issued": "1867",
+    "page": "230"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Dendbobium crtstallinum. The Gardeners’ chronicle and agricultural gazette 1868",
+    "type": null,
+    "issued": "1868",
+    "page": "572"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Summerhayes",
+        "given": "V.S."
+      }
+    ],
+    "title": "Notes on Asiatic Orchids: II",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1957",
+    "page": "259–268",
+    "URL": "https://doi.org/10.2307/4114420",
+    "DOI": "10.2307/4114420"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Dendrobium",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Nova Acta Regiae Societatis Scientiarum Upsaliensis",
+    "issued": "1799",
+    "page": "82–85"
+  },
+  {
+    "author": [
+      {
+        "family": "Warner",
+        "given": "R."
+      }
+    ],
+    "title": "Dendrobium wardianum",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Select Orchidaceous Plants",
+    "issued": "1863",
+    "page": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "Xiang",
+        "given": "X.G."
+      },
+      {
+        "family": "Mi",
+        "given": "X.C."
+      },
+      {
+        "family": "Zhou",
+        "given": "H.L."
+      },
+      {
+        "family": "Li",
+        "given": "J.W."
+      },
+      {
+        "family": "Chung",
+        "given": "S.W."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      },
+      {
+        "family": "Huang",
+        "given": "W.C."
+      },
+      {
+        "family": "Jin",
+        "given": "W.T."
+      },
+      {
+        "family": "Li",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Huang",
+        "given": "L.Q."
+      },
+      {
+        "family": "Jin",
+        "given": "X.H."
+      }
+    ],
+    "title": "Biogeographical diversification of mainland Asian Dendrobium (Orchidaceae) and its implications for the historical dynamics of evergreen broad-leaved forests",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2016",
+    "page": "1310–1323",
+    "URL": "https://doi.org/10.1111/jbi.12726",
+    "DOI": "10.1111/jbi.12726"
+  },
+  {
+    "author": [
+      {
+        "family": "Xiang",
+        "given": "X.G."
+      },
+      {
+        "family": "Schuiteman",
+        "given": "A."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      },
+      {
+        "family": "Huang",
+        "given": "W.C."
+      },
+      {
+        "family": "Chung",
+        "given": "S.W."
+      },
+      {
+        "family": "Li",
+        "given": "J.W."
+      },
+      {
+        "family": "Zhou",
+        "given": "H.L."
+      },
+      {
+        "family": "Jin",
+        "given": "W.T."
+      },
+      {
+        "family": "Lai",
+        "given": "Y.J."
+      },
+      {
+        "family": "Li",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Jin",
+        "given": "X.H."
+      }
+    ],
+    "title": "Molecular systematics of Dendrobium (Orchidaceae, Dendrobieae) from mainland Asia based on plastid and nuclear sequences",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2013",
+    "page": "950–960",
+    "URL": "https://doi.org/10.1016/j.ympev.2013.06.009",
+    "DOI": "10.1016/j.ympev.2013.06.009"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Q."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      },
+      {
+        "family": "Lan",
+        "given": "S.R."
+      },
+      {
+        "family": "Wu",
+        "given": "X.Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      }
+    ],
+    "title": "Dendrobium libingtaoi (Orchidaceae; Epidendroideae; Malaxideae) a new species from China: Evidence from morphology and DNA",
+    "volume": "334",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "35–40",
+    "URL": "https://doi.org/10.11646/phytotaxa.334.1.5",
+    "DOI": "10.11646/phytotaxa.334.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Q."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Wu",
+        "given": "X.Y."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      }
+    ],
+    "title": "Dendrobium maguanense (Orchidaceae; Epidendroideae; Malaxideae) a new species from China: Evidence from morphology and DNA",
+    "volume": "286",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "47–53",
+    "URL": "https://doi.org/10.11646/phytotaxa.334.1.5",
+    "DOI": "10.11646/phytotaxa.334.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Q."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      },
+      {
+        "family": "Luo",
+        "given": "Y.B."
+      }
+    ],
+    "title": "Two new species of Dendrobium (Orchidaceae: Epidendroideae) from China: Evidence from morphology and DNA",
+    "volume": "174",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "129–143",
+    "URL": "https://doi.org/10.11646/phytotaxa.174.3.1",
+    "DOI": "10.11646/phytotaxa.174.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Yukawa",
+        "given": "T."
+      },
+      {
+        "family": "Kita",
+        "given": "K."
+      },
+      {
+        "family": "Handa",
+        "given": "T."
+      }
+    ],
+    "title": "DNA phylogeny and morphological diversification of Australian Dendrobium (Orchidaceae",
+    "editor": [
+      {
+        "family": "Wilson",
+        "given": "K.L."
+      },
+      {
+        "family": "Mossison",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Monocots: systematics and evolution",
+    "publisher": "CSIRO Publishing",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "465–471",
+    "publisher-place": "Melbourne"
+  },
+  {
+    "author": [
+      {
+        "family": "Yukawa",
+        "given": "T."
+      },
+      {
+        "family": "Kurita",
+        "given": "S."
+      },
+      {
+        "family": "Nishida",
+        "given": "M."
+      },
+      {
+        "family": "Hasebe",
+        "given": "M."
+      }
+    ],
+    "title": "Phylogenetic implications of chloroplast DNA restriction site variation in subtribe Dendrobiiae (Orchidaceae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Lindleyana",
+    "issued": "1993",
+    "page": "211–221"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Liu",
+        "given": "K.W."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      },
+      {
+        "family": "Xiao",
+        "given": "X.J."
+      },
+      {
+        "family": "Zhai",
+        "given": "J.W."
+      },
+      {
+        "family": "Li",
+        "given": "L.Q."
+      },
+      {
+        "family": "Cai",
+        "given": "J."
+      },
+      {
+        "family": "Hsiao",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Rao",
+        "given": "W.H."
+      },
+      {
+        "family": "Huang",
+        "given": "J."
+      },
+      {
+        "family": "Ma",
+        "given": "X.Y."
+      },
+      {
+        "family": "Chung",
+        "given": "S.W."
+      },
+      {
+        "family": "Huang",
+        "given": "L.Q."
+      },
+      {
+        "family": "Tsai",
+        "given": "W.C."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      }
+    ],
+    "title": "A New Molecular Phylogeny and a New Genus, Pendulorchis, of the Aerides-Vanda Alliance (Orchidaceae: Epidendroideae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "PLoS ONE",
+    "issued": "2013",
+    "page": "60097",
+    "URL": "https://doi.org/10.1371/journal.pone.0060097",
+    "DOI": "10.1371/journal.pone.0060097"
+  }
+]

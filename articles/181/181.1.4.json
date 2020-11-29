@@ -1,0 +1,98 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cheek",
+        "given": "M."
+      },
+      {
+        "family": "Simão-Bianchini",
+        "given": "R."
+      }
+    ],
+    "title": "Keraunea gen. nov",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Convolvulaceae) from Brazil. Nordic Journal of Botany",
+    "issued": "2013",
+    "page": "453–457",
+    "URL": "http://dx.doi.org/10.1111/j.1756-1051.2013.00096.x",
+    "DOI": "10.1111/j.1756-1051.2013.00096.x"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "IUCN",
+        "given": "Gland"
+      }
+    ],
+    "title": "IUCN red list categories and criteria: version 3.1",
+    "edition": "2nd",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://jr.iucnredlist.org/documents/redlist_cats_crit_en.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Lleras",
+        "given": "E."
+      }
+    ],
+    "title": "Caatinga of North-Eastern Brazil",
+    "container-title": "In",
+    "editor": [
+      {
+        "family": "V.H.",
+        "given": "Herrera-MacBryde"
+      },
+      {
+        "family": "O.",
+        "given": "Villa-Lobos"
+      },
+      {
+        "given": "J."
+      },
+      {
+        "family": "Hamilton",
+        "given": "A.C."
+      }
+    ],
+    "publisher": "IUCN & WWF, Washington",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "393–396",
+    "publisher-place": "Davis, S.D., Heywood"
+  },
+  {
+    "author": [
+      {
+        "family": "Ooststroom",
+        "given": "S.J.van"
+      }
+    ],
+    "title": "Neuropeltopsis, a new genus of Convolvulaceae from Borneo",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1964",
+    "page": "365–367"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora indica 2",
+    "publisher": "Mission Press, Serampore",
+    "type": "book",
+    "issued": "1824",
+    "page": "593"
+  }
+]

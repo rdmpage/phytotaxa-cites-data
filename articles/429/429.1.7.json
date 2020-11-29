@@ -1,0 +1,852 @@
+[
+  {
+    "author": [
+      {
+        "family": "Allioni",
+        "given": "C."
+      }
+    ],
+    "title": "Flora pedemontana sive enumeratio methodica stirpium indigenarum Pedemontii",
+    "volume": "1",
+    "publisher": "J.M. Briolus",
+    "type": "book",
+    "issued": "1785",
+    "page": "344",
+    "publisher-place": "Torino, XIX"
+  },
+  {
+    "author": [
+      {
+        "family": "Arcangeli",
+        "given": "G."
+      }
+    ],
+    "title": "Compendio della flora italiana",
+    "publisher": "Ermanno Loescher, Torino",
+    "type": "book",
+    "issued": "1882",
+    "page": "889"
+  },
+  {
+    "author": [
+      {
+        "family": "Arcangeli",
+        "given": "G."
+      }
+    ],
+    "title": "Compendio della Flora Italiana",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Ermanno Loescher",
+    "type": "book",
+    "issued": "1894",
+    "page": "2",
+    "publisher-place": "Torino, Roma"
+  },
+  {
+    "author": [
+      {
+        "family": "Bartolucci",
+        "given": "F."
+      },
+      {
+        "family": "Peruzzi",
+        "given": "L."
+      },
+      {
+        "family": "Galasso",
+        "given": "G."
+      },
+      {
+        "family": "Albano",
+        "given": "A."
+      },
+      {
+        "family": "Alessandrini",
+        "given": "A."
+      },
+      {
+        "family": "Ardenghi",
+        "given": "N.M.G."
+      },
+      {
+        "family": "Astuti",
+        "given": "G."
+      },
+      {
+        "family": "Bacchetta",
+        "given": "G."
+      },
+      {
+        "family": "Ballelli",
+        "given": "S."
+      },
+      {
+        "family": "Banfi",
+        "given": "E."
+      },
+      {
+        "family": "Barberis",
+        "given": "G."
+      },
+      {
+        "family": "Bernardo",
+        "given": "L."
+      },
+      {
+        "family": "Bouvet",
+        "given": "D."
+      },
+      {
+        "family": "Bovio",
+        "given": "M."
+      },
+      {
+        "family": "Cecchi",
+        "given": "L."
+      },
+      {
+        "family": "Di Pietro",
+        "given": "R."
+      },
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Fascetti",
+        "given": "S."
+      },
+      {
+        "family": "Fenu",
+        "given": "G."
+      },
+      {
+        "family": "Festi",
+        "given": "F."
+      },
+      {
+        "family": "Foggi",
+        "given": "B."
+      },
+      {
+        "family": "Gallo",
+        "given": "L."
+      },
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      },
+      {
+        "family": "Gubellini",
+        "given": "L."
+      },
+      {
+        "family": "Iamonico",
+        "given": "D."
+      },
+      {
+        "family": "Iberite",
+        "given": "M."
+      },
+      {
+        "family": "Jimeìnez-Mejiìas",
+        "given": "P."
+      },
+      {
+        "family": "Lattanzi",
+        "given": "E."
+      },
+      {
+        "family": "Marchetti",
+        "given": "D."
+      },
+      {
+        "family": "Martinetto",
+        "given": "E."
+      },
+      {
+        "family": "Masin",
+        "given": "R.R."
+      },
+      {
+        "family": "Medagli",
+        "given": "P."
+      },
+      {
+        "family": "Passalacqua",
+        "given": "N.G."
+      },
+      {
+        "family": "Peccenini",
+        "given": "S."
+      },
+      {
+        "family": "Pennesi",
+        "given": "R."
+      },
+      {
+        "family": "Pierini",
+        "given": "B."
+      },
+      {
+        "family": "Poldini",
+        "given": "L."
+      },
+      {
+        "family": "Prosser",
+        "given": "F."
+      },
+      {
+        "family": "Raimondo",
+        "given": "F.M."
+      },
+      {
+        "family": "Roma-Marzio",
+        "given": "F."
+      },
+      {
+        "family": "Rosati",
+        "given": "L."
+      },
+      {
+        "family": "Santangelo",
+        "given": "A."
+      },
+      {
+        "family": "Scoppola",
+        "given": "A."
+      },
+      {
+        "family": "Scortegagna",
+        "given": "S."
+      },
+      {
+        "family": "Selvaggi",
+        "given": "A."
+      },
+      {
+        "family": "Selvi",
+        "given": "F."
+      },
+      {
+        "family": "Soldano",
+        "given": "S."
+      },
+      {
+        "family": "Stinca",
+        "given": "A."
+      },
+      {
+        "family": "Wagensommer",
+        "given": "R.P."
+      },
+      {
+        "family": "Wilhalm",
+        "given": "T."
+      },
+      {
+        "family": "Conti",
+        "given": "F."
+      }
+    ],
+    "title": "An updated checklist of the vascular flora native to Italy",
+    "volume": "152",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issued": "2018",
+    "page": "179–303",
+    "URL": "https://doi.org/10.1080/11263504.2017.1419996",
+    "DOI": "10.1080/11263504.2017.1419996"
+  },
+  {
+    "author": [
+      {
+        "family": "Béguinot",
+        "given": "A."
+      }
+    ],
+    "title": "Intorno a Plantago crassifolia Forsk. ed a Plantago weldenii Rchb. nella flora italiana",
+    "volume": "1901",
+    "type": "article-journal",
+    "container-title": "Bullettino della Società Botanica Italiana",
+    "issued": "1901",
+    "page": "252–261"
+  },
+  {
+    "author": [
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      }
+    ],
+    "title": "Auxilium ad botanicorum graphicem",
+    "type": "article-journal",
+    "container-title": "Conservatoire et Jardin Botaniques, Genève",
+    "issued": "1979",
+    "page": "525"
+  },
+  {
+    "author": [
+      {
+        "family": "Conti",
+        "given": "F."
+      },
+      {
+        "family": "Abbate",
+        "given": "G."
+      },
+      {
+        "family": "Alessandrini",
+        "given": "A."
+      },
+      {
+        "given": "Blasi"
+      }
+    ],
+    "editor": [
+      {
+        "given": "C."
+      }
+    ],
+    "title": "An annotated checklist of the Italian vascular flora",
+    "volume": "Roma",
+    "type": "article-journal",
+    "container-title": "Palombi Editori",
+    "issued": "2005",
+    "page": "422"
+  },
+  {
+    "author": [
+      {
+        "family": "De Visiani",
+        "given": "R."
+      }
+    ],
+    "title": "Flora Dalmatica, sive Enumeratio stirpium vascularium quas hactenus in Dalmatia lectas et sibi observatas",
+    "volume": "2",
+    "publisher": "Hofmeister F., Leipzig",
+    "type": "book",
+    "issued": "1847",
+    "page": "262"
+  },
+  {
+    "author": [
+      {
+        "family": "Di Pietro",
+        "given": "R."
+      },
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Neotypification of the name Plantago alpina (Plantaginaceae",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2014",
+    "page": "1347–1349",
+    "URL": "https://doi.org/10.12705/636.5",
+    "DOI": "10.12705/636.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamisans",
+        "given": "J."
+      }
+    ],
+    "title": "Compléments au Prodrome de la flore corse: Plantaginaceae",
+    "container-title": "Editions des Conservatoire et Jardin botaniques de la Ville de Genève",
+    "type": "chapter",
+    "issued": "1988",
+    "page": "56"
+  },
+  {
+    "author": [
+      {
+        "family": "Glen",
+        "given": "H.F."
+      }
+    ],
+    "title": "FSA contributions 12: Plantaginaceae",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Bothalia",
+    "issued": "1998",
+    "page": "151–157",
+    "URL": "https://doi.org/10.4102/abc.v28i2.632",
+    "DOI": "10.4102/abc.v28i2.632"
+  },
+  {
+    "author": [
+      {
+        "family": "Gussone",
+        "given": "G."
+      }
+    ],
+    "title": "Florae Siculae Prodomus",
+    "volume": "1",
+    "publisher": "Regia Tipografia, Napoli",
+    "type": "book",
+    "issued": "1827",
+    "page": "592"
+  },
+  {
+    "author": [
+      {
+        "family": "Gussone",
+        "given": "G."
+      }
+    ],
+    "title": "Supplementum ad Florae Siculae Prodomus",
+    "publisher": "Regia Tipografia, Napoli",
+    "type": "book",
+    "issued": "1832",
+    "page": "166"
+  },
+  {
+    "author": [
+      {
+        "family": "Hassemer",
+        "given": "G."
+      },
+      {
+        "family": "Iamonico",
+        "given": "D."
+      },
+      {
+        "family": "Rønsted",
+        "given": "N."
+      },
+      {
+        "family": "Di Pietro",
+        "given": "R."
+      }
+    ],
+    "title": "Typification of the Linnaean names Plantago serraria and P. subulata (Plantago subgenus Coronopus, Plantaginaceae",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "3",
+    "issued": "2017",
+    "page": "738–741",
+    "URL": "https://doi.org/10.12705/663.14",
+    "DOI": "10.12705/663.14"
+  },
+  {
+    "author": [
+      {
+        "family": "Hassemer",
+        "given": "G."
+      },
+      {
+        "family": "Shipunov",
+        "given": "A.B."
+      },
+      {
+        "family": "Rønsted",
+        "given": "N."
+      },
+      {
+        "family": "Meudt",
+        "given": "H.M."
+      }
+    ],
+    "title": "Taxonomic and geographic novelties in the genus Plantago (Plantaginaceae) in Chile, including the description of a new species",
+    "volume": "340",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2018",
+    "page": "137–156",
+    "URL": "https://doi.org/10.11646/phytotaxa.340.2.3",
+    "DOI": "10.11646/phytotaxa.340.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Höpke",
+        "given": "J."
+      },
+      {
+        "family": "Mucina",
+        "given": "L."
+      },
+      {
+        "family": "Albach",
+        "given": "D.C."
+      }
+    ],
+    "title": "Phylogenetic and morphometric analysis of Plantago section Coronopus (Plantaginaceae",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "2",
+    "issued": "2019",
+    "page": "315–339",
+    "URL": "https://doi.org/10.1002/tax.12035",
+    "DOI": "10.1002/tax.12035"
+  },
+  {
+    "author": [
+      {
+        "family": "Iamonico",
+        "given": "D."
+      },
+      {
+        "family": "G.",
+        "given": "Hassemer"
+      },
+      {
+        "family": "Rønsted",
+        "given": "N."
+      },
+      {
+        "family": "Di Pietro",
+        "given": "R."
+      }
+    ],
+    "title": "The intricate nomenclatural questions around Plantago holosteum (Plantaginaceae",
+    "volume": "306",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2017",
+    "page": "75–84",
+    "URL": "https://doi.org/10.11646/phytotaxa.306.1.6",
+    "DOI": "10.11646/phytotaxa.306.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Iwanycki Ahlstrand",
+        "given": "N."
+      },
+      {
+        "family": "Verstraete",
+        "given": "B."
+      },
+      {
+        "family": "Hassemer",
+        "given": "G."
+      },
+      {
+        "family": "Dunbar-Co",
+        "given": "S."
+      },
+      {
+        "family": "Hoggard",
+        "given": "R."
+      },
+      {
+        "family": "Meudt",
+        "given": "H.M."
+      },
+      {
+        "family": "Rønsted",
+        "given": "N."
+      }
+    ],
+    "title": "Ancestral range reconstruction of remote oceanic island species of Plantago (Plantaginaceae) reveals differing scales and modes of dispersal",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Journal of biogeography",
+    "issue": "4",
+    "issued": "2019",
+    "page": "706–722",
+    "URL": "https://doi.org/10.1111/jbi.13525",
+    "DOI": "10.1111/jbi.13525"
+  },
+  {
+    "author": [
+      {
+        "family": "La Valva",
+        "given": "V."
+      }
+    ],
+    "title": "La collezione Gussone Sicilia",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Webbia",
+    "issued": "1993",
+    "page": "515–537"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamarck",
+        "given": "J.-B.P.A.M."
+      },
+      {
+        "family": "de",
+        "given": "Candolle A.P."
+      }
+    ],
+    "title": "Flore française",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "3. Vol. 3",
+    "type": null,
+    "issued": "1805",
+    "page": "731",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Impensis Laurentii Salvii, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Pignatti",
+        "given": "S."
+      }
+    ],
+    "title": "Flora d’Italia",
+    "volume": "2",
+    "type": null,
+    "issued": "1982",
+    "page": "732",
+    "publisher-place": "Edagricole, Bologna"
+  },
+  {
+    "author": [
+      {
+        "family": "Pignatti",
+        "given": "S."
+      }
+    ],
+    "title": "Flora d’Italia",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2. Vol. 2",
+    "publisher": "Edagricole",
+    "type": "book",
+    "issued": "2018",
+    "page": null,
+    "publisher-place": "Bologna"
+  },
+  {
+    "author": [
+      {
+        "family": "Pilger",
+        "given": "R.K.F."
+      }
+    ],
+    "title": "Plantago coronopus L. und verwandte Arten",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issued": "1930",
+    "page": "262–322",
+    "URL": "https://doi.org/10.1002/fedr.4870282303",
+    "DOI": "10.1002/fedr.4870282303"
+  },
+  {
+    "author": [
+      {
+        "family": "Pilger",
+        "given": "R.K.F."
+      }
+    ],
+    "title": "Plantaginaceae. Das Pflanzenreich 102",
+    "publisher": "Wilhelm Engelmann",
+    "type": "book",
+    "issued": "1937",
+    "page": "1–466",
+    "publisher-place": "Leipzig, Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Rahn",
+        "given": "K."
+      }
+    ],
+    "title": "A phylogenetic study of the Plantaginaceae",
+    "volume": "120",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issue": "2",
+    "issued": "1996",
+    "page": "145–198",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1996.tb00484.x",
+    "DOI": "10.1111/j.1095-8339.1996.tb00484.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "title": "Flora Germanica Excursoria. Apud Carolum Cnobloch",
+    "publisher": "Leipzig",
+    "type": "book",
+    "issued": "1831",
+    "page": "434"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "title": "Iconographia Botanica seu Plantae Criticae",
+    "publisher": "Nona Centuria Tabularum. Hofmeister F., Leipzig",
+    "type": "book",
+    "issued": "1831",
+    "page": "47"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Icones Florae Germanicae Helveticae",
+    "volume": "17",
+    "publisher": "Sumptibus Ambrosii A. Abel, Leipzig",
+    "type": "book",
+    "issued": "1855",
+    "page": "113 150"
+  },
+  {
+    "author": [
+      {
+        "family": "Roemer",
+        "given": "J.J."
+      },
+      {
+        "family": "Schultes",
+        "given": "J.A."
+      }
+    ],
+    "title": "Systema Vegetabilium",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Sumtibus J. G. Cottae Stuttgardtiae",
+    "issued": "1818",
+    "page": "584"
+  },
+  {
+    "author": [
+      {
+        "family": "Sibthorp",
+        "given": "J."
+      },
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "title": "Florae Graecae prodromus, 1",
+    "editor": [
+      {
+        "family": "socii",
+        "given": "Typis R.Taylor",
+        "particle": "et"
+      }
+    ],
+    "type": null,
+    "issued": "1806",
+    "page": "442",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2. Vol. 4",
+    "publisher": "Bohn, Scheltema & Holkema",
+    "type": "book",
+    "issued": "1983",
+    "page": "–",
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg."
+  },
+  {
+    "author": [
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "title": "Flora europaea",
+    "volume": "4",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "1976",
+    "page": "534",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallnöfer",
+        "given": "B."
+      }
+    ],
+    "title": "Über die Abbildungsvorlagen zu den Kupferstichen von Ludwig Reichenbach ́s “Icones Florae Germanicae et Helveticae”",
+    "volume": "104B",
+    "type": "article-journal",
+    "container-title": "Annalen des Naturhistorischen Museums in Wien",
+    "issued": "2003",
+    "page": "553–562"
+  }
+]

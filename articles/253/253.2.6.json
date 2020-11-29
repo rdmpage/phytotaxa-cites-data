@@ -1,0 +1,239 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G.de"
+      }
+    ],
+    "title": "Suite du Sixième mémoire sur la famille des Synanthérées, contenant les caractères des tribus",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Journal de Physique, de Chimie, d’Histoire Naturelle et des Arts",
+    "issued": "1819",
+    "page": "189–204"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavanilles",
+        "given": "A.J."
+      }
+    ],
+    "title": "Icones et descriptiones plantarum, quae aut sponte in Hispania crescunt, aut in hortis hospitantur",
+    "volume": "2",
+    "note": "Regia Typographia, Matriti [Madrid], 83",
+    "type": null,
+    "issued": "1793",
+    "page": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Pena-Martín",
+        "given": "C."
+      }
+    ],
+    "title": "Typification of Pascalia glauca (Heliantheae, Asteraceae), with historical notes on that name",
+    "volume": "186",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2014",
+    "page": "215–221",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.186.4.5",
+    "DOI": "10.11646/phytotaxa.186.4.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Garilleti",
+        "given": "R."
+      }
+    ],
+    "title": "Herbarium cavanillesianum seu enumeratio plantarum exsiccatarum aliquo modo ad novitatis cavanillesianas pertinentium, quae in Horti Regii Matritensis atque Londinensis Societatis Linnaeanae herbariis asservantur",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Fontqueria",
+    "issued": "1993",
+    "page": "6–248"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Compositae",
+    "editor": [
+      {
+        "family": "Whitney",
+        "given": "J.D."
+      }
+    ],
+    "volume": "1",
+    "publisher": "Welch, Bigelow & Co., University Press",
+    "type": "article-journal",
+    "container-title": "Botany",
+    "issued": "1876",
+    "page": "288–443",
+    "publisher-place": "Cambridge, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      }
+    ],
+    "title": "An annotated preliminary checklist of the Compositae of Bolivia",
+    "genre": "Vers. 2.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.N.I."
+      }
+    ],
+    "title": "International Plant Names Index",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.ipni.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Juan",
+        "given": "A."
+      },
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      },
+      {
+        "family": "Alonso",
+        "given": "M.A."
+      }
+    ],
+    "title": "Lectotypification of the name Ximenesia encelioides, basionym of Verbesina encelioides (Asteraceae: Heliantheae: Verbesininae",
+    "volume": "238",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "298–300",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.238.3.11",
+    "DOI": "10.11646/phytotaxa.238.3.11"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      },
+      {
+        "family": "Salvius",
+        "given": "Holmiae"
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "2",
+    "type": null,
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L.Herendeen"
+      },
+      {
+        "family": "P.S.",
+        "given": "Knapp"
+      },
+      {
+        "family": "S.",
+        "given": "Marhold"
+      },
+      {
+        "family": "K.",
+        "given": "Prado"
+      },
+      {
+        "family": "J.",
+        "given": "Prud’homme van Reine"
+      },
+      {
+        "family": "W.F.",
+        "given": "Smith"
+      },
+      {
+        "family": "G.F.",
+        "given": "Wiersema"
+      },
+      {
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code), adopted by the Eighteenth International Botanical Congress",
+    "note": "Regnum Vegetabile 154]. Koeltz Scientific Books, Königstein, xxx",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "208",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

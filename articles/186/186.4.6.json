@@ -1,0 +1,490 @@
+[
+  {
+    "author": [
+      {
+        "family": "Almeda",
+        "given": "F."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "literal": "In: Davidse, G., Sousa-Sánchez, M., Knapp, S. & Chiang, F. (Eds."
+      }
+    ],
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Flora Mesoamericana",
+    "issue": "1",
+    "issued": "2009",
+    "page": "164–338"
+  },
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      }
+    ],
+    "title": "Histoire des plantes de la Guiane Françoise – Tome I. Didot, Libraire de la Faculté de Médecine",
+    "type": null,
+    "issued": "1775",
+    "page": "402–455",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H."
+      }
+    ],
+    "title": "Nouvelles observations sur lés Melastomaceés",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Recueil d’observations botaniques. Adansonia",
+    "issued": "1877",
+    "page": "70–97"
+  },
+  {
+    "author": [
+      {
+        "family": "Bartling",
+        "given": "F.G."
+      }
+    ],
+    "title": "Ordines naturales plantarum eorumque characteres et affinitates; adjecta generum enumeratione.Dieterich",
+    "publisher": "Göttingen",
+    "type": "book",
+    "issued": "1830",
+    "page": "498"
+  },
+  {
+    "author": [
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      }
+    ],
+    "title": "Itatiaia In: Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Avaliable from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB9490."
+  },
+  {
+    "author": [
+      {
+        "family": "Bonpland",
+        "given": "A."
+      }
+    ],
+    "title": "Rhexies",
+    "editor": [
+      {
+        "family": "Humboldt",
+        "given": "A."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A."
+      }
+    ],
+    "container-title": "Voyage de Humboldt & Bonpland, Monographie de Melastomacées",
+    "volume": "6",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1823",
+    "page": "1–158"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Melastomaceae In: Prodromus Systematis Naturalis Regni Vegetabilis, Sive Enumeratio Contracta Ordinum, Generum, Specierumque Plantarum Huq Usque Cognitarum",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Juxta Methodi Naturalis Normas Digesta",
+    "issued": "1828",
+    "page": "99–202"
+  },
+  {
+    "author": [
+      {
+        "family": "Clausing",
+        "given": "G."
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      }
+    ],
+    "title": "Molecular phylogenetics of Melastomataceae and Memecylaceae: implications for character evolution",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "486–498",
+    "URL": "http://dx.doi.org/10.2307/2657114",
+    "DOI": "10.2307/2657114"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "A.C."
+      }
+    ],
+    "title": "Melastomaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "14",
+    "publisher": "Lipsiae, Frid. Fleischer",
+    "type": "chapter",
+    "issued": "1885",
+    "page": "1–655",
+    "publisher-place": "Munich"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "A.C."
+      }
+    ],
+    "title": "Melastomaceae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A.L.P.P."
+      },
+      {
+        "family": "De Candolle",
+        "given": "A.C.P."
+      }
+    ],
+    "container-title": "Monographiae Phanerogamarum 7",
+    "publisher": "G. Masson",
+    "type": "chapter",
+    "issued": "1891",
+    "page": "1–1256",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Pleroma. In: An Illustration of the natural family of plants called Melastomataceae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Wernerian Natural History Society",
+    "issued": "1823",
+    "page": "293–296"
+  },
+  {
+    "author": [
+      {
+        "family": "Fraga",
+        "given": "C.N."
+      },
+      {
+        "family": "Guimarães",
+        "given": "P.J.F."
+      }
+    ],
+    "title": "Two new species of Pleroma (Melastomataceae) from Espírito Santo, Brazil",
+    "volume": "166",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "77–84",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.166.1.5",
+    "DOI": "10.11646/phytotaxa.166.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Guimarães",
+        "given": "P.J.F."
+      },
+      {
+        "family": "Silva",
+        "given": "Oliveira",
+        "particle": "da"
+      }
+    ],
+    "title": "M.F",
+    "note": "in press) Aciotis, Acisanthera, Marcetia e Pterolepis (Melastomeae-Melastomataceae) no Estado do Rio de Janeiro. Rodriguésia.",
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Krasser",
+        "given": "F."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Die Naturlinchen Pflanzenfamilien",
+    "issue": "7",
+    "issued": "1893",
+    "page": "130–199"
+  },
+  {
+    "author": [
+      {
+        "family": "Mcneill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Prud‘homme Van Reine",
+        "given": "W.F."
+      },
+      {
+        "family": "Smith",
+        "given": "J.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "N.J",
+        "given": "Turland"
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): Adopted by the Eighteenth International Botanical Congress",
+    "volume": "154",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "1–274",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F."
+      },
+      {
+        "family": "Guimarães",
+        "given": "P.J.F."
+      },
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Kriebel",
+        "given": "R."
+      }
+    ],
+    "title": "Phylogenetic relationships and distribution of new world Melastomeae (Melastomataceae",
+    "volume": "171",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2013",
+    "page": "38–60",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2012.01295.x",
+    "DOI": "10.1111/j.1095-8339.2012.01295.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Naudin",
+        "given": "C."
+      }
+    ],
+    "title": "XXXII. Purpurella In: Melastomatacearum. Quae in Musaeo parisiensi continentur. Monographicae descriptionis et secundum affinitates distributionis tentamen",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Sequentia). Annales des Sciences Naturelles; Botanique ser",
+    "issued": "1850",
+    "page": "301–302"
+  },
+  {
+    "author": [
+      {
+        "family": "Pinheiro",
+        "given": "F.M."
+      }
+    ],
+    "title": "Espécies raras e endêmicas de Melastomataceae no Estado do Rio de Janeiro: padrões de distribuição geográfica e estratégias de conservação",
+    "container-title": "Msc. Thesis. Escola Nacional de Botânica Tropical. Instituto de Pesquisas Jardim Botânico do Rio de Janeiro",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "131"
+  },
+  {
+    "author": [
+      {
+        "family": "Renner",
+        "given": "S.S."
+      }
+    ],
+    "title": "Phylogeny and classification of the Melastomataceae and Memecylaceae",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "1993",
+    "page": "519–540"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Avaliable from",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2014",
+    "URL": "http://sweetgum.nybg.org/ih/."
+  },
+  {
+    "author": [
+      {
+        "family": "Triana",
+        "given": "J."
+      }
+    ],
+    "title": "Les Melastomatacées",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London, Botany",
+    "issue": "1",
+    "issued": "1871",
+    "page": "1–188"
+  },
+  {
+    "author": [
+      {
+        "family": "Ule",
+        "given": "E."
+      }
+    ],
+    "title": "Ueber die Blütheneinrichtungen von Purpurella cleistoflora, eine neuer Melastomacee",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Berichte der Deutschen Botanischen Gesellschaft",
+    "issued": "1895",
+    "page": "415–420"
+  },
+  {
+    "author": [
+      {
+        "family": "Ule",
+        "given": "E."
+      }
+    ],
+    "title": "Weiteres zur Blütheneinrichtung von Purpurella cleistopetala und Verwandten",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Berichte der Deutschen Botanischen Gesellschaft",
+    "issued": "1896",
+    "page": "169–178"
+  },
+  {
+    "author": [
+      {
+        "family": "Ule",
+        "given": "E."
+      }
+    ],
+    "title": "Beiträge zur Flora von Bahia. I. Unter Mitwirkung eininger Autoren. Botanische Jahrbücher für Systematik",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1909",
+    "page": "234–235"
+  },
+  {
+    "author": [
+      {
+        "family": "Wawra",
+        "given": "H."
+      }
+    ],
+    "title": "Neue Pflanzenarten, gesammelt auf den Reizen der Prinzen von Sachsen-Coburg und beschrieben von Dr",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "H. Wawra. Oesterreichische Botanische Zeitschrift",
+    "issue": "2",
+    "issued": "1882",
+    "page": "37–39"
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "6",
+    "publisher": "Treuttel & Würtz",
+    "type": "book",
+    "issued": "1838",
+    "page": "687",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      }
+    ],
+    "container-title": "Vascular Plants of the Hengduan Mountains",
+    "volume": "2",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "1994",
+    "page": "2090–2094",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Jeffrey",
+        "given": "Synotis C."
+      },
+      {
+        "family": "In",
+        "given": "Y.L.Chen"
+      },
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "77",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1999",
+    "page": "167–217",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Jin",
+        "given": "S.Y."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Jeffrey",
+        "given": "Synotis C."
+      },
+      {
+        "family": "In",
+        "given": "Y.L.Chen"
+      },
+      {
+        "family": "Fu",
+        "given": "L.K."
+      },
+      {
+        "family": "Hong",
+        "given": "T."
+      }
+    ],
+    "container-title": "Higher Plants of China",
+    "volume": "11",
+    "publisher": "Qingdao Publishing House",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "521–528",
+    "publisher-place": "Qingdao"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Jeffrey",
+        "given": "Synotis C."
+      },
+      {
+        "family": "In",
+        "given": "Y.L.Chen"
+      },
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols. 20–21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "489–505",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Compositae Indicae",
+    "publisher": "Thacker, Spink and Co., Calcutta",
+    "type": "book",
+    "issued": "1876",
+    "page": "347"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "On the plants of Kohima and Muneypore",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1887",
+    "page": "1–107",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1889.tb00793.x",
+    "DOI": "10.1111/j.1095-8339.1889.tb00793.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Diels",
+        "given": "L."
+      }
+    ],
+    "title": "Plantae chinenses Forrestianae. New and imperfectly known species",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden, Edinburgh",
+    "issued": "1912",
+    "page": "161–304"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Prodromus Florae Nepalensis",
+    "volume": "London",
+    "type": "article-journal",
+    "container-title": "Linnean Society, J. Gale",
+    "issued": "1825",
+    "page": "256"
+  },
+  {
+    "author": [
+      {
+        "family": "Fischer",
+        "given": "C.E.C."
+      }
+    ],
+    "title": "Senecio lushaiensis C.E.C.Fischer",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Royal Botanic Gardens",
+    "issued": "1929",
+    "page": "6–7"
+  },
+  {
+    "author": [
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Lecomte",
+        "given": "H."
+      },
+      {
+        "family": "Humbert",
+        "given": "H."
+      }
+    ],
+    "container-title": "Flora Générale de l’Indo-Chine",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1924",
+    "page": "633–641",
+    "publisher-place": "Masson, Paris",
+    "URL": "https://doi.org/10.2307/3994954",
+    "DOI": "10.2307/3994954"
+  },
+  {
+    "author": [
+      {
+        "family": "Handel-Mazzetti",
+        "given": "H."
+      }
+    ],
+    "title": "Neue und bemerkenswerte chinesische Compositen, besonders aus dem Berliner Herbar",
+    "container-title": "Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "13",
+    "type": "chapter",
+    "issued": "1937",
+    "page": "607–661"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Compositae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "The Flora of British India",
+    "volume": "3",
+    "publisher": "L. Reeve & Co",
+    "type": "chapter",
+    "issued": "1881",
+    "page": "219–419",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "S.Y."
+      }
+    ],
+    "title": "The Compositae of China (VII",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Quarterly Journal of the Taiwan Museum",
+    "issued": "1968",
+    "page": "3–52"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "S.Y."
+      }
+    ],
+    "title": "The Compositae of China (VIII",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Quarterly Journal of the Taiwan Museum",
+    "issued": "1968",
+    "page": "127–179"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      }
+    ],
+    "title": "Taxonomic studies on the tribe Senecioneae (Compositae) of Eastern Asia",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1984",
+    "page": "205–446",
+    "URL": "https://doi.org/10.2307/4110124",
+    "DOI": "10.2307/4110124"
+  },
+  {
+    "author": [
+      {
+        "family": "Koyama",
+        "given": "H."
+      }
+    ],
+    "title": "Taxonomic studies on the tribe Senecioneae of Eastern Asia. II. Enumeration of the species of Eastern Asia",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Faculty of Science, Kyoto University, Series of Biology",
+    "issued": "1969",
+    "page": "137–183"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      }
+    ],
+    "title": "Compositae sinenses novae vel minus cognitae I. Contributions from the Institute of Botany",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "National Academy of Peiping",
+    "issued": "1937",
+    "page": "1–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Synotis Jeffrey",
+        "given": "C."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.L.In"
+      },
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "container-title": "Flora Yunnanica",
+    "volume": "13",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "387–405",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "The upper Burma plants collected by captain F. Kindon Ward on the Vernay-Cutting expedition, 1938–39",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1941",
+    "page": "20–188",
+    "URL": "https://doi.org/10.2307/2804985",
+    "DOI": "10.2307/2804985"
+  },
+  {
+    "author": [
+      {
+        "family": "Pan",
+        "given": "K.Y."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "container-title": "Flora Xizangica",
+    "volume": "4",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "1985",
+    "page": "807–827",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "W.W."
+      }
+    ],
+    "title": "Diagnoses specierum novarum in herbario Horti Regii Botanici Edinburgensis cognitarum. (Species chinenses.) CLI–CCL",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden Edinburgh",
+    "issued": "1916",
+    "page": "71–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "family": "Hong",
+        "given": "Y."
+      },
+      {
+        "family": "Yang",
+        "given": "Q.E."
+      }
+    ],
+    "title": "Synotis baoshanensis (Asteraceae), a new species from Yunan, China",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issued": "2013",
+    "page": "17",
+    "URL": "https://doi.org/10.1186/1999-3110-54-17",
+    "DOI": "10.1186/1999-3110-54-17"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "family": "Wang",
+        "given": "L.Y."
+      },
+      {
+        "family": "Yang",
+        "given": "Q.E."
+      }
+    ],
+    "title": "Synotis xinningensis (Asteraceae), a new species from Hunan, China",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issued": "2013",
+    "page": "16",
+    "URL": "https://doi.org/10.1186/1999-3110-54-16",
+    "DOI": "10.1186/1999-3110-54-16"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "family": "Wang",
+        "given": "L.Y."
+      },
+      {
+        "family": "Yang",
+        "given": "Q.E."
+      }
+    ],
+    "title": "The identity of Synotis cordifolia (Asteraceae-Senecioneae",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Journal of Tropical and Subtropical Botany",
+    "issued": "2013",
+    "page": "101–108"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "family": "Ren",
+        "given": "C."
+      },
+      {
+        "family": "Yang",
+        "given": "Q.E."
+      }
+    ],
+    "title": "Parasenecio chenopodifolius (Compositae-Senecioneae) is a Synotis and conspecific with S. otophylla based on evidence from morphology, cytology and ITS/ETS sequence data",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2014",
+    "page": "824–835",
+    "URL": "https://doi.org/10.1111/njb.00574",
+    "DOI": "10.1111/njb.00574"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "family": "Yang",
+        "given": "Q.E."
+      }
+    ],
+    "title": "Two new records of Synotis species (Compositae-Senecioneae) reported from China",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Journal of Tropical and Subtropical Botany",
+    "issued": "2014",
+    "page": "215–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Tong",
+        "given": "T.J."
+      },
+      {
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "family": "Ren",
+        "given": "C."
+      },
+      {
+        "family": "Yang",
+        "given": "Q.E."
+      }
+    ],
+    "title": "Senecio kumaonensis (Asteraceae, Senecioneae) is a Synotis based on evidence from karyology and nuclear ITS/ETS sequence data",
+    "volume": "292",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "35–46",
+    "URL": "https://doi.org/10.11646/phytotaxa.292.1.3",
+    "DOI": "10.11646/phytotaxa.292.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "title": "Index Florae Yunnanensis",
+    "volume": "2",
+    "publisher": "Yunnan People’s Publishing House",
+    "note": "In Chinese",
+    "type": null,
+    "issued": "1984",
+    "page": "1423–1432",
+    "publisher-place": "Kunming"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "author": [
+      {
+        "family": "Camus",
+        "given": "A.A."
+      }
+    ],
+    "title": "Note sur les espècesasiatiques du genre Sehima Forsk",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Bulletin du Muséum d’Histoire Naturelle",
+    "issue": "27",
+    "issued": "1921",
+    "page": "372–373"
+  },
+  {
+    "author": [
+      {
+        "family": "Forsskål",
+        "given": "P."
+      }
+    ],
+    "title": "Flora aegyptiaco-arabica",
+    "volume": "Kjøbenavn",
+    "type": "article-journal",
+    "container-title": "Möller",
+    "issued": "1775",
+    "page": "178",
+    "URL": "https://doi.org/10.5962/bhl.title.6625",
+    "DOI": "10.5962/bhl.title.6625"
+  },
+  {
+    "author": [
+      {
+        "family": "Hackel",
+        "given": "E."
+      }
+    ],
+    "title": "Andropogoneae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A."
+      },
+      {
+        "family": "De Candolle",
+        "given": "C."
+      }
+    ],
+    "container-title": "Monographiae phanerogamarum",
+    "volume": "6",
+    "publisher": "Sumptibus G. Masson, Paris",
+    "type": "chapter",
+    "issued": "1889",
+    "page": "716",
+    "URL": "https://doi.org/10.5962/bhl.title.45961",
+    "DOI": "10.5962/bhl.title.45961"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Flora of British India 7. L",
+    "publisher": "Reeve and Co",
+    "type": "book",
+    "issued": "1896",
+    "page": "136–138",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": "article-journal",
+    "container-title": "Imprensis Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null,
+    "URL": "https://doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Proud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "Adopted by the eighteenth International Botanical Congress",
+    "volume": "154",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "1–274",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant-Book, A portable dictionary of plants, their classification and uses",
+    "edition": "Third",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "2008",
+    "page": "786"
+  },
+  {
+    "author": [
+      {
+        "family": "Rottler",
+        "given": "H.M."
+      },
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Botanische Bemerkungen auf der Hin-und Rückreise von Trankenbarnach Madras",
+    "genre": "(Tab. 3–5).",
+    "publisher": "Der Gesellsschaft Naturforschender Freundezu",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "neue Schriften",
+    "issued": "1803",
+    "page": "1–218",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "P."
+      },
+      {
+        "family": "Karthigeyan",
+        "given": "K."
+      },
+      {
+        "family": "Lakshminarasimhan",
+        "given": "P."
+      },
+      {
+        "family": "Dash",
+        "given": "S.S."
+      }
+    ],
+    "title": "Endemic Vascular Plants of India",
+    "volume": "Kolkata",
+    "type": "article-journal",
+    "container-title": "Botanical Survey of India",
+    "issued": "2015",
+    "page": "307"
+  },
+  {
+    "author": [
+      {
+        "family": "Stapf",
+        "given": "O."
+      }
+    ],
+    "title": "Gramineae",
+    "editor": [
+      {
+        "family": "Prain",
+        "given": "D."
+      }
+    ],
+    "container-title": "Flora of Tropical Africa",
+    "volume": "9",
+    "type": "chapter",
+    "issued": "1919",
+    "page": "1–350",
+    "publisher-place": "Reeve, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Sur",
+        "given": "P.R."
+      }
+    ],
+    "title": "A taxonomic revision of the genus Sehima Forssk",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Poaceae in India. Journal of Economic and Taxonomic Botany",
+    "issue": "1",
+    "issued": "1988",
+    "page": "71–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  }
+]

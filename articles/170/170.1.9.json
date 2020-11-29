@@ -1,0 +1,525 @@
+[
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Diagnoses plantarum orientalium novarum – series secunda, N°5",
+    "publisher": "B. Herrmann, Lipsiae",
+    "type": "book",
+    "issued": "1856",
+    "page": "118"
+  },
+  {
+    "author": [
+      {
+        "family": "Conti",
+        "given": "F."
+      },
+      {
+        "family": "Abbate",
+        "given": "G."
+      },
+      {
+        "family": "Alessandrini",
+        "given": "A."
+      },
+      {
+        "family": "Blasi",
+        "given": "C."
+      }
+    ],
+    "title": "An annotated checklist of the Italian vascular flora",
+    "volume": "Roma",
+    "type": "article-journal",
+    "container-title": "Palombi Editori",
+    "issued": "2005",
+    "page": "420"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "title": "Die Natürlichen Pflanzenfamilien nebst ihren Gattungen und wichtigeren Arten inbesondere den Nutzpflanzen unter Mitwirkung zahlreicher hervorragender Fachgelehrten, Abteil 8",
+    "publisher": "Wilhelm Engelmann, Leipzig",
+    "type": "book",
+    "issued": "1898",
+    "page": "274",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.4635",
+    "DOI": "10.5962/bhl.title.4635"
+  },
+  {
+    "author": [
+      {
+        "given": "Euro+Med"
+      }
+    ],
+    "title": "Euro+Med PlantBase – the information resource for Euro–Mediterranean plantdiversity",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed"
+  },
+  {
+    "author": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      }
+    ],
+    "title": "The Euro+Med treatment of Cichorieae (Compositae) – generic concepts and required new names",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2003",
+    "page": "229–238"
+  },
+  {
+    "author": [
+      {
+        "family": "Hasskarl",
+        "given": "C."
+      }
+    ],
+    "title": "Adnotationes de plantis quibusdam Javanicis nonnulliusque Japonicis, haud rite cognitis, e Catalogo Horti Bogoriensis excerptae. Accedunt nonnullae novae species",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Tijdschrift voor natuurlijke geschiedenis en physiologie",
+    "issued": "1843",
+    "page": "115–150"
+  },
+  {
+    "author": [
+      {
+        "family": "Heer",
+        "given": "O."
+      },
+      {
+        "family": "H",
+        "given": "F."
+      }
+    ],
+    "title": "Flora Fossilis Alaskana / Fossile Flora von Alaska",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Kungliga Svenska Vetenskaps-Akademiens Handlingar",
+    "issue": "4",
+    "issued": "1869",
+    "page": "1–41 ,"
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.N.I."
+      }
+    ],
+    "title": "continuously updated) The International Plant Names Index",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.ipni.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": "article-journal",
+    "container-title": "Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Prud’Homme Van Reine",
+        "given": "W.F."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code) adopted by the Eighteenth International Botanical Congress Melbourne",
+    "note": "Regnum Vegetabile 154].",
+    "publisher": "Gantner, Ruggell",
+    "type": null,
+    "issued": "2012",
+    "page": "240",
+    "publisher-place": "Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Malý",
+        "given": "K.F.J."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der illyrischen Flora. (Adatok az illyrikos Flora ismeretéhez",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Magyar Botanikai Lapok - Ungarische Botanische Blätter",
+    "issued": "1908",
+    "page": "203–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitranović",
+        "given": "D."
+      }
+    ],
+    "title": "Pančićev život. Posebna izdanja SANU, Odeljenje prirodno–matematičkih nauka",
+    "type": null,
+    "issued": "1964",
+    "page": "181",
+    "publisher-place": "Beograd"
+  },
+  {
+    "author": [
+      {
+        "family": "Nyman",
+        "given": "C.F."
+      }
+    ],
+    "title": "Conspectus Floræ Europææ, seu enumeratio methodica plantarum phanerogamarum Euopæ indigenarum, indicatio distributionis geogrphicæ singularum etc",
+    "volume": "Örebro",
+    "type": "article-journal",
+    "container-title": "Officinæ Bohlinianæ",
+    "issued": "1878",
+    "page": "858",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.10533",
+    "DOI": "10.5962/bhl.title.10533"
+  },
+  {
+    "author": [
+      {
+        "family": "Pančić",
+        "given": "J."
+      }
+    ],
+    "title": "Verzeichniss der in Serbien wildwachsenden Phanerogamen, nebst den Diagnosen einiger neuer Arten",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Verhandlungen des Zoologisch-botanischen Vereins in Wien",
+    "issued": "1856",
+    "page": "475–598",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.9881",
+    "DOI": "10.5962/bhl.title.9881"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F."
+      }
+    ],
+    "title": "Monographie der Gattung Acer. Botanische Jahrbücher für Systematik",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte un Pflanzengeographie",
+    "issued": "1886",
+    "page": "177–263"
+  },
+  {
+    "author": [
+      {
+        "family": "Perović",
+        "given": "M."
+      }
+    ],
+    "title": "Morphometric characteristics of the leaves of Greek maple (Acer heldreichii Orph.) in central Serbia",
+    "volume": "96",
+    "type": "article-journal",
+    "container-title": "Glasnik Sumarskog fakulteta",
+    "issued": "2007",
+    "page": "69–82"
+  },
+  {
+    "title": "The International Plant Names Index",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.ipni.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated) Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2014",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Tutin",
+        "given": "T.G."
+      },
+      {
+        "family": "Heywood",
+        "given": "V.H."
+      },
+      {
+        "family": "Burges",
+        "given": "N.A."
+      },
+      {
+        "family": "Moore",
+        "given": "D.M."
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      },
+      {
+        "family": "Ball",
+        "given": "P.W."
+      },
+      {
+        "family": "Chater",
+        "given": "A.O."
+      },
+      {
+        "family": "Ferguson",
+        "given": "I.K."
+      }
+    ],
+    "title": "Flora Europaea 2",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "1968",
+    "page": "455"
+  },
+  {
+    "author": [
+      {
+        "family": "Visiani",
+        "given": "R.de"
+      }
+    ],
+    "title": "Semina in horto botanico Patavino lecta anno 1857",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Praem. Don. Typ. et Lith. P. Prosperini, Patavii",
+    "issued": "1858",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Visiani",
+        "given": "R.de"
+      }
+    ],
+    "title": "Ad catalogum seminum in horto botanico Patavino lectorum anno 1857 supplementum anni 1858",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Praem. Don. Typ. et Lith. P. Prosperini, Patavii",
+    "issued": "1859",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Visiani",
+        "given": "R.de"
+      },
+      {
+        "family": "Visiani",
+        "given": "E.Prof Roberto",
+        "particle": "de"
+      }
+    ],
+    "title": "Plantarum serbicarum pemptas ossia descrizione di cinque piante serbiane illustrate dal M",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Lettere ed Arti",
+    "issued": "1860",
+    "page": "165–175"
+  },
+  {
+    "author": [
+      {
+        "family": "Visiani",
+        "given": "R.de"
+      },
+      {
+        "family": "Pančić",
+        "given": "J."
+      }
+    ],
+    "title": "Plantae serbicae rariores aut novae – Decas I. Memorie del Reale Istituto Veneto di Scienze",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Lettere ed Arti",
+    "issued": "1862",
+    "page": "425–450"
+  },
+  {
+    "author": [
+      {
+        "family": "Visiani",
+        "given": "R.de"
+      },
+      {
+        "family": "Pančić",
+        "given": "J."
+      }
+    ],
+    "title": "Plantae serbicae rariores aut novae – Decas II. Memorie del Reale Istituto Veneto di Scienze",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Lettere ed Arti",
+    "issued": "1865",
+    "page": "461–478"
+  },
+  {
+    "author": [
+      {
+        "family": "Visiani",
+        "given": "R.de"
+      },
+      {
+        "family": "Pančić",
+        "given": "J."
+      }
+    ],
+    "title": "Plantae serbicae rariores aut novae – Decas III. Memorie del Reale Istituto Veneto di Scienze",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Lettere ed Arti",
+    "issued": "1870",
+    "page": "1–21"
+  },
+  {
+    "author": [
+      {
+        "literal": "Vukojičić, S., Lakušić, D., Jovanović, S., Marin, P.D., Tomović, G., Sabovljević, M., Šinžar-Sekulić, J., Veljić, M., Cvijan, M., Blaženčić, J. & Stevanović, V."
+      }
+    ],
+    "title": "University of Belgrade Herbarium treasury of data and challenges for future research. On the occasion of the 150th anniversary of the University of Belgrade Herbarium (1860–2010",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Botanica Serbica",
+    "issued": "2011",
+    "page": "163–178"
+  },
+  {
+    "author": [
+      {
+        "family": "Z.Y.",
+        "given": "Wu"
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "title": "Flora of China, Text Volume 11, Oxalidaceae through Aceraceae",
+    "publisher": "Missouri Botanical Garden Press",
+    "type": "book",
+    "issued": "2008",
+    "page": "622"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "T."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Zhou",
+        "given": "Z."
+      }
+    ],
+    "title": "Three new species of Acer from Medong, SE Tibet",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Acta botanica Yunnanica",
+    "issued": "1997",
+    "page": "29–32"
+  }
+]

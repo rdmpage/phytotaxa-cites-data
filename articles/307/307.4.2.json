@@ -1,0 +1,594 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blatter",
+        "given": "E."
+      },
+      {
+        "family": "McCann",
+        "given": "C."
+      }
+    ],
+    "title": "The Bombay Grasses",
+    "genre": "[Scientific Monograph 5]",
+    "publisher": "Imperial Council of Agricultural Research, Manager of Publications, Delhi",
+    "type": null,
+    "issued": "1935",
+    "page": "324"
+  },
+  {
+    "author": [
+      {
+        "family": "Bor",
+        "given": "N.L."
+      }
+    ],
+    "title": "Bhidea Stapf, A New Genus of Indian Grasses",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "3",
+    "issued": "1949",
+    "page": "445–447",
+    "URL": "https://doi.org/10.2307/4108847",
+    "DOI": "10.2307/4108847"
+  },
+  {
+    "author": [
+      {
+        "family": "Bor",
+        "given": "N.L."
+      }
+    ],
+    "title": "The Grasses of Burma, Ceylon, India & Pakistan (excluding Bambuseae",
+    "publisher": "Pergamon Press",
+    "type": "book",
+    "issued": "1960",
+    "page": "767",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Camus",
+        "given": "A."
+      }
+    ],
+    "title": "Chrysopogon orientalis",
+    "editor": [
+      {
+        "family": "Lecomte",
+        "given": "M.H."
+      }
+    ],
+    "container-title": "Flore Generale de",
+    "volume": null,
+    "note": "Available from:",
+    "issue": "ine 7",
+    "type": "article-journal",
+    "issued": "1922",
+    "page": "332",
+    "URL": "http://www.biodiversitylibrary.org/item/98336#page/354/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Chiovenda",
+        "given": "E."
+      }
+    ],
+    "title": "Chrysopogon fulvus",
+    "volume": "1",
+    "publisher": "Sindicato Italiano Arti Grafiche",
+    "type": "article-journal",
+    "container-title": "Flora Somala",
+    "issued": "1929",
+    "page": "436",
+    "publisher-place": "Roma, xvi"
+  },
+  {
+    "author": [
+      {
+        "family": "Clayton",
+        "given": "W.D."
+      },
+      {
+        "family": "Vorontsova",
+        "given": "M.S."
+      },
+      {
+        "family": "Harman",
+        "given": "K.T."
+      },
+      {
+        "family": "Williamson",
+        "given": "H."
+      }
+    ],
+    "title": "GrassBase - The Online World Grass Flora",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2006",
+    "URL": "http://www.kew.org/data/grasses-db.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Fischer",
+        "given": "C.E.C."
+      }
+    ],
+    "title": "Chrysopogon hackelii",
+    "editor": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      },
+      {
+        "family": "Fischer",
+        "given": "C.E.C."
+      }
+    ],
+    "container-title": "Flora of the Presidency of Madras",
+    "volume": "3",
+    "publisher": "Adlard & Son Ltd",
+    "type": "chapter",
+    "issued": "1934",
+    "page": "1347–2017",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Henrard",
+        "given": "J.T."
+      }
+    ],
+    "title": "Notes on the nomenclature of some grasses",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1941",
+    "page": "496–538"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Flora of British India",
+    "volume": "7",
+    "publisher": "L. Reeve & Co., London",
+    "type": "book",
+    "issued": "1896",
+    "page": "842"
+  },
+  {
+    "author": [
+      {
+        "family": "Houttuyn",
+        "given": "M."
+      }
+    ],
+    "title": "Phleum indicum. In: Natuurlijke Historie of uitvoerige beschrijving der dieren, planten en mineraalen, volgens het samenstel van den Heer Linnaeus",
+    "publisher": "De Erven van F. Houttuyn, Amsterdam",
+    "type": "book",
+    "issued": "1782",
+    "page": "616"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK, iv"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11. Prepared by the Standards and Petitions Subcommittee",
+    "note": "accessed 17 August 2015",
+    "type": "article-journal",
+    "container-title": "Availabla from",
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Phalaris zizanioides",
+    "container-title": "Mantissa plantarum Altera. Laurentii Salvii",
+    "volume": null,
+    "note": "Available from:",
+    "issue": "olmiae, vi+588",
+    "type": "article-journal",
+    "issued": "1771",
+    "page": null,
+    "URL": "http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=947&Pagina=190"
+  },
+  {
+    "author": [
+      {
+        "family": "Madhusoodanan",
+        "given": "P.V."
+      },
+      {
+        "family": "Singh",
+        "given": "N.P."
+      }
+    ],
+    "title": "A New Species of Lepidagathis (Acanthaceae) from South India",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "2",
+    "issued": "1992",
+    "page": "301–303",
+    "URL": "https://doi.org/10.2307/4110674",
+    "DOI": "10.2307/4110674"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "A critical consideration of Houttuyn’s new genera and new species of plants, 1773–1783",
+    "volume": "19",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Journal of Arnold Arboretum",
+    "issued": "1938",
+    "page": "291–375",
+    "URL": "http://www.biodiversitylibrary.org/item/33595#page/303/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Nash",
+        "given": "G.V."
+      }
+    ],
+    "title": "Poaceae",
+    "editor": [
+      {
+        "family": "Small",
+        "given": "J.K."
+      }
+    ],
+    "container-title": "Flora of the Southeastern United States",
+    "type": "chapter",
+    "issued": "1903",
+    "page": "48–161",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "K."
+      }
+    ],
+    "title": "Reliquiae Haenkeanae, 1 (4–5",
+    "volume": "356",
+    "type": "article-journal",
+    "container-title": "J. G. Calvae, Pragae",
+    "issued": "1830",
+    "page": ", 48"
+  },
+  {
+    "author": [
+      {
+        "family": "Raju",
+        "given": "V.S."
+      }
+    ],
+    "title": "A New Name for an Indian Euphorbia",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "3",
+    "issued": "1985",
+    "page": "519–520",
+    "URL": "https://doi.org/10.2307/1221231",
+    "DOI": "10.2307/1221231"
+  },
+  {
+    "author": [
+      {
+        "family": "Ravi",
+        "given": "N."
+      },
+      {
+        "family": "Mohanan",
+        "given": "N."
+      },
+      {
+        "family": "Kiran Raj",
+        "given": "M.S."
+      }
+    ],
+    "title": "Three new species of Poaceae from South India",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Rheedea",
+    "issue": "2",
+    "issued": "2001",
+    "page": "87–96"
+  },
+  {
+    "author": [
+      {
+        "family": "Ravi",
+        "given": "N."
+      },
+      {
+        "family": "Mohanan",
+        "given": "N."
+      },
+      {
+        "family": "Kiran Raj",
+        "given": "M.S."
+      },
+      {
+        "family": "Shaju",
+        "given": "T."
+      },
+      {
+        "family": "Rajesh",
+        "given": "R."
+      }
+    ],
+    "title": "Two new species of Poaceae from Kerala, India",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Rheedea",
+    "issue": "2",
+    "issued": "2000",
+    "page": "91–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      },
+      {
+        "family": "Crusium",
+        "given": "Siegfried Lebrecht"
+      }
+    ],
+    "title": "Andropogon aciculatum",
+    "container-title": "Observationes Botanicae",
+    "volume": "vi +",
+    "note": "+ 3 tabs. Available from:",
+    "type": "article-journal",
+    "issue": "5",
+    "issued": "1788",
+    "page": "32",
+    "URL": "http://www.biodiversitylibrary.org/item/44248#page/203/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Roberty",
+        "given": "G."
+      }
+    ],
+    "title": "Les régions naturelles de l′ Afrique tropicale occidentale",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Institut Francais d’Afrique noire. Série A, Sciences naturelles",
+    "issue": "1",
+    "issued": "1960",
+    "page": "95–136"
+  },
+  {
+    "author": [
+      {
+        "family": "Sasidharan",
+        "given": "N."
+      }
+    ],
+    "title": "Flowering Plants of Kerala: CD-ROM ver.2.0",
+    "publisher": "Kerala Forest Research Institute",
+    "type": "book",
+    "issued": "2013",
+    "publisher-place": "Peechi, Kerala"
+  },
+  {
+    "author": [
+      {
+        "family": "Small",
+        "given": "J.K."
+      }
+    ],
+    "title": "Flora of the Southeastern United States",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1903",
+    "page": null,
+    "publisher-place": "New York",
+    "URL": "http://www.biodiversitylibrary.org/item/3397#page/1/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "K."
+      }
+    ],
+    "title": "Plantarum minus cognitarum pugillus",
+    "volume": "2",
+    "editor": [
+      {
+        "family": "Kummelium",
+        "given": "C.A."
+      },
+      {
+        "given": "Halae"
+      }
+    ],
+    "type": null,
+    "issued": "1815",
+    "page": "96"
+  },
+  {
+    "author": [
+      {
+        "family": "Sreekumar",
+        "given": "P.V."
+      },
+      {
+        "family": "Nair",
+        "given": "V.J."
+      },
+      {
+        "family": "Nair",
+        "given": "N.C."
+      }
+    ],
+    "title": "Chrysopogon tadulingamii – A new species of Poaceae from Kerala, India",
+    "volume": "80",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Journal of the Bombay Natural History Society",
+    "issue": "1",
+    "issued": "1983",
+    "page": "198–200",
+    "URL": "http://www.biodiversitylibrary.org/item/191541#page/218/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G."
+      }
+    ],
+    "title": "Chrysopogon verticillatus",
+    "editor": [
+      {
+        "literal": "In: Nomenclator Botanicus. Editio secunda, Pars 1. J .G. Cottae, Stuttgardtiae et Tubingae"
+      }
+    ],
+    "note": "Available from:",
+    "type": null,
+    "issued": "1840",
+    "page": "810",
+    "URL": "http://www.biodiversitylibrary.org/item/11567#page/3/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Swapna",
+        "given": "M.M."
+      },
+      {
+        "family": "Rajesh",
+        "given": "K.P."
+      },
+      {
+        "family": "Manju",
+        "given": "C.N."
+      },
+      {
+        "family": "Prakashkumar",
+        "given": "R."
+      }
+    ],
+    "title": "Eriocaulon madayiparense (Eriocaulaceae) – A new species from the foot hills of the Western Ghats of India",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2012",
+    "page": "19–23",
+    "URL": "https://doi.org/10.3897/phytokeys.10.2297",
+    "DOI": "10.3897/phytokeys.10.2297"
+  },
+  {
+    "author": [
+      {
+        "family": "Thoiba",
+        "given": "K."
+      },
+      {
+        "family": "Pradeep",
+        "given": "A.K."
+      }
+    ],
+    "title": "Chrysopogon festucoides (Poaceae): A new record for South India",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Rheedea",
+    "issue": "1",
+    "issued": "2014",
+    "page": "56–59"
+  },
+  {
+    "author": [
+      {
+        "family": "Trinius",
+        "given": "C.B."
+      }
+    ],
+    "title": "Fundamenta Agrostographiae",
+    "publisher": "J.G. Heubner, Viennae",
+    "type": "book",
+    "issued": "1820",
+    "page": "214"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldkamp",
+        "given": "J.F."
+      }
+    ],
+    "title": "A revision of Chrysopogon Trin. including Vetiveria Bory (Poaceae) in Thailand and Malesia with notes on some other species from Africa and Australia",
+    "volume": "5",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Austrobaileya",
+    "issue": "3",
+    "issued": "1999",
+    "page": "503–533",
+    "URL": "http://www.jstor.org/stable/41738927"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldkamp",
+        "given": "J.F."
+      },
+      {
+        "family": "Salunkhe",
+        "given": "C.B."
+      }
+    ],
+    "title": "Chrysopogon castaneus (Poaceae-Andropogoneae), a new species from Maharashtra, India",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Rheedea",
+    "issue": "1",
+    "issued": "2000",
+    "page": "59–61"
+  }
+]

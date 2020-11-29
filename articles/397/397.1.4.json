@@ -1,0 +1,756 @@
+[
+  {
+    "author": [
+      {
+        "literal": "APG [Angiosperm Phylogeny Group] III"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2009",
+    "page": "105–121",
+    "URL": "https://doi.org/10.1111/j.1095-8339.2009.00996.x",
+    "DOI": "10.1111/j.1095-8339.2009.00996.x"
+  },
+  {
+    "author": [
+      {
+        "literal": "APG [Angiosperm Phylogeny Group] IV"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV",
+    "volume": "181",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2016",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1111/boj.12385",
+    "DOI": "10.1111/boj.12385"
+  },
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H."
+      }
+    ],
+    "title": "Sur le nouveau genre Sphenostemon",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Bulletin mensuel de la Société linnéenne de Paris",
+    "issued": "1875",
+    "page": "53–54"
+  },
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H."
+      }
+    ],
+    "title": "Sur un nouveau genre de Saxifragacées",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1879",
+    "page": "337–342"
+  },
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H."
+      }
+    ],
+    "title": "Sur un nouveau type de Saxifragacées à ovules définis",
+    "container-title": "Association française pour l’avancement des sciences. Compte-rendu de la 7° session",
+    "type": "chapter",
+    "issued": "1879",
+    "page": "694–697",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indië 13",
+    "publisher": "ter Lands Drukkerij",
+    "type": "book",
+    "issued": "1825",
+    "publisher-place": "Batavia"
+  },
+  {
+    "author": [
+      {
+        "family": "Bremer",
+        "given": "B."
+      },
+      {
+        "family": "Bremer",
+        "given": "K."
+      },
+      {
+        "family": "Heidari",
+        "given": "N."
+      },
+      {
+        "family": "Erixon",
+        "given": "P."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      },
+      {
+        "family": "Anderberg",
+        "given": "A.A."
+      },
+      {
+        "family": "Källersjö",
+        "given": "M."
+      },
+      {
+        "family": "Barkhordarian",
+        "given": "E."
+      }
+    ],
+    "title": "Phylogenetics of asterids based on 3 coding and 3 non-coding chloroplast DNA markers and the utility of non-coding DNA at higher taxonomic levels",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2002",
+    "page": "274–301",
+    "URL": "https://doi.org/10.1016/S1055-7903(02)00240-3",
+    "DOI": "10.1016/S1055-7903(02)00240-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.de"
+      }
+    ],
+    "title": "Quintinia",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "publisher": "Treuttel et Würtz",
+    "type": "book",
+    "issued": "1830",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Délias",
+        "given": "J."
+      }
+    ],
+    "title": "La Quintinie, jardinier du roi Louis XIV",
+    "note": "Editions Transmettre.",
+    "type": null,
+    "issued": "2015"
+  },
+  {
+    "author": [
+      {
+        "family": "Dickison",
+        "given": "W.C."
+      },
+      {
+        "family": "Lundberg",
+        "given": "J."
+      }
+    ],
+    "title": "Paracryphiaceae",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants",
+    "publisher": "Springer International Publishing",
+    "type": "chapter",
+    "issued": "2016",
+    "page": "281–285",
+    "publisher-place": "Switzerland",
+    "URL": "https://doi.org/10.1007/978-3-319-28534-4_26",
+    "DOI": "10.1007/978-3-319-28534-4_26"
+  },
+  {
+    "author": [
+      {
+        "family": "Dunn",
+        "given": "D.E."
+      }
+    ],
+    "title": "New perspectives on biogeochemical exploration",
+    "editor": [
+      {
+        "family": "Milkereit",
+        "given": "B."
+      }
+    ],
+    "container-title": "Fifth Decennial International Conference on Mineral Exploration. Toronto",
+    "type": "paper-conference",
+    "issued": "2007",
+    "page": "249–261"
+  },
+  {
+    "author": [
+      {
+        "family": "Ent",
+        "given": "A.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Baker",
+        "given": "A.J.M."
+      },
+      {
+        "family": "Reeves",
+        "given": "R.D."
+      },
+      {
+        "family": "Pollard",
+        "given": "A.J."
+      },
+      {
+        "family": "Schat",
+        "given": "H."
+      }
+    ],
+    "title": "Hyperaccumulators of metal and metalloid trace elements: facts and fiction",
+    "volume": "362",
+    "type": "article-journal",
+    "container-title": "Plant and Soil",
+    "issued": "2013",
+    "page": "319–334",
+    "URL": "https://doi.org/10.1007/s11104-012-1287-3",
+    "DOI": "10.1007/s11104-012-1287-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Faucon",
+        "given": "M.-P."
+      },
+      {
+        "family": "Shutcha",
+        "given": "M.N."
+      },
+      {
+        "family": "Meerts",
+        "given": "P."
+      }
+    ],
+    "title": "Revisiting copper and cobalt concentrations in supposed hyperaccumulators from SC Africa: influence of washing and metal concentrations in soil",
+    "volume": "301",
+    "type": "article-journal",
+    "container-title": "Plant and Soil",
+    "issued": "2007",
+    "page": "29–36",
+    "URL": "https://doi.org/10.1007/s11104-007-9405-3",
+    "DOI": "10.1007/s11104-007-9405-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Forster",
+        "given": "J.R."
+      },
+      {
+        "family": "Forster",
+        "given": "G."
+      }
+    ],
+    "title": "Characteris Generum Plantarum",
+    "editor": [
+      {
+        "family": "White",
+        "given": "B."
+      },
+      {
+        "family": "Cadell",
+        "given": "T."
+      },
+      {
+        "family": "Elmsly",
+        "given": "P."
+      }
+    ],
+    "type": null,
+    "issued": "1776",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Friis",
+        "given": "E.M."
+      }
+    ],
+    "title": "Silvianthemum suecicum gen. et sp. nov., a new saxifragalean flower from the Late Cretaceous of Sweden",
+    "publisher": "Royal Danish Academy of Sciences and Letters",
+    "type": "book",
+    "issued": "1990",
+    "publisher-place": "Copenhagen"
+  },
+  {
+    "author": [
+      {
+        "family": "Friis",
+        "given": "E.M."
+      },
+      {
+        "family": "Pedersen",
+        "given": "K.R."
+      }
+    ],
+    "title": "Bertilanthus scanicus, a new asterid flower from the late Cretaceous (late Santonian–early Campanian) of Scania, Sweden",
+    "volume": "173",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2012",
+    "page": "318–330",
+    "URL": "https://doi.org/10.1086/663973",
+    "DOI": "10.1086/663973"
+  },
+  {
+    "author": [
+      {
+        "family": "Friis",
+        "given": "E.M."
+      },
+      {
+        "family": "Pedersen",
+        "given": "K.R."
+      },
+      {
+        "family": "Endress",
+        "given": "P.K."
+      }
+    ],
+    "title": "Flora structure of extant Quintinia (Paracryphiales, Campanulids) compared with the late Cretaceous Silvianthemum and Bertilanthus",
+    "volume": "174",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2013",
+    "page": "647–664",
+    "URL": "https://doi.org/10.1086/669908",
+    "DOI": "10.1086/669908"
+  },
+  {
+    "author": [
+      {
+        "family": "Gei",
+        "given": "V."
+      },
+      {
+        "family": "Erskine",
+        "given": "P.D."
+      },
+      {
+        "family": "Harris",
+        "given": "H.H."
+      },
+      {
+        "family": "Echevarria",
+        "given": "G."
+      },
+      {
+        "family": "Mesjasz-Przybyłowicz",
+        "given": "J."
+      },
+      {
+        "family": "Barnabas",
+        "given": "A.D."
+      },
+      {
+        "family": "Przybyłowicz",
+        "given": "W.J."
+      },
+      {
+        "family": "Kopittke",
+        "given": "P.M."
+      },
+      {
+        "family": "Ent",
+        "given": "A.",
+        "particle": "van der"
+      }
+    ],
+    "title": "Tools for the discovery of hyperaccumulator plant species and understanding their ecophysiology",
+    "container-title": "Van der Ent",
+    "editor": [
+      {
+        "family": "Echevarria",
+        "given": "A."
+      },
+      {
+        "family": "G.",
+        "given": "Baker"
+      },
+      {
+        "given": "A.J.M."
+      },
+      {
+        "family": "Morel",
+        "given": "J.L."
+      }
+    ],
+    "publisher": "Springer International Publishing",
+    "type": "chapter",
+    "issued": "2018",
+    "page": "117–133",
+    "publisher-place": "Cham",
+    "URL": "https://doi.org/10.1007/978-3-319-61899-9_7",
+    "DOI": "10.1007/978-3-319-61899-9_7"
+  },
+  {
+    "author": [
+      {
+        "family": "Guillaumin",
+        "given": "A."
+      }
+    ],
+    "title": "Contribution to the flora of the New Hebrides: plants collected by S.F. Kajewski in 1928 and 1929",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1931",
+    "page": "221–264"
+  },
+  {
+    "author": [
+      {
+        "family": "Guillaumin",
+        "given": "A."
+      }
+    ],
+    "title": "Matériaux pour la flore de la Nouvelle-Calédonie. LV. - Révision des Saxifragacées",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1939",
+    "page": "275–278",
+    "URL": "https://doi.org/10.1080/00378941.1939.10834175",
+    "DOI": "10.1080/00378941.1939.10834175"
+  },
+  {
+    "author": [
+      {
+        "family": "Guillaumin",
+        "given": "A."
+      }
+    ],
+    "title": "Compendium de la flore phanérogamique des Nouvelles Hébrides",
+    "volume": "6° série 5–6",
+    "type": "article-journal",
+    "container-title": "Annales du Musée colonial de Marseille",
+    "issued": "1948",
+    "page": "5–56"
+  },
+  {
+    "author": [
+      {
+        "family": "Hutchinson",
+        "given": "J."
+      }
+    ],
+    "title": "The genera of Flowering Plants (Angiospermae) 2",
+    "publisher": "Oxford University Press",
+    "type": "book",
+    "issued": "1967",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.N.I."
+      }
+    ],
+    "note": "Published on the Internet:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://www.ipni.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaffré",
+        "given": "T."
+      }
+    ],
+    "title": "Etude écologique du peuplement végétal des sols dérivés de roches ultrabasiques en Nouvelle-Calédonie",
+    "type": null,
+    "issued": "1980",
+    "publisher-place": "ORSTOM, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaffré",
+        "given": "T."
+      },
+      {
+        "family": "Pillon",
+        "given": "Y."
+      },
+      {
+        "family": "Thomine",
+        "given": "S."
+      },
+      {
+        "family": "Merlot",
+        "given": "S."
+      }
+    ],
+    "title": "The metal hyperaccumulators from New Caledonia can broaden our understanding of nickel accumulation in plants",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Frontiers in plant science",
+    "issued": "2013",
+    "page": "279",
+    "URL": "https://doi.org/10.3389/fpls.2013.00279",
+    "DOI": "10.3389/fpls.2013.00279"
+  },
+  {
+    "author": [
+      {
+        "family": "Jordan",
+        "given": "G.J."
+      }
+    ],
+    "title": "Evidence of Pleistocene plant extinction and diversity from Regatta Point, western Tasmania, Australia",
+    "volume": "123",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1997",
+    "page": "45–71",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1997.tb01404.x",
+    "DOI": "10.1111/j.1095-8339.1997.tb01404.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Lundberg",
+        "given": "J."
+      }
+    ],
+    "title": "Phylogenetic studies in the Euasterids II with particular reference to Asterales and Escalloniaceae",
+    "publisher": "Uppsala University Library",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Uppsala"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      }
+    ],
+    "title": "Holotype specimens and type citations: general issues",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2014",
+    "page": "1112–1113",
+    "URL": "https://doi.org/10.12705/635.7",
+    "DOI": "10.12705/635.7"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "New or noteworthy Philippine plants, VIII",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "The Philippine Journal of Science C. Botany",
+    "issued": "1910",
+    "page": "167–257"
+  },
+  {
+    "author": [
+      {
+        "family": "Pillon",
+        "given": "Y."
+      }
+    ],
+    "title": "Nomenclature and typification in Polyosma (Escalloniaceae) from New Caledonia, with the description of a new species",
+    "volume": "371",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "267–272",
+    "URL": "https://doi.org/10.11646/phytotaxa.371.4.4",
+    "DOI": "10.11646/phytotaxa.371.4.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Rendle",
+        "given": "A.B."
+      },
+      {
+        "family": "Baker",
+        "given": "E.G."
+      },
+      {
+        "family": "Moore",
+        "given": "S.L.M."
+      },
+      {
+        "family": "Compton",
+        "given": "R.H."
+      },
+      {
+        "given": "M.A."
+      }
+    ],
+    "title": "A systematic account of the plants collected in New Caledonia and the Isle of Pines by Prof",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Flowering Plants (Angiosperms). Journal of the Linnean Society of London, Botany",
+    "issued": "1921",
+    "page": "245–417",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1921.tb00125.x",
+    "DOI": "10.1111/j.1095-8339.1921.tb00125.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der Flora von Neu-Kaledonien. Botanische Jahrbücher für Systematik",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1906",
+    "page": "1–274"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Die Saxifragaceae Papuasiens",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1914",
+    "page": "118–138"
+  },
+  {
+    "author": [
+      {
+        "family": "Soltis",
+        "given": "D.E."
+      },
+      {
+        "family": "Smith",
+        "given": "S.A."
+      },
+      {
+        "family": "Cellinese",
+        "given": "N."
+      },
+      {
+        "family": "Wurdack",
+        "given": "K.J."
+      },
+      {
+        "family": "Soltis",
+        "given": "P.S."
+      }
+    ],
+    "director": [
+      {
+        "family": "Latvis",
+        "given": "M."
+      },
+      {
+        "family": "Crawley",
+        "given": "S."
+      },
+      {
+        "family": "Black",
+        "given": "S."
+      },
+      {
+        "family": "Diouf",
+        "given": "D."
+      },
+      {
+        "family": "Xi",
+        "given": "Z."
+      },
+      {
+        "family": "Rushworth",
+        "given": "C.A."
+      },
+      {
+        "family": "Gitzendanner",
+        "given": "M.A."
+      },
+      {
+        "family": "Sytsma",
+        "given": "K.J."
+      },
+      {
+        "family": "Qiu",
+        "given": "Y.L."
+      }
+    ],
+    "title": "Angiosperm phylogeny: 17 genes, 640 taxa",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2011",
+    "page": "704–730",
+    "publisher-place": "Tank, D.C., Brockington, S.F., Refulio-Rodriguez, N.W.J.B., Moore, M.J., Carlsward, B.S., Bell, C.D",
+    "URL": "https://doi.org/10.3732/ajb.1000404",
+    "DOI": "10.3732/ajb.1000404"
+  },
+  {
+    "author": [
+      {
+        "family": "Tank",
+        "given": "D.C."
+      },
+      {
+        "family": "Donoghue",
+        "given": "M.J."
+      }
+    ],
+    "title": "Phylogeny and phylogenetic nomenclature of the Campanulidae based on an expanded sample of genes and taxa",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2010",
+    "page": "425–441",
+    "URL": "https://doi.org/10.1600/036364410791638306",
+    "DOI": "10.1600/036364410791638306"
+  }
+]

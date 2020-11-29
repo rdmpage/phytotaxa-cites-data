@@ -1,0 +1,394 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Florula Honkongensis",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Hooker’s Journal of Botany and Kew Garden Miscellany",
+    "issued": "1854",
+    "page": "116"
+  },
+  {
+    "author": [
+      {
+        "family": "Duchartre",
+        "given": "P."
+      }
+    ],
+    "title": "Tentamen methodicae divisionis generis Aristolochia. Annales des sciences naturelles",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Botanique sér",
+    "issued": "1854",
+    "page": "29–76"
+  },
+  {
+    "author": [
+      {
+        "family": "Duchartre",
+        "given": "P."
+      }
+    ],
+    "title": "Aristolochiaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "container-title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "15",
+    "type": "chapter",
+    "issued": "1864",
+    "page": "421–498",
+    "publisher-place": "Masson, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "González",
+        "given": "F."
+      },
+      {
+        "family": "Wagner",
+        "given": "S.T."
+      },
+      {
+        "family": "Salomo",
+        "given": "K."
+      },
+      {
+        "family": "Samain",
+        "given": "M.-S."
+      },
+      {
+        "family": "Isnard",
+        "given": "S."
+      },
+      {
+        "family": "Rowe",
+        "given": "N.K."
+      },
+      {
+        "family": "Neinhuis",
+        "given": "C."
+      },
+      {
+        "family": "Wanke",
+        "given": "S."
+      }
+    ],
+    "title": "Present trans-Pacific disjunct distribution of Aristolochia subgenus Isotrema (Aristolochiaceae) was shaped by dispersal, vicariance and extinction",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2014",
+    "page": "380–391",
+    "URL": "http://dx.doi.org/10.1111/jbi.12198.",
+    "DOI": "10.1111/jbi.12198."
+  },
+  {
+    "author": [
+      {
+        "family": "Hemsley",
+        "given": "W.B."
+      }
+    ],
+    "title": "New Chinese plants",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "The journal of botany British and foreign",
+    "issued": "1885",
+    "page": "286–287"
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "S.M."
+      },
+      {
+        "family": "Kelly",
+        "given": "L.M."
+      },
+      {
+        "family": "Gilbert",
+        "given": "M.G."
+      }
+    ],
+    "title": "Aristolochiaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Peter",
+        "given": "H.R."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "5",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "246–269",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Lace",
+        "given": "J.H."
+      }
+    ],
+    "title": "Plantarum novarum in herbario horti regii conservatarum",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Royal Gardens",
+    "issued": "1911",
+    "page": "273–274"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "J.S."
+      }
+    ],
+    "title": "A revision of Aristolochia Linn",
+    "editor": [
+      {
+        "family": "E.",
+        "particle": "from"
+      },
+      {
+        "given": "S."
+      }
+    ],
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1989",
+    "page": "321–364"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Prud’Homme Van Reine",
+        "given": "W.F."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International code of nomenclature for algae, fungi, and plants (Melbourne Code",
+    "container-title": "adopted by the eighteenth international Botanical Congress",
+    "note": "Regnum Vegetabile 154].",
+    "publisher": "Gantner, Ruggell",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "240",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      },
+      {
+        "family": "Chun",
+        "given": "W.Y."
+      }
+    ],
+    "title": "Additions to our knowledge of the Hainan flora",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Sunyatsenia",
+    "issued": "1940",
+    "page": "45–200"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Medical Flora; or, Manual of the medical botany of the United States of North America",
+    "volume": "1",
+    "publisher": "Atkinson & Alexander, Philadelphia",
+    "type": "book",
+    "issued": "1828",
+    "page": "268",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.524",
+    "DOI": "10.5962/bhl.title.524"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora Indica; or, descriptions of Indian plants",
+    "volume": "3",
+    "note": "Serampore: printed for W. Thacker and Co.",
+    "publisher": "Calcutta, and Parbury, Allen and Co. London",
+    "type": null,
+    "issued": "1832",
+    "page": "875"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "S.T."
+      },
+      {
+        "family": "Isnard",
+        "given": "S."
+      },
+      {
+        "family": "Rowe",
+        "given": "N.P."
+      },
+      {
+        "family": "Samain",
+        "given": "M.-S."
+      },
+      {
+        "family": "Neinhuis",
+        "given": "C."
+      },
+      {
+        "family": "Wanke",
+        "given": "S."
+      }
+    ],
+    "title": "Escaping the lianoid habit: Evolution of shrub-like growth forms in Aristolochia subgenus Isotrema (Aristolochiaceae",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2012",
+    "page": "1609–1629",
+    "URL": "http://dx.doi.org/10.3732/ajb.1200244",
+    "DOI": "10.3732/ajb.1200244"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "S.T."
+      },
+      {
+        "family": "Hesse",
+        "given": "L."
+      },
+      {
+        "family": "Isnard",
+        "given": "S."
+      },
+      {
+        "family": "Samain",
+        "given": "M.-S."
+      },
+      {
+        "family": "Bolin",
+        "given": "J."
+      },
+      {
+        "family": "Maass",
+        "given": "E."
+      },
+      {
+        "family": "Neinhuis",
+        "given": "C."
+      },
+      {
+        "family": "Rowe",
+        "given": "N.P."
+      },
+      {
+        "family": "Wanke",
+        "given": "S."
+      }
+    ],
+    "title": "Major trends in stem anatomy and growth forms in the perianth-bearing Piperales, with special focus on Aristolochia",
+    "volume": "113",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2014",
+    "page": "1139–1154",
+    "URL": "http://dx.doi.org/10.1093/aob/mcu044",
+    "DOI": "10.1093/aob/mcu044"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "New taxa of the genus Aristolochia from Sichuan",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Journal of Wuhan Botanical Research",
+    "issued": "1988",
+    "page": "31–35"
+  }
+]

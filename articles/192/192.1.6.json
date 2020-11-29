@@ -1,0 +1,204 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "New Garden Plants: Phaedranassa schizantha",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "The Gardeners’ Chronicle and Agricultural Gazette",
+    "issued": "1880",
+    "page": "556"
+  },
+  {
+    "author": [
+      {
+        "family": "Herbert",
+        "given": "W."
+      }
+    ],
+    "title": "Phaedranassa",
+    "editor": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "publisher": "James Ridgway & Sons",
+    "type": "book",
+    "issued": "1845",
+    "page": "17, 16",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Humboldt",
+        "given": "A."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A."
+      },
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum",
+    "edition": "quarto",
+    "container-title": "1",
+    "publisher": "Librairie Grecque-Latine-Allemande",
+    "type": "chapter",
+    "issued": "1816",
+    "page": "377",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://jr.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Jørgensen",
+        "given": "P.M."
+      }
+    ],
+    "title": "Amaryllidaceae",
+    "editor": [
+      {
+        "family": "Jørgensen",
+        "given": "P.M."
+      },
+      {
+        "family": "León-Yánez",
+        "given": "S."
+      }
+    ],
+    "container-title": "Catalogue of the Vascular Plants of Ecuador. Monographs in Systematic Botany from the Missouri Botanical Garden 75",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "208–210"
+  },
+  {
+    "author": [
+      {
+        "family": "Macbride",
+        "given": "J.F."
+      }
+    ],
+    "title": "Spermatophytes, mostly Peruvian—III. Publications of the Field Museum of Natural History",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Botanical Series",
+    "issued": "1931",
+    "page": "1–36",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.2296",
+    "DOI": "10.5962/bhl.title.2296"
+  },
+  {
+    "author": [
+      {
+        "family": "Meerow",
+        "given": "A."
+      }
+    ],
+    "title": "Amaryllidaceae",
+    "editor": [
+      {
+        "family": "Harling",
+        "given": "G."
+      },
+      {
+        "family": "Andersson",
+        "given": "L."
+      }
+    ],
+    "container-title": "Flora of Ecuador 41",
+    "publisher": "University of Göteborg",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "1–52"
+  },
+  {
+    "author": [
+      {
+        "family": "Oleas",
+        "given": "N."
+      }
+    ],
+    "title": "Amaryllidaceae",
+    "editor": [
+      {
+        "family": "León-Yánez",
+        "given": "S."
+      },
+      {
+        "family": "Valencia",
+        "given": "R."
+      },
+      {
+        "family": "Pitman",
+        "given": "N."
+      },
+      {
+        "family": "L.",
+        "given": "Endara"
+      },
+      {
+        "family": "Ulloa Ulloa",
+        "given": "C."
+      },
+      {
+        "family": "Navarrete",
+        "given": "H."
+      }
+    ],
+    "container-title": "Libro Rojo de las plantas endémicas del Ecuador, 2da",
+    "publisher": "Edición. Publicaciones del Herbario QCA, Pontificia Universidad Católica del Ecuador",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "87–90",
+    "publisher-place": "Quito"
+  },
+  {
+    "author": [
+      {
+        "family": "Ravenna",
+        "given": "P.F."
+      }
+    ],
+    "title": "New species in Phaedranassa and Eucrosia (Amaryllidaceae",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1984",
+    "page": "196–198"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2014",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

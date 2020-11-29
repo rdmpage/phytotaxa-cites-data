@@ -1,0 +1,405 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "De La Torre",
+        "given": "J."
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessment with GeoCAT: geospatial conservation assessment tool",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "title": "Brazilian Flora 2020 (in construction) Jardim Botânico do Rio de Janeiro",
+    "note": "Available from:",
+    "type": null,
+    "URL": "http://floradobrasil.jbrj.gov.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Pleurothallis",
+    "editor": [
+      {
+        "family": "Aiton",
+        "given": "W.T."
+      }
+    ],
+    "edition": "2nd",
+    "type": null,
+    "issued": "1813",
+    "page": "211",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Chiron",
+        "given": "G.R."
+      },
+      {
+        "family": "Bolsanello",
+        "given": "R.X."
+      }
+    ],
+    "title": "Orchidées du Brésil - As orquídeas da Serra do Castelo (Espírito Santo",
+    "volume": "2. Tropicalia, Voreppe",
+    "type": "article-journal",
+    "container-title": "Brasil",
+    "issued": "2013",
+    "page": "416"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Notes sur les Orchidées du Brésil et dês régions voisines",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Bulletin de La Société Royale de Botanique de Belgique",
+    "issued": "1907",
+    "page": "310–311"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "E.G."
+      },
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Morfologia vegetal: organografia e dicionário ilustrado de morfologia das plantas vasculares",
+    "edition": "1st",
+    "container-title": "Instituto Plantarum de Estudos da Flora, São Paulo",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "416"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List categories and criteria",
+    "volume": "3",
+    "edition": "2nd",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "1",
+    "issued": "2001",
+    "page": "33",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN Red List of Threatened Species",
+    "genre": "Version 2017-1.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Pleurothallis hymenantha. Edwards’s Botanical Register 21: sub t",
+    "type": null,
+    "issued": "1835"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Pleurothallis articulata",
+    "container-title": "Pleurothallis miersii. Edwards’s Botanical Register 28: Misc",
+    "type": "chapter",
+    "issued": "1842",
+    "page": "83–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum (Orchidaceae). Miscellaneous species in the Pleurothallidinae. Addenda et corrigenda",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "1977",
+    "page": "203–412"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Barbrodria, a new genus in the Pleurothallidinae (Orchidaceae",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "1981",
+    "page": "386–387"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      },
+      {
+        "literal": "Icones Pleurothallidinarum XX. Systematics of Jostia, Andinia, Barbosella, Barbrodria, Pleurothallis subgen. Antilla, subgen. Effusia, subgen. Restrepioidia. Addenda to Lepanthes, Masdevallia, Platystele, Pleurothallis, Restrepiopsis"
+      }
+    ],
+    "title": "Scaphosepalum and Teagueia",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "2000",
+    "page": "7–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum XXIV: A First Century of New Species of Stelis of Ecuador, Part One. Addenda to Barbosella",
+    "director": [
+      {
+        "family": "Dracula",
+        "given": "Dresslerella"
+      },
+      {
+        "family": "Lepanthopsis",
+        "given": "Platystele"
+      },
+      {
+        "family": "Pleurothallis",
+        "given": "Restrepia"
+      },
+      {
+        "given": "Scaphosepalum"
+      }
+    ],
+    "container-title": "Teagueia, and Trichosalpinx. Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "volume": "88",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "97–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Pabst",
+        "given": "G.F.J."
+      },
+      {
+        "family": "Dungs",
+        "given": "F."
+      }
+    ],
+    "title": "Orchidaceae Brasilienses, 1",
+    "publisher": "Kurt Schmersow, Hildesheim",
+    "type": "book",
+    "issued": "1975",
+    "page": "408"
+  },
+  {
+    "author": [
+      {
+        "family": "Pabst",
+        "given": "G.F.J."
+      },
+      {
+        "family": "Dungs",
+        "given": "F."
+      }
+    ],
+    "title": "Orchidaceae Brasilienses, 2",
+    "publisher": "Kurt Schmersow, Hildesheim",
+    "type": "book",
+    "issued": "1977",
+    "page": "418"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      }
+    ],
+    "title": "Barbosella",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "container-title": "Genera Orchidacearum. 4, Epidendroideae (Part 1",
+    "publisher": "Oxford University",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "336–338",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Solano",
+        "given": "R."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetic relationships in Pleurothallidinae (Orchidaceae): combined evidence from nuclear and plastid DNA sequences",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "2286–2308",
+    "URL": "https://doi.org/10.2307/3558390",
+    "DOI": "10.2307/3558390"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruschi",
+        "given": "A."
+      }
+    ],
+    "title": "Orquidáceas novas do Estado do Espírito Santo",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "Boletim do Museu de Biologia Mello Leitão",
+    "issued": "1977",
+    "page": "1–3"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "F.R.R."
+      },
+      {
+        "literal": "XXXVI. Die Gattungen Restrepia H. B. u."
+      }
+    ],
+    "title": "Mitteilungen über einige europäische und mediterrane Orchideen I",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1918",
+    "page": "259–263"
+  },
+  {
+    "author": [
+      {
+        "family": "Stenzel",
+        "given": "H."
+      }
+    ],
+    "title": "Pollen morphology of the subtribe Pleurothallidinae Lindl",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Orchidaceae), Grana",
+    "issued": "2000",
+    "page": "108–125",
+    "URL": "https://doi.org/10.1080/001731300300045247",
+    "DOI": "10.1080/001731300300045247"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      }
+    ],
+    "title": "Botanical Latin",
+    "publisher": "Timber Press, Portland",
+    "type": "book",
+    "issued": "2004",
+    "page": "546"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

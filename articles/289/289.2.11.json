@@ -1,0 +1,233 @@
+[
+  {
+    "author": [
+      {
+        "family": "Asker",
+        "given": "S.E."
+      },
+      {
+        "family": "Jerling",
+        "given": "L."
+      }
+    ],
+    "title": "Apomixis in plants",
+    "publisher": "CRC Press",
+    "type": "book",
+    "issued": "1992",
+    "page": "298",
+    "publisher-place": "Boca Raton, Florida"
+  },
+  {
+    "author": [
+      {
+        "family": "Coldea",
+        "given": "G."
+      }
+    ],
+    "title": "Prodrome des associations végétales des Carpates du Sud-Est (Carpates Roumaines",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Documents Phytosociologiques Nouvelle Série",
+    "issued": "1991",
+    "page": "315–539"
+  },
+  {
+    "author": [
+      {
+        "family": "Heuffel",
+        "given": "J."
+      }
+    ],
+    "title": "Diagnosen neuer, oder verwechselter Pflanzen-Arten aus dem Banate",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Österreichische Botanische Zeitschrift",
+    "issued": "1858",
+    "page": "25–29",
+    "URL": "https://doi.org/10.1007/BF02161404",
+    "DOI": "10.1007/BF02161404"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": "article-journal",
+    "container-title": "L. Salvius, Holmia",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mráz",
+        "given": "P."
+      },
+      {
+        "family": "Paule",
+        "given": "J."
+      }
+    ],
+    "title": "Experimental hybridization in the genus Hieracium s.str. (Asteraceae): crosses between selected diploid taxa",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "Preslia",
+    "issued": "2006",
+    "page": "1–26"
+  },
+  {
+    "author": [
+      {
+        "family": "Mráz",
+        "given": "P."
+      },
+      {
+        "family": "Chrtek",
+        "given": "J."
+      },
+      {
+        "family": "Fehrer",
+        "given": "J."
+      }
+    ],
+    "title": "Interspecific hybridization in the genus Hieracium s. str. Evidence for bidirectional gene flow and spontaneous allopolyploidization",
+    "volume": "293",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2011",
+    "page": "237–245",
+    "URL": "https://doi.org/10.1007/s00606-011-0441-3",
+    "DOI": "10.1007/s00606-011-0441-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Musiał",
+        "given": "K."
+      },
+      {
+        "family": "Szeląg",
+        "given": "Z."
+      }
+    ],
+    "title": "Chromosome numbers in Hieracium (Asteraceae) from Central and Southeastern Europe I",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Acta Biologica Cracoviensia, Series Botanica",
+    "issue": "2",
+    "issued": "2015",
+    "page": "115–120",
+    "URL": "https://doi.org/10.1515/abcsb-2015-0020",
+    "DOI": "10.1515/abcsb-2015-0020"
+  },
+  {
+    "author": [
+      {
+        "family": "Nyárády",
+        "given": "E.I."
+      }
+    ],
+    "title": "Hieracium L",
+    "editor": [
+      {
+        "family": "Nyárády",
+        "given": "E.I."
+      }
+    ],
+    "container-title": "Flora Republicii Populare Romîne",
+    "volume": "10",
+    "type": "chapter",
+    "issued": "1965",
+    "page": "214–746"
+  },
+  {
+    "author": [
+      {
+        "family": "Pawłowski",
+        "given": "B."
+      },
+      {
+        "family": "Sokołowski",
+        "given": "M."
+      },
+      {
+        "family": "Wallisch",
+        "given": "K."
+      },
+      {
+        "literal": "VII. Teil."
+      }
+    ],
+    "title": "Die Pflanzenassoziationen des Tatra Gebirges",
+    "container-title": "Bulletin International de ľAcadémie Polonaise des Sciences et des Lettres, Classe des Sciences Mathématiques et Naturelles, Série B",
+    "type": "chapter",
+    "issued": "1928",
+    "page": "205–272"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F."
+      }
+    ],
+    "title": "Neue Pflanzenformen aus den Karpathen III",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Österreichische Botanische Zeitschrift",
+    "issued": "1901",
+    "page": "109–112",
+    "URL": "https://doi.org/10.1007/BF01672685",
+    "DOI": "10.1007/BF01672685"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F."
+      }
+    ],
+    "title": "Grundzüge der Pflanzenverbreitung in den Karpathen 2",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Drude",
+        "given": "O."
+      }
+    ],
+    "container-title": "Die Vegetation der Erde",
+    "volume": "10",
+    "publisher": "W. Engelmann",
+    "type": "chapter",
+    "issued": "1908",
+    "page": "– , 1–321",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Zahn",
+        "given": "K.H."
+      }
+    ],
+    "title": "Hieracium L",
+    "editor": [
+      {
+        "literal": "In: Graebner fil., P. (Ed."
+      }
+    ],
+    "container-title": "Synopsis der mitteleuropäischen Flora",
+    "volume": "12",
+    "issue": "3",
+    "type": "article-journal",
+    "issued": "1938",
+    "page": "708",
+    "publisher-place": "Borntraeger, Berlin"
+  }
+]

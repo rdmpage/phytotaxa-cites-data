@@ -1,0 +1,1461 @@
+[
+  {
+    "author": [
+      {
+        "family": "Akaike",
+        "given": "H."
+      }
+    ],
+    "title": "A new look at the statistical model identification",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "IEEE Transactions on Automatic Control",
+    "issued": "1974",
+    "page": "716–723"
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "P.H."
+      }
+    ],
+    "title": "Orchidaceae (part III",
+    "editor": [
+      {
+        "family": "D’Arcy",
+        "given": "G."
+      }
+    ],
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1949",
+    "page": "1–132"
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "P.H."
+      }
+    ],
+    "title": "Mormodes lineatum: a species in transition",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "American Orchid Society Bulletin",
+    "issued": "1959",
+    "page": "411–414"
+  },
+  {
+    "author": [
+      {
+        "family": "Ames",
+        "given": "O."
+      },
+      {
+        "family": "Correll",
+        "given": "D.S."
+      }
+    ],
+    "title": "Orchids of Guatemala",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Fieldiana (Botany",
+    "issued": "1952",
+    "page": "1–727"
+  },
+  {
+    "author": [
+      {
+        "family": "Barthlott",
+        "given": "W."
+      },
+      {
+        "family": "Frölich",
+        "given": "D."
+      }
+    ],
+    "title": "Mikromorphologie und Orientierungsmuster epicuticularer Wachs-Kristalloide: Ein neues systematisches Merkmal bei Monokotylen",
+    "volume": "142",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "1983",
+    "page": "171–185",
+    "URL": "http://dx.doi.org/10.1007/BF00985897",
+    "DOI": "10.1007/BF00985897"
+  },
+  {
+    "author": [
+      {
+        "family": "Cameron",
+        "given": "K.M."
+      }
+    ],
+    "title": "Molecular phylogenetics of Orchidaceae: the first decade of DNA sequencing",
+    "editor": [
+      {
+        "family": "Cameron",
+        "given": "K.M."
+      },
+      {
+        "family": "Arditti",
+        "given": "J."
+      },
+      {
+        "family": "Kull",
+        "given": "T."
+      }
+    ],
+    "container-title": "Orchid biology: reviews and perspectives, IX",
+    "publisher": "New York Botanical Garden Press",
+    "type": "article-journal",
+    "issued": "2007",
+    "page": "163 200",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "J.S",
+        "given": "Pippen"
+      }
+    ],
+    "title": "Seed morphology and phylogeny in subtribe Catasetinae (Orchidaceae",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Lindleyana",
+    "issued": "1990",
+    "page": "126–133"
+  },
+  {
+    "editor": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Hills",
+        "given": "H.G."
+      }
+    ],
+    "title": "Orchid phylogeny, flower sexuality, and fragrance-seeking",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "BioScience",
+    "issued": "1992",
+    "page": "43–49",
+    "URL": "http://dx.doi.org/10.2307/1311627",
+    "DOI": "10.2307/1311627"
+  },
+  {
+    "author": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Cameron",
+        "given": "K.M."
+      },
+      {
+        "family": "Freudenstein",
+        "given": "J.V."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      },
+      {
+        "family": "Schuiteman",
+        "given": "A."
+      }
+    ],
+    "title": "An updated classification of Orchidaceae",
+    "volume": "177",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2015",
+    "page": "151–174",
+    "URL": "http://dx.doi.org/10.1111/boj.12234",
+    "DOI": "10.1111/boj.12234"
+  },
+  {
+    "author": [
+      {
+        "family": "Correll",
+        "given": "D.S."
+      }
+    ],
+    "title": "Studies in Isochilus, Mormodes and Hexalectris",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Botanical Museum Leaflets (Harvard University",
+    "issued": "1941",
+    "page": "1–20"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C.H."
+      }
+    ],
+    "title": "Pollination and variation in the subtribe Catasetinae (Orchidaceae",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1962",
+    "page": "35–56",
+    "URL": "http://dx.doi.org/10.2307/2394740",
+    "DOI": "10.2307/2394740"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C.H."
+      }
+    ],
+    "title": "Dressleria and Clowesia: a new genus and an old one revived in the Catasetinae (Orchidaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "1975",
+    "page": "130–137"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure from small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemical Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      }
+    ],
+    "title": "Observations on orchids and euglossine bees in Panama and Costa Rica",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Revista de Biología Tropical",
+    "issued": "1968",
+    "page": "143–183"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowlie",
+        "given": "J.A."
+      }
+    ],
+    "title": "Search for orchids: a new Mormodes from the Sarapiqui district of Costa Rica",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Lasca Leaves",
+    "issued": "1964",
+    "page": "4–7"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowlie",
+        "given": "J.A."
+      }
+    ],
+    "title": "Obscure species: two peculiar species of Mormodes from Costa Rica; a new section for the genus (Klotzschia",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Orchid Digest",
+    "issued": "1965",
+    "page": "23–27"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowlie",
+        "given": "J.A."
+      }
+    ],
+    "title": "A showy new species from Mexico: Mormodes (sect",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Coryodes) sanguineoclaustrum Fowl. Orchid Digest",
+    "issued": "1970",
+    "page": "215–217"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowlie",
+        "given": "J.A."
+      }
+    ],
+    "title": "Another new species of Mormodes of the basal flowering section from Mexico: Mormodes calceolatum Fowl., sp. nov",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Orchid Digest",
+    "issued": "1972",
+    "page": "228–230"
+  },
+  {
+    "author": [
+      {
+        "family": "Garay",
+        "given": "L.A."
+      }
+    ],
+    "title": "...And the lost has been found",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "American Orchid Society Bulletin",
+    "issued": "1976",
+    "page": "297–299"
+  },
+  {
+    "author": [
+      {
+        "family": "Gregg",
+        "given": "K.B."
+      }
+    ],
+    "title": "The effects of light intensity on sex expression in species of Cycnoches and Catasetum (Orchidaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "1975",
+    "page": "101–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Hágsater",
+        "given": "E."
+      },
+      {
+        "family": "Soto",
+        "given": "M.A."
+      },
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Jiménez",
+        "given": "R."
+      },
+      {
+        "family": "López",
+        "given": "M.A."
+      },
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      }
+    ],
+    "title": "Las orquídeas de México. Revised reimpression",
+    "publisher": "Instituto Chinoín, Mexico City",
+    "type": "book",
+    "issued": "2015",
+    "page": "302"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Mormodes greenii",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine",
+    "issued": "1869",
+    "page": "5802"
+  },
+  {
+    "author": [
+      {
+        "family": "Horich",
+        "given": "C.K."
+      }
+    ],
+    "title": "The enigmatic Mormodes of Costa Rica",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Orchid Digest",
+    "issued": "1976",
+    "page": "219–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Cyclosia Kl., eine neue Orchideengatung aus der Sippe Vandeae",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Allgemeine Gartenzeitung",
+    "issued": "1838",
+    "page": "305–307"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Eine neue Art der Gattung Mormodes Lindl. aus Central Amerika",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Allgemeine Gartenzeitung",
+    "issued": "1852",
+    "page": "113–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Mormodes warszewiczii, eine neue Orchideenart aus Peru",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Allgemeine Gartenzeitung",
+    "issued": "1854",
+    "page": "65–66"
+  },
+  {
+    "author": [
+      {
+        "family": "Lemaire",
+        "given": "C."
+      }
+    ],
+    "title": "Catasetum thylaciochilum",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "L’Illustration Horticole",
+    "issued": "1856",
+    "page": "90"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "The genera and species of orchidaceous plants",
+    "publisher": "Ridgways, London",
+    "type": "book",
+    "issued": "1830",
+    "page": "553"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "An introduction to the natural system of botany",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Nicol, London",
+    "type": "book",
+    "issued": "1836",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "XLV. New Orchidaceae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Annals of Natural History",
+    "issued": "1840",
+    "page": "381–385"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "note": "Mormodes buccinator. Edward’s Botanical Register 26: Misc. 10.",
+    "type": null,
+    "issued": "1840"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "note": "Mormodes luxatum. Edward’s Botanical Register 28: Misc. 60.",
+    "type": null,
+    "issued": "1842",
+    "page": "66"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Mormodes lineatum",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Edward’s Botanical Register",
+    "issued": "1842",
+    "page": "43"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "39. Clowesia rosea",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Edward’s Botanical Register",
+    "issue": "c",
+    "issued": "1843",
+    "page": "25–26"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Systema naturae",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "10",
+    "type": null,
+    "issued": "1759",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Synopsis plantarum 1",
+    "publisher": "Levrault, Paris",
+    "type": "book",
+    "issued": "1822",
+    "page": "491"
+  },
+  {
+    "author": [
+      {
+        "family": "Kreader",
+        "given": "C.A."
+      }
+    ],
+    "title": "Relief of amplification inhibition in PCR with bovine serum albumin or T4 Gene 32 protein",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Applied and Environmental Microbiology",
+    "issued": "1996",
+    "page": "1102–1106"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "P.O."
+      }
+    ],
+    "title": "A likelihood approach to estimating phylogeny from discrete morphological character data",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2001",
+    "page": "913–925",
+    "URL": "http://dx.doi.org/10.1080/106351501753462876",
+    "DOI": "10.1080/106351501753462876"
+  },
+  {
+    "author": [
+      {
+        "family": "Maddison",
+        "given": "D.R."
+      }
+    ],
+    "title": "The discovery and importance of multiple islands of most-parsimonious trees",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Zoology",
+    "issued": "1991",
+    "page": "315–328",
+    "URL": "http://dx.doi.org/10.2307/2992325",
+    "DOI": "10.2307/2992325"
+  },
+  {
+    "author": [
+      {
+        "family": "Monnier",
+        "given": "G."
+      }
+    ],
+    "title": "Sexual polymorphism in the genus Mormodes",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Florida Orchidist",
+    "issued": "1992",
+    "page": "180–184"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      },
+      {
+        "family": "Wilgenbusch",
+        "given": "J.C."
+      },
+      {
+        "family": "Warren",
+        "given": "D.L."
+      },
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "AWTY: are we there yet? A system for graphical exploration of MCMC convergence in Bayesian phylogenetics",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2008",
+    "page": "581–583",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btm388",
+    "DOI": "10.1093/bioinformatics/btm388"
+  },
+  {
+    "author": [
+      {
+        "family": "Pabst",
+        "given": "G.F.J."
+      }
+    ],
+    "title": "The genus Mormodes in Colombia",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Orquideología",
+    "issued": "1968",
+    "page": "131–146"
+  },
+  {
+    "author": [
+      {
+        "family": "Pabst",
+        "given": "G.F.J."
+      }
+    ],
+    "title": "An illustrated key to the species of the genus Mormodes Lindley (Orchidaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "1978",
+    "page": "149–155"
+  },
+  {
+    "author": [
+      {
+        "family": "Pabst",
+        "given": "G.F.J."
+      }
+    ],
+    "title": "Clave ilustrada de las especies del género Mormodes Lindl",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Orquideología",
+    "issued": "1982",
+    "page": "171–182"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Escobar",
+        "given": "O.A."
+      },
+      {
+        "family": "Balbuena",
+        "given": "J.A."
+      },
+      {
+        "family": "Gottschling",
+        "given": "M."
+      }
+    ],
+    "title": "Rumbling orchids: how to assess divergent evolution between chloroplast endosymbionts and the nuclear host",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2015",
+    "page": "51–65",
+    "URL": "http://dx.doi.org/10.1093/sysbio/syv070",
+    "DOI": "10.1093/sysbio/syv070"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Escobar",
+        "given": "O.A."
+      },
+      {
+        "family": "Gottschling",
+        "given": "M."
+      },
+      {
+        "family": "Whitten",
+        "given": "W.M."
+      },
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Gerlach",
+        "given": "G."
+      }
+    ],
+    "title": "Sex and the Catasetinae (Darwin’s favorite orchids",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2016",
+    "page": "1–10",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2015.11.019",
+    "DOI": "10.1016/j.ympev.2015.11.019"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfitzer",
+        "given": "E."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien",
+    "volume": "2, Teil 6",
+    "type": "chapter",
+    "issued": "1889",
+    "page": "52–218"
+  },
+  {
+    "author": [
+      {
+        "family": "Pirie",
+        "given": "M.D."
+      },
+      {
+        "family": "Balcázar",
+        "given": "M.P."
+      },
+      {
+        "family": "Botermans",
+        "given": "M."
+      },
+      {
+        "family": "Bakker",
+        "given": "F.T."
+      },
+      {
+        "family": "Chatrou",
+        "given": "L."
+      }
+    ],
+    "title": "Ancient paralogy in the plastid trnL-F region in Annonaceae: implications for plant molecular systematics",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2007",
+    "page": "1003–1026",
+    "URL": "http://dx.doi.org/10.3732/ajb.94.6.1003",
+    "DOI": "10.3732/ajb.94.6.1003"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetics of subtribe Catasetinae (Orchidaceae) from nuclear and chloroplast DNA",
+    "editor": [
+      {
+        "family": "Pereira",
+        "given": "C.E.B."
+      }
+    ],
+    "container-title": "Proceedings of the 15th World Orchid Conference, Rio de Janeiro",
+    "type": "article-journal",
+    "issued": "1998",
+    "page": "275–281"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Beiträge zu einer Orchideenkunde Central-Amerika’s",
+    "publisher": "Meissner, Hamburg",
+    "type": "book",
+    "issued": "1866",
+    "page": "112"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "New plants",
+    "volume": "892",
+    "type": "article-journal",
+    "container-title": "The Gardener’s Chronicle and Agricultural Gazette",
+    "issued": "1869"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero-González",
+        "given": "G.A."
+      }
+    ],
+    "title": "Phylogenetic relationships in subtribe Catasetinae (Orchidaceae, Cymbidieae",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Lindleyana",
+    "issued": "1990",
+    "page": "160–181"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero-González",
+        "given": "G.A."
+      },
+      {
+        "family": "Nelson",
+        "given": "C.E."
+      }
+    ],
+    "title": "Sexual dimorphism in Catasetum orchids: forcible pollen emplacement and male flower competition",
+    "volume": "232",
+    "type": "article-journal",
+    "container-title": "Science",
+    "issued": "1986",
+    "page": "1538–1540",
+    "URL": "http://dx.doi.org/10.1126/science.232.4757.1538",
+    "DOI": "10.1126/science.232.4757.1538"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero-González",
+        "given": "G.A."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      }
+    ],
+    "title": "Phylogenetics (of Catasetinae",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "container-title": "Genera orchidacearum",
+    "volume": "5: Epidendroideae",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "2",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      }
+    ],
+    "title": "The identity of Mormodes atropurpurea Lindley (Orchidaceae; Catasetinae) and a new species from southern Mexico",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Orquídea (Mexico City), n.s",
+    "issued": "1992",
+    "page": "179–189"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      }
+    ],
+    "title": "Mormodes sotoana, una nueva especie previamente confundida con M",
+    "note": "ignea (Orchidaceae; Catasetinae). Orquídea (Mexico City),",
+    "volume": "n.s. 12",
+    "type": null,
+    "issued": "1992",
+    "page": "261–267"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      }
+    ],
+    "title": "Recent advances and problems in taxonomy of Mormodes",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      }
+    ],
+    "container-title": "Proceedings of the 14th World Orchid Conference",
+    "publisher": "Her Majesty’s Stationery Office",
+    "type": "paper-conference",
+    "issued": "1994",
+    "page": "100–104",
+    "publisher-place": "Glasgow"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      }
+    ],
+    "title": "Nomenclatural changes in Colombian Mormodes (Orchidaceae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Orquideología",
+    "issued": "1994",
+    "page": "20–36"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      }
+    ],
+    "title": "A review of the buccinator-like Mormodes (Orchidaceae) of Mexico",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Orchid Digest",
+    "issued": "1994",
+    "page": "38–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      }
+    ],
+    "title": "Sistemática de Mormodes sección Coryodes (Orchidaceae, Catasetinae",
+    "genre": "MsC thesis.",
+    "publisher": "Universidad Nacional Autónoma de México, Mexico City",
+    "note": "Available from:",
+    "type": "thesis",
+    "issued": "1999",
+    "page": "161",
+    "URL": "http://132.248.9.195/pd1999/269965/Index.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Hágsater",
+        "given": "E."
+      }
+    ],
+    "title": "Mormodes oestlundiana, una nueva especie de Guerrero, México",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Orquídea (Mexico City), n.s",
+    "issued": "1990",
+    "page": "65–74"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Romero-González",
+        "given": "G.A."
+      },
+      {
+        "family": "Veitch",
+        "given": "N."
+      },
+      {
+        "family": "Grayer",
+        "given": "R.J."
+      }
+    ],
+    "title": "Mormodes",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "container-title": "Genera orchidacearum",
+    "volume": "5: Epidendroideae",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "2",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Beiträge zur Orchideenkunde von Zentralamerika",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis Beih",
+    "issued": "1923",
+    "page": "1–307"
+  },
+  {
+    "author": [
+      {
+        "family": "Senghas",
+        "given": "K."
+      }
+    ],
+    "title": "Subtribus Catasetinae",
+    "editor": [
+      {
+        "family": "Brieger",
+        "given": "F.G."
+      },
+      {
+        "family": "Maatsch",
+        "given": "R."
+      },
+      {
+        "family": "Senghas",
+        "given": "K."
+      }
+    ],
+    "container-title": "Schlechter, Die Orchideen",
+    "edition": "3rd",
+    "publisher": "Parey",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "1574–1616",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Soriano",
+        "given": "A.M."
+      },
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Dávila",
+        "given": "P."
+      }
+    ],
+    "title": "Phylogenetic relationships of Zeugites (Poaceae: Centothecoideae) inferred from plastid and nuclear DNA sequences and morphology",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2007",
+    "page": "722–730",
+    "URL": "http://dx.doi.org/10.1600/036364407783390881",
+    "DOI": "10.1600/036364407783390881"
+  },
+  {
+    "author": [
+      {
+        "family": "Stern",
+        "given": "W.L."
+      },
+      {
+        "family": "Judd",
+        "given": "W.S."
+      }
+    ],
+    "title": "Comparative anatomy and systematics of Catasetinae (Orchidaceae",
+    "volume": "136",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2001",
+    "page": "153–178",
+    "URL": "http://dx.doi.org/10.1006/bojl.2000.0439",
+    "DOI": "10.1006/bojl.2000.0439"
+  },
+  {
+    "author": [
+      {
+        "family": "Sun",
+        "given": "Y."
+      },
+      {
+        "family": "Skinner",
+        "given": "D.Z."
+      },
+      {
+        "family": "Liang",
+        "given": "G.H."
+      },
+      {
+        "family": "Hulbert",
+        "given": "S.H."
+      }
+    ],
+    "title": "Phylogenetic analysis of Sorghum and related taxa using internal transcribed spacers of nuclear ribosomal DNA",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Theoretical and Applied Genetics",
+    "issued": "1994",
+    "page": "26–32",
+    "URL": "http://dx.doi.org/10.1007/BF00226978",
+    "DOI": "10.1007/BF00226978"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*. Phylogenetic analysis using parsimony (*and other methods",
+    "note": "v. 4.0a136. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://people.sc.fsu.edu/~dswofford/paup_test/"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "http://dx.doi.org/10.1007/BF00037152",
+    "DOI": "10.1007/BF00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "http://dx.doi.org/10.1016/b978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/b978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Whitten",
+        "given": "W.M."
+      },
+      {
+        "family": "Williams",
+        "given": "N.H."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Subtribal and generic relationship of Maxillarieae (Orchidaceae) with emphasis on Stanhopeinae: combined molecular evidence",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2000",
+    "page": "1842–1856",
+    "URL": "http://dx.doi.org/10.2307/2656837",
+    "DOI": "10.2307/2656837"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiens",
+        "given": "J.J."
+      }
+    ],
+    "title": "Combining data sets with different phylogenetic histories",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1998",
+    "page": "568–581",
+    "URL": "http://dx.doi.org/10.1080/106351598260581",
+    "DOI": "10.1080/106351598260581"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "L.O."
+      }
+    ],
+    "title": "The Orchidaceae of Mexico",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Ceiba",
+    "issued": "1951",
+    "page": "1–321"
+  }
+]

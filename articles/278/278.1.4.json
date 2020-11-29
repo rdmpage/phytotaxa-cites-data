@@ -1,0 +1,954 @@
+[
+  {
+    "editor": [
+      {
+        "family": "Barber",
+        "given": "H.G."
+      },
+      {
+        "family": "Haworth",
+        "given": "E.Y."
+      }
+    ],
+    "title": "A guide to the morphology of the diatom frustule",
+    "publisher": "Freshwater Biological Association, Ambleside",
+    "type": "book",
+    "issued": "1981",
+    "page": "112"
+  },
+  {
+    "author": [
+      {
+        "literal": "Blanco, S., Álvarez–Blanco, I., Cejudo–Figueiras, C., de Godos, I., Bécares, E., Muñoz, R., Guzmán, H.O., Vargas, V.A. & Soto, R."
+      }
+    ],
+    "title": "New diatom taxa from high–altitude Andean saline lakes",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2012",
+    "page": "13–27",
+    "URL": "http://dx.doi.org/10.1080/0269249X.2012.734528",
+    "DOI": "10.1080/0269249X.2012.734528"
+  },
+  {
+    "author": [
+      {
+        "family": "Bottin",
+        "given": "M."
+      },
+      {
+        "family": "Soininen",
+        "given": "J."
+      },
+      {
+        "family": "Ferrol",
+        "given": "M."
+      },
+      {
+        "family": "Tison-Rosebery",
+        "given": "J."
+      }
+    ],
+    "title": "Do spatial patterns of benthic diatom assemblages vary across regions and years?",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Freshwater Science",
+    "issued": "2014",
+    "page": "402–416",
+    "URL": "http://dx.doi.org/10.1086/675726",
+    "DOI": "10.1086/675726"
+  },
+  {
+    "author": [
+      {
+        "family": "Bramburger",
+        "given": "J."
+      },
+      {
+        "family": "Haffner",
+        "given": "G.D."
+      },
+      {
+        "family": "Hamilton",
+        "given": "P.B."
+      },
+      {
+        "family": "Finz",
+        "given": "H."
+      },
+      {
+        "family": "Hehanussa",
+        "given": "P.E."
+      }
+    ],
+    "title": "An examination of species within the genus Surirella from the Malili lakes, Sulawesi Island, Indonesia, with descriptions of 11 new taxa",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2006",
+    "page": "1–56",
+    "URL": "http://dx.doi.org/10.1080/0269249X.2006.9705650",
+    "DOI": "10.1080/0269249X.2006.9705650"
+  },
+  {
+    "author": [
+      {
+        "family": "Brébisson",
+        "given": "A.De"
+      }
+    ],
+    "title": "Considérations sur les Diatomées et essai d’une classi cation des genres et des espèces appartenant à cette famille",
+    "type": null,
+    "issued": "1838",
+    "page": "20",
+    "publisher-place": "Brée l’Ainé Imprimeur-Libraire, Falaise"
+  },
+  {
+    "volume": "230",
+    "title": "Water quality-Guidance standard for the routine sampling and pretreatment of benthic diatoms from rivers",
+    "publisher": "European Standard. CEN/TC",
+    "type": "article-journal",
+    "container-title": "CEN/TC",
+    "issued": "2002",
+    "page": "13946",
+    "publisher-place": "Brussels"
+  },
+  {
+    "author": [
+      {
+        "family": "Cocquyt",
+        "given": "C."
+      }
+    ],
+    "title": "Diatoms from the northern basin of Lake Tanganyika",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Diatomologica",
+    "issued": "1998",
+    "page": "1–274"
+  },
+  {
+    "author": [
+      {
+        "family": "Cocquyt",
+        "given": "C."
+      },
+      {
+        "family": "Jahn",
+        "given": "R."
+      }
+    ],
+    "title": "Rare Surirella taxa (Bacillariophyta) from East Africa described by Otto Müller: typifications, recombinations, new names, annotations and distributions",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2005",
+    "page": "359–371",
+    "URL": "http://dx.doi.org/10.1080/0269249X.2007.9705691",
+    "DOI": "10.1080/0269249X.2007.9705691"
+  },
+  {
+    "author": [
+      {
+        "family": "Cocquyt",
+        "given": "C."
+      },
+      {
+        "family": "Jahn",
+        "given": "R."
+      }
+    ],
+    "title": "Surirella capensis Ehrenberg ex Cocquyt et R. Jhan sp. nov., a rare and historical diatom species from South Africa",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Crytogamie, Algologie",
+    "issued": "2005",
+    "page": "149–153"
+  },
+  {
+    "author": [
+      {
+        "family": "Cocquyt",
+        "given": "C."
+      },
+      {
+        "family": "Jahn",
+        "given": "R.Surirella nyassae O.Müller"
+      },
+      {
+        "family": "O. Müller",
+        "given": "S.",
+        "particle": "malombae"
+      },
+      {
+        "family": "Cocquyt",
+        "given": "S.",
+        "particle": "chepurnovii"
+      },
+      {
+        "family": "nov",
+        "given": "R.Jahn",
+        "particle": "sp."
+      }
+    ],
+    "title": "Bacillariophyta) - typification and variability of three closely related East African diatoms",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "page": "529–548",
+    "URL": "http://dx.doi.org/10.1127/0029-5035/2007/0084-0529",
+    "DOI": "10.1127/0029-5035/2007/0084-0529"
+  },
+  {
+    "author": [
+      {
+        "family": "Cocquyt",
+        "given": "C."
+      },
+      {
+        "family": "Jahn",
+        "given": "R."
+      }
+    ],
+    "title": "Taxa related to Surirella ovalis from Tanzania, East Africa: typification of O. Müller’ s taxa and description of a new species",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Crytogamie, Algologie",
+    "issued": "2007",
+    "page": "107–116"
+  },
+  {
+    "author": [
+      {
+        "family": "Cocquyt",
+        "given": "C."
+      },
+      {
+        "family": "Jahn",
+        "given": "R."
+      }
+    ],
+    "title": "Surirella engleri O. Müller - a study of its original infraspecific types, variability and distribution",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2007",
+    "page": "1–16",
+    "URL": "http://dx.doi.org/10.1080/0269249X.2007.9705691",
+    "DOI": "10.1080/0269249X.2007.9705691"
+  },
+  {
+    "author": [
+      {
+        "family": "Dickie",
+        "given": "G."
+      }
+    ],
+    "title": "Notes on algae from the Himalayas",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Journal of Linnean Society (Botany",
+    "issued": "1882",
+    "page": "230",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1882.tb00366.x",
+    "DOI": "10.1111/j.1095-8339.1882.tb00366.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ehrenberg",
+        "given": "C.G."
+      }
+    ],
+    "title": "Novorum Generum et Specierum brevis definitio. Zusätze zu seinen letzten Mit–theilung über die mikroskopischen Lebensformen von Portugall und Spanien, Süd-Afrika, Hinter-Indien, Japan und Kurdistan, und legte die folgenden Diagnosen u.s.w",
+    "container-title": "Bericht über die zur Bekanntmachung geeigneten Verhandlungen der Königlich-Preussischen Akademie der Wissenschaften zu",
+    "type": "chapter",
+    "issued": "1845",
+    "page": "357–377",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Fourtanier",
+        "given": "E."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      }
+    ],
+    "title": "Catalogue of Diatom Names",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://research.calacademy.org/research/diatoms/names/index.asp"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "C.A."
+      },
+      {
+        "family": "Fuhrman",
+        "given": "J.A."
+      },
+      {
+        "family": "Horner-Devine",
+        "given": "M.A."
+      },
+      {
+        "family": "Martiny",
+        "given": "J.B.H."
+      }
+    ],
+    "title": "Beyond biogeographic patterns: processes shaping the microbial landscape",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Nature Reviews Microbiology",
+    "issued": "2012",
+    "page": "497–504",
+    "URL": "http://dx.doi.org/10.1038/nrmicro2795",
+    "DOI": "10.1038/nrmicro2795"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber-Pestalozzi",
+        "given": "G."
+      }
+    ],
+    "title": "Das Phytoplankton des Susswassers; Systematik und Biologie",
+    "editor": [
+      {
+        "family": "Thienemann",
+        "given": "A."
+      }
+    ],
+    "container-title": "Die Binnengewasser, 2. Teil 2",
+    "publisher": "Halfte Diatomeen. E. Schweizerbartsche Verlagsbuchhandlung",
+    "type": "chapter",
+    "issued": "1942",
+    "page": "367–549",
+    "publisher-place": "Stuttgart"
+  },
+  {
+    "author": [
+      {
+        "family": "Hustedt",
+        "given": "F."
+      }
+    ],
+    "title": "Susswasser-Diatomeen des indomalayischen Archipels und der Hawaii-Inslen",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Internationale Revue der gesamten Hydrobiologie und Hydrographie",
+    "issued": "1942",
+    "page": "1–252"
+  },
+  {
+    "author": [
+      {
+        "family": "Karthick",
+        "given": "B."
+      },
+      {
+        "family": "Hamilton",
+        "given": "P.B."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      }
+    ],
+    "title": "Taxonomy and biogeography of some Surirella Turpin (Bacillariophyceae) taxa from Peninsular India",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia, Beiheft",
+    "issued": "2012",
+    "page": "81–116"
+  },
+  {
+    "author": [
+      {
+        "family": "Krasske",
+        "given": "G."
+      }
+    ],
+    "title": "Diatomeen tropischer Moosrasen",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Svensk Botanisk Tidskrift",
+    "issued": "1948",
+    "page": "404–443"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Spaulding",
+        "given": "S.A."
+      }
+    ],
+    "title": "Freshwater diatom biogeography",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "2000",
+    "page": "223–241"
+  },
+  {
+    "author": [
+      {
+        "family": "Kützing",
+        "given": "F.T."
+      }
+    ],
+    "title": "Synopsis diatomearum oder Versuch einer systematischen Zusammenstellung der Diatomeen",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1833",
+    "page": "529–620"
+  },
+  {
+    "author": [
+      {
+        "family": "Kützing",
+        "given": "F.T."
+      }
+    ],
+    "title": "Algarum aquae dulcis germanicarum Decas XVI",
+    "editor": [
+      {
+        "family": "fil",
+        "particle": "commissis C.A. Schwetschkii et"
+      },
+      {
+        "given": "Halle"
+      }
+    ],
+    "type": null,
+    "issued": "1836",
+    "page": "1–25"
+  },
+  {
+    "author": [
+      {
+        "family": "Kützing",
+        "given": "F.T."
+      }
+    ],
+    "title": "Die Kieselschaligen bacillarien oder Diatomeen",
+    "publisher": "Nordhausen",
+    "type": "book",
+    "issued": "1844",
+    "page": "152",
+    "URL": "http://dx.doi.org/10.1080/037454809495289",
+    "DOI": "10.1080/037454809495289"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Külbs",
+        "given": "K."
+      },
+      {
+        "family": "Lauser",
+        "given": "T."
+      },
+      {
+        "family": "Nörpel-Schempp",
+        "given": "M."
+      },
+      {
+        "family": "Willman",
+        "given": "M."
+      }
+    ],
+    "title": "Diatom taxa introduced by Georg Krasske Documentation and Revision",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "1996",
+    "page": "1–358"
+  },
+  {
+    "author": [
+      {
+        "family": "Manguin",
+        "given": "E."
+      }
+    ],
+    "title": "Contribution a la connaissance des diatomées des Andes du Pérou",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Mémoires du Muséum National D’ Histoire Naturelle, Nouvelle Série, Série B, Botanique",
+    "issued": "1964",
+    "page": "41–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      }
+    ],
+    "title": "Tropical Diatoms of South America I",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "1998",
+    "page": "1–695"
+  },
+  {
+    "author": [
+      {
+        "family": "Montoya-Moreno",
+        "given": "Y."
+      },
+      {
+        "family": "Sala",
+        "given": "S."
+      },
+      {
+        "family": "Vouilloud",
+        "given": "A.A."
+      },
+      {
+        "family": "Aguirre",
+        "given": "N."
+      },
+      {
+        "family": "Plata-Díaz",
+        "given": "Y."
+      }
+    ],
+    "title": "Lista de las diatomeas de ambientes continentales de Colombia",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Biota Colombiana",
+    "issued": "2013",
+    "page": "13–78"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "O."
+      }
+    ],
+    "title": "Bacillariaceen aus dem Nyassalande un einigen benachbarten gebieten. I",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1903",
+    "page": "9–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Peragallo",
+        "given": "H."
+      },
+      {
+        "family": "Peragallo",
+        "given": "M."
+      }
+    ],
+    "title": "Diatomées marines de France et des districts maritimes voisins",
+    "publisher": "Grez-sur-Loing",
+    "type": "book",
+    "issued": "1897",
+    "page": "492",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Ross",
+        "given": "R."
+      },
+      {
+        "family": "Cox",
+        "given": "E.J."
+      },
+      {
+        "family": "Karayeva",
+        "given": "D.G."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      },
+      {
+        "family": "Paddock",
+        "given": "T.B."
+      },
+      {
+        "family": "Simonsen",
+        "given": "R."
+      },
+      {
+        "family": "Sims",
+        "given": "P.A."
+      }
+    ],
+    "title": "An emended terminology for the siliceous components of the diatom cell",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "1979",
+    "page": "513–533"
+  },
+  {
+    "author": [
+      {
+        "family": "Round",
+        "given": "F.E."
+      },
+      {
+        "family": "Crawford",
+        "given": "R.M."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "The Diatoms: Biology and morphology of the genera",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "1990",
+    "page": "747"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruck",
+        "given": "E.C."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      }
+    ],
+    "title": "Preliminary phylogeny of the Family Surirellaceae (Bacillariophyta",
+    "volume": "Berlin",
+    "type": "article-journal",
+    "container-title": "J. Cramer",
+    "issued": "2004",
+    "page": "236"
+  },
+  {
+    "author": [
+      {
+        "family": "Sala",
+        "given": "S.E."
+      },
+      {
+        "family": "Ramírez",
+        "given": "J.J."
+      }
+    ],
+    "title": "Cyclotella katiana nov. sp. (Bacillariophyceae) from La Reina Swamp, Parque Nacional Natural Los Katíos, Colombia",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2008",
+    "page": "147–157",
+    "URL": "http://dx.doi.org/10.1080/0269249X.2008.9705743",
+    "DOI": "10.1080/0269249X.2008.9705743"
+  },
+  {
+    "author": [
+      {
+        "family": "Sala",
+        "given": "S.E."
+      },
+      {
+        "family": "Ramírez",
+        "given": "J.J."
+      },
+      {
+        "family": "Vouilloud",
+        "given": "A.A."
+      },
+      {
+        "family": "Plata-Díaz",
+        "given": "Y."
+      }
+    ],
+    "title": "Surirella antioquiensis sp",
+    "editor": [
+      {
+        "given": "nov"
+      },
+      {
+        "family": "nov",
+        "given": "S.",
+        "particle": "rafaelii sp."
+      }
+    ],
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Acta Nova",
+    "issued": "2013",
+    "page": "17–35"
+  },
+  {
+    "author": [
+      {
+        "family": "Sala",
+        "given": "S.E."
+      },
+      {
+        "family": "Núñez-Avellaneda",
+        "given": "M."
+      },
+      {
+        "family": "Vouilloud",
+        "given": "A.A."
+      }
+    ],
+    "title": "Ultrastructure of the frustule of Urosolenia species from the Colombian and Peruvian Amazon: U",
+    "editor": [
+      {
+        "family": "nov.",
+        "given": "U.amazonica spec nov",
+        "particle": "delicatissima spec."
+      },
+      {
+        "family": "braunii",
+        "given": "U."
+      }
+    ],
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2008",
+    "page": "159–169",
+    "URL": "http://dx.doi.org/10.1080/0269249X.2008.9705744",
+    "DOI": "10.1080/0269249X.2008.9705744"
+  },
+  {
+    "author": [
+      {
+        "family": "Sala",
+        "given": "S.E."
+      },
+      {
+        "family": "Ramírez",
+        "given": "J.J."
+      },
+      {
+        "family": "Plata-Díaz",
+        "given": "Y."
+      }
+    ],
+    "title": "Diatoms from lentic and lotic systems in Antioquia, Chocó and Santander Departments in Colombia",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Revista de Biología Tropical",
+    "issued": "2008",
+    "page": "1159–1178",
+    "URL": "http://dx.doi.org/10.15517/rbt.v56i3.5701",
+    "DOI": "10.15517/rbt.v56i3.5701"
+  },
+  {
+    "author": [
+      {
+        "literal": "Sala, S.E., Vouilloud, A.A., Plata-Díaz, Y., Pedraza, E. & Pimienta, A."
+      }
+    ],
+    "title": "Nupela species (Naviculales, Bacillariophyceae) from Colombian lowland waters",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "N. acaciensis nov. sp. and N. catatumbensis nov. sp. Revista de Biologia Tropical",
+    "issued": "2014",
+    "page": "241–255",
+    "URL": "http://dx.doi.org/10.15517/rbt.v62i1.8363",
+    "DOI": "10.15517/rbt.v62i1.8363"
+  },
+  {
+    "author": [
+      {
+        "family": "Turpin",
+        "given": "P.J.F."
+      }
+    ],
+    "title": "Observations sur le nouveau genre Surirella",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Mémoires du Musée d’ Histoire Naturelle",
+    "issued": "1828",
+    "page": "361–368"
+  },
+  {
+    "author": [
+      {
+        "family": "Vanormelingen",
+        "given": "P."
+      },
+      {
+        "family": "Verleyen",
+        "given": "E."
+      },
+      {
+        "family": "Vyverman",
+        "given": "W."
+      }
+    ],
+    "title": "The diversity and distribution of diatoms: from cosmopolitanism to narrow endemism",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Biodiversity & Conservation",
+    "issued": "2008",
+    "page": "393–405",
+    "URL": "http://dx.doi.org/10.1007/s10531-007-9257-4",
+    "DOI": "10.1007/s10531-007-9257-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Vouilloud",
+        "given": "A.A."
+      },
+      {
+        "family": "Sala",
+        "given": "S.E."
+      },
+      {
+        "family": "Núñez-Avellaneda",
+        "given": "M."
+      },
+      {
+        "family": "Duque",
+        "given": "S.R."
+      }
+    ],
+    "title": "Diatoms from the Colombian and Peruvian Amazon: the Genera Encyonema, Encyonopsis and Gomphonema",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Revista de Biología Tropical",
+    "issued": "2010",
+    "page": "45–62",
+    "URL": "http://dx.doi.org/10.15517/rbt.v58i1.5193",
+    "DOI": "10.15517/rbt.v58i1.5193"
+  },
+  {
+    "author": [
+      {
+        "family": "Vouilloud",
+        "given": "A.A."
+      },
+      {
+        "family": "Sala",
+        "given": "S.E."
+      },
+      {
+        "family": "Núñez-Avellaneda",
+        "given": "M."
+      },
+      {
+        "family": "Montoya-Moreno",
+        "given": "Y."
+      },
+      {
+        "family": "Duque-Escobar",
+        "given": "S."
+      }
+    ],
+    "title": "Diatoms from Colombian lowland waters: the Genus Brachysira (Naviculales, Bacillariophyceae",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2014",
+    "page": "147–163",
+    "URL": "http://dx.doi.org/10.1080/0269249X.2013.866909",
+    "DOI": "10.1080/0269249X.2013.866909"
+  },
+  {
+    "author": [
+      {
+        "family": "Vyverman",
+        "given": "W."
+      }
+    ],
+    "title": "Diatoms of Papua Guinea",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Diatomologica",
+    "issued": "1991",
+    "page": "1–224"
+  },
+  {
+    "author": [
+      {
+        "family": "Vyverman",
+        "given": "W."
+      },
+      {
+        "family": "Compère",
+        "given": "P."
+      }
+    ],
+    "title": "Nupela giluwensis gen",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "& spec",
+    "issued": "1991",
+    "page": "175–179",
+    "URL": "http://dx.doi.org/10.1080/0269249X.1991.9705156",
+    "DOI": "10.1080/0269249X.1991.9705156"
+  },
+  {
+    "author": [
+      {
+        "family": "West",
+        "given": "W."
+      },
+      {
+        "family": "West",
+        "given": "G.S."
+      }
+    ],
+    "title": "Fresh-water algae from Burma including a few from Bengal and Madras",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Annals of the Royal Botanic Gardens, Calcutta",
+    "issued": "1907",
+    "page": "175–260"
+  },
+  {
+    "author": [
+      {
+        "family": "Wydrzycka",
+        "given": "U."
+      },
+      {
+        "family": "Lange–Bertalot",
+        "given": "H."
+      }
+    ],
+    "title": "Las diatomeas (Bacillariophyceae) acidófilas del río Agrio y sitios vinculados con su cuenca, Volcán Poás, Costa Rica",
+    "volume": "55–56",
+    "type": "article-journal",
+    "container-title": "Brenesia",
+    "issued": "2001",
+    "page": "1–68"
+  }
+]

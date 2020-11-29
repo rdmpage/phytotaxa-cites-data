@@ -1,0 +1,278 @@
+[
+  {
+    "author": [
+      {
+        "family": "B",
+        "given": "Balfour"
+      },
+      {
+        "family": "Burnham",
+        "given": "K.P."
+      },
+      {
+        "family": "Anderson",
+        "given": "D.R."
+      },
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      },
+      {
+        "family": "Farris",
+        "given": "J.S."
+      },
+      {
+        "family": "Kallersjo",
+        "given": "M."
+      },
+      {
+        "family": "Kluge",
+        "given": "A.G."
+      },
+      {
+        "family": "Bult",
+        "given": "C."
+      },
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      },
+      {
+        "family": "Gornall",
+        "given": "R.J."
+      },
+      {
+        "family": "Gornall",
+        "given": "R.J."
+      },
+      {
+        "family": "Gornall",
+        "given": "R.J."
+      },
+      {
+        "family": "Gornall",
+        "given": "R.J."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      },
+      {
+        "family": "Pan",
+        "given": "J.T."
+      },
+      {
+        "family": "Haworth",
+        "given": "A.H."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      },
+      {
+        "family": "Meerburgh",
+        "given": "N."
+      },
+      {
+        "family": "Muller",
+        "given": "K."
+      },
+      {
+        "family": "Muller",
+        "given": "J."
+      },
+      {
+        "family": "Quandt",
+        "given": "D."
+      },
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      },
+      {
+        "family": "Pan",
+        "given": "J.T."
+      },
+      {
+        "family": "Gornall",
+        "given": "R.J."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      },
+      {
+        "family": "Press",
+        "given": "Missouri Botanical Garden"
+      },
+      {
+        "family": "Louis",
+        "given": "St"
+      },
+      {
+        "family": "Pan",
+        "given": "J.T."
+      },
+      {
+        "family": "Sang",
+        "given": "T."
+      },
+      {
+        "family": "Crawford",
+        "given": "D.J."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T.F."
+      },
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Beck",
+        "given": "J.T."
+      },
+      {
+        "family": "Farmer",
+        "given": "S.B."
+      },
+      {
+        "family": "Liu",
+        "given": "W.S."
+      },
+      {
+        "family": "Miller",
+        "given": "J."
+      },
+      {
+        "family": "Siripun",
+        "given": "K.C."
+      },
+      {
+        "family": "Winder",
+        "given": "C.T."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E.S."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Tate",
+        "given": "J.A."
+      },
+      {
+        "family": "Simpson",
+        "given": "B.B."
+      },
+      {
+        "family": "Tkach",
+        "given": "N."
+      },
+      {
+        "family": "Röser",
+        "given": "M."
+      },
+      {
+        "family": "Miehe",
+        "given": "G."
+      },
+      {
+        "family": "Muellner-Riehl",
+        "given": "A.N."
+      },
+      {
+        "family": "Ebersbach",
+        "given": "J."
+      },
+      {
+        "family": "Favre",
+        "given": "A."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "M.H."
+      },
+      {
+        "family": "Wang",
+        "given": "G.F."
+      },
+      {
+        "family": "Ye",
+        "given": "Y.S."
+      },
+      {
+        "family": "Xing",
+        "given": "F.W."
+      }
+    ],
+    "container-title": "Transactions of the Botanical Society",
+    "volume": "27",
+    "editor": [
+      {
+        "family": "Edinburgh",
+        "given": "Botanical Society",
+        "particle": "of"
+      },
+      {
+        "family": "Mair",
+        "given": "Johannes",
+        "particle": "le"
+      },
+      {
+        "family": "Leyden",
+        "given": "Te"
+      },
+      {
+        "literal": "Eds."
+      },
+      {
+        "family": "Innis",
+        "given": "M."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "title": "Model Selection and Multimodel Inference: a Practical Information-theoretic Approach",
+    "edition": "Second",
+    "publisher": "Springer-Verlag",
+    "note": "Available from:",
+    "type": "article-journal",
+    "issue": "olm",
+    "issued": "1916",
+    "page": "74",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  }
+]

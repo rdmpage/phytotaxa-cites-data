@@ -1,0 +1,208 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cribb",
+        "given": "P."
+      },
+      {
+        "family": "Govaerts",
+        "given": "R."
+      }
+    ],
+    "title": "Just how many orchids are there?",
+    "editor": [
+      {
+        "family": "Raynal-Roques",
+        "given": "A."
+      },
+      {
+        "family": "Roguenant",
+        "given": "A."
+      },
+      {
+        "family": "Prat",
+        "given": "D."
+      }
+    ],
+    "container-title": "Proceedings of the 18th world orchid conference",
+    "publisher": "Naturalia Publications, Turriers",
+    "type": "paper-conference",
+    "issued": "2005",
+    "page": "161–172"
+  },
+  {
+    "author": [
+      {
+        "family": "Downie",
+        "given": "D.G."
+      }
+    ],
+    "title": "Contributions to the Flora of Siam. Additamentum XVI",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1925",
+    "page": "373",
+    "URL": "https://doi.org/10.2307/4107477",
+    "DOI": "10.2307/4107477"
+  },
+  {
+    "author": [
+      {
+        "family": "Garay",
+        "given": "L.A."
+      },
+      {
+        "family": "Sweet",
+        "given": "H.R."
+      }
+    ],
+    "title": "Orchids of Southern Ryukyu Islands",
+    "publisher": "Harvard University Cambridge",
+    "type": "book",
+    "issued": "1974",
+    "publisher-place": "Massachusetts, U.S.A"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List categories and criteria. Version 12. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Dendrobium",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register",
+    "issued": "1844",
+    "page": "55"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearce",
+        "given": "N.R."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "The Orchids of Bhutan",
+    "publisher": "Charlesworth Group, Hudders-field",
+    "type": "book",
+    "issued": "2002"
+  },
+  {
+    "author": [
+      {
+        "family": "Santisuk",
+        "given": "T."
+      },
+      {
+        "family": "Chayamarit",
+        "given": "K."
+      },
+      {
+        "family": "Pooma",
+        "given": "P."
+      },
+      {
+        "family": "Suddee",
+        "given": "S."
+      }
+    ],
+    "title": "Thailand Red Data: Plants",
+    "container-title": "Office of Natural Resources and Environmental Policy and Planning (ONEP",
+    "type": "chapter",
+    "issued": "2006",
+    "publisher-place": "Thailand"
+  },
+  {
+    "author": [
+      {
+        "family": "Seidenfaden",
+        "given": "G."
+      }
+    ],
+    "title": "Orchid genera in Thailand XII",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Dendrobium Sw. Opera Botanica",
+    "issued": "1985",
+    "page": "1–296"
+  },
+  {
+    "author": [
+      {
+        "family": "Seidenfaden",
+        "given": "G."
+      }
+    ],
+    "title": "Contributions to the orchids flora of Thailand XII",
+    "volume": "124",
+    "type": "article-journal",
+    "container-title": "Opera Botanica",
+    "issued": "1995",
+    "page": "31–33"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Dianome epidendri generis Linn",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Nova Acta regiae Societatis Scientiarum upsaliensis",
+    "issued": "1799",
+    "page": "61–88"
+  },
+  {
+    "author": [
+      {
+        "family": "Thaithong",
+        "given": "O."
+      }
+    ],
+    "title": "Orchids of Thailand",
+    "publisher": "Office of Environmental Policy and Planing",
+    "type": "book",
+    "issued": "1999",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "H.P."
+      }
+    ],
+    "title": "The dendrobiums",
+    "publisher": "Gantner",
+    "type": "book",
+    "issued": "2006",
+    "page": "1–847",
+    "publisher-place": "Liechtenstein"
+  }
+]

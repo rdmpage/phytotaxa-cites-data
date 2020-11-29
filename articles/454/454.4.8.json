@@ -1,0 +1,83 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brotherus",
+        "given": "V.F."
+      }
+    ],
+    "title": "Hawaiian mosses",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Bernice P. Bishop Museum Bulletin",
+    "issued": "1927",
+    "page": "1–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitten",
+        "given": "W."
+      }
+    ],
+    "title": "Musci Indiae Orientalis: An enumeration of the mosses of the East Indies",
+    "volume": "Supplement 1",
+    "type": "article-journal",
+    "container-title": "Journal of the Proceedings of the Linnean Society, Botany",
+    "issued": "1859",
+    "page": "1–171",
+    "URL": "https://doi.org/10.5962/bhl.title.156377",
+    "DOI": "10.5962/bhl.title.156377"
+  },
+  {
+    "author": [
+      {
+        "family": "Schiffner",
+        "given": "V."
+      }
+    ],
+    "title": "Bryophyta aus Mesopotamien und Kurdistan, Syrien, Rhodos, Mytilini und Prinkipo",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Gesammelt von Dr. Heinrich Frh. v. Handel-Mazzetti. Annalen des Kaiserlich-Königlichen Naturhistorischen Hofmuseums",
+    "issued": "1913",
+    "page": "472–504"
+  },
+  {
+    "author": [
+      {
+        "family": "Zander",
+        "given": "R.H."
+      }
+    ],
+    "title": "Macroevolutionary evaluation methods extended, consolidated, and exemplified with Anoectangium (Pottiaceae, Bryophyta",
+    "container-title": "North America and the Himalayas. Annals of the Missouri Botanical Garden",
+    "volume": "104",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "2019",
+    "page": "324–338",
+    "URL": "https://doi.org/10.3417/2019332",
+    "DOI": "10.3417/2019332"
+  },
+  {
+    "author": [
+      {
+        "family": "Zander",
+        "given": "R.H."
+      },
+      {
+        "family": "Eckel",
+        "given": "P.M."
+      }
+    ],
+    "title": "Pottiaceae: Anoectangium",
+    "container-title": "Flora of North America Editorial Committee (Org.) Flora of North America: North of Mexico",
+    "volume": "27",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "520–522",
+    "publisher-place": "New York"
+  }
+]

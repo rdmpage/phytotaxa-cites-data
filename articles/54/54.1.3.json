@@ -1,0 +1,463 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bechstein",
+        "given": "J.M."
+      }
+    ],
+    "title": "Forstbotanik",
+    "publisher": "Hennings’chen Buchhandlung",
+    "type": "book",
+    "issued": "1810",
+    "page": null,
+    "publisher-place": "Erfurt"
+  },
+  {
+    "author": [
+      {
+        "family": "Bieberstein",
+        "given": "F.A.von"
+      }
+    ],
+    "title": "Flora taurico-caucasica 1",
+    "publisher": "Typis academicis, Kharkov",
+    "type": "book",
+    "issued": "1808",
+    "page": "428"
+  },
+  {
+    "author": [
+      {
+        "family": "Boulenger",
+        "given": "G.A."
+      }
+    ],
+    "title": "Revision des Roses d’Asie de la section des Eglanteriae group des Pimpinelli-Suavifoliae, Orientales et Alpinae-Vestitae",
+    "volume": "31, 3",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin botanique de l’État a Bruxelles",
+    "issued": "1935",
+    "page": "165–266"
+  },
+  {
+    "author": [
+      {
+        "family": "Burnat",
+        "given": "É."
+      },
+      {
+        "family": "Gremli",
+        "given": "A."
+      }
+    ],
+    "title": "Genre Rosa. Revision du group des Orientales",
+    "publisher": "H. Georg, Libraire-Éditeur",
+    "type": "book",
+    "issued": "1887",
+    "page": "92",
+    "publisher-place": "Geneva & Bale, I-VII"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Section Caninae",
+    "container-title": "Seringe, N.C., Musée Helvetique d’Histoire Naturelle 1",
+    "publisher": "J.J. Burgdorfer",
+    "type": "chapter",
+    "issued": "1818",
+    "page": "16",
+    "publisher-place": "Berne"
+  },
+  {
+    "author": [
+      {
+        "family": "Christ",
+        "given": "K.H.H."
+      }
+    ],
+    "title": "Die Rosen der Schweiz",
+    "publisher": "H. Georg",
+    "type": "book",
+    "issued": "1873",
+    "page": "219",
+    "publisher-place": "Basel, Geneva, Lyon"
+  },
+  {
+    "author": [
+      {
+        "family": "Christ",
+        "given": "K.H.H."
+      }
+    ],
+    "title": "Rosa L",
+    "editor": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      },
+      {
+        "family": "Georg",
+        "given": "Flora Orientalis Supplementum H."
+      },
+      {
+        "given": "Geneva"
+      },
+      {
+        "given": "Basel"
+      }
+    ],
+    "type": null,
+    "issued": "1888",
+    "page": "201–230"
+  },
+  {
+    "author": [
+      {
+        "family": "Crépin",
+        "given": "F."
+      }
+    ],
+    "title": "Rosa vanheurckiana",
+    "editor": [
+      {
+        "literal": "In: Boissier, E., Flora Orientalis 2. H. Georg, Geneva & Basel"
+      }
+    ],
+    "type": null,
+    "issued": "1872",
+    "page": "683"
+  },
+  {
+    "author": [
+      {
+        "family": "Crépin",
+        "given": "F."
+      }
+    ],
+    "title": "Les roses récoltées par. M. Paul Sintenis dans l’Arménie Turque en 1889",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Royale de Botanique de Belgique",
+    "issued": "1890",
+    "page": "6–16"
+  },
+  {
+    "author": [
+      {
+        "family": "Fedorov",
+        "given": "A.A."
+      }
+    ],
+    "title": "Rosa L",
+    "editor": [
+      {
+        "family": "Takhtadzhyan",
+        "given": "A.L."
+      }
+    ],
+    "container-title": "Flora Armenii 3. Izdatel’stvo Akademii Nauk Armânskoj SSR, Yerevan",
+    "type": "chapter",
+    "issued": "1958",
+    "page": "189–225"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E.M."
+      }
+    ],
+    "title": "Novitiae florae suecicae 2",
+    "publisher": "Berling, Lund",
+    "type": "book",
+    "issued": "1814",
+    "page": "122"
+  },
+  {
+    "author": [
+      {
+        "family": "Grossheim",
+        "given": "A.A."
+      }
+    ],
+    "title": "Flora Kavkaza 5. Izdatel’stvo Akademii Nauk Moskou, St",
+    "publisher": "Petersburg",
+    "type": "book",
+    "issued": "1952",
+    "page": "453 528"
+  },
+  {
+    "author": [
+      {
+        "family": "Khrzhanovsky",
+        "given": "V.G."
+      }
+    ],
+    "title": "Rosa L",
+    "editor": [
+      {
+        "family": "Karyagin",
+        "given": "I.I."
+      }
+    ],
+    "container-title": "Flora Azerbaydzhana 5. Izdatel’stvo Akademii Nauk Azerbajdžanskoj SSR, Baku",
+    "type": "chapter",
+    "issued": "1954",
+    "page": "144–176"
+  },
+  {
+    "author": [
+      {
+        "family": "Mandenova",
+        "given": "I.P."
+      }
+    ],
+    "title": "A revision of Rosa in Turkey",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Notes Royal Botanic Garden Edinburgh",
+    "issue": "2",
+    "issued": "1970",
+    "page": "327–340"
+  },
+  {
+    "author": [
+      {
+        "family": "Mandenova",
+        "given": "I.P."
+      }
+    ],
+    "title": "O novom vide šipovnika iz Kavkaza",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Zametki po sistemtike i geografii rastenij Tbilisskogo Botaničeskogo Instituta",
+    "issued": "1976",
+    "page": "10–12"
+  },
+  {
+    "author": [
+      {
+        "family": "Mandenova",
+        "given": "I.P."
+      }
+    ],
+    "title": "Rosa L",
+    "editor": [
+      {
+        "family": "Ketskhoveli",
+        "given": "N.N."
+      }
+    ],
+    "container-title": "Flora of Georgia 6. Mecnereba, Tbilisi (in Georgian",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "258–295"
+  },
+  {
+    "author": [
+      {
+        "family": "Marechal",
+        "given": "É."
+      },
+      {
+        "family": "Hardy",
+        "given": "A."
+      }
+    ],
+    "title": "Catalogue des plantes plus ou moins rare dans la Meuse, de Liége á Maestricht",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Royale de Botanique de Belgique",
+    "issued": "1868",
+    "page": "240–273"
+  },
+  {
+    "author": [
+      {
+        "family": "Meikle",
+        "given": "R.D."
+      }
+    ],
+    "title": "Contributions to the flora of Iraq: 1",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1965",
+    "page": "229–230"
+  },
+  {
+    "author": [
+      {
+        "family": "Nilsson",
+        "given": "Ö."
+      }
+    ],
+    "title": "Rosa L",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Edinburgh University Press",
+    "type": "book",
+    "issued": "1972",
+    "page": "106–128",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Seringe",
+        "given": "N.C."
+      }
+    ],
+    "title": "Rosa orientalis Dupont",
+    "container-title": "Candolle A.P. de, Prodromus 2",
+    "publisher": "Treuttel & Wurz",
+    "type": "chapter",
+    "issued": "1825",
+    "page": "644",
+    "publisher-place": "Paris, Strasbourg, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Sibthorp",
+        "given": "J."
+      },
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "title": "Florae graecae Prodromus",
+    "volume": "1",
+    "publisher": "Richardi Taylor and associates",
+    "issue": "2",
+    "type": "book",
+    "issued": "1809",
+    "page": "219–442",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Sokolov",
+        "given": "S.J."
+      },
+      {
+        "family": "Svyazeva",
+        "given": "O.A."
+      },
+      {
+        "family": "Kubli",
+        "given": "A."
+      }
+    ],
+    "title": "Arealy derevyev i kustarnikov SSSR (Distribution areas of trees and shrubs of USSR) 2",
+    "publisher": "Nauka, Leningrad",
+    "type": "book",
+    "issued": "1980",
+    "page": "143 98"
+  },
+  {
+    "author": [
+      {
+        "family": "Sosnovsky",
+        "given": "D.I."
+      }
+    ],
+    "title": "Rodologicheskiye zametki (Rodological notes",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Izvestiâ Azerbajdžanskogo Filiala Akademii Nauk SSSR",
+    "issued": "1944",
+    "page": "22–29"
+  },
+  {
+    "author": [
+      {
+        "family": "Trattinnick",
+        "given": "L."
+      }
+    ],
+    "title": "Rosacearum Monographia",
+    "publisher": "Heubner, Vienna",
+    "type": "book",
+    "issued": "1823",
+    "page": "234"
+  },
+  {
+    "author": [
+      {
+        "family": "Wrońska-Pilarek",
+        "given": "D."
+      }
+    ],
+    "title": "Pollen morphology of Polish native species of the Rosa genus (Rosaceae) and its relation to systematics",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Acta Societatis Botanicorum Poloniae",
+    "issued": "2011",
+    "page": "221–232"
+  },
+  {
+    "author": [
+      {
+        "family": "Wrońska-Pilarek",
+        "given": "D."
+      },
+      {
+        "family": "Jagodziński",
+        "given": "A.M."
+      }
+    ],
+    "title": "Systematic importance of pollen morphological features of selected species from the genus Rosa (Rosaceae",
+    "volume": "295",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2001",
+    "page": "55–72"
+  },
+  {
+    "author": [
+      {
+        "family": "Zieliński",
+        "given": "J."
+      }
+    ],
+    "title": "Studies on the genus Rosa L. ― systematics of section Caninae DC",
+    "volume": "30",
+    "note": "in Polish, with English summary).",
+    "type": "article-journal",
+    "container-title": "Arboretum Kórnickie",
+    "issued": "1985",
+    "page": "3–109"
+  },
+  {
+    "author": [
+      {
+        "family": "Zieliński",
+        "given": "J."
+      }
+    ],
+    "title": "Rosa L",
+    "editor": [
+      {
+        "family": "Strid",
+        "given": "A."
+      }
+    ],
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "1986",
+    "page": "387–399",
+    "publisher-place": "Cambridge"
+  }
+]

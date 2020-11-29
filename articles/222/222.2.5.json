@@ -1,0 +1,812 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bessette",
+        "given": "A.E."
+      },
+      {
+        "family": "Roody",
+        "given": "W.C."
+      },
+      {
+        "family": "Bessette",
+        "given": "A.R."
+      }
+    ],
+    "title": "North American boletes: A color guide to the fleshy pored mushrooms",
+    "publisher": "Syracuse University Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "399",
+    "publisher-place": "Syracuse, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Bi",
+        "given": "Z.S."
+      },
+      {
+        "family": "Li",
+        "given": "T.H."
+      },
+      {
+        "family": "Zhang",
+        "given": "W.M."
+      },
+      {
+        "family": "Song",
+        "given": "B."
+      }
+    ],
+    "title": "A preliminary agaric flora of Hainan Province",
+    "publisher": "Guangdong Higher Education Press, Guangzhou",
+    "type": "book",
+    "issued": "1997",
+    "page": "388"
+  },
+  {
+    "author": [
+      {
+        "family": "Binder",
+        "given": "M."
+      },
+      {
+        "family": "Besl",
+        "given": "H."
+      }
+    ],
+    "title": "28S rDNA sequence data and chemotaxonomical analyses on the generic concept of Leccinum (Boletales",
+    "type": "article-journal",
+    "container-title": "A.M.B., Italy. Centro Studi Micologici, Micologia",
+    "issued": "2000",
+    "page": "71–82"
+  },
+  {
+    "author": [
+      {
+        "family": "Cesati",
+        "given": "V."
+      }
+    ],
+    "title": "Mycetum in itinere Borneensi lectorum",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Atti dell ́Accademia di Scienze Fisiche e Matematiche Napoli",
+    "issue": "8",
+    "issued": "1879",
+    "page": "1–28"
+  },
+  {
+    "author": [
+      {
+        "family": "Corner",
+        "given": "E.J.H."
+      }
+    ],
+    "title": "Boletus in Malaysia",
+    "genre": "Government Printer,",
+    "publisher": "Singapore",
+    "type": null,
+    "issued": "1972",
+    "page": "263"
+  },
+  {
+    "author": [
+      {
+        "family": "Dentinger",
+        "given": "B.T."
+      },
+      {
+        "family": "Ammirati",
+        "given": "J.F."
+      },
+      {
+        "family": "Both",
+        "given": "E.E."
+      },
+      {
+        "family": "Desjardin",
+        "given": "D.E."
+      },
+      {
+        "family": "Halling",
+        "given": "R.E."
+      },
+      {
+        "family": "Henkel",
+        "given": "T.W."
+      },
+      {
+        "family": "Moreau",
+        "given": "P.A."
+      },
+      {
+        "family": "Nagasawa",
+        "given": "E."
+      },
+      {
+        "family": "Soytong",
+        "given": "K."
+      },
+      {
+        "family": "Taylor",
+        "given": "A.F."
+      },
+      {
+        "family": "Watling",
+        "given": "R."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "D.J."
+      }
+    ],
+    "title": "Molecular phylogenetics of porcini mushrooms (Boletus section Boletus",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2010",
+    "page": "1276–1292",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2010.10.004",
+    "DOI": "10.1016/j.ympev.2010.10.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2004",
+    "page": "1792–1797",
+    "URL": "http://dx.doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analyses program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Halling",
+        "given": "R."
+      },
+      {
+        "family": "Fechner",
+        "given": "N."
+      },
+      {
+        "family": "Nuhn",
+        "given": "M."
+      },
+      {
+        "family": "Osmundson",
+        "given": "T."
+      },
+      {
+        "family": "Soytong",
+        "given": "K."
+      },
+      {
+        "family": "Arora",
+        "given": "D."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      },
+      {
+        "family": "Hibbett",
+        "given": "D."
+      }
+    ],
+    "title": "Evolutionary relationships of Heimioporus and Boletellus (Boletales) with an emphasis on Australian taxa including new species and new combinations in Aureoboletus, Hemileccinum, and Xerocomus",
+    "note": "Australian Systematic Botany (in press).",
+    "type": null,
+    "issued": "2015"
+  },
+  {
+    "author": [
+      {
+        "family": "Halling",
+        "given": "R.E."
+      },
+      {
+        "family": "Nuhn",
+        "given": "M."
+      },
+      {
+        "family": "Fechner",
+        "given": "N.A."
+      },
+      {
+        "family": "Osmundson",
+        "given": "T.W."
+      },
+      {
+        "family": "Soytong",
+        "given": "K."
+      },
+      {
+        "family": "Arora",
+        "given": "D."
+      },
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      }
+    ],
+    "title": "Sutorius: a new genus for Boletus eximius",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2012",
+    "page": "951–961",
+    "URL": "http://dx.doi.org/10.3852/11-376",
+    "DOI": "10.3852/11-376"
+  },
+  {
+    "author": [
+      {
+        "family": "Halling",
+        "given": "R.E."
+      },
+      {
+        "family": "Ortiz-Santana",
+        "given": "B."
+      }
+    ],
+    "title": "A revision of Boletellus sect",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Ixocephali. Mycological Progress",
+    "issued": "2009",
+    "page": "237–244",
+    "URL": "http://dx.doi.org/10.1007/s11557-009-0595-3",
+    "DOI": "10.1007/s11557-009-0595-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Hao",
+        "given": "Y.J."
+      },
+      {
+        "family": "Qin",
+        "given": "J."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Cibaomyces, a new genus of Physalacriaceae from East Asia",
+    "volume": "162",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2014",
+    "page": "198–210",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.162.4.2",
+    "DOI": "10.11646/phytotaxa.162.4.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "Revision of Malaysian species of Boletales s.l",
+    "note": "Basidiomycota) described by E.J.H. Corner (1972, 1974).",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Malayan Forest Records",
+    "issued": "2011",
+    "page": "1–283"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "Bayesian analysis of molecular evolution using MrBayes",
+    "editor": [
+      {
+        "family": "Nielsen",
+        "given": "R."
+      }
+    ],
+    "container-title": "Statistical methods in molecular evolution",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "183–226",
+    "publisher-place": "New York",
+    "URL": "http://dx.doi.org/10.1007/0-387-27733-1_7",
+    "DOI": "10.1007/0-387-27733-1_7"
+  },
+  {
+    "author": [
+      {
+        "family": "Klofac",
+        "given": "W."
+      }
+    ],
+    "title": "The genus Aureoboletus, a world-wide survey. A contribution to a monographic treatment",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Österreichische Zeitschrift für Pilzkunde",
+    "issued": "2010",
+    "page": "133–174"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Taschenlexikon der Farben. 3. Aufl",
+    "publisher": "Muster-Schmidt Verlag, Göttingen",
+    "type": "book",
+    "issued": "1981",
+    "page": "242"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y.C."
+      },
+      {
+        "family": "Feng",
+        "given": "B."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Zangia, a new genus of Boletaceae supported by molecular and morphological evidence",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2011",
+    "page": "125–143",
+    "URL": "http://dx.doi.org/10.1007/s13225-011-0096-y",
+    "DOI": "10.1007/s13225-011-0096-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Mikheyev",
+        "given": "A.S."
+      },
+      {
+        "family": "Mueller",
+        "given": "U.G."
+      },
+      {
+        "family": "Abbot",
+        "given": "P."
+      }
+    ],
+    "title": "Cryptic sex and many-to-one coevolution in the fungus-growing ant symbiosis",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "103",
+    "type": "paper-conference",
+    "issued": "2006",
+    "page": "10702–10706",
+    "URL": "http://dx.doi.org/10.1073/pnas.0601441103",
+    "DOI": "10.1073/pnas.0601441103"
+  },
+  {
+    "author": [
+      {
+        "family": "Nagasawa",
+        "given": "E."
+      }
+    ],
+    "title": "A preliminary checklist of the Japanese Agaricales. 1. The Boletineae",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Reports of The Tottori Mycological Institute",
+    "issued": "1997",
+    "page": "39–78"
+  },
+  {
+    "author": [
+      {
+        "family": "Nuhn",
+        "given": "M.E."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      },
+      {
+        "family": "Taylor",
+        "given": "A.F.S."
+      },
+      {
+        "family": "Halling",
+        "given": "R.E."
+      },
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      }
+    ],
+    "title": "Phylogenetic overview of the Boletineae",
+    "volume": "117",
+    "type": "article-journal",
+    "container-title": "Fungal Biology",
+    "issued": "2013",
+    "page": "479–511",
+    "URL": "http://dx.doi.org/10.1016/j.funbio.2013.04.008",
+    "DOI": "10.1016/j.funbio.2013.04.008"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest 2.3. Program distributed by the author",
+    "publisher": "Evolutionary Biology Center, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      },
+      {
+        "family": "Young",
+        "given": "T.W.K."
+      }
+    ],
+    "title": "A natural arrangement of the Boletales, with reference to spore morphology",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issue": "1",
+    "issued": "1981",
+    "page": "103–146",
+    "URL": "http://dx.doi.org/10.1016/S0007-1536(81)80013-7",
+    "DOI": "10.1016/S0007-1536(81)80013-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Pouzar",
+        "given": "Z."
+      }
+    ],
+    "title": "Nova genera macromycetum. I",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Česká Mykologie",
+    "issued": "1957",
+    "page": "48–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "X.F."
+      },
+      {
+        "family": "Liu",
+        "given": "P.G."
+      }
+    ],
+    "title": "Aureoboletus zangii (Boletaceae), a new species from China",
+    "volume": "123",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2013",
+    "page": "451–456",
+    "URL": "http://dx.doi.org/10.5248/123.451",
+    "DOI": "10.5248/123.451"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The Boletoideae of Florida with notes on extralimital species III",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "American Midland Naturalist",
+    "issue": "1",
+    "issued": "1947",
+    "page": "1–135",
+    "URL": "http://dx.doi.org/10.2307/2421647",
+    "DOI": "10.2307/2421647"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "G."
+      },
+      {
+        "family": "Feng",
+        "given": "B."
+      },
+      {
+        "family": "Xu",
+        "given": "J."
+      },
+      {
+        "family": "Zhu",
+        "given": "X.T."
+      },
+      {
+        "family": "Li",
+        "given": "Y.C."
+      },
+      {
+        "family": "Zeng",
+        "given": "N.K."
+      },
+      {
+        "family": "Hosen",
+        "given": "M.I."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2014",
+    "page": "93–115",
+    "URL": "http://dx.doi.org/10.1007/s13225-014-0283-8",
+    "DOI": "10.1007/s13225-014-0283-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Wang",
+        "given": "X.H."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      }
+    ],
+    "title": "A study of the type and additional materials of Boletus thibetanus",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2003",
+    "page": "283–290"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "M."
+      },
+      {
+        "family": "Li",
+        "given": "T.H."
+      },
+      {
+        "family": "Song",
+        "given": "B."
+      }
+    ],
+    "title": "A new slender species of Aureoboletus from southern China",
+    "volume": "128",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2014",
+    "page": "195–202",
+    "URL": "http://dx.doi.org/10.5248/128.195",
+    "DOI": "10.5248/128.195"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "M."
+      },
+      {
+        "family": "Li",
+        "given": "T.H."
+      },
+      {
+        "family": "Xu",
+        "given": "J."
+      },
+      {
+        "family": "Song",
+        "given": "B."
+      }
+    ],
+    "title": "A new violet brown Aureoboletus (Boletaceae) from Guangdong of China",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issue": "5",
+    "issued": "2014",
+    "page": "481–485",
+    "URL": "http://dx.doi.org/10.1016/j.myc.2015.02.002",
+    "DOI": "10.1016/j.myc.2015.02.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "N.K."
+      },
+      {
+        "family": "Cai",
+        "given": "Q."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Corneroboletus, a new genus to accommodate the southeast Asian Boletus indecorus",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2012",
+    "page": "1420–1432",
+    "URL": "http://dx.doi.org/10.3852/11-326",
+    "DOI": "10.3852/11-326"
+  },
+  {
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "N.K."
+      },
+      {
+        "family": "Tang",
+        "given": "L.P."
+      },
+      {
+        "family": "Li",
+        "given": "Y.C."
+      },
+      {
+        "family": "Tolgor",
+        "given": "B."
+      },
+      {
+        "family": "Zhu",
+        "given": "X.T."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "The genus Phylloporus (Boletaceae, Boletales) from China: morphological and multilocus DNA sequence analyses",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2013",
+    "page": "73–101",
+    "URL": "http://dx.doi.org/10.1007/s13225-012-0184-7",
+    "DOI": "10.1007/s13225-012-0184-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "N.K."
+      },
+      {
+        "family": "Su",
+        "given": "M.S."
+      },
+      {
+        "family": "Liang",
+        "given": "Z.Q."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "A geographical extension of the North American genus Bothia (Boletaceae, Boletales) to East Asia with a new species B",
+    "note": "fujianensis from China. Mycological Progress 14: 1015.",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://dx.doi.org/10.1007/s11557-014-1015-x",
+    "DOI": "10.1007/s11557-014-1015-x"
+  }
+]

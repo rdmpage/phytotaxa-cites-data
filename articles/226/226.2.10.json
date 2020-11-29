@@ -1,0 +1,114 @@
+[
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "S.Y."
+      }
+    ],
+    "title": "Lilium",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "F.T."
+      },
+      {
+        "family": "Tang",
+        "given": "T."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "14",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "116–157, 283",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "S.Y."
+      },
+      {
+        "family": "Tamura",
+        "given": "M."
+      }
+    ],
+    "title": "Lilium",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "24",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "135–159",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "W.W."
+      }
+    ],
+    "title": "Notes on Chinese Lilies",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Transactions of the Botanical Society of Edinburgh",
+    "issued": "1922",
+    "page": "122–160",
+    "URL": "http://dx.doi.org/10.1080/03746602309469374",
+    "DOI": "10.1080/03746602309469374"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "F.T."
+      },
+      {
+        "family": "Tang",
+        "given": "T."
+      },
+      {
+        "family": "Liang",
+        "given": "S.Y."
+      }
+    ],
+    "title": "Notes on Chinese Liliaceae XII",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1986",
+    "page": "51–52"
+  },
+  {
+    "author": [
+      {
+        "family": "Woodcock",
+        "given": "H.B.D."
+      },
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      }
+    ],
+    "title": "Lilies of the World: Their Cultivation & Classification",
+    "publisher": "County Life",
+    "type": "book",
+    "issued": "1950",
+    "page": "343",
+    "publisher-place": "London"
+  }
+]

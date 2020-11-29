@@ -1,0 +1,406 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adanson",
+        "given": "M."
+      }
+    ],
+    "title": "Familles des plantes 2",
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1763",
+    "page": "640",
+    "publisher-place": "Vincent"
+  },
+  {
+    "author": [
+      {
+        "family": "Browne",
+        "given": "P."
+      }
+    ],
+    "title": "The Civil and Natural History of Jamaica in Three Parts",
+    "editor": [
+      {
+        "family": "Osborne",
+        "given": "T."
+      },
+      {
+        "family": "Gray's-Inn",
+        "given": "J.Shipton",
+        "particle": "in"
+      }
+    ],
+    "type": null,
+    "issued": "1756",
+    "page": "290",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetibilis 2",
+    "editor": [
+      {
+        "given": "Treuttel"
+      },
+      {
+        "family": "Würtz",
+        "given": "Paris"
+      }
+    ],
+    "type": null,
+    "issued": "1825",
+    "page": "644"
+  },
+  {
+    "author": [
+      {
+        "family": "Corner",
+        "given": "E.J.H."
+      }
+    ],
+    "title": "The leguminous seed",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Phytomorphology",
+    "issued": "1951",
+    "page": "117–150"
+  },
+  {
+    "author": [
+      {
+        "family": "De Kort",
+        "given": "I."
+      },
+      {
+        "family": "Thijsse",
+        "given": "G."
+      }
+    ],
+    "title": "A revision of the genus Indigofera (Leguminosae–Papilionoideae) in Southeast Asia",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1984",
+    "page": "89–151"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillett",
+        "given": "J.B."
+      }
+    ],
+    "title": "Indigofera hirsuta L. & Indigofera astragalina DC",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1960",
+    "page": "290–295"
+  },
+  {
+    "author": [
+      {
+        "family": "Heyne",
+        "given": "K."
+      }
+    ],
+    "title": "De nuttige planten van Nederlandsch-Indie 2",
+    "publisher": "Ruygrok & Co., Batavia",
+    "type": "book",
+    "issued": "1916",
+    "page": "349"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvii, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Herbarium amboinense",
+    "editor": [
+      {
+        "family": "Höjer",
+        "given": "L.M."
+      },
+      {
+        "given": "Upsala"
+      }
+    ],
+    "type": null,
+    "issued": "1754",
+    "page": "28"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Nicolson",
+        "given": "D.H."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Silva",
+        "given": "P.C."
+      },
+      {
+        "family": "Skog",
+        "given": "J.E."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International Code of Botanical Nomenclature (Vienna Code",
+    "volume": "146. A. R. G",
+    "publisher": "Gantner Verlag, Ruggell",
+    "type": "article-journal",
+    "container-title": "Regnum Vegetabile",
+    "issued": "2006",
+    "page": "568"
+  },
+  {
+    "author": [
+      {
+        "family": "Murthy",
+        "given": "G.V.S."
+      },
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "SEM studies on morphology of Indigofera L. (Fabaceae) and its taxonomic utility",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Rheedea",
+    "issued": "2002",
+    "page": "21–51"
+  },
+  {
+    "author": [
+      {
+        "family": "Noltie",
+        "given": "H.J."
+      }
+    ],
+    "title": "The Botany of Robert Wight. Regnum Vegetabile 145",
+    "editor": [
+      {
+        "family": "Verlag",
+        "given": "A.R.G.Gantner"
+      },
+      {
+        "given": "Ruggell"
+      }
+    ],
+    "type": null,
+    "issued": "2005",
+    "page": "579"
+  },
+  {
+    "author": [
+      {
+        "family": "Prain",
+        "given": "D."
+      }
+    ],
+    "title": "Noviciae Indicae XV. Some additional Leguminosae",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Journal of the Asiatic Society of Bengal",
+    "issued": "1897",
+    "page": "347–518"
+  },
+  {
+    "author": [
+      {
+        "family": "Rajakumar",
+        "given": "T.J.S."
+      },
+      {
+        "family": "Selvakumari",
+        "given": "R."
+      },
+      {
+        "family": "Murugesan",
+        "given": "S."
+      },
+      {
+        "family": "Chellaperumal",
+        "given": "N."
+      }
+    ],
+    "title": "Indigofera karaiyarensis, a new species of Fabaceae from Thirunelveli district, Tamil Nadu, India",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Indian journal of Forestry",
+    "issued": "2011",
+    "page": "485–486"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "The genus Indigofera L. (Fabaceae: Papilionoideae) in Burma",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Reinwardtia",
+    "issue": "2",
+    "issued": "1985",
+    "page": "211–244"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "Legumes of India",
+    "editor": [
+      {
+        "family": "Singh",
+        "given": "Bishen Singh Mahendra Pal"
+      },
+      {
+        "family": "Dun",
+        "given": "Dehra"
+      }
+    ],
+    "type": null,
+    "issued": "1992",
+    "page": "218"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "Leguminosae-Papilionoideae: Tribe Indigofereae. Fascicles of Flora of India 21",
+    "publisher": "Botanical Survey of India",
+    "type": "book",
+    "issued": "1995",
+    "page": "20–23",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Thothathri",
+        "given": "K."
+      },
+      {
+        "family": "Ravikumar",
+        "given": "S."
+      }
+    ],
+    "title": "A new variety of the tribal pulse, Mucuna pruriens (L.) DC., from the thekkady forest, Kerala",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Journal of Economic and Taxonomic Botany",
+    "issued": "1997",
+    "page": "703–704"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Prodromus florae Peninsulae Indiae Orientalis 1",
+    "publisher": "Parbury Allen & Co., London",
+    "type": "book",
+    "issued": "1834",
+    "page": "254"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilmot-Dear",
+        "given": "C.M."
+      }
+    ],
+    "title": "A revision of Mucuna (Leguminosae-Phaseoleae) in the Indian subcontinent and Burma",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1987",
+    "page": "23–46"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilmot-Dear",
+        "given": "C.M."
+      }
+    ],
+    "title": "Mucuna Adans. (Leguminosae) in Thailand",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Thai Forest Bulletin",
+    "issued": "2008",
+    "page": "114–139"
+  }
+]

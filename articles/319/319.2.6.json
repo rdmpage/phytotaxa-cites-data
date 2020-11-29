@@ -1,0 +1,916 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "L."
+      }
+    ],
+    "title": "A revision of the genus Neocosmospora (Hypocreales",
+    "volume": "82",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issue": "4",
+    "issued": "1984",
+    "page": "673–688",
+    "URL": "https://doi.org/10.1016/S0007-1536(84)80108-4",
+    "DOI": "10.1016/S0007-1536(84)80108-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Cunningham",
+        "given": "C.W."
+      }
+    ],
+    "title": "Can three incongruence tests predict when data should be combined?",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1997",
+    "page": "733–740",
+    "URL": "https://doi.org/10.1093/oxfordjournals.molbev.a025813.",
+    "DOI": "10.1093/oxfordjournals.molbev.a025813."
+  },
+  {
+    "author": [
+      {
+        "family": "Geiser",
+        "given": "D.M."
+      },
+      {
+        "family": "Aoki",
+        "given": "T."
+      },
+      {
+        "family": "Bacon",
+        "given": "C.W."
+      },
+      {
+        "family": "Baker",
+        "given": "S.E."
+      },
+      {
+        "family": "Bhattacharyya",
+        "given": "M.K."
+      },
+      {
+        "family": "Brandt",
+        "given": "M.E."
+      },
+      {
+        "family": "Brown",
+        "given": "D.W."
+      },
+      {
+        "family": "Burgess",
+        "given": "L.W."
+      },
+      {
+        "family": "Chulze",
+        "given": "S."
+      },
+      {
+        "family": "Coleman",
+        "given": "J.J."
+      },
+      {
+        "family": "J.C.",
+        "given": "Correll"
+      },
+      {
+        "family": "Covert",
+        "given": "S.F."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Cuomo",
+        "given": "C.A."
+      },
+      {
+        "family": "De Hoog",
+        "given": "G.S."
+      },
+      {
+        "family": "Di Pietro",
+        "given": "A."
+      },
+      {
+        "family": "Elmer",
+        "given": "W.H."
+      },
+      {
+        "family": "Epstein",
+        "given": "L."
+      },
+      {
+        "family": "Frandsen",
+        "given": "R.J."
+      },
+      {
+        "family": "Freeman",
+        "given": "S."
+      },
+      {
+        "family": "Gagkaeva",
+        "given": "T."
+      },
+      {
+        "family": "Glenn",
+        "given": "A.E."
+      },
+      {
+        "family": "Gordon",
+        "given": "T.R."
+      },
+      {
+        "family": "Gregory",
+        "given": "N.F."
+      },
+      {
+        "family": "Hammond-Kosack",
+        "given": "K.E."
+      },
+      {
+        "family": "Hanson",
+        "given": "L.E."
+      },
+      {
+        "family": "Jímenez-Gasco",
+        "given": "Mdel M."
+      },
+      {
+        "family": "Kang",
+        "given": "S."
+      },
+      {
+        "family": "Kistler",
+        "given": "H.C."
+      },
+      {
+        "family": "Kuldau",
+        "given": "G.A."
+      },
+      {
+        "family": "Leslie",
+        "given": "J.F."
+      },
+      {
+        "family": "Logrieco",
+        "given": "A."
+      },
+      {
+        "family": "Lu",
+        "given": "G."
+      },
+      {
+        "family": "Lysøe",
+        "given": "E."
+      },
+      {
+        "family": "Ma",
+        "given": "L.J."
+      },
+      {
+        "family": "McCormick",
+        "given": "S.P."
+      },
+      {
+        "family": "Migheli",
+        "given": "Q."
+      },
+      {
+        "family": "Moretti",
+        "given": "A."
+      },
+      {
+        "family": "Munaut",
+        "given": "F."
+      },
+      {
+        "family": "O’Donnell",
+        "given": "K."
+      },
+      {
+        "family": "Pfenning",
+        "given": "L."
+      },
+      {
+        "family": "Ploetz",
+        "given": "R.C."
+      },
+      {
+        "family": "Proctor",
+        "given": "R.H."
+      },
+      {
+        "family": "Rehner",
+        "given": "S.A."
+      },
+      {
+        "family": "Robert",
+        "given": "V.A."
+      },
+      {
+        "family": "Rooney",
+        "given": "A.P."
+      },
+      {
+        "family": "Bin",
+        "given": "Salleh"
+      },
+      {
+        "family": "B.",
+        "given": "Scandiani"
+      },
+      {
+        "family": "M.M.",
+        "given": "Scauflaire"
+      },
+      {
+        "family": "J.",
+        "given": "Short"
+      },
+      {
+        "family": "D.P.",
+        "given": "Steenkamp"
+      },
+      {
+        "family": "E.",
+        "given": "Suga"
+      },
+      {
+        "given": "H."
+      },
+      {
+        "family": "Yli-Mattila",
+        "given": "T."
+      },
+      {
+        "family": "Zhang",
+        "given": "N."
+      }
+    ],
+    "title": "Summerell",
+    "editor": [
+      {
+        "family": "Thrane",
+        "given": "U."
+      },
+      {
+        "family": "Trail",
+        "given": "F."
+      },
+      {
+        "family": "Van Diepeningen",
+        "given": "A."
+      },
+      {
+        "family": "Vanetten",
+        "given": "H.D."
+      },
+      {
+        "family": "Viljoen",
+        "given": "A."
+      }
+    ],
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Phytopathology",
+    "issue": "5",
+    "issued": "2013",
+    "page": "400–408",
+    "publisher-place": "B.A., Sutton, D.A",
+    "URL": "https://doi.org/10.1094/PHYTO-07-12-0150-LE",
+    "DOI": "10.1094/PHYTO-07-12-0150-LE"
+  },
+  {
+    "author": [
+      {
+        "family": "Gräfenhan",
+        "given": "T."
+      },
+      {
+        "family": "Schroers",
+        "given": "H.-J."
+      },
+      {
+        "family": "Nirenberg",
+        "given": "H.I."
+      },
+      {
+        "family": "Seifert",
+        "given": "K.A."
+      }
+    ],
+    "title": "An overview of the taxonomy, phylogeny, and typification of nectriaceous fungi in Cosmospora, Acremonium, Fusarium, Stilbella, and Volutella",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2011",
+    "page": "79–113",
+    "URL": "https://doi.org/10.3114/sim.2011.68.04",
+    "DOI": "10.3114/sim.2011.68.04"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hirooka",
+        "given": "Y."
+      },
+      {
+        "family": "Rossman",
+        "given": "A.Y."
+      },
+      {
+        "family": "Samuels",
+        "given": "G.J."
+      },
+      {
+        "family": "Lechat",
+        "given": "C."
+      },
+      {
+        "family": "Chaverri",
+        "given": "P."
+      }
+    ],
+    "title": "A monograph of Allantonectria, Nectria, and Pleonectria (Nectriaceae, Hypocreales, Ascomycota) and their pycnidial, sporodochial, and synnematous anamorphs",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2012",
+    "page": "1–210",
+    "URL": "https://doi.org/10.3114/sim0001",
+    "DOI": "10.3114/sim0001"
+  },
+  {
+    "author": [
+      {
+        "family": "Lombard",
+        "given": "L."
+      },
+      {
+        "family": "Merwe",
+        "given": "N.A.",
+        "particle": "van der"
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      }
+    ],
+    "title": "Generic concepts in Nectriaceae",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2015",
+    "page": "189–245",
+    "URL": "https://doi.org/10.1016/j.simyco.2014.12.002",
+    "DOI": "10.1016/j.simyco.2014.12.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Luo",
+        "given": "J."
+      },
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      }
+    ],
+    "title": "Three new species of Neonectria (Nectriaceae, Hypocreales) with notes on their phylogenetic positions",
+    "volume": "102",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2010",
+    "page": "142–152",
+    "URL": "https://doi.org/10.3852/08-224",
+    "DOI": "10.3852/08-224"
+  },
+  {
+    "author": [
+      {
+        "family": "Mahoney",
+        "given": "D.P."
+      }
+    ],
+    "title": "A new Neocosmospora from Galapagos Island soil",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1976",
+    "page": "1111–1116",
+    "URL": "https://doi.org/10.2307/3758729",
+    "DOI": "10.2307/3758729"
+  },
+  {
+    "author": [
+      {
+        "family": "Nalim",
+        "given": "F.A."
+      },
+      {
+        "family": "Samuels",
+        "given": "G.J."
+      },
+      {
+        "family": "Wijesundera",
+        "given": "R.L."
+      },
+      {
+        "family": "Geiser",
+        "given": "D.M."
+      }
+    ],
+    "title": "New species from the Fusarium solani species complex derived from perithecia and soil in the old world tropics",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2011",
+    "page": "1302–1330",
+    "URL": "https://doi.org/10.3852/10-307",
+    "DOI": "10.3852/10-307"
+  },
+  {
+    "author": [
+      {
+        "family": "Nirenberg",
+        "given": "H.I."
+      }
+    ],
+    "title": "Untersuchungen über die morphologische und biologische Differenzierung in der Fusarium-Sektion Liseola. Mitteilungen aus der Biologischen Bundesanstalt für Land- und Forstwirtschaft",
+    "volume": "169",
+    "type": "article-journal",
+    "container-title": "Berlin-Dahlem",
+    "issued": "1976",
+    "page": "1–117"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Donnell",
+        "given": "K."
+      }
+    ],
+    "title": "Progress toward a phylogenetic classification of Fusarium",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "1996",
+    "page": "57–70"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Donnell",
+        "given": "K."
+      }
+    ],
+    "title": "Molecular phylogeny of the Nectria haematococca-Fusarium solani species complex",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2000",
+    "page": "919–938",
+    "URL": "https://doi.org/10.2307/3761588",
+    "DOI": "10.2307/3761588"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Donnell",
+        "given": "K."
+      },
+      {
+        "family": "Cigelnik",
+        "given": "E."
+      },
+      {
+        "family": "Nirenberg",
+        "given": "H.I."
+      }
+    ],
+    "title": "Molecular systematics and phylogeography of the Gibberella fujikuroi species complex",
+    "volume": "90",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1998",
+    "page": "465–493",
+    "URL": "https://doi.org/10.2307/3761407",
+    "DOI": "10.2307/3761407"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.D."
+      }
+    ],
+    "title": "TreeView: an application to display phylogenetic trees on personal computers",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Computer Applications in the Biosciences",
+    "issued": "1996",
+    "page": "357–358"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfenning",
+        "given": "L."
+      }
+    ],
+    "title": "A new species of Neocosmospora from Brazil",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issue": "1",
+    "issued": "1995",
+    "page": "65–69"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Rossman",
+        "given": "A.Y."
+      },
+      {
+        "family": "Samuels",
+        "given": "G.J."
+      },
+      {
+        "family": "Rogerson",
+        "given": "C.T."
+      },
+      {
+        "family": "Lowen",
+        "given": "R."
+      }
+    ],
+    "title": "Genera of Bionectriaceae, Hypocreaceae and Nectriaceae (Hypocreales, Ascomycetes",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "1999",
+    "page": "1–248"
+  },
+  {
+    "author": [
+      {
+        "family": "Schroers",
+        "given": "H.-J."
+      },
+      {
+        "family": "Samuels",
+        "given": "G.J."
+      },
+      {
+        "family": "Zhang",
+        "given": "N."
+      },
+      {
+        "family": "Short",
+        "given": "D.P.G."
+      },
+      {
+        "family": "Juba",
+        "given": "J."
+      },
+      {
+        "family": "Geiser",
+        "given": "D.M."
+      }
+    ],
+    "title": "Epitypification of Fusisporium (Fusarium) solani and its assignment to a common phylogenetic species in the Fusarium solani species complex",
+    "volume": "108",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "4",
+    "issued": "2016",
+    "page": "806–819",
+    "URL": "https://doi.org/10.3852/15-255",
+    "DOI": "10.3852/15-255"
+  },
+  {
+    "author": [
+      {
+        "family": "Short",
+        "given": "D.P.G."
+      },
+      {
+        "family": "O’Donnell",
+        "given": "K."
+      },
+      {
+        "family": "U.",
+        "given": "Thrane"
+      },
+      {
+        "family": "Nielsen",
+        "given": "K.F."
+      },
+      {
+        "family": "Zhang",
+        "given": "N."
+      },
+      {
+        "family": "Juba",
+        "given": "J.H."
+      },
+      {
+        "family": "Geiser",
+        "given": "D.M."
+      }
+    ],
+    "title": "Phylogenetic relationships among members of the Fusarium solani species complex in human infections and the descriptions of F",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "keratoplasticum sp. nov. and F. petroliphilum stat. nov. Fungal Genetics and Biology",
+    "issued": "2013",
+    "page": "59–70",
+    "URL": "https://doi.org/10.1016/j.fgb.2013.01.004",
+    "DOI": "10.1016/j.fgb.2013.01.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "E.F."
+      }
+    ],
+    "title": "Wilt disease of cotton, watermelon and cowpea (Neocosmospora nov. gen",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "United States Department of Agriculture Bulletin",
+    "issued": "1899",
+    "page": "1–53"
+  },
+  {
+    "author": [
+      {
+        "family": "Summerbell",
+        "given": "R."
+      },
+      {
+        "family": "Schroers",
+        "given": "H.J."
+      }
+    ],
+    "title": "Analysis of phylogenetic relationship of Cylindrocarpon lichenicola and Acremonium falciforme to the Fusarium solani species complex and a review of similarities in the spectrum of opportun istic infections caused by these fungi",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Journal of Clinical Microbiology",
+    "issued": "2002",
+    "page": "2866–2875",
+    "URL": "https://doi.org/10.1128/JCM.40.8.2866-2875.2002",
+    "DOI": "10.1128/JCM.40.8.2866-2875.2002"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: phylogenetic analysis using parsimony (*and other methods",
+    "volume": "4b10",
+    "publisher": "Sinauer Associates",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issued": "2002",
+    "publisher-place": "Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgin",
+        "given": "D.G."
+      }
+    ],
+    "title": "The ClustalX windows interface: flexible strategies for multiple sequences alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "https://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Udagawa",
+        "given": "S.I."
+      },
+      {
+        "family": "Horie",
+        "given": "Y."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      }
+    ],
+    "title": "Two new species of Neocosmospora from Japan, with a key to the currently accepted species",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "1989",
+    "page": "349–359"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "L."
+      },
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      }
+    ],
+    "title": "Designing primer sets for amplification of partial calmodulin genes from penicillia",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "2004",
+    "page": "466–473"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfland",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "Z.Q."
+      },
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      }
+    ],
+    "title": "Eight new combinations of Bionectriaceae and Nectriaceae",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issue": "3",
+    "issued": "2017",
+    "page": "278–281",
+    "URL": "https://doi.org/10.13346/j.mycosystema.160153.",
+    "DOI": "10.13346/j.mycosystema.160153."
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "X.M."
+      },
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      }
+    ],
+    "title": "New Chinese records of the Bionectriaceae and Nectriaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issue": "4",
+    "issued": "2003",
+    "page": "525–530"
+  },
+  {
+    "editor": [
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      }
+    ],
+    "title": "Flora fungorum sinicorum",
+    "volume": "47",
+    "publisher": "Science Press",
+    "note": "in Chinese",
+    "type": null,
+    "issued": "2013",
+    "publisher-place": "Beijing"
+  }
+]

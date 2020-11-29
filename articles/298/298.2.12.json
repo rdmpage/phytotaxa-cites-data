@@ -1,0 +1,590 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Bijdragen tot de Flora van Nederlandsch Indie",
+    "publisher": "Lands Drukkerij",
+    "type": "book",
+    "issued": "1826",
+    "page": null,
+    "publisher-place": "Batavia"
+  },
+  {
+    "author": [
+      {
+        "family": "Boerlage",
+        "given": "J.G."
+      }
+    ],
+    "title": "Handleiding tot de Kennis der Flora van Nederlandsch Indië",
+    "volume": "2",
+    "publisher": "E.J. Brill, Leiden",
+    "issue": "1",
+    "type": "book",
+    "issued": "1891",
+    "page": "753"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Compositae Wightianae",
+    "editor": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "publisher": "Parbury, Allen & CO",
+    "type": "book",
+    "issued": "1834",
+    "page": "5–27",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "5",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1836",
+    "page": "706"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G.de"
+      }
+    ],
+    "title": "Blainvillea",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      },
+      {
+        "literal": "ed."
+      }
+    ],
+    "container-title": "Dictionnaire des Sciences Naturelles",
+    "volume": "2, vol. 29",
+    "publisher": "F.G. Levrault, Strasbourg & Paris & Le Normant",
+    "type": "chapter",
+    "issued": "1823",
+    "page": "493–494",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G.de"
+      }
+    ],
+    "title": "Blainvillea gayana",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      },
+      {
+        "literal": "ed."
+      }
+    ],
+    "container-title": "Dictionnaire des Sciences Naturelles",
+    "volume": "2, vol. 47",
+    "publisher": "F.G. Levrault, Strasbourg & Paris & Le Normant",
+    "type": "chapter",
+    "issued": "1827",
+    "page": "90–92",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "C.C."
+      }
+    ],
+    "title": "An enumeration of Hainan Compositae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Sunyatsenia",
+    "issued": "1937",
+    "page": "270–304"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "C.C."
+      },
+      {
+        "family": "Tseng",
+        "given": "Y.Q."
+      }
+    ],
+    "title": "Blainvillea Cass",
+    "editor": [
+      {
+        "family": "Botany",
+        "given": "Guangdong Institute",
+        "particle": "of"
+      }
+    ],
+    "container-title": "Flora Hainanica",
+    "volume": "3",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "1974",
+    "page": "404–405",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "C.C."
+      },
+      {
+        "family": "Tseng",
+        "given": "Y.Q."
+      }
+    ],
+    "title": "Blainvillea Cass",
+    "editor": [
+      {
+        "family": "Lin",
+        "given": "R."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "75",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "1979",
+    "page": "350–356",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "C.C."
+      },
+      {
+        "family": "Tseng",
+        "given": "Y.Q."
+      }
+    ],
+    "title": "Wedelia Jacq",
+    "editor": [
+      {
+        "family": "Lin",
+        "given": "R."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "75",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "1979",
+    "page": "348–350",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "L.Y."
+      },
+      {
+        "family": "Lin",
+        "given": "L.G."
+      }
+    ],
+    "title": "Blainvillea Cass",
+    "editor": [
+      {
+        "family": "Lin",
+        "given": "L.G."
+      }
+    ],
+    "container-title": "Flora Fujianica",
+    "volume": "5",
+    "publisher": "Spermatophyta). Fujian Science & Technology Publishing House",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "351–352",
+    "publisher-place": "Fuzhou"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Shi",
+        "given": "Z."
+      }
+    ],
+    "title": "Blainvillea Cass",
+    "editor": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Shi",
+        "given": "Z."
+      }
+    ],
+    "container-title": "Flora Guizhouensis",
+    "volume": "9",
+    "publisher": "Sichuan Ethnic Publishing House",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "1989",
+    "page": "157–158",
+    "publisher-place": "Chengdu"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.S."
+      },
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      }
+    ],
+    "title": "Tribe Heliantheae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols. 20–21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "852–878",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chuang",
+        "given": "H."
+      }
+    ],
+    "title": "Blainvillea Cass",
+    "editor": [
+      {
+        "family": "Chuang",
+        "given": "H."
+      }
+    ],
+    "container-title": "Flora Yunnanica",
+    "volume": "13",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "280–281",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Dunn",
+        "given": "S.T."
+      }
+    ],
+    "title": "A supplementary list of Chinese flowering plants, 1904–1910",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society of London, Botany",
+    "issued": "1911",
+    "page": "411–506",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1911.tb02329.x",
+    "DOI": "10.1111/j.1095-8339.1911.tb02329.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Garg",
+        "given": "S."
+      },
+      {
+        "family": "Sharma",
+        "given": "K."
+      }
+    ],
+    "title": "Taxonomical significance of the morphological and scanning electron microscopic surface patterns of cypselas in some members of the tribe Heliantheae (Asteraceae",
+    "volume": "118",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issued": "2007",
+    "page": "165–191",
+    "URL": "https://doi.org/10.1002/fedr.200711134",
+    "DOI": "10.1002/fedr.200711134"
+  },
+  {
+    "author": [
+      {
+        "family": "Gu",
+        "given": "Z.C."
+      },
+      {
+        "family": "Chen",
+        "given": "G.X."
+      }
+    ],
+    "title": "The new records of the seed plant in Hunan",
+    "volume": "16",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Journal of Jishou University (Natural Science",
+    "issued": "1995",
+    "page": "67–70"
+  },
+  {
+    "author": [
+      {
+        "family": "Koster",
+        "given": "J.T."
+      },
+      {
+        "family": "Philipson",
+        "given": "W.R."
+      }
+    ],
+    "title": "Nomenclatural changes in Spilanthes and Blainvillea with remarks and a key to the species of Spilanthes in the Malay Archepelago",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1950",
+    "page": "347–354"
+  },
+  {
+    "author": [
+      {
+        "family": "Koyama",
+        "given": "H."
+      }
+    ],
+    "title": "Taxonomic studies in the Compositae of Thailand 6",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issued": "1985",
+    "page": "167–172"
+  },
+  {
+    "author": [
+      {
+        "family": "Lessing",
+        "given": "C.F."
+      }
+    ],
+    "title": "Synanthereae Rich",
+    "editor": [
+      {
+        "family": "Chamisso",
+        "given": "L.C.A."
+      },
+      {
+        "family": "Schlechtendal",
+        "given": "D.F.L.von"
+      }
+    ],
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1831",
+    "page": "83–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "publisher": "Imprensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "561–1200"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementum Plantarum Systematis Vegetabilium Editionis Decimae Tertiae, Generum Plantarum Editionis Sextae, et Specierum Plantarum Editionis Secundae",
+    "publisher": "Impensis Orphanotrophei, Brunsvigae",
+    "type": "book",
+    "issued": "1781",
+    "page": "468"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "A second supplementary list of Hainan plants",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Lingnan Science Journal",
+    "issued": "1928",
+    "page": "323–332"
+  },
+  {
+    "author": [
+      {
+        "family": "Orchard",
+        "given": "A.E."
+      }
+    ],
+    "title": "The Australian species of Blainvillea Cass",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Asteraceae: Ecliptinae). Austrobaileya",
+    "issued": "2012",
+    "page": "653–669"
+  },
+  {
+    "author": [
+      {
+        "family": "Orchard",
+        "given": "A.E."
+      }
+    ],
+    "title": "The Wollastonia/Melanthera/Wedelia generic complex (Asteraceae: Ecliptinae), with particular reference to Australia and Malesia",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Nuytsia",
+    "issued": "2013",
+    "page": "337–466"
+  },
+  {
+    "author": [
+      {
+        "family": "Orchard",
+        "given": "A.E."
+      }
+    ],
+    "title": "Blainvilea",
+    "editor": [
+      {
+        "family": "Wilson",
+        "given": "A."
+      }
+    ],
+    "container-title": "Flora of Australia",
+    "volume": "37, Asteraceae 1",
+    "publisher": "ABRS",
+    "type": "chapter",
+    "issued": "2015",
+    "page": "496–501",
+    "publisher-place": "Canberra"
+  },
+  {
+    "author": [
+      {
+        "family": "Ren",
+        "given": "C."
+      }
+    ],
+    "title": "Phylogenetic position and independent generic status of Indocypraea (Asteraceae-Heliantheae-Ecliptinae): evidence from chloroplast DNA sequences",
+    "volume": "277",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "146–158",
+    "URL": "https://doi.org/10.11646/phytotaxa.277.2.2",
+    "DOI": "10.11646/phytotaxa.277.2.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Yi",
+        "given": "S.R."
+      },
+      {
+        "family": "Huang",
+        "given": "Y."
+      },
+      {
+        "family": "Shen",
+        "given": "M.L."
+      },
+      {
+        "family": "Xie",
+        "given": "S.Y."
+      },
+      {
+        "family": "Liang",
+        "given": "G.L."
+      }
+    ],
+    "title": "Additions to the seed plants flora of Jinfo Mount",
+    "volume": "26",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Nature Reserve in Chongqing. Ecological Science",
+    "issued": "2007",
+    "page": "242–245"
+  },
+  {
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "X.F."
+      },
+      {
+        "family": "Qiu",
+        "given": "H.Y."
+      }
+    ],
+    "title": "Blainvillea Cass. (Asteraceae), a newly recorded genus in Jiangxi Province, China",
+    "volume": "35",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Journal of South China Agricultural University",
+    "issued": "2014",
+    "page": "115–116"
+  }
+]

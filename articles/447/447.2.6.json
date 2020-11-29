@@ -1,0 +1,239 @@
+[
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Li",
+        "given": "M."
+      },
+      {
+        "family": "Knyaz",
+        "given": "C."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2018",
+    "page": "1547–1549",
+    "URL": "https://doi.org/10.1093/molbev/msy096",
+    "DOI": "10.1093/molbev/msy096"
+  },
+  {
+    "author": [
+      {
+        "family": "Lado",
+        "given": "C."
+      }
+    ],
+    "title": "An online nomenclatural information system of Eumycetozoa",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2005",
+    "publisher-place": "Real Jardín Botánico, CSIC. Madrid, Spain",
+    "URL": "http://www.nomen.eumycetozoa.com"
+  },
+  {
+    "author": [
+      {
+        "family": "Moreno",
+        "given": "G."
+      },
+      {
+        "family": "Mitchell",
+        "given": "D.W."
+      },
+      {
+        "family": "Rojas",
+        "given": "C."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      }
+    ],
+    "title": "A new species of Stemonitis (Myxomycetes) from Costa Rica",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Micológica de Madrid",
+    "issued": "2010",
+    "page": "199–203"
+  },
+  {
+    "author": [
+      {
+        "family": "Moreno",
+        "given": "G."
+      },
+      {
+        "family": "Castillo",
+        "given": "A."
+      },
+      {
+        "family": "Deschamps",
+        "given": "J.R."
+      }
+    ],
+    "title": "Critical revision of myxomycetes in the Buenos Aires BAFC herbarium – 1",
+    "volume": "123",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2013",
+    "page": "63–79",
+    "URL": "https://doi.org/10.5248/123.63",
+    "DOI": "10.5248/123.63"
+  },
+  {
+    "author": [
+      {
+        "family": "Nandipati",
+        "given": "S.C.R."
+      },
+      {
+        "family": "Haugli",
+        "given": "K."
+      },
+      {
+        "family": "Coucheron",
+        "given": "D.H."
+      },
+      {
+        "family": "Haskins",
+        "given": "E.F."
+      },
+      {
+        "family": "Johansen",
+        "given": "S.D."
+      }
+    ],
+    "title": "Polyphyletic origin of the genus Physarum (Physarales, Myxomycetes) revealed by nuclear rDNA mini-chromosome analysis and group I intron synapomorphy",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2012",
+    "page": "166",
+    "URL": "https://doi.org/10.1186/1471-2148-12-166",
+    "DOI": "10.1186/1471-2148-12-166"
+  },
+  {
+    "author": [
+      {
+        "family": "Shchepin",
+        "given": "O.N."
+      },
+      {
+        "family": "Schnittler",
+        "given": "M."
+      },
+      {
+        "family": "Erastova",
+        "given": "D.A."
+      },
+      {
+        "family": "Prikhodko",
+        "given": "I.S."
+      },
+      {
+        "family": "Borg Dahl",
+        "given": "M."
+      },
+      {
+        "family": "Azarov",
+        "given": "D.V."
+      },
+      {
+        "family": "Chernyaeva",
+        "given": "E.N."
+      },
+      {
+        "family": "Novozhilov",
+        "given": "Y.K."
+      }
+    ],
+    "title": "Community of dark-spored myxomycetes in ground litter and soil of taiga forest (Nizhne-Svirskiy Reserve, Russia) revealed by DNA metabarcoding",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Fungal Ecology",
+    "issued": "2019",
+    "page": "80–93",
+    "URL": "https://doi.org/10.1016/j.funeco.2018.11.006",
+    "DOI": "10.1016/j.funeco.2018.11.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Nei",
+        "given": "M."
+      }
+    ],
+    "title": "Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1993",
+    "page": "512–526",
+    "URL": "https://doi.org/10.1093/oxfordjournals.molbev.a040023",
+    "DOI": "10.1093/oxfordjournals.molbev.a040023"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      }
+    ],
+    "title": "CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1994",
+    "page": "4673–4680",
+    "URL": "https://doi.org/10.1093/nar/22.22.4673",
+    "DOI": "10.1093/nar/22.22.4673"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "B."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      }
+    ],
+    "title": "A new species, Stemonitis sichuanensis, and a newly recorded species, Stemonitis marjana (Myxogastria) from China",
+    "volume": "258",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2016",
+    "page": "195–199",
+    "URL": "https://doi.org/10.11646/phytotaxa.258.2.10",
+    "DOI": "10.11646/phytotaxa.258.2.10"
+  }
+]

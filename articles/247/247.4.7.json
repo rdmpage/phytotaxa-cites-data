@@ -1,0 +1,367 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blanco",
+        "given": "F.M."
+      }
+    ],
+    "title": "Flora de Filipinas",
+    "publisher": "Sto. Thomas, Manila",
+    "type": "book",
+    "issued": "1837",
+    "page": "887"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Hoya"
+      },
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indie 17",
+    "publisher": "Ter Lands Brukkerij",
+    "type": "book",
+    "issued": "1826",
+    "page": "1062–1065",
+    "publisher-place": "Bogor"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Hoya",
+    "editor": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "container-title": "Museum botanicum Lugduno-Batavum 1",
+    "publisher": "J. Brill",
+    "type": "chapter",
+    "issued": "1849",
+    "page": "43–45",
+    "publisher-place": "Leiden"
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "T."
+      }
+    ],
+    "title": "Hoya fraterna versus Hoya coriacea",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Fraterna",
+    "issued": "1993",
+    "page": "8–11"
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "T."
+      }
+    ],
+    "title": "Hoya meliflua Merrill ssp. fraterna Green, ssp. nova",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Fraterna",
+    "issued": "1995",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "T."
+      }
+    ],
+    "title": "Editors note",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Fraterna",
+    "issued": "1995",
+    "page": "9"
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "T."
+      }
+    ],
+    "title": "Designation of a neotype for a species of Hoya from the Philippines and Indonesia – Hoya meliflua subspecies fraterna T",
+    "volume": "4",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Green. Hoya New",
+    "issue": "3",
+    "issued": "2015",
+    "page": "15–17",
+    "URL": "http://www.rare-hoyas.com/publication.htm"
+  },
+  {
+    "author": [
+      {
+        "family": "Hiepko",
+        "given": "P."
+      }
+    ],
+    "title": "Die erhaltenen Teile der Sammlungen des Botanischen Museums Berlin-Dahlem (B) aus der Zeit vor 1943",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "1978",
+    "page": "389–400"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "Hoya fraterna",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "Curtis’s Botanical Magazine",
+    "issued": "1852",
+    "page": "4684"
+  },
+  {
+    "author": [
+      {
+        "family": "Kloppenburg",
+        "given": "R.D."
+      }
+    ],
+    "title": "Hoya davaoensis Kloppenburg",
+    "volume": "1",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Hoya New",
+    "issue": "2",
+    "issued": "2013",
+    "page": "9–12",
+    "URL": "http://www.rare-hoyas.com/publication.htm"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154",
+    "publisher": "Koeltz Scientific Books",
+    "type": null,
+    "issued": "2012",
+    "page": "205",
+    "publisher-place": "Königstein"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "Species Blancoanae",
+    "publisher": "Manila Bureau of Printing, Manila",
+    "type": "book",
+    "issued": "1918",
+    "page": "423"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "New or noteworthy Philippine plants XIV",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Philippine Journal of Science",
+    "issued": "1918",
+    "page": "263–344"
+  },
+  {
+    "author": [
+      {
+        "family": "Nicholas",
+        "given": "A."
+      }
+    ],
+    "title": "The Asclepiadaceous works of Rudolf F. Schlechter (1872–1925",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "1992",
+    "page": "215–264"
+  },
+  {
+    "author": [
+      {
+        "family": "Nicolson",
+        "given": "D.H."
+      },
+      {
+        "family": "Arculus",
+        "given": "D."
+      }
+    ],
+    "title": "Candidates for neotypification of Blanco’s names of Philippine plants: specimens in the U.S",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "National Herbarium. Taxon",
+    "issued": "2001",
+    "page": "947–954"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.E."
+      }
+    ],
+    "title": "Hoya fraterna. Flore des serres et des jardins de l’Europe",
+    "volume": "8",
+    "type": null,
+    "issued": "1853",
+    "page": "179–180, 815"
+  },
+  {
+    "editor": [
+      {
+        "family": "Röpert",
+        "given": "D."
+      }
+    ],
+    "title": "continuously updated] Digital specimen images at the Herbarium Berolinense",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2000",
+    "URL": "http://ww2.bgbm.org/herbarium/"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der Asclepiadaceen des Monsum-Gebietes. Botanische Jahrbücher für Systematik",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issue": "Beibl. 92",
+    "issued": "1908",
+    "page": "1–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      },
+      {
+        "family": "Warburg",
+        "given": "O."
+      }
+    ],
+    "title": "Asclepiadaceae In",
+    "editor": [
+      {
+        "family": "Perkins",
+        "given": "J."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Fragmenta Florae Philippinae",
+    "issued": "1904",
+    "page": "119–136",
+    "publisher-place": "Begruder Borntraeger, Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Steenis-Kruseman",
+        "given": "M.J.van"
+      }
+    ],
+    "title": "Malaysian plant collectors and collections: Being a cyclopaedia of botanical exploration in Malaysia and a guide to the concerned literature up to the year 1950",
+    "volume": "1",
+    "publisher": "Noordhoff-Kolff N.V. Jakarta",
+    "type": "article-journal",
+    "container-title": "Flora Malesiana",
+    "issued": "1950",
+    "page": "639"
+  }
+]

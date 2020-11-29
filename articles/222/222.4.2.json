@@ -1,0 +1,464 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ali",
+        "given": "S.I."
+      }
+    ],
+    "title": "Revision of the genus Indigofera L. from W",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Pakistan and N.W. Himalayas. Botaniska Notiser",
+    "issued": "1958",
+    "page": "543–577"
+  },
+  {
+    "author": [
+      {
+        "family": "Craib",
+        "given": "W.G."
+      }
+    ],
+    "title": "Indigoferas of China. Notes from the Royal Botanic Garden",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Edinburgh",
+    "issue": "36",
+    "issued": "1913",
+    "page": "47–77"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Plantae Delavayanae",
+    "publisher": "Paul Klincksieck, Paris",
+    "type": "book",
+    "issued": "1889",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "family": "Gao",
+        "given": "X.F."
+      },
+      {
+        "family": "Schrire",
+        "given": "B.D."
+      }
+    ],
+    "title": "Indigofera",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Science Press, Beijing and Missouri Botanical Garden Press, St. Louis",
+    "type": "book",
+    "issued": "2010",
+    "page": "137–164",
+    "publisher-place": "Missouri"
+  },
+  {
+    "author": [
+      {
+        "family": "King",
+        "given": "G."
+      },
+      {
+        "family": "Prain",
+        "given": "D."
+      }
+    ],
+    "title": "Descriptions of some new plants from the North-Eastern Frontiers of India",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Journal of the Asiatic Society of Bengal",
+    "issued": "1898",
+    "page": "284–305"
+  },
+  {
+    "author": [
+      {
+        "family": "Lahaye",
+        "given": "R."
+      },
+      {
+        "family": "Savolainen",
+        "given": "V."
+      },
+      {
+        "family": "Duthoit",
+        "given": "S."
+      },
+      {
+        "family": "Maurin",
+        "given": "O."
+      },
+      {
+        "family": "Bank",
+        "given": "M.",
+        "particle": "van der"
+      }
+    ],
+    "title": "A test of psbK-psbI and atpF-atpH as potential plant DNA barcodes using the flora of the Kruger National Park as a model system (South Africa",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Nature Precedings",
+    "issued": "2008",
+    "URL": "http://hdl.handle.net/10101/npre.2008.1896.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "title": "Tracer v1.5",
+    "note": "Avaiable from:",
+    "type": null,
+    "issued": "2009",
+    "URL": "http://beast.bio.ed.ac.uk/Tracer"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Schinz",
+        "given": "H."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der Flora von Deutsch-Südwest-Afrika und der angrenzenden Gebiete",
+    "container-title": "Verhandlungen des Botanischen Vereins für die Provinz Brandenburg und die Angrenzenden Länder",
+    "volume": "30",
+    "type": "chapter",
+    "issued": "1888",
+    "page": "138–186"
+  },
+  {
+    "author": [
+      {
+        "family": "Schrire",
+        "given": "B.D."
+      },
+      {
+        "family": "Lavin",
+        "given": "M."
+      },
+      {
+        "family": "Lewis",
+        "given": "G.P."
+      }
+    ],
+    "title": "Global distribution patterns of the Leguminosae: insights from recent phylogenies",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Biologiske Skrifter",
+    "issued": "2005",
+    "page": "375–422"
+  },
+  {
+    "author": [
+      {
+        "family": "Schrire",
+        "given": "B.D."
+      },
+      {
+        "family": "Lavin",
+        "given": "M."
+      },
+      {
+        "family": "Barker",
+        "given": "N.P."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      }
+    ],
+    "title": "Phylogeny of the tribe Indigofereae (Leguminosae-Papilionoideae): Geographically structured more in succulent-rich and temperate settings than in grass-rich environments",
+    "volume": "96",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2009",
+    "page": "816–852",
+    "URL": "http://dx.doi.org/10.3732/ajb.0800185",
+    "DOI": "10.3732/ajb.0800185"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      }
+    ],
+    "title": "Comparison of whole chloroplast genome sequences to choose noncoding regions for phylogenetic studies in angiosperms: the tortoise and the hare III",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "3",
+    "issued": "2007",
+    "page": "275–288",
+    "URL": "http://dx.doi.org/10.3732/ajb.94.3.275",
+    "DOI": "10.3732/ajb.94.3.275"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Rougemont",
+        "given": "J."
+      }
+    ],
+    "title": "A fast bootstrapping algorithm for the RAxML web servers",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2008",
+    "page": "758–771",
+    "URL": "http://dx.doi.org/10.1080/10635150802429642",
+    "DOI": "10.1080/10635150802429642"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic Analysis Using Parsimony",
+    "note": "* and Other Methods), version 4.0b10.",
+    "publisher": "Sinauer",
+    "type": null,
+    "issued": "2002",
+    "publisher-place": "Sunderland, Massachusetts, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "http://dx.doi.org/10.1007/BF00037152",
+    "DOI": "10.1007/BF00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "http://dx.doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      },
+      {
+        "family": "Lee",
+        "given": "S.B."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gefland",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "http://dx.doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Yin",
+        "given": "G.P."
+      },
+      {
+        "family": "Chen",
+        "given": "S.L."
+      },
+      {
+        "family": "Xiao",
+        "given": "X.H."
+      },
+      {
+        "family": "Chen",
+        "given": "S.Y."
+      }
+    ],
+    "title": "The numerical analysis of the distribution patterns and exploitation of the resources of Chinese Indigofera",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Guihaia",
+    "issue": "1",
+    "issued": "1992",
+    "page": "22–32"
+  }
+]

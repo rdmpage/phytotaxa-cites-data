@@ -1,0 +1,776 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alain",
+        "given": "B."
+      }
+    ],
+    "title": "Nomenclatural changes and additions to Britton and Wilson’s “Flora of Porto Rico and the Virgin Islands",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Rhodora",
+    "issued": "1965",
+    "page": "315–361"
+  },
+  {
+    "author": [
+      {
+        "family": "Bello",
+        "given": "D."
+      }
+    ],
+    "title": "Apuntes para la flora de Puerto-Rico",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Anales de la Sociedad Española de Historia Natural",
+    "issued": "1881",
+    "page": "233–304"
+  },
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "E."
+      }
+    ],
+    "title": "Monographie des Bignoniacées",
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1864",
+    "page": "214"
+  },
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "E."
+      }
+    ],
+    "title": "Description du genre nouveau Schizopsis de l’ordre des Bignoniacées",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1865",
+    "page": "369–381"
+  },
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "E."
+      }
+    ],
+    "title": "Révision des genres Tynanthus et Lundia",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1868",
+    "page": "270–294"
+  },
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "E."
+      },
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Bignoniaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.",
+        "particle": "von"
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "8",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1896",
+    "page": "1–452",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis 9",
+    "type": null,
+    "issued": "1845",
+    "page": "142–248",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Chamisso",
+        "given": "A.de"
+      }
+    ],
+    "title": "De plantis in expeditione Romanzoffiana",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1832",
+    "page": "653–723"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Studies in Bignoniaceae III. Two new Panamanian species of Bignoniaceae",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1971",
+    "page": "93–96",
+    "URL": "http://dx.doi.org/10.2307/2394928",
+    "DOI": "10.2307/2394928"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Studies in Bignoniaceae 12: New or noteworthy species of South American Bignoniaceae",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1974",
+    "page": "872–885",
+    "URL": "http://dx.doi.org/10.2307/2395034",
+    "DOI": "10.2307/2395034"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Studies in Bignoniaceae 19: Generic mergers and new species of South American Bignoniaceae",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1976",
+    "page": "46–80",
+    "URL": "http://dx.doi.org/10.2307/2395223",
+    "DOI": "10.2307/2395223"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Bignoniaceae. In: The botany of the Guayana highland—Part X",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1978",
+    "page": "267–281"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Studies in the Bignoniaceae 37: New species of Bignoniaceae from eastern South America",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1980",
+    "page": "201–215"
+  },
+  {
+    "author": [
+      {
+        "family": "Gomes-Silva",
+        "given": "F."
+      }
+    ],
+    "title": "Evolução de acarodomácias em Bignonieae (Bignoniaceae",
+    "genre": "MSc. Dissertation,",
+    "publisher": "Universidade de São Paulo, São Paulo",
+    "type": "thesis",
+    "issued": "2009",
+    "page": "114"
+  },
+  {
+    "author": [
+      {
+        "family": "Hiepko",
+        "given": "P."
+      }
+    ],
+    "title": "The collections of the Botanical Museum Berlin-Dahlem (B) and their history",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Englera",
+    "issued": "1987",
+    "page": "219–252"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "R."
+      }
+    ],
+    "title": "Initia Florae Venezuelensis",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Repertorium specierum novarum regni vegetabilis",
+    "issued": "1927",
+    "page": "1–768"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Revisio Generum Plantarum",
+    "issue": "2",
+    "issued": "1898",
+    "page": "555",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Leaf Architecture Working"
+      }
+    ],
+    "title": "Manual of leaf architecture—morphological description and categorization of dicotyledonous and net-veined monocotyledonous angiosperms",
+    "publisher": "Smithsonian Institution, Washington",
+    "type": "book",
+    "issued": "1999",
+    "page": "65"
+  },
+  {
+    "author": [
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      }
+    ],
+    "title": "Untangling the phylogeny of Neotropical lianas (Bignonieae, Bignoniaceae",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2006",
+    "page": "304–318",
+    "URL": "http://dx.doi.org/10.3732/ajb.93.2.304",
+    "DOI": "10.3732/ajb.93.2.304"
+  },
+  {
+    "author": [
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      }
+    ],
+    "title": "Bignoniaceae",
+    "editor": [
+      {
+        "family": "Hotchke",
+        "given": "O."
+      },
+      {
+        "family": "Berry",
+        "given": "P."
+      },
+      {
+        "family": "Huber",
+        "given": "O."
+      }
+    ],
+    "container-title": "Nuevo Catálogo de la Flora Vascular de Venezuela. Caracas",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "270–278"
+  },
+  {
+    "author": [
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      },
+      {
+        "family": "Taylor",
+        "given": "C.M."
+      }
+    ],
+    "title": "A new generic classification of Tribe Bignonieae (Bignoniaceae",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "2014",
+    "page": "348–489",
+    "URL": "http://dx.doi.org/10.3417/2003187",
+    "DOI": "10.3417/2003187"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code). Koeltz Scientific Books, Koenigstein. Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.iapt-taxon.org/nomen/main.php"
+  },
+  {
+    "author": [
+      {
+        "family": "Medeiros",
+        "given": "M.C.M.P."
+      },
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      }
+    ],
+    "title": "Two new species of Tynanthus Miers (Bignonieae, Bignoniaceae) from Brazil",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Phytokeys",
+    "issued": "2014",
+    "page": "77–85",
+    "URL": "http://dx.doi.org/10.3897/phytokeys.42.8210",
+    "DOI": "10.3897/phytokeys.42.8210"
+  },
+  {
+    "author": [
+      {
+        "family": "Medeiros",
+        "given": "M.C.M.P."
+      },
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      }
+    ],
+    "title": "Phylogeny and biogeography of Tynanthus Miers (Bignonieae, Bignoniaceae",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2015",
+    "page": "32–40",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2015.01.010",
+    "DOI": "10.1016/j.ympev.2015.01.010"
+  },
+  {
+    "author": [
+      {
+        "family": "Miers",
+        "given": "J."
+      }
+    ],
+    "title": "Report on the plants collected by Mr. Weir, especially the Bignoniaceae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Royal Horticultural Society of London",
+    "issued": "1863",
+    "page": "179–202"
+  },
+  {
+    "author": [
+      {
+        "family": "Nogueira",
+        "given": "A."
+      },
+      {
+        "family": "El-Ottra",
+        "given": "J.H.L."
+      },
+      {
+        "family": "Guimarães",
+        "given": "E."
+      },
+      {
+        "family": "Machado",
+        "given": "S.R."
+      },
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      }
+    ],
+    "title": "Trichome structure and evolution in Neotropical lianas",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2013",
+    "page": "1331–1350",
+    "URL": "http://dx.doi.org/10.1093/aob/mct201",
+    "DOI": "10.1093/aob/mct201"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      }
+    ],
+    "title": "Fundamentals of plant systematics",
+    "publisher": "Harper & Row",
+    "type": "book",
+    "issued": "1986",
+    "page": "498",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodrigues",
+        "given": "J.B."
+      }
+    ],
+    "title": "Eclogae plantarum novarum",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Vellosia",
+    "issued": "1891",
+    "page": "1–133"
+  },
+  {
+    "author": [
+      {
+        "family": "Rusby",
+        "given": "H.H."
+      }
+    ],
+    "title": "Description of three hundred new species of South American plants",
+    "publisher": "Henry Hurd Rusby",
+    "type": "book",
+    "issued": "1920",
+    "page": "165",
+    "publisher-place": "New York",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.56802",
+    "DOI": "10.5962/bhl.title.56802"
+  },
+  {
+    "author": [
+      {
+        "family": "Sandwith",
+        "given": "N.Y."
+      }
+    ],
+    "title": "Contributions to the flora of Tropical America: LVI. Further Studies in Bignoniaceae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1953",
+    "page": "451–484",
+    "URL": "http://dx.doi.org/10.2307/4117347",
+    "DOI": "10.2307/4117347"
+  },
+  {
+    "author": [
+      {
+        "family": "Sandwith",
+        "given": "N.Y."
+      }
+    ],
+    "title": "Contributions to the flora of Tropical America: LXVII. Notes on Bignoniaceae: XXV: Proposed Lectotypes of Certain Genera",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1962",
+    "page": "453–457",
+    "URL": "http://dx.doi.org/10.2307/4115626",
+    "DOI": "10.2307/4115626"
+  },
+  {
+    "author": [
+      {
+        "family": "Sandwith",
+        "given": "N.Y."
+      }
+    ],
+    "title": "Contributions to the flora of Tropical America: LXVIII. Notes on Bignoniaceae: XXVI",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1962",
+    "page": "459–466",
+    "URL": "http://dx.doi.org/10.2307/4115629",
+    "DOI": "10.2307/4115629"
+  },
+  {
+    "author": [
+      {
+        "family": "Schott",
+        "given": "H.W."
+      }
+    ],
+    "title": "Systema Vegetabilium",
+    "volume": "4",
+    "issue": "2",
+    "type": null,
+    "issued": "1827",
+    "page": "1–410"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Bignoniaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien",
+    "volume": "4",
+    "issue": "3b",
+    "type": "article-journal",
+    "issued": "1894",
+    "page": "189–252",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.D."
+      }
+    ],
+    "title": "Undescribed plants from Guatemala",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "The Botanical Gazette",
+    "issued": "1893",
+    "page": "1–7",
+    "URL": "http://dx.doi.org/10.1086/326878",
+    "DOI": "10.1086/326878"
+  },
+  {
+    "author": [
+      {
+        "family": "Sonder",
+        "given": "O.W."
+      }
+    ],
+    "title": "Plantae Regnellianae, Bignoniaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1849",
+    "page": "558–564"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprague",
+        "given": "T.A."
+      }
+    ],
+    "title": "Bignoniaceae peruvianae. Botanische Jahrbücher für Systematik",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1908",
+    "page": "175–177"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "volume": "1–7",
+    "editor": [
+      {
+        "family": "Bohn",
+        "given": "Scheltema"
+      },
+      {
+        "family": "Holkema",
+        "given": "Utrech"
+      }
+    ],
+    "type": null,
+    "issued": "1973",
+    "page": "94 , 98 , 105 , 110 , 112 , 115 116"
+  },
+  {
+    "author": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      }
+    ],
+    "title": "New plants from the Yucatan Peninsula",
+    "volume": "461",
+    "type": "article-journal",
+    "container-title": "Publications of the Carnegie Institution of Washington",
+    "issue": "4",
+    "issued": "1935",
+    "page": "49–91"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden's Virtual Herbarium",
+    "issued": "continuously updated",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M."
+      }
+    ],
+    "title": "Flora Fluminensis",
+    "edition": "6th",
+    "publisher": "Typographia Nationali, Rio de Janeiro",
+    "type": "book",
+    "issued": "1825",
+    "page": "352"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M."
+      }
+    ],
+    "title": "Flora Fluminensis, Icones",
+    "volume": "6",
+    "note": "unkown pagination",
+    "type": null,
+    "issued": "1827",
+    "publisher-place": "Senefelder, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Weberling",
+        "given": "F."
+      }
+    ],
+    "title": "Morphology of flowers and inflorescences",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "1989",
+    "page": "348"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "L.O."
+      }
+    ],
+    "title": "Tropical American plants, VI",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Fieldiana, Botany",
+    "issued": "1967",
+    "page": "249–269"
+  }
+]

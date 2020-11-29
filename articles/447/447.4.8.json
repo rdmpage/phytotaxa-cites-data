@@ -1,0 +1,307 @@
+[
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      },
+      {
+        "family": "Mill",
+        "given": "R.R."
+      },
+      {
+        "family": "Tan",
+        "given": "K."
+      }
+    ],
+    "title": "Polystichum Adans",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "volume": "10, (Suppl",
+    "publisher": "Edinburgh University Press",
+    "type": "book",
+    "issued": "1988",
+    "page": "5–6",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Prodromus Florae Nepalensis",
+    "volume": "Londini",
+    "type": "article-journal",
+    "container-title": "J. Gale",
+    "issued": "1825",
+    "page": "256"
+  },
+  {
+    "author": [
+      {
+        "family": "Henderson",
+        "given": "D.M."
+      }
+    ],
+    "title": "Polystichum Adans",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "volume": "1",
+    "publisher": "Edinburgh University Press",
+    "type": "book",
+    "issued": "1965",
+    "page": "56–57",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List Categories and Criteria, Version 13",
+    "container-title": "Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2017",
+    "page": "1–108",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Le Péchon",
+        "given": "T."
+      },
+      {
+        "family": "He",
+        "given": "H."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Zhou",
+        "given": "X.-M."
+      },
+      {
+        "family": "Gao",
+        "given": "X.-F."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "Using a multilocus phylogeny to test morphology-based classifications of one of the largest fern genera Polystichum (Dryopteridaceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2016",
+    "page": "55–79",
+    "URL": "https://doi.org/10.1186/s12862-016-0626-z",
+    "DOI": "10.1186/s12862-016-0626-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Impensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "McHenry",
+        "given": "M.A."
+      },
+      {
+        "family": "Barrington",
+        "given": "D.S."
+      }
+    ],
+    "title": "and biogeography of exindusiate Andean Polystichum (Dryopteridaceae",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2014",
+    "page": "365–375",
+    "URL": "https://doi.org/10.3732/ajb.1300191",
+    "DOI": "10.3732/ajb.1300191"
+  },
+  {
+    "author": [
+      {
+        "family": "Mickel",
+        "given": "J.T."
+      }
+    ],
+    "title": "A review of the West Indian species of Polystichum",
+    "volume": "pp.119–143",
+    "type": "article-journal",
+    "container-title": "Holttum memorial",
+    "issued": "1997"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "T."
+      }
+    ],
+    "title": "Index Filicum",
+    "publisher": "W. Pamplin, London",
+    "type": "book",
+    "issued": "1858",
+    "page": "204"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C."
+      }
+    ],
+    "title": "Tentamen pteridographiae, seu genera filicacearum praesertim juxta venarum decursum et distributionem exposita",
+    "publisher": "T. Haase, Prague",
+    "type": "book",
+    "issued": "1836",
+    "page": "290 , 12",
+    "URL": "https://doi.org/10.5962/bhl.title.630",
+    "DOI": "10.5962/bhl.title.630"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "A.W."
+      }
+    ],
+    "title": "Tentamen Florae Germanicae",
+    "volume": "3",
+    "publisher": "Gleditsch, Leipzig",
+    "type": "book",
+    "issued": "1800",
+    "page": "578"
+  },
+  {
+    "author": [
+      {
+        "family": "Tagawa",
+        "given": "T."
+      }
+    ],
+    "title": "Polystichum of Japan, Korea, and Formosa I",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Geobotanica",
+    "issued": "1940",
+    "page": "119–138"
+  },
+  {
+    "author": [
+      {
+        "family": "Yatskievych",
+        "given": "G."
+      }
+    ],
+    "title": "A revision of the fern genus Phanerophlebia (Dryopteridaceae",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1996",
+    "page": "168–199",
+    "URL": "https://doi.org/10.2307/2399946",
+    "DOI": "10.2307/2399946"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      },
+      {
+        "family": "Barrington",
+        "given": "D.S."
+      }
+    ],
+    "title": "Polystichum",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "2–3",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      },
+      {
+        "family": "Barrington",
+        "given": "D.S."
+      }
+    ],
+    "title": "Cyrtomium",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "2–3",
+    "publisher-place": "Beijing"
+  }
+]

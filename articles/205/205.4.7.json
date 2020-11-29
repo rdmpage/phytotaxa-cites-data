@@ -1,0 +1,959 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alston",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "An enumeration of the Indian species of Selaginella",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Indian National Science Academy",
+    "issued": "1945",
+    "page": "211–235"
+  },
+  {
+    "author": [
+      {
+        "family": "Banks",
+        "given": "J.A."
+      }
+    ],
+    "title": "Selaginella and 400 million years of separation",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Annual Review of Plant Biology",
+    "issued": "2009",
+    "page": "223–238",
+    "URL": "http://dx.doi.org/10.1146/annurev.arplant.59.032607.092851",
+    "DOI": "10.1146/annurev.arplant.59.032607.092851"
+  },
+  {
+    "author": [
+      {
+        "family": "Banks",
+        "given": "J.A."
+      },
+      {
+        "family": "Nishiyama",
+        "given": "T."
+      },
+      {
+        "family": "Hasebe",
+        "given": "M."
+      },
+      {
+        "family": "Bowman",
+        "given": "J.L."
+      },
+      {
+        "family": "Bribsko",
+        "given": "M."
+      },
+      {
+        "family": "Depamphilis",
+        "given": "C."
+      },
+      {
+        "family": "Albert",
+        "given": "V.A."
+      },
+      {
+        "family": "Aono",
+        "given": "N."
+      },
+      {
+        "family": "Aoyama",
+        "given": "T."
+      },
+      {
+        "family": "Ambrose",
+        "given": "B.A."
+      },
+      {
+        "family": "Ashton",
+        "given": "N.W."
+      },
+      {
+        "family": "Axtell",
+        "given": "M.J."
+      },
+      {
+        "family": "Barker",
+        "given": "E."
+      },
+      {
+        "family": "Barker",
+        "given": "M.S."
+      },
+      {
+        "family": "Bennetzen",
+        "given": "J.L."
+      },
+      {
+        "family": "Bonawitz",
+        "given": "N.D."
+      },
+      {
+        "family": "Chapple",
+        "given": "C."
+      },
+      {
+        "family": "Cheng",
+        "given": "C."
+      },
+      {
+        "family": "Correa",
+        "given": "L.G."
+      },
+      {
+        "family": "Dacre",
+        "given": "M."
+      },
+      {
+        "family": "DeBarry",
+        "given": "J."
+      },
+      {
+        "family": "Dreyer",
+        "given": "I."
+      },
+      {
+        "family": "Elias",
+        "given": "M."
+      },
+      {
+        "family": "Engstrom",
+        "given": "E.M."
+      },
+      {
+        "family": "Estelle",
+        "given": "M."
+      },
+      {
+        "family": "Feng",
+        "given": "L."
+      },
+      {
+        "family": "Finet",
+        "given": "C."
+      },
+      {
+        "family": "Floyd",
+        "given": "S.K."
+      },
+      {
+        "family": "Frommer",
+        "given": "W.B."
+      },
+      {
+        "family": "Fujita",
+        "given": "T."
+      },
+      {
+        "family": "Gramzow",
+        "given": "L."
+      },
+      {
+        "family": "Gutensohn",
+        "given": "M."
+      },
+      {
+        "family": "Harholt",
+        "given": "J."
+      },
+      {
+        "family": "Hattori",
+        "given": "M."
+      },
+      {
+        "family": "Heyl",
+        "given": "A."
+      },
+      {
+        "family": "Hirai",
+        "given": "T."
+      },
+      {
+        "family": "Hiwatashi",
+        "given": "Y."
+      },
+      {
+        "family": "Ishikawa",
+        "given": "M."
+      },
+      {
+        "family": "Iwata",
+        "given": "M."
+      },
+      {
+        "family": "Karol",
+        "given": "K.G."
+      },
+      {
+        "family": "Koehler",
+        "given": "B."
+      },
+      {
+        "family": "Kolukisaoglu",
+        "given": "U."
+      },
+      {
+        "family": "Kubo",
+        "given": "M."
+      },
+      {
+        "family": "Kurata",
+        "given": "T."
+      },
+      {
+        "family": "Lalonde",
+        "given": "S."
+      },
+      {
+        "family": "Li",
+        "given": "K."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Litt",
+        "given": "A."
+      },
+      {
+        "family": "Lyons",
+        "given": "E."
+      },
+      {
+        "family": "Manning",
+        "given": "G."
+      },
+      {
+        "family": "Maruyama",
+        "given": "T."
+      },
+      {
+        "family": "Michael",
+        "given": "T.P."
+      },
+      {
+        "family": "Mikami",
+        "given": "K."
+      },
+      {
+        "family": "Miyazaki",
+        "given": "S."
+      },
+      {
+        "family": "Morinaga",
+        "given": "S."
+      },
+      {
+        "family": "Murata",
+        "given": "T."
+      },
+      {
+        "family": "Mueller-Roeber",
+        "given": "B."
+      },
+      {
+        "family": "Nelson",
+        "given": "D.R."
+      },
+      {
+        "family": "Obara",
+        "given": "M."
+      },
+      {
+        "family": "Oguri",
+        "given": "Y."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      },
+      {
+        "family": "Onodera",
+        "given": "N."
+      },
+      {
+        "family": "Petersen",
+        "given": "B.L."
+      },
+      {
+        "family": "Pils",
+        "given": "B."
+      },
+      {
+        "family": "Prigge",
+        "given": "M."
+      },
+      {
+        "family": "Rensing",
+        "given": "S.A."
+      },
+      {
+        "family": "Riaño-Pachón",
+        "given": "D.M."
+      },
+      {
+        "family": "Roberts",
+        "given": "A.W."
+      },
+      {
+        "family": "Sato",
+        "given": "Y."
+      },
+      {
+        "family": "Scheller",
+        "given": "H.V."
+      },
+      {
+        "family": "Schulz",
+        "given": "B."
+      },
+      {
+        "family": "Schulz",
+        "given": "C."
+      },
+      {
+        "family": "Shakirov",
+        "given": "E.V."
+      },
+      {
+        "family": "Shibagaki",
+        "given": "N."
+      },
+      {
+        "family": "Shinohara",
+        "given": "N."
+      },
+      {
+        "family": "Shippen",
+        "given": "D.E."
+      },
+      {
+        "family": "Sørensen",
+        "given": "I."
+      },
+      {
+        "family": "Sotooka",
+        "given": "R."
+      },
+      {
+        "family": "Sugimoto",
+        "given": "N."
+      },
+      {
+        "family": "Sugita",
+        "given": "M."
+      },
+      {
+        "family": "Sumikawa",
+        "given": "N."
+      },
+      {
+        "family": "Tanurdzic",
+        "given": "M."
+      },
+      {
+        "family": "Theissen",
+        "given": "G."
+      },
+      {
+        "family": "Ulvskov",
+        "given": "P."
+      },
+      {
+        "family": "Wakazuki",
+        "given": "S."
+      },
+      {
+        "family": "Weng",
+        "given": "J.K."
+      },
+      {
+        "family": "Willats",
+        "given": "W.W."
+      },
+      {
+        "family": "Wipf",
+        "given": "D."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.G."
+      },
+      {
+        "family": "Yang",
+        "given": "L."
+      },
+      {
+        "family": "Zimmer",
+        "given": "A.D."
+      },
+      {
+        "family": "Zhu",
+        "given": "Q."
+      },
+      {
+        "family": "Mitros",
+        "given": "T."
+      },
+      {
+        "family": "Hellsten",
+        "given": "U."
+      },
+      {
+        "family": "Loqué",
+        "given": "D."
+      },
+      {
+        "family": "Otillar",
+        "given": "R."
+      }
+    ],
+    "director": [
+      {
+        "family": "Salamov",
+        "given": "A."
+      },
+      {
+        "family": "Schmutz",
+        "given": "J."
+      },
+      {
+        "family": "Shapiro",
+        "given": "H."
+      },
+      {
+        "family": "Lindquist",
+        "given": "E."
+      },
+      {
+        "family": "Lucas",
+        "given": "S."
+      },
+      {
+        "family": "Rokhsar",
+        "given": "D."
+      },
+      {
+        "family": "Grigoriev",
+        "given": "I.V."
+      }
+    ],
+    "title": "The Selaginella genome identifies genetic changes associated with the evolution of vascular plants",
+    "volume": "332",
+    "type": "article-journal",
+    "container-title": "Science",
+    "issued": "2011",
+    "page": "960–963",
+    "URL": "http://dx.doi.org/10.1126/science.1203810",
+    "DOI": "10.1126/science.1203810"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax theatri botanici",
+    "editor": [
+      {
+        "family": "König",
+        "given": "L."
+      },
+      {
+        "given": "Basel"
+      }
+    ],
+    "type": null,
+    "issued": "1623",
+    "page": "522",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.712",
+    "DOI": "10.5962/bhl.title.712"
+  },
+  {
+    "author": [
+      {
+        "family": "Chandra",
+        "given": "S."
+      },
+      {
+        "family": "Fraser-Jenkins",
+        "given": "C.R."
+      },
+      {
+        "family": "Kumari",
+        "given": "A."
+      },
+      {
+        "family": "Srivastava",
+        "given": "A."
+      }
+    ],
+    "title": "A summary of the status of threatened Pteridophytes of India",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2008",
+    "page": "170–209"
+  },
+  {
+    "author": [
+      {
+        "family": "Clusius",
+        "given": "C."
+      }
+    ],
+    "title": "Rariorum plantarum Historia, et Appendix ad Historiam plantarum",
+    "type": "article-journal",
+    "container-title": "C. Plantini. Antwerpen",
+    "issued": "1601",
+    "page": "364"
+  },
+  {
+    "author": [
+      {
+        "family": "Daoud-Battour",
+        "given": "A."
+      },
+      {
+        "family": "Gammar-Grabi",
+        "given": "Z."
+      },
+      {
+        "family": "Limam-Ben Saad",
+        "given": "S."
+      },
+      {
+        "family": "Muller",
+        "given": "S.D."
+      }
+    ],
+    "title": "Selaginella denticulata. The IUCN Red List of Threatened Species",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issued": "2010",
+    "URL": "http://www.iucnredlist.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Dillenius",
+        "given": "J.J."
+      }
+    ],
+    "title": "Historia Muscorum",
+    "publisher": "Sheldon, Oxford",
+    "type": "book",
+    "issued": "1742",
+    "page": "576"
+  },
+  {
+    "author": [
+      {
+        "family": "Hermann",
+        "given": "P."
+      }
+    ],
+    "title": "Paradisus batavus. A",
+    "publisher": "Elzevier’s widow, Leiden",
+    "type": "book",
+    "issued": "1698",
+    "page": "247"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Order out of chaos: Linnaean plant names and their types",
+    "container-title": "Linnean Society of London and the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Jermy",
+        "given": "A."
+      }
+    ],
+    "title": "Subgeneric names in Selaginella",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Fern Gazette",
+    "issued": "1986",
+    "page": "117–118"
+  },
+  {
+    "author": [
+      {
+        "family": "Jermy",
+        "given": "A."
+      }
+    ],
+    "title": "Selaginellaceae",
+    "editor": [
+      {
+        "family": "Kramer",
+        "given": "K."
+      },
+      {
+        "family": "Green",
+        "given": "P."
+      }
+    ],
+    "volume": "1",
+    "publisher": "Pteridophytes and Gymnosperms. Springer",
+    "type": "book",
+    "issued": "1990",
+    "page": "404",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Judd",
+        "given": "W.S."
+      },
+      {
+        "family": "Campbell",
+        "given": "C.S."
+      },
+      {
+        "family": "Kellog",
+        "given": "E.A."
+      },
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      }
+    ],
+    "title": "Plant Systematics: A phylogenetic approach",
+    "publisher": "Sinauer Associates, Sunderland",
+    "type": "book",
+    "issued": "1999",
+    "page": "620"
+  },
+  {
+    "author": [
+      {
+        "family": "Kenrick",
+        "given": "P."
+      },
+      {
+        "family": "Crane",
+        "given": "P.R."
+      }
+    ],
+    "title": "The origin and early evolution of plants on land",
+    "volume": "389",
+    "type": "article-journal",
+    "container-title": "Nature",
+    "issued": "1997",
+    "page": "33–39",
+    "URL": "http://dx.doi.org/10.1038/37918",
+    "DOI": "10.1038/37918"
+  },
+  {
+    "author": [
+      {
+        "family": "Korall",
+        "given": "P."
+      },
+      {
+        "family": "Kenrick",
+        "given": "P."
+      }
+    ],
+    "title": "Phylogenetic relationships in Selaginellaceae based on rbcL sequences",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2002",
+    "page": "506–517",
+    "URL": "http://dx.doi.org/10.3732/ajb.89.3.506",
+    "DOI": "10.3732/ajb.89.3.506"
+  },
+  {
+    "author": [
+      {
+        "family": "Korall",
+        "given": "P."
+      },
+      {
+        "family": "Kenrick",
+        "given": "P."
+      }
+    ],
+    "title": "The phylogenetic history of Selaginellaceae based on DNA sequences from the plastid and nucleus: extreme substitution rates and rate heterogeneity",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2004",
+    "page": "852–864",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2003.10.014",
+    "DOI": "10.1016/j.ympev.2003.10.014"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Flora Zeylanica",
+    "publisher": "L.Salvius, Stockholm",
+    "type": "book",
+    "issued": "1747",
+    "page": "311"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "L.Salvius",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154.",
+    "publisher": "Koeltz Scientific Books",
+    "type": null,
+    "issued": "2012",
+    "page": "240",
+    "publisher-place": "Königstein"
+  },
+  {
+    "author": [
+      {
+        "family": "Ooststroom",
+        "given": "S.J.van"
+      }
+    ],
+    "title": "Hermann’s collection of Ceylon plants in the Rijksherbarium (National herbarium) at Leyden",
+    "volume": "I",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issue": "Supplement",
+    "issued": "1937",
+    "page": "193–209"
+  },
+  {
+    "author": [
+      {
+        "family": "Palisot-Beauvois",
+        "given": "A.M.F.J."
+      }
+    ],
+    "title": "Suite de l’Aethéogamie",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Magasin Encyclopédique",
+    "issue": "5",
+    "issued": "1804",
+    "page": "472–483"
+  },
+  {
+    "author": [
+      {
+        "family": "Raubeson",
+        "given": "L.A."
+      },
+      {
+        "family": "Jansen",
+        "given": "R.K."
+      }
+    ],
+    "title": "Chloroplast DNA evidence on the ancient evolutionary split in vascular land plants",
+    "volume": "255",
+    "type": "article-journal",
+    "container-title": "Science",
+    "issued": "1992",
+    "page": "1697–1699",
+    "URL": "http://dx.doi.org/10.1126/science.255.5052.1697",
+    "DOI": "10.1126/science.255.5052.1697"
+  },
+  {
+    "author": [
+      {
+        "family": "Ray",
+        "given": "J."
+      }
+    ],
+    "title": "Historia plantarum generalis. Tomus tertius",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "S."
+      },
+      {
+        "family": "Walford",
+        "given": "B."
+      }
+    ],
+    "type": null,
+    "issued": "1704",
+    "page": "913",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Simpson",
+        "given": "M.G."
+      }
+    ],
+    "title": "Plant Systematics",
+    "publisher": "Elsevier Academic Press, Burlington/San Diego/London",
+    "type": "book",
+    "issued": "2006",
+    "page": "590"
+  },
+  {
+    "author": [
+      {
+        "family": "Spring",
+        "given": "A.F."
+      }
+    ],
+    "title": "Beiträge zur Kenntniss der Lycopodien",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issue": "1",
+    "issued": "1838",
+    "page": "145–158, 161–175, 177–191, 193–206, 209–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "B.A."
+      }
+    ],
+    "title": "Upper Carboniferous herbaceous lycopsids",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Review of Palaeobotany and Palynology",
+    "issued": "1997",
+    "page": "129–153",
+    "URL": "http://dx.doi.org/10.1016/S0034-6667(96)00032-2",
+    "DOI": "10.1016/S0034-6667(96)00032-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Trimen",
+        "given": "H."
+      }
+    ],
+    "title": "Hermann’s Ceylon herbarium and Linnaeus’s Flora Zeylanica",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "The Journal of the Linnean Society. Botany",
+    "issued": "1887",
+    "page": "129–155"
+  },
+  {
+    "author": [
+      {
+        "family": "Tryon",
+        "given": "R.M."
+      },
+      {
+        "family": "Tryon",
+        "given": "A.F."
+      }
+    ],
+    "title": "Ferns and Allied Plants with Special Reference to Tropical America",
+    "publisher": "Springer, Berlin/Heidelberg/New York",
+    "type": "book",
+    "issued": "1982",
+    "page": "857",
+    "URL": "http://dx.doi.org/10.1007/978-1-4613-8162-4",
+    "DOI": "10.1007/978-1-4613-8162-4"
+  }
+]

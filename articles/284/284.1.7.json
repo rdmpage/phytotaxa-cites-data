@@ -1,0 +1,400 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "F."
+      }
+    ],
+    "title": "Histoire des plantes de la Guiane Françoise Volume 1",
+    "container-title": "Chez P.F. Didot jeune, Libraire de la Faculté de Medicine, Quai des Augustins",
+    "type": "chapter",
+    "issued": "1775",
+    "page": "621",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Browne",
+        "given": "P."
+      }
+    ],
+    "title": "The Civil and Natural History of Jamaica in Three Parts. Printed for the author, and sold by T",
+    "type": "article-journal",
+    "container-title": "Osborne and J. Shipton in Gray’s-Inn. London",
+    "issued": "1756",
+    "page": "503"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C."
+      }
+    ],
+    "title": "Melastomacées",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A."
+      },
+      {
+        "family": "De Candolle",
+        "given": "C."
+      }
+    ],
+    "container-title": "Monographiae phanerogamarum 7",
+    "publisher": "G. Masson",
+    "type": "chapter",
+    "issued": "1891",
+    "page": null,
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Cotton",
+        "given": "E."
+      }
+    ],
+    "title": "Melastomataceae en el sur de Ecuador. In: Botánica austroecuatoriana-Estudios sobre los recursos vegetales en las provincias de El Oro, Loja y Zamora-Chinchipe",
+    "type": null,
+    "issued": "2002",
+    "page": "137–158",
+    "publisher-place": "Ediciones Abya Yala, Quito"
+  },
+  {
+    "author": [
+      {
+        "family": "Cotton",
+        "given": "E."
+      },
+      {
+        "family": "Matezki",
+        "given": "S."
+      }
+    ],
+    "title": "Ecuadorian novelties in Blakea and Topobea (Melastomataceae",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2003",
+    "page": "73–81",
+    "URL": "http://dx.doi.org/10.1663/0007-196X(2003)055",
+    "DOI": "10.1663/0007-196X(2003)055"
+  },
+  {
+    "author": [
+      {
+        "family": "Gleason",
+        "given": "H.A."
+      }
+    ],
+    "title": "On Blakea and Topobea",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1945",
+    "page": "385–393",
+    "URL": "http://dx.doi.org/10.2307/2481538",
+    "DOI": "10.2307/2481538"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for application of IUCN red list criteria at regional levels: version 3.1",
+    "publisher": "IUCN Species Survival Commission, IUCN",
+    "type": "book",
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Ulloa Ulloa",
+        "given": "C."
+      }
+    ],
+    "title": "A new species of Graffenrieda (Melastomataceae) from the Andes in Southern Ecuador",
+    "volume": "77",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2013",
+    "page": "43–48",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.77.3.2",
+    "DOI": "10.11646/phytotaxa.77.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      }
+    ],
+    "title": "Phylogeny and character evolution in the Blakeeae (Melastomataceae",
+    "genre": "PhD Thesis.",
+    "publisher": "University of",
+    "type": "thesis",
+    "issued": "2007",
+    "publisher-place": "Florida, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "Cotton",
+        "given": "E."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "León-Yánez",
+        "given": "S."
+      },
+      {
+        "family": "Valencia",
+        "given": "R."
+      },
+      {
+        "family": "Pitman",
+        "given": "N."
+      },
+      {
+        "family": "Endara",
+        "given": "L.Ulloa Ulloa"
+      },
+      {
+        "given": "C."
+      },
+      {
+        "family": "Navarrete",
+        "given": "H."
+      }
+    ],
+    "container-title": "Libro rojo de las plantas endémicas del Ecuador",
+    "edition": "2nd",
+    "publisher": "Herbario QCA, Pontificia Universidad Católica del Ecuador",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "393–423",
+    "publisher-place": "Quito, Ecuador"
+  },
+  {
+    "author": [
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "Judd",
+        "given": "W.S."
+      }
+    ],
+    "title": "Phylogenetics and morphology in the Blakeeae (Melastomataceae",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2011",
+    "page": "78–106",
+    "URL": "http://dx.doi.org/10.1086/657284",
+    "DOI": "10.1086/657284"
+  },
+  {
+    "author": [
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "Judd",
+        "given": "W.S."
+      }
+    ],
+    "title": "A revised circumscription for the Blakeeae (Melastomataceae) with associated nomenclatural adjustments",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2013",
+    "page": "17–32",
+    "URL": "http://dx.doi.org/10.3897/phytokeys.20.4344",
+    "DOI": "10.3897/phytokeys.20.4344"
+  },
+  {
+    "author": [
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "Judd",
+        "given": "W.S."
+      }
+    ],
+    "title": "Combined molecular and morphological phylogenetic analyses of the Blakeeae (Melastomataceae",
+    "volume": "174",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2013",
+    "page": "802–817",
+    "URL": "http://dx.doi.org/10.1086/670011",
+    "DOI": "10.1086/670011"
+  },
+  {
+    "author": [
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "C",
+        "given": "Ulloa Ulloa"
+      },
+      {
+        "family": "Neill",
+        "given": "D.A."
+      },
+      {
+        "family": "Fernandez",
+        "given": "D."
+      }
+    ],
+    "title": "A new species of Chalybea from Ecuador",
+    "volume": "212",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2015",
+    "page": "264–270",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.212.4.2",
+    "DOI": "10.11646/phytotaxa.212.4.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: A global directory of public herbaria and associated staff",
+    "publisher": "New York Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "publisher-place": "Bronx, NY",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Ulloa Ulloa",
+        "given": "C."
+      },
+      {
+        "family": "Neill",
+        "given": "D.A."
+      }
+    ],
+    "title": "Phainantha shuariorum (Melastomataceae), una especie nueva de la Cordillera del Cóndor, Ecuador, disyunta de un género guayanés",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2006",
+    "page": "281–285",
+    "URL": "http://dx.doi.org/10.3417/1055-3177(2006)16",
+    "DOI": "10.3417/1055-3177(2006)16"
+  },
+  {
+    "author": [
+      {
+        "family": "Ulloa Ulloa",
+        "given": "C."
+      },
+      {
+        "family": "Homeier",
+        "given": "J."
+      }
+    ],
+    "title": "Meriania franciscana (Melastomataceae), una especie nueva de los Andes de Ecuador",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issue": "2",
+    "issued": "2008",
+    "page": "383–387"
+  },
+  {
+    "author": [
+      {
+        "family": "Ulloa Ulloa",
+        "given": "C."
+      },
+      {
+        "family": "Neill",
+        "given": "D.A."
+      },
+      {
+        "family": "Dudek",
+        "given": "O.A."
+      }
+    ],
+    "title": "A new species of Miconia (Melastomataceae, Miconieae) from the Ecuador-Peru border",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Phytokeys",
+    "issued": "2012",
+    "page": "35–46",
+    "URL": "https://doi.org/10.3897/phytokeys.12.3027",
+    "DOI": "10.3897/phytokeys.12.3027"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Plants collected in Ecuador by W. H. Camp—Melastomataceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1967",
+    "page": "1–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Harling",
+        "given": "G."
+      },
+      {
+        "family": "Sparre",
+        "given": "B."
+      }
+    ],
+    "publisher": "University of Göteborg and Riksmuseum",
+    "type": "book",
+    "issued": "1980",
+    "page": "1–406",
+    "publisher-place": "Stockholm"
+  }
+]

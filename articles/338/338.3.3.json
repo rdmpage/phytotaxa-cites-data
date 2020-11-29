@@ -1,0 +1,800 @@
+[
+  {
+    "author": [
+      {
+        "family": "Altschul",
+        "given": "S.F."
+      },
+      {
+        "family": "Madden",
+        "given": "T.L."
+      },
+      {
+        "family": "Schäffer",
+        "given": "A.A."
+      },
+      {
+        "family": "Zhang",
+        "given": "J."
+      },
+      {
+        "family": "Zhang",
+        "given": "Z."
+      },
+      {
+        "family": "Miller",
+        "given": "W."
+      },
+      {
+        "family": "Lipman",
+        "given": "D.J."
+      }
+    ],
+    "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acid Research",
+    "issue": "17",
+    "issued": "1997",
+    "page": "3389–3402",
+    "URL": "https://doi.org/10.1093/nar/25.17.3389",
+    "DOI": "10.1093/nar/25.17.3389"
+  },
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "K."
+      },
+      {
+        "family": "Karsch-Mizrachi",
+        "given": "I."
+      },
+      {
+        "family": "Lipman",
+        "given": "D.J."
+      },
+      {
+        "family": "Ostell",
+        "given": "J."
+      },
+      {
+        "family": "Sayers",
+        "given": "E.W."
+      }
+    ],
+    "title": "GenBank",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Nucleic Acid Research",
+    "issued": "2016",
+    "page": "67– 72",
+    "URL": "https://doi.org/10.1093/nar/gkv1276",
+    "DOI": "10.1093/nar/gkv1276"
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "K."
+      },
+      {
+        "family": "Chakraborty",
+        "given": "D."
+      }
+    ],
+    "title": "Lactarius vesterholtii, a new species from India",
+    "volume": "129",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issue": "2",
+    "issued": "2014",
+    "page": "477–484",
+    "URL": "https://doi.org/10.5248/129.477",
+    "DOI": "10.5248/129.477"
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "K."
+      },
+      {
+        "family": "J.R",
+        "given": "Sharma"
+      }
+    ],
+    "title": "Lactarius in Kumaon Himalaya – 2: New and interesting species of subgenus Plinthogali",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2004",
+    "page": "289–296"
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "K."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      }
+    ],
+    "title": "New species of Lactarius subg. Plinthogalus and new records of Lactifluus subg. Gerardii (Russulaceae) from Sikkim, India",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2012",
+    "page": "37–48"
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "K."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Chakraborty",
+        "given": "D."
+      },
+      {
+        "family": "Avchar",
+        "given": "R."
+      },
+      {
+        "family": "Baghela",
+        "given": "A."
+      }
+    ],
+    "title": "Morphological and phylogenetic evidence for two new Lactarius (Russulales, Basidiomycota) species from India",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Cryptogamie, Mycologie",
+    "issued": "2017",
+    "page": "453–467",
+    "URL": "https://doi.org/10.7872/crym/v38.iss4.2017.453",
+    "DOI": "10.7872/crym/v38.iss4.2017.453"
+  },
+  {
+    "author": [
+      {
+        "family": "De Crop",
+        "given": "E."
+      },
+      {
+        "family": "Nuytinck",
+        "given": "J."
+      },
+      {
+        "family": "Putte",
+        "given": "K.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Wisitrassameewong",
+        "given": "K."
+      },
+      {
+        "family": "Hackel",
+        "given": "J."
+      },
+      {
+        "family": "Stubbe",
+        "given": "D."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Roy",
+        "given": "M."
+      },
+      {
+        "family": "Halling",
+        "given": "R.E."
+      },
+      {
+        "family": "Moreau",
+        "given": "P.A."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      }
+    ],
+    "title": "A multi-gene phylogeny of Lactifluus (Basidiomycota, Russulales) translated into a new infrageneric classification of the genus",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2016",
+    "page": "58–80",
+    "URL": "https://doi.org/10.3767/003158517X693255",
+    "DOI": "10.3767/003158517X693255"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E.M."
+      }
+    ],
+    "title": "Monographia Hymenomycetum Sueciae",
+    "volume": "1. Upsaliae",
+    "type": null,
+    "issued": "1857",
+    "page": "355"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Glez-Peña",
+        "given": "D."
+      },
+      {
+        "family": "Gòmez-Blanco",
+        "given": "D."
+      },
+      {
+        "family": "Reboiro-Jato",
+        "given": "M."
+      },
+      {
+        "family": "Fdez-Riverola",
+        "given": "F."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "ALTER: program-oriented conversion of DNA and protein alignments",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2010",
+    "page": "14 18",
+    "URL": "https://doi.org/10.1093/nar/gkq321",
+    "DOI": "10.1093/nar/gkq321"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucl. Acids. Symp. Ser",
+    "issued": "1999",
+    "page": "95 98"
+  },
+  {
+    "author": [
+      {
+        "family": "Heilmann-Clausen",
+        "given": "J."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      }
+    ],
+    "title": "The Genus Lactarius",
+    "volume": "Denmark",
+    "type": "article-journal",
+    "container-title": "The Danish Mycological Society",
+    "issued": "1998",
+    "page": "287"
+  },
+  {
+    "author": [
+      {
+        "family": "Hesler",
+        "given": "L.R."
+      },
+      {
+        "family": "Smith",
+        "given": "A.H."
+      }
+    ],
+    "title": "North American species of Lactarius",
+    "publisher": "University of Michigan Press",
+    "type": "book",
+    "issued": "1979",
+    "publisher-place": "Ann Arbor, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software versions 7: improvement in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen Hanbook of Colour",
+    "type": null,
+    "issued": "1978",
+    "publisher-place": "London, Eyre Methuen"
+  },
+  {
+    "author": [
+      {
+        "family": "Le",
+        "given": "H.T."
+      },
+      {
+        "family": "Stubbe",
+        "given": "D."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Nuytinck",
+        "given": "J."
+      },
+      {
+        "family": "Lumyong",
+        "given": "S."
+      },
+      {
+        "family": "Desjardin",
+        "given": "D.E."
+      }
+    ],
+    "title": "Lactarius in Northern Thailand: 2. Lactarius subgenus Plinthogali",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2007",
+    "page": "61–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "H."
+      },
+      {
+        "family": "Park",
+        "given": "M.S."
+      },
+      {
+        "family": "Jung",
+        "given": "P.E."
+      },
+      {
+        "family": "J.F.",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Oh",
+        "given": "S.-Y."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Lim",
+        "given": "Y.W."
+      }
+    ],
+    "title": "Lactarius cucurbitoides (Russulales, Basidiomycota), a new species from South Korea supported by molecular and morphological data",
+    "volume": "205",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "168–176",
+    "URL": "https://doi.org/10.11646/phytotaxa.205.3.4",
+    "DOI": "10.11646/phytotaxa.205.3.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Massee",
+        "given": "G."
+      }
+    ],
+    "title": "Fungi Exotici: XVII",
+    "volume": "Kew",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Royal Botanic Gardens",
+    "issued": "1914",
+    "page": "156–159"
+  },
+  {
+    "author": [
+      {
+        "family": "Nuytinck",
+        "given": "J."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Miller",
+        "given": "S.L."
+      }
+    ],
+    "title": "Worldwide phylogeny of Lactarius section Deliciosi inferred from ITS and glyceraldehyde-3-phosphate dehydrogenase gene sequences",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "6",
+    "issued": "2007",
+    "page": "820–832",
+    "URL": "https://doi.org/10.1080/15572536.2007.11832514",
+    "DOI": "10.1080/15572536.2007.11832514"
+  },
+  {
+    "author": [
+      {
+        "family": "Persoon",
+        "given": "C.H."
+      }
+    ],
+    "title": "Tentamen Dispositionis Methodice Fungorum in classes ordines genera et familias cum suppl adjecta",
+    "publisher": "Lipsiae",
+    "type": "book",
+    "issued": "1797"
+  },
+  {
+    "author": [
+      {
+        "family": "Roussel",
+        "given": "H.F.A."
+      }
+    ],
+    "title": "Flore du Calvados et terrains adjacents, composéesuivant la method de Jussieu",
+    "type": null,
+    "issued": "1806",
+    "page": "1–372"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "raxmlGUI: A graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity & Evolution",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "https://doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.H."
+      },
+      {
+        "family": "Hesler",
+        "given": "L.R."
+      }
+    ],
+    "title": "Studies on Lactarius—III. The North American species of section Plinthogali",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1962",
+    "page": "369–440"
+  },
+  {
+    "author": [
+      {
+        "family": "Stöver",
+        "given": "B.C."
+      },
+      {
+        "family": "Müller",
+        "given": "K.F."
+      }
+    ],
+    "title": "TreeGraph 2: Combining and visualizing evidence from different phylogenetic analyses",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "BMC Bioinformatics",
+    "issued": "2010",
+    "page": "7",
+    "URL": "https://doi.org/10.1186/1471-2105-11-7",
+    "DOI": "10.1186/1471-2105-11-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Stubbe",
+        "given": "D."
+      },
+      {
+        "family": "Nuytinck",
+        "given": "J."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      }
+    ],
+    "title": "Lactarius subgenus Plinthogalus of Malaysia",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2008",
+    "page": "125–156"
+  },
+  {
+    "author": [
+      {
+        "family": "Stubbe",
+        "given": "D."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      }
+    ],
+    "title": "Lactarius subg. Plinthogalus: the European taxa and American varieties of L. lignyotus re-evaluated",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2012",
+    "page": "1490–1501",
+    "URL": "https://doi.org/10.3852/12-039",
+    "DOI": "10.3852/12-039"
+  },
+  {
+    "author": [
+      {
+        "family": "Stubbe",
+        "given": "D."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Watling",
+        "given": "R."
+      }
+    ],
+    "title": "Blue staining species of Lactarius subgenus Plinthogali in Malaysia",
+    "volume": "140",
+    "type": "article-journal",
+    "container-title": "Belgian Journal of Botany",
+    "issued": "2007",
+    "page": "180–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Verbeken",
+        "given": "A."
+      }
+    ],
+    "title": "Studies in tropical African Lactarius species 8. A synopsis of the subgenus Plinthogali",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2000",
+    "page": "377–406"
+  },
+  {
+    "author": [
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Bougher",
+        "given": "N.L."
+      },
+      {
+        "family": "Halling",
+        "given": "R."
+      }
+    ],
+    "title": "Lactarius (Basidiomycota, Russulaceae) in Papua New Guinea. 3. Two new Lactarius species in subgenus Plinthogali",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Australian Systematic Botany",
+    "issued": "2002",
+    "page": "796–771",
+    "URL": "https://doi.org/10.1071/SB01036",
+    "DOI": "10.1071/SB01036"
+  },
+  {
+    "author": [
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "Lactarius (Basidiomycota) in Papua New Guinea 1. Species of Tropical Lowland Habitats",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Australian Systematic Botany",
+    "issued": "1999",
+    "page": "767–779",
+    "URL": "https://doi.org/10.1071/SB98026",
+    "DOI": "10.1071/SB98026"
+  },
+  {
+    "author": [
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "Lactarius (Basidiomycota) in Papua New Guinea 2. Species in Tropical-montane Rainforests",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Australian Systematic Botany",
+    "issued": "2000",
+    "page": "649–707",
+    "URL": "https://doi.org/10.1071/SB99023",
+    "DOI": "10.1071/SB99023"
+  },
+  {
+    "author": [
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Horak",
+        "given": "E."
+      },
+      {
+        "family": "Desjardin",
+        "given": "D.E."
+      }
+    ],
+    "title": "Agaricales of Indonesia. 3. New records of the genus Lactarius (Basidiomycetes, Russulales) from Java",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "2001",
+    "page": "261–289"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S.S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press Inc",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  }
+]

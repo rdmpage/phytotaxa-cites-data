@@ -1,0 +1,207 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Calanthe",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Botanical Register sub. t",
+    "issued": "1821",
+    "page": "573"
+  },
+  {
+    "author": [
+      {
+        "family": "S.C.",
+        "given": "Chen"
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      },
+      {
+        "family": "Zhu",
+        "given": "G.H."
+      },
+      {
+        "family": "Lang",
+        "given": "K.Y."
+      },
+      {
+        "family": "Ji",
+        "given": "Z.H."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Z.Y.",
+        "given": "Wu"
+      },
+      {
+        "family": "P.H.",
+        "given": "Raven"
+      },
+      {
+        "family": "D",
+        "given": "Hong"
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "25",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "1–9",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Bernet",
+        "given": "P."
+      },
+      {
+        "family": "Kratochvil",
+        "given": "K."
+      },
+      {
+        "family": "Gerlach",
+        "given": "G."
+      },
+      {
+        "family": "Carr",
+        "given": "G."
+      },
+      {
+        "family": "Alrich",
+        "given": "P."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Pfahl",
+        "given": "J."
+      },
+      {
+        "family": "Campacci",
+        "given": "M.A."
+      },
+      {
+        "family": "Holland",
+        "given": "B.D."
+      },
+      {
+        "family": "Tigges",
+        "given": "H."
+      },
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Cribb",
+        "given": "P."
+      },
+      {
+        "family": "George",
+        "given": "A."
+      },
+      {
+        "family": "Kreuz",
+        "given": "K."
+      },
+      {
+        "family": "Wood",
+        "given": "J."
+      }
+    ],
+    "title": "World checklist of Orchidaceae",
+    "note": "Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet;",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Orchidacees nouvelles d’ indochine (Suite",
+    "volume": "2 22",
+    "type": "article-journal",
+    "container-title": "Bulletin du Muséum d'Histoire Naturelle, sér",
+    "issued": "1950",
+    "page": "508"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "H."
+      },
+      {
+        "family": "Li",
+        "given": "R."
+      },
+      {
+        "family": "Dao",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Validation of Calanthe dulongensis (Orchidaceae",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "2003",
+    "page": "267–270"
+  },
+  {
+    "author": [
+      {
+        "family": "Jin",
+        "given": "X.H."
+      },
+      {
+        "family": "Chen",
+        "given": "S.C."
+      }
+    ],
+    "title": "Three new recorded species of Orchidaceae from China",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "2007",
+    "page": "169–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Jin",
+        "given": "X.H."
+      },
+      {
+        "family": "Li",
+        "given": "H."
+      }
+    ],
+    "title": "A new species of Calanthe (Orchidaceae) from Yunnan, China",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2007",
+    "page": "20–22"
+  }
+]

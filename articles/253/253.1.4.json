@@ -1,0 +1,466 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "http://dx.doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Barroso",
+        "given": "G.M."
+      },
+      {
+        "family": "Peixoto",
+        "given": "A.L."
+      }
+    ],
+    "title": "Uma nova espécie de Calyptranthes (Myrtaceae) da flora do Rio de Janeiro",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Brasilica",
+    "issued": "1996",
+    "page": "79–83",
+    "URL": "http://dx.doi.org/10.1590/S0102-33061996000100007",
+    "DOI": "10.1590/S0102-33061996000100007"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O.C."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issue": "1",
+    "issued": "1857",
+    "page": "1–656"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "D.G."
+      }
+    ],
+    "title": "The importance of floristic inventory in the tropics",
+    "editor": [
+      {
+        "family": "Campbell",
+        "given": "D.G."
+      },
+      {
+        "family": "Hammond",
+        "given": "D."
+      }
+    ],
+    "type": null,
+    "issued": "1989",
+    "page": "5–30",
+    "publisher-place": "New York, New York Botanical Garden"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "E."
+      },
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Morfologia vegetal",
+    "edition": "2",
+    "publisher": "São Paulo, Plantarum",
+    "type": "book",
+    "issued": "2011",
+    "page": "544"
+  },
+  {
+    "author": [
+      {
+        "family": "Hickey",
+        "given": "M."
+      },
+      {
+        "family": "King",
+        "given": "C."
+      }
+    ],
+    "title": "The Cambridge illustrated glossary of botanical terms",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "208"
+  },
+  {
+    "title": "IBGE (Instituto Brasileiro de Geografia e Estatística",
+    "note": "2016a) IBGEestados@ Available from:",
+    "type": null,
+    "URL": "http://www.ibge.gov.br/estadosat/"
+  },
+  {
+    "title": "IBGE (Instituto Brasileiro de Geografia e Estatística",
+    "note": "2016b) IBGEcidades@ Available from:",
+    "type": null,
+    "URL": "http://www.ibge.gov.br/estadosat/"
+  },
+  {
+    "title": "INCT (Instituto Nacional de Ciências e Tecnologia",
+    "note": "speciesLink. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://inct.splink.org.br/"
+  },
+  {
+    "title": "IUCN (International Union for the Conservation of Nature and Natural Resources",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawasaki",
+        "given": "M.L."
+      }
+    ],
+    "title": "A new species of Calyptranthes (Myrtaceae) from southeastern Brazil",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1996",
+    "page": "508–510",
+    "URL": "http://dx.doi.org/10.2307/2807867",
+    "DOI": "10.2307/2807867"
+  },
+  {
+    "author": [
+      {
+        "given": "J.B.R.J."
+      }
+    ],
+    "title": "Jabot - Banco de Dados da Flora Brasileira",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.jbrj.gov.br/jabot"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Species Plantarum",
+    "issued": "1753",
+    "page": "1–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Luz",
+        "given": "J.L."
+      },
+      {
+        "family": "Costa",
+        "given": "L.C."
+      },
+      {
+        "family": "Lourenço",
+        "given": "E.C."
+      },
+      {
+        "family": "Esbérard",
+        "given": "C.E.L."
+      }
+    ],
+    "title": "Morcegos (Mammalia, Chiroptera) da Reserva Rio das Pedras, Rio de Janeiro, sudeste do Brasil",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Biota Neotropica",
+    "issued": "2011",
+    "page": "95–101",
+    "URL": "http://dx.doi.org/10.1590/S1676-06032011000100009",
+    "DOI": "10.1590/S1676-06032011000100009"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "A prelimiary phylogenetic analysis of Eugenia (Myrtaceae: Myrteae) with a focus on Neotropical species",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2014",
+    "page": "9497",
+    "URL": "http://dx.doi.org/10.1007/s12225-014-9497-x",
+    "DOI": "10.1007/s12225-014-9497-x"
+  },
+  {
+    "author": [
+      {
+        "family": "McDade",
+        "given": "L."
+      }
+    ],
+    "title": "Species concepts and problems in practice: insight from botanical monographs",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "1995",
+    "page": "606–622",
+    "URL": "http://dx.doi.org/10.2307/2419813",
+    "DOI": "10.2307/2419813"
+  },
+  {
+    "author": [
+      {
+        "family": "Nixon",
+        "given": "K.C."
+      },
+      {
+        "family": "Wheeler",
+        "given": "Q.D."
+      }
+    ],
+    "title": "An amplification of the phylogenetic species concept",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "1990",
+    "page": "211–223",
+    "URL": "http://dx.doi.org/10.1111/j.1096-0031.1990.tb00541.x",
+    "DOI": "10.1111/j.1096-0031.1990.tb00541.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Shepherd",
+        "given": "G.J."
+      }
+    ],
+    "title": "Avaliação do estado do conhecimento da diversidade biológica do Brasil: plantas terrestres—versão preliminar",
+    "volume": "Brasília",
+    "type": "article-journal",
+    "container-title": "Ministério do Meio Ambiente",
+    "issued": "2003",
+    "page": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Alterações nomenclaturais em Plinia (Myrtaceae",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Boletim do Museu Botânico Municipal (Curitiba",
+    "issued": "1985",
+    "page": "1–4"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "A família Myrtaceae no Rio Grande do Sul",
+    "type": "article-journal",
+    "container-title": "Unisinos",
+    "issued": "2003",
+    "page": "215"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Stehmann",
+        "given": "J.R."
+      }
+    ],
+    "title": "An analysis of new angiosperm species discoveries in Brazil (1990–2006",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2009",
+    "page": "227–232"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Grippa",
+        "given": "C."
+      },
+      {
+        "family": "Souza",
+        "given": "M.C."
+      },
+      {
+        "family": "Aguiar",
+        "given": "O.T."
+      },
+      {
+        "family": "Bertoncello",
+        "given": "R."
+      },
+      {
+        "family": "Guimarães",
+        "given": "T.B."
+      }
+    ],
+    "title": "Fourteen new species and two taxonomic notes in Brazilian Myrtaceae",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "19–50",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.50.1.3",
+    "DOI": "10.11646/phytotaxa.50.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Proença",
+        "given": "C."
+      },
+      {
+        "family": "Souza",
+        "given": "M."
+      },
+      {
+        "family": "Mazine",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Myrtaceae",
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": "chapter",
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB171"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum",
+    "type": null,
+    "issued": "1788",
+    "page": "158"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2015",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M.C."
+      }
+    ],
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Flora Fluminensis",
+    "issued": "1829",
+    "page": "1–135"
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "P."
+      }
+    ],
+    "title": "The Civil and Natural History of Jamaica",
+    "container-title": "Three Parts. Printed for the author",
+    "type": "chapter",
+    "issued": "1756",
+    "page": "10",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Jstor",
+        "given": "Global Plants"
+      }
+    ],
+    "title": "Published on the internet",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://plants.jstor.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 13. Prepared by the Standards and Petitions Subcommitee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://cmsdocs.s3.amazonaws.com/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Köcke",
+        "given": "A.V."
+      },
+      {
+        "family": "Muellner-Riehl",
+        "given": "A.N."
+      },
+      {
+        "family": "Cáceres",
+        "given": "O."
+      },
+      {
+        "family": "Pennington",
+        "given": "T.D."
+      }
+    ],
+    "title": "Cedrela ngobe (Meliaceae), A new species from Panama and Costa Rica",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Edinburg Journal Botany",
+    "issued": "2015",
+    "page": "225–233",
+    "URL": "https://doi.org/10.1017/S0960428615000098",
+    "DOI": "10.1017/S0960428615000098"
+  },
+  {
+    "author": [
+      {
+        "family": "Palacios",
+        "given": "W."
+      }
+    ],
+    "title": "Meliaceae. Flora of Ecuador 82",
+    "publisher": "Department of Plant and Environmental Sciences, Goteborg University",
+    "type": "book",
+    "issued": "2007",
+    "page": "88",
+    "publisher-place": "Göteborg"
+  },
+  {
+    "author": [
+      {
+        "family": "Palacios",
+        "given": "W.A."
+      }
+    ],
+    "title": "Árboles del Ecuador, Familias y Géneros",
+    "publisher": "Universidad Técnica del Norte",
+    "type": "book",
+    "issued": "2016",
+    "page": "525"
+  },
+  {
+    "author": [
+      {
+        "family": "Pennington",
+        "given": "T.D."
+      },
+      {
+        "family": "Muellner",
+        "given": "A.N."
+      }
+    ],
+    "title": "A monograph of Cedrela (Meliaceae",
+    "publisher": "Dh books, Milborne Port",
+    "type": "book",
+    "issued": "2010",
+    "page": "817"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicos"
+      }
+    ],
+    "title": "Tropicos botanical information system at the Missouri Botanical Garden",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Missouri Botanical Garden, St. Louis",
+    "issued": "2018",
+    "URL": "http://www.tropicos.org"
+  }
+]

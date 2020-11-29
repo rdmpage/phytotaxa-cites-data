@@ -1,0 +1,633 @@
+[
+  {
+    "author": [
+      {
+        "family": "Averyanov",
+        "given": "L.V."
+      }
+    ],
+    "title": "The genus Sciaphila Blume (Triuridaceae) in the flora of Vietnam",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2007",
+    "page": "12–19"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Sciaphila",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Bijdragen tot de flora van Nederlandsch Indië",
+    "issued": "1827",
+    "page": "514"
+  },
+  {
+    "author": [
+      {
+        "family": "Castresana",
+        "given": "J."
+      }
+    ],
+    "title": "Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2000",
+    "page": "540–552",
+    "URL": "https://doi.org/10.1093/oxfordjournals.molbev.a026334",
+    "DOI": "10.1093/oxfordjournals.molbev.a026334"
+  },
+  {
+    "author": [
+      {
+        "family": "Chantanaorrapint",
+        "given": "S."
+      },
+      {
+        "family": "Thaithong",
+        "given": "O."
+      }
+    ],
+    "title": "Sciaphila nana Blume (Triuridaceae), a new record for Thailand",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Thai Forest Bulletin (Botany",
+    "issued": "2004",
+    "page": "12–14"
+  },
+  {
+    "author": [
+      {
+        "family": "Douzery",
+        "given": "E.J."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Kores",
+        "given": "P."
+      },
+      {
+        "family": "Linder",
+        "given": "H."
+      },
+      {
+        "family": "Kurzweil",
+        "given": "H."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Molecular phylogenetics of Diseae (Orchidaceae): a contribution from nuclear ribosomal ITS sequences",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1999",
+    "page": "887–899",
+    "URL": "https://doi.org/10.2307/2656709",
+    "DOI": "10.2307/2656709"
+  },
+  {
+    "author": [
+      {
+        "family": "Fukuyama",
+        "given": "N."
+      },
+      {
+        "family": "Suzuki",
+        "given": "T."
+      }
+    ],
+    "title": "Three new saprophytic species of plants from the Island of Kotosyo, Taiwan",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1936",
+    "page": "410–416"
+  },
+  {
+    "author": [
+      {
+        "family": "Giesen",
+        "given": "H."
+      }
+    ],
+    "title": "Triuridaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich. Regni vegetabilis conspectus IV. 18",
+    "publisher": "Verlag von Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1938",
+    "page": "1–84",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsieh",
+        "given": "T.H."
+      },
+      {
+        "family": "Wu",
+        "given": "C.S."
+      },
+      {
+        "family": "Yang",
+        "given": "K.C."
+      }
+    ],
+    "title": "Revision of Sciaphila (Triuridaceae) in Taiwan",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2003",
+    "page": "239–247"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria Version",
+    "edition": "3.1.",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2012",
+    "page": "2",
+    "publisher-place": "Gland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Karig",
+        "given": "D.E."
+      }
+    ],
+    "title": "Basin genesis in the Philippine Sea",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Initial Reports of the Deep Sea Drilling Project",
+    "issued": "1975",
+    "page": "857–879",
+    "URL": "https://doi.org/10.2973/dsdp.proc.31.142.1975",
+    "DOI": "10.2973/dsdp.proc.31.142.1975"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: Improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "MEGA7: Molecular Evolutionary Genetics Analysis version 7.0 for bigger datasets",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2016",
+    "page": "1870–1874",
+    "URL": "https://doi.org/10.1093/molbev/msw054",
+    "DOI": "10.1093/molbev/msw054"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Observations on the flora of Japan",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "The Botanical Magazine, Tokyo",
+    "issued": "1905",
+    "page": "131–158",
+    "URL": "https://doi.org/10.15281/jplantres1887.19.131",
+    "DOI": "10.15281/jplantres1887.19.131"
+  },
+  {
+    "author": [
+      {
+        "family": "Meerendonk",
+        "given": "J.P.M.van de"
+      }
+    ],
+    "title": "Triuridaceae",
+    "editor": [
+      {
+        "family": "Steenis",
+        "given": "C.G.G.J.van"
+      }
+    ],
+    "container-title": "Flora malesiana ser",
+    "volume": "I",
+    "publisher": "Martinus Nijhoff, The Hague",
+    "type": "chapter",
+    "issued": "1984",
+    "page": "10",
+    "publisher-place": "Boston, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Merckx",
+        "given": "V.S.F.T."
+      },
+      {
+        "family": "Mennes",
+        "given": "C.B."
+      },
+      {
+        "family": "Peay",
+        "given": "K.G."
+      },
+      {
+        "family": "Geml",
+        "given": "J."
+      }
+    ],
+    "title": "Evolution and diversification",
+    "editor": [
+      {
+        "family": "Merckx",
+        "given": "V.S.F.T."
+      }
+    ],
+    "container-title": "Mycoheterotrophy: the biology of plants living on fungi",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "215–244",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1007/978-1-4614-5209-6_5",
+    "DOI": "10.1007/978-1-4614-5209-6_5"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakahama",
+        "given": "N."
+      },
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      },
+      {
+        "family": "Ito",
+        "given": "A."
+      },
+      {
+        "family": "Hino",
+        "given": "M."
+      },
+      {
+        "family": "Yukawa",
+        "given": "T."
+      },
+      {
+        "family": "Isagi",
+        "given": "Y."
+      }
+    ],
+    "title": "Natural hybridization patterns between widespread Calanthe discolor (Orchidaceae) and insular Calanthe izu-insularis on the oceanic Izu Islands",
+    "volume": "190",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2019",
+    "page": "436–449",
+    "URL": "https://doi.org/10.1093/botlinnean/boz025",
+    "DOI": "10.1093/botlinnean/boz025"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohashi",
+        "given": "H."
+      }
+    ],
+    "title": "A new treatment in Sciaphila (Triuridaceae) in Taiwan and Japan",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2000",
+    "page": "351–354"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohashi",
+        "given": "H."
+      },
+      {
+        "family": "Kato",
+        "given": "H."
+      },
+      {
+        "family": "Kobayashi",
+        "given": "S."
+      },
+      {
+        "family": "Murata",
+        "given": "J."
+      }
+    ],
+    "title": "A revision of Triuridaceae of Japan",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Journal of Japanense Botany",
+    "issued": "2008",
+    "page": "20–35"
+  },
+  {
+    "author": [
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      }
+    ],
+    "title": "Sciaphila lambirensis (Triuridaceae), a new mycoheterotrophic plant from Sarawak, Borneo, Malaysia",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issued": "2018",
+    "page": "175–180"
+  },
+  {
+    "author": [
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      },
+      {
+        "family": "Nishioka",
+        "given": "T."
+      }
+    ],
+    "title": "Sciaphila sugimotoi (Triuridaceae), a new mycoheterotrophic plant from Ishigaki Island, Japan",
+    "volume": "314",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "279–284",
+    "URL": "https://doi.org/10.11646/phytotaxa.314.2.10",
+    "DOI": "10.11646/phytotaxa.314.2.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      },
+      {
+        "family": "Sugimoto",
+        "given": "T."
+      }
+    ],
+    "title": "First record of the mycoheterotrophic plant Sciaphila corniculata (Triuridaceae) from Ishigaki Island, Ryukyu Islands, Japan, with updated description of its morphology, in particular on stylar characteristics",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issued": "2018",
+    "page": "69–74"
+  },
+  {
+    "author": [
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      },
+      {
+        "family": "Tsukaya",
+        "given": "H."
+      },
+      {
+        "family": "Ohashi",
+        "given": "H."
+      }
+    ],
+    "title": "Sciaphila yakushimensis (Triuridaceae), a new mycoheterotrophic plant from Yakushima Island, Japan",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "2016",
+    "page": "1–6"
+  },
+  {
+    "author": [
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      },
+      {
+        "family": "Kinoshita",
+        "given": "A."
+      },
+      {
+        "family": "Hsu",
+        "given": "T.C."
+      }
+    ],
+    "title": "Emended description and resurrection of Sciaphila tosaensis and S. megastyla (Triuridaceae",
+    "volume": "413",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2019",
+    "page": "231–243",
+    "URL": "https://doi.org/10.11646/phytotaxa.413.3.4",
+    "DOI": "10.11646/phytotaxa.413.3.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      },
+      {
+        "family": "Kinoshita",
+        "given": "A."
+      },
+      {
+        "family": "Akai",
+        "given": "K."
+      }
+    ],
+    "title": "A new variety of the mycoheterotrophic plant Sciaphila yakushimensis from Okinawa and Ishigaki Islands, Japan",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issued": "2019",
+    "page": "41–47"
+  },
+  {
+    "author": [
+      {
+        "family": "Tsukaya",
+        "given": "H."
+      },
+      {
+        "family": "Okada",
+        "given": "H."
+      }
+    ],
+    "title": "Two new species of Sciaphila Blume (Triuridaceae) from Kalimantan, Borneo, with a new record of S. thaidanica from Borneo",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2013",
+    "page": "600–605",
+    "URL": "https://doi.org/10.1600/036364413X670476",
+    "DOI": "10.1600/036364413X670476"
+  },
+  {
+    "author": [
+      {
+        "family": "Tsukaya",
+        "given": "H."
+      },
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      }
+    ],
+    "title": "Two new species of Sciaphila (Triuridaceae) from Sarawak (Borneo, Malaysia",
+    "volume": "170",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "283–290"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "T."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "H."
+      },
+      {
+        "family": "Li",
+        "given": "Y.D."
+      },
+      {
+        "family": "Chen",
+        "given": "H.Q."
+      }
+    ],
+    "title": "A new species of Sciaphila (Triuridaceae) from Hainan Island, China",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2011",
+    "page": "154–157",
+    "URL": "https://doi.org/10.3417/2009016",
+    "DOI": "10.3417/2009016"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamada",
+        "given": "T."
+      },
+      {
+        "family": "Maki",
+        "given": "M."
+      }
+    ],
+    "title": "Impact of geographical isolation on genetic differentiation in insular and mainland populations of Weigela coraeensis (Caprifoliaceae) on Honshu and the Izu Islands",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2012",
+    "page": "901–917",
+    "URL": "https://doi.org/10.1111/j.1365-2699.2011.02634.x",
+    "DOI": "10.1111/j.1365-2699.2011.02634.x"
+  }
+]

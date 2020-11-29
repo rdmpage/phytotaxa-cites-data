@@ -1,0 +1,780 @@
+[
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Angiosperm Phylogeny"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2009",
+    "page": "105–121",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2009.00996.x",
+    "DOI": "10.1111/j.1095-8339.2009.00996.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H.E."
+      }
+    ],
+    "title": "Sur Deux Nouveaux Genres Apétales",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1871",
+    "page": "112–119"
+  },
+  {
+    "author": [
+      {
+        "family": "Bartholomew",
+        "given": "B."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.H."
+      }
+    ],
+    "title": "Author citations for new names published in volumes 1 through 3 of Flora Yunnanica",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2007",
+    "page": "545–550"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "volume": "1",
+    "publisher": "Reeve & Co",
+    "type": "article-journal",
+    "container-title": "Genera Plantarum",
+    "issue": "3",
+    "issued": "1867",
+    "page": "721–1040",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L.von"
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indië 13",
+    "publisher": "Lands Drukkerij Batavia",
+    "type": "book",
+    "issued": "1826",
+    "page": "637–730"
+  },
+  {
+    "author": [
+      {
+        "family": "Craib",
+        "given": "W.G."
+      }
+    ],
+    "title": "Contributions to the flora of Siam",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Additamentum III. Bulletin of Miscellaneous Information Kew",
+    "issued": "1913",
+    "page": "65–72"
+  },
+  {
+    "author": [
+      {
+        "family": "Decaisne",
+        "given": "J."
+      }
+    ],
+    "title": "Nyssaceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1873",
+    "page": "157–159"
+  },
+  {
+    "author": [
+      {
+        "family": "Eyde",
+        "given": "R.H."
+      }
+    ],
+    "title": "Morphological and paleobotanical studies of the Nyssaceae. I. A survey of the modern species and their fruits",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1963",
+    "page": "1–59"
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "W.P."
+      },
+      {
+        "family": "Soong",
+        "given": "T.P."
+      }
+    ],
+    "title": "Praecursores florae Nyssacearum sinensium",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issue": "2",
+    "issued": "1975",
+    "page": "83–87"
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "W.P."
+      },
+      {
+        "family": "Soong",
+        "given": "T.P."
+      },
+      {
+        "family": "Su",
+        "given": "H.Y."
+      }
+    ],
+    "title": "Nyssaceae",
+    "editor": [
+      {
+        "family": "Fang",
+        "given": "W.P."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae 52",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1983",
+    "page": "2",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "L.G."
+      }
+    ],
+    "title": "China Plant Red Data Book 1",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1989",
+    "page": "736",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "L.G."
+      }
+    ],
+    "title": "China Plant Red Data Book 2",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1992",
+    "page": "477",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN Red List of Threatened Species",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issued": "2014",
+    "page": "1",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11.Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Koorders",
+        "given": "S.H."
+      }
+    ],
+    "title": "Exkursionsflora von Java 2",
+    "publisher": "Verlag von Gustav Fischer, Jena",
+    "type": "book",
+    "issued": "1912",
+    "page": "742"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 2",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": "561–1200",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International Code of Nomenclature for algae, fungi, and plants",
+    "publisher": "Adopted by the Eighteenth International Botanical Congress Melbourne",
+    "type": "book",
+    "issued": "2012",
+    "page": "208",
+    "publisher-place": "Melbourne Code"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliver",
+        "given": "D."
+      }
+    ],
+    "title": "Nyssa sinensis.Hooker’s Icones Plantarum 20: pl",
+    "type": null,
+    "issued": "1891"
+  },
+  {
+    "author": [
+      {
+        "family": "Parker",
+        "given": "R.N."
+      }
+    ],
+    "title": "The Indian species of Nyssa Linn",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Indian Forester",
+    "issued": "1929",
+    "page": "642–645"
+  },
+  {
+    "author": [
+      {
+        "family": "Phengklai",
+        "given": "C."
+      }
+    ],
+    "title": "Studies in Flora of Thailand",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Thai Forest Bulletin (Botany",
+    "issued": "1977",
+    "page": "13–46"
+  },
+  {
+    "author": [
+      {
+        "family": "Phengklai",
+        "given": "C."
+      }
+    ],
+    "title": "Nyssaceae",
+    "editor": [
+      {
+        "family": "Smitinand",
+        "given": "T."
+      },
+      {
+        "family": "Larsen",
+        "given": "K."
+      }
+    ],
+    "container-title": "Flora of Thailand",
+    "volume": "2",
+    "publisher": "The Asrct Press",
+    "issue": "4",
+    "type": "article-journal",
+    "issued": "1981",
+    "page": "402–404",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Qin",
+        "given": "H.N."
+      },
+      {
+        "family": "Phengklai",
+        "given": "C."
+      }
+    ],
+    "title": "Nyssaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2007",
+    "page": "300–303",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "APGIII: Bibliographical information and synonymy of Magnoliidae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2011",
+    "page": "71–134",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.19.1.4",
+    "DOI": "10.11646/phytotaxa.19.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      }
+    ],
+    "title": "Angiosperm phylogeny website, Version 12",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.mobot.org/MOBOT/research/APweb/"
+  },
+  {
+    "author": [
+      {
+        "family": "Sun",
+        "given": "B.L."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.Q."
+      }
+    ],
+    "title": "A revised description of Nyssa yunnanensis (Nyssaceae",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "2007",
+    "page": "173–175"
+  },
+  {
+    "author": [
+      {
+        "family": "Sun",
+        "given": "B.L."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.Q."
+      },
+      {
+        "family": "Lowry",
+        "given": "P.P."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Cryptic Dioecy in Nyssa yunnanensis (Nyssaceae), a critically endangered species from tropical eastern Asia 1",
+    "volume": "96",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "2009",
+    "page": "672–684",
+    "URL": "http://dx.doi.org/10.3417/2008015",
+    "DOI": "10.3417/2008015"
+  },
+  {
+    "author": [
+      {
+        "family": "Tardieu-Blot",
+        "given": "M.L."
+      }
+    ],
+    "title": "Nyssaceae",
+    "editor": [
+      {
+        "family": "Aubréville",
+        "given": "A."
+      },
+      {
+        "family": "S",
+        "given": "Ouvrage Subventionné Par Le C.N.R."
+      }
+    ],
+    "type": null,
+    "issued": "1968",
+    "page": "3–10",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "N."
+      },
+      {
+        "family": "Jacques",
+        "given": "F.M."
+      },
+      {
+        "family": "Milne",
+        "given": "R.I."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.Q."
+      },
+      {
+        "family": "Yang",
+        "given": "J.B."
+      }
+    ],
+    "title": "DNA barcoding of Nyssaceae (Cornales) and taxonomic issues",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issued": "2012",
+    "page": "265–274"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "N."
+      },
+      {
+        "family": "Milne",
+        "given": "R.I."
+      },
+      {
+        "family": "Jacques",
+        "given": "F."
+      },
+      {
+        "family": "Sun",
+        "given": "B.L."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.Q."
+      },
+      {
+        "family": "Yang",
+        "given": "J.B."
+      }
+    ],
+    "title": "Phylogeny and a revised classification of the Chinese species of Nyssa (Nyssaceae) based on morphological and molecular data",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2012",
+    "page": "344–354"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "S."
+      },
+      {
+        "family": "Xie",
+        "given": "Y."
+      }
+    ],
+    "title": "China Species Red List1.Red List",
+    "publisher": "Higher Education Press",
+    "type": "book",
+    "issued": "2004",
+    "page": "372",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wangerin",
+        "given": "W."
+      }
+    ],
+    "title": "Nyssaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich 41(IV. 220a",
+    "publisher": "Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1910",
+    "page": "1–20",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Wasscher",
+        "given": "J."
+      }
+    ],
+    "title": "The genus Nyssa in the Netherlands Indies",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1935",
+    "page": "343–350"
+  },
+  {
+    "author": [
+      {
+        "family": "Wasscher",
+        "given": "J."
+      }
+    ],
+    "title": "Nyssaceae",
+    "editor": [
+      {
+        "family": "Steenis",
+        "given": "C.G.G.J.van"
+      }
+    ],
+    "container-title": "Flora Malesiana",
+    "volume": "4",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1948",
+    "page": "29–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Wen",
+        "given": "J."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T.F."
+      }
+    ],
+    "title": "The phylogeny and biogeography of Nyssa (Cornaceae",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "1993",
+    "page": "68–79",
+    "URL": "http://dx.doi.org/10.2307/2419789",
+    "DOI": "10.2307/2419789"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      },
+      {
+        "family": "Fan",
+        "given": "J.R."
+      }
+    ],
+    "title": "Nyssaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "container-title": "Flora Yunnanica 1",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1977",
+    "page": "288–293",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      },
+      {
+        "family": "Lu",
+        "given": "A.M."
+      },
+      {
+        "family": "Tang",
+        "given": "Y.C."
+      },
+      {
+        "family": "Chen",
+        "given": "Z.D."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      }
+    ],
+    "title": "The families and genera of angiosperms in China: A comprehensive analysis",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2003",
+    "page": null,
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      },
+      {
+        "family": "Zhou",
+        "given": "Z.K."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      },
+      {
+        "family": "Peng",
+        "given": "H."
+      }
+    ],
+    "title": "The areal-types of seed plants and their origin and differentiation",
+    "publisher": "Yunnan Publishing Group Corporation, Yunnan Science & Technology Press, Kunming",
+    "type": "book",
+    "issued": "2006",
+    "page": "566"
+  }
+]

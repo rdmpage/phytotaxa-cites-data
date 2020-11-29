@@ -1,0 +1,204 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatarum genera et species",
+    "publisher": "Ridgeway & Sons",
+    "type": "book",
+    "issued": "1833",
+    "page": "62 145",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.L.P.P.de"
+      }
+    ],
+    "container-title": "Prodromus systematis naturalis regni vegetabilis 12",
+    "publisher": "V.Masson",
+    "type": "chapter",
+    "issued": "1848",
+    "page": "27 603",
+    "publisher-place": "Paris"
+  },
+  {
+    "type": null,
+    "URL": "http://dx.doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Synopsis of the South American Labiatae, 3. Repertorium specierum novarum regni vegetabilis",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Beihefte",
+    "issued": "1936",
+    "page": "193 288"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Revisión del género Hyptis (Labiatae",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Revista del Museo de La Plata, Sección Botánica",
+    "issued": "1949",
+    "page": "153 497"
+  },
+  {
+    "author": [
+      {
+        "family": "Harley",
+        "given": "R.M."
+      }
+    ],
+    "title": "Checklist and key of genera and species of the Lamiaceae of the Brazilian Amazon",
+    "volume": "63, 1",
+    "type": "article-journal",
+    "container-title": "Rodriguesia",
+    "issued": "2012",
+    "page": "129 144"
+  },
+  {
+    "type": null,
+    "URL": "http://dx.doi.org/10.1590/s2175-78602012000100010",
+    "DOI": "10.1590/s2175-78602012000100010"
+  },
+  {
+    "author": [
+      {
+        "family": "Harley",
+        "given": "R.M."
+      },
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "A generic revision and new combinations in the Hyptidinae (Lamiaceae), based on molecular and morphological evidence",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "1 55"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1. IUCN Species Survival Commission",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2001",
+    "page": "70",
+    "publisher-place": "Gland, Switzerland & Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Collectanea ad botanicam, chemiam, ed historia naturalem spectantia, cum figuris 1",
+    "publisher": "Wappler",
+    "type": "book",
+    "issued": "1787",
+    "page": "1 386",
+    "publisher-place": "Vienna"
+  },
+  {
+    "type": null,
+    "URL": "http://dx.doi.org/10.5962/bhl.title.46949",
+    "DOI": "10.5962/bhl.title.46949"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Systema Naturae",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "10",
+    "publisher": "L.Salvius",
+    "type": "book",
+    "issued": "1759",
+    "page": "2",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      },
+      {
+        "family": "Harley",
+        "given": "R.M."
+      },
+      {
+        "family": "Forrest",
+        "given": "F."
+      },
+      {
+        "family": "Paton",
+        "given": "A.J."
+      },
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      }
+    ],
+    "title": "Phylogeny of the subtribe Hyptidinae (Lamiaceae tribe Ocimeae) as inferred from nuclear and plastid DNA",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2011",
+    "page": "1317 1329"
+  },
+  {
+    "author": [
+      {
+        "family": "Poiteau",
+        "given": "P.A."
+      }
+    ],
+    "title": "Monographie du genre Hyptis",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Annales du Muséum d'Histoire Naturelle Paris",
+    "issued": "1806",
+    "page": "459 477"
+  }
+]

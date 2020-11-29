@@ -1,0 +1,815 @@
+[
+  {
+    "author": [
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      }
+    ],
+    "title": "Tropical species of Agaricus",
+    "editor": [
+      {
+        "family": "Sánchez",
+        "given": "J.E."
+      },
+      {
+        "family": "Mata",
+        "given": "G."
+      },
+      {
+        "family": "Royse",
+        "given": "D.J."
+      }
+    ],
+    "container-title": "Updates on tropical mushrooms. Basic and applied research",
+    "type": "chapter",
+    "issued": "2018",
+    "page": "25–38",
+    "publisher-place": "San Cristobal de Las Casas, Chiapas"
+  },
+  {
+    "author": [
+      {
+        "family": "Challen",
+        "given": "M.P."
+      },
+      {
+        "family": "Kerrigan",
+        "given": "R.W."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "A phylogenetic reconstruction and emendation of Agaricus section Duploannulatae",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "1",
+    "issued": "2003",
+    "page": "61–73",
+    "URL": "https://doi.org/10.1080/15572536.2004.11833132",
+    "DOI": "10.1080/15572536.2004.11833132"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "He",
+        "given": "M.Q."
+      },
+      {
+        "family": "Moinard",
+        "given": "M."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      }
+    ],
+    "title": "Study in Agaricus subgenus Minores and allied clades reveals a new American subgenus and contrasting phylogenetic patterns in Europe and Greater Mekong Subregion",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Persoonia: Molecular Phylogeny and Evolution of Fungi",
+    "issued": "2017",
+    "page": "170–196",
+    "URL": "https://doi.org/10.3767/003158517X695521",
+    "DOI": "10.3767/003158517X695521"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Llarena-Hernandez",
+        "given": "R.C."
+      },
+      {
+        "family": "MATA",
+        "given": "G.G."
+      }
+    ],
+    "title": "Two species of Agaricus subg",
+    "volume": "404",
+    "type": "article-journal",
+    "container-title": "Minoriopsis from Mexico. Phytotaxa",
+    "issue": "3",
+    "issued": "2019",
+    "page": "91–101",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.404.3.1",
+    "DOI": "10.11646/phytotaxa.404.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Guelly",
+        "given": "A."
+      },
+      {
+        "family": "Rapior",
+        "given": "S."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Agaricus section Brunneopicti: a phylogenetic reconstruction with descriptions of four new taxa",
+    "volume": "192",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "145–168",
+    "URL": "https://doi.org/10.11646/phytotaxa.192.3.2",
+    "DOI": "10.11646/phytotaxa.192.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nucleic acids research",
+    "issue": "5",
+    "issued": "2004",
+    "page": "1792–1797",
+    "URL": "https://doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: a multiple sequence alignment method with reduced time and space complexity",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "BMC Bioinforma",
+    "issued": "2004",
+    "page": "113",
+    "URL": "https://doi.org/",
+    "DOI": "10.1186/1471-2105-5-113"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular ecology",
+    "issue": "2",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365",
+    "DOI": "10.1111/j.1365"
+  },
+  {
+    "author": [
+      {
+        "family": "Geml",
+        "given": "J."
+      },
+      {
+        "family": "Geiser",
+        "given": "D.M."
+      },
+      {
+        "family": "Royse",
+        "given": "D.J."
+      }
+    ],
+    "title": "Molecular evolution of Agaricus species based on ITS and LSU rDNA sequences",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issue": "2",
+    "issued": "2004",
+    "page": "157–176"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T."
+      }
+    ],
+    "title": "BioEdit v7",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2007",
+    "URL": "http://www.mbio.ncsu.edu/BioEdit/BioEdit.html"
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "M.Q."
+      },
+      {
+        "family": "Chuankid",
+        "given": "B."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Cheewangkoon",
+        "given": "R."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      }
+    ],
+    "title": "A new section and species of Agaricus subgenus Pseudochitonia from Thailand",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "MycoKeys",
+    "issued": "2018",
+    "page": "53–67",
+    "URL": "https://doi.org/10.3897/mycokeys.40.26918",
+    "DOI": "10.3897/mycokeys.40.26918"
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "M.Q."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Wei",
+        "given": "S.L."
+      },
+      {
+        "family": "Xi",
+        "given": "Y.L."
+      },
+      {
+        "family": "Cheewangkoon",
+        "given": "R."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      }
+    ],
+    "title": "Three new species of Agaricus section Minores from China",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Mycosphere",
+    "issued": "2018",
+    "page": "189–201"
+  },
+  {
+    "type": null,
+    "URL": "https://",
+    "DOI": "10.1038/s41598"
+  },
+  {
+    "author": [
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Mortimer",
+        "given": "P.E."
+      },
+      {
+        "family": "Xu",
+        "given": "J.C."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Mycosphere Essay 8: A review of the genus Agaricus in tropical and humid subtropical regions of Asia",
+    "type": "article-journal",
+    "container-title": "Journal Article cover",
+    "issued": "2016"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerrigan",
+        "given": "R.W."
+      }
+    ],
+    "title": "Agaricus of North America",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "2016",
+    "page": "1–574"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of colour",
+    "edition": "3rd",
+    "publisher": "Eyre Methuen, London",
+    "type": "book",
+    "issued": "1978",
+    "page": "252"
+  },
+  {
+    "author": [
+      {
+        "family": "Largent",
+        "given": "D.L."
+      }
+    ],
+    "title": "How to identify mushrooms to genus",
+    "volume": "Vols. 1–5",
+    "type": null,
+    "issued": "1986",
+    "publisher-place": "Mad River Press, CA USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y."
+      }
+    ],
+    "title": "New species and records of the genus Agaricus from China",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issue": "2",
+    "issued": "1990",
+    "page": "154–160"
+  },
+  {
+    "author": [
+      {
+        "family": "Parra",
+        "given": "L.A."
+      }
+    ],
+    "title": "Agaricus L. Allopsalliota, Nauta & Bas",
+    "container-title": "Fungi Europaei 1",
+    "publisher": "Edizioni Candusso",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "824",
+    "publisher-place": "Alassio, Italy"
+  },
+  {
+    "author": [
+      {
+        "family": "Parra",
+        "given": "L.A."
+      }
+    ],
+    "title": "Agaricus L., Allopsalliota, Nauta & Bas",
+    "container-title": "Fungi Europaei 1A. Candusso Edizioni s.a.s",
+    "type": "chapter",
+    "issued": "2013",
+    "publisher-place": "Alassio, Italy"
+  },
+  {
+    "author": [
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Angelini",
+        "given": "C."
+      },
+      {
+        "family": "Ortiz-Santana",
+        "given": "B."
+      },
+      {
+        "family": "Mata",
+        "given": "G."
+      },
+      {
+        "family": "Billette",
+        "given": "C."
+      },
+      {
+        "family": "Rojo",
+        "given": "C."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "The genus Agaricus in the Caribbean. Nine new taxa mostly based on collections from the Dominican Republic",
+    "volume": "345",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "219–271",
+    "URL": "https://doi.org/10.11646/phytotaxa.345.3.2",
+    "DOI": "10.11646/phytotaxa.345.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "raxmlGUI: a graphical front–end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity & Evolution",
+    "issue": "4",
+    "issued": "2012",
+    "page": "335–337"
+  },
+  {
+    "author": [
+      {
+        "family": "Ucun",
+        "given": "H."
+      },
+      {
+        "family": "Bayhan",
+        "given": "Y.K."
+      },
+      {
+        "family": "Kaya",
+        "given": "Y."
+      }
+    ],
+    "title": "Kinetic and thermodynamic studies of the biosorption of Cr (VI) by Pinus sylvestris Linn",
+    "volume": "153",
+    "type": "article-journal",
+    "container-title": "Journal of Hazardous Materials",
+    "issue": "1–2",
+    "issued": "2008",
+    "page": "52–59",
+    "URL": "https://doi.org/10.1016/j.jhazmat.2007.08.018",
+    "DOI": "10.1016/j.jhazmat.2007.08.018"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      },
+      {
+        "family": "Sysouphanthong",
+        "given": "P."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "The family Agaricaceae: phylogenies and two new white–spored genera",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "3",
+    "issued": "2011",
+    "page": "494–509",
+    "URL": "https://doi.org/10.3852/10-204",
+    "DOI": "10.3852/10-204"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S.J.W.T."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "volume": "18",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1990",
+    "page": "315–322"
+  },
+  {
+    "author": [
+      {
+        "literal": "Wisitrassameewong, K., Karunarathna, S.C., Thongklang, N., Zhao, R.L., Callac, P., Moukha, S., Fe ́randon, C. & Chukeatirote, E.(2012"
+      }
+    ],
+    "title": "Agaricus subrufescens: a review",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Saudi journal of biological sciences",
+    "issue": "2",
+    "page": "131–146",
+    "URL": "https://doi.org/10.1016/j.sjbs.2012.01.003.",
+    "DOI": "10.1016/j.sjbs.2012.01.003."
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "F."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Bau",
+        "given": "T."
+      },
+      {
+        "family": "Li",
+        "given": "T.H."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Resource diversity of Chinese macrofungi: edible, medicinal and poisonous species",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2019",
+    "page": "1–76",
+    "URL": "https://doi.org/10.1007/s13225-019-00432-7",
+    "DOI": "10.1007/s13225-019-00432-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "M.Z."
+      },
+      {
+        "family": "Li",
+        "given": "G.J."
+      },
+      {
+        "family": "Dai",
+        "given": "R.C."
+      },
+      {
+        "family": "Xi",
+        "given": "Y.L."
+      },
+      {
+        "family": "Wei",
+        "given": "S.L."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      }
+    ],
+    "title": "The edible wide mushrooms of Agaricus section Bivelares from Western China",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Mycosphere",
+    "issue": "10",
+    "issued": "2017",
+    "page": "1640–1652",
+    "URL": "https://doi.org/10.5943/mycosphere/8/10/4",
+    "DOI": "10.5943/mycosphere/8/10/4"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S."
+      },
+      {
+        "family": "Raspé",
+        "given": "O."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      },
+      {
+        "family": "Moinard",
+        "given": "M."
+      },
+      {
+        "family": "Guelly",
+        "given": "A.K."
+      }
+    ],
+    "title": "Major clades in tropical Agaricus",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issue": "1",
+    "issued": "2011",
+    "page": "279–296",
+    "URL": "https://doi.org/10.1007/s13225",
+    "DOI": "10.1007/s13225"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Zhou",
+        "given": "J.L."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Margaritescu",
+        "given": "S."
+      },
+      {
+        "family": "Sánchez-Ramírez",
+        "given": "S."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      }
+    ],
+    "title": "Towards standardizing taxonomic ranks using divergence times–a case study for reconstruction of the Agaricus taxonomic system",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "Fungal diversity",
+    "issue": "1",
+    "issued": "2016",
+    "page": "239–292",
+    "URL": "https://doi.org/10.1007/s13225",
+    "DOI": "10.1007/s13225"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Wen",
+        "given": "H.A."
+      },
+      {
+        "family": "Bau",
+        "given": "T."
+      },
+      {
+        "family": "Li",
+        "given": "T."
+      }
+    ],
+    "title": "A revised checklist of edible fungi in China",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issue": "1",
+    "issued": "2010",
+    "page": "1–21"
+  }
+]

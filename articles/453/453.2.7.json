@@ -1,0 +1,235 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Acanthaceae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "publisher": "L. Reeve & Co",
+    "type": "book",
+    "issued": "1885",
+    "page": "387–558",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.5962/bhl.title.678",
+    "DOI": "10.5962/bhl.title.678"
+  },
+  {
+    "author": [
+      {
+        "family": "Mukherjee",
+        "given": "A.K."
+      }
+    ],
+    "title": "Flora of Pachmarhi & Bori Reserves, Madhya pradesh",
+    "volume": "Kolkata",
+    "type": "article-journal",
+    "container-title": "Botanical Survey of India",
+    "issued": "1984",
+    "page": "407"
+  },
+  {
+    "author": [
+      {
+        "family": "Nees Von Esenbeck",
+        "given": "C.G.D."
+      }
+    ],
+    "title": "Acanthacea Indiae orientalis",
+    "editor": [
+      {
+        "family": "Walich",
+        "given": "N."
+      }
+    ],
+    "container-title": "Plantae Asiaticae Rariores. III",
+    "publisher": "Treuttel, Wurtz, Richter",
+    "type": "chapter",
+    "issued": "1832",
+    "page": "70–117",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Nees Von Esenbeck",
+        "given": "C.G.D."
+      }
+    ],
+    "title": "Acanthaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.",
+        "particle": "de"
+      }
+    ],
+    "container-title": "Prodomous systematis Naturalis Regni Vegetabilis",
+    "volume": "II",
+    "publisher": "Treuttel & Würz",
+    "type": "chapter",
+    "issued": "1847",
+    "page": "46–519",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Ramamoorthy",
+        "given": "T.P."
+      }
+    ],
+    "title": "Acanthaceae",
+    "editor": [
+      {
+        "family": "Saldanha",
+        "given": "D.J."
+      },
+      {
+        "family": "Nicolson",
+        "given": "D.H."
+      }
+    ],
+    "publisher": "Amerind Publishing Co",
+    "type": "book",
+    "issued": "1976",
+    "page": "915",
+    "publisher-place": "New Delhi"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2, vol. 3",
+    "publisher": "Lh–O. Bohn, Scheltema & Holkema, Utrecth",
+    "type": "book",
+    "issued": "1981",
+    "page": "980",
+    "URL": "https://doi.org/10.5962/bhl.title.48631",
+    "DOI": "10.5962/bhl.title.48631"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Botanical observations on the Flora",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Japonica Transactions of the Linnaean Society of London",
+    "issued": "1794",
+    "page": "326–342",
+    "URL": "https://doi.org/10.1111/j.1096-3642.1794.tb00268.x",
+    "DOI": "10.1111/j.1096-3642.1794.tb00268.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Hereunder",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.H."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "note": "International code of Nomenclature for algae, fungi and plants (Shenzhen Code). Regnum Vegetabile 159.",
+    "publisher": "Koeltz Botanical Books, Glashütten",
+    "type": null,
+    "issued": "2018",
+    "page": "254",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "A numerical list of dried specimens (Wallich’s Catalogue",
+    "publisher": "East India Company Museum, London",
+    "type": "book",
+    "issued": "1830",
+    "page": "306"
+  }
+]

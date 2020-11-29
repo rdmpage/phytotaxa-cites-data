@@ -1,0 +1,272 @@
+[
+  {
+    "author": [
+      {
+        "family": "Burman",
+        "given": "N.L."
+      }
+    ],
+    "title": "Flora Indica",
+    "editor": [
+      {
+        "family": "Haak",
+        "given": "C."
+      },
+      {
+        "given": "Leiden"
+      },
+      {
+        "family": "Schreuder",
+        "given": "J."
+      },
+      {
+        "given": "Amsterdam"
+      }
+    ],
+    "type": null,
+    "issued": "1768",
+    "page": "241"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Acanthaceae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "publisher": "L. Reeve & Co",
+    "type": "book",
+    "issued": "1884",
+    "page": "387–558",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Dumortier",
+        "given": "B.C.J."
+      }
+    ],
+    "title": "Analyse des familles des plantes, avec l'indication des principaux genres qui s'y rattachent",
+    "volume": "Tournay",
+    "type": "article-journal",
+    "container-title": "J. Casterman, Aine",
+    "issued": "1829",
+    "page": "104",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.443",
+    "DOI": "10.5962/bhl.title.443"
+  },
+  {
+    "author": [
+      {
+        "family": "Endlicher",
+        "given": "S.F.L."
+      }
+    ],
+    "title": "Genera plantarum secundum ordines naturales disposita",
+    "publisher": "F. Beck",
+    "type": "book",
+    "issued": "1839",
+    "page": null,
+    "publisher-place": "Vienna",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.728",
+    "DOI": "10.5962/bhl.title.728"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "Flora of the Presidency of Madras, part VI (Scrophulariaceae to Plantaginaceae",
+    "publisher": "Adlard & Son",
+    "type": "book",
+    "issued": "1924",
+    "page": "963–1160",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN Red List of Threatened Species",
+    "note": "Available from",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issued": "2013",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Karthikeyan",
+        "given": "S."
+      },
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      },
+      {
+        "family": "Moorthy",
+        "given": "S."
+      }
+    ],
+    "title": "Flowering Plants of India―Dicotyledons 1 (Acanthaceae–Avicenniaceae",
+    "volume": "Kolkata",
+    "type": "article-journal",
+    "container-title": "Botanical Survey of India",
+    "issued": "2009",
+    "page": "365"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumari",
+        "given": "G.R."
+      }
+    ],
+    "title": "Acanthaceae",
+    "editor": [
+      {
+        "family": "Henry",
+        "given": "A.N."
+      },
+      {
+        "family": "Kumari",
+        "given": "G.R."
+      },
+      {
+        "family": "Chithra",
+        "given": "V."
+      }
+    ],
+    "container-title": "Flora of Tamil Nadu, India 2. Botanical Survey of India, Coimbatore",
+    "type": "chapter",
+    "issued": "1987",
+    "page": "138–162"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant-Book. A portable dictionary of plants, their classification and uses",
+    "edition": "Third",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": null,
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154. Koeltz Scientific Books, Koenigstein. Available from",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.iapt-taxon.org/nomen"
+  },
+  {
+    "author": [
+      {
+        "family": "Esenbeck",
+        "given": "C.G.",
+        "particle": "Nees von"
+      }
+    ],
+    "title": "Acanthaceae Indiae Orientalis",
+    "editor": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "publisher": "Treuttel, Würtz & Ritter",
+    "type": "book",
+    "issued": "1832",
+    "page": "70–117",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "A.W."
+      }
+    ],
+    "title": "Novae Plantarum Species praesertim Indiae Orientalis",
+    "publisher": "H. Vogler, Halberstad",
+    "type": "book",
+    "issued": "1821",
+    "page": "411"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abràmoff",
+        "given": "M.D."
+      },
+      {
+        "family": "Magalhaes",
+        "given": "P.J."
+      },
+      {
+        "family": "Ram",
+        "given": "S.J."
+      }
+    ],
+    "title": "Image processing with ImageJ",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Biophotonics International",
+    "issued": "2004",
+    "page": "36–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Benito Garzón",
+        "given": "M."
+      },
+      {
+        "family": "Galicia Herbada",
+        "given": "D."
+      },
+      {
+        "family": "Moreno Rivero",
+        "given": "L."
+      },
+      {
+        "family": "Moreno Saiz",
+        "given": "J.C."
+      },
+      {
+        "family": "Sainz Ollero",
+        "given": "H."
+      },
+      {
+        "family": "Dios",
+        "given": "R.",
+        "particle": "Sánchez de"
+      }
+    ],
+    "title": "Cartografía Corológica Ibérica. Aportaciones 107–122",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Botanica Complutensis",
+    "issued": "2001",
+    "page": "379–407"
+  },
+  {
+    "author": [
+      {
+        "family": "Chmelař",
+        "given": "J."
+      }
+    ],
+    "title": "Salix ceretana",
+    "type": "article-journal",
+    "container-title": "International Dendrology Society Yearbook",
+    "issued": "1982",
+    "page": "111"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      },
+      {
+        "family": "Lamarck",
+        "given": "J.B.A.P."
+      }
+    ],
+    "title": "Flore française, edition 3, tome 5",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Desray: Paris",
+    "issued": "1805",
+    "page": "662"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A."
+      }
+    ],
+    "title": "Catalogus plantarum horti botanici monspeliensis",
+    "volume": "viii +",
+    "type": "article-journal",
+    "container-title": "J. Martel, Montpellier",
+    "issued": "1813",
+    "page": "155"
+  },
+  {
+    "author": [
+      {
+        "family": "Dixon",
+        "given": "C.J."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      }
+    ],
+    "title": "Proposal to reject the name Androsace carnea (Primulaceae",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2007",
+    "page": "612–613"
+  },
+  {
+    "author": [
+      {
+        "family": "Dixon",
+        "given": "C.J."
+      },
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      }
+    ],
+    "title": "Traces of ancient range shifts in a mountain plant group (Androsace halleri complex, Primulaceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "2007",
+    "page": "3890–3901",
+    "URL": "http://dx.doi.org/10.1111/j.1365-294X.2007.03342.x",
+    "DOI": "10.1111/j.1365-294X.2007.03342.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Dixon",
+        "given": "C.J."
+      },
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      }
+    ],
+    "title": "Morphological and geographical evidence are misleading with respect to the phylogenetic position and origin of the narrow endemic polyploid Androsace cantabrica (Primulaceae",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2008",
+    "page": "384–389",
+    "URL": "http://dx.doi.org/10.1600/036364408784571572",
+    "DOI": "10.1600/036364408784571572"
+  },
+  {
+    "author": [
+      {
+        "family": "Dixon",
+        "given": "C.J."
+      },
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Suda",
+        "given": "J."
+      },
+      {
+        "family": "Wiedermann",
+        "given": "M."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      }
+    ],
+    "title": "Reciprocal Pleistocene origin and postglacial range formation of an allopolyploid and its sympatric ancestors (Androsace adfinis group, Primulaceae",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2009",
+    "page": "74–83",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2008.10.009",
+    "DOI": "10.1016/j.ympev.2008.10.009"
+  },
+  {
+    "author": [
+      {
+        "family": "Dixon",
+        "given": "C.J."
+      },
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Vargas",
+        "given": "P."
+      },
+      {
+        "family": "Ertl",
+        "given": "S."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      }
+    ],
+    "title": "Bayesian hypothesis testing supports long-distance Pleistocene migrations in a European high mountain plant (Androsace vitaliana, Primulaceae",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2009",
+    "page": "580–591",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2009.07.016",
+    "DOI": "10.1016/j.ympev.2009.07.016"
+  },
+  {
+    "author": [
+      {
+        "family": "Donati",
+        "given": "V."
+      }
+    ],
+    "title": "Essai sur l’histoire naturelle de la mer Adriatique. Pierre de Hondt",
+    "volume": "iv +",
+    "note": "+ xi pl.",
+    "type": "article-journal",
+    "container-title": "La Haya",
+    "issued": "1758",
+    "page": "78"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferguson",
+        "given": "I.K."
+      }
+    ],
+    "title": "Vitaliana Sesler, Androsace L",
+    "editor": [
+      {
+        "given": "In"
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea 3",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "20–23",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M"
+  },
+  {
+    "author": [
+      {
+        "family": "Gómez",
+        "given": "D."
+      },
+      {
+        "family": "Sesé",
+        "given": "J.A."
+      },
+      {
+        "family": "Villar",
+        "given": "L."
+      }
+    ],
+    "title": "The vegetation of the alpine zone of the Pyrenees",
+    "editor": [
+      {
+        "family": "Nagy",
+        "given": "L."
+      },
+      {
+        "family": "Grabherr",
+        "given": "G."
+      },
+      {
+        "family": "Körner",
+        "given": "C."
+      },
+      {
+        "family": "Thompson",
+        "given": "D.B.A."
+      }
+    ],
+    "volume": "167",
+    "type": "article-journal",
+    "container-title": "Ecological Studies",
+    "issued": "2003",
+    "page": "85–92"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Spicilegium florae rumelicae et bithynicae",
+    "publisher": "Friedrich Viehweg, Braunschweig",
+    "type": "book",
+    "issued": "1844",
+    "page": "548"
+  },
+  {
+    "author": [
+      {
+        "family": "Huet",
+        "given": "A."
+      }
+    ],
+    "title": "Quelque plantes nouvelles des Pyrénées",
+    "genre": "[Sér. 3]",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Botanique",
+    "issued": "1853",
+    "page": "251–258"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK. iv"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "W.D.J."
+      }
+    ],
+    "title": "Synopsis florae germanicae et helveticae part 2",
+    "publisher": "Friedrich Wilmans",
+    "type": "book",
+    "issued": "1837",
+    "page": "492",
+    "publisher-place": "Frankfurt. ix"
+  },
+  {
+    "author": [
+      {
+        "family": "Kress",
+        "given": "A."
+      }
+    ],
+    "title": "Der Formenkreis der Androsace carnea L., vorläufiger Überblick, neue Namen",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Primulaceen-Studien",
+    "issued": "1981",
+    "page": "1–4"
+  },
+  {
+    "author": [
+      {
+        "family": "Kress",
+        "given": "A."
+      }
+    ],
+    "title": "Androsace carnea L. s.l.: Eine taxonomische Analyse der Androsace adfinis Biroli s.l. und der Sippengruppe um A. halleri L",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Primulaceen-Studien",
+    "issue": "3",
+    "issued": "1991",
+    "page": "1–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Kress",
+        "given": "A."
+      }
+    ],
+    "title": "Androsace",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Flora Iberica",
+    "issued": "1997",
+    "page": "22–40",
+    "publisher-place": "Real Jardín Botánico, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Notice of a new genus of plants discovered in the Rocky Mountains of North America by Mr",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "David Douglas. Quarterly Journal of Science, Literature, and the Arts",
+    "issued": "1827",
+    "page": "383–385"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum part 1",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum part 2",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "640"
+  },
+  {
+    "author": [
+      {
+        "family": "Lüdi",
+        "given": "W."
+      }
+    ],
+    "title": "Primulaceae",
+    "editor": [
+      {
+        "family": "Hegi",
+        "given": "G."
+      }
+    ],
+    "container-title": "Illustrierte Flora von Mitteleuropa V/3",
+    "publisher": "A. Pichlers Witwe & Sohn",
+    "type": "chapter",
+    "issued": "1927",
+    "page": "1715–1877",
+    "publisher-place": "Vienna"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant-Book. A portable dictionary of plants, their classification and uses",
+    "edition": "3rd",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "2008",
+    "page": "920"
+  },
+  {
+    "author": [
+      {
+        "family": "Meisner",
+        "given": "C.D.F."
+      }
+    ],
+    "title": "Plantarum vascularum genera",
+    "publisher": "Weidmann",
+    "type": "book",
+    "issued": "1838",
+    "page": "402",
+    "publisher-place": "Leipzig. iii"
+  },
+  {
+    "author": [
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      },
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Kelso",
+        "given": "S."
+      },
+      {
+        "family": "Niklfeld",
+        "given": "H."
+      }
+    ],
+    "title": "Complex biogeographic patterns in Androsace (Primulaceae) and related genera: evidence from phylogenetic analyses of nuclear ITS and plastid trnL-F sequences",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2004",
+    "page": "856–876",
+    "URL": "http://dx.doi.org/10.1080/10635150490522566",
+    "DOI": "10.1080/10635150490522566"
+  },
+  {
+    "author": [
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      }
+    ],
+    "title": "Androsace komovensis sp. nov., a long mistaken local endemic from the southern Balkan Peninsula with biogeographic links to the Eastern Alps",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2009",
+    "page": "544–549"
+  },
+  {
+    "author": [
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      }
+    ],
+    "title": "The wide but disjunct range of the European mountain plant Androsace lactea L. (Primulaceae) reflects Late Pleistocene range fragmentation and post-glacial distributional stasis",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2010",
+    "page": "2016–2025",
+    "URL": "http://dx.doi.org/10.1111/j.1365-2699.2010.02350.x",
+    "DOI": "10.1111/j.1365-2699.2010.02350.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Tribsch",
+        "given": "A."
+      },
+      {
+        "family": "Niklfeld",
+        "given": "H."
+      }
+    ],
+    "title": "Phylogeography of the high alpine cushion-plant Androsace alpina (Primulaceae) in the European Alps",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Plant Biology",
+    "issued": "2003",
+    "page": "623–630",
+    "URL": "http://dx.doi.org/10.1055/s-2003-44686",
+    "DOI": "10.1055/s-2003-44686"
+  },
+  {
+    "author": [
+      {
+        "family": "Schönswetter",
+        "given": "P."
+      },
+      {
+        "family": "Tribsch",
+        "given": "A."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      },
+      {
+        "family": "Niklfeld",
+        "given": "H."
+      }
+    ],
+    "title": "Disjunctions in relict alpine plants: phylogeography of Androsace brevis and A. wulfeniana (Primulaceae",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2003",
+    "page": "437–446",
+    "URL": "http://dx.doi.org/10.1046/j.0024-4074.2002.00134.x",
+    "DOI": "10.1046/j.0024-4074.2002.00134.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Segura",
+        "given": "A."
+      }
+    ],
+    "title": "De flora soriana y circumsoriana",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Pirineos",
+    "issued": "1973",
+    "page": "35–49"
+  }
+]

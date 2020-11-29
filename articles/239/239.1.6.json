@@ -1,0 +1,833 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ames",
+        "given": "O."
+      },
+      {
+        "family": "Correll",
+        "given": "D.S."
+      }
+    ],
+    "title": "Orchids of Guatemala",
+    "volume": "26",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Fieldiana (Botany",
+    "issued": "1953",
+    "page": "399–727",
+    "URL": "http://biodiversitylibrary.org/page/2451325"
+  },
+  {
+    "author": [
+      {
+        "family": "Bateman",
+        "given": "J."
+      }
+    ],
+    "title": "Cattleya skinneri. Orchidaceae of Mexico and Guatemala t. 13",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1838",
+    "URL": "http://biodiversitylibrary.org/page/769176"
+  },
+  {
+    "author": [
+      {
+        "family": "Bateman",
+        "given": "J."
+      }
+    ],
+    "title": "Miscellaneous notices: 8. Epidendrum papillosum–12 Epidendrum tibicinis",
+    "volume": "24",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register",
+    "issued": "1838",
+    "page": "7–8",
+    "URL": "http://biodiversitylibrary.org/page/240969"
+  },
+  {
+    "author": [
+      {
+        "family": "Beer",
+        "given": "J.G."
+      }
+    ],
+    "title": "Praktische Studien an der Familie der Orchideen",
+    "publisher": "Carl Gerold & Son, Wien",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1854",
+    "page": "322",
+    "URL": "http://biodiversitylibrary.org/page/15452110"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Classis XX",
+    "editor": [
+      {
+        "family": "In",
+        "given": "Gynandria Monandria"
+      },
+      {
+        "family": "Aiton",
+        "given": "W.T."
+      }
+    ],
+    "volume": "5",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Hortus Kewensis",
+    "issued": "1813",
+    "page": "188–220",
+    "URL": "http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=3051&Pagina=190"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "A."
+      }
+    ],
+    "title": "Cattleya patinii. Dictionnaire iconographique des orchidées (Cattleya) 2: t",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1900",
+    "URL": "http://biodiversitylibrary.org/page/37167423"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "P.N."
+      }
+    ],
+    "title": "On the cultivation of Cattleya",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Florist’s Journal",
+    "issued": "1840",
+    "page": "180–187"
+  },
+  {
+    "author": [
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      }
+    ],
+    "title": "Neotypification of Cattleya deckeri",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Lindleyana",
+    "issued": "1998",
+    "page": "219–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      },
+      {
+        "family": "Higgins",
+        "given": "W.E."
+      }
+    ],
+    "title": "Guarianthe, a generic name for the “Cattleya” skinneri complex",
+    "volume": "2",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2003",
+    "page": "37–38",
+    "URL": "http://www.lankesteriana.org/lankesteriana/Lankesterianavol.203.202003/LankesterianaN207/Numeroporsecciones/Dressler&Higgins.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Bernet",
+        "given": "P."
+      },
+      {
+        "family": "Kratochvil",
+        "given": "K."
+      },
+      {
+        "family": "Gerlach",
+        "given": "G."
+      },
+      {
+        "family": "Carr",
+        "given": "G."
+      },
+      {
+        "family": "Alrich",
+        "given": "P."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Pfahl",
+        "given": "J."
+      },
+      {
+        "family": "Campacci",
+        "given": "M.A."
+      },
+      {
+        "family": "Baptista",
+        "given": "D.H."
+      },
+      {
+        "family": "Tigges",
+        "given": "H."
+      },
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "George",
+        "given": "A."
+      },
+      {
+        "family": "Kreuz",
+        "given": "K."
+      },
+      {
+        "family": "Wood",
+        "given": "J."
+      }
+    ],
+    "title": "World checklist of Orchidaceae",
+    "note": "Kew. Available from:",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens",
+    "issued": "2014",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Flora of the British West Indies",
+    "volume": "London",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Lovell & Reeve",
+    "issued": "1864",
+    "page": "789",
+    "URL": "http://biodiversitylibrary.org/page/38162151"
+  },
+  {
+    "author": [
+      {
+        "family": "Heynhold",
+        "given": "G."
+      }
+    ],
+    "title": "Alphabestische und synonymische Aufzählung der in den Gärten Europa’s cultivierten Gewächse",
+    "publisher": "Arnoldischen Buchhandlung, Dresden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1846",
+    "page": "774",
+    "URL": "https://books.google.de/books/about/Nomenclator_botanicus_hortensis.html?hl=de&id=eBMXAAAAYAAJ"
+  },
+  {
+    "author": [
+      {
+        "family": "Higgins",
+        "given": "W.E."
+      }
+    ],
+    "title": "Guaria morada by any other name is still an orchid",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Orchid Digest",
+    "issued": "2004",
+    "page": "37–39"
+  },
+  {
+    "author": [
+      {
+        "family": "Higgins",
+        "given": "W.E."
+      },
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      }
+    ],
+    "title": "Holomorphology of the Guarianthe complex",
+    "editor": [
+      {
+        "family": "Elliott",
+        "given": "J."
+      },
+      {
+        "family": "Kurzweil",
+        "given": "H.F."
+      },
+      {
+        "family": "O’Byrbe",
+        "given": "P."
+      },
+      {
+        "family": "Tan",
+        "given": "K.W."
+      },
+      {
+        "family": "Schans",
+        "given": "A.S.",
+        "particle": "van der"
+      },
+      {
+        "family": "Wong",
+        "given": "S.M."
+      },
+      {
+        "family": "Yam",
+        "given": "T.W."
+      }
+    ],
+    "container-title": "Proceedings of the 20th World Orchid Conference. National Parks Board and Orchid Society of Southeast Asia, Singapore",
+    "type": "paper-conference",
+    "issued": "2011",
+    "page": "405–413"
+  },
+  {
+    "author": [
+      {
+        "family": "Lemaire",
+        "given": "C."
+      }
+    ],
+    "title": "Miscelanées",
+    "volume": "3",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Jardin Fleuriste",
+    "issued": "1853",
+    "page": "1–158",
+    "URL": "http://hdl.handle.net/2027/hvd.32044106335763?urlappend=%3Bseq=660"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Tab. 33. Cattleya labiata",
+    "volume": "33",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Collectanea Botanica t",
+    "issued": "1824",
+    "URL": "http://biodiversitylibrary.org/page/5438670"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Cattleya skinneri var. parviflora — Mr. Skinner’s Cattleya: small-flowered variety",
+    "volume": "82",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine",
+    "issued": "1856",
+    "page": "4916",
+    "URL": "http://biodiversitylibrary.org/page/438389"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Cattleya deckeri aus Merilo",
+    "volume": "23",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Allgemeine Gartenzeitung",
+    "issued": "1855",
+    "page": "81–82",
+    "URL": "http://biodiversitylibrary.org/page/42927031"
+  },
+  {
+    "author": [
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Clarkson",
+        "given": "J.J."
+      }
+    ],
+    "title": "Nomenclatural changes and a new sectional classification in Nicotiana (Solanaceae",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2004",
+    "page": "73–82",
+    "URL": "http://dx.doi.org/10.2307/4135490",
+    "DOI": "10.2307/4135490"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International code of nomenclature for algae, fungi, and plants (Melbourne Code",
+    "volume": "Königstein",
+    "type": "article-journal",
+    "container-title": "Koeltz",
+    "issued": "2012",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "T."
+      }
+    ],
+    "title": "Cattleya guatemalensis",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "The Floral Magazine (London",
+    "issued": "1861",
+    "page": "61"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Brien",
+        "given": "J."
+      }
+    ],
+    "title": "Orchid notes and gleanings—Cattleya bowringiana (autumnalis",
+    "volume": "n. s. 24",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "The Gardeners’ Chronicle",
+    "issued": "1885",
+    "page": "683",
+    "URL": "http://biodiversitylibrary.org/page/26055153"
+  },
+  {
+    "author": [
+      {
+        "family": "Pabst",
+        "given": "G."
+      }
+    ],
+    "title": "Additamenta ad orchidologiam brasiliensem - VIII",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Orquídea (Brasil",
+    "issued": "1967",
+    "page": "5–25"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Epidendrum",
+    "volume": "2",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Xenia orchidacea",
+    "issued": "1862",
+    "page": "27–37",
+    "URL": "http://biodiversitylibrary.org/page/698089"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "New or noteworthy plants",
+    "volume": "ser. 3, 4",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "The Gardener’s Chronicle",
+    "issued": "1888",
+    "page": "378",
+    "URL": "http://biodiversitylibrary.org/page/26089714"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Tafel 243. Cattleya skinneri var. bowringiana Kränzlin",
+    "volume": "3",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Xenia Orchidaceae",
+    "issue": "5",
+    "issued": "1892",
+    "page": "82",
+    "URL": "http://biodiversitylibrary.org/page/701080"
+  },
+  {
+    "author": [
+      {
+        "family": "Rolfe",
+        "given": "R.A."
+      }
+    ],
+    "title": "Nursery notes: orchids at Heaton, Bradford",
+    "volume": "ser. 3, 5",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "The Gardeners’Chronicle",
+    "issued": "1889",
+    "page": "276",
+    "URL": "http://biodiversitylibrary.org/page/16449557"
+  },
+  {
+    "author": [
+      {
+        "family": "Rolfe",
+        "given": "R.A."
+      }
+    ],
+    "title": "List of garden orchids (continued from",
+    "volume": "XX",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "The Gardeners’ Chronicle",
+    "issued": "1889",
+    "page": "634",
+    "URL": "http://biodiversitylibrary.org/page/16449778"
+  },
+  {
+    "author": [
+      {
+        "family": "Rolfe",
+        "given": "R.A."
+      }
+    ],
+    "title": "List of garden orchids (continued from",
+    "volume": "ser. 3, 5",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "The Gardeners’ Chronicle",
+    "issued": "1889",
+    "page": "555",
+    "URL": "http://biodiversitylibrary.org/page/16449914"
+  },
+  {
+    "author": [
+      {
+        "family": "Rolfe",
+        "given": "R.A."
+      }
+    ],
+    "title": "Cattleya deckeri",
+    "volume": "8",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "The Orchid Review",
+    "issued": "1900",
+    "page": "261–263",
+    "URL": "http://biodiversitylibrary.org/page/37171641"
+  },
+  {
+    "author": [
+      {
+        "family": "Röth",
+        "given": "J."
+      }
+    ],
+    "title": "Cattleya–Guarianthe–Taxonomic Mitteilungen",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Die Orchidee (Hamburg",
+    "issued": "2006",
+    "page": "610–612"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Die Orchideen: ihre Beschreibung, Kultur und Züchtung",
+    "publisher": "Parey",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1915",
+    "page": "837",
+    "publisher-place": "Berlin",
+    "URL": "http://biodiversitylibrary.org/page/32403767"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Aufzählung der bisher aus Zentral-Amerika bekannt gewordenen Orchideen Part II",
+    "volume": "36",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Epidendrum-Stanhopea. Beihefte zum Botanischen Centralblatt",
+    "issued": "1918",
+    "page": "421–520",
+    "URL": "http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=3530&Pagina=423"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J.H.M."
+      }
+    ],
+    "title": "Quarterly supplement to the International Register of Orchid Hybrids (Sander’s List), April-June 2007 registrations",
+    "volume": "115: suppl. 1–27",
+    "type": "article-journal",
+    "container-title": "The Orchid Review",
+    "issued": "2007"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature: a selective guide to botanical publications with dates, commentaries and types",
+    "edition": "2. H-Le. 2nd",
+    "publisher": "Bohn, Scheltema & Holkema, The Hague",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1979",
+    "page": "991",
+    "URL": "http://www.biodiversitylibrary.org/item/103253#page/11/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      }
+    ],
+    "title": "Reaching a compromise between conflicting nuclear and plastid phylogenetic trees: a new classification for the genus Cattleya (Epidendreae; Epidendroideae; Orchidaceae",
+    "volume": "186",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "75–86",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.186.2.2",
+    "DOI": "10.11646/phytotaxa.186.2.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      },
+      {
+        "family": "Higgins",
+        "given": "W.E."
+      },
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      },
+      {
+        "family": "Whitten",
+        "given": "W.M."
+      },
+      {
+        "family": "Soto-Arenas",
+        "given": "M.A."
+      },
+      {
+        "family": "Culham",
+        "given": "A."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "A phylogenetic analysis of Laeliinae (Orchidaceae) based on sequence data from internal transcribed spacers (ITS) of nuclear ribosomal DNA",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Lindleyana",
+    "issued": "2000",
+    "page": "96–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      },
+      {
+        "family": "Higgins",
+        "given": "W.E."
+      },
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      },
+      {
+        "family": "Whitten",
+        "given": "W.M."
+      },
+      {
+        "family": "Soto-Arenas",
+        "given": "M.A."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "A phylogenetic study of Laeliinae (Orchidaceae) based on combined nuclear and plastid DNA sequences",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2009",
+    "page": "417–430",
+    "URL": "http://dx.doi.org/10.1093/aob/mcp101",
+    "DOI": "10.1093/aob/mcp101"
+  },
+  {
+    "author": [
+      {
+        "family": "Withner",
+        "given": "C.L."
+      }
+    ],
+    "title": "Cattleya ×guatemalensis: its history, close relatives, and problems relating to its identity",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Orchid Digest",
+    "issued": "1999",
+    "page": "53–61"
+  },
+  {
+    "author": [
+      {
+        "literal": "Woodson Jr., R.E. & Schery, R.W."
+      }
+    ],
+    "title": "Contributions toward a flora of Panama. VI. Collections chiefly by H. von Wedel in Bocas del Toro",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Annals of Missouri Botanical Garden",
+    "issued": "1942",
+    "page": "317–379",
+    "URL": "http://dx.doi.org/10.2307/2394325",
+    "DOI": "10.2307/2394325"
+  }
+]

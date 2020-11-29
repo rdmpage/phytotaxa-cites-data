@@ -1,0 +1,381 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax theatri botanici",
+    "editor": [
+      {
+        "family": "König",
+        "given": "L."
+      },
+      {
+        "given": "Basel"
+      }
+    ],
+    "type": null,
+    "issued": "1623",
+    "page": "522",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.712",
+    "DOI": "10.5962/bhl.title.712"
+  },
+  {
+    "author": [
+      {
+        "family": "Crabbe",
+        "given": "J.A."
+      },
+      {
+        "family": "Jermy",
+        "given": "A.C."
+      },
+      {
+        "family": "Lovis",
+        "given": "J.D."
+      }
+    ],
+    "title": "Asplenium L",
+    "editor": [
+      {
+        "given": "In"
+      },
+      {
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "1",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1964",
+    "page": "18–23",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H., Walters"
+  },
+  {
+    "author": [
+      {
+        "family": "Diaz",
+        "given": "T.E."
+      },
+      {
+        "family": "Salvo",
+        "given": "A.E."
+      }
+    ],
+    "title": "Aplicación de la taxonomía numérica en pteridología: Estudio de la variabilidad en Asplenium marinum L",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Trabajos y monografías, Departamento de Botánica Universidad de Málaga",
+    "issued": "1981",
+    "page": "27–58"
+  },
+  {
+    "author": [
+      {
+        "family": "Haller",
+        "given": "A.von"
+      }
+    ],
+    "title": "Enumeratio methodica stirpium Helvetiae indigenarum. Tomus II",
+    "volume": "Göttingen",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "A. Vandenhoek",
+    "issued": "1742",
+    "page": "424",
+    "URL": "http://bibdigital.rjb.csic.es/spa/Libro.php?Libro=2860&Hojas="
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Order out of Chaos. Linnaean plant names and their types",
+    "container-title": "Linnean Society of London with the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Hortus Cliffortianus",
+    "publisher": "Salomon Schouten, Amsterdam",
+    "type": "book",
+    "issued": "1738",
+    "page": "518"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "vols. 1–2. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile",
+    "volume": "154",
+    "type": null,
+    "issued": "2012",
+    "page": "1–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Morison",
+        "given": "R."
+      }
+    ],
+    "title": "Plantarum Historiae Universalis Oxoniensis pars tertia",
+    "volume": "Oxford",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Theathro Sheldoniano",
+    "issued": "1699",
+    "page": "657",
+    "URL": "http://bibdigital.rjb.csic.es/spa/Libro.php?Libro=5556&Hojas="
+  },
+  {
+    "author": [
+      {
+        "family": "Nogueira",
+        "given": "I."
+      },
+      {
+        "family": "Ormonde",
+        "given": "J."
+      }
+    ],
+    "title": "Asplenium L",
+    "editor": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      },
+      {
+        "family": "Laínz",
+        "given": "M."
+      },
+      {
+        "family": "López González",
+        "given": "G."
+      },
+      {
+        "family": "Montserrat",
+        "given": "P."
+      },
+      {
+        "family": "Muñoz-Garmendia",
+        "given": "F."
+      },
+      {
+        "family": "Paiva",
+        "given": "J."
+      },
+      {
+        "family": "Villar",
+        "given": "L."
+      }
+    ],
+    "container-title": "Flora iberica",
+    "volume": "1",
+    "publisher": "CSIC",
+    "type": "chapter",
+    "issued": "1986",
+    "page": "90–104",
+    "publisher-place": "Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichstein",
+        "given": "T."
+      }
+    ],
+    "title": "Hybrids in European Aspleniaceae (Pteridophyta): significance, recognition, genome analysis, and fertility; checklist of species and hybrids; description of some new hybrids and cytology of several already known hybrids",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "Botanica Helvetica",
+    "issued": "1981",
+    "page": "89–139",
+    "URL": "http://dx.doi.org/10.5169/seals-64305",
+    "DOI": "10.5169/seals-64305"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichstein",
+        "given": "T."
+      }
+    ],
+    "title": "Hybrids in European Aspleniaceae (Pteridophyta). Addenda et corrigenda",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Botanica Helvetica",
+    "issued": "1982",
+    "page": "41"
+  },
+  {
+    "author": [
+      {
+        "family": "Savage",
+        "given": "S."
+      }
+    ],
+    "title": "A Catalogue of the Linnaean Herbarium",
+    "publisher": "Taylor & Francis, London",
+    "type": "book",
+    "issued": "1945",
+    "page": "225"
+  },
+  {
+    "author": [
+      {
+        "family": "Tison",
+        "given": "J.-M."
+      },
+      {
+        "family": "Jauzein",
+        "given": "P."
+      },
+      {
+        "family": "Michaud",
+        "given": "H."
+      }
+    ],
+    "title": "Flore de la France méditerranéenne continentale",
+    "type": "article-journal",
+    "container-title": "CBNMED/Naturalia Publication eds., Turriers",
+    "issued": "2014",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Viane",
+        "given": "R."
+      },
+      {
+        "family": "Jermy",
+        "given": "A.C."
+      },
+      {
+        "family": "Lovis",
+        "given": "J.D."
+      }
+    ],
+    "title": "Asplenium L",
+    "editor": [
+      {
+        "given": "In"
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "1",
+    "edition": "2nd",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "18–23",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M"
+  }
+]

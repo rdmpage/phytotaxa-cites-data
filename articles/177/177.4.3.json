@@ -1,0 +1,1306 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abe",
+        "given": "K."
+      }
+    ],
+    "title": "Flora of Tokushima",
+    "publisher": "Education Publishing Center, Tokushima",
+    "type": "book",
+    "issued": "1990",
+    "page": "580"
+  },
+  {
+    "author": [
+      {
+        "family": "Akiyama",
+        "given": "S."
+      }
+    ],
+    "title": "Caryophyllaceae",
+    "editor": [
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      },
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "container-title": "Flora of Japan 2a",
+    "publisher": "Kodansha",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "183–210",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Akiyama",
+        "given": "S."
+      }
+    ],
+    "title": "Crassulaceae",
+    "editor": [
+      {
+        "family": "Kato",
+        "given": "M."
+      },
+      {
+        "family": "Ebihara",
+        "given": "A."
+      }
+    ],
+    "publisher": "Tokai University Press, Hatano",
+    "note": "In Japanese with a Latin name list",
+    "type": null,
+    "issued": "2011",
+    "page": "67–69"
+  },
+  {
+    "author": [
+      {
+        "family": "Bolle",
+        "given": "C."
+      }
+    ],
+    "title": "Addenda ad floram Atlantidis, praecipue insularum Canariensium Gorgadumque",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Bonplandia",
+    "issued": "1859",
+    "page": "238–246"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "N.E."
+      }
+    ],
+    "title": "Sedum formosanum",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "The Gardeners’ Chronicle new series",
+    "issued": "1885",
+    "page": "134"
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "M."
+      },
+      {
+        "family": "Moon",
+        "given": "M."
+      },
+      {
+        "family": "López-Pujol",
+        "given": "J."
+      },
+      {
+        "family": "Maki",
+        "given": "M."
+      },
+      {
+        "family": "Yamashiro",
+        "given": "T."
+      },
+      {
+        "family": "Yukawa",
+        "given": "T."
+      },
+      {
+        "family": "Sugiura",
+        "given": "N."
+      },
+      {
+        "family": "Lee",
+        "given": "Y."
+      },
+      {
+        "family": "Chug",
+        "given": "M."
+      }
+    ],
+    "title": "Was Jeju Island a glacial refugium for East Asian warm-temperate plants? Insights from the homosporous fern Selliguea hastata (Polypodiaceae",
+    "volume": "100",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2013",
+    "page": "2240–2249",
+    "URL": "http://www.amjbot.org/cgi/doi/10.3732/ajb.1300134"
+  },
+  {
+    "author": [
+      {
+        "given": "D.D.B.J."
+      }
+    ],
+    "title": "DNA Data of Bank of Japan, National Institute of Genetics",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1983",
+    "publisher-place": "Japan, Mishima",
+    "URL": "http://www.ddbj.nig.ac.jp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Dolezal",
+        "given": "J."
+      },
+      {
+        "family": "Altman",
+        "given": "J."
+      },
+      {
+        "family": "Kopecky",
+        "given": "M."
+      },
+      {
+        "family": "Cerny",
+        "given": "T."
+      },
+      {
+        "family": "Janecek",
+        "given": "S."
+      },
+      {
+        "family": "Bartos",
+        "given": "M."
+      },
+      {
+        "family": "Petrik",
+        "given": "P."
+      },
+      {
+        "family": "Srutek",
+        "given": "M."
+      },
+      {
+        "family": "Leps",
+        "given": "J."
+      },
+      {
+        "family": "Song",
+        "given": "J."
+      }
+    ],
+    "title": "Plant Diversity Changes during the Postglacial in East Asia: Insights from Forest Refugia on Halla Volcano, Jeju Island",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "PLoS One",
+    "issued": "2012",
+    "page": "33065",
+    "URL": "http://dx.doi.org/10.1371/journal.pone.0033065",
+    "DOI": "10.1371/journal.pone.0033065"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "BEAST: Bayesian evolutionary analysis by sampling trees",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2007",
+    "page": "214",
+    "URL": "http://dx.doi.org/10.1186/1471-2148-7-214",
+    "DOI": "10.1186/1471-2148-7-214"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Shapiro",
+        "given": "B."
+      },
+      {
+        "family": "Pybus",
+        "given": "O.G."
+      }
+    ],
+    "title": "Bayesian coalescent inference of past population dynamics from molecular sequences",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2005",
+    "page": "1185–1192",
+    "URL": "http://dx.doi.org/10.1093/molbev/msi103",
+    "DOI": "10.1093/molbev/msi103"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Xie",
+        "given": "D."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "Bayesian phylogenetics with BEAUti and the BEAST 1.7",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2012",
+    "page": "1969–1973",
+    "URL": "http://dx.doi.org/10.1093/molbev/mss075",
+    "DOI": "10.1093/molbev/mss075"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Phylogenies from molecular sequences: inference and reliability",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Annual Review of Genetics",
+    "issued": "1988",
+    "page": "521–565",
+    "URL": "http://dx.doi.org/10.1146/annurev.genet.22.1.521",
+    "DOI": "10.1146/annurev.genet.22.1.521"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "K.T."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "title": "Crassulaceae. In: Editorial Committee of Flora of China (Eds.) Flora of China 8",
+    "type": "article-journal",
+    "container-title": "Missouri Botanical Garden Press, St. Louis",
+    "issued": "2001",
+    "page": "244–401"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Forest geography and archaeology: a lecture delivered before the Harvard University Natural History Society",
+    "volume": "Series 3 16",
+    "type": "article-journal",
+    "container-title": "American Journal of Science and Arts",
+    "issued": "1878",
+    "page": "85–94 183–196"
+  },
+  {
+    "author": [
+      {
+        "family": "Heled",
+        "given": "J."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "title": "Bayesian inference of species trees from multilocus data",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2010",
+    "page": "570–580",
+    "URL": "http://dx.doi.org/10.1093/molbev/msp274",
+    "DOI": "10.1093/molbev/msp274"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "W."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Deng",
+        "given": "T."
+      },
+      {
+        "family": "Razafimandimbison",
+        "given": "S.G."
+      },
+      {
+        "family": "Nie",
+        "given": "Z."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Molecular phylogenetics and biogeography of the eastern Asian–eastern North American disjunct Mitchella and its close relative Damnacanthus (Rubiaceae, Mitchelleae",
+    "volume": "171",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2013",
+    "page": "395–412",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2012.01321.x",
+    "DOI": "10.1111/j.1095-8339.2012.01321.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Environment",
+        "given": "Japanese Ministry",
+        "particle": "of"
+      }
+    ],
+    "note": "Red Data List (Plants). Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.biodic.go.jp/rdb/rdb_f.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Kitamura",
+        "given": "A."
+      },
+      {
+        "family": "Kimoto",
+        "given": "K."
+      }
+    ],
+    "title": "History of the inflow of the warm Tsushima Current into the Sea of Japan between 3.5 and 0.8 Ma",
+    "volume": "236",
+    "type": "article-journal",
+    "container-title": "Palaeoecology",
+    "issued": "2006",
+    "page": "355–366",
+    "URL": "http://dx.doi.org/10.1016/j.palaeo.2005.11.015",
+    "DOI": "10.1016/j.palaeo.2005.11.015"
+  },
+  {
+    "author": [
+      {
+        "family": "Kobayashi",
+        "given": "S."
+      }
+    ],
+    "title": "Crassulaceae. In: Flora of Kochi",
+    "type": "article-journal",
+    "container-title": "Kochi Prefecture, Kochi",
+    "issued": "2009",
+    "page": "232–235"
+  },
+  {
+    "author": [
+      {
+        "family": "Kokubugata",
+        "given": "G."
+      },
+      {
+        "family": "Nakamura",
+        "given": "K."
+      },
+      {
+        "family": "Forster",
+        "given": "P."
+      },
+      {
+        "family": "Hirayama",
+        "given": "Y."
+      },
+      {
+        "family": "Yokota",
+        "given": "M."
+      }
+    ],
+    "title": "Antitropical distribution of Lobelia species (Campanulaceae) between the Ryukyu Archipelago of Japan and Oceania as indicated by molecular data",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Australian Journal of Botany",
+    "issued": "2012",
+    "page": "417–428",
+    "URL": "http://dx.doi.org/10.1071/BT11316",
+    "DOI": "10.1071/BT11316"
+  },
+  {
+    "author": [
+      {
+        "family": "Kong",
+        "given": "W."
+      }
+    ],
+    "title": "Vegetational history of the Korean Peninsula",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Global Ecology & Biogeography",
+    "issued": "2000",
+    "page": "391–402",
+    "URL": "http://dx.doi.org/10.1046/j.1365-2699.2000.00203.x",
+    "DOI": "10.1046/j.1365-2699.2000.00203.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Arboretum",
+        "given": "Korea National"
+      }
+    ],
+    "title": "Korean Plant Name Index",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "URL": "http://www.nature.go.kr/kpni/english/index.jsp"
+  },
+  {
+    "author": [
+      {
+        "family": "Koyama",
+        "given": "H."
+      }
+    ],
+    "title": "Carpesium",
+    "editor": [
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      },
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "publisher": "Kodansha",
+    "type": "book",
+    "issued": "1995",
+    "page": "98–100",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C."
+      }
+    ],
+    "title": "Diagnoses breves plantarum novarum Japoniae et Mandshuriae. Bulletin de l’Académie Impériale des Sciences de Saint-Pétersbourg xii",
+    "type": null,
+    "issued": "1868",
+    "page": "60–73",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.46306",
+    "DOI": "10.5962/bhl.title.46306"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C."
+      }
+    ],
+    "title": "Diagnoses breves plantarum novarum Japoniae et Mandshuriae",
+    "container-title": "Bulletin de l’Académie Impériale des Sciences de Saint-Pétersbourg XIX",
+    "type": "chapter",
+    "issued": "1874",
+    "page": "475–540",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.46306",
+    "DOI": "10.5962/bhl.title.46306"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Illustrated flora of Japan I8",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Keigyosya, Tokyo",
+    "issued": "1891",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Illustrated flora of Japan I10",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Keigyosya, Tokyo",
+    "issued": "1891",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Notes on Japanese plants, XV",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "The Botanical Magazine, Tokyo",
+    "issued": "1892",
+    "page": "45–56"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Observations on the flora of Japan",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "The Botanical Magazine, Tokyo",
+    "issued": "1901",
+    "page": "32–36"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Observations on the flora of Japan",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "The Botanical Magazine, Tokyo",
+    "issued": "1910",
+    "page": "124–130"
+  },
+  {
+    "author": [
+      {
+        "family": "Mayuzumi",
+        "given": "S."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "title": "The phylogenetic position of Eastern Asian Sedoideae (Crassulaceae) inferred from chloroplast and nuclear DNA sequences",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2004",
+    "page": "587–598",
+    "URL": "http://dx.doi.org/10.1600/0363644041744329",
+    "DOI": "10.1600/0363644041744329"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitsui",
+        "given": "Y."
+      },
+      {
+        "family": "Chen",
+        "given": "S."
+      },
+      {
+        "family": "Zhou",
+        "given": "Z."
+      },
+      {
+        "family": "Peng",
+        "given": "C."
+      },
+      {
+        "family": "Deng",
+        "given": "Y."
+      },
+      {
+        "family": "Setoguchi",
+        "given": "H."
+      }
+    ],
+    "title": "Phylogeny and biogeography of the genus Ainsliaea (Asteraceae) in the Sino-Japanese region based on nuclear rDNA and plastid DNA sequence data",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2008",
+    "page": "111–124",
+    "URL": "http://dx.doi.org/10.1093/aob/mcm267",
+    "DOI": "10.1093/aob/mcm267"
+  },
+  {
+    "author": [
+      {
+        "family": "Mort",
+        "given": "M.E."
+      },
+      {
+        "family": "Soltis",
+        "given": "D.E."
+      },
+      {
+        "family": "Soltis",
+        "given": "P.S."
+      },
+      {
+        "family": "Francisco-Ortega",
+        "given": "J."
+      },
+      {
+        "family": "Santos-Guerra",
+        "given": "A."
+      }
+    ],
+    "title": "Phylogenetic relationships and evolution of Crassulaceae inferred from matK sequence data",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal off Botany",
+    "issued": "2001",
+    "page": "76–91",
+    "URL": "http://dx.doi.org/10.2307/2657129",
+    "DOI": "10.2307/2657129"
+  },
+  {
+    "author": [
+      {
+        "family": "Mort",
+        "given": "M.E."
+      },
+      {
+        "family": "Soltis",
+        "given": "D.E."
+      },
+      {
+        "family": "Soltis",
+        "given": "P.S."
+      },
+      {
+        "family": "Francisco-Ortega",
+        "given": "J."
+      },
+      {
+        "family": "Santos-Guerra",
+        "given": "A."
+      }
+    ],
+    "title": "Phylogenetics and evolution of the Macaronesian clade of Crassulaceae inferred from nuclear and chloroplast sequence data",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2002",
+    "page": "271–288",
+    "URL": "http://dx.doi.org/10.2307/2657129",
+    "DOI": "10.2307/2657129"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakai",
+        "given": "T."
+      }
+    ],
+    "title": "Flora Koreana",
+    "volume": "31",
+    "note": "In Japanese with a Latin name list",
+    "type": "article-journal",
+    "container-title": "The Journal of the College of Science, Imperial University of Tokyo",
+    "issued": "1911",
+    "page": "64–68"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakamura",
+        "given": "K."
+      },
+      {
+        "family": "Denda",
+        "given": "T."
+      },
+      {
+        "family": "Kokubugata",
+        "given": "G."
+      },
+      {
+        "family": "Forster",
+        "given": "P.I."
+      },
+      {
+        "family": "Wilson",
+        "given": "G.W."
+      },
+      {
+        "family": "Peng",
+        "given": "C."
+      },
+      {
+        "family": "Yokota",
+        "given": "M."
+      }
+    ],
+    "title": "Molecular phylogeography reveals an antitropical distribution and local diversification of Solenogyne (Asteraceae) in the Ryukyu Archipelago of Japan and Australia",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Biological Journal of the Linnean Society",
+    "issued": "2012",
+    "page": "197–217",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8312.2011.01769.x",
+    "DOI": "10.1111/j.1095-8312.2011.01769.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "title": "Crassulaceae",
+    "editor": [
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      },
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "container-title": "Flora of Japan 2b",
+    "publisher": "Kodansha",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "21–29",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Popp",
+        "given": "M."
+      },
+      {
+        "family": "Virginia Mirré",
+        "given": "V."
+      },
+      {
+        "family": "Brochmann",
+        "given": "C."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "title": "A single Mid-Pleistocene long-distance dispersal by a bird can explain the extreme bipolar disjunction in crowberries (Empetrum",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "108",
+    "type": "paper-conference",
+    "issued": "2011",
+    "page": "6520–6525",
+    "URL": "http://dx.doi.org/10.1073/pnas.1012249108",
+    "DOI": "10.1073/pnas.1012249108"
+  },
+  {
+    "author": [
+      {
+        "family": "Praeger",
+        "given": "R.L."
+      }
+    ],
+    "title": "Semperviva of the Canary Islands area",
+    "container-title": "Proceedings of the Royal Irish Academy",
+    "volume": "38",
+    "type": "paper-conference",
+    "issued": "1929",
+    "page": "454–499"
+  },
+  {
+    "author": [
+      {
+        "family": "P.H",
+        "given": "Raven"
+      }
+    ],
+    "title": "Amphitropical relationships in the floras of North and South America",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Quarterly Review of Biology",
+    "issued": "1963",
+    "page": "151–177",
+    "URL": "http://dx.doi.org/10.1086/403797",
+    "DOI": "10.1086/403797"
+  },
+  {
+    "author": [
+      {
+        "family": "Richardson",
+        "given": "J.E."
+      },
+      {
+        "family": "Pennington",
+        "given": "R.T."
+      },
+      {
+        "family": "Pennington",
+        "given": "T.D."
+      },
+      {
+        "family": "Hollingsworth",
+        "given": "P.M."
+      }
+    ],
+    "title": "Rapid diversification of a species-rich genus of Neotropical rain forest trees",
+    "volume": "293",
+    "type": "article-journal",
+    "container-title": "Science",
+    "issued": "2001",
+    "page": "2242–2245"
+  },
+  {
+    "author": [
+      {
+        "family": "Shimizu",
+        "given": "T."
+      }
+    ],
+    "title": "Campanulaceae",
+    "editor": [
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      },
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "publisher": "Kodansha",
+    "type": "book",
+    "issued": "1993",
+    "page": "405–418",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Song",
+        "given": "G.P."
+      },
+      {
+        "family": "Song",
+        "given": "K.M."
+      },
+      {
+        "family": "Hyun",
+        "given": "H.J."
+      },
+      {
+        "family": "Kim",
+        "given": "M.H."
+      },
+      {
+        "family": "Kim",
+        "given": "C.S."
+      }
+    ],
+    "title": "An unrecorded species in Korean flora: Sedum tosaense Makino (Crassulaceae",
+    "volume": "34",
+    "note": "in Korean with English abstract",
+    "type": "article-journal",
+    "container-title": "Korean Journal of Plant Taxonomy",
+    "issued": "2004",
+    "page": "359–364",
+    "URL": "http://dx.doi.org/10.11110/kjpt",
+    "DOI": "10.11110/kjpt"
+  },
+  {
+    "author": [
+      {
+        "family": "Spalik",
+        "given": "K."
+      },
+      {
+        "family": "Piwczynski",
+        "given": "M."
+      },
+      {
+        "family": "Danderson",
+        "given": "C.A."
+      },
+      {
+        "family": "Kurzyna-Młynik",
+        "given": "R."
+      },
+      {
+        "family": "Bone",
+        "given": "T.S."
+      },
+      {
+        "family": "Downie",
+        "given": "S.R."
+      }
+    ],
+    "title": "Amphitropic amphiantarctic disjunctions in Apiaceae subfamily Apioideae",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2010",
+    "page": "1977–1994",
+    "URL": "http://dx.doi.org/10.1111/j.1365-2699.2010.02334.x",
+    "DOI": "10.1111/j.1365-2699.2010.02334.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP: Phylogenetic Analysis Using Parsimony, version 4.0b10",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "P."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "http://dx.doi.org/10.1007/bf00037152",
+    "DOI": "10.1007/bf00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanabe",
+        "given": "A.S."
+      }
+    ],
+    "title": "Kakusan4 and Aminosan: two programs for comparing nonpartitioned, proportional and separate models for combined molecular phylogenetic analyses of multilocus sequence data",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2011",
+    "page": "914–921",
+    "URL": "http://dx.doi.org/10.1111/j.1755-0998.2011.03021.x",
+    "DOI": "10.1111/j.1755-0998.2011.03021.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "W.S."
+      },
+      {
+        "family": "Huang",
+        "given": "T.C."
+      }
+    ],
+    "title": "Crassulaceae",
+    "editor": [
+      {
+        "family": "Huang",
+        "given": "T.C."
+      }
+    ],
+    "container-title": "Flora of Taiwan",
+    "volume": "3",
+    "publisher": "Department of Botany, National Taiwan University",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "15–34",
+    "publisher-place": "Taipei"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiede",
+        "given": "J."
+      },
+      {
+        "family": "Eggli",
+        "given": "U."
+      }
+    ],
+    "title": "Crassulaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants",
+    "volume": "9",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "83–118",
+    "publisher-place": "Berlin Heidelberg"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      }
+    ],
+    "title": "CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position specific gap penalties and weight matrix choice",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1994",
+    "page": "4673–4680",
+    "URL": "http://dx.doi.org/10.1093/nar/22.22.4673",
+    "DOI": "10.1093/nar/22.22.4673"
+  },
+  {
+    "author": [
+      {
+        "family": "Thorne",
+        "given": "R.F."
+      }
+    ],
+    "title": "Major disjunctions in the geographic ranges of seed plants",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Quarterly Review of Biology",
+    "issued": "1972",
+    "page": "365–411",
+    "URL": "http://dx.doi.org/10.1086/407399",
+    "DOI": "10.1086/407399"
+  },
+  {
+    "author": [
+      {
+        "family": "Tuyama",
+        "given": "T."
+      }
+    ],
+    "title": "Plantae Boninenses novae vel Criticae. VII",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine, Tokyo",
+    "issued": "1936",
+    "page": "425–430"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols, A Guide to Methods and Applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego"
+  },
+  {
+    "author": [
+      {
+        "family": "Woo",
+        "given": "K.S."
+      },
+      {
+        "family": "Sohn",
+        "given": "Y.K."
+      },
+      {
+        "family": "San Ahn",
+        "given": "U."
+      },
+      {
+        "family": "Yoon",
+        "given": "S.H."
+      },
+      {
+        "family": "Spate",
+        "given": "A."
+      }
+    ],
+    "title": "Jeju Island Geopark: A Volcanic Wonder of Korea",
+    "publisher": "Springer",
+    "type": "book",
+    "issued": "2013",
+    "page": "88",
+    "publisher-place": "Berlin, Heidelberg",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-20564-4",
+    "DOI": "10.1007/978-3-642-20564-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Yabe",
+        "given": "Y."
+      }
+    ],
+    "title": "Florula Tsusimensis",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "The Botanical Magazine, Tokyo",
+    "issued": "1903",
+    "page": "193–198"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamazaki",
+        "given": "T."
+      }
+    ],
+    "title": "Primulaceae",
+    "editor": [
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      },
+      {
+        "family": "Yamazaki",
+        "given": "T."
+      },
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "publisher": "Kodansha",
+    "type": "book",
+    "issued": "1993",
+    "page": "79–95",
+    "publisher-place": "Tokyo"
+  }
+]

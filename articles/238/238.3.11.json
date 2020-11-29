@@ -1,0 +1,219 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Compositae",
+    "editor": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "volume": "2",
+    "publisher": "Lovell Reeve & Co",
+    "issue": "1",
+    "type": "book",
+    "issued": "1873",
+    "page": "163–533",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavanilles",
+        "given": "A.J."
+      }
+    ],
+    "title": "Icones et descriptiones plantarum, quae aut sponte in Hispania crescunt, aut in hortis hospitantur",
+    "volume": "2",
+    "publisher": "Ex Regia Typographia, Matriti",
+    "issue": "3",
+    "type": "book",
+    "issued": "1793",
+    "page": "83 , 101–200"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavanilles",
+        "given": "A.J."
+      }
+    ],
+    "title": "Descripción de las plantas que D. Antonio Josef Cavanilles demostró en las lecciones públicas del año 1801, precedida de los principios elementales de la botánica",
+    "volume": "Madrid",
+    "type": "article-journal",
+    "container-title": "En la imprenta Real",
+    "issued": "1802",
+    "page": "421"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavanilles",
+        "given": "A.J."
+      }
+    ],
+    "title": "Elenchus Plantarum Horti Regii Botanici Matritemsis",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Madrid",
+    "issued": "1803",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      }
+    ],
+    "title": "Flora iberica 1–8",
+    "volume": "10–16(1), 17–18, 20–21",
+    "type": null,
+    "issued": "1986",
+    "page": "25",
+    "publisher-place": "Real Jardín Botánico, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Garilleti",
+        "given": "R."
+      }
+    ],
+    "title": "Herbarium cavanillesianum seu enumeratio plantarum exsiccatarum aliquo modo ad novitatis cavanillesianas pertinentium, quae in Horti Regii Matritensis atque Londinensis Societatis Linnaeanae herbariis asservantur",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Fontqueria",
+    "issued": "1993",
+    "page": "6–248"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Compositae",
+    "editor": [
+      {
+        "family": "Whitney",
+        "given": "J.D."
+      }
+    ],
+    "volume": "1",
+    "publisher": "Welch, Bigelow, & Co., University Press",
+    "type": "article-journal",
+    "container-title": "Botany",
+    "issued": "1876",
+    "page": "288–443",
+    "publisher-place": "Cambridge, Mass"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Contribution to North American botany. I Characters of new Compositae, with revision of certain genera and critical notes",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "19",
+    "type": "paper-conference",
+    "issued": "1883",
+    "page": "1–96",
+    "URL": "http://dx.doi.org/10.2307/25138721",
+    "DOI": "10.2307/25138721"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Synoptical Flora of North America: the Gamopetalae, a second edition of",
+    "volume": "I part II and vol. II",
+    "publisher": "The Smithsonian Institution",
+    "type": "book",
+    "issued": "1888",
+    "page": "480 494",
+    "publisher-place": "Washington, D.C"
+  },
+  {
+    "author": [
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      }
+    ],
+    "title": "An annotated preliminary checklist of the Compositae of Bolivia",
+    "genre": "Vers. 2.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": "article-journal",
+    "container-title": "Impensis Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Verbesina",
+    "editor": [
+      {
+        "family": "Anderson",
+        "given": "W.R."
+      }
+    ],
+    "volume": "12",
+    "publisher": "University of Michigan Press, Ann Arbor",
+    "type": "book",
+    "issued": "1984",
+    "page": "963–1013"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "B.L."
+      },
+      {
+        "family": "Greeman",
+        "given": "J.M."
+      }
+    ],
+    "title": "Synopsis of the genus Verbesina, with an analytical key to species",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "39",
+    "type": "paper-conference",
+    "issued": "1899",
+    "page": "534–566",
+    "URL": "http://dx.doi.org/10.2307/20020930",
+    "DOI": "10.2307/20020930"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "author": [
+      {
+        "family": "Haines",
+        "given": "A."
+      }
+    ],
+    "title": "The families Huperziaceae and Lycopodiaceae in New England: A taxonomic and ecological reference",
+    "publisher": "V. F. Thomas Co., Bowdoin",
+    "type": "book",
+    "issued": "2003",
+    "page": "100"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "H."
+      }
+    ],
+    "title": "Preliminary report on the Flora of Southern Hidaka, Hokkaidô (Yezo) I",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "The Botanical Magazine, Tokyo",
+    "issued": "1934",
+    "page": "685–707",
+    "URL": "https://doi.org/10.15281/jplantres1887.48.685",
+    "DOI": "10.15281/jplantres1887.48.685"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "publisher": "Impensis Laurentii Salvii",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm",
+    "URL": "http://www.biodiversitylibrary.org/item/13830#page/544/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Michaux",
+        "given": "A."
+      }
+    ],
+    "title": "Flora boreali-americana: sistens caracteres plantarum quas in America septentrionali collegit et detexit",
+    "volume": "2",
+    "publisher": "Apud fraters Levrault, Parisiis et Argentorati",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1803",
+    "page": "340",
+    "URL": "http://www.botanicus.org/item/31753000507332"
+  },
+  {
+    "author": [
+      {
+        "family": "Milde",
+        "given": "J."
+      }
+    ],
+    "title": "Filices Europae et Atlantidis, Asiae Minoris et Siberiae. Sumptibus A",
+    "publisher": "Felix, Lipsiae",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1867",
+    "page": "311",
+    "URL": "http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=4419"
+  },
+  {
+    "author": [
+      {
+        "family": "PPG",
+        "given": "I."
+      }
+    ],
+    "title": "A community-derived classification for extant lycopods and ferns",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2016",
+    "page": "563–603",
+    "URL": "https://doi.org/10.1111/jse.12229",
+    "DOI": "10.1111/jse.12229"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      },
+      {
+        "family": "Kung",
+        "given": "H.-S."
+      }
+    ],
+    "title": "The reclassification of Lycopodiaceae (s. str.) in China",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "2000",
+    "page": "266–275"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "Lycopodiaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.-Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-C."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "6",
+    "publisher": "Science Press",
+    "issue": "3",
+    "type": "article-journal",
+    "issued": "2004",
+    "page": "55–85",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      },
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      }
+    ],
+    "title": "Lycopodiaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols. 2–3",
+    "publisher": "Pteridophytes). Science Press",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "13–34",
+    "publisher-place": "Beijing"
+  }
+]

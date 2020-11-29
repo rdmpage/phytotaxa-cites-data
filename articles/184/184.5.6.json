@@ -1,0 +1,399 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Notes on Mimosae with a sinopsis of species",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "container-title": "The London journal of botany",
+    "volume": "1",
+    "type": "article-journal",
+    "issued": "1842",
+    "page": "494–528"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Enumeration of Leguminosae indiginous to southern Asia and central and southern Africa",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "London J. Bot",
+    "issued": "1843",
+    "page": "423–594"
+  },
+  {
+    "author": [
+      {
+        "family": "Boatwright",
+        "given": "J.S."
+      },
+      {
+        "family": "Wink",
+        "given": "M."
+      },
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      }
+    ],
+    "title": "The generic concept of Lotononis (Crotalarie, Fabaceae): Reinstatement of the genera Euchlora, Leobordea and Listia and the new genus Ezoloba",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "1",
+    "issued": "2011",
+    "page": "161–177"
+  },
+  {
+    "author": [
+      {
+        "family": "Ehrhart",
+        "given": "J.F."
+      }
+    ],
+    "title": "Beftimmungen einiger Pflanzen meines Gärtchens",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Beiträge zur Naturkunde",
+    "issued": "1792",
+    "page": "139–167"
+  },
+  {
+    "author": [
+      {
+        "family": "Dümmer",
+        "given": "R.A."
+      },
+      {
+        "family": "Pearson",
+        "given": "H.H.W."
+      }
+    ],
+    "title": "A synopsis of the species of Lotononis, Eckl. and Zeyh., and Pleiospora, Harv",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Transactions of the Royal Society of South Africa",
+    "issued": "1913",
+    "page": "275–335",
+    "URL": "http://dx.doi.org/10.1080/00359191309519700",
+    "DOI": "10.1080/00359191309519700"
+  },
+  {
+    "author": [
+      {
+        "family": "Genç",
+        "given": "H."
+      },
+      {
+        "family": "Sahin",
+        "given": "A."
+      },
+      {
+        "family": "Cicercula",
+        "particle": "section"
+      }
+    ],
+    "title": "A new species of Lathyrus L",
+    "volume": "158",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2008",
+    "page": "301–305",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2008.00932.x",
+    "DOI": "10.1111/j.1095-8339.2008.00932.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Laborde",
+        "given": "L."
+      }
+    ],
+    "title": "Voyage de l’Arabie Pétrée",
+    "type": null,
+    "issued": "1830",
+    "page": "87",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "G.P."
+      },
+      {
+        "family": "Schrire",
+        "given": "B."
+      },
+      {
+        "family": "Mackinder",
+        "given": "B."
+      },
+      {
+        "family": "Lock",
+        "given": "M."
+      }
+    ],
+    "title": "Legumes of the World",
+    "volume": "Kew",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens",
+    "issued": "2005",
+    "page": "577"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentii Salvii, Stockholmiae"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): Adopted by the Eighteenth International Botanical Congress Melbourne, Australia. Regnum Vegetabile 154.",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": null,
+    "issued": "2012",
+    "page": "208"
+  },
+  {
+    "author": [
+      {
+        "family": "Merxmüller",
+        "given": "H."
+      },
+      {
+        "family": "Schreiber",
+        "given": "A."
+      }
+    ],
+    "title": "Einige Neue Leguminosen aus Südwestafrika",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique de l’État à Bruxelles",
+    "issue": "2",
+    "issued": "1957",
+    "page": "267–277"
+  },
+  {
+    "author": [
+      {
+        "family": "Polhill",
+        "given": "R.M."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Stirton",
+        "given": "C.H."
+      }
+    ],
+    "title": "Evolution and Systematics of the Leguminosae",
+    "editor": [
+      {
+        "family": "Polhill",
+        "given": "R.M."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Advances in Legume Systematics",
+    "publisher": "Royal Botanic Gardens, Kew",
+    "type": "chapter",
+    "issued": "1981",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Sylva telluriana : Mantis. synopt. : new genera and species of trees and shrubs of North America, and other regions of the earth",
+    "publisher": "Philadelphia",
+    "type": "book",
+    "issued": "1838",
+    "page": "184",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.22070",
+    "DOI": "10.5962/bhl.title.22070"
+  },
+  {
+    "author": [
+      {
+        "family": "Schreiber",
+        "given": "A."
+      }
+    ],
+    "title": "Fabaceae",
+    "editor": [
+      {
+        "family": "Merxmüller",
+        "given": "H."
+      }
+    ],
+    "volume": "3–4",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "1960",
+    "page": "602–631"
+  },
+  {
+    "author": [
+      {
+        "family": "Seigler",
+        "given": "D.S."
+      },
+      {
+        "family": "J.E",
+        "given": "Ebinger"
+      }
+    ],
+    "title": "New combinations in Senegalia and Vachellia (Fabaceae: Mimosoideae",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issue": "1",
+    "issued": "2010",
+    "page": "92–95"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Novorum generum caracteres essentiales",
+    "container-title": "Prodromus plantarum Capensium: quas in promontorio Bonæ Spei Africes, annis 1772–1775",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1800",
+    "page": "1–183"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M.H."
+      }
+    ],
+    "title": "Symbolae botanicae sive plantarum",
+    "volume": "2",
+    "type": null,
+    "issued": "1791",
+    "page": "1–105",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.57641",
+    "DOI": "10.5962/bhl.title.57641"
+  },
+  {
+    "author": [
+      {
+        "family": "Vassal",
+        "given": "J."
+      }
+    ],
+    "title": "Ontogenetic and seed research applied to the morphological, taxonomic and phylogenetic study of the genus Acacia",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Travaux de Laboratoire Forestier de Toulouse",
+    "issue": "1",
+    "issued": "1972",
+    "page": "1–125"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      }
+    ],
+    "title": "A synopsis of the genus Lotononis (Fabaceae: Crotalarieae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Contributions from the Bolus Herbarium",
+    "issued": "1991",
+    "page": "1–292"
+  }
+]

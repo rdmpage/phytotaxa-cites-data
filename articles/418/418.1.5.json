@@ -1,0 +1,362 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae hucusque cognitarum s. Klotzschii,  ̈Flora Americae aequinoctialis ̈ exhibens Myrtaceas",
+    "volume": "27",
+    "publisher": "der Linnaea",
+    "type": "article-journal",
+    "container-title": "Ausschnitt aus Bd",
+    "issue": "ft",
+    "issued": "1854",
+    "page": "1–4"
+  },
+  {
+    "author": [
+      {
+        "family": "Cornejo",
+        "given": "X."
+      },
+      {
+        "family": "Mori",
+        "given": "S.A."
+      }
+    ],
+    "title": "Grias theobromicarpa (Lecythidaceae), a new species from northwestern Ecuador",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2010",
+    "page": "99–104",
+    "URL": "https://doi.org/10.1007/s12228-009-9118-4",
+    "DOI": "10.1007/s12228-009-9118-4"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "UICN Red list Categories and Criteria",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland, and Cambridge, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Forster",
+        "given": "J.R."
+      },
+      {
+        "family": "Forster",
+        "given": "G."
+      }
+    ],
+    "title": "Characteres generum plantarum, quas in itinere ad insulas maris Australis: collegerunt, descripserunt, delinearunt, annis 1772–1775",
+    "editor": [
+      {
+        "family": "White",
+        "given": "B."
+      },
+      {
+        "family": "Cadell",
+        "given": "T."
+      },
+      {
+        "family": "Elmsly",
+        "given": "P."
+      }
+    ],
+    "type": null,
+    "issued": "1776",
+    "page": "247",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.5962/bhl.title.4448",
+    "DOI": "10.5962/bhl.title.4448"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Plantae Surinamense, quas, Venia Experient",
+    "volume": "Uppsala",
+    "type": "article-journal",
+    "container-title": "Typis Edmannianis",
+    "issued": "1775",
+    "page": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      },
+      {
+        "family": "Lecythidaceae",
+        "given": "S.A.Mori Lecythidaceae–Part I.The Actinomorphic-flowered New World"
+      }
+    ],
+    "title": "Grias",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "In",
+    "issued": "1979",
+    "page": "197–209",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      }
+    ],
+    "title": "Lecythidaceae",
+    "editor": [
+      {
+        "family": "Jørgensen",
+        "given": "P.M."
+      },
+      {
+        "family": "León-Yánez",
+        "given": "S."
+      }
+    ],
+    "container-title": "Catalogue of the Vascular Plants of Ecuador. Missouri Botanical Garden Press, St. Louis",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "533–535"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Kallunki",
+        "given": "J.A."
+      }
+    ],
+    "title": "Phenology and floral biology of Gustavia superba (Lecythidaceae) in Central Panama",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Biotropica",
+    "issue": "3",
+    "issued": "1976",
+    "page": "143–165",
+    "URL": "https://doi.org/10.2307/2989684",
+    "DOI": "10.2307/2989684"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Boeke",
+        "given": "J.D."
+      },
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "given": "Collaborators"
+      }
+    ],
+    "title": "Chapter XII. Pollination",
+    "edition": "In",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1987",
+    "page": "137–155"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Tsou",
+        "given": "C.-H."
+      },
+      {
+        "family": "Wu",
+        "given": "C.C."
+      },
+      {
+        "family": "Cronholm",
+        "given": "B."
+      },
+      {
+        "family": "Anderberg",
+        "given": "A.A."
+      }
+    ],
+    "title": "Evolution of Lecythidaceae: information from combined ndhF and trnL-F sequence data",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "3",
+    "issued": "2007",
+    "page": "289–301",
+    "URL": "https://doi.org/10.3732/ajb.94.3.289",
+    "DOI": "10.3732/ajb.94.3.289"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Cornejo",
+        "given": "X."
+      }
+    ],
+    "title": "Two new species (Gustavia johnclarkii and G. hubbardiorum) and other contributions to the systematics of Gustavia (Lecythidaceae",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2013",
+    "page": "330–341",
+    "URL": "https://doi.org/10.1007/s12228-012-9282-9",
+    "DOI": "10.1007/s12228-012-9282-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Kiernan",
+        "given": "E.A."
+      },
+      {
+        "family": "Smith",
+        "given": "N.P."
+      },
+      {
+        "family": "Kelly",
+        "given": "L.M."
+      },
+      {
+        "family": "Huang",
+        "given": "Y.-Y."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      },
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Observations on the phytogeography of the Lecythidaceae clade (Brazil nut family",
+    "volume": "2017-30",
+    "type": "article-journal",
+    "container-title": "Phytoneuron",
+    "issued": "2017",
+    "page": "1–85"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Smith",
+        "given": "N.P."
+      },
+      {
+        "family": "Cornejo",
+        "given": "X."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      }
+    ],
+    "title": "onward) The Lecythidaceae Pages",
+    "publisher": "The New York Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "publisher-place": "Bronx, New York",
+    "URL": "http://sweetgum.nybg.org/lp/index.php"
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Smith",
+        "given": "N.P."
+      },
+      {
+        "family": "Huang",
+        "given": "Y.-Y."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      },
+      {
+        "family": "Kelly",
+        "given": "L.M."
+      },
+      {
+        "family": "Carollo Matos",
+        "given": "C."
+      }
+    ],
+    "title": "Toward a Phylogenetic-based Generic Classification of Neotropical Lecythidaceae–II",
+    "volume": "203",
+    "type": "article-journal",
+    "container-title": "Status of Allantoma, Cariniana, Couratari, Couroupita, Grias and Gustavia, Phytotaxa",
+    "issued": "2015",
+    "page": "122–137",
+    "URL": "https://doi.org/10.11646/phytotaxa.203.2.2",
+    "DOI": "10.11646/phytotaxa.203.2.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Sork",
+        "given": "V.L."
+      }
+    ],
+    "title": "Effects of predation and light on seedling establishment in Gustavia superba",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Ecology",
+    "issue": "5",
+    "issued": "1987",
+    "page": "1341–1",
+    "URL": "https://doi.org/10.2307/1939218",
+    "DOI": "10.2307/1939218"
+  }
+]

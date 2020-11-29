@@ -1,0 +1,177 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      }
+    ],
+    "title": "Histoire des Plantes de la Guiane Françoise, second partie",
+    "publisher": "Pierre-François Didot",
+    "type": "book",
+    "issued": "1775",
+    "page": "622–976",
+    "publisher-place": "London and Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Guttiferae (Clusiaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora brasiliensis",
+    "volume": "12",
+    "publisher": "Frid. Fleischer",
+    "type": "chapter",
+    "issued": "1888",
+    "page": "441–455",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "literal": "Gahagen, B., Terbush, M. & Ballard Jr., H.E."
+      }
+    ],
+    "title": "A taxonomic synthesis of the Tovomita weddelliana (Clusiaceae) species complex",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2015",
+    "page": "968–988",
+    "URL": "https://doi.org/10.1600/036364415X690012",
+    "DOI": "10.1600/036364415X690012"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Marinho",
+        "given": "L.C."
+      },
+      {
+        "family": "Fiaschi",
+        "given": "P."
+      },
+      {
+        "family": "Santos",
+        "given": "F.A.R."
+      },
+      {
+        "family": "Amorim",
+        "given": "A.M."
+      }
+    ],
+    "title": "Three new species of Tovomita (Clusiaceae) from the Amazon River basin and first record of papillae for Tovomita",
+    "volume": "302",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2016",
+    "page": "1121–1134",
+    "URL": "https://doi.org/10.1007/s00606-016-1321-7",
+    "DOI": "10.1007/s00606-016-1321-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.É."
+      },
+      {
+        "family": "Triana",
+        "given": "J.J."
+      }
+    ],
+    "title": "Mémoire sur la Famille des Guttifères. Annales des Sciences Naturelles, Botanique 4",
+    "publisher": "Victor Massonet Fils",
+    "type": "book",
+    "issued": "1860",
+    "page": "226–367",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Poncy",
+        "given": "O."
+      },
+      {
+        "family": "Offroy",
+        "given": "B."
+      }
+    ],
+    "title": "Une nouvelle espèce de Tovomita Aubl. (Clusiaceae) de Guyane française",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "2006",
+    "page": "113–117"
+  },
+  {
+    "author": [
+      {
+        "family": "Shorthouse",
+        "given": "D.P."
+      }
+    ],
+    "title": "SimpleMappr, an online tool to produce publication-quality point maps",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "URL": "http://www.simplemappr.net"
+  },
+  {
+    "author": [
+      {
+        "family": "Vesque",
+        "given": "J."
+      }
+    ],
+    "title": "Guttiferae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A."
+      },
+      {
+        "family": "De Candolle",
+        "given": "C."
+      }
+    ],
+    "container-title": "Monographiae phanerogamarum",
+    "volume": "8",
+    "publisher": "Sumptibus G. Masson, Paris",
+    "type": "chapter",
+    "issued": "1893",
+    "page": "676"
+  }
+]

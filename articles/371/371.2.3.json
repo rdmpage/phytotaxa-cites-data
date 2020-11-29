@@ -1,0 +1,948 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berbee",
+        "given": "M.L."
+      },
+      {
+        "family": "Pirseyedi",
+        "given": "M."
+      },
+      {
+        "family": "Hubbard",
+        "given": "S."
+      }
+    ],
+    "title": "Cochliobolus phylogenetics and the origin of known, highly virulent pathogens, inferred from ITS and glyceraldehyde-3-phosphate dehydrogenase gene sequences",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1999",
+    "page": "964–977",
+    "URL": "https://doi.org/10.2307/3761627",
+    "DOI": "10.2307/3761627"
+  },
+  {
+    "author": [
+      {
+        "family": "Brahamanage",
+        "given": "R.S."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Li",
+        "given": "X.H."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R.S."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Yan",
+        "given": "J.Y."
+      }
+    ],
+    "title": "Are pathogenic isolates of Stemphylium host specific and cosmopolitan?",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Plant Pathology & Quarantine",
+    "issued": "2018",
+    "page": "153–164",
+    "URL": "https://doi.org/10.5943/ppq/8/2/7",
+    "DOI": "10.5943/ppq/8/2/7"
+  },
+  {
+    "author": [
+      {
+        "family": "Câmara",
+        "given": "M.P.S."
+      },
+      {
+        "family": "OʼNeill",
+        "given": "N.R."
+      },
+      {
+        "family": "Berkum",
+        "given": "P.",
+        "particle": "van"
+      }
+    ],
+    "title": "Phylogeny of Stemphylium spp. based on ITS and glyceraldehyde-3-phosphate dehydrogenase gene sequences",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2002",
+    "page": "660–672",
+    "URL": "https://doi.org/10.1080/15572536.2003.11833194",
+    "DOI": "10.1080/15572536.2003.11833194"
+  },
+  {
+    "author": [
+      {
+        "family": "Deng",
+        "given": "J.X."
+      },
+      {
+        "family": "Paul",
+        "given": "N.C."
+      },
+      {
+        "family": "Li",
+        "given": "M.J."
+      },
+      {
+        "family": "Cho",
+        "given": "H.S."
+      },
+      {
+        "family": "Lee",
+        "given": "H.B."
+      },
+      {
+        "family": "Yu",
+        "given": "S.H."
+      }
+    ],
+    "title": "Stemphylium platycodontis sp. nov., isolated from Platycodon grandiflorus in Korea",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2014",
+    "page": "477–482",
+    "URL": "https://doi.org/10.1007/s11557-013-0929-z",
+    "DOI": "10.1007/s11557-013-0929-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "J.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne code). [Regnum Vegetabile 154].",
+    "publisher": "Koeltz Scientific Books",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Königstein, Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.D."
+      }
+    ],
+    "title": "Treeview, tree drawing software for Apple Macintosh and Microsoft Windows",
+    "container-title": "Division of Environmental and Evolutionary Biology, Institute of Biomedical and Life Sciences",
+    "publisher": "University of Glasgow",
+    "type": "chapter",
+    "issued": "1996",
+    "publisher-place": "Glasgow, Scotland, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Pei",
+        "given": "Y.-F."
+      },
+      {
+        "family": "Geng",
+        "given": "Y."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-G."
+      }
+    ],
+    "title": "Two new species of Stemphylium from Sinkiang, China",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2009",
+    "page": "493–497",
+    "URL": "https://doi.org/10.5248/109.493",
+    "DOI": "10.5248/109.493"
+  },
+  {
+    "author": [
+      {
+        "family": "Pei",
+        "given": "Y.-F."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Geng",
+        "given": "Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-G."
+      }
+    ],
+    "title": "Three new species of Stemphylium from Sinkiang, China",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2010",
+    "page": "167–173",
+    "URL": "https://doi.org/10.5248/111.167",
+    "DOI": "10.5248/111.167"
+  },
+  {
+    "author": [
+      {
+        "family": "Pei",
+        "given": "Y.-F."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Geng",
+        "given": "Y."
+      },
+      {
+        "family": "O’Neill",
+        "given": "N.R."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-G."
+      }
+    ],
+    "title": "Three novel species of Stemphylium from Sinkiang, China: their morphological and molecular characterization",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2011",
+    "page": "163–173",
+    "URL": "https://doi.org/10.1007/s11557-010-0686-1",
+    "DOI": "10.1007/s11557-010-0686-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Poursafar",
+        "given": "A."
+      },
+      {
+        "family": "Ghosta",
+        "given": "Y."
+      },
+      {
+        "family": "Javan-Nikkhah",
+        "given": "M."
+      }
+    ],
+    "title": "A taxonomic study on Stemphylium species associated with black (sooty) head mold of wheat and barley in Iran",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Mycologia Iranica",
+    "issued": "2016",
+    "page": "99–109",
+    "URL": "https://doi.org/",
+    "DOI": "10.22043/MI.2017.26183"
+  },
+  {
+    "author": [
+      {
+        "family": "Poursafar",
+        "given": "A."
+      },
+      {
+        "family": "Ghosta",
+        "given": "Y."
+      },
+      {
+        "family": "Orina",
+        "given": "A.S."
+      },
+      {
+        "family": "Gannibal",
+        "given": "P.B."
+      },
+      {
+        "family": "Javan-Nikkhah",
+        "given": "M."
+      },
+      {
+        "family": "Lawrence",
+        "given": "D.P."
+      }
+    ],
+    "title": "Taxonomic study on Alternaria sections Infectoriae and Pseudoalternaria associated with black (sooty) head mold of wheat and barley in Iran",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2018",
+    "page": "343–356",
+    "URL": "https://doi.org/10.1007/s11557-017-1358-1",
+    "DOI": "10.1007/s11557-017-1358-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Rossman",
+        "given": "A.Y."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Aptroot",
+        "given": "A."
+      },
+      {
+        "family": "Bezerra",
+        "given": "J.L."
+      },
+      {
+        "family": "Bhat",
+        "given": "J.D."
+      },
+      {
+        "family": "Boehm",
+        "given": "E."
+      },
+      {
+        "family": "Braun",
+        "given": "U."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Camporesi",
+        "given": "E."
+      },
+      {
+        "family": "Chomnunti",
+        "given": "P."
+      },
+      {
+        "family": "Dai",
+        "given": "D.-Q."
+      },
+      {
+        "family": "Dʼsouza",
+        "given": "M.J."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A."
+      },
+      {
+        "family": "Gareth Jones",
+        "given": "E.B."
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      },
+      {
+        "family": "Hernandez-Restrepo",
+        "given": "M."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jaklitsch",
+        "given": "W.M."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R."
+      },
+      {
+        "family": "Jing",
+        "given": "L.W."
+      },
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Lawrey",
+        "given": "J.D."
+      },
+      {
+        "family": "Mapook",
+        "given": "A."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Monkai",
+        "given": "J."
+      },
+      {
+        "family": "Phillips",
+        "given": "A.J.L."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Raja",
+        "given": "H.A."
+      },
+      {
+        "family": "Seifert",
+        "given": "K.A."
+      },
+      {
+        "family": "Senanayake",
+        "given": "I."
+      },
+      {
+        "family": "Slippers",
+        "given": "B."
+      },
+      {
+        "family": "Suetrong",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.E."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Tibpromma",
+        "given": "S."
+      },
+      {
+        "family": "Wanasinghe",
+        "given": "D.N."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Wikee",
+        "given": "S."
+      },
+      {
+        "family": "Woudenberg",
+        "given": "J.H.C."
+      },
+      {
+        "family": "Wu",
+        "given": "H.-X."
+      },
+      {
+        "family": "Yan",
+        "given": "J."
+      },
+      {
+        "family": "Yang",
+        "given": "T."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      }
+    ],
+    "title": "Recommended names for pleomorphic genera in Dothideomycetes",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "IMA Fungus",
+    "issued": "2015",
+    "page": "507–523",
+    "URL": "https://doi.org/10.5598/imafungus.2015.06.02.14",
+    "DOI": "10.5598/imafungus.2015.06.02.14"
+  },
+  {
+    "author": [
+      {
+        "family": "Schubert",
+        "given": "K."
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      },
+      {
+        "family": "Braun",
+        "given": "U."
+      },
+      {
+        "family": "Dijksterhuis",
+        "given": "J."
+      },
+      {
+        "family": "Starink",
+        "given": "M."
+      },
+      {
+        "family": "Hill",
+        "given": "C.F."
+      },
+      {
+        "family": "Zalar",
+        "given": "P."
+      },
+      {
+        "family": "Hoog",
+        "given": "G.S.",
+        "particle": "de"
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      }
+    ],
+    "title": "Biodiversity in the Cladosporium herbarum complex (Davidiellaceae, Capnodiales), with standardization of methods for Cladosporium taxonomy and diagnostics",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2007",
+    "page": "105–156",
+    "URL": "https://doi.org/10.3114/sim.2007.58.05",
+    "DOI": "10.3114/sim.2007.58.05"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "E.G."
+      }
+    ],
+    "title": "Perfect states of Stemphylium",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1969",
+    "page": "1–26",
+    "URL": "https://doi.org/10.2307/3757341",
+    "DOI": "10.2307/3757341"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "E.G."
+      }
+    ],
+    "title": "Perfect states of Stemphylium II",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "1985",
+    "page": "284–293"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "E.G."
+      }
+    ],
+    "title": "Perfect states of Stemphylium III",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1989",
+    "page": "305–307"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "E.G."
+      }
+    ],
+    "title": "Perfect states of Stemphylium–IV",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Harvard Papers in Botany",
+    "issue": "1",
+    "issued": "2001",
+    "page": "199–208"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP, Phylogenetic analysis using parsimony (and other methods",
+    "volume": "4",
+    "publisher": "Sinauer Associates",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "0b10",
+    "issued": "2002",
+    "publisher-place": "Sunderland, MA, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Filipski",
+        "given": "A."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA6: molecular evolutionary genetics analysis version 6.0",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "2725–2729",
+    "URL": "https://doi.org/10.1093/molbev/mst197",
+    "DOI": "10.1093/molbev/mst197"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallroth",
+        "given": "F.G."
+      }
+    ],
+    "title": "Flora Cryptogamica Germaniae, pars. post",
+    "publisher": "JL. Schrag, Nurenberg, Germany",
+    "type": "book",
+    "issued": "1833",
+    "page": "923"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.G."
+      }
+    ],
+    "title": "Two new species of Stemphylium from Shandong, China",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "2009",
+    "page": "199–203",
+    "URL": "https://doi.org/10.1127/0029-5035/2009/0088-0199",
+    "DOI": "10.1127/0029-5035/2009/0088-0199"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Fu",
+        "given": "H.-B."
+      },
+      {
+        "family": "OʼNeill",
+        "given": "N.R."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-G."
+      }
+    ],
+    "title": "Two new species of Stemphylium from Northwest China",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2009",
+    "page": "301–304",
+    "URL": "https://doi.org/10.1007/s11557-009-0600-x",
+    "DOI": "10.1007/s11557-009-0600-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Geng",
+        "given": "Y."
+      },
+      {
+        "family": "Pei",
+        "given": "Y.-F."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-G."
+      }
+    ],
+    "title": "Molecular and morphological description of two new species of Stemphylium from China and France",
+    "volume": "102",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2010",
+    "page": "708–717",
+    "URL": "https://doi.org/10.3852/09-208",
+    "DOI": "10.3852/09-208"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S.J.W.T."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Woudenberg",
+        "given": "J.H.C."
+      },
+      {
+        "family": "Hance",
+        "given": "B."
+      },
+      {
+        "family": "Leeuwen",
+        "given": "G.C.M.",
+        "particle": "van"
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      },
+      {
+        "family": "Crous",
+        "given": "P."
+      }
+    ],
+    "title": "Stemphylium revisited",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2017",
+    "page": "77–103",
+    "URL": "https://doi.org/10.1016/j.simyco.2017.06.001",
+    "DOI": "10.1016/j.simyco.2017.06.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhong",
+        "given": "S."
+      },
+      {
+        "family": "Steffenson",
+        "given": "B.J."
+      }
+    ],
+    "title": "Virulence and molecular diversity in Cochliobolus sativus",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "Phytopathology",
+    "issued": "2001",
+    "page": "469–476",
+    "URL": "https://doi.org/10.1094/PHYTO.2001.91.5.469",
+    "DOI": "10.1094/PHYTO.2001.91.5.469"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "Y.-F."
+      },
+      {
+        "family": "Guo",
+        "given": "Y.-L."
+      },
+      {
+        "family": "Li",
+        "given": "B.-J."
+      }
+    ],
+    "title": "A new species of Stemphylium on Basella rubra",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "2012",
+    "page": "165–167"
+  }
+]

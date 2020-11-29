@@ -1,0 +1,783 @@
+[
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "J.",
+        "particle": "x"
+      }
+    ],
+    "title": "Laelia anceps var. dawsonii",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "The Gardeners’ Chronicle and Agricultural Gazette",
+    "issued": "1868",
+    "page": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "Archila",
+        "given": "F."
+      },
+      {
+        "family": "Szlachetko",
+        "given": "D."
+      }
+    ],
+    "title": "Encabarcenia nueva entidad genérica y × Encalaelia un nuevo nothogenero, de la familia Orchidaceae",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Revista Guatemalensis",
+    "issued": "2014",
+    "page": "23–31"
+  },
+  {
+    "author": [
+      {
+        "family": "Archila",
+        "given": "F."
+      },
+      {
+        "family": "Chiron",
+        "given": "G."
+      },
+      {
+        "family": "Szlachetko",
+        "given": "D."
+      },
+      {
+        "family": "Bertolini",
+        "given": "V."
+      },
+      {
+        "family": "Pérez-García",
+        "given": "E."
+      }
+    ],
+    "title": "Laelia mottae (Orchidaceae): Una especie nueva del complejo de Laelia anceps Lindl",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Botanical Sciences",
+    "issued": "2014",
+    "page": "343–350",
+    "URL": "https://doi.org/10.17129/botsci.113",
+    "DOI": "10.17129/botsci.113"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertolini",
+        "given": "V."
+      },
+      {
+        "family": "Damon",
+        "given": "A."
+      },
+      {
+        "family": "Ibarra-Cerdeña",
+        "given": "C."
+      }
+    ],
+    "title": "Atlas de las orquídeas del Soconusco: modelos digitales de nichos ambientales entre Centro y Sudamérica",
+    "container-title": "El Colegio de la",
+    "publisher": "México",
+    "type": "chapter",
+    "issued": "2016",
+    "page": "47",
+    "publisher-place": "Frontera Sur, Tapachula"
+  },
+  {
+    "author": [
+      {
+        "family": "Calixto",
+        "given": "E."
+      },
+      {
+        "family": "Alarcón-Guerrero",
+        "given": "J."
+      },
+      {
+        "family": "Ramos-Fernández",
+        "given": "G."
+      },
+      {
+        "family": "Dias",
+        "given": "P.A."
+      },
+      {
+        "family": "Rangel-Negrín",
+        "given": "A."
+      },
+      {
+        "family": "Améndola-Pimenta",
+        "given": "M."
+      },
+      {
+        "family": "Domingo",
+        "given": "C."
+      },
+      {
+        "family": "Arroyo-Rodríguez",
+        "given": "V."
+      },
+      {
+        "family": "Pozo-Montuy",
+        "given": "G."
+      },
+      {
+        "family": "Pinacho-Guendulain",
+        "given": "B."
+      },
+      {
+        "family": "Urquiza-Haas",
+        "given": "T."
+      },
+      {
+        "family": "Koleff",
+        "given": "P."
+      },
+      {
+        "family": "Martínez-Meyer",
+        "given": "E."
+      }
+    ],
+    "title": "Integrating expert knowledge and ecological niche models to estimate Mexican primates’ distribution",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Primates",
+    "issued": "2018",
+    "page": "451–467",
+    "URL": "https://doi.org/10.1007/s10329-018-0673-8",
+    "DOI": "10.1007/s10329-018-0673-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Crawshay",
+        "given": "R."
+      }
+    ],
+    "title": "Laelia anceps and its varieties. The Gardeners’ Chronicle: a weekly illustrated journal of horticulture and allied subjects",
+    "volume": "32, 3rd ser. (832",
+    "type": null,
+    "issued": "1902",
+    "page": "414"
+  },
+  {
+    "author": [
+      {
+        "family": "Cruz-García",
+        "given": "G."
+      },
+      {
+        "family": "Lagunez",
+        "given": "L."
+      },
+      {
+        "family": "Chávez",
+        "given": "M."
+      },
+      {
+        "family": "Solano",
+        "given": "R."
+      }
+    ],
+    "title": "The wild orchid trade in a Mexican local market: diversity and economics",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Economic Botany",
+    "issued": "2015",
+    "page": "291–305",
+    "URL": "https://doi.org/10.1007/s12231-015-9321-z",
+    "DOI": "10.1007/s12231-015-9321-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Elith",
+        "given": "J."
+      },
+      {
+        "family": "Phillips",
+        "given": "S.J."
+      },
+      {
+        "family": "Hastie",
+        "given": "T."
+      },
+      {
+        "family": "Dudík",
+        "given": "M."
+      },
+      {
+        "family": "Chee",
+        "given": "Y.E."
+      },
+      {
+        "family": "Yates",
+        "given": "C.J."
+      }
+    ],
+    "title": "A statistical explanation of Maxent for ecologists",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Diversity and distributions",
+    "issued": "2011",
+    "page": "43–57",
+    "URL": "https://doi.org/10.1111/j.1472-4642.2010.00725.x",
+    "DOI": "10.1111/j.1472-4642.2010.00725.x"
+  },
+  {
+    "author": [
+      {
+        "given": "E.S.R.I."
+      }
+    ],
+    "title": "ArcGIS 10.3",
+    "publisher": "Environmental Scientific Research Institute",
+    "type": "book",
+    "issued": "2015",
+    "publisher-place": "Redlands, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Hágsater",
+        "given": "E."
+      },
+      {
+        "family": "Soto",
+        "given": "M.A."
+      },
+      {
+        "family": "Salazar",
+        "given": "G."
+      },
+      {
+        "family": "Jiménez",
+        "given": "R.López"
+      },
+      {
+        "given": "M."
+      },
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      }
+    ],
+    "title": "Las Orquídeas de Mexico",
+    "volume": "Mexico",
+    "type": "article-journal",
+    "container-title": "Redacta",
+    "issued": "2005",
+    "page": "304"
+  },
+  {
+    "author": [
+      {
+        "family": "Halbinger",
+        "given": "F."
+      }
+    ],
+    "title": "Laelias de Mexico. Asociación Mexicana de Orquideología",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Mexico",
+    "issued": "1993",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Halbinger",
+        "given": "F."
+      },
+      {
+        "family": "Soto",
+        "given": "M.A."
+      }
+    ],
+    "title": "Laelias of Mexico",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Orquídea (Mexico City), n.s",
+    "issued": "1997",
+    "page": "1–160"
+  },
+  {
+    "author": [
+      {
+        "family": "Huerta-Espinoza",
+        "given": "H."
+      }
+    ],
+    "title": "Evaluación del efecto del cambio de uso del suelo en la distribución de las especies mexicanas de Laelia (Orchidaceae",
+    "genre": "BSc. thesis.",
+    "publisher": "Universidad Nacional Autónoma de Mexico, Mexico City",
+    "type": "thesis",
+    "issued": "2014",
+    "page": "138"
+  },
+  {
+    "author": [
+      {
+        "family": "INEGI",
+        "given": "C.O.N.A.B.I.O."
+      },
+      {
+        "given": "I.N.E."
+      }
+    ],
+    "title": "Ecorregiones Terrestres de México",
+    "volume": "1",
+    "container-title": "México: Instituto Nacional de Geografía y Estadística, Comisión Nacional para el Conocimiento y Uso de la Biodiversidad e Instituto Nacional de Ecología",
+    "type": "article-journal",
+    "issue": "1",
+    "issued": "2008"
+  },
+  {
+    "author": [
+      {
+        "given": "I.N.E.G.I."
+      }
+    ],
+    "title": "Continuo de Elevaciones Mexicano 3.0 (CEM 3.0",
+    "publisher": "Instituto Nacional de Geografía y Estadística",
+    "type": "book",
+    "issued": "2013",
+    "publisher-place": "México"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Voyage de Humboldt et Bonpland. Sixième partie. Botanique: Nova Genera et Species Plantarum",
+    "edition": "quarto",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Tome",
+    "issue": "",
+    "issued": "1816",
+    "page": "377"
+  },
+  {
+    "author": [
+      {
+        "family": "La Llave",
+        "given": "P."
+      },
+      {
+        "family": "Lexarza",
+        "given": "J.J."
+      }
+    ],
+    "title": "Novorum Vegetabilium Descriptiones",
+    "volume": "II",
+    "type": "article-journal",
+    "container-title": "Fasciculus",
+    "issued": "1825",
+    "page": "43"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "The Genera and Species of Orchidaceous Plants",
+    "publisher": "Ridgways, London",
+    "type": "book",
+    "issued": "1831",
+    "page": "553",
+    "URL": "https://doi.org/10.5962/bhl.title.120492",
+    "DOI": "10.5962/bhl.title.120492"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Laelia anceps",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register",
+    "issued": "1835",
+    "page": "1751"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Sertum Orchidaceum: a wreath of the most beautiful orchidaceous flowers",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "James Ridgway and sons, London",
+    "issued": "1838",
+    "page": null,
+    "URL": "https://doi.org/10.5962/bhl.title.204",
+    "DOI": "10.5962/bhl.title.204"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Miscellaneous notices",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register",
+    "issued": "1839",
+    "page": "1–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Laelia furfuracea",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register",
+    "issued": "1839",
+    "page": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Miscellaneous notices",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register n.s",
+    "issued": "1840",
+    "page": "1–90"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Laelia rubescens",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register n.s",
+    "issued": "1840",
+    "page": "41"
+  },
+  {
+    "author": [
+      {
+        "family": "Navarro",
+        "given": "A."
+      },
+      {
+        "family": "Halbinger",
+        "given": "F."
+      },
+      {
+        "family": "Soto",
+        "given": "M.A."
+      }
+    ],
+    "title": "Laelia aurea, nueva especie del noroeste de Mexico",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Orquidea (Mexico City), n.s",
+    "issued": "1990",
+    "page": "41–46"
+  },
+  {
+    "author": [
+      {
+        "family": "Peraza",
+        "given": "L.N."
+      },
+      {
+        "family": "Carnevali",
+        "given": "G."
+      },
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      }
+    ],
+    "title": "A molecular phylogeny of the Laelia alliance (Orchidaceae) and a reassessment of Laelia and Schomburgkia",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "6",
+    "issued": "2016",
+    "page": "1249–1262",
+    "URL": "https://doi.org/10.12705/656.3",
+    "DOI": "10.12705/656.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Philips",
+        "given": "S."
+      },
+      {
+        "family": "Anderson",
+        "given": "R."
+      },
+      {
+        "family": "Schapire",
+        "given": "R."
+      }
+    ],
+    "title": "Maximum entropy modeling of species geographic distribution",
+    "volume": "190",
+    "type": "article-journal",
+    "container-title": "Ecological Modelling",
+    "issued": "2006",
+    "page": "231–259",
+    "URL": "https://doi.org/10.1016/j.ecolmodel.2005.03.026",
+    "DOI": "10.1016/j.ecolmodel.2005.03.026"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "R.G."
+      }
+    ],
+    "title": "New garden plants. Gardeners’ Chronicle: a weekly illustrated journal of horticulture and allied subjects",
+    "collection-title": "new series",
+    "volume": "19",
+    "type": null,
+    "issued": "1883",
+    "page": "142–143"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "R.G."
+      }
+    ],
+    "title": "New or noteworthy plants. Gardeners’ Chronicle: a weekly illustrated journal of horticulture and allied subjects",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "third series",
+    "issued": "1888",
+    "page": "91"
+  },
+  {
+    "author": [
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Jiménez",
+        "given": "R."
+      },
+      {
+        "family": "Huerta-Espinoza",
+        "given": "H.M."
+      },
+      {
+        "family": "Hágsater",
+        "given": "E."
+      }
+    ],
+    "title": "A new species and a new natural hybrid of Laelia (Orchidaceae) from Oaxaca, Mexico",
+    "volume": "178",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2014",
+    "page": "161–170",
+    "URL": "https://doi.org/10.11646/phytotaxa.178.3.1",
+    "DOI": "10.11646/phytotaxa.178.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "F.R.R."
+      }
+    ],
+    "title": "Die Orchideen. Ihre beschreibung, kultur und züchtung. Handbuch für orchideenliebhaber, züchter und botaniker",
+    "publisher": "Verlagbuchhandlung Paul Parey",
+    "type": "book",
+    "issued": "1915",
+    "page": "837",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.5962/bhl.title.46623",
+    "DOI": "10.5962/bhl.title.46623"
+  },
+  {
+    "author": [
+      {
+        "family": "Soberón",
+        "given": "J."
+      },
+      {
+        "family": "A.T",
+        "given": "Peterson"
+      }
+    ],
+    "title": "Interpretation of models of fundamental ecological niches and species’ distributional areas",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Biodiversity Informatics",
+    "issued": "2005",
+    "page": "1–10",
+    "URL": "https://doi.org/10.17161/bi.v2i0.4",
+    "DOI": "10.17161/bi.v2i0.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Soberón",
+        "given": "J."
+      }
+    ],
+    "title": "Niche and area of distribution modeling: a population ecology perspective",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Ecography",
+    "issued": "2010",
+    "page": "159–167",
+    "URL": "https://doi.org/10.1111/j.1600-0587.2009.06074.x",
+    "DOI": "10.1111/j.1600-0587.2009.06074.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Solano",
+        "given": "R."
+      },
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Huerta-Espinoza",
+        "given": "H."
+      },
+      {
+        "family": "Hágsater",
+        "given": "E."
+      },
+      {
+        "family": "Jiménez",
+        "given": "R."
+      }
+    ],
+    "title": "Diversity of Mexican orchids: synopsis about richness and distribution patterns",
+    "editor": [
+      {
+        "family": "A.M",
+        "given": "Pridgeon"
+      }
+    ],
+    "container-title": "Proceedings of the 22nd World Orchid Conference",
+    "type": "paper-conference",
+    "page": "262–277"
+  },
+  {
+    "author": [
+      {
+        "family": "Soto",
+        "given": "M.A."
+      }
+    ],
+    "title": "Laelia",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "container-title": "Genera Orchidacearum",
+    "volume": "4. Epidendroideae",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "1",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Stockwell",
+        "given": "D."
+      },
+      {
+        "family": "Noble",
+        "given": "I."
+      }
+    ],
+    "title": "Induction of sets of rules from animal distribution data: a robust and informative method of data analysis",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Mathematics and Computers in Simulation",
+    "issued": "1992",
+    "page": "249–254",
+    "URL": "https://doi.org/10.1016/0378-4754(92)90126-2",
+    "DOI": "10.1016/0378-4754(92)90126-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Yáñez-Arenas",
+        "given": "C."
+      },
+      {
+        "family": "Peterson",
+        "given": "T."
+      },
+      {
+        "family": "Rodríguez-Medina",
+        "given": "K."
+      },
+      {
+        "family": "Barve",
+        "given": "N."
+      }
+    ],
+    "title": "Mapping current and future potential snakebite risk in the new world",
+    "volume": "134",
+    "type": "article-journal",
+    "container-title": "Climatic Change",
+    "issued": "2016",
+    "page": "697–711",
+    "URL": "https://doi.org/10.1007/s10584-015-1544-6",
+    "DOI": "10.1007/s10584-015-1544-6"
+  }
+]

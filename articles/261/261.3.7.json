@@ -1,0 +1,390 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117 126",
+    "URL": "http://dx.doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Microlicieae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "type": "chapter",
+    "issued": "1883",
+    "page": "6–204",
+    "publisher-place": "Fleischer, Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "An illustration of the natural family of plants called Melastomataceae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Wernerian Natural History Society",
+    "issued": "1823",
+    "page": "276–329"
+  },
+  {
+    "author": [
+      {
+        "family": "Echternacht",
+        "given": "L."
+      },
+      {
+        "family": "Trovó",
+        "given": "M."
+      },
+      {
+        "family": "Oliveira",
+        "given": "C.T."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Areas of endemism in the Espinhaço range in Minas Gerais, Brazil",
+    "volume": "206",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "2011",
+    "page": "782–791",
+    "URL": "http://dx.doi.org/10.1016/j.flora.2011.04.003",
+    "DOI": "10.1016/j.flora.2011.04.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      },
+      {
+        "family": "Menezes",
+        "given": "N.L."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      },
+      {
+        "family": "Meguro",
+        "given": "M."
+      },
+      {
+        "family": "Wanderley",
+        "given": "M.G.L."
+      }
+    ],
+    "title": "Flora da Serra do Cipó, Minas Gerais: Caracterização e lista das espécies",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Boletim de Botânica da Universidade de São Paulo",
+    "issued": "1987",
+    "page": "1–151",
+    "URL": "http://dx.doi.org/10.11606/issn.2316-9052.v9i0p1-151",
+    "DOI": "10.11606/issn.2316-9052.v9i0p1-151"
+  },
+  {
+    "author": [
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Patterns of geographic distribution of some plant species from Espinhaço Range, Minas Gerais and Bahia, Brazil",
+    "editor": [
+      {
+        "family": "Vazzoline",
+        "given": "P.E."
+      },
+      {
+        "family": "Heyer",
+        "given": "W.R."
+      }
+    ],
+    "container-title": "Procceedings of a workshop on neotropical distribution patterns. Academia Brasileira Ciências, Rio de Janeiro",
+    "type": "chapter",
+    "issued": "1988",
+    "page": "39–68"
+  },
+  {
+    "author": [
+      {
+        "family": "Gontijo",
+        "given": "B.M."
+      }
+    ],
+    "title": "A ilusão do ecoturismo na Serra do Cipó – MG: o caso de Lapinha",
+    "publisher": "Universidade de Brasília, Brasília",
+    "type": "book",
+    "issued": "2003",
+    "page": "194"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN red list of threatened species, version 2010.4",
+    "note": "IUCN Red List Unit Cambridge U.K. Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Meguro",
+        "given": "M."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      },
+      {
+        "family": "Mello-Silva",
+        "given": "R."
+      },
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      }
+    ],
+    "title": "Caracterização florística e estrutural de matas ripárias e capões de altitude na Serra do Cipó, Minas Gerais",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Boletim de Botânica da Universidade de São Paulo",
+    "issued": "1996",
+    "page": "13–29"
+  },
+  {
+    "author": [
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      },
+      {
+        "family": "Sano",
+        "given": "P.T."
+      },
+      {
+        "family": "Mello-Silva",
+        "given": "R."
+      },
+      {
+        "family": "Menezes",
+        "given": "N.L."
+      },
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      },
+      {
+        "family": "Zappi",
+        "given": "D.C."
+      },
+      {
+        "family": "Jono",
+        "given": "V.Y."
+      }
+    ],
+    "title": "Flora da Serra do Cipó, Minas Gerais",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.ib.usp.br/botanica/serradocipo"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      }
+    ],
+    "title": "A Newly described species of Microlicia (Melastomataceae) from Minas Gerais",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Brazil. Novon",
+    "issued": "2003",
+    "page": "116–118",
+    "URL": "http://dx.doi.org/10.2307/3393575",
+    "DOI": "10.2307/3393575"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      },
+      {
+        "family": "Silva",
+        "given": "K.R."
+      },
+      {
+        "family": "Simão",
+        "given": "D.G."
+      }
+    ],
+    "title": "Microlicia crassa and M. maculata spp. nov",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Melastomataceae) from Minas Gerais, Brazil: morphology and leaf anatomy. Nordic Journal of Botany",
+    "issued": "2015",
+    "page": "178–185",
+    "URL": "http://dx.doi.org/10.1111/njb.00635",
+    "DOI": "10.1111/njb.00635"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      },
+      {
+        "family": "Martins",
+        "given": "A.B."
+      },
+      {
+        "family": "Fidanza",
+        "given": "K."
+      }
+    ],
+    "title": "Microlicieae: Flora da Serra do Cipó, Minas Gerais",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.ib.usp.br/botanica/serradocipo/angiosperma/"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      },
+      {
+        "family": "Silva",
+        "given": "K.R."
+      },
+      {
+        "family": "Simão",
+        "given": "D."
+      }
+    ],
+    "title": "Microlicia cogniauxiana and Microlicia naudiniana (Melastomataceae), Two New Species from the Espinhaço Range, Brazil",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "4",
+    "issued": "2016",
+    "page": "1012–1021",
+    "URL": "http://dx.doi.org/10.1600/036364415X690058",
+    "DOI": "10.1600/036364415X690058"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      },
+      {
+        "family": "Woodgyer",
+        "given": "E."
+      }
+    ],
+    "title": "Microlicia: Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB9782"
+  },
+  {
+    "author": [
+      {
+        "family": "Santos",
+        "given": "M.F."
+      },
+      {
+        "family": "Serafi",
+        "given": "H."
+      },
+      {
+        "family": "Sano",
+        "given": "P.T."
+      }
+    ],
+    "title": "Fisionomia e composição da vegetação florestal na Serra do Cipó, MG, Brasil",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Brasilica",
+    "issue": "4",
+    "issued": "2011",
+    "page": "793–814",
+    "URL": "http://dx.doi.org/10.1590/S0102-33062011000400007",
+    "DOI": "10.1590/S0102-33062011000400007"
+  }
+]

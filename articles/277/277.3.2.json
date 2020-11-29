@@ -1,0 +1,927 @@
+[
+  {
+    "author": [
+      {
+        "family": "Breitwieser",
+        "given": "I."
+      },
+      {
+        "family": "Brownsey",
+        "given": "P.J."
+      },
+      {
+        "family": "Garnock-Jones",
+        "given": "P.J."
+      },
+      {
+        "family": "Perrie",
+        "given": "L.R."
+      },
+      {
+        "family": "Wilton",
+        "given": "A.D."
+      }
+    ],
+    "title": "Phylum Tracheophyta: vascular plants",
+    "editor": [
+      {
+        "family": "Gordon",
+        "given": "D.P."
+      }
+    ],
+    "container-title": "New Zealand Inventory of Biodiversity",
+    "publisher": "Canterbury University Press",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "411–459",
+    "publisher-place": "Christchurch"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Prodromus Florae Novae Hollandiae et Insulae Van-Diemen",
+    "publisher": "Johnson, London",
+    "type": "book",
+    "issued": "1810",
+    "page": "460"
+  },
+  {
+    "author": [
+      {
+        "family": "Carr",
+        "given": "G.W."
+      }
+    ],
+    "title": "New taxa in Caladenia R.Br., Chiloglottis R.Br. and Gastrodia R.Br. (Orchidaceae) from south eastern Australia",
+    "container-title": "Indigenous Flora and Fauna Association Miscellaneous Paper 1",
+    "type": "chapter",
+    "issued": "1991",
+    "page": "22",
+    "publisher-place": "Clifton Hill, Victoria"
+  },
+  {
+    "author": [
+      {
+        "family": "Colenso",
+        "given": "W."
+      }
+    ],
+    "title": "A Description of some newly-discovered and rare indigenous plants: being a further contribution towards the making known the botany of New Zealand",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Transactions and Proceedings of the New Zealand Institute",
+    "issued": "1886",
+    "page": "256–287"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooper",
+        "given": "D."
+      }
+    ],
+    "title": "A field guide to New Zealand native orchids",
+    "publisher": "Price Milburn and Company Ltd, Wellington",
+    "type": "book",
+    "issued": "1981",
+    "page": "103"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooper",
+        "given": "D."
+      }
+    ],
+    "title": "Untitled comment",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "New Zealand Native Orchid Group newsletter",
+    "issued": "1983",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Cribb",
+        "given": "P."
+      },
+      {
+        "family": "Fischer",
+        "given": "E."
+      },
+      {
+        "family": "Killmann",
+        "given": "D."
+      }
+    ],
+    "title": "A revision of Gastrodia (Orchidaceae: Epidendroideae, Gastrodieae) in tropical Africa",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2010",
+    "page": "315–321",
+    "URL": "http://dx.doi.org/10.1007/s12225-010-9193-4",
+    "DOI": "10.1007/s12225-010-9193-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Cunningham",
+        "given": "A."
+      }
+    ],
+    "title": "Florae insularum Novae Zelandiae precursor; or a specimen of the botany of the islands of New Zealand",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Annals of Natural History",
+    "issued": "1838",
+    "page": "376–381",
+    "URL": "http://dx.doi.org/10.1080/00222933809512318",
+    "DOI": "10.1080/00222933809512318"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange",
+        "given": "P.J.",
+        "particle": "de"
+      }
+    ],
+    "title": "A revision of the New Zealand Kunzea ericoides (Myrtaceae) complex",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Phytokeys",
+    "issued": "2014",
+    "page": "1–185",
+    "URL": "http://dx.doi.org/10.3897/phytokeys.40.7973",
+    "DOI": "10.3897/phytokeys.40.7973"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange",
+        "given": "P.",
+        "particle": "de"
+      },
+      {
+        "family": "Rolfe",
+        "given": "J."
+      },
+      {
+        "family": "St. George",
+        "given": "I."
+      },
+      {
+        "family": "Sawyer",
+        "given": "J."
+      }
+    ],
+    "title": "Wild orchids of the lower North Island",
+    "volume": "Wellington",
+    "type": "article-journal",
+    "container-title": "Department of Conservation",
+    "issued": "2007",
+    "page": "194"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemical Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Fay",
+        "given": "M.F."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      },
+      {
+        "family": "Leitch",
+        "given": "I.J."
+      }
+    ],
+    "title": "The effects of nuclear DNA content (C-value) on the quality and utility of AFLP fingerprints",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2005",
+    "page": "237–246",
+    "URL": "http://dx.doi.org/10.1093/aob/mci017",
+    "DOI": "10.1093/aob/mci017"
+  },
+  {
+    "author": [
+      {
+        "family": "Focke",
+        "given": "W.O."
+      }
+    ],
+    "title": "Batographische Abhandlungen",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Abhandlungen Herausgegeben vom Naturwissenschaftlichen Vereins zu Bremen",
+    "issued": "1874",
+    "page": "139–216"
+  },
+  {
+    "author": [
+      {
+        "family": "Forrest",
+        "given": "A.D."
+      },
+      {
+        "family": "Hollingsworth",
+        "given": "M.L."
+      },
+      {
+        "family": "Hollingsworth",
+        "given": "P.M."
+      },
+      {
+        "family": "Sydes",
+        "given": "C."
+      },
+      {
+        "family": "Bateman",
+        "given": "R.M."
+      }
+    ],
+    "title": "Population genetic structure in European populations of Spiranthes romanzoffiana set in the context of other genetic studies on orchids",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Heredity",
+    "issued": "2004",
+    "page": "218–227",
+    "URL": "http://dx.doi.org/10.1038/sj.hdy.6800399",
+    "DOI": "10.1038/sj.hdy.6800399"
+  },
+  {
+    "author": [
+      {
+        "family": "Forster",
+        "given": "J.R."
+      },
+      {
+        "family": "Forster",
+        "given": "G."
+      }
+    ],
+    "title": "Characteres generum plantarum. Published by the authors",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "London",
+    "issued": "1775",
+    "page": null,
+    "URL": "http://dx.doi.org/10.5962/bhl.title.4448",
+    "DOI": "10.5962/bhl.title.4448"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamisch",
+        "given": "A."
+      },
+      {
+        "family": "Fischer",
+        "given": "G.A."
+      },
+      {
+        "family": "Comes",
+        "given": "H.P."
+      }
+    ],
+    "title": "Recurrent polymorphic mating type variation in Madagascan Bulbophyllum species (Orchidaceae) exemplifies a high incidence of auto-pollination in tropical orchids",
+    "volume": "175",
+    "type": "article-journal",
+    "container-title": "Botanical journal of the Linnean Society",
+    "issued": "2014",
+    "page": "242–258",
+    "URL": "http://dx.doi.org/10.1111/boj.12168",
+    "DOI": "10.1111/boj.12168"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibbs",
+        "given": "M."
+      }
+    ],
+    "title": "A photographic comparison between Gastrodia aff. sesamoides and Gastrodia “city”",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "New Zealand Native Orchid Group Journal",
+    "issued": "2001",
+    "page": "27–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Hedrén",
+        "given": "M."
+      },
+      {
+        "family": "Fay",
+        "given": "M.F."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Amplified fragment length polymorphisms (AFLP) reveal details of polyploidy evolution in Dactylorhiza (Orchidaceae",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "1868–1880",
+    "URL": "http://dx.doi.org/10.3732/ajb.94.7.1205",
+    "DOI": "10.3732/ajb.94.7.1205"
+  },
+  {
+    "author": [
+      {
+        "family": "Heenan",
+        "given": "P.B."
+      },
+      {
+        "family": "Smissen",
+        "given": "R.D."
+      }
+    ],
+    "title": "Revised circumscription of Nothofagus and recognition of the segregate genera Fuscospora, Lophozonia, and Trisyngyne (Nothofagaceae",
+    "volume": "146",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "1–31",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.146.1.1",
+    "DOI": "10.11646/phytotaxa.146.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Fagus fusca, Hook. fil. Icones plantarum; or figures, with brief descriptive characters and remarks, of new or rare plants, selected from the authors herbarium 7",
+    "type": null,
+    "issued": "1844",
+    "page": "630–631"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Flora Novae-Zelandiae",
+    "publisher": "Lovell Reeve",
+    "type": "book",
+    "issued": "1853",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "A.Q."
+      },
+      {
+        "family": "Hsu",
+        "given": "T.C."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      }
+    ],
+    "title": "Gastrodia damingshanensis (Orchidaceae: Epidendroideae): a new myco-heterotrophic orchid from China",
+    "volume": "175",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "5",
+    "issued": "2014",
+    "page": "256–262",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.175.5.3",
+    "DOI": "10.11646/phytotaxa.175.5.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "X.Y."
+      },
+      {
+        "family": "Hu",
+        "given": "A.Q."
+      },
+      {
+        "family": "Hsu",
+        "given": "T.C."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      }
+    ],
+    "title": "Gastrodia huapingensis (Orchidaceae: Epidendroideae: Gastrodieae): a remarkable new mycoheterotrophic orchid with dimorphic columns from China",
+    "volume": "222",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2015",
+    "page": "290–294",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.222.4.7",
+    "DOI": "10.11646/phytotaxa.222.4.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Huson",
+        "given": "D.H."
+      },
+      {
+        "family": "Bryant",
+        "given": "D."
+      }
+    ],
+    "title": "Application of phylogenetic networks in evolutionary studies",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2006",
+    "page": "254–267",
+    "URL": "http://dx.doi.org/10.1093/molbev/msj030",
+    "DOI": "10.1093/molbev/msj030"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsu",
+        "given": "T.C."
+      },
+      {
+        "family": "Chung",
+        "given": "S.W."
+      },
+      {
+        "family": "Kuo",
+        "given": "C.M."
+      }
+    ],
+    "title": "Supplements to the orchid flora of Taiwan (VI",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2012",
+    "page": "271–277"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsu",
+        "given": "T.C."
+      },
+      {
+        "family": "Kuo",
+        "given": "C.M."
+      }
+    ],
+    "title": "Gastrodia albida (Orchidaceae), a new species from Taiwan",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2011",
+    "page": "272–275",
+    "URL": "http://dx.doi.org/10.5735/085.048.0308",
+    "DOI": "10.5735/085.048.0308"
+  },
+  {
+    "author": [
+      {
+        "family": "Janes",
+        "given": "J.K."
+      },
+      {
+        "family": "Steane",
+        "given": "D.A."
+      },
+      {
+        "family": "Vaillancourt",
+        "given": "R.E."
+      }
+    ],
+    "title": "What does population structure analysis reveal about the Pterostylis longifolia complex (Orchidaceae)?",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Ecological Evolution",
+    "issued": "2012",
+    "page": "2631–2644",
+    "URL": "http://dx.doi.org/10.1002/ece3.376",
+    "DOI": "10.1002/ece3.376"
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "D.L."
+      }
+    ],
+    "title": "The pollination of Gastrodia sesamoides R.Br. in Southern Victoria",
+    "volume": "102",
+    "type": "article-journal",
+    "container-title": "The Victorian Naturalist",
+    "issued": "1961",
+    "page": "52–54"
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "D.L."
+      }
+    ],
+    "title": "New taxa of Australian Orchidaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Australian Orchid Research",
+    "issued": "1991",
+    "page": "1–208"
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "D.L."
+      }
+    ],
+    "title": "A complete guide to native orchids of Australia; including the island territories",
+    "publisher": "New Holland Publishers, Sydney",
+    "type": "book",
+    "issued": "2006",
+    "page": "496"
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "D.L."
+      }
+    ],
+    "title": "Twelve new species of Orchidaceae from south-eastern Australia",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "The Orchadian",
+    "issued": "2008",
+    "page": "546–558"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "T."
+      }
+    ],
+    "title": "Forest Flora of New Zealand",
+    "volume": "Wellington",
+    "type": "article-journal",
+    "container-title": "Government Printer",
+    "issued": "1889",
+    "page": "345"
+  },
+  {
+    "author": [
+      {
+        "family": "Lehnebach",
+        "given": "C.A."
+      },
+      {
+        "family": "Robertson",
+        "given": "A.W."
+      },
+      {
+        "family": "Hedderley",
+        "given": "D."
+      }
+    ],
+    "title": "Pollinations studies of four New Zealand terrestrial orchids and the implication for their conservation",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Botany",
+    "issued": "2005",
+    "page": "467–477",
+    "URL": "http://dx.doi.org/10.1080/0028825X.2005.9512968",
+    "DOI": "10.1080/0028825X.2005.9512968"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "edition": "Ed 2. Imp",
+    "type": null,
+    "issued": "1753",
+    "publisher-place": "Laurentii Salvii, Stockholm, Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Macdonald",
+        "given": "K.J."
+      },
+      {
+        "family": "Lennon",
+        "given": "Z.J."
+      },
+      {
+        "family": "Benseman",
+        "given": "L.L."
+      },
+      {
+        "family": "Clemens",
+        "given": "J."
+      },
+      {
+        "family": "D",
+        "given": "Kelly"
+      }
+    ],
+    "title": "Variable pollinator dependence of three Gastrodia species (Orchidaceae) in modified Canterbury landscapes",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Ecology",
+    "issued": "2015",
+    "page": "208–213"
+  },
+  {
+    "author": [
+      {
+        "family": "Mant",
+        "given": "J."
+      },
+      {
+        "family": "Peakall",
+        "given": "R."
+      },
+      {
+        "family": "Schiestl",
+        "given": "F.P."
+      }
+    ],
+    "title": "Does selection on floral odor promote differentiation among populations and species of the sexually deceptive orchid genus Ophrys?",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "2005",
+    "page": "1449–1463",
+    "URL": "http://dx.doi.org/http://dx.doi.org/10.1554/04-547",
+    "DOI": "10.1554/04-547"
+  },
+  {
+    "author": [
+      {
+        "family": "Martos",
+        "given": "F."
+      },
+      {
+        "family": "Johnson",
+        "given": "S.D."
+      },
+      {
+        "family": "Bytebier",
+        "given": "B."
+      }
+    ],
+    "title": "Gastrodia madagascariensis (Gastrodieae, Orchidaceae): from an historical designation to a description of a new species from Madagascar",
+    "volume": "221",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "48–56",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.221.1.4",
+    "DOI": "10.11646/phytotaxa.221.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Petrie",
+        "given": "D."
+      }
+    ],
+    "title": "On new native plants",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Transactions of the New Zealand Institute",
+    "issued": "1893",
+    "page": "269–275"
+  },
+  {
+    "author": [
+      {
+        "family": "Rolfe",
+        "given": "J.R."
+      }
+    ],
+    "title": "Guide to New Zealand Gastrodia (Orchidaceae",
+    "genre": "PDF published online at:",
+    "note": "accessed 16 January 2016",
+    "type": "webpage",
+    "issued": "2015",
+    "URL": "http://nzpcn.org.nz/publications/Gastrodia-guide-B5-151229.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Scanlen",
+        "given": "E."
+      }
+    ],
+    "title": "Gastrodia “long column black”",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "New Zealand Native Orchid Journal",
+    "issued": "2005",
+    "page": "28–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Scanlen",
+        "given": "E."
+      }
+    ],
+    "title": "Gastrodia, sorting out the imbroglio",
+    "volume": "125",
+    "type": "article-journal",
+    "container-title": "New Zealand Native Orchid Journal",
+    "issued": "2012",
+    "page": "26–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      }
+    ],
+    "title": "Gastrodia takeshimensis (Orchidaceae), a new mycoheterotrophic species from Japan",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2013",
+    "page": "375–378",
+    "URL": "http://dx.doi.org/10.5735/085.050.0613",
+    "DOI": "10.5735/085.050.0613"
+  },
+  {
+    "author": [
+      {
+        "family": "Suetsugu",
+        "given": "K."
+      }
+    ],
+    "title": "Gastrodia flexistyloides (Orchidaceae), a new mycoheterotrophic plant with complete cleistogamy from Japan",
+    "volume": "175",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "5",
+    "issued": "2014",
+    "page": "270–274",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.175.5.5",
+    "DOI": "10.11646/phytotaxa.175.5.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Tan",
+        "given": "Y.H."
+      },
+      {
+        "family": "Hsu",
+        "given": "T.C."
+      },
+      {
+        "family": "Pan",
+        "given": "B."
+      },
+      {
+        "family": "Li",
+        "given": "J.W."
+      },
+      {
+        "family": "Liu",
+        "given": "Q."
+      }
+    ],
+    "title": "Gastrodia albidoides (Orchidaceae: Epidendroideae), a new species from Yunnan, China",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2012",
+    "page": "38–42",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.66.1.6",
+    "DOI": "10.11646/phytotaxa.66.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated) Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2015",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Townsend",
+        "given": "A.J."
+      },
+      {
+        "family": "Lange P.J.",
+        "particle": "de"
+      },
+      {
+        "family": "Duffy",
+        "given": "C.A.J."
+      },
+      {
+        "family": "C.M.",
+        "given": "Miskelly"
+      },
+      {
+        "family": "J.",
+        "given": "Molloy"
+      },
+      {
+        "family": "D.A",
+        "given": "Norton"
+      }
+    ],
+    "title": "New Zealand Threat Classification System manual",
+    "volume": "Wellington",
+    "type": "article-journal",
+    "container-title": "Department of Conservation",
+    "issued": "2008",
+    "page": "35"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.S.P."
+      }
+    ],
+    "title": "World Checklist of Selected Plant Families. Facilitated by the Royal Botanic Gardens, Kew",
+    "note": "Available from",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "H.D."
+      }
+    ],
+    "title": "Stewart Island Plants",
+    "publisher": "Field Guide Publications, Christchurch",
+    "type": "book",
+    "issued": "1982",
+    "page": "528"
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "note": "Version BETA",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "http://dx.doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Browne",
+        "given": "P."
+      }
+    ],
+    "title": "Civil and Natural History of Jamaica",
+    "editor": [
+      {
+        "family": "Osborne",
+        "given": "T."
+      },
+      {
+        "family": "Shipton",
+        "given": "J."
+      }
+    ],
+    "type": null,
+    "issued": "1756",
+    "page": "503",
+    "publisher-place": "London"
+  },
+  {
+    "title": "IUCN (International Union for the Conservation of Nature",
+    "publisher": "IUCN, Species Survival Commission",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/info/categories_criteria2001.html"
+  },
+  {
+    "title": "IUCN (International Union for the Conservation of Nature",
+    "publisher": "IUCN Red List Unit",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "publisher-place": "Cambridge U.K",
+    "URL": "http://www.iucnredlist.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Erythroxyleae",
+    "editor": [
+      {
+        "family": "Humboldt",
+        "given": "F.W.H.A.von"
+      },
+      {
+        "family": "Bonpland",
+        "given": "A.J.A."
+      },
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "container-title": "Nova Genera et Species Plantarum",
+    "volume": "5",
+    "publisher": "Libraire Grecque-Latine-Allemande",
+    "type": "chapter",
+    "issued": "1821",
+    "page": "175–180",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Loiola",
+        "given": "M.I.B."
+      },
+      {
+        "family": "Costa-Lima",
+        "given": "J.L."
+      }
+    ],
+    "title": "Erythroxylaceae. In: Lista de espécies da flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB7680"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Prud’home Van Reine",
+        "given": "W.F."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi and plants (Melbourn Code) adopted by the Eighteenth International Botanical Congress",
+    "type": null,
+    "issued": "2011",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Peyritsch",
+        "given": "J."
+      }
+    ],
+    "title": "Erythroxylaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "K.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "12",
+    "publisher": "Frid. Fleischer",
+    "type": "chapter",
+    "issued": "1878",
+    "page": "125–180",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Plowman",
+        "given": "T.C."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      }
+    ],
+    "title": "Erythroxylaceae",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B."
+      },
+      {
+        "family": "Yatskievych",
+        "given": "K."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Missouri Botanical Garden Press, St. Louis",
+    "issued": "1999",
+    "page": "59–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Plowman",
+        "given": "T.C."
+      },
+      {
+        "family": "Hensold",
+        "given": "N."
+      }
+    ],
+    "title": "Names, types, and distribution of neotropical species of Erythroxylum (Erythroxylaceae",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2004",
+    "page": "1–53",
+    "URL": "http://dx.doi.org/10.1663/0007-196X(2004)056",
+    "DOI": "10.1663/0007-196X(2004)056"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "author": [
+      {
+        "family": "Mez",
+        "given": "C."
+      }
+    ],
+    "title": "Bromeliaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "C.",
+        "particle": "de"
+      },
+      {
+        "given": "Masson"
+      },
+      {
+        "family": "C.",
+        "given": "Paris"
+      }
+    ],
+    "container-title": "Monographiae Phanerogamarum 9",
+    "type": "chapter",
+    "issued": "1896",
+    "page": "990"
+  },
+  {
+    "author": [
+      {
+        "family": "Muñoz",
+        "given": "C."
+      }
+    ],
+    "title": "Las especies de plantas descritas por R. A. Philippi en el siglo XIX; estudio crítico en la identificación de sus tipos nomenclaturales",
+    "container-title": "Ediciones de la Universidad de Chile",
+    "type": "chapter",
+    "issued": "1960",
+    "page": "189",
+    "publisher-place": "Santiago"
+  },
+  {
+    "author": [
+      {
+        "family": "Philippi",
+        "given": "R.A."
+      }
+    ],
+    "title": "Observaciones sobre la flora de Juan Fernández",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Anales de la Universidad de Chile",
+    "issued": "1856",
+    "page": "157–169"
+  },
+  {
+    "author": [
+      {
+        "family": "Philippi",
+        "given": "R.A."
+      }
+    ],
+    "title": "Plantarum novarum Chilensium. Centuria quinta",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1858",
+    "page": "48–95"
+  },
+  {
+    "author": [
+      {
+        "family": "Philippi",
+        "given": "R.A."
+      }
+    ],
+    "title": "Plantarum novarum Chilensium. Centuriae sextae continuato",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1859",
+    "page": "185–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "L.B."
+      },
+      {
+        "family": "Downs",
+        "given": "R.J."
+      }
+    ],
+    "title": "Bromelioideae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica Monograph",
+    "issue": "3",
+    "issued": "1979",
+    "page": "1493–2142",
+    "publisher-place": "New York Botanical Garden, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "L.B."
+      },
+      {
+        "family": "Looser",
+        "given": "G."
+      }
+    ],
+    "title": "Notas sobre las Bromeliáceas chilenas",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Revista Universitaria Santiago",
+    "issue": "8",
+    "issued": "1934",
+    "page": "1075–1081"
+  },
+  {
+    "author": [
+      {
+        "family": "Zizka",
+        "given": "G."
+      },
+      {
+        "family": "Trumpler",
+        "given": "K."
+      },
+      {
+        "family": "Zöllner",
+        "given": "O."
+      }
+    ],
+    "title": "Revision of the genus Ochagavia (Bromeliaceae, Bromelioideae",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2002",
+    "page": "331–350"
+  }
+]

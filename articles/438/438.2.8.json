@@ -1,0 +1,345 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blatter",
+        "given": "E."
+      }
+    ],
+    "title": "A new species of Indian plants",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Journal and Proceedings of the Asiatic Society of Bengal",
+    "issued": "1931",
+    "page": "339–366"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Acanthaceae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "volume": "4",
+    "publisher": "L. Reeve & Co",
+    "type": "book",
+    "issued": "1885",
+    "page": "387–558",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Dalzell",
+        "given": "N.A."
+      }
+    ],
+    "title": "Contributions to the botany of Western Ghats",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Hooker's Journal of Botany and Kew Garden Miscellany",
+    "issued": "1851",
+    "page": "225–233"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "Decades Kewenses – Plantarum Novarum in Herbario Horti Regii Conservatorum",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Royal Gardens",
+    "issued": "1923",
+    "page": "371–376",
+    "URL": "https://doi.org/10.2307/4115418",
+    "DOI": "10.2307/4115418"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "Flora of the Presidency of Madras",
+    "publisher": "Adlard & Son Ltd",
+    "type": "book",
+    "issued": "1924",
+    "page": "1064–1068",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Jithin",
+        "given": "K.V."
+      },
+      {
+        "family": "Jose",
+        "given": "P.A."
+      }
+    ],
+    "title": "Lepidagathis benojiana (Acanthaceae) from the Western Ghats, Kerala, India",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2017",
+    "page": "436–439",
+    "URL": "https://doi.org/10.1111/njb.01389",
+    "DOI": "10.1111/njb.01389"
+  },
+  {
+    "author": [
+      {
+        "family": "Karthikeyan",
+        "given": "S."
+      },
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      },
+      {
+        "family": "Moorthy",
+        "given": "S."
+      }
+    ],
+    "title": "Flowering Plants of India. Dicotyledons—Volume I (Acanthaceae–Avicenniaceae",
+    "type": "article-journal",
+    "container-title": "Botanical Survey of India, Kolkata",
+    "issued": "2009",
+    "page": "30–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant–Book: A portable dictionary of plants, their Classification and uses",
+    "edition": "Fourth",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2017",
+    "page": null,
+    "publisher-place": "Cambridge",
+    "URL": "https://doi.org/10.1017/9781316335581",
+    "DOI": "10.1017/9781316335581"
+  },
+  {
+    "author": [
+      {
+        "family": "Natekar",
+        "given": "P.D."
+      },
+      {
+        "family": "Borude",
+        "given": "D.B."
+      },
+      {
+        "family": "Kambale",
+        "given": "S.S."
+      },
+      {
+        "family": "Chandore",
+        "given": "A.N."
+      }
+    ],
+    "title": "Lepidagathis shrirangii (Acanthaceae) a new species from Konkan region of Maharashtra, India",
+    "volume": "405",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2019",
+    "page": "215–220",
+    "URL": "https://doi.org/10.11646/phytotaxa.405.4.6",
+    "DOI": "10.11646/phytotaxa.405.4.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Esenbeck",
+        "given": "C.G.",
+        "particle": "Nees von"
+      }
+    ],
+    "title": "Acanthaceae Indiae Orientalis",
+    "editor": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "container-title": "Plantae Asiaticae Rariores",
+    "volume": "3",
+    "publisher": "Treuttel, Würtz & Ritter",
+    "type": "chapter",
+    "issued": "1832",
+    "page": "70–117",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "P."
+      },
+      {
+        "family": "Karthigeyan",
+        "given": "K."
+      },
+      {
+        "family": "Lakshminarasimhan",
+        "given": "P."
+      },
+      {
+        "family": "Dash",
+        "given": "S.S."
+      }
+    ],
+    "title": "Endemic Vascular Plants of India",
+    "volume": "Kolkata",
+    "type": "article-journal",
+    "container-title": "Botanical Survey of India",
+    "issued": "2015",
+    "page": "339"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prodo",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi and plants (Shenzhen Code). Regnum Vegetabile 159. Koeltz Scientific Books, Koenigstein.",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Vajravelu",
+        "given": "E."
+      }
+    ],
+    "title": "Lepidagathis barberi Gamble (Acanthaceae",
+    "editor": [
+      {
+        "family": "Nayar",
+        "given": "M.P."
+      },
+      {
+        "family": "Sastry",
+        "given": "A.R.K."
+      }
+    ],
+    "container-title": "Red Data Book of Indian Plants",
+    "volume": "3",
+    "publisher": "Botanical Survey of India",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "3–4",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Icones Plantarum Indiae Orientalis",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Pharoach, Madras",
+    "issued": "1843",
+    "page": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L.von"
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "3",
+    "publisher": "G.C. Nauk",
+    "issue": "1",
+    "type": "book",
+    "issued": "1800",
+    "page": "874",
+    "publisher-place": "Berlin"
+  }
+]

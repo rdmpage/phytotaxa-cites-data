@@ -1,0 +1,814 @@
+[
+  {
+    "author": [
+      {
+        "given": "Anonymous"
+      }
+    ],
+    "title": "Flora of British Fungi. Colour Identification Chart",
+    "publisher": "Her Majesty ́s Stationery Office",
+    "type": "book",
+    "issued": "1969",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernicchia",
+        "given": "A."
+      },
+      {
+        "family": "Gorjón",
+        "given": "S.P."
+      }
+    ],
+    "title": "Fungi Europaei 12: Corticiaceaes l",
+    "type": "article-journal",
+    "container-title": "Edizioni Candusso, Lomazzo",
+    "issued": "2010",
+    "page": "1–1007"
+  },
+  {
+    "author": [
+      {
+        "family": "Buchanan",
+        "given": "P.K."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "An annotated checklist of polypore and polypore-like fungi recorded from New Zealand",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Botany",
+    "issued": "2000",
+    "page": "265–323",
+    "URL": "https://doi.org/10.1080/0028825X.2000.9512683",
+    "DOI": "10.1080/0028825X.2000.9512683"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Phlebiporia bubalina gen",
+    "editor": [
+      {
+        "family": "nov",
+        "particle": "et. sp."
+      }
+    ],
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issue": "3",
+    "issued": "2014",
+    "page": "563–573",
+    "URL": "https://doi.org/10.1007/s11557-013-0940-4",
+    "DOI": "10.1007/s11557-013-0940-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Korhonen",
+        "given": "K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Phylogeny, divergence time estimation, and biogeography of the genus Heterobasidion (Basidiomycota, Russulales",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "185–200",
+    "URL": "https://doi.org/10.1007/s13225-014-0317-2",
+    "DOI": "10.1007/s13225-014-0317-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Li",
+        "given": "H.J."
+      },
+      {
+        "family": "Ji",
+        "given": "X."
+      },
+      {
+        "family": "Zhou",
+        "given": "J.L."
+      },
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "Si",
+        "given": "J."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Species diversity, taxonomy and phylogeny of Polyporaceae (Basidiomycota) in China",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2019",
+    "page": "137–392",
+    "URL": "https://doi.org/10.1007/s13225-019-00427-4",
+    "DOI": "10.1007/s13225-019-00427-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Hymenochaetaceae (Basidiomycota) in China",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2010",
+    "page": "131–343",
+    "URL": "https://doi.org/10.1007/s13225-010-0066-9",
+    "DOI": "10.1007/s13225-010-0066-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Polypore diversity in China with an annotated checklist of Chinese polypores",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2012",
+    "page": "49–80",
+    "URL": "https://doi.org/10.1007/s10267-011-0134-3",
+    "DOI": "10.1007/s10267-011-0134-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Donk",
+        "given": "M.A."
+      }
+    ],
+    "title": "Revisie van de Nederlandse Heterobasidiomycetae en Homobasidiomycetae Aphyllophoraceae. Deel 1",
+    "volume": "18–20",
+    "type": "article-journal",
+    "container-title": "Mededelingen van de Nederlandse Mycologische Vereeniging",
+    "issued": "1931",
+    "page": "67–200"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence intervals on phylogenetics: an approach using bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "https://doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "Bioedit: A user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hjortstam",
+        "given": "K."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "New taxa and new combinations in tropical corticioid fungi",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Basidiomycotina, Aphyllophorales). Synopsis Fungorum",
+    "issued": "2005",
+    "page": "33–41"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Briefings in bioinformatics",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "https://doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Lombard",
+        "given": "F.F."
+      },
+      {
+        "family": "Burdsall",
+        "given": "H.H."
+      },
+      {
+        "family": "Gilbertson",
+        "given": "R.L."
+      }
+    ],
+    "title": "Taxonomy of Corticium chrysocreas and Phlebia livida",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1975",
+    "page": "495–510",
+    "URL": "https://doi.org/10.2307/3758388",
+    "DOI": "10.2307/3758388"
+  },
+  {
+    "author": [
+      {
+        "family": "Maddison",
+        "given": "W.P."
+      },
+      {
+        "family": "Maddison",
+        "given": "D.R."
+      }
+    ],
+    "title": "Mesquite: A modular system for evolutionary analysis",
+    "type": null,
+    "issued": "2010"
+  },
+  {
+    "author": [
+      {
+        "family": "Miettinen",
+        "given": "O."
+      },
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      }
+    ],
+    "title": "Sidera, a new genus in Hymenochaetales with poroid and hydnoid species",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2011",
+    "page": "131–141",
+    "URL": "https://doi.org/10.1007/s11557-010-0682-5",
+    "DOI": "10.1007/s11557-010-0682-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Holder",
+        "given": "M.T."
+      },
+      {
+        "family": "Vos",
+        "given": "R."
+      },
+      {
+        "family": "Midford",
+        "given": "P.E."
+      },
+      {
+        "family": "Liebowitz",
+        "given": "T."
+      },
+      {
+        "family": "Chan",
+        "given": "L."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Warnow",
+        "given": "T."
+      }
+    ],
+    "title": "The CIPRES Portals",
+    "note": "CIPRES. Homepage at:",
+    "type": null,
+    "issued": "2009",
+    "URL": "http://www.phylo.org/sub_sections/portal"
+  },
+  {
+    "author": [
+      {
+        "family": "Núñez",
+        "given": "M."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "East Asian polypores 2",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2001",
+    "page": "165–522"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "J.H."
+      }
+    ],
+    "title": "The Danish Mycological Society ́s colour-chart. Foreningen til Svampekundskabens Fremme, Greve",
+    "type": null,
+    "issued": "1996",
+    "page": "1–6"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "Modeltest: testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818",
+    "URL": "https://doi.org/10.1093/bioinformatics/14.9.817",
+    "DOI": "10.1093/bioinformatics/14.9.817"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "Molecular Evolution, Phylogenetics and Epidemiology",
+    "note": "FigTree ver. 1.4 Software. Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://tree.bio.ed.ac.uk/software/figtree/"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "Mrbayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "Neotropical polypores 1",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2004",
+    "page": "1–229"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      },
+      {
+        "family": "Johansen",
+        "given": "I."
+      }
+    ],
+    "title": "A preliminary polypore flora of East Africa",
+    "publisher": "Norway",
+    "type": "book",
+    "issued": "1980",
+    "page": "636",
+    "publisher-place": "Fungiflora, Oslo"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      },
+      {
+        "family": "Melo",
+        "given": "I."
+      }
+    ],
+    "title": "Poroid fungi of Europe",
+    "edition": "2nd",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2017",
+    "page": "1–430"
+  },
+  {
+    "author": [
+      {
+        "family": "Shen",
+        "given": "L.L."
+      },
+      {
+        "family": "Wang",
+        "given": "M."
+      },
+      {
+        "family": "Zhou",
+        "given": "J.L."
+      },
+      {
+        "family": "Xing",
+        "given": "J.H."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Taxonomy and phylogeny of Postia. Multi-gene phylogeny and taxonomy of the brown-rot fungi: Postia and its related genera",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2019",
+    "page": "101–126",
+    "URL": "https://doi.org/10.3767/persoonia.2019.42.05",
+    "DOI": "10.3767/persoonia.2019.42.05"
+  },
+  {
+    "author": [
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Wang",
+        "given": "M."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Phylogeny and biogeography of the remarkable genus Bondarzewia (Basidiomycota, Russulales",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Scientific Reports",
+    "issued": "2016",
+    "page": "34568",
+    "URL": "https://doi.org/10.1038/srep34568",
+    "DOI": "10.1038/srep34568"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (*and other methods",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "0b10",
+    "issued": "2002",
+    "publisher-place": "Sinauer Associates, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical Garden’s Virtual Herbarium",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "publisher-place": "New York",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wells",
+        "given": "K."
+      }
+    ],
+    "title": "Studies of some Tremellaceae",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "IV. Exidiopsis. Mycologia",
+    "issue": "4",
+    "issued": "1961",
+    "page": "317–370",
+    "URL": "https://doi.org/10.1080/00275514.1961.12017967",
+    "DOI": "10.1080/00275514.1961.12017967"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "director": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "PCR protocols, a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "article-journal",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1038/srep34568",
+    "DOI": "10.1038/srep34568"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "F."
+      },
+      {
+        "family": "Yuan",
+        "given": "H.S."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Yuan",
+        "given": "Y."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Polypore diversity in South China",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "2020",
+    "page": "653–681"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "F."
+      },
+      {
+        "family": "Yuan",
+        "given": "Y."
+      },
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "He",
+        "given": "S.H."
+      }
+    ],
+    "title": "Luteoporia albomarginata gen. et sp. nov. (Meruliaceae, Basidiomycota) from tropical China",
+    "volume": "263",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2016",
+    "page": "31–41",
+    "URL": "https://doi.org/10.11646/phytotaxa.263.1.3",
+    "DOI": "10.11646/phytotaxa.263.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "C.L."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Fragiliporiaceae, a new family of Polyporales (Basidiomycota",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "115–126",
+    "URL": "https://doi.org/10.1007/s13225-014-0299-0",
+    "DOI": "10.1007/s13225-014-0299-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "C.L."
+      },
+      {
+        "family": "Wu",
+        "given": "F."
+      },
+      {
+        "family": "Liu",
+        "given": "H.X."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "A phylogenetic and taxonomic study on Ceriporiopsis s. str",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "Polyporales) in China. Nova Hedwigia",
+    "issued": "2015",
+    "page": "403–417",
+    "URL": "https://doi.org/10.1127/nova_hedwigia/2015/0282",
+    "DOI": "10.1127/nova_hedwigia/2015/0282"
+  },
+  {
+    "author": [
+      {
+        "literal": "Zhou, L.W., Nakasone, K.K., Burdsall, Jr. HH., Ginns, J., Vlasák, J., Miettinen, O., Spirin, V., Niemelä, T., Yuan, H.S., He, S.H., Cui, B.K., Xing, J.H. & Dai, Y.C."
+      }
+    ],
+    "title": "Polypore diversity in North America with an annotated checklist",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2016",
+    "page": "771–790",
+    "URL": "https://doi.org/10.1007/s11557-016-1207-7",
+    "DOI": "10.1007/s11557-016-1207-7"
+  }
+]

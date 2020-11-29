@@ -1,0 +1,481 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L.von"
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indië",
+    "volume": "15",
+    "publisher": "Ter Lands Drukkerij, Batavia",
+    "type": "book",
+    "issued": "1826",
+    "page": "100"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Compositae Wightianae",
+    "editor": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "publisher": "Parbury, Allan & Co",
+    "type": "book",
+    "issued": "1834",
+    "page": "5–27",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "5",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1836",
+    "page": "706"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G.de"
+      }
+    ],
+    "title": "Aperçu des genres nouveaux formes par Henri Cassini dans la famille de Synanthérées. Second Fascicule",
+    "volume": "1817",
+    "type": "article-journal",
+    "container-title": "Bulletin des sciences, par la Société Philomatique de Paris",
+    "issued": "1817",
+    "page": "10–13"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G.de"
+      }
+    ],
+    "title": "Aperçu des genres nouveaux formes par Henri Cassini dans la famille de Synanthérées",
+    "volume": "1817",
+    "type": "article-journal",
+    "container-title": "Sixième Fascicule. Bulletin des sciences, par la Société Philomatique de Paris",
+    "issued": "1817",
+    "page": "151–154"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G.de"
+      }
+    ],
+    "title": "Suite du sixième mémoire sur la famille des Synanthérées, contenant les caractères des tribus",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Journal de Physique, de Chimie, d’Histoire Naturelle et des Arts",
+    "issued": "1819",
+    "page": "189–205"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Prodromus florae Nepalensis",
+    "volume": "London",
+    "type": "article-journal",
+    "container-title": "J. Gale",
+    "issued": "1825",
+    "page": "256"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamilton",
+        "given": "F."
+      }
+    ],
+    "title": "A commentary on the second part of the Hortus Malabaricus",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1923",
+    "page": "171–312",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1823.tb00088.x",
+    "DOI": "10.1111/j.1095-8339.1823.tb00088.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kanjilal",
+        "given": "U.N."
+      },
+      {
+        "family": "Das",
+        "given": "A."
+      },
+      {
+        "family": "Kanjilal",
+        "given": "P.C."
+      },
+      {
+        "family": "De",
+        "given": "R.N."
+      }
+    ],
+    "title": "Flora of Assam",
+    "volume": "3",
+    "publisher": "Govt. of Assam, Shillong",
+    "type": "book",
+    "issued": "1939",
+    "page": "578"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "publisher": "Adopted by the Eighteenth International Botanical Congress Melbourne",
+    "type": "book",
+    "issued": "2012",
+    "page": "140",
+    "publisher-place": "Melbourne Code"
+  },
+  {
+    "author": [
+      {
+        "family": "Moench",
+        "given": "C."
+      }
+    ],
+    "title": "Methodus Plantas Horti Botanici et Agri Marburgensis, a staminum situ describendi",
+    "volume": "2",
+    "container-title": "Officina Nova Libraria Academiae, Marburgi Cattorum",
+    "type": "chapter",
+    "issued": "1794",
+    "page": "411"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "Revisions in paleotropical Vernonieae (Asteraceae",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Biological Society of Washington",
+    "issued": "1999",
+    "page": "220–247"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "Vernonieae",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "container-title": "The families and genera of Vascular Plants",
+    "volume": "8",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "149–174",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Keeley",
+        "given": "S.C."
+      },
+      {
+        "family": "Skvarla",
+        "given": "J.J."
+      },
+      {
+        "family": "Chan",
+        "given": "R."
+      }
+    ],
+    "title": "Studies on the Gymnantheminae (Vernonieae: Asteraceae) III: Restoration of the genus Strobocalyx and the new genus Tarlmounia",
+    "volume": "121",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Biological Society of Washington",
+    "issued": "2008",
+    "page": "19–33",
+    "URL": "https://doi.org/10.2988/07-21.1",
+    "DOI": "10.2988/07-21.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Skvarla",
+        "given": "J.J."
+      }
+    ],
+    "title": "Studies on the Gymnantheminae (Vernonieae: Asteraceae): Restoration of the genus Monosis",
+    "volume": "119",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Biological Society of Washington",
+    "issued": "2006",
+    "page": "600–607",
+    "URL": "https://doi.org/10.2988/0006-324X(2006)119",
+    "DOI": "10.2988/0006-324X(2006)119"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Skvarla",
+        "given": "J.J."
+      }
+    ],
+    "title": "Studies on the Gymnantheminae (Asteraceae: Vernonieae). II: A new genus, Decaneuropis, from China, India, southeast Asia, and Malaysia",
+    "volume": "120",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Biological Society of Washington",
+    "issued": "2007",
+    "page": "360–366",
+    "URL": "https://doi.org/10.2988/0006-324X(2007)120",
+    "DOI": "10.2988/0006-324X(2007)120"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Skvarla",
+        "given": "J.J."
+      }
+    ],
+    "title": "A new genus, Khasianthus, from India, Myanmar, and China (Vernonieae: Asteraceae",
+    "volume": "122",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Biological Society of Washington",
+    "issued": "2009",
+    "page": "146–149",
+    "URL": "https://doi.org/10.2988/08-20.1",
+    "DOI": "10.2988/08-20.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Skvarla",
+        "given": "J.J."
+      }
+    ],
+    "title": "A new genus, Uniyala, from peninsular India and Sri Lanka (Vernonieae: Asteraceae",
+    "volume": "122",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Biological Society of Washington",
+    "issued": "2009",
+    "page": "150–154",
+    "URL": "https://doi.org/10.2988/08-21.1",
+    "DOI": "10.2988/08-21.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Skvarla",
+        "given": "J.J."
+      }
+    ],
+    "title": "Genera of the Vernonieae (Asteraceae) of China with a study of their pollen",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2010",
+    "page": "254–272"
+  },
+  {
+    "author": [
+      {
+        "family": "Schreber",
+        "given": "J.C.D.von"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Plantarum",
+        "given": "Genera"
+      }
+    ],
+    "volume": "8), vol. 2",
+    "publisher": "Varrentrapp & Wenner, Frankfurt",
+    "type": "book",
+    "issued": "1791",
+    "page": "491"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultz",
+        "given": "C.H."
+      }
+    ],
+    "title": "Cassiniaceae uniflorae, order Verzeichniss der Cassiniaceen",
+    "volume": "18–19",
+    "type": "article-journal",
+    "container-title": "Jahresbericht der Pollichia",
+    "issued": "1861",
+    "page": "157–190"
+  },
+  {
+    "author": [
+      {
+        "family": "Spach",
+        "given": "E."
+      }
+    ],
+    "title": "Histoire Naturelle des Végétaux",
+    "volume": "10",
+    "publisher": "Librairie Encyclopédique de Roret, Paris",
+    "type": "article-journal",
+    "container-title": "Phanérogames",
+    "issued": "1841",
+    "page": "572"
+  },
+  {
+    "author": [
+      {
+        "family": "Uniyal",
+        "given": "B.P."
+      }
+    ],
+    "title": "Vernonieae",
+    "editor": [
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      },
+      {
+        "family": "Rao",
+        "given": "R.R."
+      },
+      {
+        "family": "Singh",
+        "given": "D.K."
+      },
+      {
+        "family": "Uniyal",
+        "given": "B.P."
+      }
+    ],
+    "container-title": "Flora of India",
+    "volume": "13",
+    "publisher": "Botanical Survey of India",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "330–394",
+    "publisher-place": "Calcutta"
+  }
+]

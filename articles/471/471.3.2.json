@@ -1,0 +1,700 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ali",
+        "given": "R.H."
+      },
+      {
+        "family": "Bark",
+        "given": "M."
+      },
+      {
+        "family": "Miró",
+        "given": "J."
+      },
+      {
+        "family": "Muhammad",
+        "given": "S.A."
+      },
+      {
+        "family": "Sjöstrand",
+        "given": "J."
+      },
+      {
+        "family": "Zubair",
+        "given": "S.M."
+      },
+      {
+        "family": "Abbas",
+        "given": "R.M."
+      },
+      {
+        "family": "Arvestad",
+        "given": "L."
+      }
+    ],
+    "title": "VMCMC: a graphical and statistical analysis tool for Markov chain Monte Carlo traces",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "BMC Bioinformatics",
+    "issued": "2017",
+    "page": "97",
+    "URL": "https://doi.org/10.1186/s12859-017-1505-3",
+    "DOI": "10.1186/s12859-017-1505-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Ascherson",
+        "given": "P."
+      }
+    ],
+    "title": "Potamogetonaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien",
+    "volume": "2",
+    "publisher": "W. Engelmann",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1889",
+    "page": "194–218",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Endress",
+        "given": "P.K."
+      }
+    ],
+    "title": "Evolutionary diversification of the flowers in angiosperms",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2011",
+    "page": "370–396",
+    "URL": "https://doi.org/10.3732/ajb.1000299",
+    "DOI": "10.3732/ajb.1000299"
+  },
+  {
+    "author": [
+      {
+        "family": "Endress",
+        "given": "P.K."
+      },
+      {
+        "family": "Stumpf",
+        "given": "S."
+      }
+    ],
+    "title": "Non-tetrasporangiate stamens in the angiosperms: Structure, systematic distribution and evolutionary aspects",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik",
+    "issued": "1990",
+    "page": "193–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Ford",
+        "given": "C.S."
+      },
+      {
+        "family": "Ayres",
+        "given": "K.L."
+      },
+      {
+        "family": "Toomey",
+        "given": "N."
+      },
+      {
+        "family": "Haider",
+        "given": "N."
+      },
+      {
+        "family": "Stahl",
+        "given": "J."
+      },
+      {
+        "family": "Kelly",
+        "given": "L.J."
+      },
+      {
+        "family": "Wikström",
+        "given": "N."
+      },
+      {
+        "family": "Hollingsworth",
+        "given": "P.M."
+      },
+      {
+        "family": "Duff",
+        "given": "R.J."
+      },
+      {
+        "family": "Hoot",
+        "given": "S.B."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Wilkinson",
+        "given": "M.J."
+      }
+    ],
+    "title": "Selection of candidate coding DNA barcoding regions for use on land plants",
+    "volume": "159",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2009",
+    "page": "1–11",
+    "URL": "https://doi.org/10.1111/j.1095-8339.2008.00938.x",
+    "DOI": "10.1111/j.1095-8339.2008.00938.x"
+  },
+  {
+    "author": [
+      {
+        "family": "García-Murillo",
+        "given": "P."
+      },
+      {
+        "family": "Talavera",
+        "given": "S."
+      }
+    ],
+    "title": "El genero Althenia Petit",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Lagascalia",
+    "issued": "1986",
+    "page": "102–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Harvey",
+        "given": "W.H."
+      }
+    ],
+    "title": "Characters of some new genera of plants recently discovered by Mr. James Drummond in Western Australia",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Hooker’s Journal of Botany and Kew Garden Miscellany",
+    "issued": "1855",
+    "page": "51–58"
+  },
+  {
+    "author": [
+      {
+        "family": "Iles",
+        "given": "W.J.D."
+      },
+      {
+        "family": "Smith",
+        "given": "S.Y."
+      },
+      {
+        "family": "Graham",
+        "given": "S.W."
+      }
+    ],
+    "title": "A well-supported phylogenetic framework for the monocot order Alismatales reveals multiple losses of the plastid NADH dehydrogenase complex and a strong long-branch effect",
+    "editor": [
+      {
+        "family": "Wilkin",
+        "given": "P."
+      },
+      {
+        "family": "Mayo",
+        "given": "S.J."
+      }
+    ],
+    "container-title": "Early events in monocot evolution",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "1–28",
+    "publisher-place": "Cambridge",
+    "URL": "https://doi.org/10.1017/CBO9781139002950.002",
+    "DOI": "10.1017/CBO9781139002950.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Ito",
+        "given": "Y."
+      },
+      {
+        "family": "Tanaka",
+        "given": "N."
+      },
+      {
+        "family": "García-Murillo",
+        "given": "P."
+      },
+      {
+        "family": "Muasya",
+        "given": "A.M."
+      }
+    ],
+    "title": "A new delimitation of the Afro-Eurasian plant genus Althenia to include its Australasian relative, Lepilaena (Potamogetonaceae)–evidence from DNA and morphological data",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2016",
+    "page": "261–270",
+    "URL": "https://doi.org/10.1016/j.ympev.2016.02.008",
+    "DOI": "10.1016/j.ympev.2016.02.008"
+  },
+  {
+    "editor": [
+      {
+        "family": "Jessop",
+        "given": "J.P."
+      },
+      {
+        "family": "Toelken",
+        "given": "H.R."
+      }
+    ],
+    "title": "Flora of South Australia",
+    "volume": "4, Vol. 4",
+    "publisher": "South Australian Government Printing Division, Adelaide",
+    "type": "article-journal",
+    "container-title": "Edn",
+    "issued": "1986",
+    "page": "559"
+  },
+  {
+    "author": [
+      {
+        "family": "Keighery",
+        "given": "G.J."
+      },
+      {
+        "family": "Halse",
+        "given": "S.A."
+      },
+      {
+        "given": "McKenzie"
+      }
+    ],
+    "title": "N.L",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "volume": "Supplement 67",
+    "type": "article-journal",
+    "container-title": "Records of the Western Australian Museum",
+    "issued": "2004",
+    "page": "384"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "T."
+      }
+    ],
+    "title": "On Zannichellia and Lepilaena in New Zealand",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Transactions of Proceedings of the New Zealand Institute",
+    "issued": "1896",
+    "page": "498–500"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanfear",
+        "given": "R."
+      },
+      {
+        "family": "Frandsen",
+        "given": "P.B."
+      },
+      {
+        "family": "Wright",
+        "given": "A.M."
+      },
+      {
+        "family": "Senfeld",
+        "given": "T."
+      },
+      {
+        "family": "Calcott",
+        "given": "B."
+      }
+    ],
+    "title": "PartitionFinder 2: new methods for selecting partitioned models of evolution for molecular and morphological phylogenetic analyses",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2016",
+    "page": "772–773",
+    "URL": "https://doi.org/10.1093/molbev/msw260",
+    "DOI": "10.1093/molbev/msw260"
+  },
+  {
+    "author": [
+      {
+        "family": "Lehmann",
+        "given": "J.G.C."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "container-title": "Plantae Preissianae",
+    "volume": "1",
+    "publisher": "Meissner, Hamburg",
+    "type": "chapter",
+    "issued": "1844",
+    "page": "647"
+  },
+  {
+    "author": [
+      {
+        "family": "Lehmann",
+        "given": "J.G.C."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "container-title": "Plantae Preissianae",
+    "volume": "2",
+    "publisher": "Meissner, Hamburg",
+    "type": "chapter",
+    "issued": "1846",
+    "page": "499"
+  },
+  {
+    "author": [
+      {
+        "family": "Mason",
+        "given": "R."
+      }
+    ],
+    "title": "The species of Ruppia in New Zealand",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Botany",
+    "issued": "1967",
+    "page": "519–531",
+    "URL": "https://doi.org/10.1080/0028825X.1967.10428771",
+    "DOI": "10.1080/0028825X.1967.10428771"
+  },
+  {
+    "author": [
+      {
+        "family": "Macfarlane",
+        "given": "T.D."
+      },
+      {
+        "family": "Sokoloff",
+        "given": "D.D."
+      },
+      {
+        "family": "Remizowa",
+        "given": "M.V."
+      }
+    ],
+    "title": "Filling a morphological gap between Australasian and Eurasian/African members of Althenia (Potamogetonaceae, Alismatales): A. hearnii sp. nov. from SW Western Australia",
+    "volume": "317",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2017",
+    "page": "53–60",
+    "URL": "https://doi.org/10.11646/phytotaxa.317.1.5",
+    "DOI": "10.11646/phytotaxa.317.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Mueller",
+        "given": "C."
+      }
+    ],
+    "title": "Synopsis plantarum phanerogamicarum novarum omnium per annos 1851, 1852, 1853, 1854, 1855 descriptarum",
+    "editor": [
+      {
+        "family": "Walpers",
+        "given": "W.G."
+      }
+    ],
+    "container-title": "Annales Botanices Systematicae, T. 6. Sumptibus Ambrosii Abel, Lipsiae",
+    "type": "chapter",
+    "issued": "1861",
+    "page": "1–1309"
+  },
+  {
+    "author": [
+      {
+        "family": "Mueller",
+        "given": "F."
+      }
+    ],
+    "title": "Fragmenta Phytographiae Australiae",
+    "volume": "8",
+    "publisher": "Government Printer, Melbourne",
+    "type": "book",
+    "issued": "1874",
+    "page": "304"
+  },
+  {
+    "author": [
+      {
+        "family": "Mueller",
+        "given": "F."
+      }
+    ],
+    "title": "1888) Key to the system of Victorian plants",
+    "volume": "1",
+    "publisher": "R.S. Brain",
+    "type": "book",
+    "issued": "1887",
+    "page": "43",
+    "publisher-place": "Melbourne"
+  },
+  {
+    "author": [
+      {
+        "family": "Petit",
+        "given": "F."
+      }
+    ],
+    "title": "Althenia novi plantarum generis description",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Annales des sciences d’observation",
+    "issued": "1829",
+    "page": "451–456"
+  },
+  {
+    "author": [
+      {
+        "family": "Reese",
+        "given": "G."
+      }
+    ],
+    "title": "Cytologische und taxonomische Untersuchungen an Zanichellia palustris L",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Biologisches Zentralblatt",
+    "issue": "Suppl.",
+    "issued": "1967",
+    "page": "277–306"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Sokoloff",
+        "given": "D.D."
+      },
+      {
+        "family": "Rudall",
+        "given": "P.J."
+      },
+      {
+        "family": "Remizowa",
+        "given": "M.V."
+      }
+    ],
+    "title": "Flower-like terminal structures in racemose inflorescences: a tool in morphogenetic and evolutionary research",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Journal of Experimental Botany",
+    "issued": "2006",
+    "page": "3517–3530",
+    "URL": "https://doi.org/10.1093/jxb/erl126",
+    "DOI": "10.1093/jxb/erl126"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (*and other methods), version 4",
+    "publisher": "Sinauer, Sunderland",
+    "type": "book",
+    "issued": "2003",
+    "page": "522"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Virtual Herbarium, New York Botanical Garden. Available from:",
+    "type": null,
+    "issued": "continuously updated",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Tomlinson",
+        "given": "P.B."
+      }
+    ],
+    "title": "Anatomy of the Monocotyledons",
+    "volume": "VII",
+    "note": "Helobae (Alismatidae) (including the seagrasses).",
+    "publisher": "Clarendon Press, Oxford",
+    "type": null,
+    "issued": "1982",
+    "page": "559"
+  },
+  {
+    "author": [
+      {
+        "family": "Tzvelev",
+        "given": "N.N."
+      }
+    ],
+    "title": "Althenia Petit–a new genus of aquatic plants to flora of USSR",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Botanichesky Zhurnal",
+    "issued": "1975",
+    "page": "389–392"
+  },
+  {
+    "author": [
+      {
+        "family": "Tzvelev",
+        "given": "N.N."
+      }
+    ],
+    "title": "Notae de Asteraceis nonnullis partis Europaeae URSS",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Novitates Systematicae Plantarum Vascularium",
+    "issued": "1990",
+    "page": "145–152"
+  },
+  {
+    "author": [
+      {
+        "family": "Ventenat",
+        "given": "É.P."
+      }
+    ],
+    "title": "Jardin de la Malmaison. De l’imprimerie de Crapelet, Paris",
+    "type": null,
+    "issued": "1803",
+    "URL": "https://doi.org/10.5962/bhl.title.70396",
+    "DOI": "10.5962/bhl.title.70396"
+  },
+  {
+    "author": [
+      {
+        "family": "Womersley",
+        "given": "H.B.S."
+      }
+    ],
+    "title": "The marine benthic flora of southern Australia",
+    "genre": "Part 1.",
+    "publisher": "Government Printer, South Australia",
+    "type": null,
+    "issued": "1984",
+    "page": "329"
+  }
+]

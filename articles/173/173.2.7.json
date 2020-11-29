@@ -1,0 +1,353 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Flora of Mauritius and the Seychelles: a description of the flowering plants and ferns of those islands",
+    "publisher": "Reeve",
+    "type": "book",
+    "issued": "1877",
+    "page": "525",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Enumeratio Plantarum Javae",
+    "volume": null,
+    "publisher": "J.W. van Leeuwen, Leiden",
+    "issue": "2",
+    "type": "book",
+    "issued": "1828",
+    "page": "274"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonaparte",
+        "given": "R."
+      }
+    ],
+    "title": "Notes ptéridologiques",
+    "volume": null,
+    "editor": [
+      {
+        "family": "author",
+        "particle": "printed by the"
+      },
+      {
+        "given": "Paris"
+      }
+    ],
+    "issue": "9",
+    "type": null,
+    "issued": "1920",
+    "page": "78",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.45309",
+    "DOI": "10.5962/bhl.title.45309"
+  },
+  {
+    "author": [
+      {
+        "family": "Dubuisson",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Bary",
+        "given": "S."
+      },
+      {
+        "family": "Ebihara",
+        "given": "A."
+      },
+      {
+        "family": "Carnero-Diaz",
+        "given": "E."
+      },
+      {
+        "family": "Boucheron-Dubuisson",
+        "given": "E."
+      },
+      {
+        "family": "Hennequin",
+        "given": "S."
+      }
+    ],
+    "title": "Epiphytism, anatomy and regressive evolution in trichomanoid filmy ferns (Hymenophyllaceae",
+    "volume": "173",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2013",
+    "page": "573–593",
+    "URL": "http://dx.doi.org/10.1111/boj.12106",
+    "DOI": "10.1111/boj.12106"
+  },
+  {
+    "author": [
+      {
+        "family": "Dubuisson",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Rouhan",
+        "given": "G."
+      },
+      {
+        "family": "Grall",
+        "given": "A."
+      },
+      {
+        "family": "Hennequin",
+        "given": "S."
+      },
+      {
+        "family": "Pynee",
+        "given": "K."
+      },
+      {
+        "family": "Ebihara",
+        "given": "A."
+      }
+    ],
+    "title": "New insights into the systematics and evolution of the filmy fern genus Crepidomanes (Hymenophyllaceae) in the Mascarene Archipelago with a focus on dwarf species",
+    "volume": "160",
+    "type": "article-journal",
+    "container-title": "Acta Botanic Gallica, Botany Letters",
+    "issued": "2013",
+    "page": "173–194",
+    "URL": "http://dx.doi.org/10.1080/12538078.2013.819294",
+    "DOI": "10.1080/12538078.2013.819294"
+  },
+  {
+    "author": [
+      {
+        "family": "Ebihara",
+        "given": "A."
+      },
+      {
+        "family": "Dubuisson",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      },
+      {
+        "family": "Hennequin",
+        "given": "S."
+      },
+      {
+        "family": "Ito",
+        "given": "M."
+      }
+    ],
+    "title": "A taxonomic revision of the Hymenophyllaceae",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "2006",
+    "page": "221–280",
+    "URL": "http://dx.doi.org/10.3767/000651906x622210",
+    "DOI": "10.3767/000651906x622210"
+  },
+  {
+    "author": [
+      {
+        "family": "Grangaud",
+        "given": "E."
+      }
+    ],
+    "title": "Guide des Fougères et plantes alliées des Mascareignes",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "MNHN/Biotope",
+    "issue": "",
+    "issued": "2010",
+    "page": "432"
+  },
+  {
+    "author": [
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      }
+    ],
+    "title": "The Hymenophyllaceae of Asia, excluding Malaysia",
+    "volume": "3, Botany 13",
+    "type": "article-journal",
+    "container-title": "Journal of the Faculty of Science, University of Tokyo, Sec",
+    "issued": "1985",
+    "page": "501–551"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornaś",
+        "given": "J."
+      }
+    ],
+    "title": "Filmy Ferns (Hymenophyllaceae) of Central Africa",
+    "edition": "2. Trichomanes (excl. subgen",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Microgonium). Fragmenta Floristica et Geobotanica",
+    "issued": "1994",
+    "page": "33–75",
+    "publisher-place": "Zaire, Rwanda, Burundi"
+  },
+  {
+    "author": [
+      {
+        "family": "Lorence",
+        "given": "D.H."
+      }
+    ],
+    "title": "The pteridophytes of Rodrigues Island",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1976",
+    "page": "269–283",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1976.tb01364.x",
+    "DOI": "10.1111/j.1095-8339.1976.tb01364.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Pichi Sermolli",
+        "given": "R.E.G."
+      }
+    ],
+    "title": "A contribution to the knowledge of the Pteridophyta of Rwanda, Burundi, and Kivu (Zaire",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "– I. Bulletin du Jardin botanique national de Belgique",
+    "issued": "1983",
+    "page": "177–284",
+    "URL": "http://dx.doi.org/10.2307/3668036",
+    "DOI": "10.2307/3668036"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C.B."
+      }
+    ],
+    "title": "Epimeliae botanicae: cum tabulis quindecim lithographicis",
+    "publisher": "A. Haase, Prague",
+    "type": "book",
+    "issued": "1849",
+    "page": "264"
+  },
+  {
+    "author": [
+      {
+        "family": "Pynee",
+        "given": "K."
+      },
+      {
+        "family": "Hennequin",
+        "given": "S."
+      },
+      {
+        "family": "Echternacht",
+        "given": "L."
+      },
+      {
+        "family": "Dubuisson",
+        "given": "J.-Y."
+      }
+    ],
+    "title": "A new local variety of Crepidomanes minutum (Hymenophyllaceae) in the Mascarene Archipelago (Indian Ocean) and a new record for Mauritius",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "25–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Roux",
+        "given": "J.P."
+      }
+    ],
+    "title": "Conspectus of Southern African Pteridophyta. Southern African Botanical Diversity Network Report 13",
+    "publisher": "Pretoria, South Africa",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Sabonet"
+  },
+  {
+    "author": [
+      {
+        "family": "Roux",
+        "given": "J.P."
+      }
+    ],
+    "title": "Synopsis of the Lycopodiophyta and Pteridophyta of Africa, Madagascar and neighbouring islands",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Strelitzia",
+    "issued": "2009",
+    "page": "1–293"
+  },
+  {
+    "author": [
+      {
+        "family": "Strasberg",
+        "given": "D."
+      },
+      {
+        "family": "Rouget",
+        "given": "M."
+      },
+      {
+        "family": "Richardson",
+        "given": "D.M."
+      },
+      {
+        "family": "Baret",
+        "given": "S."
+      },
+      {
+        "family": "Dupont",
+        "given": "J."
+      },
+      {
+        "family": "Cowling",
+        "given": "R.M."
+      }
+    ],
+    "title": "An assessment of habitat diversity and transformation on La Réunion Island (Mascarene Islands, Indian Ocean) as a basis for identifying broad-scale conservation priorities",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Biodiversity and Conservation",
+    "issued": "2005",
+    "page": "3015–3032",
+    "URL": "http://dx.doi.org/10.1007/s10531-004-0258-2",
+    "DOI": "10.1007/s10531-004-0258-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "Berlin",
+    "type": "article-journal",
+    "container-title": "G. C. Nauk",
+    "issued": "1810",
+    "page": "542"
+  }
+]

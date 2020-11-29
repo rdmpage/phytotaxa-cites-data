@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+	<title>  Diversity and distribution of  Udotea  genus J.V. Lamouroux (Chlorophyta, Udoteaceae) in the Yucatan peninsula littoral, Mexico   | ACOSTA-CALDERON | Phytotaxa</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMHUldUABAEVVdWAAADUlE=",licenseKey:"4f72ad4ec1",applicationID:"416471445"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(23),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(24),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script>
+	<meta name="description" content="  Diversity and distribution of  Udotea  genus J.V. Lamouroux (Chlorophyta, Udoteaceae) in the Yucatan peninsula littoral, Mexico  " />
+			<meta name="keywords" content="Bryopsidales, Campeche, macroalgae, new records, taxonomy, Quintana Roo, Algae" />
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Contributor.Sponsor" xml:lang="en" content=""/>
+	<meta name="DC.Creator.PersonalName" content="JULIO ADULFO ACOSTA-CALDERON"/>
+	<meta name="DC.Creator.PersonalName" content="CÉSAR HERNÁNDEZ-RODRÍGUEZ"/>
+	<meta name="DC.Creator.PersonalName" content="ÁNGELA CATALINA MENDOZA-GONZÁLEZ"/>
+	<meta name="DC.Creator.PersonalName" content="LUZ ELENA MATEO-CID"/>
+	<meta name="DC.Date.created" scheme="ISO8601" content="2018-03-27"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2017-10-20"/>
+	<meta name="DC.Date.issued" scheme="ISO8601" content="2018-03-27"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2018-03-27"/>
+	<meta name="DC.Description" xml:lang="en" content=" A survey of the diversity, distribution, and taxonomy of the genus  Udotea  from the Yucatan peninsula littoral, Mexico, is presented. The results are based on a review of herbarium specimens, bibliographic data, and collections made by the authors during 2012–2016 at 34 localities along the study area. Macro and microscopic characteristics, relevant photographs, and descriptions are provided for each taxon. A total of 17 taxa of  Udotea  were recognized. One new record is cited for Quintana Roo, two for Yucatan, and five for Campeche coasts. The Quintana Roo littoral presents the highest number of  Udotea  species (17), followed by Campeche (13), and finally Yucatan (9). The  Udotea  taxa could be segregate by the presence of lateral appendages in the blade siphons and, the shape of the lateral appendages of the blade and stipe siphons. "/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Identifier" content="phytotaxa.345.3.1"/>
+	<meta name="DC.Identifier.pageNumber" content="179–218"/>
+							<meta name="DC.Identifier.DOI" content="10.11646/phytotaxa.345.3.1"/>
+		<meta name="DC.Identifier.URI" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.345.3.1"/>
+	<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+	<meta name="DC.Rights" content="Copyright (c) 2018 Phytotaxa" />
+	<meta name="DC.Rights" content=""/>
+	<meta name="DC.Source" content="Phytotaxa"/>
+	<meta name="DC.Source.ISSN" content="1179-3163"/>
+	<meta name="DC.Source.Issue" content="3"/>	<meta name="DC.Source.URI" content="https://www.biotaxa.org/Phytotaxa"/>
+	<meta name="DC.Source.Volume" content="345"/>						<meta name="DC.Subject" xml:lang="en" content="Bryopsidales, Campeche, macroalgae, new records, taxonomy, Quintana Roo, Algae"/>
+				<meta name="DC.Title" content="  Diversity and distribution of  Udotea  genus J.V. Lamouroux (Chlorophyta, Udoteaceae) in the Yucatan peninsula littoral, Mexico  "/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Article"/>
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="Phytotaxa"/>
+	<meta name="citation_issn" content="1179-3163"/>
+        <meta name="citation_author" content="JULIO ADULFO ACOSTA-CALDERON"/>
+        <meta name="citation_author_institution" content="Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Departamento de Botánica. Campus Santo Tomas. Carpio y Plan de Ayala, C.P. 11340. Ciudad de México."/>
+        <meta name="citation_author" content="CÉSAR HERNÁNDEZ-RODRÍGUEZ"/>
+        <meta name="citation_author_institution" content="Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Departamento de Microbiología. Campus Santo Tomas. Carpio y Plan de Ayala, C.P. 11340. Ciudad de México"/>
+        <meta name="citation_author" content="ÁNGELA CATALINA MENDOZA-GONZÁLEZ"/>
+        <meta name="citation_author_institution" content="Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Departamento de Botánica. Campus Santo Tomas. Carpio y Plan de Ayala, C.P. 11340. Ciudad de México."/>
+        <meta name="citation_author" content="LUZ ELENA MATEO-CID"/>
+        <meta name="citation_author_institution" content="Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Departamento de Botánica. Campus Santo Tomas. Carpio y Plan de Ayala, C.P. 11340. Ciudad de México."/>
+<meta name="citation_title" content="  Diversity and distribution of  Udotea  genus J.V. Lamouroux (Chlorophyta, Udoteaceae) in the Yucatan peninsula littoral, Mexico  "/>
+
+	<meta name="citation_date" content="2018/03/27"/>
+
+	<meta name="citation_volume" content="345"/>
+	<meta name="citation_issue" content="3"/>
+
+			<meta name="citation_firstpage" content="179"/>
+				<meta name="citation_lastpage" content="218"/>
+								<meta name="citation_doi" content="10.11646/phytotaxa.345.3.1"/>
+		<meta name="citation_abstract_html_url" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.345.3.1"/>
+	<meta name="citation_language" content="en"/>
+						<meta name="citation_keywords" xml:lang="en" content="Bryopsidales, Campeche, macroalgae, new records, taxonomy, Quintana Roo, Algae"/>
+									<meta name="citation_pdf_url" content="https://www.biotaxa.org/Phytotaxa/article/download/phytotaxa.345.3.1/32250"/>
+				
+
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/compiled.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/articleView.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/rtEmbedded.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://www.biotaxa.org/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://www.biotaxa.org/public/site/sitestyle.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+	</script>
+	
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	
+	<script type="text/javascript" src="https://www.biotaxa.org/js/relatedItems.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/inlinePdf.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/pdfobject.js"></script>
+
+</head>
+<body id="pkp-common-openJournalSystems">
+
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	<img src="https://www.biotaxa.org/public/journals/2/pageHeaderTitleImage_en_US.jpg" width="1101" height="98" alt="Page Header" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://www.biotaxa.org/Phytotaxa/help')">Journal Help</a>
+</div><div class="block" id="sidebarSubscription">
+	<span class="blockTitle">Subscription</span>
+							Login to verify subscription
+			</div><div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+												<form method="post" action="https://www.biotaxa.org/Phytotaxa/login/signIn">
+					<table>
+						<tr>
+							<td><label for="sidebar-username">Username</label></td>
+							<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+						</tr>
+						<tr>
+							<td><label for="sidebar-password">Password</label></td>
+							<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+						</tr>
+					</table>
+				</form>
+						</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://www.biotaxa.org/Phytotaxa/notification">View</a></li>
+			<li><a href="https://www.biotaxa.org/Phytotaxa/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://www.biotaxa.org/Phytotaxa/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">By Issue</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/authors">By Author</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/titles">By Title</a></li>
+		
+					<li><a href="https://www.biotaxa.org/index">Other Journals</a></li>
+						</ul>
+	</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Algae"><span style="font-size: 92%;">Algae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Andes"><span style="font-size: 78%;">Andes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Asteraceae"><span style="font-size: 79%;">Asteraceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Atlantic%20Forest"><span style="font-size: 78%;">Atlantic Forest</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Basidiomycota"><span style="font-size: 78%;">Basidiomycota</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Brazil"><span style="font-size: 85%;">Brazil</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Bryophytes"><span style="font-size: 81%;">Bryophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Cerrado"><span style="font-size: 77%;">Cerrado</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=China"><span style="font-size: 89%;">China</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Compositae"><span style="font-size: 82%;">Compositae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Eudicots"><span style="font-size: 175%;">Eudicots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fabaceae"><span style="font-size: 78%;">Fabaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fungi"><span style="font-size: 105%;">Fungi</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=General"><span style="font-size: 78%;">General</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=ITS"><span style="font-size: 80%;">ITS</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=IUCN"><span style="font-size: 78%;">IUCN</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=India"><span style="font-size: 82%;">India</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Iran"><span style="font-size: 77%;">Iran</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Magnoliids"><span style="font-size: 80%;">Magnoliids</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Mexico"><span style="font-size: 78%;">Mexico</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Monocots"><span style="font-size: 118%;">Monocots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Morphology"><span style="font-size: 77%;">Morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Neotropics"><span style="font-size: 81%;">Neotropics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Nomenclature"><span style="font-size: 79%;">Nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Orchidaceae"><span style="font-size: 79%;">Orchidaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Phylogeny"><span style="font-size: 79%;">Phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Pteridophytes"><span style="font-size: 83%;">Pteridophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=SEM"><span style="font-size: 78%;">SEM</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=South%20America"><span style="font-size: 80%;">South America</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Taxonomy"><span style="font-size: 92%;">Taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Turkey"><span style="font-size: 79%;">Turkey</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Vietnam"><span style="font-size: 78%;">Vietnam</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=biodiversity"><span style="font-size: 79%;">biodiversity</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=conservation"><span style="font-size: 79%;">conservation</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=diatoms"><span style="font-size: 78%;">diatoms</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=distribution"><span style="font-size: 78%;">distribution</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemic"><span style="font-size: 81%;">endemic</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemism"><span style="font-size: 83%;">endemism</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=flora"><span style="font-size: 78%;">flora</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotype"><span style="font-size: 81%;">lectotype</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotypification"><span style="font-size: 80%;">lectotypification</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=molecular%20phylogeny"><span style="font-size: 80%;">molecular phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=morphology"><span style="font-size: 92%;">morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20combination"><span style="font-size: 78%;">new combination</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20species"><span style="font-size: 101%;">new species</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20taxon"><span style="font-size: 78%;">new taxon</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=nomenclature"><span style="font-size: 91%;">nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=phylogeny"><span style="font-size: 91%;">phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=systematics"><span style="font-size: 79%;">systematics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=taxonomy"><span style="font-size: 162%;">taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=typification"><span style="font-size: 83%;">typification</span></a>
+	</div>
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/information/readers">For Readers</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/authors">For Authors</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/librarians">For Librarians</a></li>	</ul>
+</div>
+
+
+<div class="block" id="sidebarRTArticleTools">
+
+	<span class="blockTitle">Article Tools</span>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/printArticle.png" class="articleToolIcon" alt="" /> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/printerFriendly/phytotaxa.345.3.1/0');">Print this article</a>
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/metadata.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/metadata/phytotaxa.345.3.1/0');">Indexing metadata</a><br />
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/citeArticle.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/captureCite/phytotaxa.345.3.1/0');">How to cite item</a><br />
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/findingReferences.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/findingReferences/33926/0');">Finding References</a>
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email this article <span style="font-size: 0.8em">(Login required)</span>		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email the author <span style="font-size: 0.8em">(Login required)</span>		</div>
+		</div>
+
+
+<script type="text/javascript">
+	initRelatedItems();
+</script>
+
+
+<div class="block" id="sidebarRTRelatedItems">
+	<span class="blockTitle">Related Items</span>
+		<table width="100%">
+			<tr>
+				<td valign="top" style="width:26px;">
+					<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/lookupTerms.png" class="articleToolIcon" alt=""/>
+				</td>
+				<td valign="top">
+					<div id="relatedItems">
+						<ul class="plain">
+																					<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/445');">Author&#039;s work</a></li>
+																																									<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/447');">Related studies</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/448');">Book searches</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/449');">Pay-per-view</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/450');">Relevant portals</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/451');">Online forums</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/452');">Teaching files</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/453');">Government policy</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/454');">Media reports</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/455');">Web search</a></li>
+																			</ul>
+					</div>
+					<div id="toggleRelatedItems">
+						<a id="hideRelatedItems" style="display:none;" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_out.png" alt=""/> 
+							Hide
+						</a>
+						<a id="showRelatedItems" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_in.png" alt=""/>
+							Show all
+						</a>
+					</div>
+				</td>
+			</tr>
+		</table>
+</div>
+
+
+<div class="block" id="sidebarRTAuthorBios">
+	<span class="blockTitle">
+					About The Authors
+			</span>
+		<div class="authorBio">
+	<p>
+		<em>JULIO ADULFO ACOSTA-CALDERON</em>
+								<br />Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Departamento de Botánica. Campus Santo Tomas. Carpio y Plan de Ayala, C.P. 11340. Ciudad de México.			</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>CÉSAR HERNÁNDEZ-RODRÍGUEZ</em>
+								<br />Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Departamento de Microbiología. Campus Santo Tomas. Carpio y Plan de Ayala, C.P. 11340. Ciudad de México			</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ÁNGELA CATALINA MENDOZA-GONZÁLEZ</em>
+								<br />Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Departamento de Botánica. Campus Santo Tomas. Carpio y Plan de Ayala, C.P. 11340. Ciudad de México.			</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>LUZ ELENA MATEO-CID</em>
+								<br />Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Departamento de Botánica. Campus Santo Tomas. Carpio y Plan de Ayala, C.P. 11340. Ciudad de México.			</p>
+
+	<p></p>
+	</div>
+	
+	</div>
+			</div>
+			</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="https://www.biotaxa.org/Phytotaxa/index">Home</a></li>
+		<li id="about"><a href="https://www.biotaxa.org/Phytotaxa/about">About</a></li>
+
+					<li id="login"><a href="https://www.biotaxa.org/Phytotaxa/login">Login</a></li>
+							<li id="register"><a href="https://www.biotaxa.org/Phytotaxa/user/register">Register</a></li>
+												<li id="search"><a href="https://www.biotaxa.org/Phytotaxa/search">Search</a></li>
+		
+					<li id="current"><a href="https://www.biotaxa.org/Phytotaxa/issue/current">Current</a></li>
+			<li id="archives"><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">Archives</a></li>
+		
+					<li id="announcements"><a href="https://www.biotaxa.org/Phytotaxa/announcement">Announcements</a></li>
+				
+
+									<li class="navItem" id="navItem-0"><a href="http://www.mapress.com/phytotaxa/">Publisher</a></li>
+												<li class="navItem" id="navItem-1"><a href="http://www.biotaxa.org">Biotaxa</a></li>
+						</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://www.biotaxa.org/Phytotaxa/index" target="_parent">Home</a> &gt;
+	<a href="https://www.biotaxa.org/Phytotaxa/issue/view/phytotaxa.345.3" target="_parent">Vol 345, No 3</a> &gt;	<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.345.3.1/0" class="current" target="_parent">ACOSTA-CALDERON</a>
+</div>
+
+<div id="content">
+
+
+	<div id="topBar">
+							<div id="accessKey">
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_open_medium.gif" alt="Open Access" />
+				Open Access&nbsp;
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+									Subscription Access
+							</div>
+			</div>
+		
+	<div id="articleTitle"><h3><p><strong>Diversity and distribution of <em>Udotea</em> genus J.V. Lamouroux (Chlorophyta, Udoteaceae) in the Yucatan peninsula littoral, Mexico</strong></p></h3></div>
+	<div id="authorString"><em>JULIO ADULFO ACOSTA-CALDERON, CÉSAR HERNÁNDEZ-RODRÍGUEZ, ÁNGELA CATALINA MENDOZA-GONZÁLEZ, LUZ ELENA MATEO-CID</em></div>
+	<br />
+			<div id="articleAbstract">
+		<h4>Abstract</h4>
+		<br />
+		<div><p>A survey of the diversity, distribution, and taxonomy of the genus <em>Udotea</em> from the Yucatan peninsula littoral, Mexico, is presented. The results are based on a review of herbarium specimens, bibliographic data, and collections made by the authors during 2012–2016 at 34 localities along the study area. Macro and microscopic characteristics, relevant photographs, and descriptions are provided for each taxon. A total of 17 taxa of <em>Udotea</em> were recognized. One new record is cited for Quintana Roo, two for Yucatan, and five for Campeche coasts. The Quintana Roo littoral presents the highest number of <em>Udotea</em> species (17), followed by Campeche (13), and finally Yucatan (9). The <em>Udotea</em> taxa could be segregate by the presence of lateral appendages in the blade siphons and, the shape of the lateral appendages of the blade and stipe siphons.</p></div>
+		<br />
+		</div>
+	
+			<div id="articleSubject">
+		<h4>Keywords</h4>
+		<br />
+		<div>Bryopsidales, Campeche, macroalgae, new records, taxonomy, Quintana Roo, Algae</div>
+		<br />
+		</div>
+	
+				
+			<div id="articleFullText">
+		<h4>Full Text:</h4>
+									<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.345.3.1/32250" class="file" target="_parent">PDF/A (7MB)</a>
+																			<img class="accessLogo" src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_open_medium.gif" alt="Open Access" />
+											</div>
+	
+			<div id="articleCitations">
+		<h4>References</h4>
+		<br />
+		<div>
+							<p><p>Acosta-Calderón, J.A., Mateo-Cid, L.E. &amp; Mendoza-González, A.C. (2016) An updated list of marine green algae (Chlorophyta, Ulvophyceae) from the Biosphere Reserve of Sian Ka´an, Quintana Roo, Mexico. <em>Checklist </em>12 (3): 1–15.</p><p> https://doi.org/10.15560/12.3.1886</p><p>Aguilar-Rosas, L.E, Espinoza-Avalos, J. &amp; Aguilar-Rosas, R. (2001) Distribución de las especies de la familia Udoteaceae (Bryopsidales, Chlorophyta) de la península de Yucatán, México. <em>Anales de la Escuela Nacional de Ciencias Biológicas </em>47: 99–108.</p><p>Aguilar-Rosas, M. (1990) Algas marinas bentónicas de la Reserva de la Biosfera de Sian Ka´an, Quintana Roo, México. <em>In</em>: Navarro, L.D. &amp; Robinson, J.G. (Eds.) <em>Diversidad Biológica de la Reserva de la Biosfera de Sian Ka´an, Quintana Roo</em>, México, CIQRO, pp. 13–34.</p><p>Aguilar- Rosas, M., Aguilar-Rosas, L. &amp; Hernández Prieto, J. (1989) Algas marinas bentónicas de la Bahía de la Ascensión, Quintana Roo, México. <em>Boletín del Instituto Oceanográfico de Venezuela </em>28: 67–75.</p><p>Aguilar-Rosas, M., Aguilar-Rosas, L. &amp;Aguilar-Rosas, R. (1998) Algas marinas de la región central de Quintana Roo, México. <em>Polibotánica</em> 7: 15–32.</p><p>Ballantine, D., Athanasiadis, A. &amp; Ruiz, H. (2011) Notes on the benthic marine algae of Puerto Rico. X. Additions to the flora. <em>Botanica Marina</em> 54: 293–302.</p><p> https://doi.org/10.1515/bot.2011.039</p><p>Bedinger, L., Bell, S. &amp; Dawes, C. (2013) Rhizophytic algal communities of shallow, coastal habitats in Florida: components above and below the sediment surface. <em>Bulletin of Marine Science</em> 89: 437–460.</p><p> https://doi.org/10.5343/bms.2011.1151</p><p>Blaxter, M. 2004. The promise of DNA taxonomy. <em>Philosophical Transactions of the Royal Society London B</em> 359: 669–679.</p><p> https://doi.org/10.1098/rstb.2003.1447</p><p>Britton, J.C. &amp; Norton, B. (1989) <em>Shore Ecology of the Gulf of Mexico</em>. University of Texas Press, Austin, 387 pp.</p><p>Bowler, C. &amp; Allen, A. (2007) The contribution of genomics to the understanding of algal evolution. <em>In</em>: Brodie, J. &amp; Lewis, J. (Eds.)<em> Unravelling the algae: Past, present, and future of algal systematic</em>. Taylor &amp; Francis, Inc., Boca Raton, pp. 331–340.</p><p> https://doi.org/10.1201/9780849379901.ch17</p><p>Callejas-Jiménez, M.E., Sentíes, A. &amp; Dreckmann, K.M. (2005) Macroalgas de Puerto Real, Faro Santa Rosalía y Playa Preciosa, Campeche, México, con algunas consideraciones florísticas y ecológicas para el estado. <em>Hidrobiológica</em> 15: 89–96.</p><p>Cocquyt, E., Verbruggen, H., Leliaert, F. &amp; Clerck, O. (2010) Evolution and cytological diversification of the green seaweeds (Ulvophyceae). <em>Molecular Biology and Evolution </em>27: 2052–2061.</p><p> https://doi.org/10.1093/molbev/msq091</p><p>Collado-Vides, L. (2002) Morphological plasticity of <em>Caulerpa prolifera </em>(Caulerpales, Chlorophyta) in relation to growth form in a coral reef lagoon. <em>Botanica Marina</em> 45: 123–129.</p><p> https://doi.org/10.1515/BOT.2002.013</p><p>Collado-Vides L, De Wreede, R.E. &amp; Milligan, K.L.D. (1998) Biomechanical properties of <em>Udotea</em> (Halimedales, Chlorophyta) in a Mexican Reef lagoon. <em>Phycologia</em> 37: 443–449.</p><p> https://doi.org/10.2216/i0031-8884-37-6-443.1</p><p>Collado-Vides, L., Suárez, A. &amp; Cabrera, R. (2009) Una revisión taxonómica del género <em>Udotea </em>en el Caribe mexicano y cubano. <em>Revista de Investigaciones Marinas </em>30: 145–161.</p><p>Coppejans, E., Leliaert, F., Verbruggen, H., Prathep, A. &amp; De Clerck, O. (2011) <em>Rhipidosiphon lewmanomontiae </em>sp. Nov. (Bryopsidales, Chlorophyta), a calcified udoteacean alga from the central Indo-Pacific based on morphological and molecular investigations. <em>Phycologia</em> 50: 403–412.</p><p> https://doi.org/10.2216/10-90.1</p><p>Curtis, N.E., Dawes, C.J. &amp; Pierce, S.K. (2008) Phylogenetic analysis of the large subunit rubisco gene supports the exclusion of <em>Avrainvillea </em>and <em>Cladocephalus </em>from the Udoteaceae (Bryopsidales, Chlorophyta). <em>Journal of Phycology </em>44: 761–767.</p><p> https://doi.org/10.1111/j.1529-8817.2008.00519.x</p><p>De la Lanza-Espino, G. (1991) <em>Oceanografía de mares mexicanos</em>. AGT Editor, México, 569 pp.</p><p>Decaisne, J. (1842) Mémoire sur les corallines ou polypiers calcifères [la seconde partie du “Essais sur une classification des algues et des polypiers calcifères de amourous”]. <em>Annales des Sciences Naturelles, Botanique, Seconde Série</em> 18: 96–128.</p><p>de Senerpont Domis, L.N., Fama, P., Bartlett, A.J., Prud’homme van Reine, W.F., Armenta-Espinosa, C. &amp; Trono, G.C. Jr. (2003) Defining taxon boundaries in members of the morphologically and genetically plastic genus <em>Caulerpa</em> (Caulerpales, Chlorophyta). <em>Journal of Phycology</em> 39: 1019–1037.</p><p> https://doi.org/10.1111/j.0022-3646.2003.02-203.x</p><p>Dijoux, L., Verbruggen, H., Mattio, L. Duong, N. &amp; Payri, C. (2012) Diversity of <em>Halimeda</em> (Bryopsidales, Chlorophyta) in New Caledonia: a combined morphological and molecular study. <em>Journal of Phycology </em>48: 1465–1481.</p><p> https://doi.org/10.1111/jpy.12002</p><p>De Clerck, O., Guiry, M., Leliaert, F., Samyn, Y. &amp; Verbruggen, H. (2013) Algal taxonomy: a road to nowhere? <em>Journal of Phycology </em>49: 215–225.</p><p> https://doi.org/10.1111/jpy.12020</p><p>Dellaporta, S.L., Wood, J. &amp; Hicks, J. (1983) A plant DNA preparation. Version II. <em>Plant Molecular Biology Report </em>1: 19–21.</p><p> https://doi.org/10.1007/BF02712670</p><p>Do Nascimiento-Santos, G. &amp; Castro-Lunes, J. (2015) True identity of <em>Avrainvillea</em> and <em>Rhipilia</em> (Bryopsidales, Chlorophyta) from the Coast of Bahia, Brazil. <em>Phytotaxa </em>213: 71–86.</p><p> https://doi.org/10.11646/phytotaxa.213.2.1</p><p>Dreckmann, I.K., Stout, I. &amp; Sentíes, A. (1996) Lista actualizada de las algas marinas bentónicas de Puerto Morelos, Quintana Roo, Caribe Mexicano. <em>Polibotánica</em> 3: 1–17.</p><p>Ellis, J. &amp; Solander, D. (1786) <em>The natural history of many curious and uncommon zoophytes, collected from various parts of the globe by the late John Ellis. Systematically arranged and described by the late Daniel Solander</em>. B. White &amp; Son, London, pp. xii + 208, 63 Plates.</p><p>Famà, P., Wysor, B. Kooistra, W. &amp; Zucarello, G. (2002) Molecular phylogeny of the genus <em>Caulerpa </em>(Caulerpales, Chlorophyta) inferred from chloroplast <em>tuf</em>A<em> </em>gene. <em>Journal of Phycology </em>38: 1040–1050.</p><p> https://doi.org/10.1046/j.1529-8817.2002.t01-1-01237.x</p><p>Farghaly, M.S. (1980) <em>Algues benthiques de la Mer Rouge et du bassin occidental de l’Océan Indien (étude taxonomique et essai de répartition, notamment des Udotéacées). </em>Université des Sciences et Techniques du Langedoc, Montpellier, pp. 1–274.</p><p>Felsenstein, J. (1985) <em>Inferring phylogenies</em>. Sinauer Associates, Sunderland, 580 pp.</p><p>Fernández-Equiarte, A., Gallegos-García, A. &amp; Zavala-Hidalgo, J. (1993) Oceanografía física de México. <em>Ciencia y Desarrollo</em> 18: 24–35.</p><p>Fredericq, S., Cho, T.O., Earle, S.A., Gurgel, C.F. Krayesky, D.M., Mateo-Cid, L.E., Mendoza-González, A.C., Norris, J.N. &amp; Suárez, A.M. (2009) Seaweeds of the Gulf of Mexico. <em>In: </em>Felder, D.L. &amp; Camp, D.K. (Eds.) <em>Gulf of Mexico–Origins, Waters, and Biota. Biodiversity</em>. Texas A&amp;M Press, College Station, Texas, pp. 187–259.</p><p>García-López, D.Y., Mateo-Cid, L.E. &amp; Mendoza-González, A.C. (2017) Nuevos registros y lista actualizada de las algas verdes (Chlorophyta) del litoral de Veracruz, México. <em>Gayana Botánica </em>74 (1): 41–56.</p><p> https://doi.org/10.4067/S0717-66432017005000104</p><p>Garduño-Solórzano, G., Godínez-Ortega, J. &amp; Ortega, M. (2005) Distribución geográfica y afinidad por el sustrato de las algas verdes (Chlorophyceae) bentónicas de las costas mexicanas del Golfo de México y Mar Caribe. <em>Boletín de la Sociedad Botánica de México </em>76: 61–78.</p><p>Garza-Barrientos, M.A. (1975) Primeras consideraciones referentes sobre la flora marina del sureste de la República Mexicana. <em>Memorias del II Simposio Latinoamericano sobre Oceanografía Biológica</em>. Universidad de Oriente. Cumaná, Venezuela, pp. 7–25.</p><p>Gepp, A. &amp; Gepp, E.S. (1911) <em>The Codiaceae of the Siboga expedition including a monograph of Flabellarieae and Udoteae</em> Siboga-Expeditie Monographie LXII. pp. 1–150</p><p>Gónzález-Gandara, C., Cruz-Arellano, M., Domínguez-Barradas, C., Serrano-Solis, A. &amp; Basañez-Muñoz, A. (2007) Macroalgas asociadas a cuatro hábitats del arrecife Tuxpan, México. <em>Revista UDO Agrícola </em>7: 252–257.</p><p>Gouy, M., Guindon, S. &amp; Gascuel, O. (2010) SeaView version 4: a multiplatform graphical user interface for sequence alignment and phylogenetic tree building. <em>Molecular Biology and Evolution</em> 27: 221–224.</p><p> https://doi.org/10.1093/molbev/msp259</p><p>Graham, L. &amp; Wilcox, W. (2000) <em>Algae</em>. Prentice Hall, New Jersey, 639 pp.</p><p>Guiry, M. &amp; Guiry, G. (2017) AlgaeBase. World-wide electronic publication, National University of Ireland, Galway. Available from: http://www.algaebase.org (accessed 22 January 2018)</p><p>Harney, J.N. &amp; Fletcher, C.H. (2003) A budget of carbonate framework and sediment production, Kailua Bay, Oahu, Hawaii. <em>Journal of Sedimentology Research</em> 73: 856–868.</p><p> https://doi.org/10.1306/051503730856</p><p>Hay, M.E &amp; Fenical, W. (1988) Marine plant-herbivore interactions: the ecology of chemical defense. <em>Annual Review of Ecology and Systematics </em>19: 111–145.</p><p> https://doi.org/10.1146/annurev.es.19.110188.000551</p><p>Hay, M.E. (1997) Calcified seaweeds on coral reefs: complex defenses, trophic relationships and value as habitat. <em>Proceedings of the 8<sup>th</sup> international Coral Reef symposium</em> 11: 713–718.</p><p>Herrera-Silveira, J.E. &amp; Morales-Ojeda, S.M. (2010) Subtropical karstic coastal lagoon Assessment, Southeast Mexico. The Yucatan Peninsula Case. <em>In</em>: Kennish, M.J. &amp; Paerl, H.W. (Eds.) <em>Coastal lagoons: Critical habitats of Environmental Change</em>. CRC Press, pp. 309–336.</p><p> https://doi.org/10.1201/EBK1420088304-c13</p><p>Hillis-Collinvaux, L. (1980) Ecology and taxonomy of <em>Halimeda</em>: primary producers of coral reefs. <em>Advances in Marine Biology </em>17: 1–327.</p><p> https://doi.org/10.1016/S0065-2881(08)60303-X</p><p>Hillis-Collinvaux, L. (1984) Systematics of the Siphonales. <em>In</em>: Irvine, D.E.G &amp; John, D.M. (Eds.) <em>Systematics of the green algae</em>. Academic Press, London, pp. 271–291.</p><p>Hillis-Collinvaux,, L. (1997) Coralgal reefs from a calcareous green alga perspective, and a first carbonate budget. <em>Proceedings of the 8th international Coral Reef symposium </em>11: 761–766.</p><p>Howe, M.A. (1904) Notes on Bahaman algae. <em>Bulletin of the Torrey Botanical Club</em> 31: 91–100.</p><p> https://doi.org/10.2307/2478494</p><p>Howe, M.A. (1909) Phycological studies - IV. The genus <em>Neomeris</em> and notes on other Siphonales. <em>Bulletin of the Torrey Botanical Club</em> 36: 75–104.</p><p> https://doi.org/10.2307/2479015</p><p>Huerta-Múzquiz, L. (1958) Contribución al conocimiento de las algas marinas de los bajos de Campeche, Cozumel e Isla Mujeres. <em>Anales de la Escuela Nacional de Ciencias Biológicas del Instituto Politécnico Nacional </em>9: 115–123.</p><p>Huerta-Múzquiz, L. &amp; Garza-Barrientos, M.A. (1966) Algas marinas del litoral de Campeche. <em>Ciencia</em> 24: 193–200.</p><p>Huerta-Múzquiz, L. &amp; Garza-Barrientos, M.A. (1980) Contribución al conocimiento de la flora marina de la parte sur del litoral de Quintana Roo, México. <em>Anales de la Escuela Nacional de Ciencias Biológicas </em>23: 25–44.</p><p>Huerta-Múzquiz, L., Mendoza-González, A.C. &amp; Mateo-Cid, L.E. (1987) Avance sobre un estudio de las algas marinas de la península de Yucatán. <em>Phytologia </em>62: 23–53.</p><p>Jahnke, L.S. &amp; White, A.L. (2003) Long-term hyposaline and hypersaline stresses produce distinct antioxidant responses in the marine alga <em>Dunaliella tertiolecta</em>. <em>Journal of Plant Physiology</em> 160: 1193–1202.</p><p> https://doi.org/10.1078/0176-1617-01068</p><p>Kamer, K. &amp; Fong, P. (2000) A fluctuating salinity regime mitigates the negative effects of reduced salinity on the estuarine macroalga <em>Enteromorpha intestinalis</em>.<em> Journal of Experimental Marine Biology and Ecology</em> 254: 53–69.</p><p> https://doi.org/10.1016/S0022-0981(00)00262-8</p><p>Kooistra, W. (2002) Molecular phylogenies of Udoteaceae (Bryopsidales, Chlorophyta) reveal nonmonophyly for <em>Udotea</em>, <em>Penicillus </em>and <em>Chlorodesmis</em>. <em>Phycologia </em>41: 453–462.</p><p> https://doi.org/10.2216/i0031-8884-41-5-453.1</p><p>Lam, D.W. &amp; Zechman, F.W. (2006) Phylogenetic analyses of the Bryopsidales (Ulvophyceae, Chlorophyta) based on rubisco large subunit gene sequences. <em>Journal of Phycology </em>42: 669–678.</p><p> https://doi.org/10.1111/j.1529-8817.2006.00230.x</p><p>Lamouroux, J.V.F. (1812) Extrait d’un mémoire sur la classification des Polypiers coralligènes non entièrement pierreux. <em>Nouveaux Bulletin des Sciences, par la Société Philomathique de Paris </em>3: 181–188.</p><p>Lamouroux, J.V.F. (1816) <em>Histoire des polypiers coralligènes flexibles, vulgairement nommés zoophytes</em>. Caen: De l’imprimerie de F. Poisson.</p><p>Leliaert, F., Verbruggen, H., Vanormelingen, P., Steen, F., López-Bautista, J.M., Zucarello, G. &amp; De Clerck, O. (2014) DNA-based species delimitation in algae. <em>European Journal of Phycology </em>49: 179–196.</p><p> https://doi.org/10.1080/09670262.2014.904524</p><p>Littler, D.S. &amp; Littler, M.M. (1990) Systematics of <em>Udotea </em>(Bryopsidales, Chlorophyta) in the tropical western Atlantic. <em>Phycologia </em>29: 206–252.</p><p> https://doi.org/10.2216/i0031-8884-29-2-206.1</p><p>Lobban, C. &amp; Harrison, P. (1997) <em>Seaweed ecology and physiology</em>. Cambridge University Press. New York. 366 pp.</p><p>Lüning, K. (1990) <em>Seaweeds: their environment, biogeography, and ecophysioplogy</em>. John Wiley &amp; Sons, Inc, New York. 547 pp.</p><p>Mateo-Cid, L.E. &amp; Mendoza-González, A.C. (2007) Flora ficológica: Diversidad, importancia económica y conservación. <em>In</em>: Mejía-Ortiz, L. (Ed.) <em>Biodiversidad acuática de la Isla Cozumel</em>. Universidad de Quintana Roo-Plaza Valdés, Distrito Federal, pp. 81–113.</p><p>Mateo-Cid, L.E., Aguilar-Rosas, R., Mendoza-González, A.C. &amp; Aguilar-Rosas, L.E. (2008) Distribución y variación morfológica de <em>Amphiroa beauvoisii </em>(Corallinales, Rhodophyta) en México <em>Revista Mexicana de Biodiversidad </em>79: 7–22.</p><p>Mateo-Cid, L.E., Mendoza-González, A.C., Ávila-Ortiz, A. &amp; Díaz-Martínez, S. (2013) Algas marinas bentónicas del litoral de Campeche. <em>Acta Botánica Mexicana </em>104: 53–92.</p><p> https://doi.org/10.21829/abm104.2013.57</p><p>McDevit, D. &amp; Saunders, G. (2009) On the utility of DNA barcoding for species differentiation among brown macroalgae (Phaeophyceae) including a novel extraction protocol. <em>Phycological Research </em>57: 131–141.</p><p> https://doi.org/10.1111/j.1440-1835.2009.00530.x</p><p>Mendoza-González, A.C. &amp; Mateo-Cid, L.E. (1992) Algas marinas bentónicas de Isla Mujeres, Quintana Roo, México. <em>Acta Botánica Mexicana </em>19: 37–62.</p><p> https://doi.org/10.21829/abm19.1992.646</p><p>Mendoza-González, A.C., Mateo-Cid, L.E. &amp; Searles, R.B. (2000) New records of benthic marine algae from Isla Cozumel, México. Phaeophyta and Chlorophyta. <em>Bulletin of Marine Science </em>66: 119–130.</p><p>Mendoza-González, A.C., Mateo-Cid, L.E. &amp; López-Garrido, P.H. (2013) Algas marinas bentónicas asociadas a pecios y otras estructuras submareales de Campeche, México. <em>Acta Botánica Venezuelica</em> 36: 119–140.</p><p>Mendoza-González, A.C., Mateo-Cid, L.E., García-López, D.Y., Acosta-Calderón, J.A., Vázquez-Rodríguez, A., Hernández-Casas, C.M. &amp; Garduño-Acosta, A.G.A. (2016) Marine seaweeds of the Yucatan peninsula: diversity, economic importance and conservation. <em>In</em>: Riosmena-Rodríguez, R. (Ed.) <em>Marine Benthos</em>. Nova Science Publisher Inc, New York, pp. 39–83.</p><p>Moreira, A., Fujii, M., Suárez, A. &amp; Wynne, M. (2013) Nuevos registros de clorofitas marinas para Cuba. <em>Revista de Investigaciones Marinas </em>33: 13–16.</p><p>Nakatsu, T., Ravi, B. &amp; Faulkner, J. (1981) Antimicrobial constituents of <em>Udotea flabellum</em> <em>The Journal of Organic Chemistry</em> 46: 2435–2438.</p><p> https://doi.org/10.1021/jo00325a001</p><p>Norton, T.A., Mathieson, A.C. &amp; Neushul, M. (1981) Morphology and Environment. <em>In: </em>Lobban, C.S. &amp; Wynne, M. (Eds.) <em>The biology of seaweeds</em>. Blackwell Scientific Publications, Oxford, pp. 421–451.</p><p>Olsen-Stojkovich, J. (1985) A systematic study of the genus <em>Avrainvillea</em> Decaisne (Chlorophyta, Udoteaceae). <em>Nova Hedwigia</em> 41: 1–68.</p><p>Ortega, M., Godínez-Ortega, J. &amp; Garduño-Solórzano, G. (2001) <em>Catálogo de algas bénticas de las costas mexicanas del Golfo de México y Mar Caribe</em>. Cuadernos del Instituto de Biología de la Universidad Nacional Autónoma de México No. 34. Universidad Nacional Autónoma de México-Comisión Nacional para el Uso y Conservación de la Biodiversidad, 594 pp.</p><p>Ortegón-Aznar, I., González-González, J. &amp; Sentíes, A. (2001) Estudio ficoflorístico de la laguna de Río Lagartos, Yucatán, México. <em>Hidrobiológica</em> 11: 97–104.</p><p>Ortegón-Aznar, I. &amp; Aguilar-Perera, A. (2014) Distribución de las macroalgas en áreas naturales protegidas de la costa norte de la península de Yucatán, México. <em>Revista de Investigaciones Marinas</em> 34: 1–12.</p><p>Quiroz-González, N., León-Álvarez, D. &amp; Rivas-Acuña, M. (2017) Nuevos registros de algas verdes marinas (Ulvophyceae) para Tabasco, México. <em>Acta Botánica Mexicana </em>118: 121–138.</p><p> https://doi.org/10.21829/abm118.2017.1204</p><p>Paul, V. &amp; Fenical, W. (1986) Chemical defense in tropical Green algae, order Caulerpales. <em>Marine Ecology Progress Series </em>34: 157–169.</p><p> https://doi.org/10.3354/meps034157</p><p>Pereira, R.C. &amp; B.A. da Gamma. (2008) Macroalgal chemical defense and their roles in structuring tropical marine communities. <em>In</em>: Amsler, C.D. (Ed.) <em>Algal Chemical Ecology</em>. Springer. Heidelberg, Germany, pp. 25–55.</p><p>Pedroche, F., Silva, P., Aguilar-Rosas, L.E., Dreckmann, K. &amp; Aguilar-Rosas, R. (2005) Catálogo de algas marinas bentónicas del Pacífico Mexicano. I. Chlorophycota. México, D.F. Universidad Autónoma Metropolitana/ Universidad Autónoma de Baja California/ University of California, México, D. F., 135 pp.</p><p>Robinson, N., Galicia, C. &amp; Okolodkov, Y. (2012) New record of Green (Chlorophyta) and Brown algae (Phaeophyceae) for Cabezo reef, National Park Sistema Arrecifal Veracruzano, Gulf of Mexico. <em>Acta Botánica Mexicana</em> 101: 11–48.</p><p> https://doi.org/10.21829/abm101.2012.24</p><p>Rosado-Espinosa, L.A., Ortegón-Aznar, I. &amp; Ruiz Zarate, M.A. (2012) Caracterización estructural de los mantos algales como recurso natural explotable en el Área Natural Protegida de Dzilam de Bravo, Yucatán, México. <em>Proceedings of the 64th Gulf and Caribbean Fisheries Institute </em>64: 208–215.</p><p>Sánchez-Molina, I., González-Ceballos, J., Zetina-Moguel, C. &amp; Casanova-Cetz, R. (2007) Análisis de la biodiversidad de algas marinas situadas entre Uaymitún y Chuburná, Yucatán. <em>Ingeniería</em> 11: 43–51.</p><p>Saunders, G. (2008) A DNA barcode examination of the red algal family Dumontiaceae in Canadian waters reveals substantial cryptic species diversity. 1. The foliose Dilsea-Neodilsea complex and Weeksia. <em>Botany</em> 86: 773–789.</p><p> https://doi.org/10.1139/B08-001</p><p>Saunders, G. &amp; Kucera, H. (2010) An evaluation of <em>rbc</em>L, <em>tuf</em>A<em>, </em>UPA, LSU and ITS as DNA barcode markets for the marine green macroalgae. <em>Cryptogamie </em>31: 487–528.</p><p>Sentíes, A. &amp; Dreckmann, K. (2013) Lista actualizada de las macroalgas de Tabasco, Mexico. <em>Acta Botánica Venezuelica</em> 36: 109–117.</p><p>Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M. &amp; Kumar, S. (2011) MEGA5: Molecular Evolutionary Genetic Analysis using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods. <em>Molecular Biology and Evolution</em> 28: 2731–2739.</p><p> https://doi.org/10.1093/molbev/msr121</p><p>Tautz, D., Arctander, P., Minelli, A., Thomas, R. &amp; Vogler, A. (2003) A plea for DNA taxonomy. <em>Trends in Ecology and Evolution </em>18: 70–74.</p><p> https://doi.org/10.1016/S0169-5347(02)00041-1</p><p>Taylor, W.R. (1928) The marine algae of Florida with special reference to the Dry Tortugas. <em>Publications of the Carnegie Institution of Washington </em>379: [i–] v, [1]–219.</p><p>Taylor, W.R. (1960) <em>Marine algae of the eastern tropical and subtropical coasts of the Americas</em>. University of Michigan, Ann Arbor, USA. xi + 870 pp.</p><p>Taylor, R. (1972) Marine algae of the Smithsonian-Bredin expedition to Yucatán-1960. <em>Bulletin of Marine Science</em> 22: 34–44.</p><p>Toledo Ocampo, A. (1996) Marco conceptual: Caracterización ambiental del Golfo de México. <em>In:</em> Botello, A., Rojas, J., Benitez, J. &amp; Zarate, D. (Eds.)<em> Golfo de México, contaminación e impacto ambiental: diagnóstico y tendencias</em>. Universidad Autónoma de Campeche y EPOMEX, Campeche, México, pp. 1–24.</p><p>van der Loos, L.M., Prud´homme van Reine, W.F., Stokvis, F.R., Speksnijder, A.G. &amp; Howksema, B.W. (2017) Beta diversity of macroalgal communities around St. Eustatius, Dutch Caribbean, <em>Marine Biodiversity </em>47: 123–138.</p><p>Van Tussenbroek, B. &amp; Van Dijk, J. (2007) Spatial and temporal variability biomass and production of psammophytic <em>Halimeda</em> <em>incrassata </em>(Bryopsidales, Chlorophyta) in a Caribbean reef lagoon. <em>Journal of Phycology </em>43: 69–77.</p><p> https://doi.org/10.1111/j.1529-8817.2006.00307.x</p><p>Verbruggen, H., De Clerck, O., Cocquyt, E., Kooistra, W. &amp; Coppejans, E. (2005) Morphometric taxonomy of siphonous green algae: a methodological study within the genus <em>Halimeda </em>(Bryopsidales). <em>Journal of Phycology </em>41: 126–139.</p><p> https://doi.org/10.1111/j.1529-8817.2005.04080.x</p><p>Verbruggen, H., Ashwort, M., LoDuca, S., Vlaeminck, C., Cocquyt, E., Sauvage, T., Zechman, F., Littler, D., Littler, M., Leliaert, F. &amp; De Clerck, O. (2009a) A multi-locus time-calibrated phylogeny of the siphonous green algae. <em>Molecular Phylogenetics and Evolution </em>50: 642–653.</p><p> https://doi.org/10.1016/j.ympev.2008.12.018</p><p>Verbruggen, H., Vlaeminck, C., Sauvage, T., Sherwood, A., Leliaert, F. &amp; De Clerck, O. (2009b) Phylogenetic analysis of <em>Pseudochlorodesmis</em> strains reveals cryptic diversity above the family level in the siphonous green algae (Bryopsidales, Chlorophyta). <em>Journal of Phycology </em>45: 726–731.</p><p> https://doi.org/10.1111/j.1529-8817.2009.00690.x</p><p>Vergruggen, H. (2014) Morphological complexity, plasticity, and species diagnosability in the application of old species names in DNA-based taxonomy. <em>Journal of Phycology </em>50: 26–31.</p><p> https://doi.org/10.1111/jpy.12155</p><p>Vroom, P., Smith, C. &amp; Keely, S. (1998) Cladistics of the Bryopsidales: a preliminary analysis <em>Journal of Phycology </em>34: 351–360.</p><p> https://doi.org/10.1046/j.1529-8817.1998.340351.x</p><p>Ward, W.C., Weide, E. &amp; Back, W. (1985) <em>Geology and Hydrobiology of the Yucatan and Quaternary Geology of Northeastern Yucatan Peninsula</em>. NOGS Publications, New Orleans Geological Society, 149 pp.</p><p>Wilkinson, T., Wiken, E., Bezaury Creel, J., Hourigan, T., Agardy, T., Herrmann, H., Janishevski, L., Madden, C., Morgan, L. &amp; Padilla, M. (2009) <em>Ecorregiones marinas de América del Norte</em>. Comisión para la Cooperación Ambiental, Montreal, 200 pp.</p><p>Williams, S.L. (1990) Experimental studies of Caribbean seagrass bed development <em>Ecology Monography</em> 60: 449–469.</p><p>Wynne, M.J. (2017) A checklist of benthic marine algae of the tropical and subtropical western Atlantic: fourth revision. <em>Nova Hedwigia</em> <em>Beihefte</em> 145: 1–202.</p><p>Xia, J.R., Li, Y.J. &amp; Zou, D.H. (2004) Effects of salinity stress on PSII in <em>Ulva lactuca</em> as probed by chlorophyll fluorescence measurements. <em>Aquatic Botany</em> 80: 129–137.</p><p> https://doi.org/10.1016/j.aquabot.2004.07.006</p><p>Zechman, F. (2003) Phylogeny of the Dasycladales (Chlorophyta, Ulvophyceae) based on analyses of Rubisco Large Subunit (<em>rbc</em>L) gene sequences. <em>Journal of Phycology </em>39: 819–827.</p><p> https://doi.org/10.1046/j.1529-8817.2003.02183.x</p><p>Zieman, J.C., Fourqurean, J.W. &amp; Iverson, R.L. (1989) Distribution, abundance and productivity of seagrasses and macroalgae in Florida Bay. <em>Bulletin of</em> <em>Marine Science</em> 44: 292–311.</p><p>Zuccarello, G., Price, N., Verbruggen, H. &amp; Leliaert, F. (2009) Analysis of plastid multigene data set and the phylogenetic position of the marine macroalgae <em>Caulerpa filiformis </em>(Chlorophyta). <em>Journal of Phycology </em>45: 1206–1212.</p><p> https://doi.org/10.1111/j.1529-8817.2009.00731.x</p></p>
+					</div>
+		<br />
+		</div>
+	
+							<br />
+		<br />
+		DOI: <a id="pub-id::doi" href="https://doi.org/10.11646/phytotaxa.345.3.1">https://doi.org/10.11646/phytotaxa.345.3.1</a>																				
+
+<div class="separator"></div>
+
+<h3>Refbacks</h3>
+
+<ul>
+				<li>There are currently no refbacks.</li>
+	</ul>
+
+
+		
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_id=https%3A%2F%2Fwww.biotaxa.org%2FPhytotaxa%2Farticle%2Fview%2F33926&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.title=Phytotaxa&amp;rft.jtitle=Phytotaxa&amp;rft.atitle=%3Cp%3E%3Cstrong%3EDiversity+and+distribution+of+%3Cem%3EUdotea%3C%2Fem%3E+genus+J.V.+Lamouroux+%28Chlorophyta%2C+Udoteaceae%29+in+the+Yucatan+peninsula+littoral%2C+Mexico%3C%2Fstrong%3E%3C%2Fp%3E&amp;rft.artnum=phytotaxa.345.3.1&amp;rft.stitle=Phytotaxa&amp;rft.volume=345&amp;rft.issue=3&amp;rft.aulast=ACOSTA-CALDERON&amp;rft.aufirst=JULIO+ADULFO&amp;rft.auinit=&amp;rft.date=2018-03-27&amp;rft.au=JULIO+ADULFO+ACOSTA-CALDERON&amp;rft.au=C%C3%89SAR+HERN%C3%81NDEZ-RODR%C3%8DGUEZ&amp;rft.au=%C3%81NGELA+CATALINA+MENDOZA-GONZ%C3%81LEZ&amp;rft.au=LUZ+ELENA+MATEO-CID&amp;rft_id=info%3Adoi%2F10.11646%2Fphytotaxa.345.3.1&amp;rft.pages=179%E2%80%93218&amp;rft.issn=1179-3155&amp;rft.eissn=1179-3163"></span>
+<!-- Google Analytics -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89286081-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<!-- End Google Analytics -->
+<br /><br />
+<p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;"><img src="/public/site/images/mapress/mpicon.gif" alt="" /></span></p><p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN <span lang="EN-AU">1179-3155 (print); </span></span><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN 1179-3163 (online)</span></p><p>Published by <a title="Magnolia Press" href="http://www.mapress.com/phytotaxa/index.htm" target="_blank">Magnolia Press</a>, Auckland, New Zealand</p><div> </div>
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+<script type="text/javascript">
+
+<!--
+	// Open "Define Terms" context when double-clicking any text
+	function openSearchTermWindow(url) {
+		var term;
+		if (window.getSelection) {
+			term = window.getSelection();
+		} else if (document.getSelection) {
+			term = document.getSelection();
+		} else if(document.selection && document.selection.createRange && document.selection.type.toLowerCase() == 'text') {
+			var range = document.selection.createRange();
+			term = range.text;
+		}
+		if (term != ""){
+			if (url.indexOf('?') > -1) openRTWindowWithToolbar(url + '&defineTerm=' + term);
+			else openRTWindowWithToolbar(url + '?defineTerm=' + term);
+		}
+	}
+
+	if(document.captureEvents) {
+		document.captureEvents(Event.DBLCLICK);
+	}
+
+	// Make sure to only open the reading tools when double clicking within the galley
+	if (document.getElementById('inlinePdfResizer')) {
+		context = document.getElementById('inlinePdfResizer');
+	}
+	else if (document.getElementById('content')) {
+		context = document.getElementById('content');
+	}
+	else {
+		context = document;
+	}
+
+	context.ondblclick = new Function("openSearchTermWindow('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.345.3.1/0/446')");
+// -->
+
+</script>
+
+
+</div> <!-- container -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"4f72ad4ec1","applicationID":"416471445","transactionName":"ZF0AZkZRWRVUVEINDF0XN0BdH14IUVJOShNbSA==","queueTime":0,"applicationTime":380,"atts":"SBoDEA5LShs=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

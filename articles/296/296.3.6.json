@@ -1,0 +1,467 @@
+[
+  {
+    "author": [
+      {
+        "family": "Camus",
+        "given": "E.G."
+      }
+    ],
+    "title": "Les Bambusées: monographie, biologie, culture, principaux usages",
+    "publisher": "Paul Lechevalier, Paris",
+    "type": "book",
+    "issued": "1913",
+    "page": "215"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "The Bambuseae of British India. Annals of the Royal Botanic Garden",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Calcutta",
+    "issued": "1896",
+    "page": "77–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsueh",
+        "given": "C.J."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      }
+    ],
+    "title": "A study on the genus Dendrocalamus Nees from China I",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Journal of Bamboo Research",
+    "issue": "3",
+    "issued": "1988",
+    "page": "1–19"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsueh",
+        "given": "C.J."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      }
+    ],
+    "title": "A study on the genus Dendrocalamus Nees from China II",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Journal of Bamboo Research",
+    "issue": "4",
+    "issued": "1988",
+    "page": "9–19"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsueh",
+        "given": "C.J."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      }
+    ],
+    "title": "A study on the genus Dendrocalamus Nees from China III",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Journal of Bamboo Research",
+    "issue": "1",
+    "issued": "1989",
+    "page": "25–43"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsueh",
+        "given": "C.J."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      }
+    ],
+    "title": "Dendrocalamus Nees",
+    "editor": [
+      {
+        "family": "Keng",
+        "given": "P.C."
+      },
+      {
+        "family": "Wang",
+        "given": "Z.P."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1996",
+    "page": "152–196",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "D.Z."
+      },
+      {
+        "family": "Stapleton",
+        "given": "C."
+      }
+    ],
+    "title": "Dendrocalamus Nees",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Revan",
+        "given": "P."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2006",
+    "page": "39–49",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Mao",
+        "given": "W."
+      },
+      {
+        "family": "Yang",
+        "given": "H.Q."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      }
+    ],
+    "title": "Dendrocalamus xishuangbannaensis (Poaceae: Bambusoideae), a new species from Yunnan, China",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2009",
+    "page": "574–576",
+    "URL": "https://doi.org/10.5735/085.046.0612",
+    "DOI": "10.5735/085.046.0612"
+  },
+  {
+    "author": [
+      {
+        "family": "McClure",
+        "given": "F.A."
+      }
+    ],
+    "title": "New genera and species of Bambusaceae from eastern Asia",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Lingnan University Science Bulletin",
+    "issued": "1940",
+    "page": "1–67"
+  },
+  {
+    "author": [
+      {
+        "family": "Munro",
+        "given": "W."
+      }
+    ],
+    "title": "A monograph of the Bambusaceae: including descriptios of all the species",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "The Transactions of the Linnean Society of London",
+    "issued": "1868",
+    "page": "146–153",
+    "URL": "https://doi.org/10.1111/j.1096-3642.1968.tb00502.x",
+    "DOI": "10.1111/j.1096-3642.1968.tb00502.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Esenbeck",
+        "given": "C.C.G.",
+        "particle": "Nees von"
+      }
+    ],
+    "title": "Bambuseae Brasilienses",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1834",
+    "page": "476–477"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "H.N."
+      }
+    ],
+    "title": "Bamboos of Vietnam",
+    "publisher": "Agriculcutural Publishing House, Ha Noi",
+    "type": "book",
+    "issued": "2006",
+    "page": "199"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "V.T."
+      },
+      {
+        "family": "Xia",
+        "given": "N.H."
+      },
+      {
+        "family": "Le",
+        "given": "V.L."
+      }
+    ],
+    "title": "Dendrocalamus parvigemma sp. nov",
+    "note": "Gramineae: Bambusoideae",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "from Vietnam. Nordic Journal of Botany",
+    "issued": "2010",
+    "page": "221–223",
+    "URL": "https://doi.org/10.1111/j.1756-1051.2010.01002.x",
+    "DOI": "10.1111/j.1756-1051.2010.01002.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "V.T."
+      },
+      {
+        "family": "Le",
+        "given": "V.L."
+      },
+      {
+        "family": "Vu",
+        "given": "V.D."
+      },
+      {
+        "family": "Xia",
+        "given": "N.H."
+      }
+    ],
+    "title": "Dendrocalamus velutinus N.H",
+    "editor": [
+      {
+        "family": "Xia",
+        "given": "V.T.Nguyen"
+      },
+      {
+        "family": "Vu",
+        "given": "V.D."
+      }
+    ],
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Candollea",
+    "issued": "2012",
+    "page": "255–259",
+    "URL": "https://doi.org/10.15553/c2012v672a6",
+    "DOI": "10.15553/c2012v672a6"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "V.T."
+      },
+      {
+        "family": "Le",
+        "given": "V.L."
+      }
+    ],
+    "title": "Dendrocalamus nianhei (Poaceae: Bambusoideae), a new species from northern Vietnam",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2012",
+    "page": "428–431",
+    "URL": "https://doi.org/10.5735/085.049.0621",
+    "DOI": "10.5735/085.049.0621"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "V.T."
+      },
+      {
+        "family": "Xia",
+        "given": "N.H."
+      },
+      {
+        "family": "Nguyen",
+        "given": "H.N."
+      },
+      {
+        "family": "Le",
+        "given": "V.L."
+      }
+    ],
+    "title": "Three large-stature bamboo species of Dendrocalamus (Poaceae: Bambusoideae) from northern Vietnam",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "2013",
+    "page": "253–262",
+    "URL": "https://doi.org/10.3767/000651913X664595",
+    "DOI": "10.3767/000651913X664595"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "V.T."
+      },
+      {
+        "family": "Le",
+        "given": "V.L."
+      },
+      {
+        "family": "Vu",
+        "given": "V.D."
+      },
+      {
+        "family": "Xia",
+        "given": "N.H."
+      }
+    ],
+    "title": "Dendrocalamus longiligulatus sp.nov",
+    "note": "Poaceae: Bambusoideae) from Son La, Dien Bien province,",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Vietnam. Nordic Journal of Botany",
+    "issued": "2013",
+    "page": "607–611",
+    "URL": "https://doi.org/10.1111/j.1756-1051.2012.001646.x",
+    "DOI": "10.1111/j.1756-1051.2012.001646.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "V.T."
+      },
+      {
+        "family": "Xia",
+        "given": "N.H."
+      }
+    ],
+    "title": "A new bamboo species of Dendrocalamus Nees (Poaceae: Bambusoideae) from Yen Bai and Phu Tho provinces",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Vietnam. Adansonia",
+    "issued": "2013",
+    "page": "55–60",
+    "URL": "https://doi.org/10.5252/a2013n1a5",
+    "DOI": "10.5252/a2013n1a5"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "V.T."
+      },
+      {
+        "family": "Xia",
+        "given": "N.H."
+      },
+      {
+        "family": "Le",
+        "given": "V.L."
+      }
+    ],
+    "title": "Dendrocalamus longivaginatus (Poaceae, Bambusoideae",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "A new species from Vietnam. Novon",
+    "issued": "2014",
+    "page": "302–306",
+    "URL": "https://doi.org/10.3417/2012001",
+    "DOI": "10.3417/2012001"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohrnberger",
+        "given": "D."
+      }
+    ],
+    "title": "The bamboos of the world",
+    "publisher": "Elsevier Science B.V., Amsterdam",
+    "type": "book",
+    "issued": "1999",
+    "page": "585"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "H.Q."
+      },
+      {
+        "family": "Xie",
+        "given": "N."
+      },
+      {
+        "family": "Cui",
+        "given": "Y.Z."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      }
+    ],
+    "title": "Dendrocalamus yingjiangensis (Poaceae), a new species of bamboo from western Yunnan Province of China",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2015",
+    "page": "262–264",
+    "URL": "https://doi.org/10.5735/085.052.0319",
+    "DOI": "10.5735/085.052.0319"
+  }
+]

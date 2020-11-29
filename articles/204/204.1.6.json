@@ -1,0 +1,278 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barros",
+        "given": "F."
+      },
+      {
+        "family": "Vinhos",
+        "given": "F."
+      },
+      {
+        "family": "Rodrigues",
+        "given": "V.T."
+      },
+      {
+        "family": "Barberena",
+        "given": "F.F.V.A."
+      },
+      {
+        "family": "Fraga",
+        "given": "C.N."
+      },
+      {
+        "family": "Pessoa",
+        "given": "E.M."
+      },
+      {
+        "family": "Forster",
+        "given": "W."
+      },
+      {
+        "family": "Menini Neto",
+        "given": "L."
+      }
+    ],
+    "title": "Orchidaceae in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB11323"
+  },
+  {
+    "author": [
+      {
+        "family": "Bicalho",
+        "given": "A.D."
+      }
+    ],
+    "title": "Catasetum mattosianum n.sp",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Boletim da Sociedade Campineira de Orquídeas",
+    "issue": "1",
+    "issued": "1973",
+    "page": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Fidalgo",
+        "given": "O."
+      },
+      {
+        "family": "Bononi",
+        "given": "V.L.R."
+      }
+    ],
+    "title": "Técnicas de Coleta, preservação e herborização de material botânico",
+    "container-title": "Instituto de Botânica, São Paulo",
+    "type": "chapter",
+    "issued": "1989",
+    "page": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Bernet",
+        "given": "P."
+      },
+      {
+        "family": "Kratochvil",
+        "given": "K."
+      },
+      {
+        "family": "Gerlach",
+        "given": "G."
+      },
+      {
+        "family": "Carr",
+        "given": "G."
+      },
+      {
+        "family": "Alrich",
+        "given": "P."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Pfahl",
+        "given": "J."
+      },
+      {
+        "family": "Campacci",
+        "given": "M.A."
+      },
+      {
+        "family": "Baptista",
+        "given": "D.H."
+      },
+      {
+        "family": "Tigges",
+        "given": "H."
+      },
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Cribb",
+        "given": "P."
+      },
+      {
+        "family": "George",
+        "given": "A."
+      },
+      {
+        "family": "Kreuz",
+        "given": "K."
+      },
+      {
+        "family": "Wood",
+        "given": "J."
+      }
+    ],
+    "title": "World Checklist of Orchidaceae",
+    "note": "Facilitated by the Royal Botanic Gardens, Kew. Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "February",
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf."
+  },
+  {
+    "author": [
+      {
+        "family": "Petini-Benelli",
+        "given": "A."
+      },
+      {
+        "family": "Fernandes",
+        "given": "E.R."
+      },
+      {
+        "family": "Macedo",
+        "given": "M."
+      }
+    ],
+    "title": "O Gênero Catasetum em Mato Grosso, Brasil",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Orchidstudium – International Journal of Orchid Study",
+    "issued": "2007",
+    "page": "22–35"
+  },
+  {
+    "author": [
+      {
+        "family": "Petini-Benelli",
+        "given": "A."
+      }
+    ],
+    "title": "Orquídeas de Mato Grosso – Genus Catasetum L.C.Rich ex Kunth",
+    "genre": "PoD Editora,",
+    "publisher": "Rio de Janeiro",
+    "type": null,
+    "issued": "2012",
+    "page": "130"
+  },
+  {
+    "author": [
+      {
+        "family": "Piaia",
+        "given": "I.I."
+      }
+    ],
+    "title": "Geografia de Mato Grosso",
+    "publisher": "Ed. Unic",
+    "type": "book",
+    "issued": "1997",
+    "page": "202",
+    "publisher-place": "Cuiabá"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "G.A."
+      }
+    ],
+    "title": "Distribution [of Catasetum",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "container-title": "Genera orchidacearum 5, Epidendroideae (part two",
+    "publisher": "Oxford University",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "1–14",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Zappi",
+        "given": "D.C."
+      },
+      {
+        "family": "Sasaki",
+        "given": "D."
+      },
+      {
+        "family": "Milliken",
+        "given": "W."
+      },
+      {
+        "family": "Piva",
+        "given": "J."
+      },
+      {
+        "family": "Henicka",
+        "given": "G.S."
+      },
+      {
+        "family": "Biggs",
+        "given": "N."
+      },
+      {
+        "family": "Frisby",
+        "given": "S."
+      }
+    ],
+    "title": "Plantas vasculares da região do Parque Estadual Cristalino, norte de Mato Grosso, Brasil",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Acta Amazonica",
+    "issued": "2011",
+    "page": "29–38"
+  }
+]

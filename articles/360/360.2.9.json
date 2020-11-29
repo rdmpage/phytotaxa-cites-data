@@ -1,0 +1,952 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alves",
+        "given": "M."
+      },
+      {
+        "family": "Alves-Araújo",
+        "given": "A."
+      },
+      {
+        "family": "Amorim",
+        "given": "B."
+      },
+      {
+        "family": "Araújo",
+        "given": "A."
+      },
+      {
+        "family": "Araújo",
+        "given": "D.Araújo"
+      },
+      {
+        "family": "M.F.",
+        "given": "Buril"
+      },
+      {
+        "family": "M.T.",
+        "given": "Costa-Lima"
+      },
+      {
+        "family": "J.",
+        "given": "Garcia-González"
+      },
+      {
+        "family": "J.",
+        "given": "Gomes-Costa"
+      },
+      {
+        "family": "G.",
+        "given": "Melo"
+      },
+      {
+        "family": "A.",
+        "given": "Novaes"
+      },
+      {
+        "family": "J.",
+        "given": "Oliveira"
+      },
+      {
+        "family": "S.",
+        "given": "Pessoa"
+      },
+      {
+        "family": "E.",
+        "given": "Pontes"
+      },
+      {
+        "given": "T."
+      },
+      {
+        "family": "Rodrigues",
+        "given": "J."
+      }
+    ],
+    "title": "Inventário de Angiospermas dos fragmentos de Mata Atlântica da Usina São José, Igarassu, Pernambuco",
+    "editor": [
+      {
+        "family": "Buril",
+        "given": "M.T."
+      },
+      {
+        "family": "Melo",
+        "given": "A."
+      },
+      {
+        "family": "Alves-Araújo",
+        "given": "A."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "container-title": "Plantas da Mata Atlântica: Guia de Árvores e Arbustos da Usina São José (Pernambuco). Livro Rápido, Olinda",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "133–158"
+  },
+  {
+    "author": [
+      {
+        "family": "Amorim",
+        "given": "A.M."
+      },
+      {
+        "family": "Thomas",
+        "given": "W.W."
+      },
+      {
+        "family": "Carvalho",
+        "given": "A.M.V."
+      },
+      {
+        "family": "Jardim",
+        "given": "J.G."
+      }
+    ],
+    "title": "Floristics of the Una Biological Reserve",
+    "editor": [
+      {
+        "family": "Thomas",
+        "given": "W.W."
+      }
+    ],
+    "container-title": "The Atlantic Coastal Forest of Northeastern Brazil. The New York Botanical Garden Press",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "67–146",
+    "publisher-place": "Bahia, Brazil"
+  },
+  {
+    "author": [
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Flora da Usina São José, Igarassu, Pernambuco: Myrtaceae",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2011",
+    "page": "499–514",
+    "URL": "https://doi.org/10.1590/2175-7860201162306",
+    "DOI": "10.1590/2175-7860201162306"
+  },
+  {
+    "author": [
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "A new species of Eugenia (Myrteae, Myrtaceae) from the Brazilian Atlantic Forest",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2012",
+    "page": "694–698",
+    "URL": "https://doi.org/10.1600/036364412X648661",
+    "DOI": "10.1600/036364412X648661"
+  },
+  {
+    "author": [
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Myrtaceae from lowland Atlantic Forest areas in the State of Pernambuco, Northeastern Brazil",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "33–54",
+    "URL": "https://doi.org/10.11646/phytotaxa.40.1.6",
+    "DOI": "10.11646/phytotaxa.40.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Eugenia submontana (Myrteae, Myrtaceae), a new species from the Atlantic Forest of northeastern Brazil and notes on Eugenia culicina",
+    "volume": "208",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "209–216",
+    "URL": "https://doi.org/10.11646/phytotaxa.208.3.3",
+    "DOI": "10.11646/phytotaxa.208.3.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Two new species of the “Gomidesia clade” of Myrcia s.l. (Myrteae, Myrtaceae) from the Atlantic Forest of southern Bahia, Brazil",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2015",
+    "page": "311–318",
+    "URL": "https://doi.org/10.1007/s12228-015-9386-0",
+    "DOI": "10.1007/s12228-015-9386-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Martius, C.F.P. von, Flora brasiliensis",
+    "issued": "1859",
+    "page": "290–597"
+  },
+  {
+    "author": [
+      {
+        "given": "B.F.G."
+      }
+    ],
+    "title": "Growing knowledge: an overview of seed Plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2015",
+    "page": "1085–1113",
+    "URL": "https://doi.org/10.1590/2175-7860201566411",
+    "DOI": "10.1590/2175-7860201566411"
+  },
+  {
+    "author": [
+      {
+        "family": "Costa-Lima",
+        "given": "J.L."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "A new species of Erythroxylum (Erythroxylaceae) from the Brazilian Atlantic Forest",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "55–60",
+    "URL": "https://doi.org/10.11646/phytotaxa.141.1.4",
+    "DOI": "10.11646/phytotaxa.141.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernandes",
+        "given": "M.F."
+      },
+      {
+        "family": "Queiroz",
+        "given": "L.P."
+      }
+    ],
+    "title": "Floristic surveys of Restinga Forests in southern Bahia, Brazil, reveal the effects of geography on community composition",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2015",
+    "page": "51–73",
+    "URL": "https://doi.org/10.1590/2175-7860201566104",
+    "DOI": "10.1590/2175-7860201566104"
+  },
+  {
+    "author": [
+      {
+        "family": "Giaretta",
+        "given": "A."
+      },
+      {
+        "family": "Fraga",
+        "given": "C.N."
+      }
+    ],
+    "title": "Two new Eugenia species (Myrtaceae) from the Brazilian Atlantic Forest",
+    "volume": "163",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "113–120",
+    "URL": "https://doi.org/10.11646/phytotaxa.163.2.5",
+    "DOI": "10.11646/phytotaxa.163.2.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Giaretta",
+        "given": "A."
+      },
+      {
+        "family": "Peixoto",
+        "given": "A.L."
+      }
+    ],
+    "title": "Myrtaceae da restinga no norte do Espírito Santo, Brasil",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Boletim do Museu de Biologia Mello Leitão",
+    "issued": "2015",
+    "page": "45–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Gregório",
+        "given": "B.S."
+      },
+      {
+        "family": "Jacques",
+        "given": "E.L."
+      },
+      {
+        "family": "Costa",
+        "given": "J.A.S."
+      },
+      {
+        "family": "Rapini",
+        "given": "A."
+      }
+    ],
+    "title": "Begonia obdeltata (Begoniaceae), a new species from northeast Brazil",
+    "volume": "167",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "189–194",
+    "URL": "https://doi.org/10.11646/phytotaxa.167.2.5",
+    "DOI": "10.11646/phytotaxa.167.2.5"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List categories and criteria. Version 3.1",
+    "publisher": "IUCN Species Survival Commission",
+    "note": "Available from: http://intranet.iucn.org/webfiles/doc/SSC/Red List/Red Listcatsenglish.pdf (accessed 12 July 2018",
+    "type": "webpage",
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 12. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": "471",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Lourenço",
+        "given": "A.R."
+      },
+      {
+        "family": "Barbosa",
+        "given": "M.R."
+      }
+    ],
+    "title": "Myrtaceae Juss. em restingas no limite norte de distribuição da Mata Atlântica",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2012",
+    "page": "373– 393",
+    "URL": "https://doi.org/10.1590/S2175-78602012000200011",
+    "DOI": "10.1590/S2175-78602012000200011"
+  },
+  {
+    "author": [
+      {
+        "family": "Lourenço",
+        "given": "A.R.L."
+      },
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Eugenia pipensis, a new species of Eugenia sect",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Umbellatae (Myrtaceae) from northeastern Brazil. Phytotaxa",
+    "issued": "2013",
+    "page": "30–34",
+    "URL": "https://doi.org/10.11646/phytotaxa.104.1.4",
+    "DOI": "10.11646/phytotaxa.104.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "New Species of Eugenia sect. Racemosae (Myrtaceae) from the Atlantic Forest",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Eastern Brazil. Novon",
+    "issued": "2009",
+    "page": "80–84",
+    "URL": "https://doi.org/10.3417/2007034",
+    "DOI": "10.3417/2007034"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Bünger",
+        "given": "M.O."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Sections in Eugenia (Myrteae, Myrtaceae): nomenclatural notes and a key",
+    "volume": "289",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "225–236",
+    "URL": "https://doi.org/10.11646/phytotaxa.289.3.2",
+    "DOI": "10.11646/phytotaxa.289.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Melo",
+        "given": "A."
+      },
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Pessoa",
+        "given": "E."
+      },
+      {
+        "family": "Maciel",
+        "given": "J.R."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Serra do Urubu, a biodiversity hot-spot for angiosperms in the northern Atlantic Forest (Pernambuco, Brazil",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Checklist",
+    "issued": "2016",
+    "page": "1842",
+    "URL": "https://doi.org/10.15560/12.1.1842",
+    "DOI": "10.15560/12.1.1842"
+  },
+  {
+    "author": [
+      {
+        "family": "Murray-Smith",
+        "given": "C."
+      },
+      {
+        "family": "Brummitt",
+        "given": "N.A."
+      },
+      {
+        "family": "Oliveira-Filho",
+        "given": "A.T."
+      },
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Nic Lughadha",
+        "given": "E.M."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      }
+    ],
+    "title": "Plant diversity hotspots in the Atlantic coastal forests of Brazil",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Conservation Biology",
+    "issued": "2009",
+    "page": "151–163",
+    "URL": "https://doi.org/10.1111/j.1523-1739.2008.01075.x",
+    "DOI": "10.1111/j.1523-1739.2008.01075.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Nusbaumer",
+        "given": "L."
+      },
+      {
+        "family": "Barbosa",
+        "given": "M.R.V."
+      },
+      {
+        "family": "Thomas",
+        "given": "W.W."
+      },
+      {
+        "family": "Alves",
+        "given": "M.V."
+      },
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Pessoa",
+        "given": "E."
+      },
+      {
+        "family": "Melo",
+        "given": "A."
+      },
+      {
+        "family": "Loizeau",
+        "given": "P.-A."
+      },
+      {
+        "family": "Spichiger",
+        "given": "R."
+      }
+    ],
+    "title": "Inventário da Reserva Biológica de Pedra Talhada: Flora",
+    "editor": [
+      {
+        "family": "Studer",
+        "given": "A."
+      },
+      {
+        "family": "Nusbaumer",
+        "given": "L."
+      },
+      {
+        "family": "Spichiger",
+        "given": "R."
+      }
+    ],
+    "container-title": "Biodiversidade da Reserva Biológica de Pedra Talhada",
+    "volume": "68",
+    "type": "article-journal",
+    "issued": "2015",
+    "page": "439–547",
+    "publisher-place": "Alagoas, Pernambuco"
+  },
+  {
+    "author": [
+      {
+        "family": "Pessoa",
+        "given": "E."
+      },
+      {
+        "family": "Barros",
+        "given": "E.de"
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Specklinia integripetala and S. ianthiana spp",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Pleurothallidinae) from northeastern Brazil. Nordic Journal of Botany",
+    "issue": "v. (Orchidaceae ",
+    "issued": "2014",
+    "page": "129–132",
+    "URL": "https://doi.org/10.1111/j.1756-1051.2013.00183.x",
+    "DOI": "10.1111/j.1756-1051.2013.00183.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Pessoa",
+        "given": "E."
+      },
+      {
+        "family": "Félix",
+        "given": "L.P."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "A new Epidendrum (Laeliinae-Orchidaceae) from the Atlantic Forest of northeastern Brazil: Evidence from morphology and cytogenetics",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "4",
+    "issued": "2014",
+    "page": "347–352",
+    "URL": "https://doi.org/10.1007/s12228-014-9343-3",
+    "DOI": "10.1007/s12228-014-9343-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Pessoa",
+        "given": "E."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "A new Campylocentrum (Vandeae; Epidendroideae; Orchidaceae) from submontane Atlantic Forest of northeastern Brazil",
+    "volume": "197",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2015",
+    "page": "54–58",
+    "URL": "https://doi.org/10.11646/phytotaxa.197.1.6",
+    "DOI": "10.11646/phytotaxa.197.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Siqueira-Filho",
+        "given": "J.A."
+      },
+      {
+        "family": "Leme",
+        "given": "E.M.C."
+      }
+    ],
+    "title": "Fragmentos de Mata Atlântica do nordeste",
+    "publisher": "Andrea Jakobson Estúdio, Rio de Janeiro",
+    "type": "book",
+    "issued": "2006",
+    "page": "416"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Eugenia inversa (Myrtaceae), a new species from Espírito Santo, Brazil",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Sida",
+    "issued": "2005",
+    "page": "1465–1469"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Ten new Myrtaceae from eastern and northeastern Brazil",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal of the Botanical Reasearch Institute of Texas",
+    "issued": "2010",
+    "page": "133–158"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Eight new Atlantic Rainforest species and nomenclatural notes in Brazilian Myrtaceae",
+    "volume": "135",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "43–61",
+    "URL": "https://doi.org/10.11646/phytotaxa.135.1.6",
+    "DOI": "10.11646/phytotaxa.135.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Souza",
+        "given": "M.C."
+      }
+    ],
+    "title": "Two New Species of Eugenia (Myrtaceae) from Coastal Brazilian Rainforest",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2015",
+    "page": "442–446",
+    "URL": "https://doi.org/10.3417/2010087",
+    "DOI": "10.3417/2010087"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Grippa",
+        "given": "C.R."
+      },
+      {
+        "family": "Souza",
+        "given": "M.C."
+      },
+      {
+        "family": "Aguiar",
+        "given": "O.T."
+      },
+      {
+        "family": "Bertoncello",
+        "given": "R."
+      },
+      {
+        "family": "Guimarães",
+        "given": "T.B."
+      }
+    ],
+    "title": "Fourteen new species and two taxonomic notes on Brazilian Myrtaceae",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "19–50",
+    "URL": "https://doi.org/10.11646/phytotaxa.50.1.3",
+    "DOI": "10.11646/phytotaxa.50.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Ibrahim",
+        "given": "M.U."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Rigueira",
+        "given": "D."
+      },
+      {
+        "family": "Stadnik",
+        "given": "A."
+      },
+      {
+        "family": "Villaroel",
+        "given": "D."
+      }
+    ],
+    "title": "Thirteen new Myrtaceae from Bahia, Brazil",
+    "volume": "224",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2015",
+    "page": "201–231",
+    "URL": "https://doi.org/10.11646/phytotaxa.224.3.1",
+    "DOI": "10.11646/phytotaxa.224.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Sothers",
+        "given": "C.A."
+      }
+    ],
+    "title": "New species of Diospyros (Ebenaceae) from Brazil",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2003",
+    "page": "473–477",
+    "URL": "https://doi.org/10.2307/4120631",
+    "DOI": "10.2307/4120631"
+  },
+  {
+    "author": [
+      {
+        "family": "Stehmann",
+        "given": "J."
+      },
+      {
+        "family": "Forzza",
+        "given": "R.C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Kamino",
+        "given": "L.H.Y."
+      }
+    ],
+    "title": "Gimnospermas e Angiospermas",
+    "editor": [
+      {
+        "family": "Stehmann",
+        "given": "J."
+      },
+      {
+        "family": "Forzza",
+        "given": "R.C."
+      },
+      {
+        "family": "Salino",
+        "given": "A."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Costa",
+        "given": "D.P."
+      },
+      {
+        "family": "Kamino",
+        "given": "L.H.Y."
+      }
+    ],
+    "container-title": "Plantas da Floreta Atlântica. Jardim Botânico do Rio de Janeiro, Rio de Janeiro",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "27–37"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.S.P."
+      }
+    ],
+    "title": "Facilitated by the Royal Botanic Gardens",
+    "note": "Kew. Published on the Internet:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://apps.kew.org/wcsp/."
+  }
+]

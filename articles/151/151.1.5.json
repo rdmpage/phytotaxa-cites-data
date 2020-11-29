@@ -1,0 +1,115 @@
+[
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Myrtaceae",
+    "container-title": "Prodromus Systematis Universalis Regni Vegetabilis",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1828",
+    "page": "207–296"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 8.1",
+    "container-title": "Prepared by the Standards and Petitions Subcommittee in",
+    "note": "Available from",
+    "type": "chapter",
+    "issued": "2010",
+    "URL": "http://intranet.iucn.org/webfiles/doc/SSC/RedList/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "1. L",
+    "type": null,
+    "issued": "1753",
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Proença",
+        "given": "C."
+      },
+      {
+        "family": "Souza",
+        "given": "M."
+      },
+      {
+        "family": "Mazine",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Myrtaceae",
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from",
+    "type": "chapter",
+    "issued": "2013",
+    "URL": "http://floradobrasil.jbrj.gov.br/2012/FB010338."
+  },
+  {
+    "author": [
+      {
+        "family": "Merwe",
+        "given": "M.M.",
+        "particle": "van der"
+      },
+      {
+        "family": "Wyk",
+        "given": "A.E.",
+        "particle": "van"
+      },
+      {
+        "family": "Botha",
+        "given": "A.M."
+      }
+    ],
+    "title": "Molecular phylogenetic analysis of Eugenia L",
+    "volume": "251",
+    "type": "article-journal",
+    "container-title": "Myrtaceae), with emphasis on southern African taxa. Plant Systematics and Evolution",
+    "issued": "2005",
+    "page": "21–34",
+    "URL": "http://dx.doi.org/10.1007/s00606-004-0160-0",
+    "DOI": "10.1007/s00606-004-0160-0"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.S.P."
+      }
+    ],
+    "title": "World Checklist of Selected Plant Families",
+    "note": "Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet;",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://apps.kew.org/wcsp/."
+  }
+]

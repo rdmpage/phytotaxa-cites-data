@@ -1,0 +1,581 @@
+[
+  {
+    "author": [
+      {
+        "family": "Comber",
+        "given": "H.F."
+      }
+    ],
+    "title": "Diagnoses specierum novarum in herbario Horti Regii Botanici Edinburgensis cognitarum DCI–DCXIII",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden Edinburgh",
+    "issued": "1934",
+    "page": "221–249"
+  },
+  {
+    "author": [
+      {
+        "family": "Craib",
+        "given": "W.G."
+      }
+    ],
+    "title": "Contributions to the flora of Siam. Additamentum XVIII",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1926",
+    "page": "154–174",
+    "URL": "https://doi.org/10.2307/4118686",
+    "DOI": "10.2307/4118686"
+  },
+  {
+    "author": [
+      {
+        "family": "Grey-Wilson",
+        "given": "C."
+      }
+    ],
+    "title": "Impatiens of Africa",
+    "volume": "Rotterdam",
+    "type": "article-journal",
+    "container-title": "Balkema",
+    "issued": "1980",
+    "page": "235"
+  },
+  {
+    "author": [
+      {
+        "family": "Grey-Wilson",
+        "given": "C."
+      }
+    ],
+    "title": "The Impatiens jurpia Complex: Studies in Balsaminaceae: X",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "1",
+    "issued": "1989",
+    "page": "115–122",
+    "URL": "https://doi.org/10.2307/4114648",
+    "DOI": "10.2307/4114648"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Impatiens L",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "publisher": "L. Reeve & Co",
+    "type": "book",
+    "issued": "1875",
+    "page": "465–483",
+    "publisher-place": "London, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Thomson",
+        "given": "T."
+      }
+    ],
+    "title": "Praecursores ad Floram Indicam–Balsaminaceae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "The Journal of the Linnean Society",
+    "issued": "1860",
+    "page": "106–157"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "An epitome of the British Indian species of Impatiens",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Records of the Botanical Survey of India",
+    "issue": "2",
+    "issued": "1905",
+    "page": "11–35"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J."
+      },
+      {
+        "family": "F",
+        "given": "Ronquist"
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogenetic trees",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Janssens",
+        "given": "S.B."
+      },
+      {
+        "family": "Geuten",
+        "given": "K."
+      },
+      {
+        "family": "Yuan",
+        "given": "Y.M."
+      },
+      {
+        "family": "Küpfer",
+        "given": "P."
+      },
+      {
+        "family": "Smets",
+        "given": "E.F."
+      }
+    ],
+    "title": "Phylogenetics of Impatiens and Hydrocera using plastid atpB-rbcL spacer sequences",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2006",
+    "page": "171–180",
+    "URL": "https://doi.org/10.1600/036364406775971796",
+    "DOI": "10.1600/036364406775971796"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Misawa",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2002",
+    "page": "3059–3066",
+    "URL": "https://doi.org/10.1093/nar/gkf436",
+    "DOI": "10.1093/nar/gkf436"
+  },
+  {
+    "author": [
+      {
+        "family": "Kress",
+        "given": "J."
+      },
+      {
+        "family": "De Filipps",
+        "given": "R.A."
+      },
+      {
+        "family": "Farr",
+        "given": "E."
+      },
+      {
+        "family": "Kyi",
+        "given": "Y.Y."
+      }
+    ],
+    "title": "A checklist of the trees, shrubs, herb and climbers of Myanmar",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Contributions from the United States National Herbarium",
+    "issued": "2003",
+    "page": "1–590"
+  },
+  {
+    "author": [
+      {
+        "family": "Linneaus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 2",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "639"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.E."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "note": "Regnum Vegetabile 154.",
+    "publisher": "A.R.G. Gantner Verlag, Ruggell",
+    "type": null,
+    "issued": "2012",
+    "page": "240",
+    "publisher-place": "Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "Decades Kewenses",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1914",
+    "page": "323–332"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruchisansakun",
+        "given": "S."
+      },
+      {
+        "family": "Tangtorwongsakul",
+        "given": "P."
+      },
+      {
+        "family": "Cozien",
+        "given": "R.J."
+      },
+      {
+        "family": "Smets",
+        "given": "E.F."
+      },
+      {
+        "family": "Niet",
+        "given": "T.",
+        "particle": "Van der"
+      }
+    ],
+    "title": "Floral specialization for different pollinators and divergent use of the same pollinator among co–occurring Impatiens species (Balsaminaceae) from Southeast Asia",
+    "volume": "181",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2016",
+    "page": "651–666",
+    "URL": "https://doi.org/10.1111/boj.12427",
+    "DOI": "10.1111/boj.12427"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruchisansakun",
+        "given": "S."
+      },
+      {
+        "family": "Suksathsan",
+        "given": "P."
+      },
+      {
+        "family": "Van Der Niet",
+        "given": "T."
+      },
+      {
+        "given": "Saw-Lwin"
+      },
+      {
+        "family": "Janssens",
+        "given": "S.B."
+      }
+    ],
+    "title": "Impatiens tanintharyiensis (Balsaminaceae), a new species from southern Myanmar",
+    "volume": "296",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2017",
+    "page": "171–179",
+    "URL": "https://doi.org/10.11646/phytotaxa.296.2.6",
+    "DOI": "10.11646/phytotaxa.296.2.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      },
+      {
+        "family": "Sugawara",
+        "given": "T."
+      },
+      {
+        "family": "Aung",
+        "given": "Mu Mu"
+      },
+      {
+        "family": "Murata",
+        "given": "J."
+      }
+    ],
+    "title": "Impatiens kingdon–wardii (Balsaminaceae), a new species from Mt",
+    "volume": "234",
+    "type": "article-journal",
+    "container-title": "Victoria (Natma Taung), Myanmar. Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "90–94",
+    "URL": "https://doi.org/10.11646/phytotaxa.234.1.7",
+    "DOI": "10.11646/phytotaxa.234.1.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Toppin",
+        "given": "S.M."
+      }
+    ],
+    "title": "Notes on the balsams of Chitral and the Kachin Hills",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Kew",
+    "issued": "1920",
+    "page": "345–367",
+    "URL": "https://doi.org/10.2307/4118598",
+    "DOI": "10.2307/4118598"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Balsaminaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Prodromus Florae Peninsula Indiae Orientalis",
+    "issued": "1834",
+    "page": "134–141"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "B."
+      },
+      {
+        "family": "Zhou",
+        "given": "S.S."
+      },
+      {
+        "family": "Maung",
+        "given": "Kyaw Win"
+      },
+      {
+        "family": "Y.H",
+        "given": "Tan"
+      }
+    ],
+    "title": "Two new species of Impatiens (Balsaminaceae) from Putao, Kachin State, northern Myanmar",
+    "volume": "321",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2017",
+    "page": "103–113",
+    "URL": "https://doi.org/10.11646/phytotaxa.321.1.4",
+    "DOI": "10.11646/phytotaxa.321.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "S.X."
+      },
+      {
+        "family": "Janssens",
+        "given": "S.B."
+      },
+      {
+        "family": "Zhu",
+        "given": "X.Y."
+      },
+      {
+        "family": "Lidén",
+        "given": "M."
+      },
+      {
+        "family": "Gao",
+        "given": "T.G."
+      },
+      {
+        "family": "Wang",
+        "given": "W."
+      }
+    ],
+    "title": "Phylogeny of Impatiens (Balsaminaceae): integrating molecular and morphological evidence into a new classification",
+    "volume": "2015",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "2015",
+    "page": "1–19",
+    "URL": "https://doi.org/10.1111/cla.12119",
+    "DOI": "10.1111/cla.12119"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bonnier",
+        "given": "G."
+      },
+      {
+        "family": "Layens",
+        "given": "G."
+      }
+    ],
+    "title": "Tableaux Synoptiques des Plantes Vasculaires de la Flore de la France",
+    "publisher": "Éditeur Paul Dupont, Paris",
+    "type": "book",
+    "issued": "1894",
+    "page": "416"
+  },
+  {
+    "author": [
+      {
+        "family": "Conti",
+        "given": "F."
+      },
+      {
+        "family": "Abbate",
+        "given": "G."
+      },
+      {
+        "family": "Alessandrini",
+        "given": "A."
+      },
+      {
+        "given": "Blasi"
+      }
+    ],
+    "editor": [
+      {
+        "given": "C."
+      }
+    ],
+    "title": "An annotated checklist of the Italian vascular flora",
+    "volume": "Roma",
+    "type": "article-journal",
+    "container-title": "Palombi Editori",
+    "issued": "2005",
+    "page": "420"
+  },
+  {
+    "author": [
+      {
+        "family": "Hand",
+        "given": "R."
+      }
+    ],
+    "title": "Smyrnium L",
+    "note": "Euro+Med Plantbase. Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/PTaxonDetail.asp?NameCache=Smyrnium&PTRefFk=7500000"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartvig",
+        "given": "P."
+      }
+    ],
+    "title": "Smyrnium L",
+    "editor": [
+      {
+        "family": "Strid",
+        "given": "A."
+      }
+    ],
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "1986",
+    "page": "671–672",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The Gardeners Dictionary",
+    "editor": [
+      {
+        "literal": "ed. 8. J. & F. Rivington"
+      }
+    ],
+    "note": "unnumbered].",
+    "type": null,
+    "issued": "1768",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Raimondo",
+        "given": "F.M."
+      },
+      {
+        "family": "Mazzola",
+        "given": "P."
+      },
+      {
+        "family": "Spadaro",
+        "given": "V."
+      }
+    ],
+    "title": "A new species of Smyrnium (Apiaceae) related to S",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "perfoliatum. Flora Mediterranea",
+    "issued": "2015",
+    "page": "137–142"
+  },
+  {
+    "author": [
+      {
+        "family": "Reduron",
+        "given": "J.-P."
+      }
+    ],
+    "title": "Ombellifères de France 5. Bulletin de la Société Botanique du Centre-Ouest",
+    "collection-title": "new series",
+    "volume": "30",
+    "type": null,
+    "issued": "2008",
+    "page": "1–655"
+  }
+]

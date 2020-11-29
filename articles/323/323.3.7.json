@@ -1,0 +1,202 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clavijo",
+        "given": "L."
+      },
+      {
+        "family": "Clark",
+        "given": "J.L."
+      },
+      {
+        "family": "Skog",
+        "given": "L.E."
+      }
+    ],
+    "title": "Gesneriaceae",
+    "editor": [
+      {
+        "family": "Bernal",
+        "given": "R."
+      },
+      {
+        "family": "Gradstein",
+        "given": "R."
+      },
+      {
+        "family": "Celis",
+        "given": "M."
+      }
+    ],
+    "container-title": "Catálogo de las Plantas y Líquenes de Colombia. Universidad Nacional de Colombia (sede Bogotá). Facultad de Ciencias. Instituto de Ciencias Naturales",
+    "type": "chapter",
+    "issued": "2016",
+    "page": "1356–1388"
+  },
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "J.L."
+      }
+    ],
+    "title": "Colombia–an unexplored biodiversity hotspot revisited after 25 years",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Gesneriads",
+    "issued": "2012",
+    "page": "40–47"
+  },
+  {
+    "author": [
+      {
+        "family": "Feuillet",
+        "given": "C."
+      },
+      {
+        "family": "Skog",
+        "given": "L.E."
+      }
+    ],
+    "title": "Novae Gesneriaceae Neotropicarum XI. New Genera and Species from the Guianas",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2003",
+    "page": "344–351",
+    "URL": "https://doi.org/10.1663/0007-196X(2003)54",
+    "DOI": "10.1663/0007-196X(2003)54"
+  },
+  {
+    "author": [
+      {
+        "family": "Fritsch",
+        "given": "K."
+      }
+    ],
+    "title": "Zur Kenntnis der Gattung Besleria",
+    "container-title": "Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "11",
+    "type": "chapter",
+    "issued": "1934",
+    "page": "961–977",
+    "URL": "https://doi.org/10.2307/3994602",
+    "DOI": "10.2307/3994602"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1. Prepared by the IUCN Species Survival Commission",
+    "publisher": "International Union for Conservation of Nature and Natural Resources",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Leeuwenberg",
+        "given": "A.J.M."
+      }
+    ],
+    "title": "Tylopsacas nom. nov",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1960",
+    "page": "220–221"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Gesneriaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Species Plantarum. Ed",
+    "issued": "1753",
+    "page": "618–619",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Möller",
+        "given": "M."
+      },
+      {
+        "family": "Clark",
+        "given": "J.L."
+      }
+    ],
+    "title": "The state of molecular studies in the family Gesneriaceae: A review",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "2013",
+    "page": "95–125"
+  },
+  {
+    "author": [
+      {
+        "family": "Skog",
+        "given": "L.E."
+      },
+      {
+        "family": "Kvist",
+        "given": "L.P."
+      }
+    ],
+    "title": "Novae Gesneriaceae neotropicarum IX: Cremospermopsis, a new genus from Colombia",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2002",
+    "page": "262–269",
+    "URL": "https://doi.org/10.2307/3392965",
+    "DOI": "10.2307/3392965"
+  },
+  {
+    "author": [
+      {
+        "family": "Weber",
+        "given": "A."
+      },
+      {
+        "family": "Clark",
+        "given": "J.L."
+      },
+      {
+        "family": "Möller",
+        "given": "M."
+      }
+    ],
+    "title": "A new formal classification of Gesneriaceae",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "2013",
+    "page": "68–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiehler",
+        "given": "H."
+      }
+    ],
+    "title": "Report on a brief trip to Colombia",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Gloxinian",
+    "issued": "1987",
+    "page": "33–34"
+  }
+]

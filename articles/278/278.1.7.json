@@ -1,0 +1,229 @@
+[
+  {
+    "author": [
+      {
+        "family": "Arduino",
+        "given": "P."
+      }
+    ],
+    "title": "Animadversionum Botanicarum Specimen Alterum",
+    "volume": "Veneza",
+    "type": "article-journal",
+    "container-title": "Typographia Sansoniana",
+    "issued": "1764",
+    "page": "42"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis 5",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1836",
+    "page": "706",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G.de"
+      }
+    ],
+    "title": "Sixième mémoire sur la famille des Synanthérées, contenant les caractères des tribus",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Journal de Physique, de Chimie, d ́Histoire Naturelle et des Arts",
+    "issued": "1819",
+    "page": "150–163"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "G."
+      }
+    ],
+    "title": "Contributions towards a Flora of Brazil",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "London Journal of Botany",
+    "issued": "1848",
+    "page": "395–425"
+  },
+  {
+    "author": [
+      {
+        "family": "Guettard",
+        "given": "J.E."
+      }
+    ],
+    "title": "Huitième mémoire sur les glandes des plants. Histoire de l’Academie Royale des Sciences",
+    "volume": "1750",
+    "type": "article-journal",
+    "container-title": "Avec les Mémoires de Mathematique & de Physique",
+    "issued": "1754",
+    "page": "345–384"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "R.R."
+      }
+    ],
+    "title": "Monograph of the Plant Genus Porophyllum (Compositae-Helenieae",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "The University of Kansas Science Bulletin",
+    "issue": "7",
+    "issued": "1969",
+    "page": "225–267"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Mantissa Plantarum",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1767",
+    "page": "143"
+  },
+  {
+    "author": [
+      {
+        "family": "Malme",
+        "given": "G.O.A."
+      }
+    ],
+    "title": "Die Compositen der zeeiten Regnellschen Reise. I",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Rio Grande do Sul. Arkiv för Botanik",
+    "issue": "6",
+    "issued": "1931",
+    "page": "1–89"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakajima",
+        "given": "J.N."
+      }
+    ],
+    "title": "Porophyllum in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB16262"
+  },
+  {
+    "author": [
+      {
+        "family": "Petenatti",
+        "given": "E.M."
+      },
+      {
+        "family": "Ariza-Espinar",
+        "given": "L."
+      }
+    ],
+    "title": "Asteraceae, parte 6",
+    "editor": [
+      {
+        "literal": "Tribu VI. Helenieae. In: Hunziker, A.T. (Ed."
+      }
+    ],
+    "container-title": "Flora Fanerogámica Argentina 45. Programa Proflora (CONICET), Córdoba",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "1–34"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "C.P.J."
+      }
+    ],
+    "title": "Systema Vegetabilium",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "volume": "16",
+    "publisher": "Sumtibus Librariae Dieterichianae, Gottingae",
+    "type": "book",
+    "issued": "1826",
+    "page": "3",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.822",
+    "DOI": "10.5962/bhl.title.822"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature. In: A selective guide to botanical publications and collections with dates, commentaries and types",
+    "edition": "Second",
+    "publisher": "A–G. Bohn, Scheltema & Holkema",
+    "type": "book",
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Volume I",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.48631",
+    "DOI": "10.5962/bhl.title.48631"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated) Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "editor": [
+      {
+        "family": "Zuloaga",
+        "given": "F.O."
+      },
+      {
+        "family": "Morrone",
+        "given": "O."
+      },
+      {
+        "family": "Belgrano",
+        "given": "M.J."
+      }
+    ],
+    "title": "Catálogo de las Plantas Vasculares del Cono Sur",
+    "note": "y Uruguay). Available from:",
+    "type": null,
+    "issued": "2016",
+    "publisher-place": "Argentina, Sur de Brasil, Chile, Paraguay",
+    "URL": "http://www2.darwin.edu.ar/Proyectos/FloraArgentina/Especies.asp?Letra=P"
+  }
+]

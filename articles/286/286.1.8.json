@@ -1,0 +1,119 @@
+[
+  {
+    "author": [
+      {
+        "family": "Finet",
+        "given": "A.E."
+      },
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Contributions a la flore de l’Asie orientale d’aprés l’herbier du muséum de Paris",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1903",
+    "page": "600–625",
+    "URL": "https://doi.org/10.1080/00378941.1903.10831074",
+    "DOI": "10.1080/00378941.1903.10831074"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Plantae Davidianae ex Sinarum Imperio",
+    "container-title": "Nouvelles Archives du Muséum d’Histoire Naturelle, sér",
+    "volume": "2 8",
+    "type": "chapter",
+    "issued": "1885",
+    "page": "183–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "D.Z."
+      },
+      {
+        "family": "Zhu",
+        "given": "G.H."
+      }
+    ],
+    "title": "Thalictrum L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "6",
+    "publisher": "Science Press, Beijing and Missouri Botanical Garden Press, St. Louis",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "289–311"
+  },
+  {
+    "author": [
+      {
+        "family": "Tao",
+        "given": "G.F."
+      }
+    ],
+    "title": "New taxa of Ranunculaceae from Hubei",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1984",
+    "page": "423–425"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      }
+    ],
+    "title": "Notulae de Ranunculaceis Sinensibus (IV",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Laboratory of North-Eastern Forestry Institute",
+    "issued": "1980",
+    "page": "15–37"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      },
+      {
+        "family": "Wang",
+        "given": "S.H."
+      }
+    ],
+    "title": "Thalictrum L",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "27",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1979",
+    "page": "537–538",
+    "publisher-place": "Beijing"
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.",
+        "particle": "de"
+      }
+    ],
+    "title": "Begoniaceae",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "issue": "1",
+    "issued": "1864",
+    "page": "266–408"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "C.",
+        "particle": "de"
+      }
+    ],
+    "title": "Begoniaceae novae",
+    "volume": "Ser II 8",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Herbier Boissier",
+    "issued": "1908",
+    "page": "309–328"
+  },
+  {
+    "author": [
+      {
+        "family": "Doorenbos",
+        "given": "J.M."
+      },
+      {
+        "family": "Sosef",
+        "given": "M.S."
+      },
+      {
+        "family": "De Wilde",
+        "given": "J.J.F.E."
+      }
+    ],
+    "title": "The Sections of Begonia including descriptions, keys and species lists. Studies in Begoniaceae VI",
+    "volume": "98",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Wageningen Agricultural University Papers",
+    "issue": "2",
+    "issued": "1998",
+    "page": "1–266",
+    "URL": "http://www.cabdirect.org/abstracts/19990301140.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J."
+      }
+    ],
+    "title": "Bericht über die zur Bekanntmachung geeigneten Verhandlungen der Königlich Preussischen Akademie der Wissenschaften zu",
+    "type": null,
+    "issued": "1854",
+    "page": "119–128",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum, exhibentes plantas rite cognitas, ad genera relatas, cum differentiies specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas 1",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Forman",
+        "given": "L."
+      },
+      {
+        "family": "Bridson",
+        "given": "D."
+      }
+    ],
+    "title": "The Herbarium Handbook",
+    "publisher": "Royal Botanic Gardens, Kew",
+    "type": "book",
+    "issued": "1989",
+    "page": "214"
+  },
+  {
+    "author": [
+      {
+        "family": "Hughes",
+        "given": "M."
+      },
+      {
+        "family": "Moonlight",
+        "given": "P."
+      },
+      {
+        "family": "Jara",
+        "given": "A."
+      },
+      {
+        "family": "Tebbitt",
+        "given": "M."
+      },
+      {
+        "family": "Pullan",
+        "given": "M."
+      }
+    ],
+    "title": "Begonia Resource Centre",
+    "note": "Online database available from",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://elmer.rbge.org.uk/begonia/"
+  },
+  {
+    "author": [
+      {
+        "given": "I.D.E.A.M."
+      }
+    ],
+    "title": "Leyenda Nacional de Coberturas de la Tierra. Metodología CORINE Land Cover adaptada para Colombia Escala 1:100.000",
+    "container-title": "Instituto de Hidrología, Meteorología y Estudios Ambientales, Bogotá",
+    "volume": "D",
+    "issue": "C.",
+    "type": "article-journal",
+    "issued": "2010",
+    "page": "72"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "L.B."
+      },
+      {
+        "family": "Schubert",
+        "given": "B.G."
+      }
+    ],
+    "title": "The Begoniaceae of Colombia",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Caldasia",
+    "issued": "1946",
+    "page": "1–209"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "L.B."
+      }
+    ],
+    "title": "Herbarium notes",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1973",
+    "page": "418–419"
+  },
+  {
+    "author": [
+      {
+        "family": "Vásquez",
+        "given": "V."
+      },
+      {
+        "family": "Serrano",
+        "given": "M."
+      }
+    ],
+    "title": "Las Áreas Naturales Protegidas de Colombia",
+    "editor": [
+      {
+        "literal": "Conservación Internacional–Colombia & Fundación Biocolombia, Bogotá"
+      }
+    ],
+    "volume": "D",
+    "issue": "C.",
+    "type": null,
+    "issued": "2009",
+    "page": "696"
+  },
+  {
+    "author": [
+      {
+        "family": "Warburg",
+        "given": "O."
+      }
+    ],
+    "title": "Begoniaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1894",
+    "page": "121–150",
+    "publisher-place": "Engelmann, Leipzig"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "J.J."
+      }
+    ],
+    "title": "Plantarum novarum in Herbario Horti Regii conservatarum",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin of Miscellaneous Information",
+    "issued": "1913",
+    "page": "39",
+    "URL": "https://doi.org/10.2307/4118407",
+    "DOI": "10.2307/4118407"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "D.Z."
+      },
+      {
+        "family": "Zhu",
+        "given": "G.H."
+      }
+    ],
+    "title": "Thalictrum Linnaeus",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "6",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "282–302",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "given": "Eds"
+      },
+      {
+        "given": "Comps"
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile",
+    "volume": "154",
+    "type": null,
+    "issued": "2012",
+    "page": "1–208"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Prolusio florae iaponicae (pars quarta",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Annales Musei Botanici Lugduno-Batavi",
+    "issued": "1867",
+    "page": "1–66"
+  },
+  {
+    "author": [
+      {
+        "family": "Siebold",
+        "given": "P.F.von"
+      },
+      {
+        "family": "Zuccarini",
+        "given": "J.G."
+      }
+    ],
+    "title": "Florae Japonicae familiae naturales, adjectis generum et specierum exemplis selectis. Sectio prima",
+    "container-title": "Plantae Dicotyledoneae Polypetalae. Abhandlungen der Mathematisch-Physikalischen Classe der Königlich Bayerischen Akademie der Wissenschaften",
+    "volume": "4",
+    "type": "chapter",
+    "issued": "1846",
+    "page": "101–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      },
+      {
+        "family": "Wang",
+        "given": "S.H."
+      }
+    ],
+    "title": "Thalictrum L",
+    "editor": [
+      {
+        "given": "Anonymous"
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "27",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1979",
+    "page": "502 592",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Species Plantarum",
+    "edition": "4th",
+    "volume": "2",
+    "publisher": "G.C. Nauk",
+    "type": "book",
+    "issued": "1799",
+    "page": null,
+    "publisher-place": "Berlin"
+  }
+]

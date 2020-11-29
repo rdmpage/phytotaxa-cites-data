@@ -1,0 +1,171 @@
+[
+  {
+    "author": [
+      {
+        "given": "B.F.G."
+      }
+    ],
+    "title": "Growing knowledge: an overview of Seed Plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2015",
+    "page": "1085–1113"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "G.E."
+      },
+      {
+        "family": "Lorrenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Morfologia Vegetal: Organografia e Dicionário ilustrado de morfologia das plantas vasculares",
+    "edition": "2",
+    "publisher": "Instituto Plantarum, Nova Odessa",
+    "type": "book",
+    "issued": "2011",
+    "page": "448"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list categories and criteria: Version 3.1",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, U.K"
+  },
+  {
+    "author": [
+      {
+        "family": "Jansen",
+        "given": "R.K."
+      }
+    ],
+    "title": "The Systematics of Acmella (Asteraceae: Heliantheae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Systematic Botany Monographs",
+    "issued": "1985",
+    "page": "1–115",
+    "URL": "https://doi.org/10.2307/25027614",
+    "DOI": "10.2307/25027614"
+  },
+  {
+    "author": [
+      {
+        "family": "Panero",
+        "given": "J.L."
+      }
+    ],
+    "title": "Heliantheae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "container-title": "The families and genera of vascular plants",
+    "volume": "8",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "440–477",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickson",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular Plant Systematics",
+    "publisher": "Harper e Row",
+    "type": "book",
+    "issued": "1974",
+    "page": "891",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Roque",
+        "given": "N."
+      },
+      {
+        "family": "Bautista",
+        "given": "H."
+      }
+    ],
+    "title": "Asteraceae: Caracterização e morfologia floral",
+    "publisher": "UFBA",
+    "type": "book",
+    "issued": "2008",
+    "page": "73",
+    "publisher-place": "Salvador, Bahia"
+  },
+  {
+    "author": [
+      {
+        "family": "List",
+        "given": "The Plant"
+      }
+    ],
+    "title": "Version 1.1",
+    "note": "Published on the Internet. Available from:",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://www.theplantlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: a global directory of public herbaria and associeated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/ih"
+  },
+  {
+    "author": [
+      {
+        "family": "Vidal",
+        "given": "W.N."
+      },
+      {
+        "family": "Vidal",
+        "given": "M.R.R."
+      }
+    ],
+    "title": "Botânica-organografia",
+    "edition": "4",
+    "publisher": "UFV, Viçosa",
+    "type": "book",
+    "issued": "2006"
+  }
+]

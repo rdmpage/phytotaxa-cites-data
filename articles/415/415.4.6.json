@@ -1,0 +1,398 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Flora australiensis: a description of the plants of the Australian territory",
+    "volume": "6. L",
+    "publisher": "Reeve and co., London",
+    "type": "book",
+    "issued": "1873",
+    "page": "475"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Collection des orchidées les plus remarquables de l’Archipel indien et du Japon",
+    "publisher": "CG Sulpke, Amsterdam",
+    "type": "book",
+    "issued": "1859",
+    "page": "190",
+    "URL": "https://doi.org/10.5962/bhl.title.154048",
+    "DOI": "10.5962/bhl.title.154048"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Lissochilus speciosus",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Mr. Griffin’s Lissochilus. Edward’s Botanical Register",
+    "issued": "1821",
+    "page": "573"
+  },
+  {
+    "author": [
+      {
+        "family": "Chan",
+        "given": "C.L."
+      },
+      {
+        "family": "Lamb",
+        "given": "A."
+      },
+      {
+        "family": "Shim",
+        "given": "P.S."
+      },
+      {
+        "family": "Wood",
+        "given": "J.J."
+      }
+    ],
+    "title": "Orchids of Borneo",
+    "volume": "1",
+    "container-title": "Introduction and a selection of species. The Sabah Society Kota Kinabalu in association with Royal Botanic Gardens Kew",
+    "publisher": "Kuala Lumpur",
+    "type": "chapter",
+    "issued": "1994",
+    "page": "420"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Bernet",
+        "given": "P."
+      },
+      {
+        "family": "Kratochvil",
+        "given": "K."
+      },
+      {
+        "family": "Gerlach",
+        "given": "G."
+      },
+      {
+        "family": "Carr",
+        "given": "G."
+      },
+      {
+        "family": "Alrich",
+        "given": "P."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Pfahl",
+        "given": "J."
+      },
+      {
+        "family": "Campacci",
+        "given": "M.A."
+      },
+      {
+        "family": "Baptista",
+        "given": "D.H."
+      },
+      {
+        "family": "Tigges",
+        "given": "H."
+      },
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Cribb",
+        "given": "P."
+      },
+      {
+        "family": "George",
+        "given": "A."
+      },
+      {
+        "family": "Kreuz",
+        "given": "K."
+      },
+      {
+        "family": "Wood",
+        "given": "J.J."
+      }
+    ],
+    "title": "World Checklist of Orchidaceae",
+    "note": "Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "P.F."
+      },
+      {
+        "family": "Summerhayes",
+        "given": "V.S."
+      }
+    ],
+    "title": "Notes on Asiatic Orchids: IV",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "1",
+    "issued": "1966",
+    "page": "51–61"
+  },
+  {
+    "author": [
+      {
+        "family": "La Croix",
+        "given": "I."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "Eulophia",
+    "editor": [
+      {
+        "family": "Pope",
+        "given": "G.V."
+      }
+    ],
+    "container-title": "Flora Zambesiaca 11",
+    "publisher": "Kew Royal Botanic Gardens",
+    "type": "chapter",
+    "issued": "1998",
+    "page": "2",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Eulophia guineensis, Sierra Leone Eulophia",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "The Botanical Register",
+    "issued": "1822",
+    "page": "686"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "The Genera and Species of Orchidaceous Plants",
+    "publisher": "Ridgways, London",
+    "type": "book",
+    "issued": "1833",
+    "page": "554"
+  },
+  {
+    "author": [
+      {
+        "family": "Martos",
+        "given": "F."
+      },
+      {
+        "family": "Johnson",
+        "given": "S.D."
+      },
+      {
+        "family": "Peter",
+        "given": "C.I."
+      },
+      {
+        "family": "Bytebier",
+        "given": "B."
+      }
+    ],
+    "title": "A molecular phylogeny reveals paraphyly of the large genus Eulophia (Orchidaceae): a case for the reinstatement of Orthochilus",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "TAXON",
+    "issue": "1",
+    "issued": "2014",
+    "page": "9–23",
+    "URL": "https://doi.org/10.12705/631.6",
+    "DOI": "10.12705/631.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Metusala",
+        "given": "D."
+      }
+    ],
+    "title": "Studi keragaman jenis anggrek berdasarkan tipe tempat tumbuh dan tipe habitat di TWA Cani Sirenreng, Sulawesi Selatan",
+    "container-title": "Proceeding of Basic Science Seminar 6, FMIPA Universitas Brawijaya VIII",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "7–13"
+  },
+  {
+    "author": [
+      {
+        "family": "Nicolson",
+        "given": "D.H."
+      },
+      {
+        "family": "Suresh",
+        "given": "C.R."
+      },
+      {
+        "family": "Manilal",
+        "given": "K.S."
+      }
+    ],
+    "title": "An Interpretation of Van Rheede’s Hortus Malabaricus",
+    "publisher": "Koeltz Scientific Books, Konigstein",
+    "type": "book",
+    "issued": "1988",
+    "page": "378"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Byrne",
+        "given": "P."
+      }
+    ],
+    "title": "Lowland orchids of Papua New Guinea",
+    "publisher": "SNP Publisher Pte Ltd., Singapore",
+    "type": "book",
+    "issued": "1994",
+    "page": "616"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "given": "Rasmussen"
+      }
+    ],
+    "title": "F.N",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "volume": "5, Epidendroideae",
+    "publisher": "Oxford University Press, Oxford",
+    "type": "article-journal",
+    "container-title": "Genera Orchidacearum",
+    "issued": "2009",
+    "page": "2"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Orchideae zollingerianae itineris primi recensentur",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bonplandia, Zeitschrift für die gesammte Botanik",
+    "issued": "1857",
+    "page": "38"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Neue Orchideen",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Flora oder Botanische Zeitung (Flora",
+    "issued": "1872",
+    "page": "276"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.J."
+      }
+    ],
+    "title": "Die orchideen von Java, Flora Von Buitenzorg",
+    "volume": "6",
+    "publisher": "E.J. Brill, Leiden",
+    "type": "article-journal",
+    "container-title": "Bd",
+    "issued": "1905",
+    "page": "672",
+    "URL": "https://doi.org/10.5962/bhl.title.86938",
+    "DOI": "10.5962/bhl.title.86938"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.J."
+      }
+    ],
+    "title": "Die Orchideen Von Java",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique de Buitenzorg",
+    "issue": "3",
+    "issued": "1921",
+    "page": "260"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.J."
+      }
+    ],
+    "title": "Orchidaceae novae Malayenses X",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique de Buitenzorg",
+    "issue": "5",
+    "issued": "1922",
+    "page": "71–73"
+  }
+]

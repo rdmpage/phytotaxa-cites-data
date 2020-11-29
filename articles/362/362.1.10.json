@@ -1,0 +1,235 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Compositae, II. Eupatoriaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.de"
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "6",
+    "publisher": "F. Fleischer",
+    "type": "chapter",
+    "issued": "1876",
+    "page": "2",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "5",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1836",
+    "page": "706"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H."
+      },
+      {
+        "family": "Levrault",
+        "given": "F.G."
+      }
+    ],
+    "title": "Praxélide",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      },
+      {
+        "literal": "Ed."
+      }
+    ],
+    "container-title": "Dictionnaire des Sciences Naturelles",
+    "volume": "2. Vol. 43",
+    "type": "article-journal",
+    "issued": "1826",
+    "page": "261–262"
+  },
+  {
+    "author": [
+      {
+        "family": "Hieronymus",
+        "given": "G.H.E.W."
+      }
+    ],
+    "title": "Erster Beitrag zur Kenntnis der Siphonogamenflora der Argentina und der angrenzenden Länder, besonders von Uruguay, Paraguay, Brasilien und Bolivien",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1897",
+    "page": "672–798"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Contributions towards a flora of South America and the islands of the Pacific",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Companion to the Botanical Magazine",
+    "issued": "1836",
+    "page": "234–244"
+  },
+  {
+    "author": [
+      {
+        "family": "King",
+        "given": "R.M."
+      },
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "Studies in the Eupatorieae (Compositae). XXIX. The genus Chromolaena",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1970",
+    "page": "196–209",
+    "URL": "https://doi.org/10.5962/bhl.part.7118",
+    "DOI": "10.5962/bhl.part.7118"
+  },
+  {
+    "author": [
+      {
+        "family": "King",
+        "given": "R.M."
+      },
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "Studies in the Eupatorieae (Compositae). XXVIII",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "The genus Praxelis. Phytologia",
+    "issued": "1970",
+    "page": "193–195"
+  },
+  {
+    "author": [
+      {
+        "family": "King",
+        "given": "R.M."
+      },
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "Studies in the Eupatorieae (Asteraceae). CC. Additions to the genus Chromolaena",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1980",
+    "page": "230–251",
+    "URL": "https://doi.org/10.5962/bhl.part.4456",
+    "DOI": "10.5962/bhl.part.4456"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      },
+      {
+        "family": "Salvius",
+        "given": "L."
+      },
+      {
+        "given": "Holmia"
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "type": null,
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Malme",
+        "given": "G.O.A.N."
+      }
+    ],
+    "title": "Die Compositen der zweiten Regnellschen Reise. I",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Rio Grande do Sul. Arkiv för Botanik",
+    "issued": "1931",
+    "page": "1–89"
+  },
+  {
+    "author": [
+      {
+        "family": "Malme",
+        "given": "G.O.A.N."
+      }
+    ],
+    "title": "Compositen Paranaenses Dusenianae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Kongliga Svenska Vetenskaps Academiens Handlingar",
+    "issued": "1933",
+    "page": "1–122"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "B.L."
+      }
+    ],
+    "title": "Records preliminary to a general treatment of the Eupatorieae – III",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Contributions from the Gray Herbarium of Harvard University",
+    "issued": "1923",
+    "page": "3–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  }
+]

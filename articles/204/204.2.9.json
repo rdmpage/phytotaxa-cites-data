@@ -1,0 +1,212 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barros",
+        "given": "F.de"
+      },
+      {
+        "family": "Vinhos",
+        "given": "F."
+      },
+      {
+        "family": "Rodrigues",
+        "given": "V.T."
+      },
+      {
+        "family": "Barberena",
+        "given": "F.F.V.A."
+      },
+      {
+        "family": "Fraga",
+        "given": "C.N."
+      },
+      {
+        "family": "Pessoa",
+        "given": "E.M."
+      },
+      {
+        "family": "Foster",
+        "given": "W."
+      },
+      {
+        "family": "Menini Neto",
+        "given": "L."
+      },
+      {
+        "family": "Furtado",
+        "given": "S.G."
+      },
+      {
+        "family": "Nardy",
+        "given": "C."
+      },
+      {
+        "family": "Azevedo",
+        "given": "C.O."
+      },
+      {
+        "family": "Guimarães",
+        "given": "L.R.S."
+      }
+    ],
+    "title": "Orchidaceae",
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": "chapter",
+    "issued": "2015",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB11813"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Macradenia lutescens",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Botanical Register",
+    "issued": "1822",
+    "page": "612"
+  },
+  {
+    "author": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Veitch",
+        "given": "N.C."
+      },
+      {
+        "family": "Grayer",
+        "given": "R.J."
+      }
+    ],
+    "title": "521. Macradenia",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "container-title": "Genera Orchidacearum",
+    "volume": "v",
+    "note": "Epidendroideae (Part two).",
+    "publisher": "Oxford University",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "5",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Gerlach",
+        "given": "G."
+      }
+    ],
+    "title": "Macradenia purpureorostrata, eine neue, bisher unerkannte Orchideenart aus den Wäldern Amazoniens",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Orchideen Journal",
+    "issued": "2012",
+    "page": "72–75"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      }
+    ],
+    "title": "World Checklist of Monocotyledons. Royal Botanic Gardens",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://apps.kew.org/wcsp/namedetail.do?name_id=116929"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN red list of threatened species, version 3.1",
+    "note": "IUCN Red List Unit, Cambridge U.K. Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Pupulin",
+        "given": "F."
+      },
+      {
+        "family": "Ossenbach",
+        "given": "C.S."
+      }
+    ],
+    "title": "Macradenia (Orchidaceae): a confirmed genus for Costa Rican flora",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2002",
+    "page": "15–17"
+  },
+  {
+    "author": [
+      {
+        "family": "Schweinfurth",
+        "given": "C."
+      }
+    ],
+    "title": "A new Macradenia from Peru",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "American Orchid Society Bulletin",
+    "issue": "2",
+    "issued": "1945",
+    "page": "62–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Senghas",
+        "given": "K."
+      },
+      {
+        "family": "Seeger",
+        "given": "H.G."
+      }
+    ],
+    "title": "Macradenia brassavolae Rchb.f. 1852",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Die Orchidee",
+    "issue": "4",
+    "issued": "1996",
+    "page": "831–832"
+  }
+]

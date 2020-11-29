@@ -1,0 +1,334 @@
+[
+  {
+    "author": [
+      {
+        "family": "Conn",
+        "given": "B.J."
+      },
+      {
+        "family": "Banka",
+        "given": "R."
+      },
+      {
+        "family": "Lee",
+        "given": "L.L."
+      }
+    ],
+    "title": "Plants of Papua New Guinea",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2006",
+    "URL": "http://www.pngplants.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemical Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Holttum",
+        "given": "R.E."
+      }
+    ],
+    "title": "New taxa in the Tectaria group (Polypodiaceae) from Malesia",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1991",
+    "page": "547–557"
+  },
+  {
+    "author": [
+      {
+        "family": "L",
+        "given": "Jones D."
+      }
+    ],
+    "title": "Flora of Australia, Ferns, Gynosperms and Allied Groups",
+    "volume": "48",
+    "publisher": "ABRS/CSIRO Australia",
+    "type": "book",
+    "issued": "1998"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Misawa",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K.I."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2002",
+    "page": "3059–3066",
+    "URL": "http://dx.doi.org/10.1093/nar/gkf436",
+    "DOI": "10.1093/nar/gkf436"
+  },
+  {
+    "author": [
+      {
+        "family": "Labiak",
+        "given": "P.H."
+      },
+      {
+        "family": "Sundue",
+        "given": "M.A."
+      },
+      {
+        "family": "Rouhan",
+        "given": "G."
+      },
+      {
+        "family": "Garrison Hanks",
+        "given": "J."
+      },
+      {
+        "family": "Mickel",
+        "given": "J.T."
+      },
+      {
+        "family": "Moran",
+        "given": "R.C."
+      }
+    ],
+    "title": "Phylogeny and historical biogeography of the lastreopsid ferns (Dryopteridaceae",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2014",
+    "page": "1207–1228",
+    "URL": "http://dx.doi.org/10.3732/ajb.1400071",
+    "DOI": "10.3732/ajb.1400071"
+  },
+  {
+    "author": [
+      {
+        "family": "Labiak",
+        "given": "P.H."
+      },
+      {
+        "family": "Sundue",
+        "given": "M.A."
+      },
+      {
+        "family": "Rouhan",
+        "given": "G."
+      },
+      {
+        "family": "Moran",
+        "given": "R.C."
+      }
+    ],
+    "title": "New combinations in Lastreopsis and Parapolystichum (Dryopteridaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2014",
+    "page": "79–86",
+    "URL": "http://dx.doi.org/10.1007/s12228-014-9351-3",
+    "DOI": "10.1007/s12228-014-9351-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Labiak",
+        "given": "P.H."
+      },
+      {
+        "family": "Sundue",
+        "given": "M.A."
+      },
+      {
+        "family": "Rouhan",
+        "given": "G."
+      },
+      {
+        "family": "Moran",
+        "given": "R.C."
+      }
+    ],
+    "title": "Rhopalotricha, a new subgenus of the fern genus Lastreopsis (Dryopteridaceae",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "American Fern Journal",
+    "issued": "2015",
+    "page": "20–30",
+    "URL": "http://dx.doi.org/10.1640/0002-8444-105.1.20",
+    "DOI": "10.1640/0002-8444-105.1.20"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "J.E.",
+        "given": "Skog"
+      },
+      {
+        "family": "Mickel",
+        "given": "J.T."
+      },
+      {
+        "family": "Moran",
+        "given": "R.C."
+      },
+      {
+        "family": "Volovsek",
+        "given": "M."
+      },
+      {
+        "family": "Zimmer",
+        "given": "E.A."
+      }
+    ],
+    "title": "Molecular studies of representative species in the fern genus Elaphoglossum (Dryopteridaceae) based on cpDNA sequences rbcL, trnL-F, and rps4-trnS",
+    "volume": "165",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2004",
+    "page": "1063–1075",
+    "URL": "http://dx.doi.org/10.1086/423877",
+    "DOI": "10.1086/423877"
+  },
+  {
+    "author": [
+      {
+        "family": "Souza-Chies",
+        "given": "T.T."
+      },
+      {
+        "family": "Bittar",
+        "given": "G."
+      },
+      {
+        "family": "Nadot",
+        "given": "S."
+      },
+      {
+        "family": "Carter",
+        "given": "L."
+      },
+      {
+        "family": "Besin",
+        "given": "E."
+      },
+      {
+        "family": "LeJeune",
+        "given": "B."
+      }
+    ],
+    "title": "Phylogenetic analysis of Iridaceae with parsimony and distance methods using the plastid gene rps4",
+    "volume": "204",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "1997",
+    "page": "109–123",
+    "URL": "http://dx.doi.org/10.1007/BF00982535",
+    "DOI": "10.1007/BF00982535"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood–based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "http://dx.doi.org/10.1007/BF00037152",
+    "DOI": "10.1007/BF00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Tindale",
+        "given": "M."
+      }
+    ],
+    "title": "A monograph of the genus Lastreopsis Ching. Contributions to the New South Wales National Herbarium",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Flora Series",
+    "issued": "1965",
+    "page": "249–339"
+  }
+]

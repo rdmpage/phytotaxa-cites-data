@@ -1,0 +1,177 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H.E."
+      }
+    ],
+    "title": "Species Euphorbiacearum. Euphorbiacées Américaines",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1864",
+    "page": "257–377"
+  },
+  {
+    "author": [
+      {
+        "family": "Geiseler",
+        "given": "E.F."
+      }
+    ],
+    "title": "Crotonis Monographiam",
+    "publisher": "F.A. Grunert, Halle",
+    "type": "book",
+    "issued": "1807",
+    "page": "83"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Neue und weniger gekannte südamericanische Euphorbiaceen-Gattungen",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Archiv für Naturgeschichte",
+    "issue": "1",
+    "issued": "1841",
+    "page": "175–204"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": "article-journal",
+    "container-title": "Laurentius Salvius, Stockolm",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Martyn",
+        "given": "J."
+      }
+    ],
+    "title": "Historia Plantarum Rariorum",
+    "volume": "London",
+    "type": "article-journal",
+    "container-title": "R. Reily",
+    "issued": "1728",
+    "page": "42",
+    "URL": "https://doi.org/10.5962/bhl.title.129430",
+    "DOI": "10.5962/bhl.title.129430"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller Argoviensis",
+        "given": "J."
+      }
+    ],
+    "title": "Euphorbiaceae excl. Euphorbieae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.L.P.P.de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "15",
+    "publisher": "Treuttel et Würtz",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1866",
+    "page": "189–1286",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller Argoviensis",
+        "given": "J."
+      }
+    ],
+    "title": "Euphorbiaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      }
+    ],
+    "container-title": "Flora Brasiliensis 11",
+    "publisher": "Frid. Fleischer, Munich",
+    "type": "chapter",
+    "issued": "1874",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechtendal",
+        "given": "D.F.L."
+      }
+    ],
+    "title": "Plantae Leiboldianae—Dicotyleae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1846",
+    "page": "234–312"
+  },
+  {
+    "author": [
+      {
+        "family": "Seemann",
+        "given": "B."
+      }
+    ],
+    "title": "The botany of the voyage of H.M.S",
+    "volume": "3",
+    "publisher": "Lovell Reeve",
+    "type": "article-journal",
+    "container-title": "Herald",
+    "issued": "1853",
+    "page": "81–120",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G."
+      }
+    ],
+    "title": "Nomenclator Botanicus 1",
+    "publisher": "J.G. Cotta, Stuttgart & Tübingen",
+    "type": "book",
+    "issued": "1821",
+    "page": "900"
+  },
+  {
+    "author": [
+      {
+        "family": "Sweet",
+        "given": "R."
+      }
+    ],
+    "title": "Hortus Britannicus ed",
+    "volume": "3",
+    "type": null,
+    "issued": "1839",
+    "page": "3",
+    "publisher-place": "James Ridgway, London"
+  }
+]

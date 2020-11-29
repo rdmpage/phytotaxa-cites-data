@@ -1,0 +1,180 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H.E."
+      }
+    ],
+    "title": "Monographie des Buxacées et des Stylocérées",
+    "publisher": "Masson",
+    "type": "book",
+    "issued": "1859",
+    "page": "89",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Chua",
+        "given": "L.S.L."
+      }
+    ],
+    "title": "Conservation",
+    "editor": [
+      {
+        "family": "Kiew",
+        "given": "R."
+      },
+      {
+        "family": "Chung",
+        "given": "R.C.K."
+      },
+      {
+        "family": "Saw",
+        "given": "L.G."
+      },
+      {
+        "family": "Soepadmo",
+        "given": "E."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Forest Research Institute Malaysia, Kepong",
+    "issued": "2010",
+    "page": "47–54"
+  },
+  {
+    "author": [
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Euphorbiaceae nouvelles (Buxus et Sarcococca",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1921",
+    "page": "481–483"
+  },
+  {
+    "author": [
+      {
+        "family": "Hatusima",
+        "given": "S."
+      }
+    ],
+    "title": "A revision of the Asiatic Buxus",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Journal of the Department of Agriculture, Kyusu Imperial University",
+    "issue": "6",
+    "issued": "1942",
+    "page": "261–354"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Red list categories and criteria version 3.1. IUCN Species Survival Commission",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland & Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria/2001-categories-criteria"
+  },
+  {
+    "author": [
+      {
+        "family": "Kiew",
+        "given": "R."
+      },
+      {
+        "family": "Rafidah",
+        "given": "A.R."
+      }
+    ],
+    "title": "The Flora of Peninsular Malaysia Project",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Conservation Malaysia",
+    "issued": "2007",
+    "page": "1–4"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "An account of botanical expeditions to lower Siam",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Journal of the Straits Branch of the Royal Asiatic Society",
+    "issued": "1911",
+    "page": "27–234"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "Additions to the Flora of Malaya",
+    "volume": "1926",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information Kew",
+    "issued": "1926",
+    "page": "469–479"
+  },
+  {
+    "author": [
+      {
+        "family": "Saw",
+        "given": "L.G."
+      },
+      {
+        "family": "Chung",
+        "given": "R.C.K."
+      }
+    ],
+    "title": "Towards the Flora of Malaysia",
+    "editor": [
+      {
+        "family": "Chua",
+        "given": "L.S.L."
+      },
+      {
+        "family": "Kirton",
+        "given": "L.G."
+      },
+      {
+        "family": "Saw",
+        "given": "L.G."
+      }
+    ],
+    "container-title": "Proceeding of the seminar and workshop status of biological diversity in Malaysia and threat assessment of plant species in Malaysia",
+    "type": "article-journal",
+    "issued": "2007",
+    "page": "211–227"
+  }
+]

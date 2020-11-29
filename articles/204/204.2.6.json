@@ -1,0 +1,311 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alves",
+        "given": "M."
+      },
+      {
+        "family": "Hefler",
+        "given": "S.M."
+      },
+      {
+        "family": "Trevisan",
+        "given": "R."
+      },
+      {
+        "family": "Silva Filho",
+        "given": "P.J.S."
+      }
+    ],
+    "title": "Cyperaceae in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB7171"
+  },
+  {
+    "author": [
+      {
+        "family": "Goetghebeur",
+        "given": "P."
+      }
+    ],
+    "title": "Cyperaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "publisher": "Springer-Verlag",
+    "type": "book",
+    "issued": "1998",
+    "page": "141–190",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Simpson",
+        "given": "D.A."
+      },
+      {
+        "family": "Goetghebeur",
+        "given": "P."
+      },
+      {
+        "family": "Wilson",
+        "given": "K.L."
+      },
+      {
+        "family": "Egorova",
+        "given": "T."
+      },
+      {
+        "family": "Bruhl",
+        "given": "J."
+      }
+    ],
+    "title": "World Checklist of Cyperaceae. The Board of Trustees of the Royal Botanic Gardens",
+    "note": "Kew. Published on the Internet. Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.kew.org/wcsp/monocots/"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Kükenthal",
+        "given": "G."
+      }
+    ],
+    "title": "Cyperaceae Scirpoideae, Cypereae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich: Regni Vegetabilis Conspectus",
+    "volume": "v. 4, n. 20",
+    "publisher": "H.R. Hengelmann, Weinheim",
+    "type": "chapter",
+    "issued": "1936",
+    "page": "621"
+  },
+  {
+    "author": [
+      {
+        "family": "Larridon",
+        "given": "I."
+      },
+      {
+        "family": "Bauters",
+        "given": "K."
+      },
+      {
+        "family": "Reynders",
+        "given": "M."
+      },
+      {
+        "family": "Huygh",
+        "given": "W."
+      },
+      {
+        "family": "Muasya",
+        "given": "A.M."
+      },
+      {
+        "family": "Simpson",
+        "given": "D.A."
+      },
+      {
+        "family": "Goetghebeur",
+        "given": "P."
+      }
+    ],
+    "title": "Towards a new classification of the giant paraphyletic genus Cyperus",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2013",
+    "page": "106–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Larridon",
+        "given": "I."
+      },
+      {
+        "family": "Huygh",
+        "given": "W."
+      },
+      {
+        "family": "Reynders",
+        "given": "M."
+      },
+      {
+        "family": "Muasya",
+        "given": "A.M."
+      },
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "D.A.",
+        "given": "Simpson"
+      },
+      {
+        "family": "Goetghebeur",
+        "given": "P."
+      }
+    ],
+    "title": "Nomenclature and typification of names of genera and subdivisions of genera in Cypereae (Cyperaceae): 2",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Names of subdivisions in Cyperus. Taxon",
+    "issued": "2011",
+    "page": "868–884"
+  },
+  {
+    "author": [
+      {
+        "family": "Larridon",
+        "given": "I."
+      },
+      {
+        "family": "Reynders",
+        "given": "M."
+      },
+      {
+        "family": "Huygh",
+        "given": "W."
+      },
+      {
+        "family": "Bauters",
+        "given": "K."
+      },
+      {
+        "family": "Putte",
+        "given": "K.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Muasya",
+        "given": "A.M."
+      },
+      {
+        "family": "Boeckx",
+        "given": "P."
+      },
+      {
+        "family": "Simpson",
+        "given": "D.A."
+      },
+      {
+        "family": "Vrijdaghs",
+        "given": "A."
+      },
+      {
+        "family": "Goetghebeur",
+        "given": "P."
+      }
+    ],
+    "title": "Affinities in C3 Cyperus lineages (Cyperaceae) revealed using molecular phylogenetic data and carbon isotope analysis",
+    "volume": "167",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2011",
+    "page": "19–46"
+  },
+  {
+    "author": [
+      {
+        "family": "Larridon",
+        "given": "I."
+      },
+      {
+        "family": "Reynders",
+        "given": "M."
+      },
+      {
+        "family": "Huygh",
+        "given": "W."
+      },
+      {
+        "family": "Bauters",
+        "given": "K."
+      },
+      {
+        "family": "Vrijdaghs",
+        "given": "A."
+      },
+      {
+        "family": "Leroux",
+        "given": "O."
+      },
+      {
+        "family": "Muasya",
+        "given": "A.M."
+      },
+      {
+        "family": "Goetghebeur",
+        "given": "P."
+      }
+    ],
+    "title": "Taxonomic changes in C3 Cyperus (Cyperaceae) supported by molecular phylogenetic data, morphology, embryography, ontogeny and anatomy",
+    "volume": "144",
+    "type": "article-journal",
+    "container-title": "Plant Ecology and Evolution",
+    "issued": "2011",
+    "page": "327–356"
+  },
+  {
+    "author": [
+      {
+        "family": "Lye",
+        "given": "K.A."
+      }
+    ],
+    "title": "The history of the genus Mariscus (Cyperaceae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Lidia",
+    "issued": "1992",
+    "page": "37–72"
+  },
+  {
+    "author": [
+      {
+        "family": "Tucker",
+        "given": "G.C."
+      }
+    ],
+    "title": "Cyperus alvesii (Cyperaceae), a new species from northeastern Brazil",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Harvard Papers in Botany",
+    "issue": "2",
+    "issued": "2008",
+    "page": "237–240"
+  }
+]

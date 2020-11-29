@@ -1,0 +1,118 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ducke",
+        "given": "A."
+      }
+    ],
+    "title": "Plantes nouvelles ou peu connues de la region Amazonienne",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Archivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1915",
+    "page": "45"
+  },
+  {
+    "author": [
+      {
+        "family": "Huamantupa",
+        "given": "I."
+      }
+    ],
+    "title": "Vochysia moskovitsiana (Vochysiaceae), una nueva especie de los bosques Andino-Amazónicos de Perú, Ecuador y Colombia",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Arnaldoa",
+    "issue": "2",
+    "issued": "2012",
+    "page": "142–148"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International code of nomenclature for algae, fungi and plants",
+    "publisher": "Melbourne Code). Koeltz Scientific Books, Koenigstein",
+    "type": "book",
+    "issued": "2012",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "family": "Warming",
+        "given": "E."
+      }
+    ],
+    "title": "Vochysiaceae et Trigoniaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "13",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1875",
+    "page": "78"
+  }
+]

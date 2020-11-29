@@ -1,0 +1,478 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adam",
+        "given": "J.-G."
+      }
+    ],
+    "title": "Flore descriptive des Monts Nimba (Côte d’Ivoire, Guinée, Libéria). 5e partie",
+    "publisher": "Editions du CNRS",
+    "type": "book",
+    "issued": "1981",
+    "page": "467"
+  },
+  {
+    "author": [
+      {
+        "family": "Aké-Assi",
+        "given": "L."
+      }
+    ],
+    "title": "Flore de la Côte-d’Ivoire : catalogue systématique, biogéographie et écologie, 2",
+    "container-title": "Conservatoire et Jardin Botaniques de la Ville de Genève",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "401"
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool. e-Infrastructures for data publishing in biodiversity science",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "http://dx.doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Böckeler",
+        "given": "O."
+      }
+    ],
+    "title": "Die Cyperaceen des Königlichen Herbariums zu Berlin",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1875",
+    "page": "8–11"
+  },
+  {
+    "author": [
+      {
+        "family": "Chevalier",
+        "given": "A.J.B."
+      }
+    ],
+    "title": "Mémoires 8: Novitates Florae Africanae. Plantes nouvelles de l’Afrique tropicale française, décrites d’après les collections de M",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Aug. Chevalier. Bulletin de la Société Botanique de France",
+    "issued": "1907",
+    "page": "1–306",
+    "URL": "http://dx.doi.org/10.1080/00378941.1907.10833386",
+    "DOI": "10.1080/00378941.1907.10833386"
+  },
+  {
+    "author": [
+      {
+        "family": "Chevalier",
+        "given": "A.J.B."
+      }
+    ],
+    "title": "Exploration Botanique de l’Afrique Occidentale Française. Tome I. Enumération des plantes récoltées",
+    "publisher": "Paul Lechevallier",
+    "type": "book",
+    "issued": "1920",
+    "page": "798"
+  },
+  {
+    "author": [
+      {
+        "family": "Chevalier",
+        "given": "A.J.B."
+      }
+    ],
+    "title": "Le genre Nienokuea Chev. L’association symbiotique entre une Cypéracée et une Orchidée, spéciale aux tourbières des rochers de l’Ouest Africain",
+    "container-title": "Comptes rendus hebdomadaires des séances de l’Académie des Sciences",
+    "volume": "220",
+    "type": "chapter",
+    "issued": "1945",
+    "page": "633–635"
+  },
+  {
+    "author": [
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "Studies in the genus Polystachya (Orchidaceae) in Africa",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1978",
+    "page": "743–766",
+    "URL": "http://dx.doi.org/10.2307/4109769",
+    "DOI": "10.2307/4109769"
+  },
+  {
+    "author": [
+      {
+        "family": "Geerinck",
+        "given": "D."
+      }
+    ],
+    "title": "Répartition géographique d’Orchidacées africaines I: Polystachya Hook",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin botanique national de Belgique / Bulletin van de National Plantentuin van België",
+    "issued": "1980",
+    "page": "99–116",
+    "URL": "http://dx.doi.org/10.2307/3667777",
+    "DOI": "10.2307/3667777"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Hooker’s Icones Plantarum; or, figures, with descriptive characters and remarks, of new and rare plants, selected from the Kew Herbarium",
+    "volume": "3rd series",
+    "publisher": "Williams and Norgate",
+    "type": "book",
+    "issued": "1881",
+    "page": "4",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1",
+    "edition": "Second",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "https://portals.iucn.org/library/efiles/documents/RL-2001-001-2nd.pdf"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaeger",
+        "given": "P."
+      },
+      {
+        "family": "Summerhayes",
+        "given": "V.S."
+      }
+    ],
+    "title": "Notes sur quelques Orchidées récoltées dans les Monts Loma (Sierra-Leone) et les contrées limitrophes",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1948",
+    "page": "475–483",
+    "URL": "http://dx.doi.org/10.2307/4108851",
+    "DOI": "10.2307/4108851"
+  },
+  {
+    "author": [
+      {
+        "family": "Kränzlin",
+        "given": "F.W.L."
+      }
+    ],
+    "title": "Monographie der Gattung Polystachya Hook., etc. Repertorium specierum novarum regni vegetabilis",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Beihefte",
+    "issued": "1926",
+    "page": "1–136"
+  },
+  {
+    "author": [
+      {
+        "family": "Kränzlin",
+        "given": "F.W.L."
+      }
+    ],
+    "title": "Decades Kewensis: CXIV",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1926",
+    "page": "238–245"
+  },
+  {
+    "author": [
+      {
+        "family": "Lebrun",
+        "given": "J.-P."
+      },
+      {
+        "family": "Stork",
+        "given": "A.L."
+      }
+    ],
+    "title": "Enumération des Plantes à Fleurs d’Afrique Tropicale",
+    "volume": "3",
+    "container-title": "Conservatoire et Jardin botaniques de la Ville de Genève",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "341"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "West African Tropical Orchids",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1862",
+    "page": "123–140",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8312.1862.tb01220.x",
+    "DOI": "10.1111/j.1095-8312.1862.tb01220.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Lisowski",
+        "given": "S."
+      }
+    ],
+    "title": "Flore (Angiospermes) de la République de Guinée. Première partie (texte",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Scripta Botanica Belgica",
+    "issued": "2009",
+    "page": "517",
+    "publisher-place": "Meise, Jardin"
+  },
+  {
+    "author": [
+      {
+        "family": "Mytnik-Ejsmont",
+        "given": "J."
+      }
+    ],
+    "title": "A monograph of the subtribe Polystachyinae Schltr",
+    "publisher": "Orchidaceae). Wydawnictwo Uniwersytetu Gdańskiego, Gdańsk",
+    "type": "book",
+    "issued": "2011",
+    "page": "400"
+  },
+  {
+    "author": [
+      {
+        "family": "Perez-Vera",
+        "given": "F."
+      }
+    ],
+    "title": "Les Orchidées de Côte d’Ivoire",
+    "publisher": "Collection Parthénope",
+    "type": "book",
+    "issued": "2003",
+    "page": "576",
+    "publisher-place": "Biotope, Mèze, France"
+  },
+  {
+    "author": [
+      {
+        "family": "Raynal",
+        "given": "J."
+      }
+    ],
+    "title": "Notes Cypérologiques I. Afrotrilepis, nouveau genre africain",
+    "volume": "n.s. 3",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1963",
+    "page": "250–265"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Dr. Welwitsch’s Orchideen aus Angola",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Flora oder Botanische Zeitung",
+    "issued": "1867",
+    "page": "113–118"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Otia Botanica Hamburgensia 2",
+    "publisher": "Theodor Theophil Meissneri, Hamburg",
+    "type": "book",
+    "issued": "1881",
+    "page": "119"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Die Orchideen ihre Beschreibung, Kultur und Züchtung",
+    "publisher": "Paul Parey",
+    "type": "book",
+    "issued": "1915",
+    "page": "837",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Stévart",
+        "given": "T."
+      },
+      {
+        "family": "Nguema",
+        "given": "N."
+      }
+    ],
+    "title": "Trois espèces et trois combinaisons nouvelles de Polystachya (Orchidaceae) du Cameroun, de Guinée Equatoriale et du Gabon",
+    "volume": "série 3 26",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "2004",
+    "page": "217–233"
+  },
+  {
+    "author": [
+      {
+        "family": "Summerhayes",
+        "given": "V.S."
+      }
+    ],
+    "title": "African Orchids: XIX",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1949",
+    "page": "427–443",
+    "URL": "http://dx.doi.org/10.2307/4109203",
+    "DOI": "10.2307/4109203"
+  },
+  {
+    "author": [
+      {
+        "family": "Summerhayes",
+        "given": "V.S."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Hutchinson",
+        "given": "J."
+      },
+      {
+        "family": "Dalziel",
+        "given": "J.M."
+      }
+    ],
+    "container-title": "Flora of West Tropical Africa",
+    "edition": "2nd",
+    "note": "3.",
+    "publisher": "Calendula Horticultural Books, Londen",
+    "type": "chapter",
+    "issued": "1968",
+    "page": "181–276"
+  },
+  {
+    "author": [
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      },
+      {
+        "family": "Olszewski",
+        "given": "S."
+      }
+    ],
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Flore du Cameroun",
+    "issue": "idacées (Vol. II)",
+    "issued": "2001",
+    "page": "322–665"
+  },
+  {
+    "author": [
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      },
+      {
+        "family": "Kowalkowska",
+        "given": "A."
+      }
+    ],
+    "title": "Contributions to the Orchid Flora of Guinea, West Africa",
+    "publisher": "W. Szafer Institute of Botany",
+    "type": "book",
+    "issued": "2007",
+    "page": "259"
+  },
+  {
+    "author": [
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      }
+    ],
+    "title": "Orchidaceae of Ivory Coast",
+    "publisher": "Monografías del Real Jardín Botánico",
+    "type": "book",
+    "issued": "2008",
+    "page": "397"
+  }
+]

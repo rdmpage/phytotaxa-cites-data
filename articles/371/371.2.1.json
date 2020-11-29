@@ -1,0 +1,1451 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alverson",
+        "given": "A.J."
+      },
+      {
+        "family": "Jansen",
+        "given": "R.K."
+      },
+      {
+        "family": "Theriot",
+        "given": "E.C."
+      }
+    ],
+    "title": "Bridging the Rubicon: Phylogenetic analysis reveals repeated colonization’s of marine and fresh waters by thalassiosiroid diatoms",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2007",
+    "page": "193–210",
+    "URL": "https://doi.org/10.1016/j.ympev.2007.03.024",
+    "DOI": "10.1016/j.ympev.2007.03.024"
+  },
+  {
+    "author": [
+      {
+        "family": "Cleve",
+        "given": "P.T."
+      },
+      {
+        "family": "Grunow",
+        "given": "A."
+      }
+    ],
+    "title": "Beiträge zur Kenntniss der Arctischen Diatomeen",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Kongliga Svenska-Vetenskaps Akademiens Handlingar",
+    "issue": "2",
+    "issued": "1880",
+    "page": "1–121"
+  },
+  {
+    "author": [
+      {
+        "family": "Cleve",
+        "given": "P.T."
+      },
+      {
+        "family": "Möller",
+        "given": "J.D."
+      }
+    ],
+    "title": "Diatoms",
+    "genre": "Part VI,",
+    "publisher": "Esatas Edquists Boktryckeri, Upsala",
+    "type": null,
+    "issued": "1882",
+    "page": "48 277–324"
+  },
+  {
+    "author": [
+      {
+        "family": "Enache",
+        "given": "M.D."
+      },
+      {
+        "family": "Potapova",
+        "given": "M."
+      }
+    ],
+    "title": "A new species of Sellaphora (Sellaphoraceae) from Hannaberry Lake, Arkansas, U.S.A",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Croatica",
+    "issued": "2009",
+    "page": "231–237"
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "K.M."
+      },
+      {
+        "family": "Wortley",
+        "given": "A.H."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "An assessment of potential diatom “barcode” genes (cox1, rbcL, 18S and ITS rDNA) and their effectiveness in determining relationships in Sellaphora (Bacillariophyta",
+    "volume": "158",
+    "type": "article-journal",
+    "container-title": "Protist",
+    "issued": "2007",
+    "page": "349–364",
+    "URL": "https://doi.org/10.1016/j.protis.2007.04.001",
+    "DOI": "10.1016/j.protis.2007.04.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "K.M."
+      },
+      {
+        "family": "Wortley",
+        "given": "A.H."
+      },
+      {
+        "family": "Simpson",
+        "given": "G.E."
+      },
+      {
+        "family": "Chepurnov",
+        "given": "V.A."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "A molecular systematic approach to explore diversity within the Sellaphora pupula species complex (Bacillariophyta",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "2008",
+    "page": "215–231",
+    "URL": "https://doi.org/10.1111/j.1529-8817.2007.00454.x",
+    "DOI": "10.1111/j.1529-8817.2007.00454.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Guillard",
+        "given": "R.R.L."
+      },
+      {
+        "family": "Carpenter",
+        "given": "E.J."
+      },
+      {
+        "family": "Reimann",
+        "given": "B.E.F."
+      }
+    ],
+    "title": "Skeletonema menzelii sp. nov., a new diatom from the western Atlantic Ocean",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issue": "2",
+    "issued": "1974",
+    "URL": "https://doi.org/10.2216/i0031-8884-13-2-131.1",
+    "DOI": "10.2216/i0031-8884-13-2-131.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Guillard",
+        "given": "R.R.L."
+      },
+      {
+        "family": "Lorenzen",
+        "given": "C.J."
+      }
+    ],
+    "title": "Yellow-green algae with chlorophyllide c",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "1972",
+    "page": "10–14"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.F."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Anisimova",
+        "given": "M."
+      },
+      {
+        "family": "Hordijk",
+        "given": "W."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "New algorithms and methods to estimate Maximum-Likelihood phylogenies: assessing the performance of PhyML 3.0",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issue": "3",
+    "issued": "2010",
+    "page": "307–321",
+    "URL": "https://doi.org/10.1093/sysbio/syq010",
+    "DOI": "10.1093/sysbio/syq010"
+  },
+  {
+    "author": [
+      {
+        "family": "Gusev",
+        "given": "E.S."
+      },
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      }
+    ],
+    "title": "A new species of the genus Mallomonas (Chrysophyceae: Synurales), Mallomonas kuzminii sp. nov., from lake Frolikha (Russia, Baikal region",
+    "volume": "155",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "66–70",
+    "URL": "https://doi.org/10.11646/phytotaxa.155.1.6",
+    "DOI": "10.11646/phytotaxa.155.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Parallelization of the MAFFT multiple sequence alignment program",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2010",
+    "page": "1899–1900",
+    "URL": "https://doi.org/10.1093/bioinformatics/btq224",
+    "DOI": "10.1093/bioinformatics/btq224"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Balasubramanian",
+        "given": "K."
+      },
+      {
+        "family": "Blanco",
+        "given": "S."
+      },
+      {
+        "family": "Coste",
+        "given": "M."
+      },
+      {
+        "family": "Ector",
+        "given": "L."
+      },
+      {
+        "family": "Liu",
+        "given": "Y.Kulikovskiy"
+      },
+      {
+        "family": "M.",
+        "given": "Lundholm"
+      },
+      {
+        "family": "N.",
+        "given": "Ludwig"
+      },
+      {
+        "family": "T.",
+        "given": "Potapova"
+      },
+      {
+        "family": "M.",
+        "given": "Rimet"
+      },
+      {
+        "family": "F.",
+        "given": "Sabbe"
+      },
+      {
+        "family": "K.",
+        "given": "Sala"
+      },
+      {
+        "family": "S.",
+        "given": "Sar"
+      },
+      {
+        "family": "E.",
+        "given": "Taylor"
+      },
+      {
+        "family": "J.",
+        "given": "Van de Vijver"
+      },
+      {
+        "family": "B.",
+        "given": "Wetzel"
+      },
+      {
+        "family": "C.E.",
+        "given": "Williams"
+      },
+      {
+        "family": "D.M.",
+        "given": "Witkowski"
+      },
+      {
+        "given": "A."
+      },
+      {
+        "family": "Witkowski",
+        "given": "J."
+      }
+    ],
+    "note": "DiatomBase. Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://diatombase.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Hamsher",
+        "given": "S.E."
+      },
+      {
+        "family": "Kulikovskiy",
+        "given": "M."
+      },
+      {
+        "family": "Bramberger",
+        "given": "A.S."
+      }
+    ],
+    "title": "Are there species flocks in freshwater diatoms? A review of past reports and a look to the future",
+    "volume": "792",
+    "type": "article-journal",
+    "container-title": "Hydrobiologia",
+    "issued": "2017",
+    "page": "17–35",
+    "URL": "https://doi.org/10.1007/s10750-016-3075-1",
+    "DOI": "10.1007/s10750-016-3075-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Kulikovskiy",
+        "given": "M."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I."
+      },
+      {
+        "family": "Glushchenko",
+        "given": "A.M."
+      },
+      {
+        "family": "Solak",
+        "given": "C.N."
+      }
+    ],
+    "title": "A putative species flock in the diatom genus Gomphonema Ehrenberg (Bacillariophyta: Gomphonemataceae) from Lake Baikal, Russia: description of six new species similar to G. ventricosum W",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Gregory. Cryptogamie, Algologie",
+    "issue": "3",
+    "issued": "2018",
+    "page": "365–388",
+    "URL": "https://doi.org/10.7872/crya/v39.iss3.2018.365",
+    "DOI": "10.7872/crya/v39.iss3.2018.365"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Solak",
+        "given": "C.N."
+      }
+    ],
+    "title": "The diatom genus Gomphoneis Cleve (Bacillariophyceae) from Lake Baikal, Russia",
+    "volume": "154",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "1–37",
+    "URL": "https://doi.org/10.11646/phytotaxa.154.1.1",
+    "DOI": "10.11646/phytotaxa.154.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kozhov",
+        "given": "M.M."
+      }
+    ],
+    "title": "Fresh waters of East Siberia",
+    "volume": "Irkutsk",
+    "type": "article-journal",
+    "container-title": "Irkutskoe oblastnoye izdatelstvo",
+    "issued": "1950",
+    "page": "367"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M."
+      },
+      {
+        "family": "Glushchenko",
+        "given": "A."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      }
+    ],
+    "title": "Description of the new freshwater diatom genus Okhapkinia gen",
+    "container-title": "nov. from Laos (Southeast Asia), with notes on family Sellaphoraceae Mereschkowsky",
+    "volume": "1",
+    "type": "article-journal",
+    "issued": "2018",
+    "page": "120–129",
+    "URL": "https://doi.org/10.5507/fot.2017.021",
+    "DOI": "10.5507/fot.2017.021"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Gusev",
+        "given": "E.S."
+      },
+      {
+        "family": "Andreeva",
+        "given": "S.A."
+      },
+      {
+        "family": "Annenkova",
+        "given": "N.V."
+      }
+    ],
+    "title": "Phylogenetic position of the diatom genus Geissleria Lange-Bertalot & Metzeltin and description of two new species from Siberian mountain lakes",
+    "volume": "177",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "5",
+    "issued": "2014",
+    "page": "249–260",
+    "URL": "https://doi.org/10.11646/phytotaxa.177.5.1",
+    "DOI": "10.11646/phytotaxa.177.5.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      }
+    ],
+    "title": "The diatom genus Gomphonema Ehrenberg in Lake Baikal. I. Morphology and taxonomic history of two endemic species",
+    "volume": "143",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia, Beiheft",
+    "issued": "2014",
+    "page": "507–518",
+    "URL": "https://doi.org/10.1127/1438-9134/2014/027",
+    "DOI": "10.1127/1438-9134/2014/027"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Solak",
+        "given": "C.N."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I.V."
+      }
+    ],
+    "title": "The diatom genus Gomphonema Ehrenberg in Lake Baikal. II. Revision of taxa from Gomphonema acuminatum and Gomphonema truncatum-capitatum complexes",
+    "volume": "233",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "251–272",
+    "URL": "https://doi.org/10.11646/phytotaxa.233.3.3",
+    "DOI": "10.11646/phytotaxa.233.3.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I.V."
+      }
+    ],
+    "title": "Biogeography of Bacillariophyta. Main concepts and approaches",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "International Journal on Algae",
+    "issue": "3",
+    "issued": "2014",
+    "page": "207–228",
+    "URL": "https://doi.org/10.1615/InterJAlgae.v16.i3.10",
+    "DOI": "10.1615/InterJAlgae.v16.i3.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I.V."
+      }
+    ],
+    "title": "Morphology, taxonomical position, and distribution of the genera of diatoms Ochigma and Khursevichia from Lake Baikal",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Inland Water Biology",
+    "issue": "3",
+    "issued": "2016",
+    "page": "226–233",
+    "URL": "https://doi.org/10.1134/S1995082916030147",
+    "DOI": "10.1134/S1995082916030147"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Annenkova",
+        "given": "N.V."
+      },
+      {
+        "family": "Gusev",
+        "given": "E.S."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      }
+    ],
+    "title": "Morphological and molecular evidence support description of two new diatom species from the genus Ulnaria in Lake Baikal",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Fottea",
+    "issued": "2016",
+    "page": "34–42",
+    "URL": "https://doi.org/10.5507/fot.2015.011",
+    "DOI": "10.5507/fot.2015.011"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I.V."
+      }
+    ],
+    "title": "Cocconeis nanoburyatica sp. nov.—a new monoraphid diatom species from Lake Baikal",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Inland Water Biology",
+    "issue": "2",
+    "issued": "2016",
+    "page": "112–115",
+    "URL": "https://doi.org/10.1134/S1995082916020103",
+    "DOI": "10.1134/S1995082916020103"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I.V."
+      },
+      {
+        "family": "Khursevich",
+        "given": "G.K."
+      }
+    ],
+    "title": "Three new species of Eolimna Lange-Bertalot & Schiller (Bacillariophyta) from Lake Baikal",
+    "volume": "144",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia, Beiheft",
+    "issued": "2015",
+    "page": "199–209",
+    "URL": "https://doi.org/10.1127/nova_supp1/2015/0040",
+    "DOI": "10.1127/nova_supp1/2015/0040"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      }
+    ],
+    "title": "Lake Baikal: hotspot of endemic diatoms I",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2012",
+    "page": "1–608"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      }
+    ],
+    "title": "Gliwiczia gen. nov., a new achananthoid diatom genus with description of four species new for science",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "1–16",
+    "URL": "https://doi.org/10.11646/phytotaxa.109.1.1",
+    "DOI": "10.11646/phytotaxa.109.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      },
+      {
+        "family": "Khursevich",
+        "given": "G.K."
+      }
+    ],
+    "title": "Achnanthidium sibiricum (Bacillariophyta), a new species from bottom sediments in Lake Baikal",
+    "volume": "136",
+    "type": "article-journal",
+    "container-title": "Algological Studies",
+    "issue": "137",
+    "issued": "2011",
+    "page": "77–87",
+    "URL": "https://doi.org/10.1127/1864-1318/2011/0136-0077",
+    "DOI": "10.1127/1864-1318/2011/0136-0077"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      },
+      {
+        "family": "Khursevich",
+        "given": "G.K."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      }
+    ],
+    "title": "Description of Eunotia species (Bacillariophyta) new to science from Lake Baikal with comments on morphology and biogeography of the genus",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issue": "3",
+    "issued": "2015",
+    "page": "248–260",
+    "URL": "https://doi.org/10.2216/14-98.1",
+    "DOI": "10.2216/14-98.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      },
+      {
+        "family": "Khursevich",
+        "given": "G.K."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I.V."
+      }
+    ],
+    "title": "Typification of diatoms from Lake Baikal. I. Some species described by A.P",
+    "volume": "100",
+    "type": "article-journal",
+    "container-title": "Skabitschewsky. Nova Hedwigia",
+    "issue": "1–2",
+    "issued": "2015",
+    "page": "215–223",
+    "URL": "https://doi.org/10.1127/nova_hedwigia/2014/0214",
+    "DOI": "10.1127/nova_hedwigia/2014/0214"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "I.V."
+      }
+    ],
+    "title": "Description of four species belonging in Cavinula D.G. Mann & Stickle from Lake Baikal with notes on family Cavinulaceae D.G",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Mann in Round et al",
+    "issue": "3–4",
+    "issued": "2014",
+    "page": "487–499",
+    "URL": "https://doi.org/10.1127/0029-5035/2014/0196",
+    "DOI": "10.1127/0029-5035/2014/0196"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulikovskiy",
+        "given": "M.S."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      },
+      {
+        "family": "Khursevich",
+        "given": "G.K."
+      }
+    ],
+    "title": "Encyonema horstii sp. nov., a species of unusual valve outline from Pleistocene deposits of Lake Baikal",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia, Beiheft",
+    "issued": "2012",
+    "page": "365–374"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuzmina",
+        "given": "A.E."
+      },
+      {
+        "family": "Ignatova",
+        "given": "N.V."
+      },
+      {
+        "family": "Mizandronzev",
+        "given": "I.B."
+      }
+    ],
+    "title": "Species composition, ecological and geographical characteristics of the diatoms from Lake Frolikha",
+    "container-title": "Proceedings of the international symposium “Living cells of the diatoms” (Irkutsk",
+    "volume": "1",
+    "type": "paper-conference",
+    "issued": "2004",
+    "page": "55"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Cavacini",
+        "given": "P."
+      },
+      {
+        "family": "Tagliaventi",
+        "given": "N."
+      },
+      {
+        "family": "Alfinito",
+        "given": "S."
+      }
+    ],
+    "title": "Diatoms of Sardinia. Rare and 76 new species in rock pools and other ephemeral waters",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2003",
+    "page": "1–438"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Külbst",
+        "given": "K."
+      },
+      {
+        "family": "Lauser",
+        "given": "T."
+      },
+      {
+        "family": "Nörpel-Schempp",
+        "given": "M."
+      },
+      {
+        "family": "Willmann",
+        "given": "M."
+      }
+    ],
+    "title": "Diatom Taxa introduced by Georg Krasske Documentation and Revision",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "1996",
+    "page": "1–358"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Moser",
+        "given": "G."
+      }
+    ],
+    "title": "Brachysira. Monographie der Gattung",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Diatomologica",
+    "issued": "1994",
+    "page": "1–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Levkov",
+        "given": "Z."
+      },
+      {
+        "family": "Krstić",
+        "given": "S."
+      },
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      },
+      {
+        "family": "Nakov",
+        "given": "T."
+      }
+    ],
+    "title": "Diatoms of lakes Prespa and Ohrid. About 500 taxa from ancient lake system",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2007",
+    "page": "1–611"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "The Diatom genus Sellaphora: separation from Navicula",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "British Phycological Journal",
+    "issue": "1",
+    "issued": "1989",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1080/00071618900650011",
+    "DOI": "10.1080/00071618900650011"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "D.G."
+      },
+      {
+        "family": "Thomas",
+        "given": "S.J."
+      },
+      {
+        "family": "Evans",
+        "given": "K.M."
+      }
+    ],
+    "title": "Revision of the diatom genus Sellaphora: a first account of the larger species in the British Isles",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Fottea",
+    "issue": "1",
+    "issued": "2008",
+    "page": "15–78",
+    "URL": "https://doi.org/10.5507/fot.2008.002",
+    "DOI": "10.5507/fot.2008.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "D.G."
+      },
+      {
+        "family": "Evans",
+        "given": "K.M."
+      },
+      {
+        "family": "Chepurnov",
+        "given": "V.A."
+      },
+      {
+        "family": "Nagai",
+        "given": "S."
+      }
+    ],
+    "title": "Morphology and formal description of Sellaphora bisexualis sp. nov",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Bacillariophyta). Fottea",
+    "issued": "2009",
+    "page": "199–209",
+    "URL": "https://doi.org/10.5507/fot.2009.021",
+    "DOI": "10.5507/fot.2009.021"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "D.G."
+      },
+      {
+        "family": "McDonald",
+        "given": "S.M."
+      },
+      {
+        "family": "Bayer",
+        "given": "M.M."
+      },
+      {
+        "family": "Droop",
+        "given": "S.J.M."
+      },
+      {
+        "family": "Chepurnov",
+        "given": "V.A."
+      },
+      {
+        "family": "Loke",
+        "given": "R.E."
+      },
+      {
+        "family": "Ciobanu",
+        "given": "A."
+      },
+      {
+        "family": "Buf",
+        "given": "J.M.H.",
+        "particle": "du"
+      }
+    ],
+    "title": "Morphometric analysis, ultrastructure and mating data provide evidence for five new species of Sellaphora (Bacillariophyceae",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2004",
+    "page": "459–482",
+    "URL": "https://doi.org/10.2216/i0031-8884-43-4-459.1",
+    "DOI": "10.2216/i0031-8884-43-4-459.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Mereschkowsky",
+        "given": "C."
+      }
+    ],
+    "title": "On Sellaphora, a new genus of diatoms",
+    "volume": "7–9",
+    "type": "article-journal",
+    "container-title": "Annals and Magazine of Natural History",
+    "issued": "1902",
+    "page": "185–195",
+    "URL": "https://doi.org/10.1080/00222930208678565",
+    "DOI": "10.1080/00222930208678565"
+  },
+  {
+    "author": [
+      {
+        "family": "Moser",
+        "given": "G."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      }
+    ],
+    "title": "Insel der Endemiten Geobotanisches Phänomen Neukaledonien (Island of endemics New Caledonia—a geobotanical phenomenon",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Diatomologica",
+    "issued": "1998",
+    "page": "1–464"
+  },
+  {
+    "author": [
+      {
+        "family": "Podzorski",
+        "given": "A.C."
+      }
+    ],
+    "title": "Caponea caribbea Podorski, a structurally unique new diatom from Jamaica",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "1984",
+    "page": "1–8"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "Modeltest Server: a web-based tool for the statistical selection of models of nucleotide substitution online",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2006",
+    "page": "700–703",
+    "URL": "https://doi.org/10.1093/nar/gkl042",
+    "DOI": "10.1093/nar/gkl042"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Round",
+        "given": "F.E."
+      },
+      {
+        "family": "Crawford",
+        "given": "R.M."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "The diatoms. Biology and morphology of the genera",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "1990",
+    "page": "747"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruck",
+        "given": "E.C."
+      },
+      {
+        "family": "Theriot",
+        "given": "E.C."
+      }
+    ],
+    "title": "Origin and evolution of the canal raphe system in diatoms",
+    "volume": "162",
+    "type": "article-journal",
+    "container-title": "Protist",
+    "issued": "2011",
+    "page": "723–737",
+    "URL": "https://doi.org/10.1016/j.protis.2011.02.003",
+    "DOI": "10.1016/j.protis.2011.02.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Schiller",
+        "given": "W."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      }
+    ],
+    "title": "Eolimna martinii n",
+    "volume": "n. sp",
+    "type": "article-journal",
+    "container-title": "gen",
+    "issue": "3",
+    "issued": "1997",
+    "page": "163–172",
+    "URL": "https://doi.org/10.1007/BF02988485",
+    "DOI": "10.1007/BF02988485"
+  },
+  {
+    "author": [
+      {
+        "family": "Skabitschevsky",
+        "given": "A.P."
+      }
+    ],
+    "title": "Phytoplankton and diatoms of Lake Frolikha (Transbaikalia). Proceedings of the Irkutsk State University",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Biological Series",
+    "issued": "1953",
+    "page": "145–152"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Filipski",
+        "given": "A."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA6: Molecular Evolutionary Genetics Analysis version 6.0",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "2725–2729",
+    "URL": "https://doi.org/10.1093/molbev/mst197",
+    "DOI": "10.1093/molbev/mst197"
+  },
+  {
+    "author": [
+      {
+        "family": "Timoshkin",
+        "given": "O.A."
+      }
+    ],
+    "title": "Lake Baikal: diversity of fauna, problems of its immiscibility and origin, ecology and “exotic” communities. – Index of animal species inhabiting Lake Baikal and its catchment area",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Lake Baikal",
+    "issue": "1",
+    "issued": "2001",
+    "page": "16–73"
+  },
+  {
+    "author": [
+      {
+        "family": "Vijver",
+        "given": "B.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Frenot",
+        "given": "Y."
+      },
+      {
+        "family": "Beyens",
+        "given": "L."
+      }
+    ],
+    "title": "Freshwater diatoms from Ile de la Possession (Crozet archipelago, subantarctica",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Diatomologica",
+    "issued": "2002",
+    "page": "1–412"
+  },
+  {
+    "author": [
+      {
+        "family": "Voigt",
+        "given": "M."
+      }
+    ],
+    "title": "Some New Diatoms from the Far East",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "Journal of the Royal Microscopical Society",
+    "issued": "1960",
+    "page": "92–94",
+    "URL": "https://doi.org/10.1111/j.1365-2818.1958.tb02048.x",
+    "DOI": "10.1111/j.1365-2818.1958.tb02048.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Werum",
+        "given": "M."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      }
+    ],
+    "title": "Diatoms in springs from Central Europe and elsewhere under the influence of hydrologeology and anthropogenic impacts",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2004",
+    "page": "3–417"
+  },
+  {
+    "author": [
+      {
+        "family": "Wetzel",
+        "given": "C.E."
+      },
+      {
+        "family": "Ector",
+        "given": "L."
+      },
+      {
+        "family": "Vijver",
+        "given": "B.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Compère",
+        "given": "P."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "Morphology, typification and critical analysis of some ecologically important small naviculoid species (Bacillariophyta",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Fottea",
+    "issue": "2",
+    "issued": "2015",
+    "page": "203–234",
+    "URL": "https://doi.org/10.5507/fot.2015.020",
+    "DOI": "10.5507/fot.2015.020"
+  },
+  {
+    "author": [
+      {
+        "family": "Zimmermann",
+        "given": "J."
+      },
+      {
+        "family": "Jahn",
+        "given": "R."
+      },
+      {
+        "family": "Gemeinholzer",
+        "given": "B."
+      }
+    ],
+    "title": "Barcoding diatoms: evaluation of the V4 subregion on the 18S rRNA gene, including new primers and protocols",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity and Evolution",
+    "issued": "2011",
+    "page": "173–192",
+    "URL": "https://doi.org/10.1007/s13127-011-0050-6",
+    "DOI": "10.1007/s13127-011-0050-6"
+  }
+]

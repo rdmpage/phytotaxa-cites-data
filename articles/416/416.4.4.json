@@ -1,0 +1,401 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bremer",
+        "given": "K."
+      }
+    ],
+    "title": "Asteraceae: Cladistics & Classification",
+    "publisher": "Timber Press",
+    "type": "book",
+    "issued": "1994",
+    "page": "752",
+    "publisher-place": "Portland, Oregon"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H.de"
+      }
+    ],
+    "title": "Nabale, Nabalus",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      },
+      {
+        "literal": "ed."
+      }
+    ],
+    "container-title": "Dictionnaire des sciences naturelles",
+    "volume": "2, vol. 34. F.G.Levrault",
+    "publisher": "Strasbourg & Paris, & Le Normant",
+    "type": "chapter",
+    "issued": "1825",
+    "page": "94–100",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.S."
+      },
+      {
+        "family": "Ke",
+        "given": "R."
+      },
+      {
+        "family": "Xu",
+        "given": "L.S."
+      },
+      {
+        "family": "Harris",
+        "given": "A.H."
+      },
+      {
+        "family": "Li",
+        "given": "H.M."
+      }
+    ],
+    "title": "Lihengia: a new genus of Asteraceae from China",
+    "note": "Taxon. [submitted",
+    "type": null,
+    "issued": "2019"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "37",
+    "publisher-place": "Gland & Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 13. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Kilian",
+        "given": "N."
+      },
+      {
+        "family": "Gemeinholzer",
+        "given": "B."
+      },
+      {
+        "family": "Lack",
+        "given": "H.W."
+      }
+    ],
+    "title": "Tribe Cichorieae",
+    "editor": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T."
+      },
+      {
+        "family": "Bayer",
+        "given": "R."
+      }
+    ],
+    "container-title": "Systematics, evolution and biogeography of the Compositae. IAPT, Vienna",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "343–383"
+  },
+  {
+    "author": [
+      {
+        "family": "Lack",
+        "given": "H.W."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Lam.",
+        "given": "Tribe Cichorieae"
+      },
+      {
+        "family": "In",
+        "given": "D.C."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "container-title": "Kubitzki’s The Families and Genera of Vascular Plants",
+    "volume": "8",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "180–199",
+    "publisher-place": "Berlin & Heidelberg & New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Léveillé",
+        "given": "H."
+      }
+    ],
+    "title": "Decades plantarum novarum. CXLI–CXLV",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1914",
+    "page": "337–345",
+    "URL": "https://doi.org/10.1002/fedr.19140132202",
+    "DOI": "10.1002/fedr.19140132202"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "L.Salvius, Holmia",
+    "type": "book",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Primitiae Florae Amurensis. Mémoires présentés à l’Académie Impériale des Sciences de St",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Petersbourg par divers Savans",
+    "issued": "1859",
+    "page": "1–504"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Diagnoses breves plantarum novarum Japoniae et Mandshuriae",
+    "volume": "3, 15",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Académie Impériale des Sciences de Saint-Pétersbourg ser",
+    "issued": "1871",
+    "page": "373–381"
+  },
+  {
+    "author": [
+      {
+        "family": "Milstead",
+        "given": "W.L."
+      }
+    ],
+    "title": "A Revision of the North America Species of Prenanthes",
+    "genre": "Ph.D. Thesis,",
+    "publisher": "Purdue University",
+    "type": "thesis",
+    "issued": "1964"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakai",
+        "given": "T."
+      }
+    ],
+    "title": "Flora Sylvatica Koreana",
+    "volume": "14",
+    "publisher": "Forestal Experiment Station, Government General of Chosen, Keijo",
+    "type": "book",
+    "issued": "1923"
+  },
+  {
+    "author": [
+      {
+        "family": "Sennikov",
+        "given": "A.N."
+      }
+    ],
+    "title": "De generibus ex affinitate Prenanthes L",
+    "volume": "32",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Asteraceae). Novosti Sistematiki Vysshikh Rastenii",
+    "issued": "2000",
+    "page": "177–181"
+  },
+  {
+    "author": [
+      {
+        "family": "Shih",
+        "given": "C."
+      }
+    ],
+    "title": "On circumscription of the genus Prenanthes L. and Notoseris Shih – a new genus of Compositae from China",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxomica Sinica",
+    "issued": "1987",
+    "page": "189–203"
+  },
+  {
+    "author": [
+      {
+        "family": "Shih",
+        "given": "C."
+      }
+    ],
+    "title": "Taxonomic study on genera of tribe Lactuceae (Compositae) from China",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1993",
+    "page": "432–450"
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "Z."
+      },
+      {
+        "family": "Kilian",
+        "given": "N."
+      }
+    ],
+    "title": "Nabalus Cassini",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols. 20–21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "341–342",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Stebbins",
+        "given": "G.L."
+      }
+    ],
+    "title": "Studies in the Cichorieae, Dubyaea and Soroseris, endemics of the Sino-Himalayan region",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Torrey Botanical Club",
+    "issued": "1940",
+    "page": "1–76"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Z.H."
+      },
+      {
+        "family": "Peng",
+        "given": "H."
+      },
+      {
+        "family": "Kilian",
+        "given": "N."
+      }
+    ],
+    "title": "Molecular phylogeny of the Lactuca alliance (Cichorieae subtribe Lactucinae, Asteraceae) with focus on their Chinese centre of diversity detects potential events of reticulation and chloroplast capture",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "PlOS ONE",
+    "issue": "12",
+    "issued": "2013",
+    "page": "82692",
+    "URL": "https://doi.org/10.1371/journal.pone.0082692",
+    "DOI": "10.1371/journal.pone.0082692"
+  },
+  {
+    "author": [
+      {
+        "family": "Weekley",
+        "given": "A.S."
+      },
+      {
+        "family": "Witsell",
+        "given": "C.T."
+      },
+      {
+        "family": "Estes",
+        "given": "L.D."
+      },
+      {
+        "family": "Gandi",
+        "given": "K."
+      },
+      {
+        "family": "Mathews",
+        "given": "K.G."
+      },
+      {
+        "family": "Ebihara",
+        "given": "A."
+      }
+    ],
+    "title": "New combinations, rank changes, and nomenclatural and taxonomic comment in the vascular flora of the southeastern United States",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Journal of the Botanical Research Institute of Texas",
+    "issued": "2011",
+    "page": "437–455"
+  }
+]

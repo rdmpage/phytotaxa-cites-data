@@ -1,0 +1,159 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bennett",
+        "given": "J.J."
+      }
+    ],
+    "title": "Plantae Javanicae rariores, descriptae iconibus illustratae",
+    "publisher": "Veneunt Apud G.H. Allen et Socio",
+    "type": "book",
+    "issued": "1838",
+    "publisher-place": "Londini"
+  },
+  {
+    "author": [
+      {
+        "family": "Hemsley",
+        "given": "W.B."
+      }
+    ],
+    "title": "Hooker’s icones plantarum; or figures, with brief descriptive characters and remarks of new or rare plants",
+    "publisher": "Bentham-Moxon Trustees, Kew",
+    "type": "book",
+    "issued": "1895"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list categories and criteria, Version 3.1. Prepared by the IUCN Species Survival Commision",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanorsavanh",
+        "given": "S."
+      },
+      {
+        "family": "Chantaranothai",
+        "given": "P."
+      }
+    ],
+    "title": "Two new records of Argostemma Wall. (Rubiaceae) for Laos",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Thai Journal of Botany",
+    "issue": "1",
+    "issued": "2013",
+    "page": "21–25"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "The Mabberley’s plant-book, a portable dictionary of plants, their classification and uses",
+    "edition": "3rd",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": null,
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Newman",
+        "given": "M."
+      },
+      {
+        "family": "Ketphanh",
+        "given": "S."
+      },
+      {
+        "family": "Svengsuksa",
+        "given": "B."
+      },
+      {
+        "family": "Thomas",
+        "given": "P."
+      },
+      {
+        "family": "Sengdala",
+        "given": "K."
+      },
+      {
+        "family": "Lamxay",
+        "given": "V."
+      },
+      {
+        "family": "Amstrong",
+        "given": "K."
+      }
+    ],
+    "title": "A checklist of the vascular plant of Lao PDR",
+    "publisher": "Royal Botanic Garden, Edinburgh",
+    "type": "book",
+    "issued": "2007",
+    "page": "394"
+  },
+  {
+    "author": [
+      {
+        "family": "Puff",
+        "given": "C."
+      },
+      {
+        "family": "Chayamarit",
+        "given": "K."
+      },
+      {
+        "family": "Chamchumroon",
+        "given": "V."
+      }
+    ],
+    "title": "Rubiaceae of Thailand: a pictorial guide to indigenous and cultivated genera",
+    "publisher": "Prachachon Ltd",
+    "type": "book",
+    "issued": "2005",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: A global directory of public herbaria and associated staff. New York botanical garden’s virtual herbarium",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.weetgum.nybg.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Flora Indica: or Descriptions of Indian plants",
+    "volume": "2",
+    "publisher": "The Mission Press, Serampore",
+    "type": "book",
+    "issued": "1824",
+    "page": "588"
+  }
+]

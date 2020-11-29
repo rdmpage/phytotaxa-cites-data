@@ -1,0 +1,803 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1855",
+    "page": "1–799"
+  },
+  {
+    "author": [
+      {
+        "family": "Burret",
+        "given": "M.K.E."
+      }
+    ],
+    "title": "Myrtaceen-Studien",
+    "container-title": "Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "15",
+    "type": "chapter",
+    "issued": "1941",
+    "page": "479–550",
+    "URL": "https://doi.org/10.2307/3995084",
+    "DOI": "10.2307/3995084"
+  },
+  {
+    "author": [
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      }
+    ],
+    "container-title": "Flora Brasiliae Meridionalis",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1832",
+    "page": "277–384"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Myrtacées",
+    "editor": [
+      {
+        "family": "Saint-Vincent",
+        "given": "J.B.G.M.",
+        "particle": "Bory de"
+      }
+    ],
+    "volume": "11",
+    "publisher": "Rey et Gravier",
+    "type": "book",
+    "issued": "1827",
+    "publisher-place": "Paris, France"
+  },
+  {
+    "author": [
+      {
+        "family": "Fosberg",
+        "given": "F.R."
+      }
+    ],
+    "title": "Notes on North American Plants",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "III. The American Midland Naturalist",
+    "issue": "3",
+    "issued": "1942",
+    "page": "761–765",
+    "URL": "https://doi.org/10.2307/2420924",
+    "DOI": "10.2307/2420924"
+  },
+  {
+    "author": [
+      {
+        "family": "Gomes",
+        "given": "B.A."
+      }
+    ],
+    "title": "Observações botanico-medicas sobre algumas plantas do Brazil",
+    "container-title": "Memórias de Mathematica e Phisica da Academia Real das Sciencias de Lisboa",
+    "volume": "3",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1812",
+    "page": "1–112, 6"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "note": "555 Gland, Switzerland and Cambridge, UK. Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Kausel",
+        "given": "E."
+      }
+    ],
+    "title": "Beitrag zur Systematik der Myrtaceen",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Arkiv för Botanik",
+    "issue": "3",
+    "issued": "1956",
+    "page": "491–516"
+  },
+  {
+    "author": [
+      {
+        "family": "Kiaerskou",
+        "given": "H.F.C."
+      }
+    ],
+    "title": "Myrtaceae ex India occidentali",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Botanisk Tidsskrift",
+    "issued": "1890",
+    "page": "248–299"
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      }
+    ],
+    "title": "A new name and new combinations in Campomanesia and Pimenta (Myrtaceae",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "3",
+    "issued": "1984",
+    "page": "241–243",
+    "URL": "https://doi.org/10.2307/2806515",
+    "DOI": "10.2307/2806515"
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      }
+    ],
+    "title": "Campomanesia, Pimenta, Blepharocalyx, Legrandia, Acca, Myrrhinium, and Luma (Myrtaceae",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica",
+    "issued": "1986",
+    "page": "1–178"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Collectanea Botanica",
+    "volume": "4",
+    "type": null,
+    "issued": "1821",
+    "publisher-place": "London, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Systema Naturae",
+    "volume": "2",
+    "type": null,
+    "issued": "1759",
+    "publisher-place": "Stockholm, Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "1",
+    "type": null,
+    "issued": "1753",
+    "publisher-place": "Stockholm, Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Liogier",
+        "given": "A.H."
+      }
+    ],
+    "title": "Novitates Antillanae",
+    "volume": "VI",
+    "issue": "1",
+    "type": null,
+    "issued": "1973",
+    "page": "265–280"
+  },
+  {
+    "author": [
+      {
+        "family": "Liogier",
+        "given": "A.H."
+      }
+    ],
+    "title": "Novitates Antillanae XII",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issue": "6",
+    "issued": "1986",
+    "page": "353–360"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      },
+      {
+        "family": "Harris",
+        "given": "S.A."
+      },
+      {
+        "family": "Lughadha",
+        "given": "E.M.N."
+      },
+      {
+        "family": "Benardini",
+        "given": "B."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetics, morphology, and evolution of the large genus Myrcia s.l",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Myrtaceae). International Journal of Plant Sciences",
+    "issue": "7",
+    "issued": "2011",
+    "page": "915–934",
+    "URL": "https://doi.org/10.1086/660913",
+    "DOI": "10.1086/660913"
+  },
+  {
+    "author": [
+      {
+        "family": "Lundell",
+        "given": "C.L."
+      }
+    ],
+    "title": "American Plants IV",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Wrightia",
+    "issue": "1",
+    "issued": "1968",
+    "page": "30–51"
+  },
+  {
+    "author": [
+      {
+        "family": "Lundell",
+        "given": "C.L."
+      }
+    ],
+    "title": "Studies of American Plants – III",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Wrightia",
+    "issue": "5",
+    "issued": "1971",
+    "page": "153–172"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "A preliminary phylogenetic analysis of Eugenia (Myrtaceae: Myrteae), with a focus on Neotropical species",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "KewBulletin",
+    "issue": "2",
+    "issued": "2014",
+    "page": "9497",
+    "URL": "https://doi.org/10.1007/s12225-014-9497-x",
+    "DOI": "10.1007/s12225-014-9497-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "The technical name of allspice",
+    "volume": "165",
+    "type": "article-journal",
+    "container-title": "Contributions from the Gray Herbarium of Harvard University",
+    "issued": "1947",
+    "page": "30–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The Gardeners Dictionary",
+    "volume": null,
+    "issue": "5)",
+    "type": null,
+    "issued": "1768",
+    "publisher-place": "London, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "J.W."
+      }
+    ],
+    "title": "New and critical plants from Raiatea",
+    "volume": "102",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Bernice P. Bishop Museum",
+    "issued": "1933",
+    "page": "1–53"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliveira-Filho",
+        "given": "A.T."
+      },
+      {
+        "family": "Fontes",
+        "given": "M.A."
+      }
+    ],
+    "title": "Patterns of floristic differentiation among Atlantic Forests in southeastern Brazil and the influence of climate",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Biotropica",
+    "issued": "2000",
+    "page": "793–810",
+    "URL": "https://doi.org/10.1646/0006-3606(2000)032",
+    "DOI": "10.1646/0006-3606(2000)032"
+  },
+  {
+    "author": [
+      {
+        "family": "Peguero",
+        "given": "B."
+      }
+    ],
+    "title": "Utilidad de las Myrtáceas en la Republica Dominicana",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Moscosoa",
+    "issued": "2011",
+    "page": "115–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Peguero",
+        "given": "B."
+      },
+      {
+        "family": "Jiménez",
+        "given": "R.F."
+      }
+    ],
+    "title": "Inventario y estado de conservación de plantas exclusivas de la Republica Dominicana",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Moscosoa",
+    "issued": "2011",
+    "page": "29–57"
+  },
+  {
+    "author": [
+      {
+        "given": "P.T."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Lectotypifications of some Nineteenth Century names and other nomenclatural updates in Myrcia s.l",
+    "volume": "257",
+    "type": "article-journal",
+    "container-title": "Myrtaceae). Phytotaxa",
+    "issue": "1",
+    "issued": "2016",
+    "page": "1–33",
+    "publisher-place": "Santos, M.F., Sano",
+    "URL": "https://doi.org/10.11646/phytotaxa.257.1.1",
+    "DOI": "10.11646/phytotaxa.257.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Small",
+        "given": "J.K."
+      }
+    ],
+    "title": "Manual of the Southeastern Flora",
+    "publisher": "NC, United States of America",
+    "type": "book",
+    "issued": "1933",
+    "publisher-place": "Chapel Hill"
+  },
+  {
+    "author": [
+      {
+        "literal": "Snow, N., Dawson, J.W., Callmander, M.W., Gandhi, K. &Munzinger, J."
+      }
+    ],
+    "title": "New species, new combinations, and lectotypifications in New Caledonian Eugenia L",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Myrtaceae). Candollea",
+    "issue": "1",
+    "issued": "2016",
+    "page": "67–81",
+    "URL": "https://doi.org/10.15553/c2016v711a9",
+    "DOI": "10.15553/c2016v711a9"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova genera et species plantarum seu prodromus",
+    "publisher": "Weinheim",
+    "type": "book",
+    "issued": "1788",
+    "publisher-place": "Germany"
+  },
+  {
+    "author": [
+      {
+        "literal": "Tucker, A.O., Maciarello, M.J., Adams, R.P., Landrum, L.R. &Zanoni, T.A."
+      }
+    ],
+    "title": "Volatile leaf oils of Caribbean Myrtaceae. I. Three varieties of Pimenta racemosa (Miller",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "J. Moore of the Dominican Republic and the commercial bay oil. Journal of Essential Oil Research",
+    "issue": "5",
+    "issued": "1991",
+    "page": "323–329",
+    "URL": "https://doi.org/10.1080/10412905.1991.9697952",
+    "DOI": "10.1080/10412905.1991.9697952"
+  },
+  {
+    "author": [
+      {
+        "family": "Tucker",
+        "given": "A.O."
+      },
+      {
+        "family": "Maciarello",
+        "given": "M.J."
+      },
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      }
+    ],
+    "title": "Volatile leaf oils of Caribbean Myrtaceae",
+    "editor": [
+      {
+        "literal": "II. Pimenta dioica (L."
+      }
+    ],
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Journal of Essential Oil Research",
+    "issue": "3",
+    "issued": "1991",
+    "page": "195–196",
+    "URL": "https://doi.org/10.1080/10412905.1991.9700504",
+    "DOI": "10.1080/10412905.1991.9700504"
+  },
+  {
+    "author": [
+      {
+        "family": "Tucker",
+        "given": "A.O."
+      },
+      {
+        "family": "Maciarello",
+        "given": "M.J."
+      },
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      }
+    ],
+    "title": "Volatile leaf oils of Caribbean Myrtaceae. V. Pimenta obscura Proctor of Jamaica",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal of Essential Oil Research",
+    "issue": "2",
+    "issued": "1992",
+    "page": "195–196",
+    "URL": "https://doi.org/10.1080/10412905.1992.9698044",
+    "DOI": "10.1080/10412905.1992.9698044"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "title": "Sertum Antillanum. XIII",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Fedde Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1921",
+    "page": "402–408",
+    "URL": "https://doi.org/10.1002/fedr.19210171924",
+    "DOI": "10.1002/fedr.19210171924"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "title": "Sertum Antillanum. XIX",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Fedde Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1924",
+    "page": "298–308",
+    "URL": "https://doi.org/10.1002/fedr.19240191611",
+    "DOI": "10.1002/fedr.19240191611"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "title": "Plantae haitienses novae vel rariores II",
+    "volume": "20A (5",
+    "type": "article-journal",
+    "container-title": "Arkiv för Botanik",
+    "issued": "1926",
+    "page": "1–65"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      },
+      {
+        "family": "Ekman",
+        "given": "E.L."
+      }
+    ],
+    "title": "Plantae haitienses novae vel rariores VI",
+    "volume": "22A (10",
+    "type": "article-journal",
+    "container-title": "Arkiv för Botanik",
+    "issued": "1929",
+    "page": "1–115"
+  },
+  {
+    "author": [
+      {
+        "family": "Vasconcelos",
+        "given": "T.N.C."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      },
+      {
+        "family": "Ahmad",
+        "given": "B."
+      },
+      {
+        "family": "Aguilar",
+        "given": "D.S."
+      },
+      {
+        "family": "Aguilar",
+        "given": "R."
+      },
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Campbell",
+        "given": "K."
+      },
+      {
+        "family": "Costa",
+        "given": "I.R."
+      },
+      {
+        "family": "De-Carvalho",
+        "given": "P.S."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Giaretta",
+        "given": "A."
+      },
+      {
+        "family": "Kooij",
+        "given": "P.W."
+      },
+      {
+        "family": "Lima",
+        "given": "D.F."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Peguero",
+        "given": "B."
+      },
+      {
+        "family": "Prenner",
+        "given": "G."
+      },
+      {
+        "family": "Santos",
+        "given": "M.F."
+      },
+      {
+        "family": "Soewarto",
+        "given": "J."
+      },
+      {
+        "family": "Wingler",
+        "given": "A."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      }
+    ],
+    "title": "Myrteae phylogeny, calibration, biogeography and diversification patterns: increased understanding in the most species rich tribe of Myrtaceae",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2017",
+    "page": "113–137",
+    "URL": "https://doi.org/10.1016/j.ympev.2017.01.002",
+    "DOI": "10.1016/j.ympev.2017.01.002"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.S.P."
+      }
+    ],
+    "title": "World Checklist of Selected Plant Families",
+    "note": "Available from: apps.kew.org/wcsp/ (accessed October 2017",
+    "type": null,
+    "issued": "2017"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "C.E."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Devey",
+        "given": "D.S."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      }
+    ],
+    "title": "Phylogenetic Relationships in Calyptranthes (Myrtaceae) with particular emphasis on its monophyly relative to Myrcia sl",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "2",
+    "issued": "2016",
+    "page": "378–386",
+    "URL": "https://doi.org/10.1600/036364416X691786",
+    "DOI": "10.1600/036364416X691786"
+  }
+]

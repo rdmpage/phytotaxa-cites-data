@@ -1,0 +1,204 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bescherelle",
+        "given": "É."
+      }
+    ],
+    "title": "Genere Calymperes",
+    "container-title": "Annales des Sciences Naturelles Botanique, sér",
+    "volume": "8 1",
+    "type": "chapter",
+    "issued": "1895",
+    "page": "247–308"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "L.T."
+      }
+    ],
+    "title": "Taxonomic notes on Calymperes",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Journal of Bryology",
+    "issued": "1987",
+    "page": "681–690",
+    "URL": "https://doi.org/10.1179/jbr.1987.14.4.681",
+    "DOI": "10.1179/jbr.1987.14.4.681"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "L.T."
+      }
+    ],
+    "title": "Type specimens of taxa described by C.F. Schwägrichen in the moss genera Calymperes and Syrrhopodon (Musci: Calymperaceae",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Candollea",
+    "issued": "2011",
+    "page": "317–329",
+    "URL": "https://doi.org/10.15553/c2011v662a8",
+    "DOI": "10.15553/c2011v662a8"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "L.T."
+      }
+    ],
+    "title": "Taxonomic notes on Calymperes erosum Müll.Hal",
+    "editor": [
+      {
+        "family": "Calymperaceae)",
+        "given": "C.palisotii Schwägr"
+      }
+    ],
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Journal of Bryology",
+    "issued": "2018",
+    "page": "333–341",
+    "URL": "https://doi.org/10.1080/03736687.2018.1478652",
+    "DOI": "10.1080/03736687.2018.1478652"
+  },
+  {
+    "author": [
+      {
+        "family": "Frey",
+        "given": "W."
+      },
+      {
+        "family": "Stech",
+        "given": "M."
+      }
+    ],
+    "title": "Marchantiophyta, Bryophyta, Anthocerotophyta",
+    "editor": [
+      {
+        "family": "Frey",
+        "given": "W."
+      }
+    ],
+    "container-title": "Syllabus of Plant Families. A. Engler’s Syllabus der Pflanzenfamilien",
+    "edition": "13th",
+    "genre": "Part 3.",
+    "note": "Bryophytes and seedless vascular plants.",
+    "publisher": "Gebrüder Borntraeger",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "9–263",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Shea",
+        "given": "B.J."
+      }
+    ],
+    "title": "A synopsis of the non-leucobryoid Calymperaceae (Musci",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Tropical Bryology Research Reports",
+    "issued": "2001",
+    "page": "1–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Reese",
+        "given": "W.D."
+      },
+      {
+        "family": "Mohamed",
+        "given": "H."
+      }
+    ],
+    "title": "A synopsis of Calymperes (Musci: Calymperaceae) in Malaysia and Adjacent Regions",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "The Bryologist",
+    "issue": "2",
+    "issued": "1985",
+    "page": "98–109",
+    "URL": "https://doi.org/10.2307/3242588",
+    "DOI": "10.2307/3242588"
+  },
+  {
+    "author": [
+      {
+        "family": "Reese",
+        "given": "W.D."
+      },
+      {
+        "family": "Koponen",
+        "given": "T."
+      },
+      {
+        "family": "Norris",
+        "given": "D.H."
+      }
+    ],
+    "title": "Bryophyte flora of the Huon Peninsula, Papua New Guinea",
+    "editor": [
+      {
+        "literal": "XIX. Calymperes, Syrrhopodon and Mitthyridium (Calymperaceae"
+      }
+    ],
+    "volume": "133",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Fennica",
+    "issued": "1986",
+    "page": "151–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Schwägrichen",
+        "given": "F."
+      }
+    ],
+    "title": "Mantissa generum aliquot novorum",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Calymperes. Species Muscorum Frondosorum, Supplementum Primum",
+    "issued": "1816",
+    "page": "333–336"
+  },
+  {
+    "author": [
+      {
+        "family": "Schwägrichen",
+        "given": "F."
+      }
+    ],
+    "title": "Species Muscorum Frondosorum",
+    "volume": "1",
+    "publisher": "Sumtu Joannis Ambrosii Barthii",
+    "type": "article-journal",
+    "container-title": "Supplementum secundum",
+    "issue": "2",
+    "issued": "1824",
+    "page": "88–186",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Weber",
+        "given": "F."
+      }
+    ],
+    "title": "Tabula Exhibens Calyptratarum Operculataeum Muscorum Genera",
+    "publisher": "Christianus Fridericus Mohr",
+    "type": "book",
+    "issued": "1813",
+    "publisher-place": "Kiel, Germany"
+  }
+]

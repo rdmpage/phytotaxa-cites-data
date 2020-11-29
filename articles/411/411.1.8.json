@@ -1,0 +1,611 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Listera",
+    "editor": [
+      {
+        "family": "Aiton",
+        "given": "W."
+      },
+      {
+        "family": "Aiton",
+        "given": "W.T."
+      }
+    ],
+    "edition": "2nd",
+    "volume": "5",
+    "publisher": "Longman, Hurst, Rees, Ormes and Brown, London",
+    "type": "book",
+    "issued": "1813",
+    "page": "201"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "X."
+      },
+      {
+        "family": "Gale",
+        "given": "S.W."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "Platanthera Richard",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "25",
+    "publisher": "Science Press and Missouri Botanical Garden Press",
+    "type": "article-journal",
+    "issued": "2009",
+    "page": "101–114",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Czerepanov",
+        "given": "S.K."
+      }
+    ],
+    "title": "Additamenda et corrigenda ad «Floram URSS",
+    "note": "tomi I-XXX).",
+    "publisher": "Nauka, Leningrad",
+    "type": null,
+    "issued": "1973",
+    "page": "668"
+  },
+  {
+    "author": [
+      {
+        "family": "Czerepanov",
+        "given": "S.K."
+      }
+    ],
+    "title": "Vascular Plants of Russia and Adjacent States (the former USSR",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "1995",
+    "page": "516"
+  },
+  {
+    "author": [
+      {
+        "family": "Finet",
+        "given": "M."
+      }
+    ],
+    "title": "Les orchidées du Japon, principalment d’après les collections de l’herbier du muséum d’histoire naturelle de Paris",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Socieìteì botanique de France",
+    "issued": "1900",
+    "page": "262–286",
+    "URL": "https://doi.org/10.1080/00378941.1900.10828922",
+    "DOI": "10.1080/00378941.1900.10828922"
+  },
+  {
+    "author": [
+      {
+        "family": "Grubov",
+        "given": "V.I."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Grubov",
+        "given": "V.I."
+      }
+    ],
+    "container-title": "Plantae Asiae Centralis (secus materies Instituti botanici nomine",
+    "volume": "vii",
+    "publisher": "Nauka",
+    "note": "in Russian",
+    "issue": "7",
+    "type": "article-journal",
+    "issued": "1977",
+    "page": "102–117",
+    "publisher-place": "Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "Gubanov",
+        "given": "I.A."
+      }
+    ],
+    "title": "Conspectus of Flora of Outer Mongolia (Vascular Plants",
+    "volume": "Moscow",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Valang",
+    "issued": "1996",
+    "page": "136"
+  },
+  {
+    "author": [
+      {
+        "family": "Guettard",
+        "given": "J.É."
+      }
+    ],
+    "title": "Histoire de l’académie royale des sciences. Avec les mémoires de mathématique & de physique",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "L’Imprimerie Royale",
+    "issue": "",
+    "issued": "1754",
+    "page": "374"
+  },
+  {
+    "author": [
+      {
+        "family": "Ivanova",
+        "given": "E.V."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Malyshev",
+        "given": "L.I."
+      },
+      {
+        "family": "Peshkova",
+        "given": "G.A."
+      }
+    ],
+    "publisher": "Nauka",
+    "note": "in Russian",
+    "type": null,
+    "issued": "1987",
+    "page": "125–145",
+    "publisher-place": "Novosibirsk"
+  },
+  {
+    "author": [
+      {
+        "family": "Kitagawa",
+        "given": "M."
+      }
+    ],
+    "title": "Neolineamenta Florae Manshuricae",
+    "volume": "Vaduz",
+    "type": "article-journal",
+    "container-title": "Cramer",
+    "issued": "1979",
+    "page": "715"
+  },
+  {
+    "author": [
+      {
+        "family": "Komarov",
+        "given": "V.L."
+      }
+    ],
+    "title": "Flora Manshuriae",
+    "volume": "1",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Acta Horti Petropolitani",
+    "issued": "1901",
+    "page": "1–560",
+    "URL": "https://doi.org/10.5962/bhl.title.12072",
+    "DOI": "10.5962/bhl.title.12072"
+  },
+  {
+    "author": [
+      {
+        "family": "Kraenzlin",
+        "given": "F."
+      }
+    ],
+    "title": "Orchidaceae Sibiriae",
+    "volume": "3–4",
+    "type": "article-journal",
+    "container-title": "Russkij Botanicheskij Zhurnal",
+    "issued": "1913",
+    "page": "29–60"
+  },
+  {
+    "author": [
+      {
+        "family": "Kraenzlin",
+        "given": "F."
+      }
+    ],
+    "title": "Orchidacearum Sibiriae Enumeratio. Repertorium specierum novarum regni vegetabilis",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Beihefte",
+    "issued": "1931",
+    "page": "1–103"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "T.B."
+      }
+    ],
+    "title": "Illustrated flora of Korea",
+    "publisher": "Hyangmunsa, Seoul",
+    "note": "in Korean",
+    "type": null,
+    "issued": "1989",
+    "page": "990"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Y.N."
+      }
+    ],
+    "title": "Flora of Korea",
+    "publisher": "Kyo-Hak PublishingCo, Seoul",
+    "note": "in Korean",
+    "type": null,
+    "issued": "2002",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Contributions to the Orchidology of India",
+    "volume": "1",
+    "container-title": "the Proceedings of the Linnean Society, Botany",
+    "issue": "1. Journal",
+    "type": "article-journal",
+    "issued": "1857",
+    "page": "170–190",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1857.tb02444.x",
+    "DOI": "10.1111/j.1095-8339.1857.tb02444.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum, exhibentes plantas rite cognitas, ad generarelatas, cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas",
+    "edition": "first",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvii, Stockholm",
+    "URL": "https://doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Observations on the Flora of Japan",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1905",
+    "page": "6–22",
+    "URL": "https://doi.org/10.15281/jplantres1887.19.6",
+    "DOI": "10.15281/jplantres1887.19.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Masamune",
+        "given": "G."
+      }
+    ],
+    "title": "Color illustrated flora of Nippon, 8",
+    "publisher": "Koyo Shoin, Tokyo",
+    "type": "book",
+    "issued": "1969",
+    "page": "295"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximovicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Diagnoses des nouvelles plantes asiatiques, V",
+    "volume": "3, 29",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Academie Imperiale des Sciences de St-Petersbourg Sér",
+    "issued": "1884",
+    "page": "51–227"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakai",
+        "given": "T."
+      }
+    ],
+    "title": "Flora Koreana, pars secunda",
+    "publisher": "Imperial University",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Journal of the College of Science",
+    "issued": "1911",
+    "page": "1–573",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakai",
+        "given": "T."
+      }
+    ],
+    "title": "Plantae Novae Japonicae et Koreanae, III",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1914",
+    "page": "326–334",
+    "URL": "https://doi.org/10.15281/jplantres1887.28.336_326",
+    "DOI": "10.15281/jplantres1887.28.336_326"
+  },
+  {
+    "author": [
+      {
+        "family": "Nevski",
+        "given": "S.A."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Komarov",
+        "given": "V.L."
+      }
+    ],
+    "container-title": "Flora URSS",
+    "volume": "4",
+    "publisher": "AN SSSR",
+    "note": "in Russian",
+    "type": "chapter",
+    "issued": "1935",
+    "page": "589–730, 750–754",
+    "publisher-place": "Moscow and Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "Nevski",
+        "given": "S.A."
+      },
+      {
+        "given": "Ser"
+      }
+    ],
+    "title": "Was ist Listera savatieri Maxim.? Acta Instituti Botanici Academiae Scientarum URSS",
+    "volume": "2",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Plantae vasculares",
+    "issued": "1936",
+    "page": "107–120"
+  },
+  {
+    "author": [
+      {
+        "family": "Noda",
+        "given": "M."
+      }
+    ],
+    "title": "Flora of the N.E. province (Manchuria) of China",
+    "publisher": "Kazama Bookshop Co",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1971",
+    "page": null,
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohwi",
+        "given": "J."
+      }
+    ],
+    "title": "Flora of Japan",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1953",
+    "page": null,
+    "publisher-place": "Shibundo, Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohwi",
+        "given": "J."
+      }
+    ],
+    "title": "Flora of Japan",
+    "publisher": "Smithsonian Institution",
+    "type": "book",
+    "issued": "1965",
+    "page": null,
+    "publisher-place": "Washington"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Orchideologiae Sino-Japonicae Prodromus. Repertorium specierum novarum regni vegetabilis",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Beihefte",
+    "issued": "1919",
+    "page": "1–319"
+  },
+  {
+    "author": [
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      }
+    ],
+    "title": "Systema orchidalium",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Fragmenta Floristica et Geobotanica, Supplementum",
+    "issued": "1995",
+    "page": "1–152"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "A.M.",
+        "given": "Monro"
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code): Adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "note": "Regnum Vegetabile 159. Koeltz, Glashütten.",
+    "type": "chapter",
+    "issued": "2018",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Vyshin",
+        "given": "I.B."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Charkevicz",
+        "given": "S.S."
+      }
+    ],
+    "container-title": "Plantae vasculares orientis extremi sovietici",
+    "publisher": "Nauka, St. Petersburg",
+    "note": "in Russian",
+    "type": "chapter",
+    "issued": "1996",
+    "page": "8"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiegand",
+        "given": "K.M."
+      }
+    ],
+    "title": "A revision of the genus Listera",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1899",
+    "page": "157–171",
+    "URL": "https://doi.org/10.2307/2477763",
+    "DOI": "10.2307/2477763"
+  }
+]

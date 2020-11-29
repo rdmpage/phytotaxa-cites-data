@@ -1,0 +1,448 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Commentationes de leguminosarum generibus",
+    "publisher": "Sollinger",
+    "type": "book",
+    "issued": "1837",
+    "publisher-place": "Vienna"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Flora Brasiliensis 15",
+    "volume": "1B",
+    "type": null,
+    "issued": "1862",
+    "page": "1–201"
+  },
+  {
+    "author": [
+      {
+        "family": "Bezerra",
+        "given": "L.M.P.A."
+      },
+      {
+        "family": "Candido",
+        "given": "E.S."
+      },
+      {
+        "family": "Vargas",
+        "given": "W."
+      },
+      {
+        "family": "Servilha",
+        "given": "J.W."
+      },
+      {
+        "family": "Monteiro",
+        "given": "T.C."
+      },
+      {
+        "given": "Fortuna-Perez"
+      }
+    ],
+    "title": "A.P",
+    "note": "in press) O gênero Rhynchosia (Leguminosae, Papilionoideae, Phaseoleae) no Brasil. Rodriguesia.",
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cândido",
+        "given": "E.S."
+      }
+    ],
+    "title": "Sistemática de Eriosema (Leguminosae: Papilionoideae, Phaseoleae): Sinopse Taxônomica de Eriosema no Brasil e Filogenia",
+    "genre": "PhD thesis.",
+    "publisher": "Universidade Estadual de",
+    "type": "thesis",
+    "issued": "2018",
+    "publisher-place": "Campinas"
+  },
+  {
+    "author": [
+      {
+        "family": "Cristaldo",
+        "given": "A.C.M."
+      }
+    ],
+    "title": "Os Gêneros Eriosema (DC.) DESV. e Rhynchosia Lour. (Leguminosae – Papilionoideae – Phaseoleae) em Mato Grosso do Sul, Brasil",
+    "container-title": "Dissertação de Mestrado. Universidade Federal de Mato Grosso do Sul, Campo Grande",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "49"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Phaseoleae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "issued": "1825",
+    "page": "381–388"
+  },
+  {
+    "author": [
+      {
+        "family": "Desvaux",
+        "given": "N.A."
+      }
+    ],
+    "title": "Euriosma",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles (Paris",
+    "issued": "1826",
+    "page": "421"
+  },
+  {
+    "author": [
+      {
+        "family": "Elliott",
+        "given": "S."
+      }
+    ],
+    "title": "Journal of the Academy of Natural Sciences of Philadelphia",
+    "volume": "1",
+    "issue": "2",
+    "type": null,
+    "issued": "1818",
+    "page": "371–372"
+  },
+  {
+    "author": [
+      {
+        "family": "Endlicher",
+        "given": "S.L."
+      }
+    ],
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Genera Plantarum (Endlicher",
+    "issued": "1840",
+    "page": "1300"
+  },
+  {
+    "author": [
+      {
+        "given": "E.S.R.I."
+      }
+    ],
+    "title": "ArcGIS",
+    "publisher": "Environmental Systems Resource Institute",
+    "type": "book",
+    "issued": "2016",
+    "publisher-place": "Redlands, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Grear",
+        "given": "J.W."
+      }
+    ],
+    "title": "A revision of the New World species of Rhynchosia (Leguminosae, Faboideae",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1978",
+    "page": "1–168"
+  },
+  {
+    "author": [
+      {
+        "family": "Fortunato",
+        "given": "R.H."
+      }
+    ],
+    "title": "Una nueva espécie del género Rhynchosia (Leguminosae",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Darwiniana",
+    "issued": "1982",
+    "page": "497–498"
+  },
+  {
+    "author": [
+      {
+        "family": "Hirt",
+        "given": "A.P.M."
+      },
+      {
+        "family": "Flores",
+        "given": "A.S."
+      }
+    ],
+    "title": "O gênero Rhynchosia Lour. (Leguminosae–Papilionoideae) no estado de Roraima",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Brasil. Revista Brasileira de Biociências",
+    "issued": "2012",
+    "page": "192–197"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 13. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirkbride",
+        "given": "J.H."
+      },
+      {
+        "family": "Gunn",
+        "given": "C.R."
+      },
+      {
+        "family": "Weitzman",
+        "given": "A.L."
+      }
+    ],
+    "title": "Fruits and seeds of genera in the subfamily Faboideae (Fabaceae",
+    "volume": "1890",
+    "type": "article-journal",
+    "container-title": "U.S. Department Agriculture. Technical Bulletin",
+    "issued": "2003",
+    "page": "1–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "G.P."
+      }
+    ],
+    "title": "Legumes of Bahia",
+    "publisher": "The Royal Botanic Gardens, Kew",
+    "type": "book",
+    "issued": "1987"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "G.P."
+      },
+      {
+        "family": "Schrire",
+        "given": "B.D."
+      },
+      {
+        "family": "Mackinder",
+        "given": "B.A."
+      },
+      {
+        "family": "Lock",
+        "given": "M."
+      }
+    ],
+    "title": "Legumes of the world",
+    "type": "article-journal",
+    "container-title": "The Royal Botanic Gardens, Kew",
+    "issued": "2005"
+  },
+  {
+    "author": [
+      {
+        "family": "Loureiro",
+        "given": "J."
+      }
+    ],
+    "title": "Plantas in regno Cochinchina Nascentes",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Flora Cochinchinensis",
+    "issued": "1790",
+    "page": "460"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "E.H.F."
+      }
+    ],
+    "title": "Commentariorum de Plantis Africae Australioris",
+    "volume": "1",
+    "type": null,
+    "issued": "1835",
+    "page": "132"
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "L.P."
+      },
+      {
+        "family": "Sena",
+        "given": "T.S.N."
+      },
+      {
+        "family": "Costa",
+        "given": "M.J.S.L."
+      }
+    ],
+    "title": "Flora vascular da Serra da Jibóia, Santa Terezinha - Bahia. I: O Campo Rupestre",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Sitientibus",
+    "issued": "1996",
+    "page": "27–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "L.P."
+      }
+    ],
+    "title": "Leguminosas da Caatinga. Universidade Estadual de Feira de Santana",
+    "type": null,
+    "issued": "2009",
+    "publisher-place": "Feira de Santana, Bahia"
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "L.P."
+      },
+      {
+        "family": "Cardoso",
+        "given": "D.B.O.S."
+      }
+    ],
+    "title": "A New Large-Flowered Species of Rhynchosia (Leguminosae) from the Brazilian Caatinga Seasonally Dry Woodlands",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "4",
+    "issued": "2018",
+    "page": "975–979",
+    "URL": "https://doi.org/10.1600/036364418X697607",
+    "DOI": "10.1600/036364418X697607"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultes",
+        "given": "L.E."
+      }
+    ],
+    "title": "Hallucinogenic Plants",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1976",
+    "URL": "http://www.holybooks.com/wp-content/uploads/Hallucinogenic-Plants-A-Golden-Guide.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "B.N."
+      }
+    ],
+    "title": "Concepts of species and modes of speciation",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Current Science",
+    "issue": "7",
+    "issued": "2012",
+    "page": "784–790"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobrinho",
+        "given": "J.G.C."
+      },
+      {
+        "family": "Queiroz",
+        "given": "L.P."
+      }
+    ],
+    "title": "Composição florística de um fragmento de mata atlântica na Serra da Jibóia, Santa Terezinha, Bahia, Brasil",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Sitientibus Série Ciências Biológicas",
+    "issue": "1",
+    "issued": "2005",
+    "page": "20–28"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum seu Prodromus",
+    "type": null,
+    "issued": "1788",
+    "page": "105"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Torrey",
+        "given": "J."
+      },
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "A Flora of North America: containing abridged descriptions of all the known indigenous and naturalized plants growing north of Mexico",
+    "publisher": "Wiley and Putnam",
+    "type": "book",
+    "issued": "1838",
+    "page": "284",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.5962/bhl.title.9466",
+    "DOI": "10.5962/bhl.title.9466"
+  }
+]

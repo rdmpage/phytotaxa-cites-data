@@ -1,0 +1,1200 @@
+[
+  {
+    "author": [
+      {
+        "family": "Amano",
+        "given": "M."
+      }
+    ],
+    "title": "Oxalidaceae",
+    "editor": [
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      },
+      {
+        "family": "D.E.",
+        "given": "Boufford"
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "container-title": "Flora of Japan",
+    "volume": "IIb",
+    "publisher": "Kodansha",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "283 –286",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Aoki",
+        "given": "S."
+      }
+    ],
+    "title": "Multiple comparison by Tukey’s method",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2009",
+    "URL": "http://aoki2.si.gunma-u.ac.jp/R/src/tukey.R"
+  },
+  {
+    "author": [
+      {
+        "family": "Borchsenius",
+        "given": "F."
+      }
+    ],
+    "title": "FastGap homepage, FastGap 1.2., Department of Biosciences",
+    "publisher": "Aarhus University",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2009",
+    "publisher-place": "Denmark",
+    "URL": "http://www.aubot.dk/FastGap_home.htm"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "J."
+      }
+    ],
+    "title": "Statistical power analysis for the behavioral sciences",
+    "edition": "2nd",
+    "publisher": "Academic Press",
+    "type": "book",
+    "issued": "1988",
+    "page": "567",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.",
+        "particle": "de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis 1",
+    "publisher": "Treuttel & Würts, Paris",
+    "type": "book",
+    "issued": "1824",
+    "page": "745",
+    "URL": "https://doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Del Re",
+        "given": "A.C."
+      }
+    ],
+    "title": "compute.es: Compute Effect Sizes",
+    "genre": "R package version 0.2-2.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://cran.r-project.org/web/packages/compute.es"
+  },
+  {
+    "author": [
+      {
+        "family": "Deng",
+        "given": "T."
+      },
+      {
+        "family": "Zhang",
+        "given": "D."
+      },
+      {
+        "family": "Liu",
+        "given": "Z."
+      },
+      {
+        "family": "Tucker",
+        "given": "C.G."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      },
+      {
+        "family": "Nie",
+        "given": "Z."
+      }
+    ],
+    "title": "Oxalis wulingensis (Oxalidaceae), an unusual new species from Central China",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2013",
+    "page": "154–161",
+    "URL": "https://doi.org/10.1600/036364413X661953",
+    "DOI": "10.1600/036364413X661953"
+  },
+  {
+    "author": [
+      {
+        "family": "Diels",
+        "given": "F.L.E."
+      }
+    ],
+    "title": "Plantae Chineses Forrestianae. Notes from the Royal botanic garden",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Edinburgh",
+    "issued": "1912",
+    "page": "161–308"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "G."
+      }
+    ],
+    "title": "A general history of the dichlamydeous plants",
+    "volume": "4. J.G. & F.Rivington, London",
+    "type": null,
+    "issued": "1831",
+    "page": "908"
+  },
+  {
+    "author": [
+      {
+        "family": "Donnell Smith",
+        "given": "J."
+      }
+    ],
+    "title": "Undescribed plants from Guatemala. VII",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Botanical Gazette",
+    "issued": "1890",
+    "page": "27–29",
+    "URL": "https://doi.org/10.1086/326494",
+    "DOI": "10.1086/326494"
+  },
+  {
+    "author": [
+      {
+        "family": "Donnell Smith",
+        "given": "J."
+      }
+    ],
+    "title": "Undescribed plants from Guatemala and other central American republics. XVIII",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Botanical Gazette",
+    "issue": "4",
+    "issued": "1897",
+    "page": "235–251",
+    "URL": "https://doi.org/10.1086/327506",
+    "DOI": "10.1086/327506"
+  },
+  {
+    "author": [
+      {
+        "family": "Durlak",
+        "given": "J.A."
+      }
+    ],
+    "title": "How to select, calculate, and interpret effect sizes",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Journal of Pediatric Psychology",
+    "issued": "2009",
+    "page": "917–928",
+    "URL": "https://doi.org/10.1093/jpepsy/jsp004",
+    "DOI": "10.1093/jpepsy/jsp004"
+  },
+  {
+    "author": [
+      {
+        "family": "Farris",
+        "given": "S.J."
+      },
+      {
+        "family": "Kallersjo",
+        "given": "M."
+      },
+      {
+        "family": "Kluge",
+        "given": "G.A."
+      },
+      {
+        "family": "Bult",
+        "given": "C."
+      }
+    ],
+    "title": "Constructing a significance test for incongruence",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1995",
+    "page": "570–572",
+    "URL": "https://doi.org/10.1093/sysbio/44.4.570",
+    "DOI": "10.1093/sysbio/44.4.570"
+  },
+  {
+    "author": [
+      {
+        "family": "Forster",
+        "given": "J.G.A."
+      }
+    ],
+    "title": "Fasciculus Plantarum Magellanicarum",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Commentationes Societatis Regiae Scientiarum Gottingensis",
+    "issued": "1789",
+    "page": "13–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      },
+      {
+        "family": "Savatier",
+        "given": "P.A.L."
+      }
+    ],
+    "title": "Enumeratio plantarum in Japonia sponte crescentium",
+    "volume": "2",
+    "publisher": "F. Savy, Parisiis",
+    "type": "book",
+    "issued": "1878",
+    "page": "789",
+    "URL": "https://doi.org/10.5962/bhl.title.75",
+    "DOI": "10.5962/bhl.title.75"
+  },
+  {
+    "author": [
+      {
+        "family": "Games",
+        "given": "P.A."
+      },
+      {
+        "family": "Howell",
+        "given": "J.F."
+      }
+    ],
+    "title": "Pairwise multiple comparison procedures with unequal N’s and/or variances: a Monte Carlo study",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Journal of Educational Statistics",
+    "issued": "1976",
+    "page": "113–125",
+    "URL": "https://doi.org/10.2307/1164979",
+    "DOI": "10.2307/1164979"
+  },
+  {
+    "author": [
+      {
+        "family": "Ganley",
+        "given": "A.R.D."
+      },
+      {
+        "family": "Kobayashi",
+        "given": "T."
+      }
+    ],
+    "title": "Highly efficient concerted evolution in the ribosomal DNA repeats: total rDNA repeat variation revealed by whole-genome shotgun sequence data",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Genome Research",
+    "issued": "2007",
+    "page": "184–191",
+    "URL": "https://doi.org/10.1101/gr.5457707",
+    "DOI": "10.1101/gr.5457707"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "G.A."
+      },
+      {
+        "family": "Vaio",
+        "given": "M."
+      },
+      {
+        "family": "Guerra",
+        "given": "M."
+      },
+      {
+        "family": "Emshwiller",
+        "given": "E."
+      }
+    ],
+    "title": "Diversification of the American bulb-bearing Oxalis (Oxalidaceae): dispersal to North America and modification of the tristylous breeding system",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2012",
+    "page": "152–164",
+    "URL": "https://doi.org/10.3732/ajb.1100152",
+    "DOI": "10.3732/ajb.1100152"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "H."
+      }
+    ],
+    "title": "Enumeratio spermatophytarum japonicarum",
+    "volume": "3",
+    "publisher": "Iwanami Shoten, Tokyo",
+    "type": "book",
+    "issued": "1954",
+    "page": "337"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "H."
+      }
+    ],
+    "title": "Critical notes on some type specimens of East-Asiatic plants in foreign herbaria (1",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1955",
+    "page": "19–26"
+  },
+  {
+    "author": [
+      {
+        "family": "Hedges",
+        "given": "L.V."
+      },
+      {
+        "family": "Olkin",
+        "given": "I."
+      }
+    ],
+    "title": "Statistical methods for meta-analysis",
+    "publisher": "Academic Press, Orlando",
+    "type": "book",
+    "issued": "1985",
+    "page": "369"
+  },
+  {
+    "author": [
+      {
+        "family": "Heibl",
+        "given": "C."
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      }
+    ],
+    "title": "Distribution models and a dated phylogeny for Chilean Oxalis species reveal occupation of new habitats by different lineages, not rapid adaptive radiation",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "823–834",
+    "URL": "https://doi.org/10.1093/sysbio/sys034",
+    "DOI": "10.1093/sysbio/sys034"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "The Flora of British India",
+    "volume": "1",
+    "issue": "2",
+    "type": null,
+    "issued": "1874",
+    "page": "740",
+    "publisher-place": "Reeve, London",
+    "URL": "https://doi.org/10.5962/bhl.title.678",
+    "DOI": "10.5962/bhl.title.678"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "Flora Boreali-Americana",
+    "volume": "1",
+    "issue": "3",
+    "type": null,
+    "issued": "1831",
+    "page": "351",
+    "URL": "https://doi.org/10.5962/bhl.title.330",
+    "DOI": "10.5962/bhl.title.330"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "C.C."
+      },
+      {
+        "family": "Huang",
+        "given": "B.X."
+      },
+      {
+        "family": "Xu",
+        "given": "L.R."
+      }
+    ],
+    "title": "Oxalidaceae",
+    "editor": [
+      {
+        "family": "Xu",
+        "given": "L.R."
+      },
+      {
+        "family": "Huang",
+        "given": "C.C."
+      }
+    ],
+    "container-title": "Flora Reipubulicae popularis Sinicae",
+    "volume": "43",
+    "publisher": "Science Press",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1998",
+    "page": "3–17",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "S.-F."
+      },
+      {
+        "family": "T.-C",
+        "given": "Huang"
+      }
+    ],
+    "title": "Notes on the flora of Taiwan (8)– Oxalis acetosella and its allies",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "1990",
+    "page": "7–11",
+    "URL": "http://doi.org/",
+    "DOI": "10.6165/tai.1990.35.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "T.-C."
+      },
+      {
+        "family": "Liu",
+        "given": "T.-S."
+      }
+    ],
+    "title": "Oxalidaceae In",
+    "director": [
+      {
+        "family": "Hsieh",
+        "given": "C.-F."
+      },
+      {
+        "family": "Huang",
+        "given": "T.-C."
+      },
+      {
+        "family": "Li",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Lo",
+        "given": "H.-C."
+      },
+      {
+        "family": "Ohashi",
+        "given": "H."
+      },
+      {
+        "family": "Shen",
+        "given": "C.-F."
+      },
+      {
+        "family": "Wang",
+        "given": "J.-C."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Yang",
+        "given": "K.-C."
+      }
+    ],
+    "container-title": "Flora of Taiwan",
+    "edition": "2nd",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "397–402",
+    "publisher-place": "Taipei"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J.von"
+      }
+    ],
+    "title": "~Oxalis~ Monographia, Iconibus Illustrata 25",
+    "volume": "Vienna",
+    "type": "article-journal",
+    "container-title": "Christianum F. Wappler",
+    "issued": "1794",
+    "page": "123",
+    "URL": "https://doi.org/10.5962/bhl.title.888",
+    "DOI": "10.5962/bhl.title.888"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "M.D."
+      }
+    ],
+    "title": "MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "R.G.P."
+      }
+    ],
+    "title": "Ein Beitrag zur systematik und geographischen verbreitung der Oxalidaceen. Botanische Jahrbücher fur Systematik",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issue": "Suppl.",
+    "issued": "1914",
+    "page": "215 –237"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "R.G.P."
+      }
+    ],
+    "title": "Das Pflanzenreich 95",
+    "publisher": "Leipzig",
+    "type": "book",
+    "issued": "1930",
+    "page": "482",
+    "publisher-place": "Engelr, H.G.A"
+  },
+  {
+    "author": [
+      {
+        "family": "Legendre",
+        "given": "P."
+      },
+      {
+        "family": "Lapointe",
+        "given": "F.J."
+      }
+    ],
+    "title": "Assessing the congruence among distance matrices: single malt Scotch whiskies revisited",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Australian and New Zealand Journal of Statistics",
+    "issued": "2004",
+    "page": "615–629",
+    "URL": "https://doi.org/10.1111/j.1467-842X.2004.00357.x",
+    "DOI": "10.1111/j.1467-842X.2004.00357.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.V."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560",
+    "URL": "https://doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Q.R."
+      },
+      {
+        "family": "Watson",
+        "given": "M.F."
+      }
+    ],
+    "title": "Oxalidaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "11",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "2–6",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Lourteig",
+        "given": "A."
+      }
+    ],
+    "title": "Flora of Panama, part IV, Family 84. Oxalidaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1980",
+    "page": "823–850",
+    "URL": "https://doi.org/10.2307/2398959",
+    "DOI": "10.2307/2398959"
+  },
+  {
+    "author": [
+      {
+        "family": "Lourteig",
+        "given": "A."
+      }
+    ],
+    "title": "Oxalis L. subgéneros Monoxalis (Small) Lourt., Oxalis y Trifidus Lourt",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Bradea",
+    "issued": "2000",
+    "page": "201–629"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Observatons [sic] on the Flora of Japan",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine, Tokyo",
+    "issued": "1908",
+    "page": "165–176",
+    "URL": "https://doi.org/10.5962/bhl.title.12017",
+    "DOI": "10.5962/bhl.title.12017"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Diagnoses breves plantarum novarum Japoniae et Mandshuriae",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Mélanges Biologiques Tirés du Bulletin Physico-Mathématique de l’Académie Impèriale des Sciences de St.-Pétersbourg",
+    "issued": "1867",
+    "page": "258–276",
+    "URL": "https://doi.org/10.5962/bhl.title.46306",
+    "DOI": "10.5962/bhl.title.46306"
+  },
+  {
+    "author": [
+      {
+        "family": "Nasir",
+        "given": "Y."
+      }
+    ],
+    "title": "Flora of West Pakistan",
+    "volume": "7",
+    "publisher": "Oxalidaceae. Gordon College",
+    "issue": "4",
+    "type": "book",
+    "issued": "1971",
+    "page": null,
+    "publisher-place": "Rawalpindi"
+  },
+  {
+    "author": [
+      {
+        "family": "Nesom",
+        "given": "G.L."
+      }
+    ],
+    "title": "Oxalidaceae",
+    "container-title": "Flora of North America North of Mexico, Provisional Publication. Flora of North America Association",
+    "note": "12. Available from:",
+    "type": "chapter",
+    "issued": "2016",
+    "URL": "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101501"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohi-Toma",
+        "given": "T."
+      },
+      {
+        "family": "Wu",
+        "given": "S."
+      },
+      {
+        "family": "Yadav",
+        "given": "R.S."
+      },
+      {
+        "family": "Murata",
+        "given": "H."
+      },
+      {
+        "family": "Murata",
+        "given": "J."
+      }
+    ],
+    "title": "Molecular Phylogeny of Typhonium sensu lato and its allied Genera in the tribe Areae of the subfamily Aroideae (Araceae) based on sequences of six chloroplast regions",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2010",
+    "page": "244–251",
+    "URL": "https://doi.org/10.1600/036364410791638315",
+    "DOI": "10.1600/036364410791638315"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "R.Core"
+      }
+    ],
+    "title": "R: A language and environment for statistical computing. R Foundation for Statistical Computing",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "publisher-place": "Vienna, Austria",
+    "URL": "https://www.R-project.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Rasch",
+        "given": "D."
+      },
+      {
+        "family": "Kubinger",
+        "given": "D.K."
+      },
+      {
+        "family": "Moder",
+        "given": "K."
+      }
+    ],
+    "title": "The two-sample t test: pre-testing its assumptions does not pay off",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Statistical Papers",
+    "issued": "2011",
+    "page": "219–231",
+    "URL": "https://doi.org/10.1007/s00362-009-0224-x",
+    "DOI": "10.1007/s00362-009-0224-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Flora Americae Septentrionalis, or a systematic arrangement and description of the Plants of North America, &c. by Frederick Pursh",
+    "volume": "2",
+    "container-title": "vo. with 24 Engravings",
+    "type": "article-journal",
+    "issued": "1818",
+    "page": "265–269",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.5962/bhl.title.100",
+    "DOI": "10.5962/bhl.title.100"
+  },
+  {
+    "author": [
+      {
+        "family": "Reiche",
+        "given": "K."
+      }
+    ],
+    "title": "Zur Kenntnis der chilenischen Arten der Gattung Oxalis",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1894",
+    "page": "259–305"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "B.E."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "L.R."
+      }
+    ],
+    "title": "Comparison of whole chloroplast genome sequences to choose noncoding regions for phylogenetic studies in angiosperms: the tortoise and the hare III",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2007",
+    "page": "275–288",
+    "URL": "https://doi.org/10.3732/ajb.94.3.275",
+    "DOI": "10.3732/ajb.94.3.275"
+  },
+  {
+    "author": [
+      {
+        "family": "Shigala",
+        "given": "C.M."
+      },
+      {
+        "family": "Rajyaguru",
+        "given": "A."
+      }
+    ],
+    "title": "Comparison of post hoc tests for unequal variance",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "International Journal of New Technologies in Science and Engineering",
+    "issued": "2015",
+    "page": "22 –33"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Ochoterena",
+        "given": "H."
+      }
+    ],
+    "title": "Gaps as characters in sequence-based phylogenetic analyses",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2000",
+    "page": "369–381",
+    "URL": "https://doi.org/10.1093/sysbio/49.2.369",
+    "DOI": "10.1093/sysbio/49.2.369"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G.von"
+      }
+    ],
+    "title": "Nomenclator Botanicus",
+    "volume": "1. J.G",
+    "publisher": "Cottae, Stuttgardt & Tubingen",
+    "type": "book",
+    "issued": "1821",
+    "page": "900",
+    "URL": "https://doi.org/10.5962/bhl.title.655",
+    "DOI": "10.5962/bhl.title.655"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (* and other methods). version 4",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Sunderland, Massachusetts",
+    "URL": "https://doi.org/10.1111/j.0014-3820.2002.tb00191.x",
+    "DOI": "10.1111/j.0014-3820.2002.tb00191.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "https://doi.org/10.1007/BF00037152",
+    "DOI": "10.1007/BF00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Filipski",
+        "given": "A."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA6: Molecular evolutionary genetics analysis version 6.0",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "2725–2729",
+    "URL": "https://doi.org/10.1093/molbev/mst197",
+    "DOI": "10.1093/molbev/mst197"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanabe",
+        "given": "A.S."
+      }
+    ],
+    "title": "Kakusan4 and Aminosan: two programs for comparing nonpartitioned, proportional, and separate models for combined molecular phylogenetic analyses of multilocus sequence data",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2011",
+    "page": "914–921",
+    "URL": "https://doi.org/10.1111/j.1755-0998.2011.03021.x",
+    "DOI": "10.1111/j.1755-0998.2011.03021.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Tatewaki",
+        "given": "M."
+      }
+    ],
+    "title": "List of plants of the island of Okushiri (I",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Transactions of the Sapporo Natural History Society",
+    "issued": "1940",
+    "page": "85–86"
+  },
+  {
+    "author": [
+      {
+        "family": "Terao",
+        "given": "H."
+      }
+    ],
+    "title": "Phytogeographical and taxonomical studies on Japanese Oxalis acetosella s.l",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issued": "1979",
+    "page": "45–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Terao",
+        "given": "H."
+      }
+    ],
+    "title": "Note on Philippine Oxalis acetosella",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issued": "1981",
+    "page": "74"
+  },
+  {
+    "author": [
+      {
+        "family": "Torrey",
+        "given": "J."
+      },
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "A flora of North America",
+    "volume": "1",
+    "publisher": "Wiley and Putnam",
+    "issue": "2",
+    "type": "book",
+    "issued": "1838",
+    "page": "711",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.5962/bhl.title.9466",
+    "DOI": "10.5962/bhl.title.9466"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Continuously updated] Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "New York botanical Garden. available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "A Guide to Method and Applications",
+    "issued": "1990",
+    "page": "315–322",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamamoto",
+        "given": "Y."
+      }
+    ],
+    "title": "Observationes ad Floram Formosanam",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "II. Journal of the Society of Tropical Agriculture",
+    "issued": "1932",
+    "page": "51–52"
+  }
+]

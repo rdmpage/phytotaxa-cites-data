@@ -1,0 +1,150 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax theatri botanici. Sumptibus et typis Ludovici Regis",
+    "publisher": "Basel",
+    "type": "book",
+    "issued": "1623",
+    "page": "522",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.712",
+    "DOI": "10.5962/bhl.title.712"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      },
+      {
+        "family": "Cherler",
+        "given": "J.C."
+      }
+    ],
+    "volume": "3. Ebroduni [Yverdon",
+    "type": "article-journal",
+    "container-title": "Historia plantarum",
+    "issued": "1651",
+    "page": "1074"
+  },
+  {
+    "author": [
+      {
+        "family": "Invernón",
+        "given": "R."
+      },
+      {
+        "family": "Devesa",
+        "given": "J.A."
+      }
+    ],
+    "title": "Revisión taxonómica de Centaurea sect. Seridia (Juss.) DC. (Asteraceae) en la Península Ibérica e Islas Baleares",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Malacitana",
+    "issued": "2013",
+    "page": "49–102"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Order out of chaos: Linnaean plant names and their types",
+    "container-title": "Linnean Society of London and the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "note": "Salvius, Holmiae [Stockholm], 1200",
+    "type": "article-journal",
+    "container-title": "L",
+    "issued": "1753",
+    "page": null,
+    "URL": "http://dx.doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Ray",
+        "given": "J."
+      },
+      {
+        "family": "Smith",
+        "given": "S."
+      },
+      {
+        "family": "Walford",
+        "given": "B."
+      },
+      {
+        "given": "Londini"
+      }
+    ],
+    "title": "Historia plantarum generalis",
+    "volume": "1",
+    "type": null,
+    "issued": "1693",
+    "page": "983"
+  },
+  {
+    "author": [
+      {
+        "family": "Croix",
+        "given": "F.B.de",
+        "particle": "Sauvages de la"
+      }
+    ],
+    "title": "Methodus foliorum, seu Plantae florae Monspeliensis",
+    "publisher": "La Haye",
+    "type": "book",
+    "issued": "1751",
+    "page": "343"
+  },
+  {
+    "author": [
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Garcia-Jacas",
+        "given": "N."
+      }
+    ],
+    "title": "Tribe Cardueae",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "container-title": "Kubitzki’s The families and genera of vascular plants",
+    "volume": "8",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "123–147",
+    "publisher-place": "Berlin"
+  }
+]

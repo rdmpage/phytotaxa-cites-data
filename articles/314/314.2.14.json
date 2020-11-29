@@ -1,0 +1,134 @@
+[
+  {
+    "author": [
+      {
+        "literal": "Govaerts, R., Simpson, D. A., Bruhl, J., Egorova, T., Goetghebeur, P. &Wilson, K."
+      }
+    ],
+    "title": "World Checklist of Cyperaceae",
+    "publisher": "Royal Botanic Gardens, Kew",
+    "type": "book",
+    "issued": "2007"
+  },
+  {
+    "author": [
+      {
+        "family": "Karthikeyan",
+        "given": "S."
+      },
+      {
+        "family": "Jain",
+        "given": "S.K."
+      },
+      {
+        "family": "Nayar",
+        "given": "M.P."
+      },
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "Cyperaceae",
+    "publisher": "Monocotyledonae. Botanical Survey of India",
+    "type": "book",
+    "issued": "1989",
+    "page": "71–73",
+    "publisher-place": "Flora IndicaeEnumeratio"
+  },
+  {
+    "author": [
+      {
+        "family": "Kern",
+        "given": "J.H."
+      },
+      {
+        "family": "Malaysian",
+        "given": "X.Notes",
+        "particle": "on"
+      },
+      {
+        "family": "S. E",
+        "particle": "some"
+      }
+    ],
+    "title": "Florae Malesianae Precursores",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issue": "1",
+    "issued": "1955",
+    "page": "110–169"
+  },
+  {
+    "author": [
+      {
+        "family": "Kern",
+        "given": "J.H."
+      },
+      {
+        "family": "Malaysian",
+        "given": "X.Notes",
+        "particle": "on"
+      },
+      {
+        "family": "S. E",
+        "particle": "some"
+      }
+    ],
+    "title": "Florae Malesianae Precursores",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Reinwardtia",
+    "issued": "1956",
+    "page": "89–97"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Enumeratio Plantarum",
+    "volume": null,
+    "issue": "agen",
+    "type": null,
+    "issued": "1804",
+    "page": "134"
+  },
+  {
+    "author": [
+      {
+        "family": "Wadood Khan",
+        "given": "M.A."
+      }
+    ],
+    "title": "Fimbristylis Vahl in Cyperaceae of Western Ghats, West Coast and Maharashtra",
+    "type": null,
+    "issued": "2015"
+  },
+  {
+    "author": [
+      {
+        "family": "Wadood Khan",
+        "given": "M.A."
+      },
+      {
+        "family": "Bhuskute",
+        "given": "S.M."
+      },
+      {
+        "family": "Kahlakar",
+        "given": "V.I."
+      }
+    ],
+    "title": "Novelties in Cyperaceae VIII, A new section and new species of Fimbristylis Vahl from Maharashtra, India",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Journal of Bioinfolet",
+    "issue": "1",
+    "issued": "2011",
+    "page": "1–4"
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brade",
+        "given": "A.C."
+      }
+    ],
+    "title": "Espécies novas de plantas do Estado do Rio de Janeiro",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Arquivos do Museu Nacacional do Rio de Janeiro",
+    "issued": "1932",
+    "page": "110–123"
+  },
+  {
+    "author": [
+      {
+        "family": "Brade",
+        "given": "A.C."
+      }
+    ],
+    "title": "Contribuição para o conhecimento da flora do Estado do Espírito Santo II. Espécies novas da família Rubiaceae",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Archivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1949",
+    "page": "14–18"
+  },
+  {
+    "author": [
+      {
+        "family": "Browne",
+        "given": "P."
+      }
+    ],
+    "title": "The Civil and Natural History of Jamaica in Three Parts. Published by the Author",
+    "type": null,
+    "issued": "1756",
+    "page": "1–144",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Cardoso",
+        "given": "D.B.O.S."
+      },
+      {
+        "family": "Queiroz",
+        "given": "L.P."
+      }
+    ],
+    "title": "Floristic composition of Seasonally dry Tropical forest fragments in central Bahia, Northeastern Brazil",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Journal of the Botanical Research Institute of Texas",
+    "issued": "2008",
+    "page": "551 573"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: version 3.1., IUCN-Species Survial Commission",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2001",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, U.K., ii"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Rubiaceae: Tribus Naucleeae",
+    "director": [
+      {
+        "family": "Henriquezieae",
+        "given": "Cinchoneae"
+      },
+      {
+        "family": "Rondeletieae",
+        "given": "Condamineeae"
+      },
+      {
+        "family": "Hedyotideae",
+        "given": "Mussaendae"
+      },
+      {
+        "family": "Catesbaeeae",
+        "given": "Hamelieae"
+      },
+      {
+        "given": "Gardenieae)"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.P.F."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Apud Frid. Fleischer, Monachi et Lipsiae",
+    "issued": "1889",
+    "page": "125–466"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum, a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2013",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

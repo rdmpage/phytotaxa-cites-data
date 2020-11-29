@@ -1,0 +1,436 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bernal",
+        "given": "R."
+      }
+    ],
+    "title": "Oleaceae",
+    "editor": [
+      {
+        "family": "Bernal",
+        "given": "R."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Celis",
+        "given": "M."
+      },
+      {
+        "given": "M."
+      }
+    ],
+    "container-title": "Catálogo de plantas y líquenes de Colombia. Instituto de Ciencias Naturales, Univ",
+    "publisher": "Nacional de Colombia",
+    "type": "chapter",
+    "issued": "2015",
+    "publisher-place": "Bogotá"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Prodromus Florae Nova Hollandiae 1",
+    "publisher": "Richard Taylor & associates, London",
+    "type": "book",
+    "issued": "1810",
+    "page": "590"
+  },
+  {
+    "author": [
+      {
+        "family": "Chodat",
+        "given": "R."
+      },
+      {
+        "family": "Hassler",
+        "given": "E."
+      }
+    ],
+    "title": "Plantae Hasslerianae souté numération des plantes récoltées au Paraguay par le Dr. Émile Hassler, d‘Aarau (Suisse) de 1885 à 1902",
+    "volume": "2, 3",
+    "type": "article-journal",
+    "container-title": "Bulletin de l‘Herbier Boissier Série",
+    "issued": "1903",
+    "page": "906–941"
+  },
+  {
+    "author": [
+      {
+        "family": "Dauby",
+        "given": "G."
+      }
+    ],
+    "title": "ConR: Computation of Parameters Used in Preliminary Assessment of Conservation Status",
+    "genre": "R package version 1.2.2.",
+    "note": "Available from :",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://CRAN.project.org/package=ConR"
+  },
+  {
+    "author": [
+      {
+        "family": "Dumortier",
+        "given": "B.C.J."
+      }
+    ],
+    "title": "Florula belgica",
+    "volume": "Tournai",
+    "type": "article-journal",
+    "container-title": "J. Casterman",
+    "issued": "1827",
+    "page": "172"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernández-Alonso",
+        "given": "J.L."
+      },
+      {
+        "family": "Cogollo-Pacheco",
+        "given": "A."
+      }
+    ],
+    "title": "Chionanthus megistocarpus (Oleaceae), a new species from the Western Cordillera of Colombia",
+    "volume": "269",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2016",
+    "page": "14–20",
+    "URL": "https://doi.org/10.11646/phytotaxa.269.1.2",
+    "DOI": "10.11646/phytotaxa.269.1.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernández-Alonso",
+        "given": "J.L."
+      },
+      {
+        "family": "Cogollo-Pacheco",
+        "given": "Á."
+      }
+    ],
+    "title": "Sinopsis de Chionanthus (Oleaceae) en Colombia y países limítrofes y descripción de una nueva especie",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issue": "1",
+    "issued": "2017",
+    "page": "1–12",
+    "URL": "https://doi.org/10.3989/ajbm.2442",
+    "DOI": "10.3989/ajbm.2442"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Miscellaneous botanical contributions",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "11",
+    "type": "paper-conference",
+    "issued": "1786",
+    "page": "71–104"
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "P.S."
+      }
+    ],
+    "title": "A revision of Chionanthus (Oleaceae) in S. America and the description of Priogymnanthus, gen. nov",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1994",
+    "page": "261–286",
+    "URL": "https://doi.org/10.2307/4110264",
+    "DOI": "10.2307/4110264"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoffmannsegg",
+        "given": "J.C."
+      },
+      {
+        "family": "Link",
+        "given": "J.H.F."
+      }
+    ],
+    "title": "Flore Portugaise. Tome 1",
+    "publisher": "Charles Fréderic Amelang",
+    "type": "book",
+    "issued": "1809",
+    "page": "458",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria",
+    "volume": "3",
+    "edition": "2a",
+    "note": "Prepared by the IUCN Species Survival Commision. Gland and Cambridge. United Kingdom.",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "1",
+    "issued": "2012"
+  },
+  {
+    "author": [
+      {
+        "given": "J.S.T.O.R."
+      }
+    ],
+    "title": "Global Plants database JSTOR",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://plants.jstor.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum 1–2",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm, Laurentii Salvii"
+  },
+  {
+    "author": [
+      {
+        "family": "Lombardi",
+        "given": "J.A."
+      }
+    ],
+    "title": "Priogymnanthus saxicolus (Oleaceae), a new species from Minas Gerais, Brazil",
+    "volume": "221",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "66–70",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.221.1.6",
+    "DOI": "10.11646/phytotaxa.221.1.6"
+  },
+  {
+    "editor": [
+      {
+        "family": "Pizano",
+        "given": "C."
+      },
+      {
+        "family": "García",
+        "given": "H."
+      }
+    ],
+    "title": "El Bosque Seco Tropical en Colombia",
+    "container-title": "Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH",
+    "type": "chapter",
+    "issued": "2014",
+    "page": "349",
+    "publisher-place": "Bogotá, Colombia"
+  },
+  {
+    "author": [
+      {
+        "family": "Poiret",
+        "given": "J.L.M."
+      }
+    ],
+    "title": "Encyclopédie méthodique",
+    "volume": "2",
+    "publisher": "Chez Plomteux, Liège",
+    "type": "article-journal",
+    "container-title": "Botanique",
+    "issue": "2",
+    "issued": "1812",
+    "page": "491"
+  },
+  {
+    "author": [
+      {
+        "family": "Planet",
+        "given": "Protected"
+      }
+    ],
+    "title": "The World Data Base on Protected Areas",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://www.protectedplanet.net/"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "R.Core"
+      }
+    ],
+    "title": "R: A language and environment for statistical computing. R Foundation for Statistical Computing",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "publisher-place": "Vienna, Austria",
+    "URL": "https://www.R-project.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Sher",
+        "given": "A.M."
+      },
+      {
+        "family": "Weber",
+        "given": "A."
+      }
+    ],
+    "title": "Floral ontogeny of Oleaceae and its systematic implications",
+    "volume": "170",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issue": "7",
+    "issued": "2009",
+    "page": "845–859",
+    "URL": "https://doi.org/10.1086/599074",
+    "DOI": "10.1086/599074"
+  },
+  {
+    "author": [
+      {
+        "family": "Ståhl",
+        "given": "B."
+      }
+    ],
+    "title": "Oleaceae",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Flora of Ecuador",
+    "issued": "1991",
+    "page": "47–56"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicosorg"
+      }
+    ],
+    "title": "Tropicos.org. Missouri Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "http://www.tropicos.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallander",
+        "given": "E."
+      },
+      {
+        "family": "Albert",
+        "given": "V.A."
+      }
+    ],
+    "title": "Phylogeny and classification of Oleaceae based on rps16 and trnL-F sequence data",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "American Journal of botany",
+    "issue": "12",
+    "issued": "2000",
+    "page": "1827–1841",
+    "URL": "https://doi.org/10.2307/2656836",
+    "DOI": "10.2307/2656836"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallander",
+        "given": "E."
+      },
+      {
+        "family": "Albert",
+        "given": "V.A."
+      }
+    ],
+    "title": "Erratum",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "390",
+    "URL": "https://doi.org/10.2307/2657102",
+    "DOI": "10.2307/2657102"
+  },
+  {
+    "author": [
+      {
+        "family": "Zedane",
+        "given": "L."
+      },
+      {
+        "family": "Hong-Wa",
+        "given": "C."
+      },
+      {
+        "family": "Murienne",
+        "given": "J."
+      },
+      {
+        "family": "Jeziorski",
+        "given": "C."
+      },
+      {
+        "family": "Baldwin",
+        "given": "B.G."
+      },
+      {
+        "family": "Besnard",
+        "given": "G."
+      }
+    ],
+    "title": "Museomics illuminate the history of an extinct, paleoendemic plant lineage (Hesperelaea, Oleaceae) known from an 1875 collection from Guadalupe Island, Mexico",
+    "volume": "1117",
+    "type": "article-journal",
+    "container-title": "Biological Journal of the Linnean Society",
+    "issued": "2016",
+    "page": "44–57"
+  }
+]

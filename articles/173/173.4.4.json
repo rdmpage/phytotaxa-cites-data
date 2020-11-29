@@ -1,0 +1,156 @@
+[
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Observations sur les plantes Composées ou syngenéses (I",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Annales du Muséum National d’Histoire Naturelle",
+    "issued": "1810",
+    "page": "135–208"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H."
+      }
+    ],
+    "title": "Proposition d’un nouveau genre de plantes (Jurinea",
+    "volume": "1821",
+    "type": "article-journal",
+    "container-title": "Bulletin des Sciences, par la Societe Philomatique de Paris",
+    "issued": "1821",
+    "page": "140–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgeworth",
+        "given": "M.P."
+      }
+    ],
+    "title": "Descriptions of some unpublished species of plants from north-western India",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1846",
+    "page": "23–91",
+    "URL": "http://dx.doi.org/10.1111/j.1096-3642.1846.tb00410.x",
+    "DOI": "10.1111/j.1096-3642.1846.tb00410.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Fujikawa",
+        "given": "K."
+      },
+      {
+        "family": "Kita",
+        "given": "Y."
+      },
+      {
+        "family": "Ohba",
+        "given": "H."
+      }
+    ],
+    "title": "Taxonomic status of Saussurea yakla (Asteraceae) from the Himalayas",
+    "volume": "82",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "2007",
+    "page": "130–136"
+  },
+  {
+    "author": [
+      {
+        "family": "Fujikawa",
+        "given": "K."
+      },
+      {
+        "family": "Ngai",
+        "given": "S.G."
+      }
+    ],
+    "title": "Taxonomic studies in the Asteraceae of Myanmar II: a new species, Himaleiella natmataungensis (Asteraceae), reported from Natma Taung National Park, Chin State, west-central Myanmar",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Makinoa new series",
+    "issued": "2012",
+    "page": "165–171"
+  },
+  {
+    "author": [
+      {
+        "family": "Raab-Straube",
+        "given": "E.von"
+      }
+    ],
+    "title": "Phylogenetic relationships in Saussurea (Compositae, Cardueae) sensu lato, inferred from morphological, ITS and trnL-trnF sequence data, with a synopsis of Himalaiella gen. nov., Lipschitziella and Frolovia",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2003",
+    "page": "379–402"
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "Z."
+      },
+      {
+        "family": "Raab-Straube",
+        "given": "E.von"
+      }
+    ],
+    "title": "Saussurea group",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Science Press, Beijing and Missouri Botanical Garden Press, St Louis",
+    "type": "book",
+    "issued": "2011",
+    "page": "42–149"
+  },
+  {
+    "author": [
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Garcia-Jacas",
+        "given": "N."
+      }
+    ],
+    "title": "Tribe Cardueae Cass",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants 8",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "123–146",
+    "publisher-place": "Berlin, Heidelberg & New York"
+  }
+]

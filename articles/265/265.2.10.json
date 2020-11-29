@@ -1,0 +1,230 @@
+[
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      },
+      {
+        "given": "Don"
+      }
+    ],
+    "title": "Betula utilis D",
+    "type": null,
+    "issued": "1825"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Museum Botanicum, 1",
+    "publisher": "E.J. Brill, Leiden",
+    "type": "book",
+    "issued": "1850",
+    "page": "448"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "X.Q."
+      },
+      {
+        "family": "Phillip",
+        "given": "J.C."
+      },
+      {
+        "family": "Stephan",
+        "given": "W.G."
+      }
+    ],
+    "title": "Oreorchis",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "publisher": "Science Press & MBG",
+    "type": "book",
+    "issued": "2009",
+    "page": "245–248",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Handel-Mazzetti",
+        "given": "H."
+      }
+    ],
+    "title": "Oreorchis Lindl",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Symbolae Sinicae",
+    "issued": "1936",
+    "page": "1353–1355"
+  },
+  {
+    "author": [
+      {
+        "family": "Hemsley",
+        "given": "W.B."
+      }
+    ],
+    "title": "1.Halesia fortunei Hemsl",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1889",
+    "page": "75–76"
+  },
+  {
+    "author": [
+      {
+        "family": "J.D",
+        "given": "Hooker"
+      }
+    ],
+    "title": "The flora of British India, 5",
+    "publisher": "L. Reeve",
+    "type": "book",
+    "issued": "1890",
+    "page": "910",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "J.D",
+        "given": "Hooker"
+      }
+    ],
+    "title": "The flora of British India, 6",
+    "publisher": "L. Reeve, London",
+    "type": "book",
+    "issued": "1894",
+    "page": "793"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "S.Y."
+      }
+    ],
+    "title": "The Orchidaceae of China VIII",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Quarterly Journal of the Taiwan Museum",
+    "issued": "1974",
+    "page": "452–445"
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "K.Y."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "W."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1994",
+    "page": "357",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindey",
+        "given": "J."
+      }
+    ],
+    "title": "The genera and species of orchidaceous plants",
+    "publisher": "Ridgways, London",
+    "type": "book",
+    "issued": "1840",
+    "page": "495"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Contributions to the orchidology of India",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "II. Journal of the Proceedings of the Linnean Society",
+    "issue": "suppl",
+    "issued": "1859",
+    "page": "1–68"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Observations on the Flora of Japan",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1906",
+    "page": "91–94",
+    "URL": "http://dx.doi.org/10.15281/jplantres1887.20.238_91",
+    "DOI": "10.15281/jplantres1887.20.238_91"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearce",
+        "given": "N."
+      },
+      {
+        "family": "Cribb",
+        "given": "P."
+      }
+    ],
+    "title": "A revision of the genus Oreorchis (Orchidaceae",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Edinburgh Journal of Botany",
+    "issued": "1997",
+    "page": "289–328"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Orchideologiae Sino-Japonicae Prodromus. III. Revision der bis jetzt bekannt gewordenen japanisch-chinesischen Orchideen",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis, Beihefte",
+    "issued": "1919",
+    "page": "79–297"
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blake",
+        "given": "S.F."
+      }
+    ],
+    "title": "Eleven new American Asteraceae",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Journal of the Washington Academy of Sciences",
+    "issued": "1938",
+    "page": "478–492"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "Adénostylées. Adenostyles",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      }
+    ],
+    "container-title": "Dictionnaire des Sciences Naturelles",
+    "volume": "1",
+    "publisher": "F.G. Levrault",
+    "issue": "Suppl.",
+    "type": "article-journal",
+    "issued": "1816",
+    "page": "59–60",
+    "publisher-place": "Strasbourg; Le Normant, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "Psacalion, Psacalium",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      }
+    ],
+    "container-title": "Dictionnaire des Sciences Naturelles",
+    "volume": "ed. 2), vol. 43",
+    "publisher": "F.G. Levrault",
+    "type": "chapter",
+    "issued": "1826",
+    "page": "461–462",
+    "publisher-place": "Strasbourg; Le Normant, Paris"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Red List of Threatened Species. International Union for Conservation of Nature, Version 2017-3",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org"
+  },
+  {
+    "author": [
+      {
+        "family": "La Llave",
+        "given": "P."
+      }
+    ],
+    "title": "Roldana",
+    "editor": [
+      {
+        "family": "La Lave",
+        "given": "P."
+      },
+      {
+        "family": "Lexarza",
+        "given": "J.J.M.de"
+      }
+    ],
+    "container-title": "Novorum Vegetabilium Descriptiones",
+    "volume": "2",
+    "publisher": "Apud Martinium Riveram",
+    "type": "chapter",
+    "issued": "1825",
+    "page": "10",
+    "publisher-place": "Mexico"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von"
+      }
+    ],
+    "volume": "L",
+    "type": "article-journal",
+    "container-title": "Species Plantarum",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Compositarum Mexicanarum Pugillus",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Contributions from the Michigan Herbarium",
+    "issued": "1972",
+    "page": "359–484"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Psacalium",
+    "editor": [
+      {
+        "family": "Anderson",
+        "given": "W.R."
+      }
+    ],
+    "container-title": "Flora Novo-Galiciana",
+    "volume": "12",
+    "publisher": "University of Michigan Press, Ann Arbor",
+    "type": "chapter",
+    "issued": "1984",
+    "page": "771–778"
+  },
+  {
+    "author": [
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      }
+    ],
+    "title": "Senecioneae",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants",
+    "volume": "8",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "208–241",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      },
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Watson",
+        "given": "L.E."
+      }
+    ],
+    "title": "Senecioneae",
+    "editor": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Sussana",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T.F."
+      },
+      {
+        "family": "Bayer",
+        "given": "R.J."
+      }
+    ],
+    "container-title": "Systematics, Evolution and Biogeography of the Compositae",
+    "publisher": "International Association for Plant Taxonomy",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "504–524",
+    "publisher-place": "Vienna"
+  },
+  {
+    "author": [
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Watson",
+        "given": "L.E."
+      }
+    ],
+    "title": "An ITS phylogeny of tribe Senecioneae (Asteraceae) and a new delimitation of Senecio L",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2007",
+    "page": "1077–1104",
+    "URL": "https://doi.org/10.2307/25065905",
+    "DOI": "10.2307/25065905"
+  },
+  {
+    "author": [
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "Kennedy",
+        "given": "A.H."
+      },
+      {
+        "family": "Tepe",
+        "given": "E.J."
+      },
+      {
+        "family": "Shidler",
+        "given": "J.B."
+      },
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Watson",
+        "given": "L.E."
+      }
+    ],
+    "title": "Patterns and causes of incongruence between plastid and nuclear Senecioneae (Asteraceae) phylogenies",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2010",
+    "page": "856–873",
+    "URL": "https://doi.org/10.3732/ajb.0900287",
+    "DOI": "10.3732/ajb.0900287"
+  },
+  {
+    "author": [
+      {
+        "family": "Pippen",
+        "given": "R.W."
+      }
+    ],
+    "title": "Mexican “Cacaloid” genera allied to Senecio (Compositae",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Contributions from the United States National Herbarium",
+    "issued": "1968",
+    "page": "365–447"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Florula ludoviciana",
+    "publisher": "Wiley & Co",
+    "type": "book",
+    "issued": "1817",
+    "page": "178",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Redonda-Martínez",
+        "given": "R."
+      },
+      {
+        "family": "Villaseñor",
+        "given": "J.L."
+      }
+    ],
+    "title": "Asteraceae, Tribu Senecioneae",
+    "editor": [
+      {
+        "family": "Medina-Lemos",
+        "given": "R."
+      },
+      {
+        "family": "Sánchez-Ken",
+        "given": "J.G."
+      },
+      {
+        "family": "García-Mendoza",
+        "given": "A."
+      },
+      {
+        "family": "Arias-Montes",
+        "given": "S."
+      }
+    ],
+    "container-title": "Flora del Valle de Tehuacán-Cuicatlán",
+    "volume": "89",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "1–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Brettell",
+        "given": "R.D."
+      }
+    ],
+    "title": "Studies in the Senecioneae (Asteraceae). I. A new genus Pittocaulon",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1973",
+    "page": "451–453",
+    "URL": "https://doi.org/10.5962/bhl.part.13731",
+    "DOI": "10.5962/bhl.part.13731"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Brettell",
+        "given": "R.D."
+      }
+    ],
+    "title": "Studies in the Senecioneae (Asteraceae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "III. The genus Psacalium. Phytologia",
+    "issued": "1973",
+    "page": "254–264"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Brettell",
+        "given": "R.D."
+      }
+    ],
+    "title": "Studies in the Senecioneae (Asteraceae). V. The genera Psacaliopsis, Barkleyanthus, Telanthophora and Roldana",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1974",
+    "page": "402–439",
+    "URL": "https://doi.org/10.5962/bhl.part.13922",
+    "DOI": "10.5962/bhl.part.13922"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "B.L."
+      }
+    ],
+    "title": "An overview of the Mexican genus Digitacalia (Asteraceae, Senecioneae",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1990",
+    "page": "150–159",
+    "URL": "https://doi.org/10.5962/bhl.part.17992",
+    "DOI": "10.5962/bhl.part.17992"
+  },
+  {
+    "author": [
+      {
+        "family": "Villaseñor",
+        "given": "J.L."
+      }
+    ],
+    "title": "Checklist of the vascular plants of Mexico",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issued": "2016",
+    "page": "559–902",
+    "URL": "https://doi.org/10.1016/j.rmb.2016.06.017",
+    "DOI": "10.1016/j.rmb.2016.06.017"
+  },
+  {
+    "author": [
+      {
+        "family": "Zuccarini",
+        "given": "J.G."
+      }
+    ],
+    "title": "Plantarum novarum vel minus cognitarum, quae in horto botánico herbarioque regio monacensi servantur, fasciculus primus",
+    "container-title": "Abhandlungen der Mathematisch-Physikalischen Classe der Königlich Bayerischen Akademie der Wissenschaften",
+    "volume": "1",
+    "type": "chapter",
+    "issued": "1832",
+    "page": "289–396"
+  }
+]

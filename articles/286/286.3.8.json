@@ -1,0 +1,121 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Hooker’s Icones Plantarum",
+    "volume": "12",
+    "publisher": "Longman, Rees, Orme, Brown, Green, & Longman, etc",
+    "type": "book",
+    "issued": "1873",
+    "page": "36 39",
+    "publisher-place": "London",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.16059",
+    "DOI": "10.5962/bhl.title.16059"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "C.C."
+      }
+    ],
+    "title": "New species of Senecio and its allied genera",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1951",
+    "page": "313 323"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A."
+      }
+    ],
+    "title": "Les genres Ligularia, Senecillis, Cremanthodium et leurs espèces dans l’Asie centrale et orientale [part",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1892",
+    "page": "279–288",
+    "URL": "http://dx.doi.org/10.1080/00378941.1892.10828665",
+    "DOI": "10.1080/00378941.1892.10828665"
+  },
+  {
+    "author": [
+      {
+        "family": "Léveillé",
+        "given": "H."
+      }
+    ],
+    "title": "Catalogue des Plantes du Yun-Nan",
+    "publisher": "Le Mans",
+    "type": "book",
+    "issued": "1916",
+    "page": "299",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.601",
+    "DOI": "10.5962/bhl.title.601"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "A taxonomic study on the genus Cremanthodium Benth",
+    "volume": "1",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Acta Biologica Plateau Sinica",
+    "issued": "1982",
+    "page": "49 59"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "Cremanthodium Benth",
+    "editor": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      },
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "77",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1989",
+    "page": "115 171",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "W.W."
+      }
+    ],
+    "title": "Diagnoses specierum novarum chinensium in herbario Horti Regii Botanici Edinburgensis cognitarum",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "I−L. Notes from the Royal Botanic Garden, Edinburgh",
+    "issued": "1913",
+    "page": "105–136"
+  }
+]

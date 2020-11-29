@@ -1,0 +1,826 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bahls",
+        "given": "L.L."
+      }
+    ],
+    "title": "Diatoms from Western North America 1 . Some New and Notable Biraphid Species",
+    "publisher": "Loren L. Bahls",
+    "type": "book",
+    "issued": "2017",
+    "publisher-place": "Helena, Montana"
+  },
+  {
+    "author": [
+      {
+        "family": "Campisano",
+        "given": "C.J."
+      },
+      {
+        "family": "Cohen",
+        "given": "A.S."
+      },
+      {
+        "family": "Arrowsmith",
+        "given": "J.R."
+      },
+      {
+        "family": "Asrat",
+        "given": "A."
+      },
+      {
+        "family": "Behrensmeyer",
+        "given": "A.K."
+      },
+      {
+        "family": "Brown",
+        "given": "E.T."
+      },
+      {
+        "family": "Deino",
+        "given": "A.L."
+      },
+      {
+        "family": "Deocampo",
+        "given": "D.M."
+      },
+      {
+        "family": "Feibel",
+        "given": "C.S."
+      },
+      {
+        "family": "Kingston",
+        "given": "J.D."
+      },
+      {
+        "family": "Lamb",
+        "given": "H.F."
+      },
+      {
+        "family": "Lowenstein",
+        "given": "T.K."
+      },
+      {
+        "family": "Noren",
+        "given": "A."
+      },
+      {
+        "family": "Olago",
+        "given": "D.O."
+      },
+      {
+        "family": "Owen",
+        "given": "R.B."
+      },
+      {
+        "family": "Pelletier",
+        "given": "J.D."
+      },
+      {
+        "family": "Potts",
+        "given": "R."
+      },
+      {
+        "family": "Reed",
+        "given": "K.E."
+      },
+      {
+        "family": "Renaut",
+        "given": "R.W."
+      },
+      {
+        "family": "Russell",
+        "given": "J.M."
+      },
+      {
+        "family": "Russell",
+        "given": "J.L."
+      },
+      {
+        "family": "Schabitz",
+        "given": "F."
+      },
+      {
+        "family": "Stone",
+        "given": "J.R."
+      },
+      {
+        "family": "Trauth",
+        "given": "M.H."
+      },
+      {
+        "family": "Wynn",
+        "given": "J.G."
+      }
+    ],
+    "title": "The Hominin Sites and Paleolakes Drilling Project: High-Resolution Paleoclimate Records from the East African Rift System and Their Implications for Understanding the Environmental Context of Hominin Evolution",
+    "volume": "2017",
+    "type": "article-journal",
+    "container-title": "PaleoAnthropology",
+    "issued": "2017",
+    "page": "1–43"
+  },
+  {
+    "author": [
+      {
+        "family": "Carter",
+        "given": "J.R."
+      },
+      {
+        "family": "Denny",
+        "given": "P."
+      }
+    ],
+    "title": "Freshwater algae of Sierra Leone IV. Bacillariophyceae; Part (iii) diatoms from the lake Sonfon region and from Lake Popei",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Nov. Hedwigia",
+    "issued": "1992",
+    "page": "159–211"
+  },
+  {
+    "author": [
+      {
+        "family": "Cholnoky",
+        "given": "B.J."
+      }
+    ],
+    "title": "Neue und seltene Diatomeen aus Afrika",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "Österreichische Botanische Zeitschrift",
+    "issued": "1954",
+    "page": "407–427",
+    "URL": "https://doi.org/10.1007/BF01290790",
+    "DOI": "10.1007/BF01290790"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "A."
+      },
+      {
+        "family": "Campisano",
+        "given": "C."
+      },
+      {
+        "family": "Arrowsmith",
+        "given": "R."
+      },
+      {
+        "family": "Asrat",
+        "given": "A."
+      },
+      {
+        "family": "Behrensmeyer",
+        "given": "A.K."
+      },
+      {
+        "family": "Deino",
+        "given": "A."
+      },
+      {
+        "family": "Feibel",
+        "given": "C."
+      },
+      {
+        "family": "Hill",
+        "given": "A."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Kingston",
+        "given": "J."
+      },
+      {
+        "family": "Lamb",
+        "given": "H."
+      },
+      {
+        "family": "Lowenstein",
+        "given": "T."
+      },
+      {
+        "family": "Noren",
+        "given": "A."
+      },
+      {
+        "family": "Olago",
+        "given": "D."
+      },
+      {
+        "family": "Owen",
+        "given": "R.B."
+      },
+      {
+        "family": "Potts",
+        "given": "R."
+      },
+      {
+        "family": "Reed",
+        "given": "K."
+      },
+      {
+        "family": "Renaut",
+        "given": "R."
+      },
+      {
+        "family": "Schäbitz",
+        "given": "F."
+      },
+      {
+        "family": "Tiercelin",
+        "given": "J.J."
+      },
+      {
+        "family": "Trauth",
+        "given": "M.H."
+      },
+      {
+        "family": "Wynn",
+        "given": "J."
+      },
+      {
+        "family": "Ivory",
+        "given": "S."
+      },
+      {
+        "family": "Brady",
+        "given": "K."
+      },
+      {
+        "family": "O’Grady",
+        "given": "R."
+      },
+      {
+        "family": "Rodysill",
+        "given": "J."
+      },
+      {
+        "family": "Githiri",
+        "given": "J."
+      },
+      {
+        "family": "Russell",
+        "given": "J."
+      },
+      {
+        "family": "Foerster",
+        "given": "V."
+      },
+      {
+        "family": "Dommain",
+        "given": "R."
+      },
+      {
+        "family": "Rucina",
+        "given": "S."
+      },
+      {
+        "family": "Deocampo",
+        "given": "D."
+      },
+      {
+        "family": "Russell",
+        "given": "J."
+      },
+      {
+        "family": "Billingsley",
+        "given": "A."
+      },
+      {
+        "family": "Beck",
+        "given": "C."
+      },
+      {
+        "family": "Dorenbeck",
+        "given": "G."
+      },
+      {
+        "family": "Dullo",
+        "given": "L."
+      },
+      {
+        "family": "Feary",
+        "given": "D."
+      },
+      {
+        "family": "Garello",
+        "given": "D."
+      },
+      {
+        "family": "Gromig",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "T."
+      },
+      {
+        "family": "Junginger",
+        "given": "A."
+      },
+      {
+        "family": "Karanja",
+        "given": "M."
+      },
+      {
+        "family": "Kimburi",
+        "given": "E."
+      },
+      {
+        "family": "Mbuthia",
+        "given": "A."
+      },
+      {
+        "family": "McCartney",
+        "given": "T."
+      },
+      {
+        "family": "McNulty",
+        "given": "E."
+      },
+      {
+        "family": "Muiruri",
+        "given": "V."
+      },
+      {
+        "family": "Nambiro",
+        "given": "E."
+      },
+      {
+        "family": "Negash",
+        "given": "E.W."
+      },
+      {
+        "family": "Njagi",
+        "given": "D."
+      },
+      {
+        "family": "Wilson",
+        "given": "J.N."
+      },
+      {
+        "family": "Rabideaux",
+        "given": "N."
+      },
+      {
+        "family": "Raub",
+        "given": "T."
+      },
+      {
+        "family": "Sier",
+        "given": "M.J."
+      },
+      {
+        "family": "Smith",
+        "given": "P."
+      },
+      {
+        "family": "Urban",
+        "given": "J."
+      },
+      {
+        "family": "Warren",
+        "given": "M."
+      },
+      {
+        "family": "Yadeta",
+        "given": "M."
+      },
+      {
+        "family": "Yost",
+        "given": "C."
+      },
+      {
+        "family": "Zinaye",
+        "given": "B."
+      }
+    ],
+    "title": "The Hominin Sites and Paleolakes Drilling Project: Inferring the environmental context of human evolution from eastern African rift lake deposits",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Scientific Drilling",
+    "issued": "2016",
+    "page": "1–16",
+    "URL": "https://doi.org/10.5194/sd-21-1-2016",
+    "DOI": "10.5194/sd-21-1-2016"
+  },
+  {
+    "author": [
+      {
+        "family": "Gasse",
+        "given": "F."
+      }
+    ],
+    "title": "Les diatomeìes lacustres Plio-Pleìistocenes du Gadeb (Eìthiopie) : systeìmatique, paleìoeìcologie, biostratigraphie",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Revue Algologique Meìmoire",
+    "issued": "1980",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Héribaud",
+        "given": "J."
+      }
+    ],
+    "title": "Les diatomeìes fossiles d’Auvergne. Troisième Meìmoire. Libraire des sciences Naturelles",
+    "publisher": "Paul Klincksieck",
+    "type": "book",
+    "issued": "1908",
+    "page": "75",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Hohn",
+        "given": "M.H."
+      },
+      {
+        "family": "Hellerman",
+        "given": "J."
+      }
+    ],
+    "title": "The taxonomy and structure of diatom populations from three Eastern North American rivers using three sampling methods",
+    "volume": "82",
+    "type": "article-journal",
+    "container-title": "TraTransactions of the American Microscopical Society",
+    "issued": "1963",
+    "page": "250–329",
+    "URL": "https://doi.org/10.2307/3223932",
+    "DOI": "10.2307/3223932"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Stoermer",
+        "given": "E.F."
+      }
+    ],
+    "title": "Geographic range and variability of the diatom (Bacillariophyceae) Gomphonema ventricosum Gregory",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "1987",
+    "page": "223–236"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Williams",
+        "given": "D.M."
+      },
+      {
+        "family": "Stepanek",
+        "given": "J."
+      },
+      {
+        "family": "Liu",
+        "given": "Q."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      },
+      {
+        "family": "You",
+        "given": "Q.M."
+      },
+      {
+        "family": "Karthick",
+        "given": "B."
+      },
+      {
+        "family": "Kulikovskiy",
+        "given": "M."
+      }
+    ],
+    "title": "Rampant homoplasy and adaptive radiation in pennate diatoms",
+    "volume": "152",
+    "type": "article-journal",
+    "container-title": "Plant Ecology and Evolution",
+    "issue": "2",
+    "issued": "2019",
+    "page": "131–141",
+    "URL": "https://doi.org/10.5091/plecevo.2019.1612",
+    "DOI": "10.5091/plecevo.2019.1612"
+  },
+  {
+    "author": [
+      {
+        "family": "Krasske",
+        "given": "G."
+      }
+    ],
+    "title": "Zur Diatomeenflora Lapplands",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Bericht der Dtsch. Bot. Gessellschaft",
+    "issued": "1943",
+    "page": "81–88"
+  },
+  {
+    "author": [
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      }
+    ],
+    "title": "Iconographia Diatomologica",
+    "volume": "5",
+    "editor": [
+      {
+        "family": "Königstein",
+        "given": "Diversity-Taxonomy-Geobotany Ed H.Lange-bertalot"
+      }
+    ],
+    "publisher": "Koeltz Scientific Books",
+    "type": "article-journal",
+    "container-title": "Annotated Diatom Micrographs",
+    "issued": "1998",
+    "publisher-place": "Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Pantocsek",
+        "given": "J."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der fossilen Bacillarien Ungarns",
+    "genre": "Teil III.",
+    "note": "Süsswasser Bacillarien. Nagy-Tapolosany, Julius Platzko, 42 pls.",
+    "type": null,
+    "issued": "1892"
+  },
+  {
+    "author": [
+      {
+        "family": "Pappas",
+        "given": "J.L."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Stoermer",
+        "given": "E.F."
+      }
+    ],
+    "title": "Quantitative morphometric methods in diatom research",
+    "volume": "143",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia Beihefte",
+    "issued": "2014",
+    "page": "281–306"
+  },
+  {
+    "author": [
+      {
+        "family": "Patrick",
+        "given": "R.M."
+      },
+      {
+        "family": "Reimer",
+        "given": "C.W."
+      },
+      {
+        "given": "V."
+      }
+    ],
+    "title": "The Diatoms of the United States, exclusive of Alaska and Hawaii",
+    "container-title": "Monographs of the Academy of Natural Sciences of Philadelphia 13",
+    "type": "chapter",
+    "issued": "1975"
+  },
+  {
+    "author": [
+      {
+        "family": "Potapova",
+        "given": "M.G."
+      }
+    ],
+    "title": "New species and combinations in monoraphid diatoms ( family Achnanthidiaceae ) from North America",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2012",
+    "page": "29–42",
+    "URL": "https://doi.org/10.1080/0269249X.2011.644636",
+    "DOI": "10.1080/0269249X.2011.644636"
+  },
+  {
+    "author": [
+      {
+        "family": "Řeháková",
+        "given": "Z."
+      }
+    ],
+    "title": "Süßwasserdiatomeenflora des oberen Miozäns in der Tschechoslowakei. Sborník geologických věd",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Paleontologie",
+    "issued": "1980",
+    "page": "83–184"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichardt",
+        "given": "E."
+      }
+    ],
+    "title": "Gomphonema dubravicense pantocsek eine taxonomische revision",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2005",
+    "page": "335–349",
+    "URL": "https://doi.org/10.1080/0269249X.2005.9705641",
+    "DOI": "10.1080/0269249X.2005.9705641"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichelt",
+        "given": "H."
+      }
+    ],
+    "title": "Über Bacillariaceen der mittleren Kalahari",
+    "type": "article-journal",
+    "container-title": "Atti dell’Instituto Botanico dell’Universitá di Pavia",
+    "issued": "1903",
+    "page": "760–784"
+  },
+  {
+    "author": [
+      {
+        "family": "Rohlf",
+        "given": "F.J."
+      },
+      {
+        "family": "Marcus",
+        "given": "L.F."
+      }
+    ],
+    "title": "A revolution in morphometrics",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Trends in Ecology & Evolution",
+    "issued": "1993",
+    "page": "129–132",
+    "URL": "https://doi.org/10.1016/0169-5347(93)90024-J",
+    "DOI": "10.1016/0169-5347(93)90024-J"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "A."
+      }
+    ],
+    "title": "Atlas der Diatomaceen-kunde. Series V",
+    "publisher": "O.R. Reisland",
+    "type": "book",
+    "issued": "1899",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "Z."
+      }
+    ],
+    "title": "Flora Algarum Sinicarum Aquae Dulcis. tomus XII, Bacillariophyta, Gomphonemaceae",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2004",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Teter",
+        "given": "K.L."
+      }
+    ],
+    "title": "Paleoenvironmental reconstruction of Paleolake Mababe, Northwestern Botswana from sediment chemistry and biological productivity data",
+    "type": null,
+    "issued": "2009"
+  },
+  {
+    "author": [
+      {
+        "family": "West",
+        "given": "G.S."
+      }
+    ],
+    "title": "Report on the freshwater algae, including phytoplankton of the Third Tanganyika Expedition, conducted by Dr. W.A. Cunnington 1904-1905",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "The Journal of the Linnean Society, Botany",
+    "issued": "1907",
+    "page": "81–197",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1907.tb00848.x",
+    "DOI": "10.1111/j.1095-8339.1907.tb00848.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Westover",
+        "given": "K.S."
+      },
+      {
+        "family": "Stone",
+        "given": "J.R."
+      },
+      {
+        "family": "Yost",
+        "given": "C.L."
+      },
+      {
+        "family": "Scott",
+        "given": "J."
+      },
+      {
+        "family": "Cohen",
+        "given": "A.S."
+      },
+      {
+        "family": "Rabideaux",
+        "given": "N."
+      },
+      {
+        "family": "Stockhecke",
+        "given": "M."
+      },
+      {
+        "family": "Kingston",
+        "given": "J.D."
+      }
+    ],
+    "title": "Diatom paleolimnology of late Pliocene Baringo Basin (Kenya) paleolakes",
+    "genre": "Palaeogeography, Palaeoclimatology, Palaeoecology.",
+    "type": null,
+    "URL": "https://doi.org/10.1016/j.palaeo.2019.109382",
+    "DOI": "10.1016/j.palaeo.2019.109382"
+  },
+  {
+    "author": [
+      {
+        "family": "Woodard",
+        "given": "K."
+      },
+      {
+        "family": "Neustupa",
+        "given": "J."
+      }
+    ],
+    "title": "Morphometric asymmetry of frustule outlines in the pennate diatom Luticola poulickovae (Bacillariophyceae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Symmetry (Basel",
+    "issued": "2016",
+    "page": "6–9",
+    "URL": "https://doi.org/10.3390/sym8120150",
+    "DOI": "10.3390/sym8120150"
+  },
+  {
+    "author": [
+      {
+        "family": "Zimmerman",
+        "given": "C."
+      }
+    ],
+    "title": "Algumas diatomaceas novas ou curiosas",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Broteria, Revista Luso-Brazileira Ser. Bot",
+    "issued": "1915",
+    "page": "33–36"
+  }
+]

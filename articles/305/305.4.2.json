@@ -1,0 +1,770 @@
+[
+  {
+    "author": [
+      {
+        "family": "Antonelli",
+        "given": "A."
+      },
+      {
+        "family": "Sanmartín",
+        "given": "I."
+      }
+    ],
+    "title": "Why are there so many plant species in the Neotropics?",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2011",
+    "page": "403–414"
+  },
+  {
+    "author": [
+      {
+        "family": "Bogarín",
+        "given": "D."
+      }
+    ],
+    "title": "A new Telipogon from Mexico close to Telipogon standleyi (Orchidaceae: Oncidiinae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2012",
+    "page": "115–119",
+    "URL": "https://doi.org/10.15517/lank.v0i0.11761",
+    "DOI": "10.15517/lank.v0i0.11761"
+  },
+  {
+    "author": [
+      {
+        "family": "Chamberlain",
+        "given": "S."
+      },
+      {
+        "family": "Ram",
+        "given": "K."
+      },
+      {
+        "family": "Hart",
+        "given": "T."
+      }
+    ],
+    "title": "spocc: R interface to many species occurrence data sources",
+    "genre": "R package version 0.5.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "https://github.com/ropensci/spocc"
+  },
+  {
+    "author": [
+      {
+        "family": "Collantes",
+        "given": "B."
+      },
+      {
+        "family": "Martel",
+        "given": "C."
+      }
+    ],
+    "title": "Telipogon koechlinorum (Orchidaceae), a new species from Machu Picchu, Peru",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2015",
+    "page": "113–117",
+    "URL": "https://doi.org/10.1007/s12228-015-9363-7",
+    "DOI": "10.1007/s12228-015-9363-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C.H."
+      }
+    ],
+    "title": "Why are there so many orchid species?",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2003",
+    "page": "99–103",
+    "URL": "https://doi.org/10.15517/lank.v3i2.23028",
+    "DOI": "10.15517/lank.v3i2.23028"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C.H."
+      },
+      {
+        "family": "Escobar",
+        "given": "R."
+      }
+    ],
+    "title": "Eight new species of the genus Telipogon from Colombia",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Orquideología",
+    "issued": "1993",
+    "page": "261–272"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C.H."
+      },
+      {
+        "family": "Escobar",
+        "given": "R."
+      }
+    ],
+    "title": "New orchid species and combinations from Ecuador-Fascicle 6",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Orquideología",
+    "issued": "1998",
+    "page": "30–60"
+  },
+  {
+    "author": [
+      {
+        "family": "Franco-Rosselli",
+        "given": "P."
+      },
+      {
+        "family": "Betancur",
+        "given": "J."
+      }
+    ],
+    "title": "La flora del alto Sumapaz (Cordillera Oriental, Colombia",
+    "volume": "23",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales",
+    "issued": "1999",
+    "page": "53–78",
+    "URL": "http://www.accefyn.org.co/revista/Vol_23/supl/53-78.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Hágsater",
+        "given": "E."
+      },
+      {
+        "family": "Santiago-Ayala",
+        "given": "E."
+      },
+      {
+        "family": "Sánchez",
+        "given": "L."
+      },
+      {
+        "family": "Pérez-Escobar",
+        "given": "O.A."
+      },
+      {
+        "family": "Chocce-Peña",
+        "given": "M."
+      },
+      {
+        "family": "Jiménez-Machorro",
+        "given": "R."
+      },
+      {
+        "family": "Catalayud",
+        "given": "G."
+      },
+      {
+        "family": "Collantes",
+        "given": "B."
+      },
+      {
+        "family": "Dodson",
+        "given": "C.H."
+      },
+      {
+        "family": "Jenny",
+        "given": "R."
+      },
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      },
+      {
+        "family": "Trujillo",
+        "given": "D."
+      }
+    ],
+    "title": "Icones Orchidacearum Fascicle 13: The genus Epidendrum, Part 9",
+    "note": "Instituto Chinoin, Mexico. Available from:",
+    "type": "article-journal",
+    "container-title": "Species new and old in Epidendrum",
+    "issued": "2013",
+    "URL": "http://www.herbarioamo.org/index_archivos/Fascicle14.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Hobohm",
+        "given": "C."
+      }
+    ],
+    "title": "Endemism in Vascular Plants",
+    "publisher": "Springer, Flensburg",
+    "type": "book",
+    "issued": "2014",
+    "page": "354",
+    "URL": "https://doi.org/10.1007/978-94-007-6913-7",
+    "DOI": "10.1007/978-94-007-6913-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Humboldt",
+        "given": "F.W."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A.J."
+      },
+      {
+        "family": "Kunth",
+        "given": "C.S."
+      }
+    ],
+    "title": "Telipogon",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Nova Genera et Species Plantarum",
+    "issued": "1816",
+    "page": "335"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List categories and criteria. Version 11. Prepared by the Standards and Petitions Subcommittee in February 2014",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Jost",
+        "given": "L."
+      }
+    ],
+    "title": "Explosive local radiation of the genus Teagueia (Orchidaceae) in the upper Pastaza watershed of Ecuador",
+    "volume": "7",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Lyonia",
+    "issued": "2004",
+    "page": "41–47",
+    "URL": "http://www.lyonia.org/downloadPDF.php?pdfID=2.323.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kolanowska",
+        "given": "M."
+      }
+    ],
+    "title": "The orchid flora of the Colombian Department of Valle del Cauca",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issued": "2014",
+    "page": "445–462",
+    "URL": "https://doi.org/10.7550/rmb.32511",
+    "DOI": "10.7550/rmb.32511"
+  },
+  {
+    "author": [
+      {
+        "family": "Lagomarsino",
+        "given": "L."
+      },
+      {
+        "family": "Condamine",
+        "given": "F.L."
+      },
+      {
+        "family": "Antonelli",
+        "given": "A."
+      },
+      {
+        "family": "Mulch",
+        "given": "A."
+      },
+      {
+        "family": "Davis",
+        "given": "C.C."
+      }
+    ],
+    "title": "The abiotic and biotic drivers of rapid diversification in Andean bellflowers (Campanulaceae",
+    "volume": "210",
+    "type": "article-journal",
+    "container-title": "New Phytologist",
+    "issued": "2016",
+    "page": "1430–1432",
+    "URL": "https://doi.org/10.1111/nph.13920",
+    "DOI": "10.1111/nph.13920"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Hesperomeles. Edwards’s Botanical Register 23, t",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1837",
+    "URL": "http://www.biodiversitylibrary.org/item/28971#page/164/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Luteyn",
+        "given": "J.L."
+      }
+    ],
+    "title": "Paramos: a checklist of plant diversity, geographical distribution, and botanical literature",
+    "publisher": "The New York Botanical Garden Press",
+    "type": "book",
+    "issued": "1999",
+    "page": "278",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Martel",
+        "given": "C."
+      },
+      {
+        "family": "Cairampoma",
+        "given": "L."
+      },
+      {
+        "family": "Stauffer",
+        "given": "F.W."
+      },
+      {
+        "family": "Ayasse",
+        "given": "M."
+      }
+    ],
+    "title": "Telipogon peruvianus (Orchidaceae) flowers elicit pre-mating behaviour in Eudejeania (Tachinidae) males for pollination",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "PLoS ONE",
+    "issued": "2016",
+    "page": "0165896",
+    "URL": "https://doi.org/10.1371/journal.pone.0165896",
+    "DOI": "10.1371/journal.pone.0165896"
+  },
+  {
+    "author": [
+      {
+        "family": "Martel",
+        "given": "C."
+      },
+      {
+        "family": "Nauray-Huari",
+        "given": "W."
+      }
+    ],
+    "title": "Notes and emended description of Telipogon peruvianus T",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Hashim. (Orchidaceae). Candollea",
+    "issued": "2013",
+    "page": "245–250",
+    "URL": "https://doi.org/10.15553/c2012v682a8",
+    "DOI": "10.15553/c2012v682a8"
+  },
+  {
+    "author": [
+      {
+        "family": "Neubig",
+        "given": "K.M."
+      },
+      {
+        "family": "Whitten",
+        "given": "W.M."
+      },
+      {
+        "family": "Williams",
+        "given": "N.H."
+      },
+      {
+        "family": "Blanco",
+        "given": "M.A."
+      },
+      {
+        "family": "Endara",
+        "given": "L."
+      },
+      {
+        "family": "Burleigh",
+        "given": "J.G."
+      },
+      {
+        "family": "Silvera",
+        "given": "K."
+      },
+      {
+        "family": "Cushman",
+        "given": "J.C."
+      },
+      {
+        "family": "M.W",
+        "given": "Chase"
+      }
+    ],
+    "title": "Generic recircumscriptions of Oncidiinae (Orchidaceae : Cymbidieae) based on Maximum Likelihood analysis of combined DNA datasets",
+    "volume": "168",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2012",
+    "page": "117–146",
+    "URL": "https://doi.org/10.1111/j.1095-8339.2011.01194.x",
+    "DOI": "10.1111/j.1095-8339.2011.01194.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ortiz-Validivieso",
+        "given": "P."
+      }
+    ],
+    "title": "Telipogon",
+    "editor": [
+      {
+        "family": "Bernal",
+        "given": "R."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Celis",
+        "given": "M."
+      }
+    ],
+    "container-title": "Catálogo de plantas y líquenes de Colombia. Universidad Nacional de Colombia (Sede Bogotá). Facultad de Ciencias Naturales, Bogotá",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2015",
+    "page": "3060",
+    "URL": "http://catalogoplantasdecolombia.unal.edu.co/en/"
+  },
+  {
+    "author": [
+      {
+        "family": "Pabón-Mora",
+        "given": "N."
+      },
+      {
+        "family": "González",
+        "given": "F."
+      }
+    ],
+    "title": "Floral ontogeny of Telipogon spp. (Orchidaceae) and insights on the perianth symmetry in the family",
+    "volume": "169",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2008",
+    "page": "1159–1173",
+    "URL": "https://doi.org/10.1086/591982",
+    "DOI": "10.1086/591982"
+  },
+  {
+    "author": [
+      {
+        "family": "Parra-Sánchez",
+        "given": "E."
+      },
+      {
+        "family": "Retana",
+        "given": "J."
+      },
+      {
+        "family": "Armenteras",
+        "given": "D."
+      }
+    ],
+    "title": "Edge influence on diversity of orchids in Andean Cloud Forests",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Forests",
+    "issued": "2016",
+    "page": "1–13",
+    "URL": "https://doi.org/10.3390/f7030063",
+    "DOI": "10.3390/f7030063"
+  },
+  {
+    "author": [
+      {
+        "family": "Pedraza-Peñalosa",
+        "given": "P."
+      },
+      {
+        "family": "Betancur",
+        "given": "J."
+      },
+      {
+        "family": "Franco-Rosselli",
+        "given": "P."
+      }
+    ],
+    "title": "Chisacá, un recorrido por los páramos andinos",
+    "container-title": "Instituto de Ciencias Naturales e Instituto de Investigación de Recursos Biológicos Alexander von Humboldt",
+    "publisher": "Bogota",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "342"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Escobar",
+        "given": "O.A."
+      },
+      {
+        "family": "Parra",
+        "given": "E."
+      },
+      {
+        "family": "Ortiz-Valdivieso",
+        "given": "P."
+      }
+    ],
+    "title": "Inventario Orquideológico de la Reserva Bosque de Yotoco",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Acta Agronomica",
+    "issued": "2009",
+    "page": "1–12"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Escobar",
+        "given": "O.A."
+      },
+      {
+        "family": "Kolanowska",
+        "given": "M."
+      },
+      {
+        "family": "Parra-Sánchez",
+        "given": "E."
+      }
+    ],
+    "title": "Lepanthes elizabethae (Pleurothallidinae, Orchidaceae), a new species from Colombia",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "58–62",
+    "URL": "https://doi.org/10.11646/phytotaxa.79.2.2",
+    "DOI": "10.11646/phytotaxa.79.2.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Escobar",
+        "given": "O.A."
+      },
+      {
+        "family": "Kolanowska",
+        "given": "M."
+      },
+      {
+        "family": "Rincón-Useche",
+        "given": "C."
+      }
+    ],
+    "title": "A New Species of Lepanthes (Pleurothallidinae, Orchidaceae) from Colombia",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2013",
+    "page": "316–319",
+    "URL": "https://doi.org/10.1600/036364413X666822",
+    "DOI": "10.1600/036364413X666822"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Escobar",
+        "given": "O.A."
+      },
+      {
+        "family": "Chomicki",
+        "given": "G."
+      },
+      {
+        "family": "Condamine",
+        "given": "F.L."
+      },
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      },
+      {
+        "family": "Bogarín",
+        "given": "D."
+      },
+      {
+        "family": "Matzke",
+        "given": "N."
+      },
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Antonelli",
+        "given": "A."
+      }
+    ],
+    "title": "Recent origin of Neotropical orchids in the world’s richest plant biodiversity hotspot",
+    "note": "bioRxiv 106302.",
+    "type": null,
+    "issued": "2017",
+    "URL": "https://doi.org/10.1101/106302",
+    "DOI": "10.1101/106302"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "title": "Genera Orchidacearum",
+    "volume": "1",
+    "publisher": "General Introduction, Apostasioideae, Cypripedioideae. Oxford University Press, Oxford",
+    "type": "book",
+    "issued": "1999",
+    "page": "612"
+  },
+  {
+    "author": [
+      {
+        "family": "R",
+        "given": "R.Development Core Team"
+      }
+    ],
+    "title": "R: A language and environment for statistical computing. The R Foundation for Statistical Computing",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.R-project.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Rangel-Churio",
+        "given": "J.O."
+      },
+      {
+        "family": "Pinto-Zárate",
+        "given": "J.H."
+      }
+    ],
+    "title": "Colombian Páramo Vegetation Database (CPVD)–the database on high Andean paramo vegetation of Colombia",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Biodiversity & Ecology",
+    "issued": "2012",
+    "page": "275–286",
+    "URL": "https://doi.org/10.7809/b-e.00084",
+    "DOI": "10.7809/b-e.00084"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Telipogon andicola",
+    "volume": "3",
+    "note": "Available from:http://www.biodiversitylibrary.org/item/89408#page/244/mode/1up (accessed 12 May 2016).",
+    "type": "article-journal",
+    "container-title": "Bonplandia",
+    "issued": "1855",
+    "page": "239"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz",
+        "given": "L.H."
+      },
+      {
+        "family": "Pavón",
+        "given": "J.A."
+      }
+    ],
+    "title": "Polylepis. Florae Peruvianae, et Chilensis Prodromus, sive novorum generum plantrum peruvianum, et chilensium descriptiones et icones 80, t",
+    "note": "15. Available from:",
+    "type": null,
+    "issued": "1794",
+    "URL": "http://www.biodiversitylibrary.org/item/44245#page/103/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Young",
+        "given": "K."
+      },
+      {
+        "family": "Ulloa",
+        "given": "C.U."
+      },
+      {
+        "family": "Luteyn",
+        "given": "J.L."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      }
+    ],
+    "title": "Plant evolution and endemism in Andean South America: an introduction",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "The Botanical Review",
+    "issued": "2002",
+    "page": "4–21",
+    "URL": "https://doi.org/10.1663/0006-8101(2002)068",
+    "DOI": "10.1663/0006-8101(2002)068"
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aktuna",
+        "given": "G."
+      }
+    ],
+    "title": "Ornithogalum boucheanum",
+    "editor": [
+      {
+        "family": "kochii",
+        "given": "O."
+      },
+      {
+        "family": "In",
+        "given": "O.",
+        "particle": "umbellatum."
+      }
+    ],
+    "genre": "PalDat—A palynological database.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "https://www.paldat.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Revision of the genera and species of Scilleae and Chlorogaleae",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society",
+    "issued": "1872",
+    "page": "209–292",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1872.tb00093.x",
+    "DOI": "10.1111/j.1095-8339.1872.tb00093.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Diagnoses africanae",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1895",
+    "page": "1–240",
+    "URL": "https://doi.org/10.2307/4118481",
+    "DOI": "10.2307/4118481"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertoloni",
+        "given": "A."
+      }
+    ],
+    "title": "Flora Italica: sistens plantas in Italia et in insulis circumstantibus sponte nascentes",
+    "volume": null,
+    "issue": "niae",
+    "type": null,
+    "issued": "1839",
+    "page": "99"
+  },
+  {
+    "editor": [
+      {
+        "family": "Clarke",
+        "given": "E.D."
+      }
+    ],
+    "title": "Travels in various countries of Europe, Asia and Africa",
+    "volume": "4",
+    "type": null,
+    "issued": "1816",
+    "page": "555",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.5962/bhl.title.121911",
+    "DOI": "10.5962/bhl.title.121911"
+  },
+  {
+    "author": [
+      {
+        "family": "Decaisne",
+        "given": "J."
+      }
+    ],
+    "title": "Note sur le Galtonia, nouveau genre de Liliacées de 1’Afrique australe",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Flore des serres et des jardins de l’Europe",
+    "issued": "1880",
+    "page": "32–33"
+  },
+  {
+    "author": [
+      {
+        "family": "Delaroche",
+        "given": "F."
+      }
+    ],
+    "title": "Ornithogalum tenuifolium",
+    "editor": [
+      {
+        "family": "Redouté",
+        "given": "P.J."
+      }
+    ],
+    "container-title": "Les Liliacées",
+    "volume": "6",
+    "publisher": "Didot Jeune",
+    "type": "chapter",
+    "issued": "1811",
+    "page": "312",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Diez",
+        "given": "M.J."
+      },
+      {
+        "family": "Pastor",
+        "given": "J."
+      }
+    ],
+    "title": "Contribución al studio del polen y semillas de la tribu Scilleae (Liliaceae) en Andalucía occidental",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issued": "1985",
+    "page": "351–360"
+  },
+  {
+    "author": [
+      {
+        "family": "Erdtman",
+        "given": "G."
+      }
+    ],
+    "title": "Pollen morphology and plant taxonomy, Angiosperms",
+    "publisher": "Almqvist and Wiksell",
+    "type": "book",
+    "issued": "1952",
+    "publisher-place": "Stockholm",
+    "URL": "https://doi.org/10.1080/11035895209453507",
+    "DOI": "10.1080/11035895209453507"
+  },
+  {
+    "author": [
+      {
+        "family": "Erdtman",
+        "given": "G."
+      }
+    ],
+    "title": "The acetolysis technique: a revised description",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Svensk Botanisk Tidskrift",
+    "issued": "1960",
+    "page": "561–564"
+  },
+  {
+    "author": [
+      {
+        "family": "Freyn",
+        "given": "J."
+      }
+    ],
+    "title": "Plantae novae orientales",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Österr botany",
+    "issued": "1894",
+    "page": "391–394",
+    "URL": "https://doi.org/10.1007/BF01795543",
+    "DOI": "10.1007/BF01795543"
+  },
+  {
+    "author": [
+      {
+        "family": "Garbari",
+        "given": "F."
+      },
+      {
+        "family": "Peruzzi",
+        "given": "L."
+      },
+      {
+        "family": "Tornadore",
+        "given": "N."
+      }
+    ],
+    "title": "Ornithogalum L",
+    "editor": [
+      {
+        "family": "correlati",
+        "given": "Hyacinthaceae Batsch)",
+        "particle": "egeneri"
+      }
+    ],
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Atti della Società Toscana de Scienze Naturali",
+    "issued": "2007",
+    "page": "35–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "S.F."
+      }
+    ],
+    "title": "Natural arrangement of British plants, 2",
+    "type": null,
+    "issued": "1821",
+    "page": "757",
+    "publisher-place": "Baldwin, Cradock & Joy, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Hesse",
+        "given": "M."
+      },
+      {
+        "family": "Halbritter",
+        "given": "H."
+      },
+      {
+        "family": "Zetter",
+        "given": "R."
+      },
+      {
+        "family": "Weber",
+        "given": "M."
+      },
+      {
+        "family": "Buchner",
+        "given": "R."
+      },
+      {
+        "family": "Frosch-Radivo",
+        "given": "A."
+      },
+      {
+        "family": "Ulrich",
+        "given": "S."
+      }
+    ],
+    "note": "Pollen Terminology (An illustrated handbook).",
+    "publisher": "Springer",
+    "type": null,
+    "issued": "2009",
+    "page": "266",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Heydarian",
+        "given": "F."
+      },
+      {
+        "family": "Nejadsattari",
+        "given": "T."
+      },
+      {
+        "family": "Hamdi",
+        "given": "S.M.M."
+      },
+      {
+        "family": "Assadi",
+        "given": "M."
+      }
+    ],
+    "title": "Ornithogalum khuzestanicum (Hyacinthaceae), a new species from Iran",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Iranian Journal of Botany",
+    "issued": "2012",
+    "page": "47–54"
+  },
+  {
+    "author": [
+      {
+        "family": "Holub",
+        "given": "J."
+      }
+    ],
+    "title": "New names in Phanerogamae",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Folia Geobot Phytotaxa Praha",
+    "issued": "1976",
+    "page": "75–85",
+    "URL": "https://doi.org/10.1007/BF02853317",
+    "DOI": "10.1007/BF02853317"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Hortus Botanicus Vindobonensis 3",
+    "volume": "Vienna",
+    "type": "article-journal",
+    "container-title": "L.J. Kaliwoda",
+    "issued": "1776",
+    "page": "51",
+    "URL": "https://doi.org/10.5962/bhl.title.531",
+    "DOI": "10.5962/bhl.title.531"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "C."
+      }
+    ],
+    "title": "Beiträge zu einer Flora des Orients",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1849",
+    "page": "177–228"
+  },
+  {
+    "author": [
+      {
+        "family": "Kovach",
+        "given": "W."
+      }
+    ],
+    "title": "MVSP-A MultiVariate Statistical Package for Windows, ver. 3.1 Kovach Computing Services",
+    "publisher": "Pentraeth, Wales, Great Britain",
+    "type": "book",
+    "issued": "1999"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "C."
+      }
+    ],
+    "title": "Enumeratio plantarum omnium hucusque cognitarum, secundum familias naturales disposita, adjectis characteribus, differntiis et synonymis",
+    "volume": "4",
+    "publisher": "Stutgardiae et Tubingae",
+    "type": "book",
+    "issued": "1843",
+    "page": "348"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "title": "Plantae pechuelianae hereroenses",
+    "container-title": "Jahrbuch des Ko ̈niglichen Botanischen Gartens und des Botanischen Museums zu",
+    "volume": "4",
+    "type": "chapter",
+    "issued": "1886",
+    "page": "260–275",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Leighton",
+        "given": "F.M."
+      }
+    ],
+    "title": "A revision of the south African species of Ornithogalum",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal of South African Botany",
+    "issued": "1944",
+    "page": "82–122"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Centuria II Plantarum",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Regia Academia Typographea, Upsaliae",
+    "issued": "1756",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "edition": "ed. 2. Salvius",
+    "publisher": "Stockholm",
+    "type": "book",
+    "issued": "1762",
+    "page": "784"
+  },
+  {
+    "author": [
+      {
+        "family": "Loos",
+        "given": "C."
+      }
+    ],
+    "title": "Ornithogalum nutans. In: PalDat - A palynological database",
+    "note": "Available from:(https://www.paldat.org (accessed 8 September 2020",
+    "type": null,
+    "issued": "2016"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Contributions à l ́étude de la Flore de l ́Afrique du nord",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société d’Histoire Naturelle del’Afrique du Nord",
+    "issued": "1926",
+    "page": "104–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Manning",
+        "given": "J.C."
+      },
+      {
+        "family": "Goldblatt",
+        "given": "P."
+      },
+      {
+        "family": "Fay",
+        "given": "M."
+      }
+    ],
+    "title": "A revised generic synopsis of Hyacinthaceae in Sub-Saharan Africa, based on molecular evidence, including new combinations and the new tribe Pseudoprospereae",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Edinburgh Journal of Botany",
+    "issued": "2004",
+    "page": "533–568",
+    "URL": "https://doi.org/10.1017/S0960428603000404",
+    "DOI": "10.1017/S0960428603000404"
+  },
+  {
+    "author": [
+      {
+        "family": "Manning",
+        "given": "J.C."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Fay",
+        "given": "M.F."
+      },
+      {
+        "family": "Devey",
+        "given": "S."
+      },
+      {
+        "family": "Goldblatt",
+        "given": "P."
+      }
+    ],
+    "title": "A molecular phylogeny and a revised classification of Ornithogaloideae (Hyacinthaceae) based on an analysis of four plastid DNA regions",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2009",
+    "page": "77–107",
+    "URL": "https://doi.org/10.1002/tax.581011",
+    "DOI": "10.1002/tax.581011"
+  },
+  {
+    "author": [
+      {
+        "family": "Maroofi",
+        "given": "H."
+      }
+    ],
+    "title": "Two new plant species from Kurdistan province, West of Iran",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Iranian Journal of Botany",
+    "issued": "2010",
+    "page": "76–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Martínez-Azorín",
+        "given": "M."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Juan",
+        "given": "A."
+      }
+    ],
+    "title": "Taxonomic revision of Ornithogalum subg. Beryllis (Hyacinthaceae) in the Iberian Peninsula and the Balearic Islands",
+    "volume": "142",
+    "type": "article-journal",
+    "container-title": "Belgian Journal of Botany",
+    "issue": "2",
+    "issued": "2009",
+    "page": "140–162",
+    "URL": "https://doi.org/10.2307/41427183",
+    "DOI": "10.2307/41427183"
+  },
+  {
+    "author": [
+      {
+        "family": "Martínez-Azorín",
+        "given": "M."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Juan",
+        "given": "A."
+      },
+      {
+        "family": "Fay",
+        "given": "M.F."
+      }
+    ],
+    "title": "Molecular phylogenetic of subfamily Ornithogaloideae (Hyacinthaceae) based on nuclear and plastid DNA regions, including a new taxonomic arrangement",
+    "volume": "107",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2011",
+    "page": "1–37",
+    "URL": "https://doi.org/10.1093/aob/mcq207",
+    "DOI": "10.1093/aob/mcq207"
+  },
+  {
+    "author": [
+      {
+        "family": "Medikus",
+        "given": "F.K."
+      }
+    ],
+    "title": "Von zwei neuen Pflanzengeschtern, deren Hauptcharaktere in dem Wurzelbaue liegen",
+    "container-title": "Historia et Commentationes Academiae Electoralis Scientiarum et Elegantiorum Litterarum Theodoro-Palatinae",
+    "volume": "6",
+    "type": "chapter",
+    "issued": "1790",
+    "page": "369–431"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfosser",
+        "given": "M."
+      },
+      {
+        "family": "Speta",
+        "given": "F."
+      }
+    ],
+    "title": "Phylogenetic of Hyacinthaceae based on plastid DNA sequences",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1999",
+    "page": "852–875",
+    "URL": "https://doi.org/10.2307/2666172",
+    "DOI": "10.2307/2666172"
+  },
+  {
+    "author": [
+      {
+        "family": "Punt",
+        "given": "W."
+      },
+      {
+        "family": "Hoen",
+        "given": "P.P."
+      },
+      {
+        "family": "Blackmore",
+        "given": "S."
+      },
+      {
+        "family": "Nilsson",
+        "given": "S."
+      },
+      {
+        "family": "Thomas",
+        "given": "Le"
+      }
+    ],
+    "title": "Glossary of pollen and spore terminology",
+    "volume": "143",
+    "type": "article-journal",
+    "container-title": "Review of Palaeobotany and Palynology",
+    "issued": "2007",
+    "page": "1–81",
+    "URL": "https://doi.org/10.1016/j.revpalbo.2006.06.008",
+    "DOI": "10.1016/j.revpalbo.2006.06.008"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Flora Telluriana 2",
+    "publisher": "H. Probasco, Philadelphia",
+    "type": "book",
+    "issued": "1837",
+    "page": "112"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Autikon Botanikon, Centuria V",
+    "type": "article-journal",
+    "container-title": "Philadelphia",
+    "issued": "1840",
+    "page": "55 71"
+  },
+  {
+    "author": [
+      {
+        "family": "Reynolds",
+        "given": "E.S."
+      }
+    ],
+    "title": "The use of lead citrate at high pH as an electron opaque stain in electron microscopy",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Journal of Cell Biology",
+    "issued": "1963",
+    "page": "208–212",
+    "URL": "https://doi.org/10.1083/jcb.17.1.208",
+    "DOI": "10.1083/jcb.17.1.208"
+  },
+  {
+    "author": [
+      {
+        "family": "Salisbury",
+        "given": "R.A."
+      }
+    ],
+    "title": "The genera of plants: a fragment containing part of Liriogamae",
+    "type": null,
+    "issued": "1866",
+    "page": "143",
+    "publisher-place": "John van Voorst, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Schönland",
+        "given": "S."
+      }
+    ],
+    "title": "Neopatersonia, a new genus of Liliaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Records of the Albany Museum",
+    "issued": "1912",
+    "page": "251–253"
+  },
+  {
+    "author": [
+      {
+        "family": "Speta",
+        "given": "F."
+      }
+    ],
+    "title": "Systematische analyse der Gattung Scilla L. s.l",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Hyacinthaceae). Phyton (Horn",
+    "issued": "1998",
+    "page": "1–141"
+  },
+  {
+    "author": [
+      {
+        "family": "Speta",
+        "given": "F."
+      }
+    ],
+    "title": "Hyacinthaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "volume": "III",
+    "container-title": "Flowering plants. Monocotyledons, Lilianae (except Orchidaceae",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "1998",
+    "page": "261–285",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-662-03533-7_35",
+    "DOI": "10.1007/978-3-662-03533-7_35"
+  },
+  {
+    "author": [
+      {
+        "family": "Speta",
+        "given": "F."
+      }
+    ],
+    "title": "Die echte und die falsche Meerzwiebel: Charybdis Speta und Stellarioides Medicus (Hyacinthaceae), mit Neubeschreibungen und Neukombinationen im Anhang",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Stapfia",
+    "issued": "2001",
+    "page": "139–176"
+  },
+  {
+    "author": [
+      {
+        "family": "Steven",
+        "given": "C."
+      }
+    ],
+    "title": "Observationes in plantes rossices et descriptiones specierum novarum",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Memories Society of Naturalis Moscow",
+    "issued": "1829",
+    "page": "259–279"
+  },
+  {
+    "author": [
+      {
+        "family": "Tenore",
+        "given": "M."
+      }
+    ],
+    "title": "Flora Napolitana Sylloge",
+    "publisher": "Stamperia Francese",
+    "type": "book",
+    "issued": "1830",
+    "publisher-place": "Napoli"
+  },
+  {
+    "author": [
+      {
+        "family": "Tokarev",
+        "given": "P."
+      }
+    ],
+    "title": "Morphology and ultrastructure of pollen grain",
+    "publisher": "KMK Sci Press Ltd",
+    "type": "book",
+    "issued": "2003",
+    "page": "51",
+    "publisher-place": "Moscow"
+  },
+  {
+    "author": [
+      {
+        "family": "Weakley",
+        "given": "B.S."
+      }
+    ],
+    "title": "A beginner’s handbook in biological electron microscopy",
+    "publisher": "Churchill Livingstone, Edinburg",
+    "type": "book",
+    "issued": "1972",
+    "page": "228"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "R."
+      }
+    ],
+    "title": "Hyacinthaceae",
+    "editor": [
+      {
+        "family": "Leistner",
+        "given": "O.A."
+      }
+    ],
+    "volume": "10",
+    "publisher": "National Botanical Institute",
+    "type": "article-journal",
+    "container-title": "Strelitzia",
+    "issued": "2000",
+    "page": "610–619",
+    "publisher-place": "Pretoria"
+  },
+  {
+    "author": [
+      {
+        "family": "Wittmann",
+        "given": "H."
+      }
+    ],
+    "title": "Beitrag zur Systematik der Ornithogalum Arten mit verla ̈ngert-traubiger Infloreszenz",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Stapfia",
+    "issued": "1985",
+    "page": "1–117"
+  },
+  {
+    "author": [
+      {
+        "family": "Yilmaz",
+        "given": "C.B."
+      },
+      {
+        "family": "Dural",
+        "given": "H."
+      },
+      {
+        "family": "Buyukkartal",
+        "given": "H.N."
+      },
+      {
+        "family": "Pinar",
+        "given": "N.M."
+      }
+    ],
+    "title": "Morphological, anatomical, palynological and micromorphological characters of two endemic species of Ornithogalum (O. chetikianum and O. demirizianum) in Turkey",
+    "volume": "139",
+    "type": "article-journal",
+    "container-title": "Turkish Journal of Botany",
+    "issued": "2015",
+    "page": "48–59",
+    "URL": "https://doi.org/10.3906/bot-1401-35",
+    "DOI": "10.3906/bot-1401-35"
+  },
+  {
+    "author": [
+      {
+        "family": "Zavada",
+        "given": "M.S."
+      }
+    ],
+    "title": "Comparative morphology of monocot pollen and evolutionary trends of apertures and wall structures",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Botanical Review",
+    "issued": "1983",
+    "page": "331–378",
+    "URL": "https://doi.org/10.1007/BF02861086",
+    "DOI": "10.1007/BF02861086"
+  },
+  {
+    "author": [
+      {
+        "family": "Zavada",
+        "given": "M.S."
+      }
+    ],
+    "title": "Angiosperm origins and evolution based on dispersed fossil pollen ultrastructure",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1984",
+    "page": "444–463",
+    "URL": "https://doi.org/10.2307/2399034",
+    "DOI": "10.2307/2399034"
+  }
+]

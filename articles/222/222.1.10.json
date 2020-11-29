@@ -1,0 +1,327 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax theatri botanici",
+    "publisher": "Ludovici Regis, Basileae",
+    "type": "book",
+    "issued": "1623",
+    "page": "522"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      },
+      {
+        "family": "Cherler",
+        "given": "J.H."
+      }
+    ],
+    "title": "Historia plantarum. Tomus III",
+    "publisher": "Ebroduni, Yverdon",
+    "type": "book",
+    "issued": "1651",
+    "page": "882"
+  },
+  {
+    "author": [
+      {
+        "family": "Conran",
+        "given": "J.G."
+      }
+    ],
+    "title": "Aphyllanthaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "publisher": "Springer-Verlag",
+    "type": "book",
+    "issued": "1998",
+    "page": "122–124",
+    "publisher-place": "Berlin",
+    "URL": "http://dx.doi.org/10.1007/978-3-662-03533-7_14",
+    "DOI": "10.1007/978-3-662-03533-7_14"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrer-Gallego",
+        "given": "P.P."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Laguna",
+        "given": "E."
+      },
+      {
+        "family": "Guara",
+        "given": "M."
+      }
+    ],
+    "title": "Lectotypification of Centaurea alpina L. (Compositae) and the identity of Centaurea linaresii Lázaro Ibiza",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2014",
+    "page": "671–674",
+    "URL": "http://dx.doi.org/10.12705/633.3",
+    "DOI": "10.12705/633.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrer-Gallego",
+        "given": "P.P."
+      }
+    ],
+    "title": "Lectotypification of Linnaean names in the genus Scabiosa (Dipsacaceae",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2015",
+    "page": "1353–1357",
+    "URL": "http://dx.doi.org/10.12705/636.8",
+    "DOI": "10.12705/636.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrer-Gallego",
+        "given": "P.P."
+      }
+    ],
+    "title": "Typification of the Linnaean name Asperula cynanchica (Rubiaceae",
+    "volume": "195",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "98–100",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.195.1.10",
+    "DOI": "10.11646/phytotaxa.195.1.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Order out of chaos: Linnaean plant names and their types",
+    "container-title": "Linnean Society of London and the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "J.-H."
+      },
+      {
+        "family": "Kim",
+        "given": "D.-K."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Fay",
+        "given": "M.F."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Molecular phylogenetics of Ruscaceae sensu lato and related families (Asparagales) based on plastid and nuclear DNA sequences",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2010",
+    "page": "775–790",
+    "URL": "http://dx.doi.org/10.1093/aob/mcq167",
+    "DOI": "10.1093/aob/mcq167"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Hortus Cliffortianus",
+    "publisher": "Salomon Schouten, Amsterdam",
+    "type": "book",
+    "issued": "1738",
+    "page": "518"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1−2",
+    "type": "article-journal",
+    "container-title": "Laurentii Salvii, Homiae",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lobelius",
+        "given": "M."
+      }
+    ],
+    "title": "Stirpium adversaria nova. Excudebat prelum Thomae Purfoetii ad Lucretiae symbolum",
+    "publisher": "Londini",
+    "type": "book",
+    "issued": "1570",
+    "page": "455"
+  },
+  {
+    "author": [
+      {
+        "family": "Morison",
+        "given": "R."
+      }
+    ],
+    "title": "Plantarum historiae universalis Oxoniensis pars secunda",
+    "publisher": "e Theathro Sheldoniano, Oxford",
+    "type": "book",
+    "issued": "1680",
+    "page": "617",
+    "publisher-place": "Oxonii"
+  },
+  {
+    "author": [
+      {
+        "family": "Rico",
+        "given": "E."
+      }
+    ],
+    "title": "Aphyllanthes L",
+    "editor": [
+      {
+        "family": "Rico",
+        "given": "E."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Quintanar",
+        "given": "A."
+      },
+      {
+        "family": "Herrero",
+        "given": "A."
+      },
+      {
+        "family": "Aedo",
+        "given": "C."
+      }
+    ],
+    "container-title": "Flora iberica 20",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "217–219",
+    "publisher-place": "Real Jardín Botánico, C.S.I.C., Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Sauvages",
+        "given": "F.B."
+      }
+    ],
+    "title": "Methodus foliorum. A La Haye",
+    "publisher": "La Haye",
+    "type": "book",
+    "issued": "1751",
+    "page": "343"
+  },
+  {
+    "author": [
+      {
+        "family": "Savage",
+        "given": "S."
+      }
+    ],
+    "title": "Caroli Linnaei determinationes in Hortum Siccum Joachimi Burseri. The text of the manuscript in the Linnaean Collections",
+    "volume": "London",
+    "type": "article-journal",
+    "container-title": "The Linnean Society",
+    "issued": "1937",
+    "page": "78"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      }
+    ],
+    "title": "An Introduction to the Species Plantarum and cognate botanical Works of Carl Linnaeus",
+    "editor": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "container-title": "Species Plantarum, A Facsimile of the first edition, 1753 1",
+    "publisher": "Ray Society",
+    "type": "chapter",
+    "issued": "1957",
+    "page": "157",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "title": "Aphyllanthes L",
+    "editor": [
+      {
+        "given": "In"
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "5",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1980",
+    "page": null,
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H"
+  }
+]

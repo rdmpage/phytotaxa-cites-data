@@ -1,0 +1,747 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abeywicrama",
+        "given": "B.A."
+      },
+      {
+        "family": "Bystriakova",
+        "given": "N."
+      },
+      {
+        "family": "Kapos",
+        "given": "V."
+      },
+      {
+        "family": "Stapleton",
+        "given": "C."
+      },
+      {
+        "family": "Lysenko",
+        "given": "I."
+      },
+      {
+        "family": "Camus",
+        "given": "E.-G."
+      },
+      {
+        "family": "Chao",
+        "given": "C.S."
+      },
+      {
+        "family": "Chu",
+        "given": "C.D."
+      },
+      {
+        "family": "Chao",
+        "given": "C.S."
+      },
+      {
+        "family": "Chu",
+        "given": "C.D."
+      },
+      {
+        "family": "Fosberg",
+        "given": "F.R."
+      },
+      {
+        "family": "De Zoysa",
+        "given": "N.D."
+      },
+      {
+        "family": "Vivekanandan",
+        "given": "K."
+      },
+      {
+        "family": "Demesure",
+        "given": "B."
+      },
+      {
+        "family": "Sodzi",
+        "given": "N."
+      },
+      {
+        "family": "Petit",
+        "given": "R.J."
+      },
+      {
+        "family": "J.I.",
+        "given": "Soreng"
+      },
+      {
+        "family": "R.J.",
+        "given": "Garvin"
+      },
+      {
+        "given": "D."
+      },
+      {
+        "family": "Anderson",
+        "given": "M."
+      },
+      {
+        "family": "Dransfield",
+        "given": "S."
+      },
+      {
+        "family": "Fisher",
+        "given": "A.E."
+      },
+      {
+        "family": "Triplett",
+        "given": "J.K."
+      },
+      {
+        "family": "Ho",
+        "given": "C.-S."
+      },
+      {
+        "family": "Schiller",
+        "given": "A.D."
+      },
+      {
+        "family": "Oltrogge",
+        "given": "K.A."
+      },
+      {
+        "family": "Schroder",
+        "given": "E.S."
+      },
+      {
+        "family": "Kelchner",
+        "given": "S.A."
+      },
+      {
+        "family": "Clark",
+        "given": "L.G."
+      },
+      {
+        "family": "Franchet",
+        "given": "A."
+      },
+      {
+        "family": "Wendel",
+        "given": "J.F."
+      },
+      {
+        "family": "Muse",
+        "given": "S.V."
+      },
+      {
+        "family": "Giribert",
+        "given": "G."
+      },
+      {
+        "family": "Wheeler",
+        "given": "W.C."
+      },
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      },
+      {
+        "family": "Gunatilleke",
+        "given": "I.A.U.N."
+      },
+      {
+        "family": "Gunatilleke",
+        "given": "C.V.S."
+      },
+      {
+        "family": "Gunatilleke",
+        "given": "I.A.U.N."
+      },
+      {
+        "family": "Gunatilleke",
+        "given": "C.V.S."
+      },
+      {
+        "family": "Abeygunawardena",
+        "given": "P."
+      },
+      {
+        "family": "Hance",
+        "given": "H.F."
+      },
+      {
+        "family": "Handel-Mazzetti",
+        "given": "H."
+      },
+      {
+        "family": "Hayata",
+        "given": "B."
+      },
+      {
+        "family": "Fürarohr",
+        "given": "A.E."
+      },
+      {
+        "family": "Hodkinson",
+        "given": "T.R."
+      },
+      {
+        "family": "Ní Chonghaile",
+        "given": "G.Sungkaew"
+      },
+      {
+        "family": "S.",
+        "given": "Chase"
+      },
+      {
+        "family": "W.",
+        "given": "M."
+      },
+      {
+        "family": "Salamin",
+        "given": "N."
+      },
+      {
+        "family": "Stapleton",
+        "given": "C.M.A."
+      },
+      {
+        "family": "Janzen",
+        "given": "D.H."
+      },
+      {
+        "family": "Judziewicz",
+        "given": "E.J."
+      },
+      {
+        "family": "Clark",
+        "given": "L.G."
+      },
+      {
+        "family": "Londoño",
+        "given": "X."
+      },
+      {
+        "family": "Stern",
+        "given": "M.J."
+      },
+      {
+        "family": "Kariyawasam",
+        "given": "D."
+      },
+      {
+        "family": "Kelchner",
+        "given": "S.A."
+      },
+      {
+        "family": "Group",
+        "given": "Bamboo Phylogeny"
+      },
+      {
+        "family": "Keng",
+        "given": "P.C."
+      },
+      {
+        "family": "Kishino",
+        "given": "H."
+      },
+      {
+        "family": "Hasegawa",
+        "given": "M."
+      },
+      {
+        "family": "Kunth",
+        "given": "C.S."
+      },
+      {
+        "family": "Levrault",
+        "given": "I.F.G."
+      },
+      {
+        "given": "Paris"
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Hsueh",
+        "given": "C.-J."
+      },
+      {
+        "family": "Xia",
+        "given": "N.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Wang",
+        "given": "Z.-P."
+      },
+      {
+        "family": "Zhu",
+        "given": "Z.-D."
+      },
+      {
+        "family": "Xia",
+        "given": "N.-H."
+      },
+      {
+        "family": "Jia",
+        "given": "L.-Z."
+      },
+      {
+        "family": "Guo",
+        "given": "Z.-H."
+      },
+      {
+        "family": "Yang",
+        "given": "G.-Y."
+      },
+      {
+        "family": "Stapleton",
+        "given": "C.M.A."
+      },
+      {
+        "given": "Poaceae"
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Xue",
+        "given": "J.-R."
+      },
+      {
+        "family": "Linder",
+        "given": "H.P."
+      },
+      {
+        "family": "Verboom",
+        "given": "G.A."
+      },
+      {
+        "family": "Barker",
+        "given": "N.P."
+      },
+      {
+        "family": "Maddison",
+        "given": "W.P."
+      },
+      {
+        "family": "Maddison",
+        "given": "D.R."
+      },
+      {
+        "family": "Majumdar",
+        "given": "R.B."
+      },
+      {
+        "family": "Makino",
+        "given": "T."
+      },
+      {
+        "family": "Makino",
+        "given": "T."
+      },
+      {
+        "family": "Mason-Gamer",
+        "given": "R.J."
+      },
+      {
+        "family": "Kellogg",
+        "given": "E.A."
+      },
+      {
+        "family": "McClure",
+        "given": "F.A."
+      },
+      {
+        "family": "McClure",
+        "given": "F.A."
+      },
+      {
+        "family": "Michaux",
+        "given": "A."
+      },
+      {
+        "family": "Muhlenberg",
+        "given": "G.H.E."
+      },
+      {
+        "family": "Munro",
+        "given": "W."
+      },
+      {
+        "family": "Muroi",
+        "given": "L.H."
+      },
+      {
+        "family": "Mutschler",
+        "given": "T."
+      },
+      {
+        "family": "Tan",
+        "given": "C.L."
+      },
+      {
+        "family": "Nakai",
+        "given": "T."
+      },
+      {
+        "family": "Esenbeck",
+        "given": "C.G.D.",
+        "particle": "Nees von"
+      },
+      {
+        "family": "Ohrnberger",
+        "given": "D."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      },
+      {
+        "family": "Sweere",
+        "given": "J.A."
+      },
+      {
+        "family": "Beauvois",
+        "given": "A.M.F.J.",
+        "particle": "Palisot de"
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Ramanayake",
+        "given": "S.M.S.D."
+      },
+      {
+        "family": "Meemaduma",
+        "given": "V.N."
+      },
+      {
+        "family": "Weerawardene",
+        "given": "T.E."
+      },
+      {
+        "family": "Ramanayake",
+        "given": "S.M.S.D."
+      },
+      {
+        "family": "Wanniarachchi",
+        "given": "W.A.V.R."
+      },
+      {
+        "family": "Tennakoon",
+        "given": "T.M.A."
+      },
+      {
+        "family": "Ramanayake",
+        "given": "S.M.S.D."
+      },
+      {
+        "family": "Weerawardene",
+        "given": "T.E."
+      },
+      {
+        "family": "Ramanayake",
+        "given": "S.M.S.D."
+      },
+      {
+        "family": "Yakandawala",
+        "given": "K."
+      },
+      {
+        "family": "Ramanayake",
+        "given": "S.M.S.D."
+      },
+      {
+        "family": "Yakandawala",
+        "given": "K."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Rendle",
+        "given": "U.K."
+      },
+      {
+        "given": "A.B."
+      },
+      {
+        "family": "Schreber",
+        "given": "J.C.D."
+      },
+      {
+        "family": "Seethalakshmi",
+        "given": "K.K."
+      },
+      {
+        "family": "Muktesh Kumar",
+        "given": "M.S."
+      },
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      },
+      {
+        "family": "Smith",
+        "given": "S.A."
+      },
+      {
+        "family": "Donoghue",
+        "given": "M.J."
+      },
+      {
+        "family": "Soderstrom",
+        "given": "T.R."
+      },
+      {
+        "family": "Calderón",
+        "given": "C.E."
+      },
+      {
+        "family": "Soderstrom",
+        "given": "T.R."
+      },
+      {
+        "family": "Ellis",
+        "given": "R.P."
+      },
+      {
+        "family": "Soderstrom",
+        "given": "T.R."
+      },
+      {
+        "family": "Ellis",
+        "given": "R.P."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Stapleton",
+        "given": "C.M.A."
+      },
+      {
+        "family": "Hodkinson",
+        "given": "T.R."
+      },
+      {
+        "family": "Ní Chonghaile",
+        "given": "G."
+      },
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      },
+      {
+        "family": "Thwaites",
+        "given": "G.H.K."
+      },
+      {
+        "given": "T."
+      },
+      {
+        "family": "Wendland",
+        "given": "J.C."
+      },
+      {
+        "family": "Yamane",
+        "given": "K."
+      },
+      {
+        "family": "Kawahara",
+        "given": "T."
+      },
+      {
+        "given": "J.-B."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Yi",
+        "given": "T.-P."
+      },
+      {
+        "family": "Yang",
+        "given": "L."
+      },
+      {
+        "family": "J.K.",
+        "given": "Yang"
+      },
+      {
+        "given": "J.-B."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      }
+    ],
+    "title": "The threatened plants of Sri Lanka. UNESCO and MAB National Committee for Sri Lanka",
+    "volume": "2",
+    "publisher": "Iowa State University",
+    "note": "Available from:",
+    "editor": [
+      {
+        "family": "Gielis",
+        "given": "J."
+      },
+      {
+        "family": "Potters",
+        "given": "G."
+      },
+      {
+        "family": "Goodman",
+        "given": "S.M."
+      },
+      {
+        "family": "Benstead",
+        "given": "J."
+      },
+      {
+        "family": "Rao",
+        "given": "A.N."
+      },
+      {
+        "family": "Rao",
+        "given": "R."
+      },
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      },
+      {
+        "family": "Chapman",
+        "given": "G.P."
+      },
+      {
+        "family": "Jauhar",
+        "given": "P.P."
+      },
+      {
+        "family": "Raton",
+        "given": "B."
+      },
+      {
+        "family": "Goodman",
+        "given": "S.M."
+      },
+      {
+        "family": "Benstead",
+        "given": "J.P."
+      },
+      {
+        "literal": "Ed."
+      },
+      {
+        "family": "Gunasena",
+        "given": "H.P.M."
+      },
+      {
+        "family": "Wilson",
+        "given": "H."
+      },
+      {
+        "family": "Sargent",
+        "given": "C.S."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Beck",
+        "given": "J.T."
+      },
+      {
+        "family": "Farmer",
+        "given": "S.B."
+      },
+      {
+        "family": "Liu",
+        "given": "W."
+      },
+      {
+        "family": "Miller",
+        "given": "J."
+      },
+      {
+        "given": "Siripun"
+      },
+      {
+        "family": "Numata",
+        "given": "M."
+      }
+    ],
+    "container-title": "Proceedings of the 9th World Bamboo Congress",
+    "genre": "Muroi]. Fuji bamboo garden,",
+    "type": "article-journal",
+    "issue": "16.NARESA",
+    "issued": "1986",
+    "page": "56",
+    "publisher-place": "Colombo, Sri Lanka",
+    "URL": "http://www.eeob.iastate.edu/research/bamboo/",
+    "DOI": "10.5962/bhl.title.15463"
+  }
+]

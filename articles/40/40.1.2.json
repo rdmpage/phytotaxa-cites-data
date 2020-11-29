@@ -1,0 +1,613 @@
+[
+  {
+    "author": [
+      {
+        "given": "A.C.D."
+      }
+    ],
+    "title": "Canvas X",
+    "publisher": "ACD Systems International Inc. Seattle",
+    "type": "book",
+    "issued": "2005",
+    "publisher-place": "Washington"
+  },
+  {
+    "author": [
+      {
+        "family": "Systems",
+        "given": "Adobe"
+      }
+    ],
+    "title": "Adobe Photoshop, version 6.0.1. user guide",
+    "type": null,
+    "issued": "2000",
+    "publisher-place": "San Jose, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Barbosa-Rodrígues",
+        "given": "J."
+      }
+    ],
+    "title": "Macroclinium. Genera et species orchidearum novarum 2",
+    "publisher": "Sebastianopolis-Río de Janeiro",
+    "type": "book",
+    "issued": "1882",
+    "page": "236–237",
+    "publisher-place": "Brazil"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Macradenia lutescens",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Edward’s Botanical Register",
+    "issued": "1822",
+    "page": "612"
+  },
+  {
+    "author": [
+      {
+        "family": "Campacci",
+        "given": "M.A."
+      },
+      {
+        "family": "Silva",
+        "given": "J.B.F."
+      }
+    ],
+    "title": "Novas espécies",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Coletânea de Orquídeas Brasileiras",
+    "issued": "2009",
+    "page": "234–237"
+  },
+  {
+    "author": [
+      {
+        "family": "Carnevali",
+        "given": "G."
+      },
+      {
+        "family": "Gerlach",
+        "given": "G."
+      },
+      {
+        "family": "Romero-González",
+        "given": "G.A."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Hokche",
+        "given": "O."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "O",
+        "given": "Huber"
+      }
+    ],
+    "container-title": "Nuevo catálogo de la flora vascular de Venezuela. Fundación Instituto Botánico de Venezuela, Caracas",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "753–789"
+  },
+  {
+    "author": [
+      {
+        "family": "Carnevali",
+        "given": "G."
+      },
+      {
+        "family": "Cetzal-Ix",
+        "given": "W."
+      },
+      {
+        "family": "Balam",
+        "given": "R."
+      },
+      {
+        "family": "Romero-González",
+        "given": "G.A."
+      }
+    ],
+    "title": "A synopsis of Cohniella (Orchidaceae, Oncidiinae",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2010",
+    "page": "153–177"
+  },
+  {
+    "author": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Obligate twig epiphytes: a distinct subset of Neotropical orchidaceous epiphytes",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "1988",
+    "page": "24–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Subtribe Oncidiinae",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rassmussen",
+        "given": "T.N."
+      }
+    ],
+    "container-title": "Genera orchidacearum. Epidendroideae part II",
+    "volume": "5",
+    "publisher": "Oxford University Press, Oxford",
+    "issue": "",
+    "type": "article-journal",
+    "issued": "2009",
+    "page": "211–220"
+  },
+  {
+    "author": [
+      {
+        "family": "De Queiroz",
+        "given": "K."
+      }
+    ],
+    "title": "Species concept and species delimitation",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2007",
+    "page": "879–886"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C."
+      },
+      {
+        "family": "Bennet",
+        "given": "D.E."
+      }
+    ],
+    "title": "Orchids of Peru, Icones plantarum tropicarum",
+    "volume": "II",
+    "publisher": "Missouri Botanical Garden, St. Louis",
+    "issue": "icle I",
+    "type": "book",
+    "issued": "1989",
+    "page": "1–200"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C."
+      },
+      {
+        "family": "Dodson",
+        "given": "M.P."
+      }
+    ],
+    "title": "Orchids of Ecuador, Icones plantarum tropicarum, series I, fascicles 10, plates 901–1000",
+    "publisher": "Marie Selby Botanical Gardens",
+    "type": "book",
+    "issued": "1984",
+    "publisher-place": "Sarasota"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C."
+      },
+      {
+        "family": "Dodson",
+        "given": "M.P."
+      }
+    ],
+    "title": "Orchids of Ecuador, Icones plantarum tropicarum",
+    "volume": "II",
+    "publisher": "Missouri Botanical Garden, St. Louis Missouri",
+    "issue": "icle 6",
+    "type": "book",
+    "issued": "1989"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodson",
+        "given": "C."
+      },
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      }
+    ],
+    "title": "Two undescribed genera of the Orchidaceae–Oncidiinae",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1972",
+    "page": "285–292"
+  },
+  {
+    "author": [
+      {
+        "given": "E.S.R.I."
+      }
+    ],
+    "title": "ArcView gis 3.2, Environmental Systems Research Institute, Inc",
+    "type": null,
+    "issued": "1999",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Focke",
+        "given": "H.C."
+      }
+    ],
+    "title": "De quibusdam Orchideis Surinamensibus",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Botanische Zeitung (Berlin",
+    "issued": "1853",
+    "page": "339–344"
+  },
+  {
+    "author": [
+      {
+        "family": "Foldats",
+        "given": "E."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Lasser",
+        "given": "T."
+      }
+    ],
+    "container-title": "Flora de Venezuela",
+    "volume": "15",
+    "publisher": "Ministerio de Agricultura y Cria",
+    "issue": "5",
+    "type": "article-journal",
+    "issued": "1970",
+    "page": "1–598",
+    "publisher-place": "Caracas"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Patterns of Neotropical plant species diversity",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Evolutionary Biology",
+    "issued": "1982",
+    "page": "1–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Species richness and floristic composition of Chocó region plant communities",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Caldasia",
+    "issued": "1986",
+    "page": "71–91"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      },
+      {
+        "family": "Dodson",
+        "given": "C.H."
+      }
+    ],
+    "title": "Diversity and biogeography of Neotropical vascular epiphytes",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1987",
+    "page": "205–233"
+  },
+  {
+    "author": [
+      {
+        "family": "Hijmans",
+        "given": "R.J."
+      },
+      {
+        "family": "Guarino",
+        "given": "L."
+      },
+      {
+        "family": "Bussink",
+        "given": "C."
+      },
+      {
+        "family": "Mathur",
+        "given": "P."
+      },
+      {
+        "family": "Cruz",
+        "given": "M."
+      },
+      {
+        "family": "Barrentes",
+        "given": "I."
+      },
+      {
+        "family": "E",
+        "given": "Rojas"
+      }
+    ],
+    "title": "DIVA-GIS, version. 5.0. A geographic information system for the analysis of species distribution data",
+    "note": "Freely available at",
+    "type": null,
+    "issued": "2004",
+    "URL": "http://www.diva-gis.org."
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Notylia",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Edward’s Botanical Register",
+    "issued": "1825",
+    "page": "930"
+  },
+  {
+    "author": [
+      {
+        "family": "Morrone",
+        "given": "J.J."
+      }
+    ],
+    "title": "Biogeographic areas and transition zones of Latin America and the Caribbean Islands based on panbiogeographic and cladistic analyses of the entomofauna",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Annual Review of Entomology",
+    "issued": "2006",
+    "page": "467–494"
+  },
+  {
+    "author": [
+      {
+        "family": "Ortiz",
+        "given": "V."
+      }
+    ],
+    "title": "Notyliopsis, un nuevo género afín a Notylia",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Orquideología",
+    "issued": "1996",
+    "page": "183–188"
+  },
+  {
+    "author": [
+      {
+        "family": "Ortiz",
+        "given": "V."
+      }
+    ],
+    "title": "Santanderella, Un nuevo género colombiano de las Oncidiinae (Orchidaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Orquideología",
+    "issued": "2010",
+    "page": "167–173"
+  },
+  {
+    "author": [
+      {
+        "family": "Pupulin",
+        "given": "F."
+      }
+    ],
+    "title": "New a critical Macroclinium (Orchidaceae) from Central America",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Lindleyana",
+    "issued": "1996",
+    "page": "135–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Pupulin",
+        "given": "F."
+      }
+    ],
+    "title": "A synopsis of Macroclinium (Orchidaceae: Oncidiinae",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Caesiana",
+    "issued": "1997",
+    "page": "1–20"
+  },
+  {
+    "author": [
+      {
+        "family": "Pupulin",
+        "given": "F."
+      }
+    ],
+    "title": "Miscellaneous new taxa in Neotropical Orchidaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "2001",
+    "page": "14–26"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "title": "Warmingia",
+    "type": "article-journal",
+    "container-title": "Otia Botanica",
+    "issued": "1881",
+    "page": "87"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero-González",
+        "given": "G.A."
+      },
+      {
+        "family": "Gómez",
+        "given": "C."
+      }
+    ],
+    "title": "Diversidad de Orchidaceae en el Municipio Autónomo Maroa, Estado Amazonas, Venezuela",
+    "editor": [
+      {
+        "given": "BioLlania"
+      }
+    ],
+    "volume": "Espec.) 9",
+    "type": null,
+    "issued": "2009",
+    "page": "252–275"
+  },
+  {
+    "author": [
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      }
+    ],
+    "title": "El endemismo en la flora fanerogámica mexicana: una apreciación analítica preliminar",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Acta Botánica Mexicana",
+    "issued": "1991",
+    "page": "47–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Schweinfurth",
+        "given": "C."
+      }
+    ],
+    "title": "Orchidaceae Peruvianae VI",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Botanical Museum Leaflets, Harvard University",
+    "issued": "1946",
+    "page": "185–223"
+  },
+  {
+    "author": [
+      {
+        "family": "Senghas",
+        "given": "K."
+      }
+    ],
+    "title": "Eine Stechnadel im Heuschober: Entdeckung der neuen Gattung Seegeriella—mit einer Übersicht zur Subtribus Notyliinae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal für den Orchideenfreund",
+    "issued": "1997",
+    "page": "188–196"
+  },
+  {
+    "author": [
+      {
+        "family": "Templeton",
+        "given": "A.R."
+      }
+    ],
+    "title": "The theory of speciation via the founder principle",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Genetics",
+    "issued": "1980",
+    "page": "1011–1038"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "N.H."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Fulcher",
+        "given": "T."
+      },
+      {
+        "family": "Whitten",
+        "given": "M.W."
+      }
+    ],
+    "title": "Molecular systematics of the Oncidiinae based on evidence from four DNA sequence regions: expanded circumscriptions of Cyrtochilum, Erycina, Otoglossum, and Trichocentrum and a new genus (Orchidaceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Lindleyana",
+    "issued": "2001",
+    "page": "113–139"
+  }
+]

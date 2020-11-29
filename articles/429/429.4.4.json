@@ -1,0 +1,224 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.P."
+      },
+      {
+        "family": "Tian",
+        "given": "H.Z."
+      },
+      {
+        "family": "Guan",
+        "given": "Q.X."
+      },
+      {
+        "family": "Zhai",
+        "given": "J.W."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      },
+      {
+        "family": "Z.J.",
+        "given": "Liu"
+      },
+      {
+        "family": "Lan",
+        "given": "S.R."
+      },
+      {
+        "family": "Li",
+        "given": "M.H."
+      }
+    ],
+    "title": "Molecular systematics of Goodyerinae (Cranichideae, Orchidoideae, Orchidaceae) based on multiple nuclear and plastid regions",
+    "volume": "139",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2019",
+    "URL": "https://doi.org/10.1016/j.ympev.2019.106542",
+    "DOI": "10.1016/j.ympev.2019.106542"
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "K.Y."
+      },
+      {
+        "family": "Tsi",
+        "given": "Z.H."
+      }
+    ],
+    "title": "Bulbophyllum Thouars",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "container-title": "Flora Xizangica",
+    "volume": "5",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1987",
+    "page": "817–829",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "M.H."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      },
+      {
+        "family": "Lan",
+        "given": "S.R."
+      }
+    ],
+    "title": "Revision of Hygrochilus (Orchidaceae: Epidendroideae: Aeridinae) and a molecular phylogenetic analysis",
+    "volume": "159",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2014",
+    "page": "256–268",
+    "URL": "https://doi.org/10.11646/phytotaxa.159.4.2",
+    "DOI": "10.11646/phytotaxa.159.4.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "T.P."
+      }
+    ],
+    "title": "New additions to the orchid flora of Taiwan",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "1975",
+    "page": "162–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwarts",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for reference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "M.A."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "title": "Genera Orchidacearum, Epidendroideae (part three",
+    "publisher": "Oxford University Press",
+    "type": "book",
+    "issued": "2014",
+    "page": "4–51",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Rougemont",
+        "given": "J."
+      }
+    ],
+    "title": "A rapid bootstrap algorithm for the RAxML web-servers",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2008",
+    "page": "758–771",
+    "URL": "https://doi.org/10.1080/10635150802429642",
+    "DOI": "10.1080/10635150802429642"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*. Phylogenetic analysis using parsimony (*and other methods), v. 4.0 beta 10",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Sinauer, Sunderland"
+  }
+]

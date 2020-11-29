@@ -1,0 +1,377 @@
+[
+  {
+    "author": [
+      {
+        "family": "Borbás",
+        "given": "V."
+      }
+    ],
+    "title": "Vasvármegye növényföldrajza és flórája",
+    "publisher": "Vasmegyei Gazdasági Egyesület, Szombathely",
+    "type": "book",
+    "issued": "1887",
+    "page": "395"
+  },
+  {
+    "author": [
+      {
+        "family": "Borbás",
+        "given": "V."
+      }
+    ],
+    "title": "Flora von Oesterreich-Ungarn. I. Slavonien, Croatien und Fiume",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Oesterreichische Botanische Zeitschrift",
+    "issued": "1891",
+    "page": "142–148",
+    "URL": "http://dx.doi.org/10.1007/bf01790286",
+    "DOI": "10.1007/bf01790286"
+  },
+  {
+    "author": [
+      {
+        "family": "Borbás",
+        "given": "V."
+      }
+    ],
+    "title": "Flora von Oesterreich-Ungarn. III. Slavonien, Croatien und Fiume",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Oesterreichische Botanische Zeitschrift",
+    "issued": "1892",
+    "page": "217–220",
+    "URL": "http://dx.doi.org/10.1007/bf01798531",
+    "DOI": "10.1007/bf01798531"
+  },
+  {
+    "author": [
+      {
+        "given": "Euro+Med"
+      }
+    ],
+    "title": "Euro+Med PlantBase – the information resource for Euro-Mediterranean plant diversity",
+    "note": "Available from",
+    "type": null,
+    "issued": "2006",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/"
+  },
+  {
+    "author": [
+      {
+        "family": "Focke",
+        "given": "W.O."
+      }
+    ],
+    "title": "Synopsis Ruborum Germaniae. Die deutschen Brombeerarten ausführlich beschrieben und erläutert",
+    "editor": [
+      {
+        "given": "C."
+      }
+    ],
+    "publisher": "Müllers’s Verlagsbuchhandlung, Bremen",
+    "type": "book",
+    "issued": "1877",
+    "page": "434"
+  },
+  {
+    "author": [
+      {
+        "family": "Gáyer",
+        "given": "G."
+      }
+    ],
+    "title": "Prodromus der Brombeerenflora Ungarns",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Magyar Botanikai Lapok",
+    "issued": "1921",
+    "page": "1–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Gáyer",
+        "given": "G."
+      }
+    ],
+    "title": "Rubus L",
+    "editor": [
+      {
+        "family": "In",
+        "given": "Szeder"
+      },
+      {
+        "family": "Jávorka",
+        "given": "S."
+      }
+    ],
+    "container-title": "Magyar Flóra (Flora Hungarica",
+    "type": "chapter",
+    "issued": "1925",
+    "page": "485–518",
+    "publisher-place": "Studium, Budapest"
+  },
+  {
+    "author": [
+      {
+        "family": "Haveman",
+        "given": "R."
+      },
+      {
+        "family": "Ronde",
+        "given": "I.",
+        "particle": "de"
+      }
+    ],
+    "title": "The role of the Weberian reform in European Rubus research and the taxonomy of locally distributed species – which species should we describe?",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2012",
+    "page": "1–6",
+    "URL": "http://dx.doi.org/10.1111/j.1756-1051.2012.01558.x",
+    "DOI": "10.1111/j.1756-1051.2012.01558.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Heslop-Harrison",
+        "given": "Y."
+      }
+    ],
+    "title": "Rubus L",
+    "director": [
+      {
+        "family": "Tutin",
+        "given": "T.G."
+      },
+      {
+        "family": "Heywood",
+        "given": "V.H."
+      },
+      {
+        "family": "Burges",
+        "given": "N.A."
+      },
+      {
+        "family": "Moore",
+        "given": "D.M."
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      },
+      {
+        "family": "Ball",
+        "given": "P.W."
+      },
+      {
+        "family": "Chater",
+        "given": "A.O."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Ferguson",
+        "given": "I.K."
+      }
+    ],
+    "container-title": "Flora Europaea 2",
+    "publisher": "Cambridge University Press",
+    "type": "article-journal",
+    "issued": "1968",
+    "page": "7–25",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Jávorka",
+        "given": "S."
+      },
+      {
+        "family": "Csapody",
+        "given": "V."
+      }
+    ],
+    "title": "A magyar flóra képekben (Iconographia Florae Hungaricae",
+    "publisher": "Királyi Magyar Természettudományi Társulat, Budapest",
+    "type": "book",
+    "issued": "1934",
+    "page": "576"
+  },
+  {
+    "author": [
+      {
+        "family": "Király",
+        "given": "G."
+      },
+      {
+        "family": "Trávníček",
+        "given": "B."
+      },
+      {
+        "family": "Žíla",
+        "given": "V."
+      }
+    ],
+    "title": "Revision of Rubus ser. Micantes (Rosaceae) in Hungary with the re-evaluation of the neglected Rubus balatonicus",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Preslia",
+    "issued": "2013",
+    "page": "505–526"
+  },
+  {
+    "author": [
+      {
+        "family": "Kurtto",
+        "given": "A."
+      },
+      {
+        "family": "Weber",
+        "given": "H.E."
+      },
+      {
+        "family": "Lampinen",
+        "given": "R."
+      },
+      {
+        "given": "Sennikov"
+      }
+    ],
+    "title": "A.N",
+    "editor": [
+      {
+        "literal": "eds."
+      }
+    ],
+    "publisher": "The Committee for Mapping the Flora of Europea & Societas Biologica Fennica Vanamo",
+    "type": "book",
+    "issued": "2010",
+    "page": "362",
+    "publisher-place": "Helsinki"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      },
+      {
+        "family": "Salvii",
+        "given": "L."
+      },
+      {
+        "given": "Holmiae"
+      }
+    ],
+    "title": "Species plantarum, exhibentes plantas rite cognitas, ad genera relatas, cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas",
+    "volume": "1-2",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "URL": "http://dx.doi.org/10.5962/bhl.title.65726",
+    "DOI": "10.5962/bhl.title.65726"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "D.L."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Proud’Homme van"
+      }
+    ],
+    "title": "Smith",
+    "editor": [
+      {
+        "given": "J.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      }
+    ],
+    "publisher": "Koeltz Scientific Books",
+    "type": "book",
+    "issued": "2012",
+    "page": "208",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Soó",
+        "given": "R."
+      }
+    ],
+    "title": "Synopsis systematico-geobotanica florae vegetationisque Hungariae 6",
+    "publisher": "Akadémiai Kiadó, Budapest",
+    "type": "book",
+    "issued": "1980",
+    "page": "667"
+  },
+  {
+    "author": [
+      {
+        "family": "Weber",
+        "given": "H.E."
+      }
+    ],
+    "title": "Present state of taxonomy and mapping of blackberries (Rubus L.) in Europe",
+    "volume": "162",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "1999",
+    "page": "161–168"
+  }
+]

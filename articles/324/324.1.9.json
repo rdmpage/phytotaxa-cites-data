@@ -1,0 +1,48 @@
+[
+  {
+    "author": [
+      {
+        "family": "Braem",
+        "given": "G.J."
+      },
+      {
+        "family": "Nimpoonsri",
+        "given": "K."
+      }
+    ],
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Paphiopedilum josianae",
+    "issued": "2014",
+    "page": "185–190"
+  },
+  {
+    "author": [
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "The Genus Paphiopedilum",
+    "type": "article-journal",
+    "container-title": "Nat. Hist. Publ. Kota Kinabalu, Borneo",
+    "issued": "1998"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "World Checklist of Orchidaceae. Facilitated by the Royal Botanic Gardens",
+    "note": "Kew. Published on the Internet; Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://apps.kew.org/wcsp/"
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "C.A."
+      }
+    ],
+    "title": "Systema Algarum",
+    "publisher": "Literis Berlingianis, Lundae",
+    "type": "book",
+    "issued": "1824",
+    "page": "312"
+  },
+  {
+    "author": [
+      {
+        "given": "A.P.D."
+      }
+    ],
+    "title": "African Plant Database",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://www.ville-ge.ch/musinfo/bd/cjb/africa/details.php?langue=an&id=192163"
+  },
+  {
+    "author": [
+      {
+        "family": "Battandier",
+        "given": "J.A."
+      }
+    ],
+    "title": "Contributions à la flore atlantique",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Librairie Klincksieck, Lhomme successeur",
+    "issue": "",
+    "issued": "1919",
+    "page": "111"
+  },
+  {
+    "author": [
+      {
+        "family": "Bieberstein",
+        "given": "F.A.Marshall von"
+      }
+    ],
+    "title": "Flora Taurico-Caucasica Supplementum 3",
+    "publisher": "Typis Academicis, Charkouiae",
+    "type": "book",
+    "issued": "1819",
+    "page": "654"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonnet",
+        "given": "E."
+      },
+      {
+        "family": "Barratte",
+        "given": "G."
+      }
+    ],
+    "title": "Catalogue raisonné des plantes vasculaires de la Tunisie",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Mission de l’exploration scientifique de la Tunisie, Imprimerie nationale",
+    "issue": "",
+    "issued": "1896",
+    "page": "519"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonnier",
+        "given": "E."
+      },
+      {
+        "family": "De Layens",
+        "given": "G."
+      }
+    ],
+    "title": "La Végétation de la France - Tome I - Tableaux synoptiques des plantes vasculaires de la Flore de la France",
+    "publisher": "Paul Dupont éd., Paris",
+    "type": "book",
+    "issued": "1894",
+    "page": "412"
+  },
+  {
+    "author": [
+      {
+        "family": "Braun-Blanquet",
+        "given": "J."
+      }
+    ],
+    "title": "Plant sociology, the study of plant community",
+    "publisher": "McGraw Hill Book",
+    "type": "book",
+    "issued": "1932",
+    "page": "472",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Dobignard",
+        "given": "A."
+      },
+      {
+        "family": "Chatelain",
+        "given": "C."
+      }
+    ],
+    "title": "Index synonymique de la flore d’Afrique du Nord 5",
+    "container-title": "Conservatoire et Jardin botaniques de la Ville de Genève",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "– 11 , 451"
+  },
+  {
+    "author": [
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "El Mokni",
+        "given": "R."
+      }
+    ],
+    "title": "An inventory of the names of vascular plants endemic to C Mediterranean and described from Tunisia",
+    "volume": "409",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2019",
+    "page": "105–128",
+    "URL": "https://doi.org/10.11646/phytotaxa.409.3.1",
+    "DOI": "10.11646/phytotaxa.409.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "El Mokni",
+        "given": "R."
+      },
+      {
+        "family": "Domina",
+        "given": "G."
+      }
+    ],
+    "title": "Taxonomic and distributive notes on Serapias lingua subsp. tunetana (Orchidaceae), a rare endemic to Tunisia",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Collectanea Botanica",
+    "issued": "2019",
+    "page": "005",
+    "URL": "https://doi.org/10.3989/collectbot.2019.v38.005",
+    "DOI": "10.3989/collectbot.2019.v38.005"
+  },
+  {
+    "author": [
+      {
+        "family": "El Mokni",
+        "given": "R."
+      },
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Sebei",
+        "given": "H."
+      },
+      {
+        "family": "El Aouni",
+        "given": "M.H."
+      }
+    ],
+    "title": "Hyacinthoides kroumiriensis sp. nov. (Hyacinthaceae): a new species from North West of Tunisia",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "International Journal of Advanced Research",
+    "issued": "2014",
+    "page": "640–644"
+  },
+  {
+    "author": [
+      {
+        "family": "El Mokni",
+        "given": "R."
+      },
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Sebei",
+        "given": "H."
+      },
+      {
+        "family": "El Aouni",
+        "given": "M.H."
+      }
+    ],
+    "title": "Taxonomic notes and distribution of taxa of Orobanche gr. minor (Orobanchaceae) from Tunisia",
+    "volume": "162",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Gallica: Botany Letters",
+    "issued": "2015",
+    "page": "5–10",
+    "URL": "https://doi.org/10.1080/12538078.2014.993424",
+    "DOI": "10.1080/12538078.2014.993424"
+  },
+  {
+    "author": [
+      {
+        "family": "El Mokni",
+        "given": "R."
+      },
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Bassia scoparia (Amaranthaceae s. l.) and Sesuvium portulacastrum (Aizoaceae), two new naturalized aliens to the Tunisian flora",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Flora Mediterranea",
+    "issued": "2019",
+    "page": "191–196",
+    "URL": "https://doi.org/10.7320/FlMedit29.191",
+    "DOI": "10.7320/FlMedit29.191"
+  },
+  {
+    "author": [
+      {
+        "family": "El Mokni",
+        "given": "R."
+      },
+      {
+        "family": "Sebei",
+        "given": "H."
+      },
+      {
+        "family": "El Aouni",
+        "given": "M.H."
+      }
+    ],
+    "title": "Rediscovery of a rare North African endemic Odontites (Orobanchaceae): first record and variability from Tunisia",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "International Journal of Advanced Research",
+    "issued": "2015",
+    "page": "376–382"
+  },
+  {
+    "author": [
+      {
+        "family": "El Mokni",
+        "given": "R."
+      },
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Sebei",
+        "given": "H."
+      },
+      {
+        "family": "El Aouni",
+        "given": "M.H."
+      }
+    ],
+    "title": "On the distribution and subspecific variation of the Tunisian-Algerian endemic Delphinium sylvaticum Pomel (Ranunculaceae",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2015",
+    "page": "548–554",
+    "URL": "https://doi.org/10.1111/njb.00900",
+    "DOI": "10.1111/njb.00900"
+  },
+  {
+    "author": [
+      {
+        "family": "Gounot",
+        "given": "M."
+      },
+      {
+        "family": "Schoenenberger",
+        "given": "A."
+      }
+    ],
+    "title": "Carte phyto-écologique de la Tunisie septentrionale. Feuilles 2 et 3. Notice détaillée",
+    "container-title": "Tunis, Annales de l’Institut National de la Recherche Agronomique de Tunisie",
+    "type": "chapter",
+    "issued": "1967"
+  },
+  {
+    "author": [
+      {
+        "family": "Iamonico",
+        "given": "D."
+      },
+      {
+        "family": "El Mokni",
+        "given": "R."
+      }
+    ],
+    "title": "Amaranthus tunetanus (Amaranthaceae), a new species from Tunisia and a diagnostic key to the North African taxa in subgen",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Albersia. South African Journal of Botany",
+    "issued": "2018",
+    "page": "78–83",
+    "URL": "https://doi.org/10.1016/j.sajb.2017.10.011",
+    "DOI": "10.1016/j.sajb.2017.10.011"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "33",
+    "publisher-place": "Gland, Switzerland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant-Book: a portable dictionary of plants, their classification and uses",
+    "edition": "Third",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": null,
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Marhold",
+        "given": "K."
+      }
+    ],
+    "title": "Linaria Mill. In: Euro+Med Plantbase - the information resource for Euro-Mediterranean plant diversity",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/RegionalTaxon.asp?PTNameFK=33093&PTRefFk=7200000&Name=Linaria"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The Gardeners Dictionary",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "note": "Published by the author, London, without pagination.",
+    "type": null,
+    "issued": "1754"
+  },
+  {
+    "author": [
+      {
+        "family": "Pottier-Alapetite",
+        "given": "G."
+      }
+    ],
+    "title": "Flore de la Tunisie: Angiospermes Dicotylédones 2. Ministère de l’Enseignement Supérieur et de la Recherche Scientifique et le Ministère de l’Agriculture",
+    "type": null,
+    "issued": "1981",
+    "page": "535",
+    "publisher-place": "Tunis"
+  },
+  {
+    "author": [
+      {
+        "family": "Sáez",
+        "given": "L."
+      },
+      {
+        "family": "Sáinz",
+        "given": "M."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      }
+    ],
+    "title": "Taxonomic notes on Linaria Mill. (Scrophulariaceae) for Flora Iberica",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Folia Geobotanica",
+    "issued": "2004",
+    "page": "293–318",
+    "URL": "https://doi.org/10.1007/BF02804783",
+    "DOI": "10.1007/BF02804783"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutton",
+        "given": "D.A."
+      }
+    ],
+    "title": "A revision of the tribe Antirrhineae",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "1988",
+    "page": "575",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Valderrábano",
+        "given": "M."
+      },
+      {
+        "family": "Gil",
+        "given": "T."
+      },
+      {
+        "family": "Heywood",
+        "given": "V."
+      },
+      {
+        "family": "Montmollin",
+        "given": "B.",
+        "particle": "de"
+      }
+    ],
+    "title": "Conserving wild plants in the south and east Mediterranean region",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2018",
+    "page": "146",
+    "publisher-place": "Gland, Switzerland and Málaga, Spain, xiii",
+    "URL": "https://doi.org/10.2305/IUCN.CH.2018.21.en",
+    "DOI": "10.2305/IUCN.CH.2018.21.en"
+  }
+]

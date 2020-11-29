@@ -1,0 +1,903 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Compositae",
+    "director": [
+      {
+        "literal": "IV. Helianthodeae, Helenioideae, Anthemideae, Senencionideae, Cynaroideae, Ligulatae, Mutisiaceae."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Flora Brasiliensis 6(3). Oldenbourg, Monachii et Lipsiae",
+    "type": "chapter",
+    "issued": "1884",
+    "page": "135–398",
+    "publisher-place": "Munich & Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Basualdo",
+        "given": "I."
+      }
+    ],
+    "title": "Inventario Biologico de Paraguay",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Tropicos, Missouri Botanical Garden, St. Louis",
+    "issued": "2013",
+    "URL": "http://www.tropicos.org/projectwebportal.aspx?pagename=Home&projectid=44&langid=66"
+  },
+  {
+    "author": [
+      {
+        "family": "Bongard",
+        "given": "A.G.H.von"
+      }
+    ],
+    "title": "Compositae Brasilienses Novae. Mémoires de l'Academie Imperiale des Sciences de St.-Petersbourg (6 sér",
+    "volume": "5",
+    "issue": "2, Bot.",
+    "type": null,
+    "issued": "1839",
+    "page": "31–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Mutisieas Argentinas nuevas o interesantes. Notas del Museo de La Plata",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Botánica",
+    "issued": "1935",
+    "page": "55–69"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Observaciones sobre los géneros Gochnatia y Moquinia. Notas del Museo de La Plata",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Botánica",
+    "issued": "1950",
+    "page": "37–48"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "El género Moquinia (Compositae",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Argentina de Botánica",
+    "issued": "1969",
+    "page": "255–261"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Revisión del Género Gochnatia",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Revista del Museo de La Plata. Seccíon botánica",
+    "issued": "1971",
+    "page": "1–160"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Tres Compositae nuevas de Minas Gerais (Brasil",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Boletim do Museu Botanico Municipal",
+    "issued": "1974",
+    "page": "1–3"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis 7(1",
+    "editor": [
+      {
+        "family": "Würtz",
+        "given": "Sociorum Treuttel",
+        "particle": "et"
+      },
+      {
+        "given": "Parisii"
+      }
+    ],
+    "type": null,
+    "issued": "1838",
+    "page": "807"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Prodromus florae Nepalensis",
+    "editor": [
+      {
+        "family": "Gale",
+        "given": "Londini"
+      }
+    ],
+    "type": null,
+    "issued": "1825",
+    "page": "256"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Descriptions of the new genera and species of the class belonging to the Floras of Peru, Mexico, and Chile",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London. Botany",
+    "issued": "1830",
+    "page": "169–303",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1829.tb00136.x",
+    "DOI": "10.1111/j.1095-8339.1829.tb00136.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Descriptive catalogue of the Compositae contained in the herbarium of Dr. Gillies; with some additions from other sources",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Philosophical Magazine, or Annals of Chemistry, Mathematics, Astronomy, Natural History and General Science",
+    "issued": "1832",
+    "page": "387–392"
+  },
+  {
+    "author": [
+      {
+        "family": "Endlicher",
+        "given": "S."
+      }
+    ],
+    "title": "Genera plantarum secundum ordines naturales disposita",
+    "type": null,
+    "issued": "1838",
+    "page": null,
+    "publisher-place": "Beck, Vienna",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.442",
+    "DOI": "10.5962/bhl.title.442"
+  },
+  {
+    "author": [
+      {
+        "family": "website",
+        "given": "Field Museum"
+      }
+    ],
+    "title": "Department of Botany, Botany Collections Database",
+    "note": "The Field Museum, Chicago. Available from:",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Berlin Negatives",
+    "URL": "http://emuweb.fieldmuseum.org/botany/search_berlin.php"
+  },
+  {
+    "author": [
+      {
+        "family": "Freire",
+        "given": "S.E."
+      },
+      {
+        "family": "Katinas",
+        "given": "L."
+      },
+      {
+        "family": "Sancho",
+        "given": "G."
+      }
+    ],
+    "title": "Gochnatia (Asteraceae: Mutisieae) and the Gochnatia complex: taxonomic implications from morphology",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "2002",
+    "page": "525–550",
+    "URL": "http://dx.doi.org/10.2307/3298594",
+    "DOI": "10.2307/3298594"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E.M."
+      }
+    ],
+    "title": "Systema mycologicum 3",
+    "publisher": "Mauritii, Greifswald",
+    "type": "book",
+    "issued": "1829",
+    "page": "524"
+  },
+  {
+    "author": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T."
+      },
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "Classification of Compositae",
+    "editor": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T."
+      },
+      {
+        "family": "Bayer",
+        "given": "R."
+      }
+    ],
+    "container-title": "Systematics, Evolution and Biogeography of Compositae. IAPT, Vienna",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "171–189"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "G."
+      }
+    ],
+    "title": "Contribution towards a Flora of Brazil, being the characters of several new species of Compositae, belonging to the tribes Mutisiaceae and Nassauvieae",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "The London Journal of Botany",
+    "issued": "1847",
+    "page": "449–463"
+  },
+  {
+    "author": [
+      {
+        "given": "G.P.I."
+      }
+    ],
+    "title": "Global Plants Initiative",
+    "publisher": "Jstor Plant Science",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2003",
+    "publisher-place": "Michigan & New York",
+    "URL": "http://plants.jstor.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A."
+      }
+    ],
+    "title": "Plantae Lorentzianae. Bearbeitung der ersten und zweiten Sammlung argentinischer Pflanzen des Professor Lorentz zu Cordoba",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen",
+    "issued": "1874",
+    "page": "49–279"
+  },
+  {
+    "author": [
+      {
+        "family": "Hassler",
+        "given": "E."
+      }
+    ],
+    "title": "VII. Ex herbario Hassleriano: Novitates paraguarienses",
+    "editor": [
+      {
+        "literal": "XXII. (Originaldiagnosen). Compositae. IV."
+      }
+    ],
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1919",
+    "page": "25–29",
+    "URL": "http://dx.doi.org/10.1002/fedr.4870160108",
+    "DOI": "10.1002/fedr.4870160108"
+  },
+  {
+    "author": [
+      {
+        "family": "Hiepko",
+        "given": "P."
+      }
+    ],
+    "title": "The collections of the Botanical Museum Berlin-Dahlem (B) and their history",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Englera",
+    "issued": "1987",
+    "page": "219–252"
+  },
+  {
+    "author": [
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      }
+    ],
+    "title": "Tribe Mutisieae",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "container-title": "Kubitzki’s Families and Genera of Vascular Plants 8",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "90–123",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      }
+    ],
+    "title": "An annotated preliminary checklist of the Compositae of Bolivia",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.kew.org/science/tropamerica/boliviacompositae/"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Contributions towards a Flora of South America and the islands of the Pacific",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Companion to the Botanical Magazine",
+    "issued": "1835",
+    "page": "102–111"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "C.S."
+      },
+      {
+        "family": "von",
+        "given": "Bonpland"
+      },
+      {
+        "given": "A.J.A."
+      },
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Compositae",
+    "director": [
+      {
+        "family": "Humboldt",
+        "given": "F.W.H.A."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Graeco-Latino-Germanico",
+        "given": "Folio Ed Librariae"
+      },
+      {
+        "family": "Parisiorum",
+        "given": "Lutetiae"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "In",
+    "issued": "1818",
+    "page": "247"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio generum plantarum vascularium 1",
+    "publisher": "Felix, Leipzig",
+    "type": "book",
+    "issued": "1891",
+    "page": "374"
+  },
+  {
+    "author": [
+      {
+        "family": "Lessing",
+        "given": "F."
+      }
+    ],
+    "title": "Synanthereis herbarii Regii Berolinensis, dissertatio tertia",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1830",
+    "page": "237–298"
+  },
+  {
+    "author": [
+      {
+        "family": "Lessing",
+        "given": "F."
+      }
+    ],
+    "title": "Synopsis generum Compositarum earumque dispositionis novae tentamen monographs multarum capensium interjectis",
+    "publisher": "Dumckeri et Humblotii",
+    "type": "book",
+    "issued": "1832",
+    "page": "473",
+    "publisher-place": "Berolinii (Berlin",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.51470",
+    "DOI": "10.5962/bhl.title.51470"
+  },
+  {
+    "author": [
+      {
+        "family": "Malme",
+        "given": "G.O.A."
+      }
+    ],
+    "title": "Die Compositen der Ersten Regnell'schen Expedition",
+    "volume": "2) 32",
+    "type": "article-journal",
+    "container-title": "Kongliga Svenska Vetenskapsakademiens Handlingar (ser",
+    "issued": "1899",
+    "page": "1–90"
+  },
+  {
+    "author": [
+      {
+        "family": "Malme",
+        "given": "G.O.A."
+      }
+    ],
+    "title": "Compositae Paranenses Dusenianae",
+    "volume": "3) 12",
+    "type": "article-journal",
+    "container-title": "Kongliga Svenska Vetenskapsakademiens Handlingar (ser",
+    "issued": "1933",
+    "page": "1–122"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "given": "Wiersema"
+      },
+      {
+        "family": "J.H.",
+        "given": "Turland"
+      },
+      {
+        "given": "N.J."
+      }
+    ],
+    "title": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code) adopted by the Eighteenth International Botanical Congress Melbourne",
+    "publisher": "Koeltz Scientific Books",
+    "note": "Regnum Vegetabile 154",
+    "type": null,
+    "issued": "2012",
+    "page": "208",
+    "publisher-place": "Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Ortiz",
+        "given": "O."
+      },
+      {
+        "family": "Bonifacino",
+        "given": "J.M."
+      },
+      {
+        "family": "Crisci",
+        "given": "J.V."
+      },
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Hansen",
+        "given": "H."
+      },
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      },
+      {
+        "family": "Katinas",
+        "given": "L."
+      },
+      {
+        "family": "Roque",
+        "given": "N."
+      },
+      {
+        "family": "Sancho",
+        "given": "G."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Tellería",
+        "given": "M.C."
+      }
+    ],
+    "title": "The basal grade of Compositae: Mutisieae (sensu Cabrera) and Carduoideae",
+    "editor": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T."
+      },
+      {
+        "family": "Bayer",
+        "given": "R."
+      }
+    ],
+    "container-title": "Systematics, Evolution and Biogeography of Compositae. IAPT, Vienna",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "193 213"
+  },
+  {
+    "author": [
+      {
+        "family": "Panero",
+        "given": "J.L."
+      },
+      {
+        "family": "Funk",
+        "given": "V.A."
+      }
+    ],
+    "title": "Toward a phylogenetic subfamilial classification for the Compositae (Asteraceae",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Biological Society of Washington",
+    "issued": "2002",
+    "page": "909–922"
+  },
+  {
+    "author": [
+      {
+        "family": "Roque",
+        "given": "N."
+      },
+      {
+        "family": "Pirani",
+        "given": "R."
+      }
+    ],
+    "title": "Reinstatement of the name Richterago Kuntze and recircumscription of the genus to include species formerly treated as Actinoseris (Endl.) Cabrera (Compositae, Mutisieae",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2001",
+    "page": "1155–1160",
+    "URL": "http://dx.doi.org/10.2307/1224734",
+    "DOI": "10.2307/1224734"
+  },
+  {
+    "author": [
+      {
+        "family": "Rusby",
+        "given": "H.H."
+      }
+    ],
+    "title": "An enumeration of the plants collected in Bolivia by Miguel Bang, Part 4, with descriptions of new genera and species",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin of the New York Botanical Garden",
+    "issued": "1907",
+    "page": "309–479"
+  },
+  {
+    "author": [
+      {
+        "family": "Sancho",
+        "given": "G."
+      }
+    ],
+    "title": "Novedades taxonómicas en Gochnatia (Asteraceae, Mutisieae",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "1999",
+    "page": "557–561"
+  },
+  {
+    "author": [
+      {
+        "family": "Sancho",
+        "given": "G."
+      }
+    ],
+    "title": "Revisión y filogenia de la sección Moquiniastrum Cabrera del género Gochnatia Kunth (Asteraceae, Mutisieae",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Fontqueria",
+    "issued": "2000",
+    "page": "61–122"
+  },
+  {
+    "author": [
+      {
+        "family": "Sancho",
+        "given": "G."
+      },
+      {
+        "family": "Otegui",
+        "given": "M."
+      }
+    ],
+    "title": "Secretory tissues in florets of Gochnatia polymorpha (Asteraceae, Mutisieae",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Evolutive considerations. Phytomorphology",
+    "issued": "2000",
+    "page": "172–179"
+  },
+  {
+    "author": [
+      {
+        "family": "Sancho",
+        "given": "G."
+      },
+      {
+        "family": "Freire",
+        "given": "S.E."
+      }
+    ],
+    "title": "Gochnatieae (Gochnatioideae) and Hyalideae (Wunderlichioideae p.p",
+    "editor": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T."
+      },
+      {
+        "family": "Bayer",
+        "given": "R."
+      }
+    ],
+    "container-title": "Systematics, Evolution and Biogeography of Compositae. IAPT, Vienna",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "249 265"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "K."
+      }
+    ],
+    "title": "Systema vegetabilium",
+    "editor": [
+      {
+        "literal": "ed."
+      },
+      {
+        "family": "Dieterichianae",
+        "given": "Librariae"
+      },
+      {
+        "given": "Gottingae"
+      }
+    ],
+    "volume": "16",
+    "type": null,
+    "issued": "1826",
+    "page": "3",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.822",
+    "DOI": "10.5962/bhl.title.822"
+  },
+  {
+    "author": [
+      {
+        "family": "Tellería",
+        "given": "M.C."
+      },
+      {
+        "family": "Sancho",
+        "given": "G."
+      },
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Ventosa",
+        "given": "I."
+      },
+      {
+        "family": "Roque",
+        "given": "N."
+      }
+    ],
+    "title": "Pollen morphology and its taxonomic significance in the tribe Gochnatieae (Compositae, Gochnatioideae",
+    "volume": "299",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2013",
+    "page": "935–948",
+    "URL": "http://dx.doi.org/10.1007/s00606-013-0774-1",
+    "DOI": "10.1007/s00606-013-0774-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Ventosa-Rodriguez",
+        "given": "I."
+      },
+      {
+        "family": "Herrera Oliver",
+        "given": "P.P."
+      }
+    ],
+    "title": "Do the Antillean species of Gochnatia Kunth (Asteraceae) truly belong in that genus? A phylogenetic analysis based on morphological characters",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Compositae Newsletter",
+    "issued": "2011",
+    "page": "8–22"
+  }
+]

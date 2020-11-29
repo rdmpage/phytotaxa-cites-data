@@ -1,0 +1,571 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H."
+      }
+    ],
+    "title": "Histoire des Plantes",
+    "volume": "12",
+    "publisher": "Librairie Hachette",
+    "type": "book",
+    "issued": "1894",
+    "page": "611",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Boeckeler",
+        "given": "J.O."
+      }
+    ],
+    "title": "Die Cyperaceen des Königlichen Herbariums zu Berlin",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1876",
+    "page": "327–452"
+  },
+  {
+    "author": [
+      {
+        "family": "Desfontaines",
+        "given": "R.L."
+      }
+    ],
+    "title": "Flora Atlantica 2",
+    "publisher": "L.G. Desgranjes. Paris",
+    "type": "book",
+    "issued": "1799",
+    "page": "485"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Cyperaceae africanae. Botanische Jahrbücher fur Systematik",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issue": "2",
+    "issued": "1906",
+    "page": "131–136"
+  },
+  {
+    "author": [
+      {
+        "family": "Escudero",
+        "given": "M."
+      },
+      {
+        "family": "Hipp",
+        "given": "A.L."
+      },
+      {
+        "family": "Waterway",
+        "given": "M.J."
+      },
+      {
+        "family": "Valente",
+        "given": "L.M."
+      }
+    ],
+    "title": "Diversification rates and chromosome evolution in the most diverse angiosperm genus of the temperate zone (Carex, Cyperaceae",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2012",
+    "page": "650–655",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2012.02.005",
+    "DOI": "10.1016/j.ympev.2012.02.005"
+  },
+  {
+    "author": [
+      {
+        "family": "Gehrke",
+        "given": "B."
+      },
+      {
+        "family": "Martín-Bravo",
+        "given": "S."
+      },
+      {
+        "family": "Muasya",
+        "given": "M."
+      },
+      {
+        "family": "Luceño",
+        "given": "M."
+      }
+    ],
+    "title": "Monophyly, phylogenetic position and the role of hybridization in Schoenoxiphium Nees (Cariceae, Cyperaceae",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2010",
+    "page": "380–392",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2010.03.036",
+    "DOI": "10.1016/j.ympev.2010.03.036"
+  },
+  {
+    "author": [
+      {
+        "family": "Gehrke",
+        "given": "B."
+      },
+      {
+        "family": "Vrijdaghs",
+        "given": "A."
+      },
+      {
+        "family": "Smets",
+        "given": "E."
+      },
+      {
+        "family": "Muasya",
+        "given": "A.M."
+      }
+    ],
+    "title": "Unisexual flowers as a robust synapomorphy in Cariceae (Cyperaceae)? Evidence for bisexual flowers in Schoenoxiphium",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2012",
+    "page": "150–158",
+    "URL": "http://dx.doi.org/10.1016/j.sajb.2011.06.004",
+    "DOI": "10.1016/j.sajb.2011.06.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Global Carex"
+      }
+    ],
+    "title": "Making Carex monophyletic (Cyperaceae, tribe Cariceae): a new broader circumscription",
+    "volume": "179",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2015",
+    "page": "1–42",
+    "URL": "http://dx.doi.org/10.1111/boj.12298",
+    "DOI": "10.1111/boj.12298"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Global Carex"
+      }
+    ],
+    "title": "Megaphylogenetic specimen-level approaches to the Carex (Cyperaceae) phylogeny using ITS, ETS, and matK sequences: implications for classification",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2016",
+    "page": "500–518",
+    "URL": "http://dx.doi.org/10.1600/036364416X692497",
+    "DOI": "10.1600/036364416X692497"
+  },
+  {
+    "author": [
+      {
+        "family": "Goetghebeur",
+        "given": "P."
+      }
+    ],
+    "title": "Cyperaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "container-title": "The families and genera of vascular plants",
+    "volume": "4",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "1998",
+    "page": "141–190",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-662-03531-3_15",
+    "DOI": "10.1007/978-3-662-03531-3_15"
+  },
+  {
+    "author": [
+      {
+        "family": "Gordon-Gray",
+        "given": "K.D."
+      }
+    ],
+    "title": "Cyperaceae of Natal, Strelitzia 2",
+    "publisher": "National Botanical Institute, South Africa",
+    "type": "book",
+    "issued": "1995",
+    "page": "218"
+  },
+  {
+    "author": [
+      {
+        "family": "Hochstetter",
+        "given": "D.F.F."
+      }
+    ],
+    "title": "Pflanzen des Cap und Natal Landes",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "1845",
+    "page": "753–764"
+  },
+  {
+    "author": [
+      {
+        "family": "Jiménez-Mejías",
+        "given": "P."
+      },
+      {
+        "family": "Luceño",
+        "given": "M.Wilson"
+      },
+      {
+        "family": "K.L.",
+        "given": "Waterway"
+      },
+      {
+        "given": "M.J."
+      },
+      {
+        "family": "Roalson",
+        "given": "E.H."
+      }
+    ],
+    "title": "Clarification of the use of the terms perigynium and utricle in Carex L",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Cyperaceae). Systematic Botany",
+    "issued": "2016",
+    "page": "519–528",
+    "URL": "https://doi.org/10.1600/036364416X692488",
+    "DOI": "10.1600/036364416X692488"
+  },
+  {
+    "author": [
+      {
+        "family": "Judd",
+        "given": "W.S."
+      },
+      {
+        "family": "Campbell",
+        "given": "C.S."
+      },
+      {
+        "family": "Kellogg",
+        "given": "E.A."
+      },
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      },
+      {
+        "family": "Donoghue",
+        "given": "M.J."
+      }
+    ],
+    "title": "Plant systematics: a phylogenetic approach",
+    "publisher": "Sinauer Associates, Sunderland",
+    "type": "book",
+    "issued": "2007",
+    "page": "565"
+  },
+  {
+    "author": [
+      {
+        "family": "Kükenthal",
+        "given": "G."
+      }
+    ],
+    "title": "Cyperaceae - Caricoideae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "publisher": "Wilhelm Engelmann, Leipzig",
+    "type": "chapter",
+    "issued": "1909",
+    "page": "824"
+  },
+  {
+    "author": [
+      {
+        "family": "Kukkonen",
+        "given": "I."
+      }
+    ],
+    "title": "The genus Schoenoxiphium (Cyperaceae). A preliminary account",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bothalia",
+    "issued": "1983",
+    "page": "819–823"
+  },
+  {
+    "author": [
+      {
+        "family": "Levyns",
+        "given": "M.R."
+      }
+    ],
+    "title": "A comparative study of the inflorescence in four species of Schoenoxiphium and its significance in relation to Carex and its allies",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Journal of South African Botany",
+    "issued": "1945",
+    "page": "79–89"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": "article-journal",
+    "container-title": "Stokholm",
+    "issued": "1753"
+  },
+  {
+    "author": [
+      {
+        "family": "Nees",
+        "given": "C.G."
+      }
+    ],
+    "title": "Plantae Ecklonianae",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Cyperaceae. Linnaea",
+    "issued": "1832",
+    "page": "491–537"
+  },
+  {
+    "author": [
+      {
+        "family": "Nees",
+        "given": "C.G."
+      }
+    ],
+    "title": "Cyperaceae Capenses",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1836",
+    "page": "129–207"
+  },
+  {
+    "author": [
+      {
+        "family": "Nelmes",
+        "given": "E."
+      }
+    ],
+    "title": "Notes on Cyperaceae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "1",
+    "issued": "1955",
+    "page": "89–90",
+    "URL": "https://doi.org/10.2307/4113917",
+    "DOI": "10.2307/4113917"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F.A."
+      }
+    ],
+    "title": "Cariceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K.A."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien II",
+    "publisher": "Wilhelm Engelmann. Leipzig",
+    "type": "chapter",
+    "issued": "1887",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Reznicek",
+        "given": "A.A."
+      }
+    ],
+    "title": "Evolution in sedges (Carex, Cyperaceae",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issued": "1990",
+    "page": "1409–1432",
+    "URL": "http://dx.doi.org/10.1139/b90-180",
+    "DOI": "10.1139/b90-180"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org./ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Prodromus Plantarum Capensium",
+    "type": null,
+    "issued": "1794",
+    "publisher-place": "Uppsala"
+  },
+  {
+    "author": [
+      {
+        "family": "Villaverde",
+        "given": "T."
+      },
+      {
+        "family": "Maguilla",
+        "given": "E."
+      },
+      {
+        "family": "Escudero",
+        "given": "M."
+      },
+      {
+        "family": "Márquez-Corro",
+        "given": "J.I."
+      },
+      {
+        "family": "Jiménez-Mejías",
+        "given": "P."
+      },
+      {
+        "family": "Gehrke",
+        "given": "B."
+      },
+      {
+        "family": "Martín-Bravo",
+        "given": "S."
+      },
+      {
+        "family": "Luceño",
+        "given": "M."
+      }
+    ],
+    "title": "New insights into the systematics of the Schoenoxiphium clade (Carex, Cyperaceae",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences"
+  },
+  {
+    "author": [
+      {
+        "family": "Waterway",
+        "given": "M.J."
+      },
+      {
+        "family": "Starr",
+        "given": "J.R."
+      }
+    ],
+    "title": "Phylogenetic relationships in tribe Cariceae (Cyperaceae) based on nested analyses of four molecular data sets",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Aliso",
+    "issued": "2007",
+    "page": "165–192",
+    "URL": "http://dx.doi.org/10.5642/aliso.20072301.13",
+    "DOI": "10.5642/aliso.20072301.13"
+  },
+  {
+    "author": [
+      {
+        "family": "Waterway",
+        "given": "M.J."
+      },
+      {
+        "family": "Hoshino",
+        "given": "T."
+      },
+      {
+        "family": "Masaki",
+        "given": "T."
+      }
+    ],
+    "title": "Phylogeny, species richness, and ecological specialization in Cyperaceae tribe Cariceae",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "The Botanical Review",
+    "issued": "2009",
+    "page": "138–159",
+    "URL": "http://dx.doi.org/10.1007/s12229-008-9024-6",
+    "DOI": "10.1007/s12229-008-9024-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Wahlenberg",
+        "given": "G."
+      }
+    ],
+    "title": "Inledning til Caricographien",
+    "volume": "1803",
+    "type": "article-journal",
+    "container-title": "Kongl. Vetenskaps Academiens nya handlingar",
+    "issued": "1803",
+    "page": "138–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Wheeler",
+        "given": "G."
+      }
+    ],
+    "title": "The taxonomy of Carex Sect. Aciculares (Cyperaceae) in South America",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "2",
+    "issued": "1989",
+    "page": "168–188",
+    "URL": "https://doi.org/10.2307/2418904",
+    "DOI": "10.2307/2418904"
+  }
+]

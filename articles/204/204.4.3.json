@@ -1,0 +1,966 @@
+[
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "K.",
+        "particle": "de"
+      }
+    ],
+    "title": "The general lineage concept of species, species criteria, and the process of speciation: A conceptual unification and terminological recommendations",
+    "editor": [
+      {
+        "family": "Howard",
+        "given": "D.J."
+      },
+      {
+        "family": "Berlocher",
+        "given": "S.H."
+      }
+    ],
+    "publisher": "Species and speciation Oxford University Press",
+    "type": "book",
+    "issued": "1998",
+    "page": "57–75",
+    "publisher-place": "Endless forms"
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "K.",
+        "particle": "de"
+      }
+    ],
+    "title": "Species concepts and species delimitation",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2007",
+    "page": "879–886",
+    "URL": "http://dx.doi.org/10.1080/10635150701701083",
+    "DOI": "10.1080/10635150701701083"
+  },
+  {
+    "author": [
+      {
+        "family": "DeSalle",
+        "given": "R."
+      },
+      {
+        "family": "Egan",
+        "given": "M."
+      },
+      {
+        "family": "Sidall",
+        "given": "M."
+      }
+    ],
+    "title": "The unholy trinity: taxonomy, species delimitation and DNA barcoding",
+    "volume": "360",
+    "type": "article-journal",
+    "container-title": "Philosophical Transactions of the Royal Society B",
+    "issued": "2005",
+    "page": "1905–1916",
+    "URL": "http://dx.doi.org/10.1098/rstb.2005.1722",
+    "DOI": "10.1098/rstb.2005.1722"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid total DNA preparation procedure for fresh plant tissue",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Focus",
+    "issued": "1990",
+    "page": "13–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2004",
+    "page": "1792–1797",
+    "URL": "http://dx.doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  },
+  {
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      }
+    ],
+    "note": "Pflanzenreich IV. 46 (Heft 20).",
+    "type": null,
+    "issued": "1904"
+  },
+  {
+    "author": [
+      {
+        "family": "Faria",
+        "given": "A.P.G."
+      },
+      {
+        "family": "Wendt",
+        "given": "T."
+      },
+      {
+        "family": "Brown",
+        "given": "G.K."
+      }
+    ],
+    "title": "A revision of Aechmea subgenus Macrochordion (Bromeliaceae) based on phenetic analyses of morphological variation",
+    "volume": "162",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2010",
+    "page": "1–27",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2009.01019.x",
+    "DOI": "10.1111/j.1095-8339.2009.01019.x"
+  },
+  {
+    "author": [
+      {
+        "literal": "Florio, A.M., Ingram, C.M., Rakotondravony, H.A., Louis, Jr. E.E. & Raxworthy, C.J."
+      }
+    ],
+    "title": "Detecting cryptic speciation in the widespread and morphologically conservative carpet chameleon (Furcifer lateralis) of Madagascar",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Journal of Evolutionary Biology",
+    "issued": "2012",
+    "page": "1399–1414",
+    "URL": "http://dx.doi.org/10.1111/j.1420-9101.2012.02528.x",
+    "DOI": "10.1111/j.1420-9101.2012.02528.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Frost",
+        "given": "D.R."
+      },
+      {
+        "family": "Kluge",
+        "given": "A.G."
+      }
+    ],
+    "title": "A consideration of epistemology in systematic biology, with special reference to species",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "1994",
+    "page": "259–294",
+    "URL": "http://dx.doi.org/10.1111/j.1096-0031.1994.tb00178.x",
+    "DOI": "10.1111/j.1096-0031.1994.tb00178.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Funk",
+        "given": "D.J."
+      },
+      {
+        "family": "Omland",
+        "given": "K.E."
+      }
+    ],
+    "title": "Species-level paraphyly and polyphyly: frequency, causes, and consequences, with insights from animal mitochondrial DNA",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Annual Review of Ecology, Evolution and Systematics",
+    "issued": "2003",
+    "page": "397–423",
+    "URL": "http://dx.doi.org/10.1146/annurev.ecolsys.34.011802.132421",
+    "DOI": "10.1146/annurev.ecolsys.34.011802.132421"
+  },
+  {
+    "author": [
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Bulletin de la Société Botanique de France",
+    "volume": "4 2",
+    "type": "article-journal",
+    "container-title": "Series",
+    "issued": "1902",
+    "page": "102–103"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldstein",
+        "given": "P.Z."
+      },
+      {
+        "family": "DeSalle",
+        "given": "R."
+      }
+    ],
+    "title": "Phylogenetic species, nested hierarchies, and character fixation",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "2000",
+    "page": "364–384",
+    "URL": "http://dx.doi.org/10.1111/j.1096-0031.2000.tb00356.x",
+    "DOI": "10.1111/j.1096-0031.2000.tb00356.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldstein",
+        "given": "P.Z."
+      },
+      {
+        "family": "DeSalle",
+        "given": "R."
+      },
+      {
+        "family": "Amato",
+        "given": "G."
+      },
+      {
+        "family": "Vogler",
+        "given": "A.P."
+      }
+    ],
+    "title": "Conservation genetics and the species boundary",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Conservation Biology",
+    "issued": "2000",
+    "page": "120–131",
+    "URL": "http://dx.doi.org/10.1046/j.1523-1739.2000.98122.x",
+    "DOI": "10.1046/j.1523-1739.2000.98122.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2003",
+    "page": "696–704",
+    "URL": "http://dx.doi.org/10.1080/10635150390235520",
+    "DOI": "10.1080/10635150390235520"
+  },
+  {
+    "author": [
+      {
+        "family": "Hey",
+        "given": "J."
+      },
+      {
+        "family": "Pinho",
+        "given": "C."
+      }
+    ],
+    "title": "Population genetics and objectivity in species diagnosis",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "2012",
+    "page": "1413–1429",
+    "URL": "http://dx.doi.org/10.1111/j.1558-5646.2011.01542.x",
+    "DOI": "10.1111/j.1558-5646.2011.01542.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogenetic trees",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "L.H."
+      },
+      {
+        "family": "Hwang",
+        "given": "S.Y."
+      },
+      {
+        "family": "Lin",
+        "given": "T.P."
+      }
+    ],
+    "title": "Low chloroplast DNA variation and population differentiation of Chamaecyparis formosensis and Chamaecyparis taiwanensis",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Taiwan Journal of Forest Science",
+    "issued": "2000",
+    "page": "229–236"
+  },
+  {
+    "author": [
+      {
+        "family": "Irwin",
+        "given": "D.E."
+      }
+    ],
+    "title": "Phylogeographic breaks without geographic barriers to gene flow",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "2002",
+    "page": "2383–2394",
+    "URL": "http://dx.doi.org/10.1554/0014-3820(2002)056",
+    "DOI": "10.1554/0014-3820(2002)056"
+  },
+  {
+    "author": [
+      {
+        "family": "Kay",
+        "given": "K.M."
+      },
+      {
+        "family": "Reeves",
+        "given": "P.A."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      },
+      {
+        "family": "Schemske",
+        "given": "D.W."
+      }
+    ],
+    "title": "Rapid speciation and the evolution of hummingbird pollination in neotropical Costus subgenus Costus (Costaceae): evidence from nrDNA ITS and ETS sequences",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2005",
+    "page": "1899–1910",
+    "URL": "http://dx.doi.org/10.3732/ajb.92.11.1899",
+    "DOI": "10.3732/ajb.92.11.1899"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "C.E.O."
+      }
+    ],
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Revisio Generum Plantarum",
+    "issued": "1891",
+    "page": "687"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Species Plantarum",
+    "issued": "1753",
+    "page": "1–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Loesener",
+        "given": "L.E.T."
+      }
+    ],
+    "title": "Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "10",
+    "type": null,
+    "issued": "1929",
+    "page": "714",
+    "URL": "http://dx.doi.org/10.2307/3994705",
+    "DOI": "10.2307/3994705"
+  },
+  {
+    "author": [
+      {
+        "family": "Maas",
+        "given": "P.J.M."
+      }
+    ],
+    "title": "Costoideae (Zingiberaceae). In: Flora Neotropica",
+    "genre": "Monograph 8.",
+    "publisher": "Hafner",
+    "type": null,
+    "issued": "1972",
+    "publisher-place": "New York, New York, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Maas",
+        "given": "P.J.M."
+      }
+    ],
+    "title": "Notes on New World Zingiberaceae",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Neerlandica",
+    "issued": "1976",
+    "page": "469"
+  },
+  {
+    "author": [
+      {
+        "family": "Maas",
+        "given": "P.J.M."
+      }
+    ],
+    "title": "Renealmia (Zingiberaceae-Zingiberoideae) Costoideae (Additions) (Zingiberaceae). Flora Neotropica. Monograph 18",
+    "publisher": "Hafner",
+    "type": "book",
+    "issued": "1977",
+    "publisher-place": "New York, New York, USA"
+  },
+  {
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      }
+    ],
+    "title": "Flora Brasiliensis",
+    "volume": "III. Pars III",
+    "type": null,
+    "issued": "1890",
+    "page": "1–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "S."
+      }
+    ],
+    "collection-title": "Transactions of the Linnean Society Series",
+    "volume": "2 4",
+    "type": null,
+    "issued": "1895",
+    "page": "480"
+  },
+  {
+    "author": [
+      {
+        "family": "Nees",
+        "given": "C.G.D."
+      },
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      }
+    ],
+    "title": "Nova Acta Physico-medica Academiae Caesareae Leopoldino-Carolinae Naturae Curiosorum Exhibentia Ephemerides sive Observationes",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Historias et Experimenta",
+    "issued": "1823",
+    "page": "29"
+  },
+  {
+    "author": [
+      {
+        "family": "Nixon",
+        "given": "K.C."
+      },
+      {
+        "family": "Wheeler",
+        "given": "Q.D."
+      }
+    ],
+    "title": "An amplification of the phylogenetic species concept",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "1990",
+    "page": "211–223",
+    "URL": "http://dx.doi.org/10.1111/j.1096-0031.1990.tb00541.x",
+    "DOI": "10.1111/j.1096-0031.1990.tb00541.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Padial",
+        "given": "J."
+      },
+      {
+        "family": "De La Riva",
+        "given": "I."
+      }
+    ],
+    "title": "Integrative taxonomy reveals cryptic Amazonian species of Pristimantis (Anura: Strabomantidae",
+    "volume": "155",
+    "type": "article-journal",
+    "container-title": "Zoological Journal of the Linnean Society",
+    "issued": "2009",
+    "page": "97–122",
+    "URL": "http://dx.doi.org/10.1111/j.1096-3642.2008.00424.x",
+    "DOI": "10.1111/j.1096-3642.2008.00424.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Padial",
+        "given": "J."
+      },
+      {
+        "family": "Miralles",
+        "given": "A."
+      },
+      {
+        "family": "Riva",
+        "given": "I.",
+        "particle": "De la"
+      },
+      {
+        "family": "Vences",
+        "given": "M."
+      }
+    ],
+    "title": "The integrative future of taxonomy",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Frontiers in Zoology",
+    "issued": "2010",
+    "page": "16",
+    "URL": "http://dx.doi.org/10.1186/1742-9994-7-16",
+    "DOI": "10.1186/1742-9994-7-16"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "R.Development Core"
+      }
+    ],
+    "title": "R: A Language and Environment for Statistical Computing",
+    "note": "Available form:",
+    "type": "article-journal",
+    "container-title": "R Foundation for Statistical Computing",
+    "issued": "2014",
+    "URL": "http://www.R-project.org."
+  },
+  {
+    "author": [
+      {
+        "family": "Rieseberg",
+        "given": "L.H."
+      },
+      {
+        "family": "Church",
+        "given": "S.A."
+      },
+      {
+        "family": "Morjan",
+        "given": "C.L."
+      }
+    ],
+    "title": "Integration of populations and differentiation of species",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "New Phytologist",
+    "issued": "2004",
+    "page": "59–69",
+    "URL": "http://dx.doi.org/10.1046/j.1469-8137.2003.00933.x",
+    "DOI": "10.1046/j.1469-8137.2003.00933.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Sáez",
+        "given": "A.G."
+      },
+      {
+        "family": "Lozano",
+        "given": "E."
+      }
+    ],
+    "title": "Body doubles",
+    "volume": "433",
+    "type": "article-journal",
+    "container-title": "Nature",
+    "issue": "111",
+    "issued": "2005",
+    "URL": "http://dx.doi.org/10.1038/433111a",
+    "DOI": "10.1038/433111a"
+  },
+  {
+    "author": [
+      {
+        "family": "Salzman",
+        "given": "S."
+      },
+      {
+        "family": "Driscoll",
+        "given": "H.E."
+      },
+      {
+        "family": "Renner",
+        "given": "T."
+      },
+      {
+        "family": "André",
+        "given": "T."
+      },
+      {
+        "family": "Shen",
+        "given": "S."
+      },
+      {
+        "family": "Specht",
+        "given": "C.D."
+      }
+    ],
+    "title": "Spiraling into history: A molecular phylogeny and investigation of biogeographic origins and floral evolution for the genus Costus",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2015",
+    "page": "104–115",
+    "URL": "http://dx.doi.org/10.1600/036364415X686404",
+    "DOI": "10.1600/036364415X686404"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Botanische Jahrbücher für Systematik",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1892",
+    "page": "422",
+    "URL": "http://dx.doi.org/10.1080/10635150701772563",
+    "DOI": "10.1080/10635150701772563"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaffer",
+        "given": "H.B."
+      },
+      {
+        "family": "Thomson",
+        "given": "R.C."
+      }
+    ],
+    "title": "Delimiting Species in Recent Radiations",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2007",
+    "page": "896–906"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      }
+    ],
+    "title": "Comparison of whole chloroplast genome sequences to choose noncoding regions for phylogenetic studies in Angiosperms: the tortoise and the hare III",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2007",
+    "page": "275–288",
+    "URL": "http://dx.doi.org/10.3732/ajb.94.3.275",
+    "DOI": "10.3732/ajb.94.3.275"
+  },
+  {
+    "author": [
+      {
+        "family": "Specht",
+        "given": "C.D."
+      },
+      {
+        "family": "Kress",
+        "given": "W.J."
+      },
+      {
+        "family": "Stevenson",
+        "given": "D.W."
+      },
+      {
+        "family": "DeSalle",
+        "given": "R."
+      }
+    ],
+    "title": "A Molecular Phylogeny of Costaceae (Zingiberales",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2001",
+    "page": "333–345",
+    "URL": "http://dx.doi.org/10.1006/mpev.2001.1029",
+    "DOI": "10.1006/mpev.2001.1029"
+  },
+  {
+    "author": [
+      {
+        "family": "Specht",
+        "given": "C.D."
+      },
+      {
+        "family": "Stevenson",
+        "given": "D.W."
+      }
+    ],
+    "title": "A new phylogeny-based generic classification of Costaceae (Zingiberales",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2006",
+    "page": "153–163",
+    "URL": "http://dx.doi.org/10.2307/25065537",
+    "DOI": "10.2307/25065537"
+  },
+  {
+    "author": [
+      {
+        "family": "Specht",
+        "given": "C.D."
+      }
+    ],
+    "title": "Systematics and Evolution of the Tropical Monocot Family Costaceae (Zingiberales): A Multiple Dataset Approach",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2006",
+    "page": "89–106",
+    "URL": "http://dx.doi.org/10.1600/036364406775971840",
+    "DOI": "10.1600/036364406775971840"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "http://dx.doi.org/10.1007/BF00037152",
+    "DOI": "10.1007/BF00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Tetsana",
+        "given": "N."
+      },
+      {
+        "family": "Pedersen",
+        "given": "H.Æ."
+      },
+      {
+        "family": "Sridith",
+        "given": "K."
+      }
+    ],
+    "title": "Character intercorrelation and the potential role of phenotypic plasticity in orchids: a case study of the epiphyte Liparis resupinata",
+    "volume": "300",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2014",
+    "page": "517–526",
+    "URL": "http://dx.doi.org/10.1007/s00606-013-0900-0",
+    "DOI": "10.1007/s00606-013-0900-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2014",
+    "URL": "http://sweetgum.nybg.org/ih/."
+  },
+  {
+    "author": [
+      {
+        "family": "Walsh",
+        "given": "P."
+      }
+    ],
+    "title": "Sample size for the diagnosis of conservationunits",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Conservation Biology",
+    "issued": "2000",
+    "page": "1533–1535",
+    "URL": "http://dx.doi.org/10.1046/j.1523-1739.2000.98149.x",
+    "DOI": "10.1046/j.1523-1739.2000.98149.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Wendt",
+        "given": "T."
+      },
+      {
+        "family": "Cruz",
+        "given": "D.D.",
+        "particle": "da"
+      },
+      {
+        "family": "Demuner",
+        "given": "V.G."
+      },
+      {
+        "family": "Guilherme",
+        "given": "F.A.G."
+      },
+      {
+        "family": "Boudet-Fernandes",
+        "given": "H."
+      }
+    ],
+    "title": "An evaluation of the species boundaries of two putative taxonomic entities of Euterpe (Arecaceae) based on reproductive and morphological features",
+    "volume": "206",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "2011",
+    "page": "144–150",
+    "URL": "http://dx.doi.org/10.1016/j.flora.2010.03.002",
+    "DOI": "10.1016/j.flora.2010.03.002"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "container-title": "PCR Protocols: A Guide to Methods and Applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "publisher-place": "San Diego",
+    "URL": "http://dx.doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  }
+]

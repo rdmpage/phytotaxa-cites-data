@@ -1,0 +1,734 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C."
+      }
+    ],
+    "title": "Enumeratio plantarum Javae et insularum adjacentium",
+    "volume": "2",
+    "note": "Lugduni Batavorum [Leiden], Apud J.W. van Leeuwen.",
+    "type": null,
+    "issued": "1828"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavanilles",
+        "given": "A.J."
+      }
+    ],
+    "title": "Botánica",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Anales de historia natural",
+    "issued": "1799",
+    "page": "89–107"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "C.-C."
+      },
+      {
+        "family": "Hyvönen",
+        "given": "J."
+      },
+      {
+        "family": "Schneider",
+        "given": "H."
+      }
+    ],
+    "title": "Exploring phylogeny of the microsoroid ferns (Polypodiaceae) based on six plastid DNA markers",
+    "volume": "143",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2020",
+    "page": "106665",
+    "URL": "https://doi.org/10.1016/j.ympev.2019.106665",
+    "DOI": "10.1016/j.ympev.2019.106665"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheng",
+        "given": "X."
+      },
+      {
+        "family": "Wu",
+        "given": "S.-k"
+      },
+      {
+        "family": "Lu",
+        "given": "S.-G."
+      }
+    ],
+    "title": "Pteridophyta",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      }
+    ],
+    "container-title": "Flora Yunnanica",
+    "volume": "21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "1–477",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Ching",
+        "given": "R.-C."
+      }
+    ],
+    "title": "Studies of Chinese ferns X",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Fan Memorial Institute of Biology",
+    "issued": "1933",
+    "page": "293–362"
+  },
+  {
+    "author": [
+      {
+        "family": "Ching",
+        "given": "R.-C."
+      },
+      {
+        "family": "Hsieh",
+        "given": "Y.-T."
+      }
+    ],
+    "title": "New taxa of genus Athyrium Roth in China I",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Boreali-Occidentalia Sinica",
+    "issued": "1986",
+    "page": "10–22"
+  },
+  {
+    "author": [
+      {
+        "family": "Christ",
+        "given": "H."
+      }
+    ],
+    "title": "Filices Cavalerianae",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Académie Internationale de Géographie Botanique",
+    "issued": "1904",
+    "page": "105–120"
+  },
+  {
+    "author": [
+      {
+        "family": "Copeland",
+        "given": "E.B."
+      }
+    ],
+    "title": "The oriental genera of Polypodiaceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "University of California Publications in Botany",
+    "issued": "1929",
+    "page": "45–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Copeland",
+        "given": "E.B."
+      }
+    ],
+    "title": "Genera Filicum",
+    "publisher": "Chronica Botanica Co",
+    "type": "book",
+    "issued": "1947",
+    "publisher-place": "Waltham"
+  },
+  {
+    "author": [
+      {
+        "family": "Fraser-Jenkins",
+        "given": "C.R."
+      }
+    ],
+    "title": "Taxonomic revision of three hundred Indian subcontinental Pteridophytes: with a revised census list; a new picture of fern-taxonomy and nomenclature in the Indian subcontinent",
+    "publisher": "Bishen Singh Mahendra Pal Singh., Dehra Dun",
+    "type": "book",
+    "issued": "2008",
+    "page": "685"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamilton",
+        "given": "F."
+      },
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Prodromus Florae Nepalensis",
+    "type": "article-journal",
+    "container-title": "Londini, Veneant apud J. Gale",
+    "issued": "1825",
+    "page": "256"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogenetic trees",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      },
+      {
+        "family": "Greville",
+        "given": "R.K."
+      }
+    ],
+    "title": "Icones Filicum",
+    "editor": [
+      {
+        "given": "Treuttel"
+      },
+      {
+        "family": "Würtz",
+        "given": "Treuttel fil"
+      },
+      {
+        "given": "Richter"
+      }
+    ],
+    "type": null,
+    "issued": "1827",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List Categories and Criteria. Version 9. Prepared by the Standards and Petitions Subcommittee",
+    "type": null,
+    "issued": "2011"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaulfuss",
+        "given": "G.F."
+      }
+    ],
+    "title": "Enumeratio filicum quas in itinere circa terram legit Cl. Adalbertus de Chamisso adiectis in omnia harum plantarum genera permultasque species non satis cognitas vel novas animadversionibus",
+    "publisher": "Sumtibus Caroli Cnobloch",
+    "type": "book",
+    "issued": "1824",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "C."
+      },
+      {
+        "family": "Zha",
+        "given": "H.-G."
+      },
+      {
+        "family": "Deng",
+        "given": "T."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Wu",
+        "given": "S.-G."
+      }
+    ],
+    "title": "Phylogenetic position of Kontumia (Polypodiaceae) inferred from four chloroplast DNA regions",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2013",
+    "page": "154–163",
+    "URL": "https://doi.org/10.1111/j.1759-6831.2012.00230.x",
+    "DOI": "10.1111/j.1759-6831.2012.00230.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kreier",
+        "given": "H.-P."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-C."
+      },
+      {
+        "family": "Muth",
+        "given": "H."
+      },
+      {
+        "family": "Schneider",
+        "given": "H."
+      }
+    ],
+    "title": "The microsoroid ferns: Inferring the relationships of a highly diverse lineage of Paleotropical epiphytic ferns (Polypodiaceae, Polypodiopsida",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2008",
+    "page": "1155–1167",
+    "URL": "https://doi.org/10.1016/j.ympev.2008.05.001",
+    "DOI": "10.1016/j.ympev.2008.05.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunze",
+        "given": "G."
+      }
+    ],
+    "title": "In filices Javae Zollingerianas observationes continuatae Kunzii, Lipsiensis",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Botanische Zeitung (Berlin",
+    "issued": "1848",
+    "page": "113–122"
+  },
+  {
+    "author": [
+      {
+        "family": "Manickam",
+        "given": "V."
+      },
+      {
+        "family": "Irudayaraj",
+        "given": "V."
+      },
+      {
+        "family": "Rajkumar",
+        "given": "S.D."
+      }
+    ],
+    "title": "Colysis× beddomei (Polypodiaceae, Pteridophyta): A new interspecific fern hybrid from India, Burma and China",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1997",
+    "page": "265–268",
+    "URL": "https://doi.org/10.2307/1224096",
+    "DOI": "10.2307/1224096"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans, LA",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Murray",
+        "given": "J."
+      }
+    ],
+    "title": "Systema Vegetabilium",
+    "director": [
+      {
+        "family": "Dieterich",
+        "given": "Göttingen"
+      }
+    ],
+    "type": null,
+    "issued": "1784"
+  },
+  {
+    "author": [
+      {
+        "family": "Nooteboom",
+        "given": "H.P."
+      }
+    ],
+    "title": "The microsoroid ferns (Polypodiaceae",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1997",
+    "page": "261–395"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C."
+      }
+    ],
+    "title": "Tentamen Pteridographiae",
+    "publisher": "Theophilus Haase",
+    "type": "book",
+    "issued": "1836",
+    "publisher-place": "Prague"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C.B."
+      }
+    ],
+    "title": "Epimeliae botanicae: cum tabulis quindecim lithographicis",
+    "volume": "5 6",
+    "type": "article-journal",
+    "container-title": "Abhandlungen der Königlichen Böhmischen Gesellschaft der Wissenschaften, ser",
+    "issued": "1849",
+    "page": "361–624",
+    "URL": "https://doi.org/10.5962/bhl.title.61845",
+    "DOI": "10.5962/bhl.title.61845"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Rougemont",
+        "given": "J."
+      }
+    ],
+    "title": "A rapid bootstrap algorithm for the RAxML Web servers",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2008",
+    "page": "758–771",
+    "URL": "https://doi.org/10.1080/10635150802429642",
+    "DOI": "10.1080/10635150802429642"
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-C."
+      }
+    ],
+    "title": "Taxonomy of the fern genus Leptochilus Kaulf",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Polypodiaceae). Acta Phytotaxonomica Sinica",
+    "issued": "1999",
+    "page": "145–152"
+  },
+  {
+    "author": [
+      {
+        "family": "Shing",
+        "given": "K."
+      }
+    ],
+    "title": "Cyclosorus",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "4",
+    "publisher": "Science Press",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1999",
+    "page": "167–283",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "http://sweetgum.nybg.org/science/ih/",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2020"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.-G."
+      },
+      {
+        "family": "Phan",
+        "given": "K.L."
+      },
+      {
+        "family": "Xiang",
+        "given": "J.-Y."
+      }
+    ],
+    "title": "A new genus and two new species of ferns from Vietnam",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2005",
+    "page": "245–249"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "M.-X."
+      },
+      {
+        "family": "Xiang",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Geekiyanage",
+        "given": "N."
+      },
+      {
+        "family": "Sun",
+        "given": "H.-Y."
+      },
+      {
+        "family": "Myo",
+        "given": "K.M."
+      },
+      {
+        "family": "Dian",
+        "given": "R.N."
+      },
+      {
+        "family": "Tang",
+        "given": "F.-L."
+      }
+    ],
+    "title": "Leptochilus mengsongensis (Polypodiaceae), a new species of fern from SW China",
+    "volume": "317",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "144–148",
+    "URL": "https://doi.org/10.11646/phytotaxa.317.2.7",
+    "DOI": "10.11646/phytotaxa.317.2.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Guo",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "New combinations in the fern genus Leptochilus (Polypodiaceae",
+    "volume": "374",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "172–176",
+    "URL": "https://doi.org/10.11646/phytotaxa.374.2.10",
+    "DOI": "10.11646/phytotaxa.374.2.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Lu",
+        "given": "N.T."
+      },
+      {
+        "family": "Zhou",
+        "given": "X.-M."
+      },
+      {
+        "family": "Chen",
+        "given": "D.-K."
+      },
+      {
+        "family": "Knapp",
+        "given": "R."
+      },
+      {
+        "family": "Zhou",
+        "given": "L."
+      },
+      {
+        "family": "Guo",
+        "given": "L."
+      },
+      {
+        "family": "Luong",
+        "given": "T.T."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Gao",
+        "given": "X.-F."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "A plastid phylogeny of the Old World fern genus Leptochilus (Polypodiaceae): Implications for cryptic speciation and progressive colonization from lower to higher latitudes",
+    "volume": "134",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2019",
+    "page": "311–322",
+    "URL": "https://doi.org/10.1016/j.ympev.2019.01.013",
+    "DOI": "10.1016/j.ympev.2019.01.013"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "W.-M."
+      }
+    ],
+    "title": "Taxa Nova Pteridophytorum Yunnanicorum 1",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1979",
+    "page": "93–100"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "W.-M."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.-F."
+      },
+      {
+        "family": "Lu",
+        "given": "S.-G."
+      },
+      {
+        "family": "He",
+        "given": "Z.-R."
+      }
+    ],
+    "title": "Pteridophyta",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      }
+    ],
+    "container-title": "Flora Yunnanica",
+    "volume": "20",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "1–785",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "X.-C."
+      }
+    ],
+    "title": "Lycophytes and ferns of China",
+    "publisher": "Peking University Press",
+    "type": "book",
+    "issued": "2012",
+    "publisher-place": "Beijing"
+  }
+]

@@ -1,0 +1,568 @@
+[
+  {
+    "author": [
+      {
+        "family": "Mannagetta",
+        "given": "G.",
+        "particle": "Beck von"
+      }
+    ],
+    "title": "Orobancheen",
+    "editor": [
+      {
+        "family": "Halacsy",
+        "given": "E.von"
+      },
+      {
+        "family": "Braun",
+        "given": "E."
+      }
+    ],
+    "container-title": "Nachträge zur Flora von Niederösterreich",
+    "publisher": "W. Braumüller Wien",
+    "type": "chapter",
+    "issued": "1882",
+    "page": "353"
+  },
+  {
+    "author": [
+      {
+        "family": "Mannagetta",
+        "given": "G.",
+        "particle": "Beck von"
+      }
+    ],
+    "title": "Monographie der Gattung Orobanche",
+    "publisher": "Theodor Fischer, Cassel",
+    "type": "book",
+    "issued": "1890",
+    "page": "275"
+  },
+  {
+    "author": [
+      {
+        "family": "Mannagetta",
+        "given": "G.",
+        "particle": "Beck von"
+      }
+    ],
+    "title": "Orobanchaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich. Regni vegetabilis conspectus. IV. 261",
+    "publisher": "Wilhelm Engelmann, Leipzig",
+    "type": "chapter",
+    "issued": "1930",
+    "page": "348"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Flora orientalis 4. Corolliflorae et Monochlamydeae",
+    "type": "article-journal",
+    "container-title": "H. Georg, Genèvae et Basileae",
+    "issued": "1879",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boreau",
+        "given": "A."
+      }
+    ],
+    "title": "Flore du Centre de la France. Tome 2. Librairie encyclopédique de Roret",
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1840",
+    "page": "589"
+  },
+  {
+    "author": [
+      {
+        "family": "Čelakovsky",
+        "given": "L."
+      }
+    ],
+    "title": "Über zwölf böhmische Arten der Gattung Orobanche",
+    "container-title": "Sitzungsberichte der königl. böhmischen Gesellschaft der Wissenschaften in Prag",
+    "volume": "1864",
+    "issue": "Januar–Juni",
+    "type": "article-journal",
+    "issued": "1864",
+    "page": "109–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Čelakovsky",
+        "given": "L."
+      }
+    ],
+    "title": "Prodromus der Flora von Böhmen",
+    "volume": "2",
+    "publisher": "Eduard Grégr, Prag",
+    "type": "book",
+    "issued": "1872",
+    "page": "955"
+  },
+  {
+    "author": [
+      {
+        "family": "DeCandolle",
+        "given": "A.-P."
+      }
+    ],
+    "title": "Flore Française. Tome III",
+    "edition": "3.",
+    "editor": [
+      {
+        "given": "D.C."
+      },
+      {
+        "family": "Agasse",
+        "given": "Lamarck) H."
+      }
+    ],
+    "type": null,
+    "issued": "1805",
+    "page": "731",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilli",
+        "given": "A."
+      }
+    ],
+    "title": "Die Orobanchaceen der Türkei",
+    "volume": "82",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issue": "6",
+    "issued": "1971",
+    "page": "381–406",
+    "URL": "http://dx.doi.org/10.1002/fedr.19710820602",
+    "DOI": "10.1002/fedr.19710820602"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilli",
+        "given": "A."
+      }
+    ],
+    "title": "Orobanche",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "volume": "7",
+    "publisher": "University Press",
+    "type": "book",
+    "issued": "1982",
+    "page": "3–23",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      },
+      {
+        "family": "Long",
+        "given": "G."
+      }
+    ],
+    "title": "Med-Checklist. A critical inventory of vascular plants of the circum-mediterranean countries",
+    "volume": "3",
+    "note": "Dicotyledones: Convolvulaceae – Labiatae). Conservatoire et Jardin botaniques de la Ville de Genève, pp.xvi, 395, cxii.",
+    "type": null,
+    "issued": "1986"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von"
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "publisher": "Lars Salvius, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "561 –1200"
+  },
+  {
+    "author": [
+      {
+        "family": "Meikle",
+        "given": "R.D."
+      }
+    ],
+    "title": "Orobanchaceae",
+    "editor": [
+      {
+        "family": "Meikle",
+        "given": "R.D."
+      }
+    ],
+    "container-title": "Flora of Cyprus",
+    "volume": "2",
+    "publisher": "Bentham-Moxon Trust, Royal Botanic Gardens, Kew",
+    "type": "chapter",
+    "issued": "1985",
+    "page": "1232–1242"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitchell",
+        "given": "J."
+      }
+    ],
+    "title": "Dissertatio Brevis de Principiis Botanicorum et Zoologorum",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Acta Phys.medica Academiae Caesareae Leopoldino-Carolinae",
+    "issued": "1748",
+    "page": "187–224"
+  },
+  {
+    "author": [
+      {
+        "family": "Nuttall",
+        "given": "T."
+      }
+    ],
+    "title": "The Genera of North American Plants and a catalogue of the species to the year 1817",
+    "volume": "2. D",
+    "publisher": "Heartt, Philadelphia",
+    "type": "book",
+    "issued": "1818",
+    "page": "254"
+  },
+  {
+    "author": [
+      {
+        "family": "Philippi",
+        "given": "R.A."
+      }
+    ],
+    "title": "Plantarum novarum Chilensium. Centuria quarta",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1858",
+    "page": "1–47"
+  },
+  {
+    "author": [
+      {
+        "family": "Piwowarczyk",
+        "given": "R."
+      },
+      {
+        "family": "Madeja",
+        "given": "J."
+      },
+      {
+        "family": "Nobis",
+        "given": "M."
+      }
+    ],
+    "title": "Pollen morphology of the Central European broomrapes (Orobanchaceae: Orobanche, Phelipanche and Orobanchella) and its taxonomical implications",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2014",
+    "page": "1–16",
+    "URL": "http://dx.doi.org/10.1007/s00606-014-1117-6",
+    "DOI": "10.1007/s00606-014-1117-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Pomel",
+        "given": "A.N."
+      }
+    ],
+    "title": "Nouveaux matériaux pour la Flore Atlantique",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "BullSoc Climatol Algér",
+    "issued": "1874",
+    "page": "1–399"
+  },
+  {
+    "author": [
+      {
+        "family": "Rätzel",
+        "given": "S."
+      },
+      {
+        "family": "Uhlich",
+        "given": "H."
+      }
+    ],
+    "title": "Orobanche benkertii sp. nov. (Orobanchaceae Vent.) und weitere Orobanche-Sippen aus dem NW-Kaukasus",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issue": "1–2",
+    "issued": "2004",
+    "page": "189–211",
+    "URL": "http://dx.doi.org/10.1002/fedr.200311036",
+    "DOI": "10.1002/fedr.200311036"
+  },
+  {
+    "author": [
+      {
+        "literal": "Reuss fil., A."
+      }
+    ],
+    "title": "Botanische Skizze der Gegend zwischen Kommotau, Saaz, Raudnitz und Tetschen",
+    "editor": [
+      {
+        "given": "Löschner"
+      }
+    ],
+    "container-title": "Beiträge zur Balneologie. Aus den Curorten Böhmens. II",
+    "publisher": "Teplitz und die benachbarten Curorte. H. Dominicus, Prag & Carlsbad",
+    "type": "chapter",
+    "issued": "1867",
+    "page": "129–232",
+    "publisher-place": "Band"
+  },
+  {
+    "author": [
+      {
+        "family": "Rouy",
+        "given": "G."
+      }
+    ],
+    "title": "Flore de France",
+    "publisher": "Les Fils d’Émile Deyrolle",
+    "type": "book",
+    "issued": "1909",
+    "page": "429",
+    "publisher-place": "Tome XI"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultz",
+        "given": "F.W."
+      }
+    ],
+    "title": "Notice sur quelques espèces de la famille des Orobanchaccées, dècrites par M. Reuter dans le onzième volume du Prodromus systematis naturalis regni vegetabilis de DC",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Arch. Fl. France Allemagne",
+    "issued": "1848",
+    "page": "99–105"
+  },
+  {
+    "author": [
+      {
+        "family": "Soó",
+        "given": "R."
+      }
+    ],
+    "title": "A magyar flora és vegetácio – renzertani növényföldrajzi kézikönyve III",
+    "container-title": "Synopsis systematico-geobotanica Florae vegetationsque Hungariae III",
+    "publisher": "Akadémiai Kiadó Budapest",
+    "type": "chapter",
+    "issued": "1968",
+    "page": "655"
+  },
+  {
+    "author": [
+      {
+        "family": "Stoyanov",
+        "given": "K.H."
+      }
+    ],
+    "title": "Chorology and critical notes on genus Orobanche (Orobanchaceae) in Bulgaria",
+    "container-title": "Proceedings of IV BBC – Sofia ‘2006, Scientific Area B Plant diversity – past and present",
+    "type": "paper-conference",
+    "issued": "2006",
+    "page": "245–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Stoyanov",
+        "given": "K.H."
+      }
+    ],
+    "title": "Floristic materials and critical notes on genus Orobanche L",
+    "editor": [
+      {
+        "family": "Glandulosae",
+        "particle": "sect. Orobanche subsect."
+      }
+    ],
+    "container-title": "Teryokhin in Bulgaria. Poster Presentation for the IV",
+    "publisher": "Balcan Botanical Congress",
+    "type": "chapter",
+    "issued": "2006",
+    "publisher-place": "Sofia, Bulgaria"
+  },
+  {
+    "author": [
+      {
+        "family": "Teryokhin",
+        "given": "E.S."
+      },
+      {
+        "family": "Shibakina",
+        "given": "G.V."
+      },
+      {
+        "family": "Serafimovič"
+      },
+      {
+        "family": "Kravcova",
+        "given": "T.I."
+      }
+    ],
+    "title": "Opredelitel’ Zarazichovych Flory SSSR",
+    "publisher": "St. Petersburg",
+    "type": "book",
+    "issued": "1993",
+    "page": "127",
+    "publisher-place": "Nauka"
+  },
+  {
+    "author": [
+      {
+        "family": "Tzvelev",
+        "given": "N.N."
+      }
+    ],
+    "title": "Orobanchaceae",
+    "editor": [
+      {
+        "family": "Fedorov",
+        "given": "A.A."
+      }
+    ],
+    "container-title": "Flora Partis Europaeae URSS. Tomus V",
+    "publisher": "„Nauk“, Leningrad",
+    "type": "chapter",
+    "issued": "1981",
+    "page": "379"
+  },
+  {
+    "author": [
+      {
+        "family": "Viney",
+        "given": "D.E."
+      }
+    ],
+    "title": "An Illustrated Flora of North Cyprus",
+    "publisher": "Koeltz Scientific Books, Königstein",
+    "type": "book",
+    "issued": "1994",
+    "page": "697"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallroth",
+        "given": "C.F.W."
+      }
+    ],
+    "title": "Schedulae Criticae",
+    "editor": [
+      {
+        "family": "Kümmelius",
+        "given": "C.A."
+      },
+      {
+        "given": "Hala"
+      }
+    ],
+    "type": null,
+    "issued": "1822",
+    "page": "516"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Caroli a Linné Species plantarum exhibentes plantas rite cognitas ad genera relatas, cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas",
+    "volume": "Berolini",
+    "type": "article-journal",
+    "container-title": "G.C.Nauk",
+    "issued": "1800",
+    "page": "847"
+  },
+  {
+    "editor": [
+      {
+        "family": "Xylander",
+        "given": "W."
+      },
+      {
+        "family": "Otte",
+        "given": "V."
+      },
+      {
+        "family": "Tietz",
+        "given": "O."
+      },
+      {
+        "family": "Kirschey",
+        "given": "T."
+      }
+    ],
+    "title": "Ten years of the Natur Park “Bol’šoj Thač” (Adygeâ, Russia, Caucasus)- Natural conditions, biodiversity and conservation value",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Abhandlungen und Berichte des Naturkundemuseums Görlitz",
+    "issue": "1",
+    "issued": "2007",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zázvorka",
+        "given": "J."
+      }
+    ],
+    "title": "Orobanchaceae Vent",
+    "editor": [
+      {
+        "family": "Slavík",
+        "given": "B."
+      }
+    ],
+    "container-title": "Květena Českě Respubliky 6. Academia, Praha",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "477–513"
+  }
+]

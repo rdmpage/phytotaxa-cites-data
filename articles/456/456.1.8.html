@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+	<title>   Brachysira     aristidesii   sp. nov.  (Bacillariophyceae, Brachysiraceae): a new species from oligotrophic and mesotrophic tropical reservoirs in southeastern Brazil   | ZORZAL-ALMEIDA | Phytotaxa</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMHUldUABAEVVdWAAADUlE=",licenseKey:"4f72ad4ec1",applicationID:"416471445"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(23),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(24),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script>
+	<meta name="description" content="   Brachysira     aristidesii   sp. nov.  (Bacillariophyceae, Brachysiraceae): a new species from oligotrophic and mesotrophic tropical reservoirs in southeastern Brazil  " />
+			<meta name="keywords" content="Autecology, diatom, inland waters, surface sediment, taxonomy, Algae" />
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Contributor.Sponsor" xml:lang="en" content="FAPESP; CNPq; European Regional Development Fund; Agencia Portuguesa do Ambiente; Operational Program for Sustainability and Efficiency in the Use of Resources"/>
+	<meta name="DC.Creator.PersonalName" content="STÉFANO ZORZAL-ALMEIDA"/>
+	<meta name="DC.Creator.PersonalName" content="ELAINE C. RODRIGUES BARTOZEK"/>
+	<meta name="DC.Creator.PersonalName" content="EDUARDO A. MORALES"/>
+	<meta name="DC.Creator.PersonalName" content="DENISE C. BICUDO"/>
+	<meta name="DC.Date.created" scheme="ISO8601" content="2020-08-19"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2020-06-09"/>
+	<meta name="DC.Date.issued" scheme="ISO8601" content="2020-08-19"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2020-08-19"/>
+	<meta name="DC.Description" xml:lang="en" content=" A new diatom species,  Brachysira aristidesii   sp. nov. , is described from three oligotrophic and mesotrophic reservoirs in Piracicaba River basin, State of São Paulo, Brazil. Descriptions are based on light and scanning electron microscopy. The new species is mainly characterized by rhombic-lanceolate valves with strongly capitated ends, filiform and straight raphe, narrow and linear axial area, slightly radiate striae and transapically elongated areolae. It is compared to  Brachysira microcephala ,  B. silvicola ,  B. vitrea, B. neoexilis  and  Nupela brachysiroides . Our findings suggest that  Brachysira aristidesii  is a species mainly associated to high water transparency, low to moderate conductivity, slightly acidic and low nutrient environments. "/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Identifier" content="phytotaxa.456.1.8"/>
+	<meta name="DC.Identifier.pageNumber" content="105–113"/>
+							<meta name="DC.Identifier.DOI" content="10.11646/phytotaxa.456.1.8"/>
+		<meta name="DC.Identifier.URI" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.456.1.8"/>
+	<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+	<meta name="DC.Rights" content="Copyright (c) 2020 Phytotaxa" />
+	<meta name="DC.Rights" content=""/>
+	<meta name="DC.Source" content="Phytotaxa"/>
+	<meta name="DC.Source.ISSN" content="1179-3163"/>
+	<meta name="DC.Source.Issue" content="1"/>	<meta name="DC.Source.URI" content="https://www.biotaxa.org/Phytotaxa"/>
+	<meta name="DC.Source.Volume" content="456"/>						<meta name="DC.Subject" xml:lang="en" content="Autecology, diatom, inland waters, surface sediment, taxonomy, Algae"/>
+				<meta name="DC.Title" content="   Brachysira     aristidesii   sp. nov.  (Bacillariophyceae, Brachysiraceae): a new species from oligotrophic and mesotrophic tropical reservoirs in southeastern Brazil  "/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Article"/>
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="Phytotaxa"/>
+	<meta name="citation_issn" content="1179-3163"/>
+        <meta name="citation_author" content="STÉFANO ZORZAL-ALMEIDA"/>
+        <meta name="citation_author_institution" content="Instituto de Botânica, Department of Ecology, Av. Miguel Estéfano 3687, 04301-902, São Paulo, SP, Brazil."/>
+        <meta name="citation_author" content="ELAINE C. RODRIGUES BARTOZEK"/>
+        <meta name="citation_author_institution" content="Instituto de Botânica, Department of Ecology, Av. Miguel Estéfano 3687, 04301-902, São Paulo, SP, Brazil.
+Universidade Estadual Paulista “Júlio de Mesquita Filho” – UNESP, Av. 24A, 1515, 13506-900, Rio Claro, SP, campus Rio Claro, SP, Brazil."/>
+        <meta name="citation_author" content="EDUARDO A. MORALES"/>
+        <meta name="citation_author_institution" content="Water Laboratory, University of Évora, P.I.T.E. Rua da Barba Rala No. 1, 7005–345 Évora, Portugal.
+Institute of Earth Sciences - ICT, University of Évora, Rua Romão Ramalho 59, 7000–671 Évora, Portugal."/>
+        <meta name="citation_author" content="DENISE C. BICUDO"/>
+        <meta name="citation_author_institution" content="Instituto de Botânica, Department of Ecology, Av. Miguel Estéfano 3687, 04301-902, São Paulo, SP, Brazil.
+Universidade Estadual Paulista “Júlio de Mesquita Filho” – UNESP, Av. 24A, 1515, 13506-900, Rio Claro, SP, campus Rio Claro, SP, Brazil."/>
+<meta name="citation_title" content="   Brachysira     aristidesii   sp. nov.  (Bacillariophyceae, Brachysiraceae): a new species from oligotrophic and mesotrophic tropical reservoirs in southeastern Brazil  "/>
+
+	<meta name="citation_date" content="2020/08/19"/>
+
+	<meta name="citation_volume" content="456"/>
+	<meta name="citation_issue" content="1"/>
+
+			<meta name="citation_firstpage" content="105"/>
+				<meta name="citation_lastpage" content="113"/>
+								<meta name="citation_doi" content="10.11646/phytotaxa.456.1.8"/>
+		<meta name="citation_abstract_html_url" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.456.1.8"/>
+	<meta name="citation_language" content="en"/>
+						<meta name="citation_keywords" xml:lang="en" content="Autecology, diatom, inland waters, surface sediment, taxonomy, Algae"/>
+									<meta name="citation_pdf_url" content="https://www.biotaxa.org/Phytotaxa/article/download/phytotaxa.456.1.8/62884"/>
+				
+
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/compiled.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/articleView.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/rtEmbedded.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://www.biotaxa.org/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://www.biotaxa.org/public/site/sitestyle.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+	</script>
+	
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	
+	<script type="text/javascript" src="https://www.biotaxa.org/js/relatedItems.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/inlinePdf.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/pdfobject.js"></script>
+
+</head>
+<body id="pkp-common-openJournalSystems">
+
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	<img src="https://www.biotaxa.org/public/journals/2/pageHeaderTitleImage_en_US.jpg" width="1101" height="98" alt="Page Header" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://www.biotaxa.org/Phytotaxa/help')">Journal Help</a>
+</div><div class="block" id="sidebarSubscription">
+	<span class="blockTitle">Subscription</span>
+							Login to verify subscription
+			</div><div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+												<form method="post" action="https://www.biotaxa.org/Phytotaxa/login/signIn">
+					<table>
+						<tr>
+							<td><label for="sidebar-username">Username</label></td>
+							<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+						</tr>
+						<tr>
+							<td><label for="sidebar-password">Password</label></td>
+							<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+						</tr>
+					</table>
+				</form>
+						</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://www.biotaxa.org/Phytotaxa/notification">View</a></li>
+			<li><a href="https://www.biotaxa.org/Phytotaxa/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://www.biotaxa.org/Phytotaxa/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">By Issue</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/authors">By Author</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/titles">By Title</a></li>
+		
+					<li><a href="https://www.biotaxa.org/index">Other Journals</a></li>
+						</ul>
+	</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Algae"><span style="font-size: 92%;">Algae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Andes"><span style="font-size: 78%;">Andes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Asteraceae"><span style="font-size: 79%;">Asteraceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Atlantic%20Forest"><span style="font-size: 78%;">Atlantic Forest</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Basidiomycota"><span style="font-size: 78%;">Basidiomycota</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Brazil"><span style="font-size: 85%;">Brazil</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Bryophytes"><span style="font-size: 81%;">Bryophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Cerrado"><span style="font-size: 77%;">Cerrado</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=China"><span style="font-size: 89%;">China</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Compositae"><span style="font-size: 82%;">Compositae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Eudicots"><span style="font-size: 175%;">Eudicots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fabaceae"><span style="font-size: 78%;">Fabaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fungi"><span style="font-size: 105%;">Fungi</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=General"><span style="font-size: 78%;">General</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=ITS"><span style="font-size: 80%;">ITS</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=IUCN"><span style="font-size: 78%;">IUCN</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=India"><span style="font-size: 82%;">India</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Iran"><span style="font-size: 77%;">Iran</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Magnoliids"><span style="font-size: 80%;">Magnoliids</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Mexico"><span style="font-size: 78%;">Mexico</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Monocots"><span style="font-size: 118%;">Monocots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Morphology"><span style="font-size: 77%;">Morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Neotropics"><span style="font-size: 81%;">Neotropics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Nomenclature"><span style="font-size: 79%;">Nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Orchidaceae"><span style="font-size: 79%;">Orchidaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Phylogeny"><span style="font-size: 79%;">Phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Pteridophytes"><span style="font-size: 83%;">Pteridophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=SEM"><span style="font-size: 78%;">SEM</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=South%20America"><span style="font-size: 80%;">South America</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Taxonomy"><span style="font-size: 92%;">Taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Turkey"><span style="font-size: 79%;">Turkey</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Vietnam"><span style="font-size: 78%;">Vietnam</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=biodiversity"><span style="font-size: 79%;">biodiversity</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=conservation"><span style="font-size: 79%;">conservation</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=diatoms"><span style="font-size: 78%;">diatoms</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=distribution"><span style="font-size: 78%;">distribution</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemic"><span style="font-size: 81%;">endemic</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemism"><span style="font-size: 83%;">endemism</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=flora"><span style="font-size: 78%;">flora</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotype"><span style="font-size: 81%;">lectotype</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotypification"><span style="font-size: 80%;">lectotypification</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=molecular%20phylogeny"><span style="font-size: 80%;">molecular phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=morphology"><span style="font-size: 92%;">morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20combination"><span style="font-size: 78%;">new combination</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20species"><span style="font-size: 101%;">new species</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20taxon"><span style="font-size: 78%;">new taxon</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=nomenclature"><span style="font-size: 91%;">nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=phylogeny"><span style="font-size: 91%;">phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=systematics"><span style="font-size: 79%;">systematics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=taxonomy"><span style="font-size: 162%;">taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=typification"><span style="font-size: 83%;">typification</span></a>
+	</div>
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/information/readers">For Readers</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/authors">For Authors</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/librarians">For Librarians</a></li>	</ul>
+</div>
+
+
+<div class="block" id="sidebarRTArticleTools">
+
+	<span class="blockTitle">Article Tools</span>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/printArticle.png" class="articleToolIcon" alt="" /> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/printerFriendly/phytotaxa.456.1.8/0');">Print this article</a>
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/metadata.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/metadata/phytotaxa.456.1.8/0');">Indexing metadata</a><br />
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/citeArticle.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/captureCite/phytotaxa.456.1.8/0');">How to cite item</a><br />
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/findingReferences.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/findingReferences/62325/0');">Finding References</a>
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email this article <span style="font-size: 0.8em">(Login required)</span>		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email the author <span style="font-size: 0.8em">(Login required)</span>		</div>
+		</div>
+
+
+<script type="text/javascript">
+	initRelatedItems();
+</script>
+
+
+<div class="block" id="sidebarRTRelatedItems">
+	<span class="blockTitle">Related Items</span>
+		<table width="100%">
+			<tr>
+				<td valign="top" style="width:26px;">
+					<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/lookupTerms.png" class="articleToolIcon" alt=""/>
+				</td>
+				<td valign="top">
+					<div id="relatedItems">
+						<ul class="plain">
+																					<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/445');">Author&#039;s work</a></li>
+																																									<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/447');">Related studies</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/448');">Book searches</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/449');">Pay-per-view</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/450');">Relevant portals</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/451');">Online forums</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/452');">Teaching files</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/453');">Government policy</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/454');">Media reports</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/455');">Web search</a></li>
+																			</ul>
+					</div>
+					<div id="toggleRelatedItems">
+						<a id="hideRelatedItems" style="display:none;" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_out.png" alt=""/> 
+							Hide
+						</a>
+						<a id="showRelatedItems" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_in.png" alt=""/>
+							Show all
+						</a>
+					</div>
+				</td>
+			</tr>
+		</table>
+</div>
+
+
+<div class="block" id="sidebarRTAuthorBios">
+	<span class="blockTitle">
+					About The Authors
+			</span>
+		<div class="authorBio">
+	<p>
+		<em>STÉFANO ZORZAL-ALMEIDA</em>
+		<a href="http://orcid.org/0000-0002-9977-5898" target="_blank" class="orcid"><img src="https://www.biotaxa.org/plugins/blocks/authorBios/orcid.png" alt="orcid" /></a>						<br />Instituto de Botânica, Department of Ecology, Av. Miguel Estéfano 3687, 04301-902, São Paulo, SP, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ELAINE C. RODRIGUES BARTOZEK</em>
+		<a href="http://orcid.org/0000-0002-6454-3958" target="_blank" class="orcid"><img src="https://www.biotaxa.org/plugins/blocks/authorBios/orcid.png" alt="orcid" /></a>						<br />Instituto de Botânica, Department of Ecology, Av. Miguel Estéfano 3687, 04301-902, São Paulo, SP, Brazil.
+Universidade Estadual Paulista “Júlio de Mesquita Filho” – UNESP, Av. 24A, 1515, 13506-900, Rio Claro, SP, campus Rio Claro, SP, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>EDUARDO A. MORALES</em>
+		<a href="http://orcid.org/0000-0001-5998-4831" target="_blank" class="orcid"><img src="https://www.biotaxa.org/plugins/blocks/authorBios/orcid.png" alt="orcid" /></a>						<br />Water Laboratory, University of Évora, P.I.T.E. Rua da Barba Rala No. 1, 7005–345 Évora, Portugal.
+Institute of Earth Sciences - ICT, University of Évora, Rua Romão Ramalho 59, 7000–671 Évora, Portugal.		<br />Portugal	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>DENISE C. BICUDO</em>
+		<a href="http://orcid.org/0000-0002-4248-3261" target="_blank" class="orcid"><img src="https://www.biotaxa.org/plugins/blocks/authorBios/orcid.png" alt="orcid" /></a>						<br />Instituto de Botânica, Department of Ecology, Av. Miguel Estéfano 3687, 04301-902, São Paulo, SP, Brazil.
+Universidade Estadual Paulista “Júlio de Mesquita Filho” – UNESP, Av. 24A, 1515, 13506-900, Rio Claro, SP, campus Rio Claro, SP, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	
+	</div>
+			</div>
+			</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="https://www.biotaxa.org/Phytotaxa/index">Home</a></li>
+		<li id="about"><a href="https://www.biotaxa.org/Phytotaxa/about">About</a></li>
+
+					<li id="login"><a href="https://www.biotaxa.org/Phytotaxa/login">Login</a></li>
+							<li id="register"><a href="https://www.biotaxa.org/Phytotaxa/user/register">Register</a></li>
+												<li id="search"><a href="https://www.biotaxa.org/Phytotaxa/search">Search</a></li>
+		
+					<li id="current"><a href="https://www.biotaxa.org/Phytotaxa/issue/current">Current</a></li>
+			<li id="archives"><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">Archives</a></li>
+		
+					<li id="announcements"><a href="https://www.biotaxa.org/Phytotaxa/announcement">Announcements</a></li>
+				
+
+									<li class="navItem" id="navItem-0"><a href="http://www.mapress.com/phytotaxa/">Publisher</a></li>
+												<li class="navItem" id="navItem-1"><a href="http://www.biotaxa.org">Biotaxa</a></li>
+						</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://www.biotaxa.org/Phytotaxa/index" target="_parent">Home</a> &gt;
+	<a href="https://www.biotaxa.org/Phytotaxa/issue/view/phytotaxa.456.1" target="_parent">Vol 456, No 1</a> &gt;	<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.456.1.8/0" class="current" target="_parent">ZORZAL-ALMEIDA</a>
+</div>
+
+<div id="content">
+
+
+	<div id="topBar">
+							<div id="accessKey">
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_open_medium.gif" alt="Open Access" />
+				Open Access&nbsp;
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+									Subscription Access
+							</div>
+			</div>
+		
+	<div id="articleTitle"><h3><p><strong><em>Brachysira</em></strong><strong> <em>aristidesii</em> <em>sp. nov.</em> (Bacillariophyceae, Brachysiraceae): a new species from oligotrophic and mesotrophic tropical reservoirs in southeastern Brazil</strong></p></h3></div>
+	<div id="authorString"><em>STÉFANO ZORZAL-ALMEIDA, ELAINE C. RODRIGUES BARTOZEK, EDUARDO A. MORALES, DENISE C. BICUDO</em></div>
+	<br />
+			<div id="articleAbstract">
+		<h4>Abstract</h4>
+		<br />
+		<div><p>A new diatom species, <em>Brachysira aristidesii</em> <em>sp. nov.</em>, is described from three oligotrophic and mesotrophic reservoirs in Piracicaba River basin, State of São Paulo, Brazil. Descriptions are based on light and scanning electron microscopy. The new species is mainly characterized by rhombic-lanceolate valves with strongly capitated ends, filiform and straight raphe, narrow and linear axial area, slightly radiate striae and transapically elongated areolae. It is compared to <em>Brachysira microcephala</em>, <em>B. silvicola</em>, <em>B. vitrea, B. neoexilis</em> and <em>Nupela brachysiroides</em>. Our findings suggest that <em>Brachysira aristidesii</em> is a species mainly associated to high water transparency, low to moderate conductivity, slightly acidic and low nutrient environments.</p></div>
+		<br />
+		</div>
+	
+			<div id="articleSubject">
+		<h4>Keywords</h4>
+		<br />
+		<div>Autecology, diatom, inland waters, surface sediment, taxonomy, Algae</div>
+		<br />
+		</div>
+	
+				
+			<div id="articleFullText">
+		<h4>Full Text:</h4>
+									<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.456.1.8/62884" class="file" target="_parent">PDF/A (2MB)</a>
+																			<img class="accessLogo" src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+											</div>
+	
+			<div id="articleCitations">
+		<h4>References</h4>
+		<br />
+		<div>
+							<p><p>APHA (2005) <em>Standard Methods for Examination of Water and. Wastewater.</em> 21<sup>st</sup> ed. American Public Health Association WWA, Washington, D.C.</p><p>Barber, H.G. &amp; Haworth, E.Y. (1981) <em>A guide to the morphology of the diatom frustules with a key to the British freshwater genera</em>. Freshwater Biological Association, Ambleside, 112 pp.</p><p>Bartozek, E.C.R., Zorzal-Almeida, S. &amp; Bicudo, D.C. (2018) Surface sediment and phytoplankton diatoms across a trophic gradient in tropical reservoirs: new records for Brazil and São Paulo State. <em>Hoehnea</em> 45: 69–92.</p><p> https://doi.org/10.1590/2236-8906-51/2017</p><p>Battarbee, R.W., Jones, V., Flower, R.J., Cameron, N., Bennion, H., Carvalho, L. &amp; Juggins, S. (2001) Diatoms. <em>In</em>: Smol, J.P., Birks, H.J.B. &amp; Last, W.M. (Eds.) <em>Trancking Environmental Change Using Lake Sediments. </em>Vol. 3. Kluwer Academic Publishers, London, pp. 155–203.</p><p> https://doi.org/10.1007/0-306-47668-1_8</p><p>Bertolli, L.M., Tremarin, P.I. &amp; Ludwig, T.A.V. (2010) Diatomáceas perifíticas em <em>Polygonum hydropiperoides</em> Michaux, reservatório do Passaúna, Região Metropolitana de Curitiba, Paraná, Brasil. <em>Acta Botanica Brasilica</em> 24 (4): 1065–1081.</p><p> https://doi.org/10.1590/S0102-33062010000400022</p><p>Bicudo, D.C., Tremarin, P.I., Almeida, P.D., Zorzal-Almeida, S., Wengrat, S., Faustino, S.B., Costa, L.F., Bartozek, E.C.R., Rocha, A.C.R., Bicudo, C.E.M. &amp; Morales, E.A. (2016) Ecology and distribution of Aulacoseira species (Bacillariophyta) in tropical reservoirs from Brazil. <em>Diatom Research</em> 31: 199–215.</p><p> https://doi.org/10.1080/0269249X.2016.1227376</p><p>Bonny, S. &amp; Jones, B. (2003) Microbes and mineral precipitation, Miette Hot Springs, Jasper National Park, Alberta, Canada. <em>Canadian Journal of Earth Sciences</em> 40 (11): 1483–1500.</p><p> http://dx.doi.org/10.1139/e03-060</p><p>Bory de Saint-Vincent, J.B.G.M. (1822) Bacillariées. <em>Dictionnaire Classique d’Histoire naturelle</em> 2: 127–129.</p><p>Canani, L.G.C., Menezes, M., Torgan, L.C. (2011) Diatomáceas epilíticas de águas oligotróficas e ácidas do Sudeste do Brasil. <em>Acta Botanica Brasilica</em> 25 (1): 130–140.</p><p> https://doi.org/10.1590/S0102-33062011000100016</p><p>Casartelli, M.R. &amp; Ferragut, C. (2015) Influence of seasonality and rooted aquatic macrophytes on periphytic algal community on artificial substratum in a shallow tropical reservoir. <em>International Review of Hydrobiology</em> 100 (5–6): 1–11.</p><p> http://dx.doi.org/10.1002/iroh.201401773</p><p>Cetto, J.M., Leandrini, J.A., Felisberto, S.A. &amp; Rodrigues, L. (2004) Comunidade de algas perifiticas no reservatório de Irai, Estado do Paraná, Brasil. <em>Acta Scientiarum. Biological Sciences</em> 26 (1): 1–7.</p><p> https://doi.org/10.4025/actascibiolsci.v26i1.1645</p><p>Cleve, P.T. (1881) On some new and little known diatoms. <em>Kongliga Svenska-Vetenskaps Akademiens Handlingar, N.F.</em> 18 (5): 1–28</p><p>Compère, P. (1986) Algues recoltees parj. Leonard dans le desert de Libye. <em>Bulletin Jardin Botanique National de Belgique</em> 56: 9–50.</p><p> https://doi.org/10.2307/3667756</p><p>Faustino, S.B., Fontana, L., Bartozek, E.C.R., Bicudo, C.E.M. &amp; Bicudo, D.C. (2016) Composition and distribution of diatom assemblages from core and surface sediments of a water supply reservoir in Southeastern Brazil. <em>Biota Neotropica</em> 16 (2): 1–23.</p><p> http://dx.doi.org/10.1590/1676-0611-BN-2015-0129</p><p>Menezes, M., Bicudo, C.E.M. &amp; Moura, C.W.N. (2015) Update of the Brazilian floristic list of Algae and Cyanobacteria. <em>Rodriguesia</em> 66: 1047–1062. Available from: http://floradobrasil.jbrj.gov.br (accessed 4 June 2020)</p><p> https://doi.org/10.1590/2175-7860201566408</p><p>Grunow, A. (1878) Algen und Diatomaceen aus dem Kaspischen Meere. <em>In:</em> Schneider, O. (Ed.) <em>Naturwissenschaftliche Beiträge zur Kenntnis der Kaukasusländer, auf Grund seiner Sammelbeute.</em> Dresden, pp. 98–132.</p><p>Grunow, A. (1867) <em>Reise seiner Majestät Fregatte Novara um die Erde.</em> Botanischer Theil. 1. <em>Algen.</em> K.K. Hof-und Staatsdruckerei, Wien. 11 pls., 104 pp.</p><p>Hartley, B., Ross, R. &amp; Williams, D.M. (1986) A check-list of the freshwater, brackish and marine diatoms of the British Isles and adjoining coastal waters. <em>Journal of the Marine Biological Association of the United Kingdom</em> 66 (3): 531–610.</p><p> https://doi.org/10.1017/S0025315400042235</p><p>Herlory, O., Bonzom, J., Gilbin, R., Frelon, S., Fayolle, S., Delmas, F. &amp; Coste, M. (2013) Use of diatom assemblages as biomonitor of the impact of treated uranium mining effluent discharge on a stream: case study of the Ritord watershed (Center-West France). <em>Ecotoxicology</em> 22: 1186–1199.</p><p> http://dx.doi.org/10.1007/s10646-013-1106-5</p><p>Houk, V. &amp; Klee, R. (2004) The stelligeroid taxa of the genus <em>Cyclotella</em> (Kützing) Brébisson (Bacillariophyceae) and their transfer into the new genus <em>Discostella</em> gen. nov. <em>Diatom Research</em> 19 (2): 203–228.</p><p> http://dx.doi.org/10.1080/0269249X.2004.9705871</p><p>Krstic, S.S., Zech, S., Obreht, I., Svircev, Z. &amp; Markovic, S.B. (2012) Late Quaternary environmental changes in Helambu Himal, Central Nepal, recorded in the diatom flora assemblage composition and geochemistry of Lake Panch Pokhari<em>. Journal of Paleolimnology</em> 47 (1): 113–124.</p><p> http://dx.doi.org/10.1007/s10933-011-9563-4</p><p>Kützing, F.T. (1836) <em>Algarum aquae dulcis germanicarum Decas XVI.</em> Halis Saxonum: in commissis C.A. Schwetschkii et fil, pp. 1–25.</p><p>Lange-Bertalot, H. &amp; Moser, G. (1994) <em>Brachysira</em>: Monographie der Gattung. <em>In:</em> <em>Bibliotheca Diatomologica 29.</em> J. Cramer, Berlin. 212 pp.</p><p>Lange-Bertalot, H. (1993) 85 New Taxa. <em>In:</em> <em>Bibliotheca Diatomologica 27</em>. J. Cramer, Berlin. 453 pp.</p><p>Lamparelli, M.C. (2004) <em>Graus de trofia em corpos d’água do Estado de São Paulo: Avaliação dos métodos de monitoramento (Master thesis)</em>. Universidade de São Paulo, São Paulo, 235 pp.</p><p>Lewis, M.A., Goodman, L.R., Macauley, J.C. &amp; Moore, J.C. (2004) Sediment toxicity and community composition of benthos and colonized periphyton in the Everglades-Florida Bay transitional zone. <em>Ecotoxicology</em> 13 (3): 231–244.</p><p> http://dx.doi.org/10.1023/B:ECTX.0000023568.44003.53</p><p>Lobo, E.A., Wetzel, C.E., Schuch, M. &amp; Ector, L. (2014) <em>Diatomáceas epilíticas como indicadores da qualidade da água em sistemas lóticos subtropicais e temperados brasileiros.</em> EDUNISC, Santa Cruz do Sul, 144 pp.</p><p>Luís, A.T., Teixeira, P., Almeida, S.F.P., Matos, J.X. &amp; Silva, E.F. (2011) Environmental impact of mining activities in the Lousal área (Portugal): Chemical and diatom characterization of metal-contaminated stream sediments and surface water of Corona stream. <em>Science of Total Environment</em> 409: 4312–4325.</p><p> http://dx.doi.org/10.1016/j.scitotenv.2011.06.052</p><p>Moro, R.S. &amp; Fürstenbeger, C.B. (1997) Catálogo dos principais parâmetros ecológicos de diatomáceas não-marinhas. Editora da Universidade Estadual de Ponta Grossa, Ponta Grossa, 282 pp.</p><p>Nygaard, G. (1956) Ancient and Recent Flora of Diatoms and Chrysophyceae in Lake Gribsø. <em>Folia Limnologica Scandinavica</em> 8: 32–94.</p><p>Owen, R.B., Renaut, R.W. &amp; Jones, B. (2008) Geothermal diatoms: a comparative sudy of floras in hot spring systems of Iceland, New Zealand, and Kenya. <em>Hydrobiologia</em> 610: 175–192.</p><p> http://dx.doi.org/10.1007/s10750-008-9432-y</p><p>Pfitzer, E. (1871) <em>Untersuchungen über Bau und Entwicklung der Bacillariaceen (Diatomaceen). </em>Bonn: bei Adolph Marcus, pp. [i]–vi, 1–189, 6 pls.</p><p>Round, F.E. &amp; Mann, D.G. (1981) The diatom genus <em>Brachysira</em>. I. Typification and separation from <em>Anomoeoneis</em>. <em>Archiv Fur Protistenkunde</em> 124: 221–231.</p><p>Round, F.E., Crawford, R.M. &amp; Mann, D.G. (1990) <em>The diatoms: Biology and morphology of the genera. </em>Cambridge, University Press, Cambridge, 747 pp.</p><p>Samylina, O.S., Sapozhnikov, F.V., Gainanova, O.Y., Ryabova, A.V., Nikitin, M.A. &amp; Sorokin, D.Y. (2014) Algo-Bacterial Communities of the Kulunda Steppe (Altai Region, Russia) Soda Lakes. <em>Microbiology</em> 83 (6): 849–860.</p><p> http://dx.doi.org/10.1134/S0026261714060162</p><p>Silva-Lehmkuhl, A.M., Tremarin, P.I., Vercellino, I.S. &amp; Ludwig, T.A.V. (2019) Periphytic diatoms from an oligotrophic lentic system, Piraquara I reservoir, Paraná state, Brazil. <em>Biota Neotropica</em> 19 (2): e20180568.</p><p> http://dx.doi.org/ 10.1590/1676-0611-BN-2018-0568</p><p>Silva-Lehmkuhl, A.M., Lehmkuhl, E.A., Oliveira, S.A., Morais, K.S., Bicudo, D.C. &amp; Bicudo, C.E.M. (2020) Criptógamos do Parque Estadual das Fontes do Ipiranga, São Paulo, SP, Brasil. Algae 45: Bacillariophyceae (Naviculales: <em>Brachysira</em>). <em>Hoehnea</em>.</p><p> http://dx.doi.org/10.1590/2236-8906-50/2019</p><p>Simonsen, R. (1979) The diatom system: ideas on phylogeny. <em>Bacillaria</em> 2: 9–71.</p><p>Siver, P.A., Hamilton, P.B., Stachura-Suchoples, K. &amp; Kociolek, K.P. (2005) Diatom of North America: the freshwater flora of Cape Cod, Massachusetts, U.S.A. <em>Iconographia Diatomologica 14</em>: 1–463.</p><p>Souza, M.G.M. &amp; Compère, P. (1999) New diatom species from the federal district of Brazil. <em>Diatom Research</em> 14 (2): 357–366.</p><p> http://dx.doi.org/10.1080/0269249X.1999.9705477</p><p>Sow, E.H., Fofana, C.A.K. &amp; Aw, C. (2014) Diatoms of Dindifelou fall (upper Basin of the Gambia River, Senegal): floristic inventory. <em>African Journal of Ecology</em> 52: 352–362.</p><p> http://dx.doi.org/10.1111/aje.12127</p><p>ter Braak, C.J.F. &amp; van Dam, H. (1989) Inferring pH from diatoms: a comparison of old and new calibration methods. <em>Hydrobiologia</em> 178 (3): 209–223.</p><p> http://dx.doi.org/10.1007/BF00006028</p><p>van Dam, H., Mertens, A. &amp; Sinkeldam, J. (1994) A coded checklist and ecological indicator values of freshwater diatoms from the Netherlands. <em>Netherlands Journal of Aquatic Ecology</em> 28: 117–133.</p><p> https://doi.org/10.1007/BF02334251</p><p>Vouilloud, A.A., Sala, S.E., Núnez-Avellaneda, Montoya-Moreno, Y. &amp; Duque, S.R. (2014) <em>Brachysira</em> (Naviculales, Bacillariophyceae) in lowland waters from Colombia. <em>Diatom Research</em> 29 (2): 147–163.</p><p> http://dx.doi.org/10.1080/0269249X.2013.866909</p><p>Wallace, J. (1960) New and variable diatoms. <em>Notulae Naturae, Philadelphia</em> 331: 1–8.</p><p>Whately, M. &amp; Cunha, P. (2007) <em>Cantareira 2006: um olhar sobre o maior manancial de água da Região Metropolitana de São Paulo.</em> Instituto Socioambiental, São Paulo.</p><p>Wolfe, A.P. &amp; Kling, H.J. (2001) A consideration of some North American soft-water <em>Brachysira</em> taxa and description of <em>B. arctoborealis</em> sp. nov. <em>In</em>: Jahn, R., Kociolek, J.P., Witkowski, A. &amp; Compere, A. (Eds.) <em>Lange-Bertalot-Festschrift. </em>Gantner, Ruggell, pp. 243–264.</p><p>Yang, H., Flower, R.J. &amp; Battarbee, R.W. (2009) Influence of environmental and spatial variables on the distribution of surface sediment diatoms in an upland loch, Scotland. <em>Acta Botanica Croatica</em> 68 (2): 367–380.</p><p>Zorzal-Almeida, S., Soininen, J., Bini, L.M. &amp; Bicudo, D.C. (2017) Local environment and connectivity are the main drivers of diatom species composition and trait variation in a set of tropical reservoirs. <em>Freshwater Biology</em> 62 (9): 1551–1563.</p><p> https://doi.org/10.1111/fwb.12966</p></p>
+					</div>
+		<br />
+		</div>
+	
+							<br />
+		<br />
+		DOI: <a id="pub-id::doi" href="https://doi.org/10.11646/phytotaxa.456.1.8">https://doi.org/10.11646/phytotaxa.456.1.8</a>																				
+
+<div class="separator"></div>
+
+<h3>Refbacks</h3>
+
+<ul>
+				<li>There are currently no refbacks.</li>
+	</ul>
+
+
+		
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_id=https%3A%2F%2Fwww.biotaxa.org%2FPhytotaxa%2Farticle%2Fview%2F62325&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.title=Phytotaxa&amp;rft.jtitle=Phytotaxa&amp;rft.atitle=%3Cp%3E%3Cstrong%3E%3Cem%3EBrachysira%3C%2Fem%3E%3C%2Fstrong%3E%3Cstrong%3E+%3Cem%3Earistidesii%3C%2Fem%3E+%3Cem%3Esp.+nov.%3C%2Fem%3E+%28Bacillariophyceae%2C+Brachysiraceae%29%3A+a+new+species+from+oligotrophic+and+mesotrophic+tropical+reservoirs+in+southeastern+Brazil%3C%2Fstrong%3E%3C%2Fp%3E&amp;rft.artnum=phytotaxa.456.1.8&amp;rft.stitle=Phytotaxa&amp;rft.volume=456&amp;rft.issue=1&amp;rft.aulast=ZORZAL-ALMEIDA&amp;rft.aufirst=ST%C3%89FANO&amp;rft.auinit=&amp;rft.date=2020-08-19&amp;rft.au=ST%C3%89FANO+ZORZAL-ALMEIDA&amp;rft.au=ELAINE+C.+RODRIGUES+BARTOZEK&amp;rft.au=EDUARDO+A.+MORALES&amp;rft.au=DENISE+C.+BICUDO&amp;rft_id=info%3Adoi%2F10.11646%2Fphytotaxa.456.1.8&amp;rft.pages=105%E2%80%93113&amp;rft.issn=1179-3155&amp;rft.eissn=1179-3163"></span>
+<!-- Google Analytics -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89286081-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<!-- End Google Analytics -->
+<br /><br />
+<p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;"><img src="/public/site/images/mapress/mpicon.gif" alt="" /></span></p><p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN <span lang="EN-AU">1179-3155 (print); </span></span><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN 1179-3163 (online)</span></p><p>Published by <a title="Magnolia Press" href="http://www.mapress.com/phytotaxa/index.htm" target="_blank">Magnolia Press</a>, Auckland, New Zealand</p><div> </div>
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+<script type="text/javascript">
+
+<!--
+	// Open "Define Terms" context when double-clicking any text
+	function openSearchTermWindow(url) {
+		var term;
+		if (window.getSelection) {
+			term = window.getSelection();
+		} else if (document.getSelection) {
+			term = document.getSelection();
+		} else if(document.selection && document.selection.createRange && document.selection.type.toLowerCase() == 'text') {
+			var range = document.selection.createRange();
+			term = range.text;
+		}
+		if (term != ""){
+			if (url.indexOf('?') > -1) openRTWindowWithToolbar(url + '&defineTerm=' + term);
+			else openRTWindowWithToolbar(url + '?defineTerm=' + term);
+		}
+	}
+
+	if(document.captureEvents) {
+		document.captureEvents(Event.DBLCLICK);
+	}
+
+	// Make sure to only open the reading tools when double clicking within the galley
+	if (document.getElementById('inlinePdfResizer')) {
+		context = document.getElementById('inlinePdfResizer');
+	}
+	else if (document.getElementById('content')) {
+		context = document.getElementById('content');
+	}
+	else {
+		context = document;
+	}
+
+	context.ondblclick = new Function("openSearchTermWindow('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.456.1.8/0/446')");
+// -->
+
+</script>
+
+
+</div> <!-- container -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"4f72ad4ec1","applicationID":"416471445","transactionName":"ZF0AZkZRWRVUVEINDF0XN0BdH14IUVJOShNbSA==","queueTime":0,"applicationTime":304,"atts":"SBoDEA5LShs=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

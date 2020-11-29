@@ -1,0 +1,344 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatarum genera et species",
+    "publisher": "James Ridgway & sons, London",
+    "type": "book",
+    "issued": "1833",
+    "page": "245"
+  },
+  {
+    "author": [
+      {
+        "given": "G.B.I.F."
+      }
+    ],
+    "title": "Global Biodiversity Information Facility Database",
+    "genre": "GBIF Secretariat,",
+    "publisher": "Universitetsparken",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "publisher-place": "Copenhagen, Denmark",
+    "URL": "http://www.gbif.org/occurrence/search?taxon_key=2927058&offset=0"
+  },
+  {
+    "author": [
+      {
+        "family": "Harley",
+        "given": "R.M."
+      },
+      {
+        "family": "Atkins",
+        "given": "S."
+      },
+      {
+        "family": "Budantsev",
+        "given": "A.L."
+      },
+      {
+        "family": "Cantino",
+        "given": "P.D."
+      },
+      {
+        "family": "Conn",
+        "given": "B.J."
+      },
+      {
+        "family": "Greyer",
+        "given": "R."
+      },
+      {
+        "family": "Harley",
+        "given": "M.M."
+      },
+      {
+        "family": "De Kok",
+        "given": "R."
+      },
+      {
+        "family": "Krestovskaja",
+        "given": "T."
+      },
+      {
+        "family": "Morales",
+        "given": "R."
+      },
+      {
+        "family": "Paton",
+        "given": "A.J."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      },
+      {
+        "family": "Upson.",
+        "given": "T."
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      }
+    ],
+    "container-title": "The families and genera of vascular plants 7",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "167–275",
+    "publisher-place": "Berlin",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-18617-2_11",
+    "DOI": "10.1007/978-3-642-18617-2_11"
+  },
+  {
+    "author": [
+      {
+        "family": "Hedge",
+        "given": "I.C."
+      }
+    ],
+    "title": "A global survey of the biogeography of the Labiatae In",
+    "editor": [
+      {
+        "family": "Harley",
+        "given": "R.M."
+      },
+      {
+        "family": "Reynolds",
+        "given": "T."
+      }
+    ],
+    "container-title": "Advances in Labiatae science. Royal Botanic Gardens",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "7–17",
+    "publisher-place": "Kew, Richmond, Surrey, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Labiatae",
+    "volume": "4",
+    "editor": [
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "The flora of British India",
+    "issued": "1885",
+    "page": "604–705",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "C.S."
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "Bonpland",
+        "given": "A."
+      },
+      {
+        "family": "Humboldt",
+        "given": "A.V."
+      },
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "container-title": "Nova genera et species plantarum. Lutetiae Parisiorum: sumtibus Librariae Graeco-Latino-Germanico",
+    "type": "chapter",
+    "issued": "1818",
+    "page": "286–328"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "type": null,
+    "issued": "1753",
+    "page": "862",
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s plant-book: a portable dictionary of plants, their classifications and uses",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": "3",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Mukerjee",
+        "given": "S.K."
+      }
+    ],
+    "title": "A revision of Lamiaceae of Indian Empire",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Records of the Botanical Survey of India",
+    "issued": "1940",
+    "page": "1–228"
+  },
+  {
+    "author": [
+      {
+        "family": "Randall",
+        "given": "R.P."
+      }
+    ],
+    "title": "A global compendium of weeds",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Western Australia",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2002",
+    "page": "906",
+    "URL": "http://www.hear.org/gcw/species/salvia_misella/"
+  },
+  {
+    "author": [
+      {
+        "family": "Richardson",
+        "given": "A."
+      },
+      {
+        "family": "Keng",
+        "given": "K."
+      }
+    ],
+    "title": "Plants of deep south Texas, a field guide to the woody and flowering species",
+    "publisher": "A & M University Press, Texas",
+    "type": "book",
+    "issued": "2010",
+    "page": "457"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodrigues-Hahn",
+        "given": "L."
+      },
+      {
+        "family": "Esquivel",
+        "given": "B."
+      },
+      {
+        "family": "Cardenas",
+        "given": "J."
+      }
+    ],
+    "title": "The distribution of Diterpenoids in Salvia",
+    "editor": [
+      {
+        "family": "Harley",
+        "given": "R.M."
+      },
+      {
+        "family": "Reynolds",
+        "given": "T."
+      }
+    ],
+    "container-title": "Advances in Labiatae science. Royal Botanic Gardens",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "335–347",
+    "publisher-place": "Kew, Richmond, Surrey, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Garden",
+        "given": "Missouri Botanical"
+      }
+    ],
+    "title": "Tropicos.org",
+    "note": "Saint Louis, Missouri. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.tropicos.org/Name/17601714?tab=distribution"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "L.O."
+      }
+    ],
+    "title": "Tropical american plants XII",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Fieldiana, Botany Series",
+    "issue": "8",
+    "issued": "1972",
+    "page": "111–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "J.R.I."
+      },
+      {
+        "family": "Harley",
+        "given": "R.M."
+      }
+    ],
+    "title": "The Genus Salvia (Labiatae) in Colombia",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1989",
+    "page": "211–278",
+    "URL": "http://dx.doi.org/10.2307/4110799",
+    "DOI": "10.2307/4110799"
+  }
+]

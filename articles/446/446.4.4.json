@@ -1,0 +1,842 @@
+[
+  {
+    "editor": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Genera plantarum: ad exemplaria imprimis in Herberiis Kewensibus servata definita",
+    "volume": "1",
+    "publisher": "A. Black",
+    "type": "book",
+    "issued": "1862",
+    "page": "1",
+    "publisher-place": "London, xii",
+    "URL": "https://doi.org/10.5962/bhl.title.747",
+    "DOI": "10.5962/bhl.title.747"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "B.F.G.—The Brazil Flora"
+      }
+    ],
+    "title": "Growing knowledge: an overview of Seed Plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issue": "4",
+    "issued": "2015",
+    "page": "1085–1113",
+    "URL": "https://doi.org/10.1590/2175-7860201566409",
+    "DOI": "10.1590/2175-7860201566409"
+  },
+  {
+    "author": [
+      {
+        "family": "Biral",
+        "given": "L."
+      },
+      {
+        "family": "Lombardi",
+        "given": "J.A."
+      }
+    ],
+    "title": "Proposal to conserve the name Maytenus ilicifolia Mart. ex Reissek against M. ilicifolia (Schrad.) Planch",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Celastraceae). Taxon",
+    "issue": "2",
+    "issued": "2012",
+    "page": "468–469",
+    "URL": "https://doi.org/10.1002/tax.612022",
+    "DOI": "10.1002/tax.612022"
+  },
+  {
+    "author": [
+      {
+        "family": "Biral",
+        "given": "L."
+      },
+      {
+        "family": "Smidt",
+        "given": "E.C."
+      },
+      {
+        "family": "Bolson",
+        "given": "M."
+      },
+      {
+        "family": "Lombardi",
+        "given": "J.A."
+      }
+    ],
+    "title": "A new species of Maytenus (Celastraceae) from the Brazilian Atlantic Forest, with evidence of molecular phylogeny, and two new synonyms for Maytenus floridunda",
+    "volume": "231",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "53–62",
+    "URL": "https://doi.org/10.11646/phytotaxa.231.1.5",
+    "DOI": "10.11646/phytotaxa.231.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Biral",
+        "given": "L."
+      }
+    ],
+    "title": "Sistemática e filogenia de Maytenus Molina (Celastraceae) na região neotropical",
+    "genre": "Thesis,",
+    "publisher": "Universidade Estadual Paulista “Júlio de Mesquita Filho”, Unesp, Rio Claro",
+    "type": "thesis",
+    "issued": "2016",
+    "page": "350"
+  },
+  {
+    "author": [
+      {
+        "family": "Biral",
+        "given": "L."
+      },
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Smidt",
+        "given": "E."
+      },
+      {
+        "family": "Tembrock",
+        "given": "L.R.Bolson"
+      },
+      {
+        "family": "Archer",
+        "given": "M."
+      },
+      {
+        "given": "R.H."
+      },
+      {
+        "family": "Lombardi",
+        "given": "J.A."
+      }
+    ],
+    "title": "Systematics of the New World Maytenus (Celastraceae) and a new delimitation of the genus",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "4",
+    "issued": "2017",
+    "page": "680–693",
+    "URL": "https://doi.org/10.1600/036364417X696456",
+    "DOI": "10.1600/036364417X696456"
+  },
+  {
+    "author": [
+      {
+        "family": "Briquet",
+        "given": "J."
+      }
+    ],
+    "title": "Decades plantarum novarum vel minus cognitarum. Celastraceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Annuaire du Conservatoire et du Jardin Botaniques de Genève",
+    "issued": "1919",
+    "page": "342–427"
+  },
+  {
+    "author": [
+      {
+        "family": "Carvalho-Okano",
+        "given": "R.M."
+      }
+    ],
+    "title": "Estudos taxonômicos do gênero Maytenus (Celastraceae) no Brasil extra-amazônico",
+    "genre": "Thesis,",
+    "publisher": "Universidade Estadual de Campinas",
+    "type": "thesis",
+    "issued": "1992",
+    "page": "253",
+    "publisher-place": "Campinas, x"
+  },
+  {
+    "author": [
+      {
+        "family": "Carvalho-Okano",
+        "given": "R.M."
+      }
+    ],
+    "title": "Novos sinônimos para espécies de Maytenus Mol. emend",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Mol. (Celastraceae). Bradea",
+    "issue": "14",
+    "issued": "1998",
+    "page": "73–76"
+  },
+  {
+    "author": [
+      {
+        "family": "Carvalho-Okano",
+        "given": "R.M."
+      },
+      {
+        "family": "Leitão-Filho",
+        "given": "H.F."
+      }
+    ],
+    "title": "O gênero Maytenus Mol",
+    "editor": [
+      {
+        "family": "In",
+        "particle": "emend. Mol. no Brasil extra-amazônico."
+      },
+      {
+        "family": "Reis",
+        "given": "M.S."
+      },
+      {
+        "family": "Silva",
+        "given": "S.R."
+      }
+    ],
+    "container-title": "Conservação e uso sustentável de plantas medicinais e aromáticas: Maytenus spp., espinheira-santa. Ibama, Brasília",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "11–51"
+  },
+  {
+    "author": [
+      {
+        "family": "Förther",
+        "given": "H."
+      }
+    ],
+    "title": "Die Geschichte des Martius-Herbariums: seine Brasilienkollektion und Empfehlungen zur Typswahl",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Sendtnera",
+    "issued": "1994",
+    "page": "5–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Hokche",
+        "given": "O."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Huber",
+        "given": "O."
+      }
+    ],
+    "title": "Nuevo catálogo de la flora vascular de Venezuela",
+    "container-title": "Fundación Instituto Botánico de Venezuela",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "859",
+    "publisher-place": "Caracas"
+  },
+  {
+    "author": [
+      {
+        "family": "Kearns",
+        "given": "D."
+      }
+    ],
+    "title": "Celastraceae",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      },
+      {
+        "family": "Yatskievych",
+        "given": "K."
+      }
+    ],
+    "container-title": "Flora of the Venezuelan Guayana",
+    "volume": "4",
+    "type": "article-journal",
+    "issued": "1998",
+    "page": "190–197"
+  },
+  {
+    "author": [
+      {
+        "family": "Klein",
+        "given": "A.L."
+      }
+    ],
+    "title": "Eugen Warming e o cerrado brasileiro: um século depois",
+    "container-title": "Editora Unesp, Imprensa Oficial do Estado, São Paulo",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "156"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "C.E.O."
+      }
+    ],
+    "title": "Revisio Generum Plantarum vascularium omnium atque cellularium multarum secundum Leges Nomenclaturae Internationales cum enumeratione Plantarum Exoticarum in itineribus mundi collectarum",
+    "volume": "III. Part 2",
+    "editor": [
+      {
+        "family": "Feliz",
+        "given": "Commissionen Arthur"
+      },
+      {
+        "family": "Leipzig",
+        "given": "Dulau"
+      },
+      {
+        "family": "Co.",
+        "given": "London"
+      },
+      {
+        "family": "Hoepli",
+        "given": "U."
+      },
+      {
+        "family": "Milano",
+        "given": "Gust E.Stechert"
+      }
+    ],
+    "publisher": "Charles Klincksieck",
+    "type": "article-journal",
+    "container-title": "Pars",
+    "issued": "1898",
+    "page": "201",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Liebmann",
+        "given": "F.M."
+      }
+    ],
+    "title": "Novorum plantarum mexicanarum generum Decas. Videnskabelige Meddelelser fra den naturhistoriske Forening i Kjoebenhavn 1853",
+    "volume": "3-4",
+    "type": null,
+    "issued": "1854",
+    "page": "90–107"
+  },
+  {
+    "author": [
+      {
+        "family": "Lundell",
+        "given": "C.L."
+      }
+    ],
+    "title": "Studies in the American Celastraceae",
+    "editor": [
+      {
+        "literal": "II."
+      }
+    ],
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Lilloa",
+    "issue": "2",
+    "issued": "1939",
+    "page": "377–387"
+  },
+  {
+    "author": [
+      {
+        "family": "Lundell",
+        "given": "C.L."
+      }
+    ],
+    "title": "Studies of American plants III",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Wrightia",
+    "issue": "5",
+    "issued": "1971",
+    "page": "153–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      }
+    ],
+    "title": "Nova genera et species plantarum: quas in itinere per Brasiliam annis MDCCCXVII-MDCCCXX jussu et auspiciis Maximiliani Josephi I. Bavariae regis augustissimi suscepto collegit et descripsit",
+    "volume": "3",
+    "note": "Impensis auctoris, Monachii [München],",
+    "type": null,
+    "issued": "1831",
+    "page": "81–124"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.P.F."
+      },
+      {
+        "family": "Ph",
+        "given": "C.Fr"
+      }
+    ],
+    "title": "Herbarium Florae Brasiliensis. Plantae brasilienses exsiccatae, quas denominatas, partim diagnosi aut observationibus instructas Botanophilis offert Dr",
+    "volume": "24",
+    "edition": "2, Beiblätter",
+    "type": "article-journal",
+    "container-title": "Flora oder Botanische Zeitung",
+    "issued": "1841",
+    "page": "1–112",
+    "publisher-place": "Band II"
+  },
+  {
+    "author": [
+      {
+        "family": "McKenna",
+        "given": "M.J."
+      },
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Bacon",
+        "given": "C.D."
+      },
+      {
+        "family": "Lombardi",
+        "given": "J.A."
+      }
+    ],
+    "title": "Delimitation of the segregation genera of Maytenus",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "4",
+    "issued": "2011",
+    "page": "922–933",
+    "URL": "https://doi.org/10.1600/036364411X604930",
+    "DOI": "10.1600/036364411X604930"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      }
+    ],
+    "title": "Holotype specimens and type citations: General issues",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "5",
+    "issued": "2014",
+    "page": "112–113",
+    "URL": "https://doi.org/10.12705/635.7",
+    "DOI": "10.12705/635.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Meisner",
+        "given": "C.D.F."
+      }
+    ],
+    "title": "Plantarum vascularium genera: secundum ordines naturales digesta eorumque differentiae et affinitates tabulis diagnostacis expositae",
+    "volume": "2",
+    "publisher": "Libraria Weidmannia, Lipsiae",
+    "type": "book",
+    "issued": "1837",
+    "page": "1–2,",
+    "URL": "https://doi.org/10.5962/bhl.title.44043",
+    "DOI": "10.5962/bhl.title.44043"
+  },
+  {
+    "author": [
+      {
+        "family": "Molina",
+        "given": "G.I."
+      }
+    ],
+    "title": "Saggio sulla storia naturale del Chili del signor abate Giovanni Ignazio Molina. 1.ed",
+    "volume": "Bologna",
+    "type": "article-journal",
+    "container-title": "Nella Stamperia di S. Tommafo d’Aquino",
+    "issued": "1782",
+    "page": "367",
+    "URL": "https://doi.org/10.5962/bhl.title.62689",
+    "DOI": "10.5962/bhl.title.62689"
+  },
+  {
+    "author": [
+      {
+        "family": "Pilger",
+        "given": "R."
+      }
+    ],
+    "title": "Plantae Lützelburgianae brasiliensis II",
+    "container-title": "Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "8",
+    "issue": "77",
+    "type": "article-journal",
+    "issued": "1923",
+    "page": "535–536"
+  },
+  {
+    "author": [
+      {
+        "family": "Reissek",
+        "given": "S."
+      }
+    ],
+    "title": "Celastrinea",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Fleischer",
+        "given": "Frid"
+      },
+      {
+        "given": "Lipsiae"
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "v. 11",
+    "type": "chapter",
+    "issued": "1861",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Richard",
+        "given": "A."
+      }
+    ],
+    "title": "Botanique. Plantes Vasculaires",
+    "editor": [
+      {
+        "family": "Sagra",
+        "given": "R.",
+        "particle": "de la"
+      }
+    ],
+    "publisher": "Arthus Bertrand",
+    "type": "book",
+    "issued": "1845",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz",
+        "given": "H."
+      },
+      {
+        "family": "Pavón",
+        "given": "J.A."
+      }
+    ],
+    "title": "Flora Peruviana, et Chilensis, sive descripciones, et icones plantarum peruvianarum et chilensium secundum systema linnaeanum digestae, cum characteribus plurium generum evulgatorum reformatis",
+    "volume": "3",
+    "type": null,
+    "issued": "1802",
+    "page": "1–95, 223–325",
+    "publisher-place": "Gabrielis de Sancha, Madrid, i+xxiv"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      }
+    ],
+    "title": "Celastraceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "literal": "VI. Dicotyledons. Celastrales, Oxalidales, Rosales, Cornales, Ericales."
+      }
+    ],
+    "publisher": "Springer",
+    "type": "book",
+    "issued": "2004",
+    "page": "29–64",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-662-07257-8_6",
+    "DOI": "10.1007/978-3-662-07257-8_6"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Bacon",
+        "given": "C.D."
+      },
+      {
+        "family": "Cappa",
+        "given": "J.J."
+      },
+      {
+        "family": "McKenna",
+        "given": "M.J."
+      }
+    ],
+    "title": "Phylogeny of Celastraceae subfamilies Cassinoideae and Tripterygioideae Inferred from morphological characters and nuclear and plastid Loci",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "2",
+    "issued": "2012",
+    "page": "456–467",
+    "URL": "https://doi.org/10.1600/036364412X635502",
+    "DOI": "10.1600/036364412X635502"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.C."
+      }
+    ],
+    "title": "Plantae Krukovianae VI",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Journal of Arnold Arboretum",
+    "issue": "3",
+    "issued": "1939",
+    "page": "288–303"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.T."
+      }
+    ],
+    "title": "Nomenclatur botanicus, enumerans ordine alphabetico nomina atque synonyma tum generica tum specifica et a Linnaeo et recentioribus de re botanica scriptoribus plantis phanerogamis imposita",
+    "volume": "1",
+    "publisher": "I.G. Cottae, Stuttgart & Tübingen",
+    "type": "book",
+    "issued": "1821",
+    "page": "900",
+    "URL": "https://doi.org/10.5962/bhl.title.544",
+    "DOI": "10.5962/bhl.title.544"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzen Code): Adopted by the Nineteenth International Botanical Congress Shenzen",
+    "publisher": "Koeltz Scientific Books, Glashütten",
+    "type": "chapter",
+    "issued": "2018",
+    "page": "254",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "title": "Vitae itineraque collectorum botanicorum,notae collaboratum biographicae, Flora Brasiliensis ratio edendi chronologica, systema, index familiarum",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "v. 1",
+    "publisher": "R. Oldenbourg, München et Leipzig",
+    "type": "chapter",
+    "issued": "1906",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Warming",
+        "given": "E."
+      },
+      {
+        "literal": "Particula XXVI. Fam."
+      }
+    ],
+    "title": "Symbolae ad floram Brasiliae centralis cognoscendam",
+    "volume": "412",
+    "type": "article-journal",
+    "container-title": "Videnskabelige Meddelelser fraden naturhistoriske Forening i Kjoebenhavn",
+    "issued": "1880",
+    "page": "363–366"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Celastrineae",
+    "editor": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "volume": "1",
+    "publisher": "Parbury, Allen & Co",
+    "type": "book",
+    "issued": "1834",
+    "page": "155–161",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.5962/bhl.title.252",
+    "DOI": "10.5962/bhl.title.252"
+  },
+  {
+    "author": [
+      {
+        "family": "Zanoni",
+        "given": "T.A."
+      }
+    ],
+    "title": "Otto Kuntze, botanist. I. Biography, bibliography and travels",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "4",
+    "issued": "1980",
+    "page": "551–571",
+    "URL": "https://doi.org/10.2307/2806169",
+    "DOI": "10.2307/2806169"
+  }
+]

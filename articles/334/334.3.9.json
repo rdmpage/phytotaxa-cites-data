@@ -1,0 +1,395 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.F."
+      }
+    ],
+    "title": "Compositae IV",
+    "director": [
+      {
+        "family": "Helianthoideae",
+        "given": "Anthemidieae"
+      },
+      {
+        "family": "Senecionideae",
+        "given": "Cynaroideae"
+      },
+      {
+        "family": "Ligulatae",
+        "given": "Mutisiaceae"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Flora brasiliensis",
+    "volume": "6",
+    "type": "chapter",
+    "issued": "1884",
+    "page": "3",
+    "publisher-place": "Fleischer, Monachii, Lipsiae"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Notes on the Brazilian Senecioneae",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1950",
+    "page": "53–74"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "El género Senecio (Compositae) en Brasil, Paraguay y Uruguay",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Arquivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1957",
+    "page": "163 264"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Notas sobre tipos de Compuestas sudamericanas en herbarios Europeos I",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Boletin de la Sociedad Argentina de Botanica",
+    "issued": "1959",
+    "page": "233 246"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Tres Compositae nuevas de Minas Gerais (Brasil",
+    "container-title": "Boletim do Museu Botânico Prefeitura Municipal de Curitiba, MBM",
+    "volume": "15",
+    "type": "chapter",
+    "issued": "1974",
+    "page": "1 7"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "Suite du sixième mémoire sur la famille des Synanthérées, contenant les caractères des tribus",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Journal de Physique, de Chimie, d‘Histoire Naturelle et des Arts",
+    "issued": "1819",
+    "page": "189–204"
+  },
+  {
+    "author": [
+      {
+        "family": "Brasil",
+        "given": "Flora",
+        "particle": "do"
+      }
+    ],
+    "genre": "[in construction]",
+    "title": "Jardim Botânico do Rio de Janeiro",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://floradobrasil.jbrj.gov.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      }
+    ],
+    "title": "The tribe Senecioneae (Compositae) in Bahia, Brazil, with descriptions of a new section and species in Senecio",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1999",
+    "page": "897 904"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN Red List of Threatened Species, version 2017-1",
+    "genre": "IUCN Red List Unit,",
+    "publisher": "Cambridge U.K",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "title": "The tribe Senecioneae (Compositae) in the Mascarene Islands with an annotated world check-list of the genera of the tribe. Notes on Compositae: VI",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1992",
+    "page": "49–109"
+  },
+  {
+    "author": [
+      {
+        "family": "Matzenbacher",
+        "given": "N.I."
+      }
+    ],
+    "title": "Duas novas espécies e uma nova forma do gênero Senecio L. (Asteraceae – Senecioneae) no Rio Grande do Sul – Brasil",
+    "container-title": "Comunicações do Museu de Ciências e Tecnologia da PUCRS. Série Botânica",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1996",
+    "page": "3 14",
+    "publisher-place": "Porto Alegre"
+  },
+  {
+    "author": [
+      {
+        "family": "Matzenbacher",
+        "given": "N.I."
+      }
+    ],
+    "title": "Uma nova espécie do gênero Senecio L. (Asteraceae – Senecioneae) no Rio Grande do Sul, Brasil",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Iheringia, Série Botânica",
+    "issued": "2009",
+    "page": "109 113"
+  },
+  {
+    "author": [
+      {
+        "family": "Matzenbacher",
+        "given": "N.I."
+      },
+      {
+        "family": "Baptista",
+        "given": "L.R.M."
+      }
+    ],
+    "title": "Uma nova combinação no gênero Dendrophorbium (Cuatrec.) C. Jeffrey (Asteraceae – Senecioneae",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Boletim do Museu Botânico Municipal. Curitiba",
+    "issued": "1997",
+    "page": "1–3"
+  },
+  {
+    "author": [
+      {
+        "family": "Matzenbacher",
+        "given": "N.I."
+      },
+      {
+        "family": "Mondin",
+        "given": "C.A."
+      }
+    ],
+    "title": "Senecio irgangii Matzenb. & Mondin (Asteraceae – Senecioneae), uma nova espécie do Sul do Brasil",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Revista Brasileira de Biociências",
+    "issued": "2015",
+    "page": "64–67"
+  },
+  {
+    "author": [
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      }
+    ],
+    "title": "Taxonomic studies in the tribe Senecioneae (Compositae",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Opera Botanica",
+    "issued": "1978",
+    "page": "1–83"
+  },
+  {
+    "author": [
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      },
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Watson",
+        "given": "L.E."
+      }
+    ],
+    "title": "Senecioneae",
+    "editor": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T.F."
+      },
+      {
+        "family": "Bayer",
+        "given": "R.J."
+      }
+    ],
+    "container-title": "Systematics, evolution, and biogeography of Compositae. IAPT, Vienna",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "503–525"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "Studies in the Senecioneae (Asteraceae). X. A new species of Senecio from Brazil",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1980",
+    "page": "293 294"
+  },
+  {
+    "author": [
+      {
+        "family": "Teles",
+        "given": "A.M."
+      }
+    ],
+    "title": "Nova combinação e chave revisada para Dendrophorbium (Asteraceae – Senecioneae) no Brasil",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2010",
+    "page": "143–145"
+  },
+  {
+    "author": [
+      {
+        "family": "Teles",
+        "given": "A.M."
+      },
+      {
+        "family": "Freitas",
+        "given": "F.S."
+      }
+    ],
+    "title": "Senecio hortensiae (Senecioneae, Asteraceae): a new species from Espírito Santo, Brazil",
+    "volume": "142",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "46 50"
+  },
+  {
+    "type": null,
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.142.1.5",
+    "DOI": "10.11646/phytotaxa.142.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Teles",
+        "given": "A.M."
+      },
+      {
+        "family": "Meireles",
+        "given": "L.D."
+      }
+    ],
+    "title": "A new species of Senecio (Asteraceae: Senecioneae) from southeastern Brazil",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2010",
+    "page": "178 182"
+  },
+  {
+    "author": [
+      {
+        "family": "Teles",
+        "given": "A.M."
+      },
+      {
+        "family": "Nakajima",
+        "given": "J.N."
+      },
+      {
+        "family": "Stehmann",
+        "given": "J.R."
+      }
+    ],
+    "title": "Senecio albus, a new species of Senecio sect. Adamantina (Senecioneae – Asteraceae) with an emendment to the section",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2009",
+    "page": "161 165"
+  },
+  {
+    "author": [
+      {
+        "family": "Zardini",
+        "given": "E.M."
+      }
+    ],
+    "title": "Una nueva especie del género Senecio L",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Compositae) de Brasil. Boletim do Museu Botânico Municipal. Curitiba",
+    "issued": "1979",
+    "page": "1 5"
+  }
+]

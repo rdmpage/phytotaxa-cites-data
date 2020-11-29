@@ -1,0 +1,240 @@
+[
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "C.A."
+      }
+    ],
+    "title": "Conspectus criticus diatomacearum",
+    "volume": "1",
+    "type": null,
+    "issued": "1830",
+    "page": "1–16"
+  },
+  {
+    "author": [
+      {
+        "family": "Flower",
+        "given": "R.J."
+      },
+      {
+        "family": "Jones",
+        "given": "V.J."
+      },
+      {
+        "family": "Round",
+        "given": "F.E."
+      }
+    ],
+    "title": "The distribution and classification of problematic Fragilaria (virescens v.) exigua Grun./Fragilaria exiguiformis (Grun.) Lange-Bertalot: a new species or a new genus?",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "1996",
+    "page": "41–57"
+  },
+  {
+    "author": [
+      {
+        "family": "Hendey",
+        "given": "N.I."
+      }
+    ],
+    "title": "An introductory account of the smaller algae of British coastal waters",
+    "editor": [
+      {
+        "family": "Bacillariophyceae",
+        "given": "Part V."
+      }
+    ],
+    "publisher": "Her Majesty’s Stationery Office",
+    "type": "book",
+    "issued": "1964",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Hustedt",
+        "given": "F."
+      }
+    ],
+    "title": "Systematische und ökologische Untersuchungen über die Diatomeen-Flora von Java, Bali und Sumatra nach dem Material der Deutschen Limnologischen Sunda-Expedition. \"Tropische Binnengewässer, Band VII\"",
+    "volume": "Supplement 15",
+    "type": "article-journal",
+    "container-title": "Archiv für Hydrobiologie",
+    "issued": "1938",
+    "page": "393–506"
+  },
+  {
+    "author": [
+      {
+        "family": "Krammer",
+        "given": "K."
+      }
+    ],
+    "title": "Die cymbelloiden Diatomeen. Ein Monographie der weltweit bekannten Taxa. Teil 1",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Allgemeines und Encyonema Part. Bibliotheca Diatomologica",
+    "issued": "1997",
+    "page": "1–382"
+  },
+  {
+    "author": [
+      {
+        "family": "Krammer",
+        "given": "K."
+      }
+    ],
+    "title": "Die cymbelloiden Diatomeen. Ein Monographie der weltweit bekannten Taxa. Teil 2. Encyonema Part, Encyonopsis and Cymbellopsis",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Diatomologica",
+    "issued": "1997",
+    "page": "1–463"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      }
+    ],
+    "title": "85 neue taxa und über 100 weitere neu definierte Taxa ergänzend zur Süsswasserflora von Mitteleuropa",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Diatomologica",
+    "issue": "1-4",
+    "issued": "1993",
+    "page": "1–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Moser",
+        "given": "G."
+      }
+    ],
+    "title": "Brachysira, Monographie der Gattung",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Diatomologica",
+    "issued": "1994",
+    "page": "1–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichardt",
+        "given": "E."
+      }
+    ],
+    "title": "Bermerkenswerte Diatomeenfunde aus Bayern. IV. Zwei neue Arten aus den Kleinen Ammerquellen",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Berichte der Bayerischen Botanischen Gesellschaft",
+    "issued": "1997",
+    "page": "61–66"
+  },
+  {
+    "author": [
+      {
+        "family": "Round",
+        "given": "F.E."
+      },
+      {
+        "family": "Crawford",
+        "given": "R.M."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "The diatoms: biology and morphology of the genera",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "1990",
+    "page": "747",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Rumrich",
+        "given": "U."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Rumrich",
+        "given": "M."
+      }
+    ],
+    "title": "Diatoms of the Andes. From Venezuela to Patagonia/Tierra del Fuego and two additional contributions",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2000",
+    "page": "1–673"
+  },
+  {
+    "author": [
+      {
+        "family": "Vijver",
+        "given": "B.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Compère",
+        "given": "P."
+      }
+    ],
+    "title": "Two new freshwater diatom species (Bacillariophyceae) from a small pool in the National Botanic Garden of Belgium",
+    "volume": "142",
+    "type": "article-journal",
+    "container-title": "Belgian Journal of Botany",
+    "issued": "2009",
+    "page": "194–203"
+  },
+  {
+    "author": [
+      {
+        "family": "Werff",
+        "given": "A.",
+        "particle": "Van der"
+      }
+    ],
+    "title": "A new method of concentrating and cleaning diatoms and other organisms",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Verhandlungen Internationalen Vereinigung für Theoretische und Angewandte Limnologie",
+    "issued": "1955",
+    "page": "276–277"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Heurck",
+        "given": "H."
+      }
+    ],
+    "title": "Synopsis des Diatomées de Belgique. Texte",
+    "publisher": "Martin Brouwers & Co., Anvers",
+    "type": "book",
+    "issued": "1885",
+    "page": "235"
+  }
+]

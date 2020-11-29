@@ -1,0 +1,211 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blanco",
+        "given": "M."
+      }
+    ],
+    "title": "Flora de Filipinas",
+    "editor": [
+      {
+        "family": "Sanchez",
+        "given": "D.Miguel"
+      },
+      {
+        "given": "Manila"
+      }
+    ],
+    "type": null,
+    "issued": "1837",
+    "page": "887"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "An account of a new genus of plants, named Rafflesia",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1821",
+    "page": "201–234",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1821.tb00062.x",
+    "DOI": "10.1111/j.1095-8339.1821.tb00062.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheek",
+        "given": "M."
+      },
+      {
+        "family": "Jebb",
+        "given": "M."
+      }
+    ],
+    "title": "Nepenthaceae",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Flora Malesiana",
+    "issued": "2001",
+    "page": "1–161"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheek",
+        "given": "M."
+      },
+      {
+        "family": "Jebb",
+        "given": "M."
+      }
+    ],
+    "title": "Nepenthes alzapan (Nepenthaceae), a new species from Luzon, Philippines",
+    "volume": "100",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "57–60",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.100.1.6",
+    "DOI": "10.11646/phytotaxa.100.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Danser",
+        "given": "B.H."
+      }
+    ],
+    "title": "The Nepenthaceae of the Netherlands Indies",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique de Buitenzorg III",
+    "issued": "1928",
+    "page": "249–438"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Nepenthes northiana sp. nov",
+    "volume": "II",
+    "type": "article-journal",
+    "container-title": "Gardeners’ Chronicle",
+    "issued": "1881",
+    "page": "717"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Jebb",
+        "given": "M."
+      },
+      {
+        "family": "Cheek",
+        "given": "M."
+      }
+    ],
+    "title": "A skeletal revision of Nepenthes",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1997",
+    "page": "1–106"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "899"
+  },
+  {
+    "author": [
+      {
+        "family": "Masters",
+        "given": "M.T."
+      }
+    ],
+    "title": "Nepenthes burkei",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "The Gardeners’ Chronicle, Third Series",
+    "issued": "1889",
+    "page": "492–493"
+  },
+  {
+    "author": [
+      {
+        "family": "Nerz",
+        "given": "J."
+      },
+      {
+        "family": "Alt",
+        "given": "T."
+      },
+      {
+        "family": "Mann",
+        "given": "P."
+      },
+      {
+        "family": "Smith",
+        "given": "T."
+      }
+    ],
+    "title": "Nepenthes sibuyanensis, a new species from Sibuyan, a remote island of the Philippines",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Carnivorous Plant Newsletter",
+    "issued": "1998",
+    "page": "18–23"
+  },
+  {
+    "editor": [
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "Barcelona",
+        "given": "J.F."
+      },
+      {
+        "family": "Nickrent",
+        "given": "D.L."
+      }
+    ],
+    "title": "Co’s Digital Flora of the Philippines",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.philippineplants.org"
+  }
+]

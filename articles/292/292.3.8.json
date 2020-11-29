@@ -1,0 +1,608 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Plantas Hartwegianas: imprimis mexicanas adjectis nonnullis Grahamianis enumerat novasque",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "G. Pamplin, London",
+    "issued": "1840",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Brandegee",
+        "given": "T.S."
+      }
+    ],
+    "title": "Plantae Mexicanae Purpusianae II",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "University of California Publications in Botany",
+    "issued": "1911",
+    "page": "177–194"
+  },
+  {
+    "author": [
+      {
+        "family": "Casper",
+        "given": "S.J."
+      }
+    ],
+    "title": "Monographie der Gattung Pinguicula L",
+    "volume": "127–128",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Botanica",
+    "issued": "1966",
+    "page": "1–209"
+  },
+  {
+    "author": [
+      {
+        "family": "Casper",
+        "given": "S.J."
+      },
+      {
+        "family": "Kondo",
+        "given": "K."
+      }
+    ],
+    "title": "A new species of Pinguicula from Mexico (Lentibulariaceae",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1977",
+    "page": "112–115",
+    "URL": "https://doi.org/10.2307/2805748",
+    "DOI": "10.2307/2805748"
+  },
+  {
+    "author": [
+      {
+        "family": "Cieslak",
+        "given": "T."
+      },
+      {
+        "family": "Polepalli",
+        "given": "J.S."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      },
+      {
+        "family": "Müller",
+        "given": "K."
+      },
+      {
+        "family": "Borsch",
+        "given": "T."
+      },
+      {
+        "family": "Barthlott",
+        "given": "W."
+      },
+      {
+        "family": "Steiger",
+        "given": "J."
+      },
+      {
+        "family": "Marchand",
+        "given": "A."
+      },
+      {
+        "family": "Legendre",
+        "given": "L."
+      }
+    ],
+    "title": "Phylogenetic analysis of Pinguicula (Lentibulariaceae): chloroplast DNA sequences and morphology support several geographically distinct radiations",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2005",
+    "page": "1723–1736",
+    "URL": "https://doi.org/10.3732/ajb.92.10.1723",
+    "DOI": "10.3732/ajb.92.10.1723"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis 8",
+    "publisher": "Masson et Sociorum",
+    "type": "book",
+    "issued": "1844",
+    "page": "684",
+    "publisher-place": "Fortin"
+  },
+  {
+    "author": [
+      {
+        "family": "Ernst",
+        "given": "A."
+      }
+    ],
+    "title": "Revision der Gattung Pinguicula",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher",
+    "issued": "1961",
+    "page": "145–194"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibson",
+        "given": "D.N."
+      }
+    ],
+    "title": "Lentibulariaceae",
+    "editor": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      },
+      {
+        "family": "Williams",
+        "given": "L.O."
+      },
+      {
+        "family": "Gibson",
+        "given": "D.N."
+      }
+    ],
+    "container-title": "Flora of Guatemala X",
+    "volume": null,
+    "issue": "4. Fieldiana, Botany 24",
+    "type": "article-journal",
+    "issued": "1974",
+    "page": "315–328"
+  },
+  {
+    "author": [
+      {
+        "family": "Hijmans",
+        "given": "R.J."
+      },
+      {
+        "family": "Guarino",
+        "given": "L."
+      },
+      {
+        "family": "Jarvis",
+        "given": "A."
+      },
+      {
+        "family": "O’Brien",
+        "given": "R."
+      },
+      {
+        "family": "Mathur",
+        "given": "P."
+      },
+      {
+        "family": "Bussink",
+        "given": "C."
+      },
+      {
+        "family": "Cruz",
+        "given": "M."
+      },
+      {
+        "family": "Barrantes",
+        "given": "I."
+      },
+      {
+        "family": "Rojas",
+        "given": "E."
+      }
+    ],
+    "title": "DIVA-GIS 5.2. A geographic information system for the analysis of species distribution data",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2005",
+    "URL": "http://www.diva-gis.org"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list categories and criteria version 3.1",
+    "edition": "2nd",
+    "publisher": "IUCN Species Survival Commission. IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/static/categories_criteria_3_1"
+  },
+  {
+    "author": [
+      {
+        "family": "Krasilnikov",
+        "given": "P.V."
+      },
+      {
+        "family": "García-Calderón",
+        "given": "N.E."
+      },
+      {
+        "family": "Ibáñez-Huerta",
+        "given": "A."
+      },
+      {
+        "family": "Bazán-Mateos",
+        "given": "M."
+      },
+      {
+        "family": "Hernández-Santana",
+        "given": "J.R."
+      }
+    ],
+    "title": "Soilscapes in the dynamic tropical environments: The case of Sierra Madre del Sur",
+    "volume": "135",
+    "type": "article-journal",
+    "container-title": "Geomorphology",
+    "issued": "2011",
+    "page": "262–270",
+    "URL": "https://doi.org/10.1016/j.geomorph.2011.02.013",
+    "DOI": "10.1016/j.geomorph.2011.02.013"
+  },
+  {
+    "author": [
+      {
+        "family": "Lampard",
+        "given": "S."
+      },
+      {
+        "family": "Gluch",
+        "given": "O."
+      },
+      {
+        "family": "Robinson",
+        "given": "A."
+      },
+      {
+        "family": "Fleischmann",
+        "given": "A."
+      },
+      {
+        "family": "Temple",
+        "given": "P."
+      },
+      {
+        "family": "McPherson",
+        "given": "S."
+      },
+      {
+        "family": "Roccia",
+        "given": "A."
+      },
+      {
+        "family": "Partrat",
+        "given": "E."
+      },
+      {
+        "family": "Legendre",
+        "given": "L."
+      }
+    ],
+    "publisher": "Pinguicula of Latin America. Redfern, Dorset",
+    "type": "book",
+    "issued": "2016",
+    "page": "370"
+  },
+  {
+    "author": [
+      {
+        "family": "Legendre",
+        "given": "L."
+      }
+    ],
+    "title": "The genus Pinguicula L. (Lentibulariaceae): an overview",
+    "volume": "147",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Gallica",
+    "issued": "2000",
+    "page": "77–95",
+    "URL": "https://doi.org/10.1080/12538078.2000.10515837",
+    "DOI": "10.1080/12538078.2000.10515837"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Luhrs",
+        "given": "H."
+      },
+      {
+        "family": "Lampard",
+        "given": "S."
+      }
+    ],
+    "title": "A new species of Pinguicula (Lentibulariaceae) from Nuevo Leon, Mexico",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Carnivorous Plant Newsletter",
+    "issued": "2006",
+    "page": "4–9"
+  },
+  {
+    "author": [
+      {
+        "family": "Mastretta-Yanes",
+        "given": "A."
+      },
+      {
+        "family": "Moreno-Letelier",
+        "given": "A."
+      },
+      {
+        "family": "Piñero",
+        "given": "D."
+      },
+      {
+        "family": "Jorgensen",
+        "given": "T.H."
+      },
+      {
+        "family": "Emerson",
+        "given": "B.C."
+      }
+    ],
+    "title": "Biodiversity in the Mexican highlands and the interaction of geology, geography and climate within the Trans-Mexican Volcanic Belt",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2015",
+    "page": "1586–1600",
+    "URL": "https://doi.org/10.1111/jbi.12546",
+    "DOI": "10.1111/jbi.12546"
+  },
+  {
+    "author": [
+      {
+        "family": "Roccia",
+        "given": "A."
+      },
+      {
+        "family": "Gluch",
+        "given": "O."
+      },
+      {
+        "family": "Lampard",
+        "given": "S."
+      },
+      {
+        "family": "Robinson",
+        "given": "A."
+      },
+      {
+        "family": "Fleischmann",
+        "given": "A."
+      },
+      {
+        "family": "McPherson",
+        "given": "S."
+      },
+      {
+        "family": "Legendre",
+        "given": "L."
+      },
+      {
+        "family": "Partrat",
+        "given": "E."
+      },
+      {
+        "family": "Temple",
+        "given": "P."
+      }
+    ],
+    "title": "Pinguicula of the Temperate North",
+    "volume": "Dorset",
+    "type": "article-journal",
+    "container-title": "Redfern",
+    "issued": "2016",
+    "page": "360"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechtendal",
+        "given": "D.F.L."
+      },
+      {
+        "given": "von"
+      },
+      {
+        "family": "Chamisso",
+        "given": "A.D."
+      }
+    ],
+    "title": "Plantarum mexicanarum a cel. viris Schiede et Deppe collectarum recensio brevis",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1830",
+    "page": "72–174"
+  },
+  {
+    "author": [
+      {
+        "family": "Shimai",
+        "given": "H."
+      },
+      {
+        "family": "Kondo",
+        "given": "K."
+      }
+    ],
+    "title": "Phylogenetic analysis of Mexican and Central American Pinguicula (Lentibulariaceae) based on internal transcribed spacer (ITS) sequence",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Chromosome Botany",
+    "issued": "2007",
+    "page": "67–77",
+    "URL": "https://doi.org/10.3199/iscb.2.67",
+    "DOI": "10.3199/iscb.2.67"
+  },
+  {
+    "author": [
+      {
+        "family": "Speta",
+        "given": "F."
+      },
+      {
+        "family": "Fuchs",
+        "given": "F."
+      }
+    ],
+    "title": "Pinguicula debbertiana (Lentibulariaceae), eine weitere neue Art aus Mexiko",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Linzer Biologische Beiträge",
+    "issued": "1992",
+    "page": "375–380"
+  },
+  {
+    "author": [
+      {
+        "family": "Studnička",
+        "given": "M."
+      }
+    ],
+    "title": "Pinguicula rotundiflora – a new species from Mexico",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Folia Geobotanica & Phytotaxonomica",
+    "issued": "1985",
+    "page": "201–204",
+    "URL": "https://doi.org/10.1007/BF02856091",
+    "DOI": "10.1007/BF02856091"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum, a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamudio Ruiz",
+        "given": "S."
+      }
+    ],
+    "title": "Revisión de la sección Orcheosanthus del género Pinguicula (Lentibulariaceae",
+    "genre": "Doctoral thesis,",
+    "publisher": "Universidad Nacional Autónoma de México, Ciudad de México, México",
+    "type": "thesis",
+    "issued": "2001",
+    "page": "225"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamudio Ruiz",
+        "given": "S."
+      }
+    ],
+    "title": "Dos especies nuevas de Pinguicula (Lentibulariaceae) de la Sierra Madre Oriental, México",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "2005",
+    "page": "69–83",
+    "URL": "https://doi.org/10.21829/abm70.2005.988",
+    "DOI": "10.21829/abm70.2005.988"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamudio Ruiz",
+        "given": "S."
+      },
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      }
+    ],
+    "title": "Tres especies nuevas de Pinguicula (Lentibulariaceae) de Mexico",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1986",
+    "page": "255–265"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamudio Ruiz",
+        "given": "S."
+      },
+      {
+        "family": "Lux",
+        "given": "A."
+      }
+    ],
+    "title": "Una nueva especie gipsícola de Pinguicula (Lentibulariaceae), de Nuevo León, México",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "1992",
+    "page": "39–44",
+    "URL": "https://doi.org/10.21829/abm20.1992.655",
+    "DOI": "10.21829/abm20.1992.655"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamudio Ruiz",
+        "given": "S."
+      },
+      {
+        "family": "Marm",
+        "given": "J.",
+        "particle": "van"
+      }
+    ],
+    "title": "Pinguicula conzattii (Lentibulariaceae), una especie nueva del estado de Oaxaca, Mexico",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "2003",
+    "page": "16–20",
+    "URL": "https://doi.org/10.21829/abm62.2003.912",
+    "DOI": "10.21829/abm62.2003.912"
+  }
+]

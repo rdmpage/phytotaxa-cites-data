@@ -1,0 +1,407 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Global diversity and molecular systematic of Wrightoporia s. l",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Russulales, Basidiomycota). Persoonia",
+    "issued": "2016",
+    "page": "21–36",
+    "URL": "https://doi.org/10.3767/003158516X689666",
+    "DOI": "10.3767/003158516X689666"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Korhonen",
+        "given": "K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Phylogeny, divergence time estimation, and biogeography of the genus Heterobasidion (Basidiomycota, Russulales",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "185–200",
+    "URL": "https://doi.org/10.1007/s13225-014-0317-2",
+    "DOI": "10.1007/s13225-014-0317-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Hymenochaetaceae (Basidiomycota) in China",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2010",
+    "page": "131–343",
+    "URL": "https://doi.org/10.1007/s13225-010-0066-9",
+    "DOI": "10.1007/s13225-010-0066-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "A simple, fast and accurate algorithm to estimate large phylogenies by maximum-likelihood",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Systems Biology",
+    "issued": "2003",
+    "page": "696–704",
+    "URL": "https://doi.org/10.1080/10635150390235520",
+    "DOI": "10.1080/10635150390235520"
+  },
+  {
+    "author": [
+      {
+        "family": "Ji",
+        "given": "X.H."
+      },
+      {
+        "family": "He",
+        "given": "S.H."
+      },
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Si",
+        "given": "J."
+      },
+      {
+        "family": "Wu",
+        "given": "F."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Vlasák",
+        "given": "J."
+      },
+      {
+        "family": "Tian",
+        "given": "X.M."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Global diversity and phylogeny of Onnia (Hymenochaetaceae) species on gymnosperms",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2017",
+    "page": "27–34",
+    "URL": "https://doi.org/10.1080/00275514.2016.1274619",
+    "DOI": "10.1080/00275514.2016.1274619"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      },
+      {
+        "family": "Parmasto",
+        "given": "E."
+      },
+      {
+        "family": "Fischer",
+        "given": "M."
+      },
+      {
+        "family": "Langer",
+        "given": "E."
+      },
+      {
+        "family": "Nakasone",
+        "given": "K."
+      },
+      {
+        "family": "Redhead",
+        "given": "S."
+      }
+    ],
+    "title": "Hymenochaetales: a molecular phylogeny for the hymenochaetoid clade",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2006",
+    "page": "926–936",
+    "URL": "https://doi.org/10.1080/15572536.2006.11832622",
+    "DOI": "10.1080/15572536.2006.11832622"
+  },
+  {
+    "author": [
+      {
+        "family": "Niemelä",
+        "given": "T."
+      }
+    ],
+    "title": "Polypores, lignicolous fungi",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Norrlinia",
+    "issued": "2005",
+    "page": "1–320"
+  },
+  {
+    "author": [
+      {
+        "family": "Pattengale",
+        "given": "N.D."
+      },
+      {
+        "family": "Alipour",
+        "given": "M."
+      },
+      {
+        "family": "Bininda-Emonds",
+        "given": "O.R.P."
+      },
+      {
+        "family": "Moret",
+        "given": "B.M.E."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "How many bootstrap replicates are necessary?",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Journal of Computational Biology",
+    "issued": "2010",
+    "page": "337–354",
+    "URL": "https://doi.org/",
+    "DOI": "10.1089/cmb.2009.0179"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "J.H."
+      }
+    ],
+    "title": "Farvekort. The Danish Mycological Society’s colour-chart",
+    "volume": "Greve. 6",
+    "type": "article-journal",
+    "container-title": "Foreningen til Svampekundskabens Fremme",
+    "issued": "1996",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "raxmlGUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity and Evolution",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "https://doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "T."
+      },
+      {
+        "family": "Fischer",
+        "given": "M."
+      }
+    ],
+    "title": "Proceedings towards a natural classification of the worldwide taxa Phellinus s.l. and Inonotus s.l., and phylogenetic relationships of allied genera",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2002",
+    "page": "998–1016"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gefand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "J.T."
+      }
+    ],
+    "container-title": "PCR Protocols: a guide to methods and applications (eds",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  }
+]

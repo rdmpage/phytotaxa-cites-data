@@ -1,0 +1,972 @@
+[
+  {
+    "author": [
+      {
+        "family": "Arnell",
+        "given": "S."
+      }
+    ],
+    "title": "Contributions to the knowledge of the hepatics of Novaya Zemlya",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Svensk Botanisk Tidskrift",
+    "issued": "1947",
+    "page": "209–217"
+  },
+  {
+    "author": [
+      {
+        "family": "Arnell",
+        "given": "S."
+      }
+    ],
+    "title": "Illustrated moss flora of Fennoscandia. I",
+    "publisher": "Hepatacae. Gleerup, Lund",
+    "type": "book",
+    "issued": "1956",
+    "page": "308"
+  },
+  {
+    "author": [
+      {
+        "family": "Clement",
+        "given": "M."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "TCS: a computer program to estimate gene genealogies",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "2000",
+    "page": "1657–1659"
+  },
+  {
+    "author": [
+      {
+        "family": "Crandall-Stotler",
+        "given": "B."
+      },
+      {
+        "family": "Stotler",
+        "given": "R.E."
+      }
+    ],
+    "title": "Morphology and classification of the Marchantiophyta",
+    "editor": [
+      {
+        "family": "Shaw",
+        "given": "A.J."
+      },
+      {
+        "family": "Goffinet",
+        "given": "B."
+      }
+    ],
+    "container-title": "Bryophyte Biology",
+    "publisher": "Cambridge Univ. Press, Cambrige",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "21–70"
+  },
+  {
+    "author": [
+      {
+        "family": "Crandall-Stotler",
+        "given": "B."
+      },
+      {
+        "family": "Stotler",
+        "given": "R.E."
+      },
+      {
+        "family": "Long",
+        "given": "D.G."
+      }
+    ],
+    "title": "Phylogeny and classification of the Marchantiophyta",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Edinburgh Journal of Botany",
+    "issued": "2009",
+    "page": "155–198"
+  },
+  {
+    "author": [
+      {
+        "family": "Damsholt",
+        "given": "K."
+      }
+    ],
+    "title": "Illustrated flora of Nordic liverworts and hornworts",
+    "volume": "Lund",
+    "type": "article-journal",
+    "container-title": "Nord. Bryol. Soc",
+    "issued": "2002",
+    "page": "840"
+  },
+  {
+    "author": [
+      {
+        "family": "De Roo",
+        "given": "R.T."
+      },
+      {
+        "family": "Hedderson",
+        "given": "T.A."
+      },
+      {
+        "family": "Söderström",
+        "given": "L."
+      }
+    ],
+    "title": "Molecular insights into the phylogeny of the leafy liverwort family Lophoziaceae Cavers",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2007",
+    "page": "310–314"
+  },
+  {
+    "author": [
+      {
+        "family": "Goloboff",
+        "given": "P."
+      },
+      {
+        "family": "Farris",
+        "given": "S."
+      },
+      {
+        "family": "Nixon",
+        "given": "K."
+      }
+    ],
+    "title": "TNT (Tree analysis using New Technology",
+    "note": "BETA) ver. 1.0. Program and documentation, available from the authors, and at",
+    "type": null,
+    "issued": "2003",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Grolle",
+        "given": "R."
+      }
+    ],
+    "title": "Miscellanea hepaticologica 111-120",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Bryological Society",
+    "issued": "1971",
+    "page": "258–265"
+  },
+  {
+    "author": [
+      {
+        "family": "Grolle",
+        "given": "R."
+      }
+    ],
+    "title": "Nomina generica Hepaticarum: references, types and synonymies",
+    "volume": "121",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Fennica",
+    "issued": "1983",
+    "page": "1–62"
+  },
+  {
+    "author": [
+      {
+        "family": "Grolle",
+        "given": "R."
+      },
+      {
+        "family": "Long",
+        "given": "D.G."
+      }
+    ],
+    "title": "An annotated check-list of the Hepaticae and Anthocerotae of Europe and Macaronesia",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Journal of Bryology",
+    "issued": "2000",
+    "page": "103–141"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2003",
+    "page": "696–704"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinrichs",
+        "given": "J."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Wilson",
+        "given": "R."
+      },
+      {
+        "family": "Schneider",
+        "given": "H."
+      }
+    ],
+    "title": "Towards a natural classification of liverworts (Marchantiophyta) based on the chloroplast gene rbcL",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Cryptogamie, Bryologie",
+    "issued": "2005",
+    "page": "131–150"
+  },
+  {
+    "author": [
+      {
+        "family": "Jankowiak",
+        "given": "K."
+      },
+      {
+        "family": "Sweykowska-Kulińska",
+        "given": "Z."
+      }
+    ],
+    "title": "Organellar inheritance in the allopolyploid liverwort species Porella baueri (Porellaceae): reconstructing historical events using DNA sequence analysis",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "2004",
+    "page": "404–414"
+  },
+  {
+    "author": [
+      {
+        "family": "Keane",
+        "given": "T.M."
+      },
+      {
+        "family": "Naughton",
+        "given": "T.J."
+      },
+      {
+        "family": "McInerney",
+        "given": "J.O."
+      }
+    ],
+    "title": "ModelGenerator: amino acid and nucleotide substitution model selection",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "URL": "http://bioinf.nuim.ie/modelgenerator"
+  },
+  {
+    "author": [
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      }
+    ],
+    "title": "Distribution patterns of the North Holarctic hepatics",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Arctoa",
+    "issued": "2000",
+    "page": "29–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Vilnet",
+        "given": "A.A."
+      }
+    ],
+    "title": "New taxa and new combinations in Jungermanniales (Hepaticae",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Arctoa",
+    "issued": "2009",
+    "page": "65–67"
+  },
+  {
+    "author": [
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Bakalin",
+        "given": "V.A."
+      },
+      {
+        "family": "E.N.",
+        "given": "Andreeva"
+      },
+      {
+        "family": "A.G.",
+        "given": "Bezgodov"
+      },
+      {
+        "family": "E.A.",
+        "given": "Borovichev"
+      },
+      {
+        "family": "M.V.",
+        "given": "Dulin"
+      },
+      {
+        "family": "Yu.S",
+        "given": "Mamontov"
+      }
+    ],
+    "title": "Checklist of liverworts (Marchantiophyta) of Russia",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Arctoa",
+    "issued": "2009",
+    "page": "1–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Kovarik",
+        "given": "A."
+      },
+      {
+        "family": "Pires",
+        "given": "J.C."
+      },
+      {
+        "family": "Leitch",
+        "given": "A.R."
+      },
+      {
+        "family": "Lim",
+        "given": "K.Y."
+      },
+      {
+        "family": "Sherwood",
+        "given": "A.M."
+      },
+      {
+        "family": "Matyasek",
+        "given": "R."
+      },
+      {
+        "family": "Rocca",
+        "given": "J."
+      },
+      {
+        "family": "Soltis",
+        "given": "D.E."
+      },
+      {
+        "family": "Soltis",
+        "given": "P.S."
+      }
+    ],
+    "title": "Rapid concerted evolution of nuclear ribosomal DNA in two Tragopogon allopolyploids of recent and recurrent origin",
+    "volume": "169",
+    "type": "article-journal",
+    "container-title": "Genetics",
+    "issued": "2004",
+    "page": "931–944"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Nei",
+        "given": "M."
+      }
+    ],
+    "title": "MEGA3: Integrated software for Molecular Evolutionary Genetics Analysis and sequence alignment",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Briefings in Bioinformatics",
+    "issued": "2004",
+    "page": "150–163"
+  },
+  {
+    "author": [
+      {
+        "family": "Lammes",
+        "given": "T."
+      }
+    ],
+    "title": "Barbilophozia hatcheri var. grandiretis, var. nova (Hepaticae: Jungermanniaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "1977",
+    "page": "70–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Löske",
+        "given": "L."
+      }
+    ],
+    "title": "Bryologishe Beobachtungen aus der Algauer Aplen von Löske und Osterwald",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Verhandlungen des Botanischen Vereins der Provinz Brandenburg",
+    "issued": "1907",
+    "page": "30–65"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "K."
+      }
+    ],
+    "title": "Die Lebermoose Deutschlaands, Oesterreichs und der Schweiz. I",
+    "publisher": "Verlag von Eduard Kummer, Leipzig",
+    "type": "book",
+    "issued": "1906",
+    "page": "870"
+  },
+  {
+    "author": [
+      {
+        "family": "Natcheva",
+        "given": "R."
+      },
+      {
+        "family": "Cronberg",
+        "given": "N."
+      }
+    ],
+    "title": "Maternal transmission of cytoplasmic DNA in interspecific hybrids of peat mosses, Sphagnum (Bryophyta",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Journal of Evolutionary Biology",
+    "issued": "2007",
+    "page": "1613–1616"
+  },
+  {
+    "author": [
+      {
+        "family": "Pacak",
+        "given": "A."
+      },
+      {
+        "family": "Szweykowska-Kulińska",
+        "given": "Z."
+      }
+    ],
+    "title": "Organellar inheritance in liverworts: an example of Pellia borealis",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Journal of Evolutionary Biology",
+    "issued": "2003",
+    "page": "11–17"
+  },
+  {
+    "author": [
+      {
+        "family": "Paton",
+        "given": "J.A."
+      }
+    ],
+    "title": "The liverwort flora of the Brithish Isles",
+    "publisher": "Harley Books, Colchester",
+    "type": "book",
+    "issued": "1999",
+    "page": "626"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574"
+  },
+  {
+    "author": [
+      {
+        "family": "Schljakov",
+        "given": "R.N."
+      }
+    ],
+    "title": "Hepaticae of the North of the U.S.S.R",
+    "container-title": "V.3",
+    "publisher": "Lophoziaceae-Mesoptychiaceae. Nauka, Leningrad",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "188"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumacker",
+        "given": "R."
+      },
+      {
+        "family": "Váňa",
+        "given": "J."
+      }
+    ],
+    "title": "Identification keys to the liverworts and hornworts of Europe end Macaronesia (distribution and status",
+    "volume": "Poznan",
+    "type": "article-journal",
+    "container-title": "Sorus",
+    "issued": "2005",
+    "page": "211"
+  },
+  {
+    "author": [
+      {
+        "family": "Schuster",
+        "given": "R.M."
+      }
+    ],
+    "title": "Evolution, phylogeny and classification of the Hepaticae",
+    "editor": [
+      {
+        "family": "Schuster",
+        "given": "R.M."
+      }
+    ],
+    "container-title": "New manual of Bryology. Journal of the Hattori Botanical Laboratory",
+    "type": "article-journal",
+    "issued": "1984",
+    "page": "892–1071",
+    "publisher-place": "Nichinan, Miyazaki, Japan"
+  },
+  {
+    "author": [
+      {
+        "family": "Schuster",
+        "given": "R.M."
+      }
+    ],
+    "title": "The Hepaticae and Anthocerotae of North America east of the hundredth meridian",
+    "volume": "2",
+    "publisher": "Columbia University Press",
+    "type": "book",
+    "issued": "1969",
+    "page": null,
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Schuster",
+        "given": "R.M."
+      },
+      {
+        "family": "Damsholt",
+        "given": "K."
+      }
+    ],
+    "title": "Some new taxa of Jungermanniales",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1987",
+    "page": "325–328"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "A.J."
+      },
+      {
+        "family": "Pokorny",
+        "given": "L."
+      },
+      {
+        "family": "Shaw",
+        "given": "B."
+      },
+      {
+        "family": "Ricca",
+        "given": "M."
+      },
+      {
+        "family": "Boles",
+        "given": "S."
+      },
+      {
+        "family": "Szövényi",
+        "given": "P."
+      }
+    ],
+    "title": "Genetic structure and genealogy in the Sphagnum subsecundum complex (Sphagnaceae; Bryophyta",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2008",
+    "page": "304–317"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "A.J."
+      }
+    ],
+    "title": "Bryophyte species and speciation",
+    "editor": [
+      {
+        "family": "Shaw",
+        "given": "A.J."
+      },
+      {
+        "family": "Goffinet",
+        "given": "B."
+      }
+    ],
+    "container-title": "Bryophyte Biology",
+    "publisher": "Cambridge Univ. Press., Cambrige",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "445–486"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Beck",
+        "given": "J."
+      },
+      {
+        "family": "Farmer",
+        "given": "S.B."
+      },
+      {
+        "family": "Liu",
+        "given": "W."
+      },
+      {
+        "family": "Miller",
+        "given": "J."
+      },
+      {
+        "family": "Siripun",
+        "given": "K.C."
+      },
+      {
+        "family": "Winder",
+        "given": "C."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      }
+    ],
+    "title": "The tortoise and the hare II: relative utility of 21 noncoding chloroplast DNA sequences for phylogenetic analysis",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2005",
+    "page": "142–166"
+  },
+  {
+    "author": [
+      {
+        "family": "Söderström",
+        "given": "L."
+      },
+      {
+        "family": "De Roo",
+        "given": "R."
+      },
+      {
+        "family": "Hedderson",
+        "given": "T."
+      }
+    ],
+    "title": "Taxonomic novelties resulting from recent reclassification of the Lophoziaceae/Scapaniaceae clade",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2010",
+    "page": "47–53"
+  },
+  {
+    "author": [
+      {
+        "family": "Söderström",
+        "given": "L."
+      },
+      {
+        "family": "Karttunen",
+        "given": "K."
+      },
+      {
+        "family": "Hedenäs",
+        "given": "L."
+      }
+    ],
+    "title": "Nomenclatural notes on Fennoscandian bryophytes",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "1992",
+    "page": "119–122"
+  },
+  {
+    "author": [
+      {
+        "family": "Szweykowska-Kulińska",
+        "given": "Z."
+      },
+      {
+        "family": "Pacak",
+        "given": "A."
+      },
+      {
+        "family": "Jankowiak",
+        "given": "K."
+      }
+    ],
+    "title": "New DNA markers for discrimination between closely-related species and for the reconstruction of historical events; an example using liverworts",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Cellular and molecular biology letters",
+    "issued": "2002",
+    "page": "403–416"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilnet",
+        "given": "A.A."
+      },
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Troitsky",
+        "given": "A.V."
+      }
+    ],
+    "title": "Molecular insight on phylogeny and systematics of the Lophoziaceae, Scapaniaceae, Gymnomitriaceae and Jungermanniaceae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Arctoa",
+    "issued": "2010",
+    "page": "31–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilnet",
+        "given": "A.A."
+      },
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Troitsky",
+        "given": "A.V."
+      }
+    ],
+    "title": "Phylogeny and systematics of the genus Lophozia s. str. (Dumort.) Dumort. (Hepaticae) and related taxa from nuclear ITS1-2 and chloroplast trnL-F sequences",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2008",
+    "page": "403–418"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilnet",
+        "given": "A.A."
+      },
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Troitsky",
+        "given": "A.V."
+      }
+    ],
+    "title": "Genosystematics and new insight into the phylogeny and taxonomy of liverworts",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Molecular biology",
+    "issued": "2009",
+    "page": "845–855"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "M.A.",
+        "given": "Innis"
+      },
+      {
+        "family": "D.H.",
+        "given": "Geifand"
+      },
+      {
+        "family": "J.J.",
+        "given": "Snisky"
+      },
+      {
+        "family": "T.J",
+        "given": "White"
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego, CA"
+  },
+  {
+    "author": [
+      {
+        "family": "Yatsentyuk",
+        "given": "S.P."
+      },
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Ignatov",
+        "given": "M.S."
+      },
+      {
+        "family": "Hyvönen",
+        "given": "J."
+      },
+      {
+        "family": "Troitsky",
+        "given": "A.V."
+      }
+    ],
+    "title": "On phylogeny of Lophoziaceae and related families (Hepaticae, Jungermanniales) based on trnL-trnF intron-spacer sequences of chloroplast DNA",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "2004",
+    "page": "150–167"
+  }
+]

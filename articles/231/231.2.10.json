@@ -1,0 +1,439 @@
+[
+  {
+    "author": [
+      {
+        "family": "Dorr",
+        "given": "L.J."
+      },
+      {
+        "family": "Nicolson",
+        "given": "D.H.A."
+      }
+    ],
+    "title": "Taxonomic Literature. A selective guide to botanical publications and collections, with dates, commentaries and types",
+    "volume": "8. Regnum Vegetabile 150",
+    "type": "article-journal",
+    "container-title": "Suppl",
+    "issued": "2009",
+    "page": "1–558"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "literal": "XXXVII. Ranunculaceae africanae."
+      }
+    ],
+    "title": "Beiträge zur Flora von Afrika",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1910",
+    "page": "266–275"
+  },
+  {
+    "author": [
+      {
+        "family": "Exell",
+        "given": "A.W."
+      },
+      {
+        "family": "Milne-Redhead",
+        "given": "E."
+      }
+    ],
+    "title": "Ranunculaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Flora Zambesiaca",
+    "issued": "1960",
+    "page": "89–102"
+  },
+  {
+    "author": [
+      {
+        "family": "Fresenius",
+        "given": "G."
+      }
+    ],
+    "title": "Beiträge zur Flora von Abyssinien",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Museum Senckenbergianum",
+    "issued": "1837",
+    "page": "265–286"
+  },
+  {
+    "author": [
+      {
+        "family": "Friis",
+        "given": "I."
+      }
+    ],
+    "title": "The scientific study of the flora of Ethiopia and Eritrea up to the beginning of the Ethiopian flora project (1980",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Flora of Ethiopia and Eritrea",
+    "issued": "2009",
+    "page": "5–25"
+  },
+  {
+    "author": [
+      {
+        "family": "Huth",
+        "given": "E."
+      }
+    ],
+    "title": "Monographie der Gattung Delphinium. Botanische Jahrbücher für Systematik",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1895",
+    "page": "322–499",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.15558",
+    "DOI": "10.5962/bhl.title.15558"
+  },
+  {
+    "author": [
+      {
+        "family": "Plants",
+        "given": "J.S.T.O.R.Global"
+      }
+    ],
+    "title": "JSTOR Global Plants",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://plants.jstor.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Lobin",
+        "given": "W."
+      }
+    ],
+    "title": "Über die von Eduard Rüppell in Ägypten und Abyssinien sowie auf der Sinai-Halbinsel gesammelten Pflanzen (Phanerogamae",
+    "volume": "217",
+    "type": "article-journal",
+    "container-title": "Courier Forschungsinstitut Senckenberg",
+    "issued": "1999",
+    "page": "5–28"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud-Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International code of nomenclature for algae, fungi and plants (Melbourne code",
+    "volume": "154",
+    "type": "article-journal",
+    "container-title": "Regnum Vegetabile",
+    "issued": "2012",
+    "page": "1–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Milne-Redhead",
+        "given": "E."
+      },
+      {
+        "family": "Turrill",
+        "given": "W.B."
+      }
+    ],
+    "title": "Ranunculaceae",
+    "editor": [
+      {
+        "family": "Turrill",
+        "given": "W.B."
+      },
+      {
+        "family": "Milne-Redhead",
+        "given": "E."
+      }
+    ],
+    "container-title": "Flora of Tropical East Africa. The Crown Agents for the Colonies",
+    "type": "chapter",
+    "issued": "1952",
+    "page": "1–23",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Munz",
+        "given": "P.A."
+      }
+    ],
+    "title": "A synopsis of African species of Delphinium and Consolida",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1967",
+    "page": "30–55"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliver",
+        "given": "D."
+      }
+    ],
+    "title": "Flora of Tropical Africa",
+    "volume": "1",
+    "container-title": "Ranunculaceae to Connaraceae. L",
+    "publisher": "Reeve & Co., London",
+    "type": "chapter",
+    "issued": "1868",
+    "page": "479",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.48808",
+    "DOI": "10.5962/bhl.title.48808"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliver",
+        "given": "D."
+      }
+    ],
+    "title": "Catalogue of the plants collected by Mr",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "J. Thomson in East Tropical Africa. Journal of the Linnean Society: Botany",
+    "issued": "1886",
+    "page": "397–406"
+  },
+  {
+    "author": [
+      {
+        "family": "Richard",
+        "given": "A."
+      }
+    ],
+    "title": "Ranunculaceae",
+    "editor": [
+      {
+        "family": "Richard",
+        "given": "A."
+      },
+      {
+        "family": "Lefebvre",
+        "given": "C.T."
+      },
+      {
+        "family": "Petit",
+        "given": "A."
+      },
+      {
+        "family": "Quartin-Dillon",
+        "given": "M."
+      }
+    ],
+    "container-title": "Tentamen Florae Abyssinicae",
+    "publisher": "Arthus Bertrand",
+    "type": "chapter",
+    "issued": "1847",
+    "page": "1–8",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature 1",
+    "editor": [
+      {
+        "literal": "Ed. 2. Bohn, Scheltema & Holkema"
+      }
+    ],
+    "type": null,
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Utrecht",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.48631",
+    "DOI": "10.5962/bhl.title.48631"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature 4",
+    "editor": [
+      {
+        "literal": "Ed. 2. Bohn, Scheltema & Holkema"
+      }
+    ],
+    "type": null,
+    "issued": "1983",
+    "page": null,
+    "publisher-place": "Utrecht",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.48631",
+    "DOI": "10.5962/bhl.title.48631"
+  },
+  {
+    "author": [
+      {
+        "family": "Staner",
+        "given": "P."
+      }
+    ],
+    "title": "Révision des Renonculacées du Congo Belge 1",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin botanique de l’Etat à Bruxelles",
+    "issued": "1939",
+    "page": "307–317",
+    "URL": "http://dx.doi.org/10.2307/3666751",
+    "DOI": "10.2307/3666751"
+  },
+  {
+    "author": [
+      {
+        "family": "Teketay",
+        "given": "D."
+      }
+    ],
+    "title": "Ranunculaceae",
+    "editor": [
+      {
+        "family": "Edwards",
+        "given": "S."
+      },
+      {
+        "family": "Tadesse",
+        "given": "M."
+      },
+      {
+        "family": "Demissew",
+        "given": "S."
+      },
+      {
+        "family": "Hedberg",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora of Ethiopia and Eritrea 2",
+    "publisher": "The National Herbarium Addis Ababa University, Addis Ababa",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "18–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Triebel",
+        "given": "D."
+      },
+      {
+        "family": "Scholz",
+        "given": "P."
+      }
+    ],
+    "title": "IndExs - Index of Exsiccatae. Botanische Staatssammlung München, Munich Germany",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "URL": "http://indexs.botanischestaatssammlung.de/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wörz",
+        "given": "A."
+      }
+    ],
+    "title": "The “Botanische Reiseverein” - a 19th-century joint stock company for the collecting of herbarium specimens",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Huntia",
+    "issued": "2007",
+    "page": "121–141"
+  }
+]

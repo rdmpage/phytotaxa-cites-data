@@ -1,0 +1,643 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "C.-H."
+      }
+    ],
+    "title": "Begoniaceae. In: Editorial Committee of the Flora of Taiwan",
+    "edition": "Second Edition (",
+    "container-title": "Flora of Taiwan",
+    "volume": "3",
+    "publisher": "Editorial Committee of the Flora of Taiwan, Second Edition",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "845–854",
+    "publisher-place": "Taipei"
+  },
+  {
+    "author": [
+      {
+        "given": "D.D.B.J."
+      }
+    ],
+    "title": "DNA Data of Bank of Japan, National Institute of Genetics",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1983",
+    "publisher-place": "Japan, Mishima",
+    "URL": "http://www.ddbj.nig.ac.jp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.",
+        "particle": "de"
+      }
+    ],
+    "title": "Mémoire sur la famille des Bégoniacées. Annales des Sciences Naturelles",
+    "volume": "4 11",
+    "type": "article-journal",
+    "container-title": "Botanique. Ser",
+    "issued": "1859",
+    "page": "93–149"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.",
+        "particle": "de"
+      }
+    ],
+    "title": "Begoniaceae. Prodromus systematis naturalis regni vegetabilis",
+    "volume": "15",
+    "publisher": "Victoris Masson et filii",
+    "issue": "1",
+    "type": "book",
+    "issued": "1864",
+    "page": "266–408",
+    "publisher-place": "Parisiis"
+  },
+  {
+    "author": [
+      {
+        "family": "Doorenbos",
+        "given": "J.M."
+      },
+      {
+        "family": "Sosef",
+        "given": "M.S."
+      },
+      {
+        "family": "Wilde",
+        "given": "J.J.F.E.",
+        "particle": "de"
+      }
+    ],
+    "title": "The sections of Begonia including descriptions, keys and species lists. Studies in Begoniaceae VI",
+    "volume": "98",
+    "publisher": "Wageningen Agricultural University",
+    "type": "article-journal",
+    "container-title": "Wageningen Agricultural University Papers",
+    "issue": "2",
+    "issued": "1998",
+    "page": "1–266",
+    "publisher-place": "Wageningen"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "BEAST: Bayesian evolutionary analysis by sampling trees",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2007",
+    "page": "214",
+    "URL": "http://dx.doi.org/10.1186/1471-2148-7-214",
+    "DOI": "10.1186/1471-2148-7-214"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://dx.doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Golding",
+        "given": "J."
+      },
+      {
+        "family": "Wasshausen",
+        "given": "D.C."
+      }
+    ],
+    "editor": [
+      {
+        "given": "Begoniaceae"
+      }
+    ],
+    "title": "2",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Contributions from the United States National Herbarium",
+    "issued": "2002",
+    "page": "1–289"
+  },
+  {
+    "author": [
+      {
+        "family": "Hatusima",
+        "given": "S."
+      }
+    ],
+    "title": "Flora of the Ryukyus (added and corrected",
+    "publisher": "Okinawa Association of Biology Education",
+    "type": "book",
+    "issued": "1975",
+    "page": null,
+    "publisher-place": "Naha"
+  },
+  {
+    "author": [
+      {
+        "family": "Hughes",
+        "given": "M."
+      }
+    ],
+    "title": "An Annotated Checklist of Southeast Asian Begonia",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Garden Edinburgh, Edinburgh",
+    "issued": "2008",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hughes",
+        "given": "M."
+      },
+      {
+        "family": "Coyle",
+        "given": "C."
+      },
+      {
+        "family": "Rubite",
+        "given": "R.R."
+      }
+    ],
+    "title": "A revision of Begonia section Diploclinium (Begoniaceae) on the Philippine island of Palawan, including five new species",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Edinburgh Journal of Botany",
+    "issued": "2010",
+    "page": "123–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Hughes",
+        "given": "M."
+      },
+      {
+        "family": "Rubite",
+        "given": "R.R."
+      },
+      {
+        "family": "Kono",
+        "given": "Y."
+      },
+      {
+        "family": "Peng",
+        "given": "C.-I."
+      }
+    ],
+    "title": "Begonia blancii (sect. Diploclinium, Begoniaceae), a new species endemic to the Philippine island of Palawan",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issued": "2011",
+    "page": "203–209"
+  },
+  {
+    "author": [
+      {
+        "family": "Kiew",
+        "given": "R."
+      }
+    ],
+    "title": "Begonias of Peninsular Malaysia",
+    "publisher": "National History Publications, Borneo",
+    "type": "book",
+    "issued": "2005",
+    "page": "308",
+    "publisher-place": "Kota Kinabalu"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Begoniaceen-Gattungen und Arten",
+    "publisher": "Abhandlungen der Königlichen Akademie der Wissenschaften",
+    "type": "book",
+    "issued": "1855",
+    "page": "135 12",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Begoniaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Species plantarum",
+    "issued": "1753",
+    "page": "1056",
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "On a collection of plants from the Batanes and Babuyanes Islands",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Philippine Journal of Science, section C, Botany",
+    "issued": "1908",
+    "page": "385–442"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "The Philippine species of Begonia",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Philippine Journal of Science, section C, Botany",
+    "issued": "1912",
+    "page": "369–406"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "New or noteworthy Philippine plants, XIII",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Philippine Journal of Science, section C, Botany",
+    "issued": "1918",
+    "page": "1–66"
+  },
+  {
+    "author": [
+      {
+        "family": "Murray",
+        "given": "M."
+      },
+      {
+        "family": "Thompson",
+        "given": "W.F."
+      }
+    ],
+    "title": "Rapid isolation of high molecular weight plant DNA",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1980",
+    "page": "4321–4326",
+    "URL": "http://dx.doi.org/10.1093/nar/8.19.4321",
+    "DOI": "10.1093/nar/8.19.4321"
+  },
+  {
+    "author": [
+      {
+        "family": "Oginuma",
+        "given": "K."
+      },
+      {
+        "family": "Peng",
+        "given": "C.-I."
+      }
+    ],
+    "title": "Karyomorphology of Taiwanese Begonia (Begoniaceae): taxonomic implications",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Journal of Plant Research",
+    "issued": "2002",
+    "page": "225–235",
+    "URL": "http://dx.doi.org/10.1007/s102650200028",
+    "DOI": "10.1007/s102650200028"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.D.M."
+      }
+    ],
+    "title": "TreeView: An application to display phylogenetic trees on personal computers",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Computer Applications in the Bioscience",
+    "issued": "1996",
+    "page": "357–358",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/12.4.357",
+    "DOI": "10.1093/bioinformatics/12.4.357"
+  },
+  {
+    "author": [
+      {
+        "family": "Peng",
+        "given": "C.-I."
+      },
+      {
+        "family": "Ku",
+        "given": "S.-M."
+      },
+      {
+        "family": "Kono",
+        "given": "Y."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      }
+    ],
+    "title": "Begonia chongzuoensis (sect. Coelocentrum, Begoniaceae), a new calciphile from Guangxi, China",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issued": "2012",
+    "page": "283–290"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Rubite",
+        "given": "R.R."
+      }
+    ],
+    "title": "Systematic studies on Philippine Begonia L. section Diploclinium (Lindl.) A.DC",
+    "publisher": "Begoniaceae). De La Salle University, Manila",
+    "type": "book",
+    "issued": "2010",
+    "page": "321"
+  },
+  {
+    "author": [
+      {
+        "family": "Rubite",
+        "given": "R.R."
+      }
+    ],
+    "title": "Delimitation of Begonia L. sections Diploclinium and Baryandra (Begoniaceae) in the Philippines",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Asia Life Sciences",
+    "issued": "2012",
+    "page": "363–373"
+  },
+  {
+    "author": [
+      {
+        "family": "Rubite",
+        "given": "R.R."
+      },
+      {
+        "family": "Madulid",
+        "given": "D.A."
+      }
+    ],
+    "title": "The discovery of Philippine Begonias",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "2009",
+    "page": "267–268",
+    "URL": "http://dx.doi.org/10.3767/000651909x476256",
+    "DOI": "10.3767/000651909x476256"
+  },
+  {
+    "author": [
+      {
+        "family": "Rubite",
+        "given": "R.R."
+      },
+      {
+        "family": "Hughes",
+        "given": "M."
+      },
+      {
+        "family": "Alejandro",
+        "given": "G.J.D."
+      },
+      {
+        "family": "Peng",
+        "given": "C.-I."
+      }
+    ],
+    "title": "Recircumscription of Begonia sect. Baryandra (Begoniaceae): evidence from molecular data",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issued": "2013",
+    "page": "38",
+    "URL": "http://dx.doi.org/10.1186/1999-3110-54-38",
+    "DOI": "10.1186/1999-3110-54-38"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP: phylogenetic analysis using parsimony, version 4.0b10",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanabe",
+        "given": "A.S."
+      }
+    ],
+    "title": "Kakusan4 and Aminosan: two programs for comparing nonpartitioned, proportional and separate models for combined molecular phylogenetic analyses of multilocus sequence data",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2011",
+    "page": "914–921",
+    "URL": "http://dx.doi.org/10.1111/j.1755-0998.2011.03021.x",
+    "DOI": "10.1111/j.1755-0998.2011.03021.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The ClustalX windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "http://dx.doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Tebbitt",
+        "given": "M.C."
+      }
+    ],
+    "title": "Begonia: cultivation, identification, and natural history",
+    "publisher": "Timber Press, Portland",
+    "type": "book",
+    "issued": "2005",
+    "page": "272"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "A."
+      },
+      {
+        "family": "Tayler",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M."
+      },
+      {
+        "family": "Gelfand.",
+        "given": "D."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "T."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and application",
+    "publisher": "Academia Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Icones plantarum Indiae Orientalis",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Franck & Co., Madras",
+    "issued": "1852",
+    "page": "299"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkie",
+        "given": "P."
+      },
+      {
+        "family": "Sands",
+        "given": "M.J.S."
+      },
+      {
+        "family": "Mendum",
+        "given": "M."
+      }
+    ],
+    "title": "Begonia chloroneura (Begoniaceae): a new species from the Philippine island of Luzon",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "The New Plantsman",
+    "issue": "3",
+    "issued": "1999",
+    "page": "132–138"
+  }
+]

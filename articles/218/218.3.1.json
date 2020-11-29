@@ -1,0 +1,823 @@
+[
+  {
+    "author": [
+      {
+        "family": "Backer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Schoolflora voor Java",
+    "editor": [
+      {
+        "family": "Kolff",
+        "given": "Batavia G."
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "type": null,
+    "issued": "1911",
+    "page": "112"
+  },
+  {
+    "author": [
+      {
+        "family": "Backer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Notes on the flora of Java I",
+    "volume": "ser. 3 16",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique de Buitenzorg",
+    "issued": "1939",
+    "page": "107–110"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Leguminosae",
+    "container-title": "The flora of British India",
+    "volume": "2",
+    "publisher": "L. Reeve & Co",
+    "issue": "4",
+    "type": "article-journal",
+    "issued": "1876",
+    "page": "56–306",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bell",
+        "given": "E.A."
+      },
+      {
+        "family": "Lackey",
+        "given": "J.A."
+      },
+      {
+        "family": "Polhill",
+        "given": "R.M."
+      }
+    ],
+    "title": "Systematic significance of canavanine in the Papiolionoideae (Faboideae",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Biochemical Systematics and Ecology",
+    "issued": "1978",
+    "page": "201–212",
+    "URL": "http://dx.doi.org/10.1016/0305-1978(78)90008-X",
+    "DOI": "10.1016/0305-1978(78)90008-X"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Leguminosae",
+    "editor": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W.Plantae Junghuhniana A.W.Sythoff"
+      },
+      {
+        "given": "Leiden"
+      }
+    ],
+    "type": null,
+    "issued": "1852",
+    "page": "205–269"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Leguminosae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "Genera Plantarum",
+    "publisher": "Lovell Reed & Co",
+    "type": "chapter",
+    "issued": "1865",
+    "page": "434–600",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Notes on Pueraria DC., correctly referred by the author to Phaseoleae",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1867",
+    "page": "121–125",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1865.tb00013.x",
+    "DOI": "10.1111/j.1095-8339.1865.tb00013.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Brach",
+        "given": "A.R."
+      },
+      {
+        "family": "Song",
+        "given": "H."
+      }
+    ],
+    "title": "eFloras: New directions for online floras exemplified by the Flora of China Project",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2006",
+    "page": "188–192",
+    "URL": "http://dx.doi.org/10.2307/25065540",
+    "DOI": "10.2307/25065540"
+  },
+  {
+    "author": [
+      {
+        "family": "Cagle",
+        "given": "W."
+      }
+    ],
+    "title": "Parsing Polyphyletic Pueraria: Delimiting distinct evolutionary lineages through phylogeny",
+    "publisher": "U.S.A",
+    "type": "book",
+    "issued": "2013",
+    "page": "293",
+    "publisher-place": "Greenville, North Carolina"
+  },
+  {
+    "author": [
+      {
+        "family": "Craib",
+        "given": "W.G."
+      }
+    ],
+    "title": "List of Siamese plants with descriptions of new species",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1911",
+    "page": "7–60"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.",
+        "particle": "de"
+      }
+    ],
+    "title": "Mémoires sur la famille des Légumineuses",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles",
+    "issued": "1825",
+    "page": "90–103"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Prodromus Florae Nepalensis",
+    "publisher": "Gale, Bruton-Street, London",
+    "type": "article-journal",
+    "container-title": "J",
+    "issued": "1825",
+    "page": "249"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      },
+      {
+        "family": "Harbison",
+        "given": "C."
+      }
+    ],
+    "title": "Chloroplast-expressed glutamine synthetase in Glycine and related Leguminosae: phylogeny, gene duplication, and ancient polyploidy",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2003",
+    "page": "567–577"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A."
+      },
+      {
+        "family": "Delavay",
+        "given": "J.M."
+      }
+    ],
+    "title": "Plantae Delavayanae",
+    "volume": "3. P",
+    "publisher": "Klincksieck, Paris",
+    "type": "book",
+    "issued": "1890",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1. Prepared by the IUCN Species Survival Commission",
+    "type": null,
+    "issued": "2001",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Keng",
+        "given": "H."
+      }
+    ],
+    "title": "Economic plants of ancient north China as mentioned in Shih Ching (Book of",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Society for Economic Botany",
+    "issued": "1974",
+    "page": "391–410",
+    "URL": "http://dx.doi.org/10.1007/BF02862856",
+    "DOI": "10.1007/BF02862856"
+  },
+  {
+    "author": [
+      {
+        "family": "Kurz",
+        "given": "S."
+      }
+    ],
+    "title": "New Burmese Plants, Part III",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "The Journal of the Asiatic Society of Bengal",
+    "issued": "1873",
+    "page": "227–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Lackey",
+        "given": "J.A."
+      }
+    ],
+    "title": "Neonotonia, a new generic name to include Glycine wightii (Arnott) Verdcourt (Leguminosae, Papilionoideae",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1977",
+    "page": "209–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Lackey",
+        "given": "J.A."
+      }
+    ],
+    "title": "A revised classification of Phaseoleae (Leguminosae: Papilionoideae) and its relation to canavanine distribution",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1977",
+    "page": "163–178",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1977.tb01173.x",
+    "DOI": "10.1111/j.1095-8339.1977.tb01173.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Lackey",
+        "given": "J.A."
+      }
+    ],
+    "title": "A synopsis of Phaseoleae (Leguminosae, Papilionoideae",
+    "type": null,
+    "issued": "1977",
+    "publisher-place": "Ames, Iowa, U.S.A"
+  },
+  {
+    "author": [
+      {
+        "family": "Le",
+        "given": "Z.-F."
+      },
+      {
+        "family": "Zhu",
+        "given": "X.-Y."
+      }
+    ],
+    "title": "Pueraria yunnanensis (Fabaceae) reinstated",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issue": "5",
+    "issued": "2009",
+    "page": "419–424",
+    "URL": "http://dx.doi.org/10.5735/085.046.0507",
+    "DOI": "10.5735/085.046.0507"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "J."
+      },
+      {
+        "family": "Hymowitz",
+        "given": "T."
+      }
+    ],
+    "title": "A molecular phylogenetic study of the subtribe Glycininae (Leguminosae) derived from the chloroplast DNA rps16 intron sequences",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "2064–2073",
+    "URL": "http://dx.doi.org/10.2307/3558432",
+    "DOI": "10.2307/3558432"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "An enumeration of Philippine Leguminosae, with keys to the genera and species",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Philippine Journal of Science",
+    "issued": "1910",
+    "page": "1–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      },
+      {
+        "family": "Metcalf",
+        "given": "F.P."
+      }
+    ],
+    "title": "Systematic notes on Hainan plants including new species, I",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Lingnan Science Journal",
+    "issued": "1937",
+    "page": "181–197"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Plantae Junghuhnianae",
+    "volume": "2",
+    "publisher": "Lugduni-Batavorum, Netherlands",
+    "type": "book",
+    "issued": "1852",
+    "page": "570"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohashi",
+        "given": "H."
+      },
+      {
+        "family": "Iokawa",
+        "given": "Y."
+      }
+    ],
+    "title": "A new species, Pueraria xyzhuii (Leguminosae) from Yunnan, China, with pollen stainability and pollon morphology in comparison to related species",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "The Journal of Japanese Botany",
+    "issued": "2006",
+    "page": "26–34"
+  },
+  {
+    "author": [
+      {
+        "family": "Pampanini",
+        "given": "R."
+      }
+    ],
+    "title": "Piante nuove del Yunnan (China",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Nuovo giornale botanico italiano, new series",
+    "issued": "1910",
+    "page": "5–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Perry",
+        "given": "L.M."
+      },
+      {
+        "family": "Metzger",
+        "given": "J."
+      }
+    ],
+    "title": "Medicinal plants of East and Southeast Asia: attributed properties and uses",
+    "publisher": "M.I.T. Press, Cambridge",
+    "type": "book",
+    "issued": "1980",
+    "page": "620"
+  },
+  {
+    "author": [
+      {
+        "family": "Prain",
+        "given": "D."
+      }
+    ],
+    "title": "Noviciae Indicae XV. Some additional Leguminosae. Journal of the Asiatic Society of Bengal. Part 2",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Natural History",
+    "issued": "1897",
+    "page": "347–518"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus Bengalensis",
+    "publisher": "Serampore, Mission Press",
+    "type": "book",
+    "issued": "1814",
+    "page": "104"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora Indica",
+    "volume": "3",
+    "editor": [
+      {
+        "family": "Serampore",
+        "given": "W.Thacker"
+      },
+      {
+        "family": "Calcutta",
+        "given": "Co"
+      },
+      {
+        "family": "Parbury",
+        "given": "Allen"
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "type": null,
+    "issued": "1832",
+    "page": "875",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "Legumes of India",
+    "publisher": "Bishen Singh Mahendra Pal Singh",
+    "type": "book",
+    "issued": "1992",
+    "page": "338",
+    "publisher-place": "Dehra-Dun"
+  },
+  {
+    "author": [
+      {
+        "family": "Shurtleff",
+        "given": "W."
+      },
+      {
+        "family": "Aoyagi",
+        "given": "A."
+      }
+    ],
+    "title": "The Book of Kudzu, a Culinary and Healing Guide",
+    "publisher": "Autumn Press",
+    "type": "book",
+    "issued": "1977",
+    "page": "102",
+    "publisher-place": "Brookline, MA"
+  },
+  {
+    "author": [
+      {
+        "family": "Srivastava",
+        "given": "R.C."
+      }
+    ],
+    "title": "Traditional knowledge of Nyishi (Daffla) tribe of Arunachal Pradesh",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Indian Journal of Traditional Knowledge",
+    "issue": "1",
+    "issued": "2010",
+    "page": "26–37"
+  },
+  {
+    "author": [
+      {
+        "family": "Stefanovic",
+        "given": "S."
+      },
+      {
+        "family": "Pfeil",
+        "given": "B.E."
+      },
+      {
+        "family": "Palmer",
+        "given": "J.D."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      }
+    ],
+    "title": "Relationships among Phaseoloid Legumes based on sequences from eight chloroplast regions",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2009",
+    "page": "115–128",
+    "URL": "http://dx.doi.org/10.1600/036364409787602221",
+    "DOI": "10.1600/036364409787602221"
+  },
+  {
+    "author": [
+      {
+        "family": "Maesen",
+        "given": "L.J.G.",
+        "particle": "van der"
+      }
+    ],
+    "title": "Revision of the genus Pueraria DC with some notes on Teyleria Backer (Leguminosae",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Wageningen Agricultural University Papers",
+    "issued": "1985",
+    "page": "1–130"
+  },
+  {
+    "author": [
+      {
+        "family": "Maesen",
+        "given": "L.J.G.",
+        "particle": "van der"
+      }
+    ],
+    "title": "Pueraria, the Kudzu and its relatives, an update of the taxonomy",
+    "editor": [
+      {
+        "family": "Sorensen",
+        "given": "M."
+      }
+    ],
+    "container-title": "Proceedings of the First International Symposium on Tuberous Legumes",
+    "publisher": "DSR Boghandel",
+    "type": "paper-conference",
+    "issued": "1994",
+    "page": "55–86",
+    "publisher-place": "Gualdeloupe, F.W.I"
+  },
+  {
+    "author": [
+      {
+        "family": "Maesen",
+        "given": "L.J.G.",
+        "particle": "van der"
+      }
+    ],
+    "title": "Pueraria: botanical characteristics",
+    "editor": [
+      {
+        "family": "Keung",
+        "given": "W.M."
+      }
+    ],
+    "publisher": "Taylor & Francis",
+    "type": "book",
+    "issued": "2002",
+    "page": "1–28",
+    "publisher-place": "New York City, NY"
+  },
+  {
+    "author": [
+      {
+        "family": "Maesen",
+        "given": "L.J.G.",
+        "particle": "van der"
+      },
+      {
+        "family": "Almeida",
+        "given": "S.M."
+      }
+    ],
+    "title": "Two corrections to the nomenclature in the revision of Pueraria DC",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Journal of the Bombay Natural History Society",
+    "issued": "1988",
+    "page": "233–234"
+  },
+  {
+    "author": [
+      {
+        "family": "Thuan",
+        "given": "N.",
+        "particle": "van"
+      }
+    ],
+    "title": "Phaseolees asiatiques nouvelles",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1977",
+    "page": "509–514"
+  },
+  {
+    "author": [
+      {
+        "family": "Verdcourt",
+        "given": "B."
+      }
+    ],
+    "title": "A proposal concerning Glycine L",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1966",
+    "page": "34–36",
+    "URL": "http://dx.doi.org/10.2307/1216815",
+    "DOI": "10.2307/1216815"
+  },
+  {
+    "author": [
+      {
+        "family": "Verdcourt",
+        "given": "B."
+      }
+    ],
+    "title": "Tribe Phaseoleae",
+    "editor": [
+      {
+        "family": "Milne-Redhead",
+        "given": "E."
+      },
+      {
+        "family": "Polhill",
+        "given": "R.M."
+      }
+    ],
+    "container-title": "Flora of Tropical East Africa. Leguminosae (Part 4) subfamily Papilionoideae (2",
+    "publisher": "Whitefriars Press",
+    "type": "chapter",
+    "issued": "1971",
+    "page": "605",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "A numerical list of dried specimens of plants in the Museum of the Honl",
+    "volume": "London",
+    "type": "article-journal",
+    "container-title": "East India Company",
+    "issued": "1831",
+    "page": "306"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Walker-Arnott",
+        "given": "G.A."
+      }
+    ],
+    "title": "Prodromus Florae Peninsulae Indiae Orientalis",
+    "volume": "1",
+    "publisher": "Parbury, Allen, & Co",
+    "type": "book",
+    "issued": "1834",
+    "page": "480",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "D."
+      },
+      {
+        "family": "Thulin",
+        "given": "M."
+      }
+    ],
+    "title": "Pueraria",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2010",
+    "page": "244–248",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "T.L."
+      }
+    ],
+    "title": "Pueraria DC",
+    "editor": [
+      {
+        "family": "Li",
+        "given": "S.K."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1995",
+    "page": "219–229",
+    "publisher-place": "Beijing"
+  }
+]

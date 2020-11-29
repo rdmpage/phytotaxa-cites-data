@@ -1,0 +1,115 @@
+[
+  {
+    "author": [
+      {
+        "family": "Esteves",
+        "given": "G.L."
+      }
+    ],
+    "title": "Gaya. Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro, Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/listaBrasil"
+  },
+  {
+    "author": [
+      {
+        "family": "Fryxell",
+        "given": "P.A."
+      }
+    ],
+    "title": "Malvaceae of Mexico. In: Systematic Botany Monographs",
+    "publisher": "The American Society of Plants Taxonomist. Ann Arbor",
+    "type": "book",
+    "issued": "1988",
+    "page": "1–522",
+    "publisher-place": "Michigan",
+    "URL": "http://dx.doi.org/10.2307/25027717",
+    "DOI": "10.2307/25027717"
+  },
+  {
+    "author": [
+      {
+        "family": "Fryxell",
+        "given": "P.A."
+      }
+    ],
+    "title": "The American genera of Malvaceae—II",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "2",
+    "issued": "1997",
+    "page": "204–269",
+    "URL": "http://dx.doi.org/10.2307/2807683",
+    "DOI": "10.2307/2807683"
+  },
+  {
+    "author": [
+      {
+        "family": "Hochreutiner",
+        "given": "B.P.G."
+      }
+    ],
+    "title": "Organes carpiques nouveaux ou méconnus chez les Malvacées",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Annuaire du Conservatoire & du Jardin Botaniques de Genève",
+    "issued": "1917",
+    "page": "141–142"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1. IUCN Species Survival Commission",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2001",
+    "page": "30",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK, ii"
+  },
+  {
+    "author": [
+      {
+        "family": "Krapovickas",
+        "given": "A."
+      }
+    ],
+    "title": "Sinopsis del género Gaya",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Bonplandia",
+    "issue": "1–2",
+    "issued": "1996",
+    "page": "57–87"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Malvaceae I",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "publisher": "Friedrich Fleischer",
+    "type": "chapter",
+    "issued": "1891",
+    "page": "253–456",
+    "publisher-place": "Leipzig"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "author": [
+      {
+        "family": "Colebrooke",
+        "given": "H.T."
+      }
+    ],
+    "title": "Impatiens trilobata",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Blackwood and T. Cadell",
+    "issue": "",
+    "issued": "1825",
+    "page": "150"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.",
+        "particle": "de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "1",
+    "publisher": "G. Masson, Paris",
+    "type": "book",
+    "issued": "1824",
+    "page": "745"
+  },
+  {
+    "author": [
+      {
+        "family": "Desai",
+        "given": "J.R.N."
+      },
+      {
+        "family": "Janarthanam",
+        "given": "M.K."
+      }
+    ],
+    "title": "The genus Impatiens (Balasaminaceae) in the northern and parts of central Western Ghats",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Rheedea",
+    "issued": "2011",
+    "page": "23–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "2",
+    "issue": "Salvius",
+    "type": null,
+    "issued": "1753",
+    "page": "937",
+    "publisher-place": "Stockholm, Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s plant-book, A portable dictionary of plants, their classification and uses",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": "3",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus Bengalensis, or a catalogue of the plants growing in the Honourable East India Company‘s botanic garden at Calcutta.Serampore",
+    "publisher": "India",
+    "type": "book",
+    "issued": "1814",
+    "page": "104"
+  }
+]

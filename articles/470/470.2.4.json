@@ -1,0 +1,804 @@
+[
+  {
+    "author": [
+      {
+        "family": "Basso",
+        "given": "M."
+      }
+    ],
+    "title": "Manuale di microscopia dei funghi",
+    "publisher": "Mykoflora. Alassio",
+    "type": "book",
+    "issued": "2005",
+    "page": "302"
+  },
+  {
+    "author": [
+      {
+        "family": "Corner",
+        "given": "E.J.H."
+      }
+    ],
+    "title": "A monograph of Clavaria and allied genera",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Annals of Botany Memoir",
+    "issued": "1950",
+    "page": "1–740"
+  },
+  {
+    "author": [
+      {
+        "family": "Corner",
+        "given": "E.J.H."
+      }
+    ],
+    "title": "Supplement to a monograph of Clavaria and allied genera",
+    "publisher": "Oxford University Press",
+    "type": "book",
+    "issued": "1970",
+    "page": "740",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bouckaert",
+        "given": "R."
+      },
+      {
+        "family": "Heled",
+        "given": "J."
+      },
+      {
+        "family": "Kühnert",
+        "given": "D."
+      },
+      {
+        "family": "Vaughan",
+        "given": "T."
+      },
+      {
+        "family": "Wu",
+        "given": "C.-H."
+      },
+      {
+        "family": "Xie",
+        "given": "D."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "title": "BEAST 2: A software platform for Bayesian Evolutionary analysis",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "PLOS Computational Biology",
+    "issued": "2014",
+    "page": "1003537",
+    "URL": "https://doi.org/10.1371/journal.pcbi.1003537",
+    "DOI": "10.1371/journal.pcbi.1003537"
+  },
+  {
+    "author": [
+      {
+        "family": "Brinkmann",
+        "given": "W."
+      }
+    ],
+    "title": "Vorarbeiten zu einer Pilzflora Westfalen",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Jahresbericht des Westfälischen Provinzial-Vereins für Wissenschaft und Kunst",
+    "issued": "1897",
+    "page": "195–207"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchi",
+        "given": "P."
+      },
+      {
+        "family": "Marchetti",
+        "given": "M."
+      }
+    ],
+    "title": "Nomenclatural novelties",
+    "volume": "373",
+    "type": "article-journal",
+    "container-title": "Index Fungorum",
+    "issued": "2018",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchi",
+        "given": "P."
+      },
+      {
+        "family": "Marchetti",
+        "given": "M."
+      }
+    ],
+    "title": "Nuove combinazioni nel Genere Phaeoclavulina",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Rivista di Micologia",
+    "issued": "2019",
+    "page": "19–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Frandsen",
+        "given": "P.B."
+      },
+      {
+        "family": "Calcott",
+        "given": "B."
+      },
+      {
+        "family": "Mayer",
+        "given": "C."
+      },
+      {
+        "family": "Lanfear",
+        "given": "R."
+      }
+    ],
+    "title": "Automatic selection of partitioning schemes for phylogenetic analyses using iterative k-means clustering of site rates",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2015",
+    "page": "13",
+    "URL": "https://doi.org/10.1186/s12862-015-0283-7",
+    "DOI": "10.1186/s12862-015-0283-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Giachini",
+        "given": "A.J."
+      }
+    ],
+    "title": "Systematics, phylogeny, and ecology of Gomphus sensu lato. Doctoral Dissertation",
+    "publisher": "Oregon State University",
+    "type": "book",
+    "issued": "2004",
+    "publisher-place": "Corvallis"
+  },
+  {
+    "author": [
+      {
+        "family": "Giachini",
+        "given": "A.J."
+      },
+      {
+        "family": "Hosaka",
+        "given": "K."
+      },
+      {
+        "family": "Nouhra",
+        "given": "E."
+      },
+      {
+        "family": "Spatafora",
+        "given": "J."
+      },
+      {
+        "family": "Trappe",
+        "given": "J.M."
+      }
+    ],
+    "title": "Phylogenetic relationships of the Gomphales based on nuc-25S-rDNA, mit-12S-rDNA, and mit-atp6-DNA combined sequences",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Fungal Biology",
+    "issued": "2010",
+    "page": "224–234",
+    "URL": "https://doi.org/10.1016/j.funbio.2010.01.002",
+    "DOI": "10.1016/j.funbio.2010.01.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Giachini",
+        "given": "A.J."
+      },
+      {
+        "family": "Castellano",
+        "given": "M.A."
+      }
+    ],
+    "title": "A new taxonomic classification for species in Gomphus sensu lato",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2011",
+    "page": "183–201",
+    "URL": "https://doi.org/10.5248/115.183",
+    "DOI": "10.5248/115.183"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Ávila",
+        "given": "P."
+      },
+      {
+        "family": "Villegas-Ríos",
+        "given": "M."
+      },
+      {
+        "family": "Estrada-Torres",
+        "given": "A."
+      }
+    ],
+    "title": "Especies del género Phaeoclavulina en México",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issued": "2013",
+    "page": "91–110",
+    "URL": "http://dx.doi.org/10.7550/rmb.31606.",
+    "DOI": "10.7550/rmb.31606."
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MrBayes: Bayesian inference of phylogeny",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Misawa",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2002",
+    "page": "3059–3066",
+    "URL": "https://doi.org/10.1093/nar/gkf436",
+    "DOI": "10.1093/nar/gkf436"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Rozewicki",
+        "given": "J."
+      },
+      {
+        "family": "Yamada",
+        "given": "K.D."
+      }
+    ],
+    "title": "MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization",
+    "container-title": "Briefings in Bioinformatics bbx108",
+    "type": "chapter",
+    "issued": "2017",
+    "URL": "https://doi.org/10.1093/bib/bbx108",
+    "DOI": "10.1093/bib/bbx108"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanfear",
+        "given": "R."
+      },
+      {
+        "family": "Calcott",
+        "given": "B."
+      },
+      {
+        "family": "Kainer",
+        "given": "D."
+      },
+      {
+        "family": "Mayer",
+        "given": "C."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "Selecting optimal partitioning schemes for phylogenomic datasets",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2014",
+    "page": "82",
+    "URL": "https://doi.org/10.1186/1471-2148-14-82",
+    "DOI": "10.1186/1471-2148-14-82"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanfear",
+        "given": "R."
+      },
+      {
+        "family": "Frandsen",
+        "given": "P.B."
+      },
+      {
+        "family": "Wright",
+        "given": "A.M."
+      },
+      {
+        "family": "Senfeld",
+        "given": "T."
+      },
+      {
+        "family": "Calcott",
+        "given": "B."
+      }
+    ],
+    "title": "PartitionFinder 2: new methods for selecting partitioned models of evolution for molecular and morphological phylogenetic analyses",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2016",
+    "page": "772–773",
+    "URL": "https://doi.org/10.1093/molbev/msw260",
+    "DOI": "10.1093/molbev/msw260"
+  },
+  {
+    "author": [
+      {
+        "family": "Largent",
+        "given": "D."
+      },
+      {
+        "family": "Johnson",
+        "given": "D."
+      },
+      {
+        "family": "Watling",
+        "given": "R."
+      }
+    ],
+    "title": "How to Identify Mushrooms to genus III: Microscopic Features",
+    "publisher": "Mad. River Press",
+    "type": "book",
+    "issued": "1980",
+    "page": "148",
+    "publisher-place": "Eureka, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Maddison",
+        "given": "W."
+      },
+      {
+        "family": "Maddison",
+        "given": "D."
+      }
+    ],
+    "title": "Mesquite: a modular system for evolutionary analysis",
+    "genre": "Version 3.31.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://mesquiteproject.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Marr",
+        "given": "C.D."
+      },
+      {
+        "family": "Stuntz",
+        "given": "D.E."
+      }
+    ],
+    "title": "Ramaria in western Washington",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Mycologica",
+    "issued": "1973",
+    "page": "1–232"
+  },
+  {
+    "author": [
+      {
+        "family": "Martínez-González",
+        "given": "C.R."
+      },
+      {
+        "family": "Ramírez-Mendoza",
+        "given": "R."
+      },
+      {
+        "family": "Jiménez-Ramírez",
+        "given": "J."
+      },
+      {
+        "family": "Gallegos-Vázquez",
+        "given": "C."
+      },
+      {
+        "family": "Luna-Vega",
+        "given": "I."
+      }
+    ],
+    "title": "Improved method for genomic DNA extraction for Opuntia Mill",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Cactaceae). Plant Methods",
+    "issued": "2017",
+    "page": "1–10",
+    "URL": "https://doi.org/10.1186/s13007-017-0234-y",
+    "DOI": "10.1186/s13007-017-0234-y"
+  },
+  {
+    "editor": [
+      {
+        "family": "Mueller",
+        "given": "G.M."
+      },
+      {
+        "family": "Bills",
+        "given": "G.F."
+      },
+      {
+        "family": "Foster",
+        "given": "M.S."
+      }
+    ],
+    "title": "Biodiversity of fungi: inventory and monitoring methods",
+    "publisher": "Elsevier",
+    "type": "book",
+    "issued": "2011"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "K."
+      },
+      {
+        "family": "Quandt",
+        "given": "D."
+      },
+      {
+        "family": "Müller",
+        "given": "J."
+      },
+      {
+        "family": "Neinhuis",
+        "given": "C."
+      }
+    ],
+    "title": "PhyDE®-Phylogenetic data editor. Program distributed by the authors, version 10.0",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2005",
+    "URL": "https://www.phyde.de"
+  },
+  {
+    "author": [
+      {
+        "given": "Munsell"
+      }
+    ],
+    "title": "Munsell soil color charts. United States Departement of Agriculture",
+    "type": null,
+    "issued": "1992",
+    "page": "29",
+    "publisher-place": "Kallmargen, Maryland"
+  },
+  {
+    "author": [
+      {
+        "family": "Overeem",
+        "given": "C.van"
+      }
+    ],
+    "title": "Beiträge zur Pilzflora von Niederländisch Indien",
+    "volume": "III, 5",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique de Buitenzorg Série",
+    "issued": "1923",
+    "page": "247–293"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "R.H."
+      }
+    ],
+    "title": "Ramaria subgenus Echinoramaria",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Mycologica",
+    "issued": "1981",
+    "page": "1–261"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "R.H."
+      }
+    ],
+    "title": "The clavarioid fungi of New Zealand",
+    "volume": "236",
+    "type": "article-journal",
+    "container-title": "Bulletin of the New Zealand Department of Scientific and Industrial Research",
+    "issued": "1988",
+    "page": "1–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Xie",
+        "given": "D."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "title": "Tracer v1.6",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://beast.bio.ed.ac.uk/Tracer"
+  },
+  {
+    "author": [
+      {
+        "family": "Schild",
+        "given": "E."
+      }
+    ],
+    "title": "Die gruppe Flaccidae der gattung Ramaria",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Schweizerische Zeitschrift für Pilzkunde",
+    "issued": "1975",
+    "page": "129–135"
+  },
+  {
+    "author": [
+      {
+        "family": "Swift",
+        "given": "J."
+      }
+    ],
+    "title": "Gulliver’s travels",
+    "editor": [
+      {
+        "family": "Adler",
+        "given": "M.J."
+      },
+      {
+        "given": "ed"
+      }
+    ],
+    "type": null,
+    "issued": "1726",
+    "page": "184"
+  },
+  {
+    "author": [
+      {
+        "family": "Thind",
+        "given": "K.S."
+      },
+      {
+        "family": "Khurana",
+        "given": "I.P.S."
+      },
+      {
+        "family": "Kaushal",
+        "given": "S.C."
+      }
+    ],
+    "title": "The Clavariaceae of India. XIII. Three species of Ramaria subgenus Echinoramaria new to India",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Kavaka",
+    "issued": "1982",
+    "page": "31–35"
+  },
+  {
+    "author": [
+      {
+        "family": "Wannathes",
+        "given": "N."
+      },
+      {
+        "family": "Kaewketsri",
+        "given": "R."
+      },
+      {
+        "family": "Suwannarach",
+        "given": "N."
+      },
+      {
+        "family": "Kumla",
+        "given": "J."
+      },
+      {
+        "family": "Lumyong",
+        "given": "S."
+      }
+    ],
+    "title": "Phaeoclavulina pseudozippelii sp. nov",
+    "volume": "362",
+    "type": "article-journal",
+    "container-title": "Gomphales, Basidiomycota) from Northern Thailand. Phytotaxa",
+    "issued": "2018",
+    "page": "211–219",
+    "URL": "https://doi.org/10.11646/phytotaxa.362.2.7",
+    "DOI": "10.11646/phytotaxa.362.2.7"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenies",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "T."
+      }
+    ],
+    "container-title": "PCR Protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Z."
+      },
+      {
+        "family": "Schwartz",
+        "given": "S."
+      },
+      {
+        "family": "Wagner",
+        "given": "L."
+      },
+      {
+        "family": "Miller",
+        "given": "W."
+      }
+    ],
+    "title": "A greedy algorithm for aligning DNA sequences",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Journal of Computational Biology",
+    "issued": "2000",
+    "page": "203–214",
+    "URL": "https://doi.org/10.1089/10665270050081478",
+    "DOI": "10.1089/10665270050081478"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aiton",
+        "given": "W.T."
+      }
+    ],
+    "title": "Hortus Kewensis 4",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Longman, Hurst, Rees, Orme, and Brown, London",
+    "type": "book",
+    "issued": "1812",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Flora orientalis",
+    "volume": "1",
+    "publisher": "H. Georg, Genevae",
+    "type": "book",
+    "issued": "1867",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Chernyakovskaya",
+        "given": "E.G."
+      }
+    ],
+    "title": "Matthiola W.T. Aiton",
+    "editor": [
+      {
+        "family": "Bush",
+        "given": "N.A."
+      }
+    ],
+    "container-title": "Flora of the U.S.S.R",
+    "volume": "8",
+    "publisher": "Izdatel’stvo Akademii Nauk SSSR",
+    "type": "chapter",
+    "issued": "1939",
+    "page": "212–221",
+    "publisher-place": "Moskva, Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "Conti",
+        "given": "P."
+      }
+    ],
+    "title": "Les espèces du genre Matthiola",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Mém. Herb. Boissier",
+    "issued": "1900",
+    "page": "1–86"
+  },
+  {
+    "author": [
+      {
+        "family": "Cullen",
+        "given": "J."
+      }
+    ],
+    "title": "Matthoila W.T. Aiton",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of Turkey and the East Aegean Islands",
+    "volume": "1",
+    "publisher": "Edinburgh Univ. Press",
+    "type": "chapter",
+    "issued": "1965",
+    "page": "447–450",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Gowler",
+        "given": "Z.R."
+      },
+      {
+        "given": "Br"
+      }
+    ],
+    "title": "A taxonomic revision of the genus Matthiola R",
+    "genre": "Ph. D. thesis,",
+    "publisher": "University of Edinburgh",
+    "type": "thesis",
+    "issued": "1998",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Mahmoodi",
+        "given": "M."
+      },
+      {
+        "family": "Zeraatkar",
+        "given": "A."
+      },
+      {
+        "family": "Ghahremaninejad",
+        "given": "F."
+      },
+      {
+        "family": "Maassoumi",
+        "given": "A.A."
+      }
+    ],
+    "title": "A new species of Matthiola (Brassicaceae, Anchonieae) from Iran",
+    "volume": "261",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2016",
+    "page": "194–198",
+    "URL": "https://doi.org/10.11646/phytotaxa.261.2.9",
+    "DOI": "10.11646/phytotaxa.261.2.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "title": "Matthoila W.T. Aiton",
+    "editor": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "container-title": "Flora Iranica",
+    "volume": "57",
+    "publisher": "Akad. Druck- und Verlagsanstalt, Graz",
+    "type": "chapter",
+    "issued": "1968",
+    "page": "228–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Townsend",
+        "given": "C.C."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Matthoila W.T.Aiton"
+      },
+      {
+        "family": "Townsend",
+        "given": "C.C."
+      },
+      {
+        "family": "Guest",
+        "given": "E."
+      }
+    ],
+    "container-title": "Flora of Iraq",
+    "volume": "4",
+    "publisher": "Ministry of Agriculture",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "1017–1024",
+    "publisher-place": "Republic of Iraq, Baghdad"
+  }
+]

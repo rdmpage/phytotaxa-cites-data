@@ -1,0 +1,129 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cavalcanti",
+        "given": "T.B."
+      }
+    ],
+    "title": "Novas espécies em Diplusodon Pohl (Lythraceae) do Planalto Central e Minas Gerais, Brasil",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Brasilica",
+    "issued": "2007",
+    "page": "1–10"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavalcanti",
+        "given": "T.B."
+      },
+      {
+        "family": "Graham",
+        "given": "S.A."
+      }
+    ],
+    "title": "New taxa in Lythraceae from Latin America",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2005",
+    "page": "59–68"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavalcanti",
+        "given": "T.B."
+      },
+      {
+        "family": "Graham",
+        "given": "S.A."
+      }
+    ],
+    "title": "Lythraceae",
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2010/FB019917).",
+    "type": "chapter",
+    "issued": "2010"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List categories. Version 3.1. Prepared by the IUCN Species Survival Commission",
+    "publisher": "World Conservation Union",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "Koehne"
+      }
+    ],
+    "title": "Lythraceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich IV",
+    "volume": "216",
+    "publisher": "Wilhelm Englemann",
+    "issue": "17",
+    "type": "article-journal",
+    "issued": "1903",
+    "page": "1–326",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Lourteig",
+        "given": "A."
+      }
+    ],
+    "title": "Lythraceae Austroamericanae. Addenda et corrigenda III",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bradea",
+    "issue": "19",
+    "issued": "1989",
+    "page": "205–241"
+  },
+  {
+    "author": [
+      {
+        "family": "Pohl",
+        "given": "J.E."
+      }
+    ],
+    "title": "Neue Brasilianische Gewächse",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Flora oder Botanische Zeitung",
+    "issued": "1827",
+    "page": "145–154"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      }
+    ],
+    "title": "Salicariae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliae Meridionalis",
+    "issued": "1833",
+    "page": "94–169"
+  }
+]

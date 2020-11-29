@@ -1,0 +1,213 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "New ferns of China and Japan",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "The Gardeners’ Chronicle New Series",
+    "issued": "1880",
+    "page": "494"
+  },
+  {
+    "author": [
+      {
+        "family": "Christ",
+        "given": "H."
+      }
+    ],
+    "title": "Filices Bodinierianae",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Académie Internationale de Géographie Botanique",
+    "issue": "153–154",
+    "issued": "1902",
+    "page": "189–275"
+  },
+  {
+    "author": [
+      {
+        "family": "Diels",
+        "given": "L."
+      }
+    ],
+    "title": "Polypodiaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K.A.E."
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien",
+    "volume": "1",
+    "publisher": "W. Engelmann",
+    "issue": "4",
+    "type": "article-journal",
+    "issued": "1899",
+    "page": "139–339",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Duan",
+        "given": "Y.-F."
+      },
+      {
+        "family": "Kropf",
+        "given": "M."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "Polystichum zhijinense (subg. Haplopolystichum; Dryopteridaceae), a new cave species of Polystichum from Guizhou, China",
+    "volume": "331",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "124–130",
+    "URL": "https://doi.org/10.11646/phytotaxa.331.1.11",
+    "DOI": "10.11646/phytotaxa.331.1.11"
+  },
+  {
+    "author": [
+      {
+        "family": "Han",
+        "given": "M.-Q."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "Eight new species of Polystichum (subg. Haplopolystichum; Dryopteridaceae) from limestone caves in Guangdong and Yunnan, China, with reference to species diversity in the karst terrains at high elevations in subtropical areas",
+    "volume": "365",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "145–168",
+    "URL": "https://doi.org/10.11646/phytotaxa.365.2.3",
+    "DOI": "10.11646/phytotaxa.365.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "H."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "Polystichum cavernicola, sp",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issue": "v",
+    "issued": "2011",
+    "page": "121–127"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List Categories and Criteria, Version 13",
+    "container-title": "Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2017",
+    "page": "1–108",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "A.W."
+      }
+    ],
+    "title": "Tentamen Florae Germanicae",
+    "volume": "3",
+    "publisher": "In Bibliopolio Gleditschiano",
+    "type": "book",
+    "issued": "1800",
+    "page": "578",
+    "publisher-place": "Lipsiae"
+  },
+  {
+    "author": [
+      {
+        "family": "Tagawa",
+        "given": "T."
+      }
+    ],
+    "title": "Polystichum of Japan, Korea, and Formosa I",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Geobotanica",
+    "issued": "1940",
+    "page": "119–138"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      },
+      {
+        "family": "He",
+        "given": "H."
+      }
+    ],
+    "title": "Polystichum minutissimum, sp",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issue": "v",
+    "issued": "2009",
+    "page": "353–358"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      },
+      {
+        "family": "He",
+        "given": "H."
+      }
+    ],
+    "title": "Polystichum speluncicola sp",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "v",
+    "issued": "2010",
+    "page": "13–19",
+    "URL": "https://doi.org/10.1600/036364409787602438",
+    "DOI": "10.1600/036364409787602438"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Compositae",
+    "editor": [
+      {
+        "literal": "II. Eupatoriaceae. In: Martius, C.F.P. & Eichler, A.W. (Eds."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "6",
+    "type": "article-journal",
+    "issued": "1876",
+    "page": "181–398"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "G."
+      }
+    ],
+    "title": "Travels in the interior of Brazil",
+    "publisher": "Reeve Brothers, London",
+    "type": "book",
+    "issued": "1846",
+    "page": "562"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "G."
+      }
+    ],
+    "title": "Contributions towards a Flora of Brazil, being the characters of several new species of Compositae, belonging to the tribes Vernoniaceae and Eupatoriaceae, from the Province of Goyaz",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "The London Journal of Botany",
+    "issued": "1847",
+    "page": "417–449"
+  },
+  {
+    "author": [
+      {
+        "family": "King",
+        "given": "R.M."
+      },
+      {
+        "family": "Robinson",
+        "given": "H."
+      },
+      {
+        "family": "Campuloclinium",
+        "given": "C.X.X.X.Notes",
+        "particle": "on"
+      },
+      {
+        "given": "Koanophyllon"
+      }
+    ],
+    "title": "Studies in the Eupatorieae (Asteraceae",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Mikania and Symphyopappus. Phytologia",
+    "issued": "1974",
+    "page": "123–129"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature",
+    "publisher": "A–G. Bohn, Scheltema & Holkena",
+    "note": "Regnum vegetabile 94].",
+    "type": null,
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Volume I"
+  }
+]

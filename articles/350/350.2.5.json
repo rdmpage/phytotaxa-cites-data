@@ -1,0 +1,188 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "C.C."
+      }
+    ],
+    "title": "Compositae novae sinensis",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Fan Memorial Institute of Biology",
+    "issued": "1935",
+    "page": "43–70"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "77",
+    "publisher": "Science Press",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1999",
+    "page": "225–304",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      },
+      {
+        "family": "Vincent",
+        "given": "L."
+      }
+    ],
+    "title": "Senecio Linnaeus",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "20–21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "508–536",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Dumortier",
+        "given": "B.C.J."
+      }
+    ],
+    "title": "Florula Belgica",
+    "type": "article-journal",
+    "container-title": "J. Casterman, Tornaci Nerviorum",
+    "issued": "1827",
+    "page": "172"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallier",
+        "given": "E."
+      },
+      {
+        "family": "Wohlfarth",
+        "given": "R."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "literal": "In: Koch, W.D.J., Synopsis der Deutschen und Schweizer Flora, 3rd Ed."
+      }
+    ],
+    "volume": "2",
+    "publisher": "O.R. Reisland",
+    "type": "book",
+    "issued": "1897",
+    "page": "1466–1499",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The Gardeners Dictionary, Abridgment",
+    "edition": "4th",
+    "volume": "2",
+    "note": "Printed for the author, London, without pagination.",
+    "type": null,
+    "issued": "1754"
+  },
+  {
+    "author": [
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Watson",
+        "given": "L.E."
+      }
+    ],
+    "title": "An ITS phylogeny of tribe Senecioneae (Asteraceae) and a new delimitation of Senecio L",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2007",
+    "page": "1077–1104",
+    "URL": "https://doi.org/10.2307/25065905",
+    "DOI": "10.2307/25065905"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Flora Germanica Excursoria",
+    "issue": "3",
+    "issued": "1831",
+    "page": "185–434",
+    "publisher-place": "Carolum Cnobloch, Leipzig"
+  }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ansari",
+        "given": "M.Y."
+      }
+    ],
+    "title": "Ceropegia",
+    "volume": "16",
+    "publisher": "Botanical Survey of India, Howrah",
+    "type": "article-journal",
+    "container-title": "Fascicles of Flora of India",
+    "issued": "1984",
+    "page": "2–34"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "P.-E."
+      }
+    ],
+    "title": "Euphorbieae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      },
+      {
+        "given": "Prodromus"
+      }
+    ],
+    "volume": "15",
+    "publisher": "Masson & Sons",
+    "issue": "2",
+    "type": "book",
+    "issued": "1862",
+    "page": "3–188",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "N.E."
+      }
+    ],
+    "title": "Diagnoses Africanae VIII",
+    "volume": "1895",
+    "type": "article-journal",
+    "container-title": "Bulletin of miscellaneous information, Kew",
+    "issued": "1895",
+    "page": "259–265"
+  },
+  {
+    "author": [
+      {
+        "family": "Bruyns",
+        "given": "P.V."
+      }
+    ],
+    "title": "New records and new species of Asclepiadaceae from Namibia",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Bothalia",
+    "issued": "1995",
+    "page": "155–172",
+    "URL": "https://doi.org/10.4102/abc.v25i2.725",
+    "DOI": "10.4102/abc.v25i2.725"
+  },
+  {
+    "author": [
+      {
+        "family": "Bruyns",
+        "given": "P.V."
+      }
+    ],
+    "title": "Three new succulent species of Apocynaceae (Asclepiadoideae) from southern Africa",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2003",
+    "page": "427–435",
+    "URL": "https://doi.org/10.2307/4120625",
+    "DOI": "10.2307/4120625"
+  },
+  {
+    "author": [
+      {
+        "family": "Bruyns",
+        "given": "P.V."
+      },
+      {
+        "family": "Klak",
+        "given": "C."
+      },
+      {
+        "family": "Hanáček",
+        "given": "P."
+      }
+    ],
+    "title": "A revised, phylogenetically-based concept of Ceropegia (Apocynaceae",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2017",
+    "page": "399–436",
+    "URL": "https://doi.org/10.1016/j.sajb.2017.06.021",
+    "DOI": "10.1016/j.sajb.2017.06.021"
+  },
+  {
+    "author": [
+      {
+        "family": "Burchell",
+        "given": "W."
+      }
+    ],
+    "title": "Travels in the Interior of Southern Africa",
+    "publisher": "Longman & al., London",
+    "type": "book",
+    "issued": "1822",
+    "page": "691"
+  },
+  {
+    "author": [
+      {
+        "family": "Burman",
+        "given": "N.L."
+      }
+    ],
+    "title": "Flora Indica, nec non Prodromus Florae Capensis",
+    "editor": [
+      {
+        "family": "Haek",
+        "given": "C."
+      }
+    ],
+    "type": null,
+    "issued": "1768",
+    "page": "1–260",
+    "publisher-place": "Amsterdam"
+  },
+  {
+    "author": [
+      {
+        "family": "Dyer",
+        "given": "R.A."
+      }
+    ],
+    "title": "Notes on African Plants: Asclepiadaceae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Bothalia",
+    "issued": "1978",
+    "page": "444–448"
+  },
+  {
+    "author": [
+      {
+        "family": "Dyer",
+        "given": "R.A."
+      }
+    ],
+    "title": "Brachystelma, Ceropegia, Riocreuxia",
+    "editor": [
+      {
+        "family": "Leistner",
+        "given": "O.A."
+      }
+    ],
+    "container-title": "Flora of Southern Africa",
+    "volume": "27",
+    "publisher": "Botanical Research Institute",
+    "issue": "4",
+    "type": "article-journal",
+    "issued": "1980",
+    "page": "1–91",
+    "publisher-place": "Pretoria"
+  },
+  {
+    "author": [
+      {
+        "family": "Dyer",
+        "given": "R.A."
+      }
+    ],
+    "title": "Ceropegia, Brachystelma and Riocreuxia in Southern Africa",
+    "publisher": "A.A. Balkema, Rotterdam",
+    "type": "book",
+    "issued": "1983",
+    "page": "242"
+  },
+  {
+    "author": [
+      {
+        "family": "Ecklon",
+        "given": "C.F."
+      }
+    ],
+    "title": "& Zeyher, C.L.(1834) Enumeratio Plantarum Africae Australis",
+    "volume": "145",
+    "type": "article-journal",
+    "container-title": "Perthes, Hamburg",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fabricius",
+        "given": "P.C."
+      }
+    ],
+    "title": "Enumeratio Methodica Plantarum horti medici Helmstadiensis.J",
+    "publisher": "Drimborn, Helmstedt",
+    "type": "book",
+    "issued": "1759",
+    "page": "239"
+  },
+  {
+    "author": [
+      {
+        "family": "Goyder",
+        "given": "D."
+      },
+      {
+        "family": "Harris",
+        "given": "T."
+      },
+      {
+        "family": "Masinde",
+        "given": "S."
+      },
+      {
+        "family": "Meve",
+        "given": "U."
+      },
+      {
+        "family": "Venter",
+        "given": "J."
+      }
+    ],
+    "title": "Apocynaceae (Part 2",
+    "editor": [
+      {
+        "family": "Beentje",
+        "given": "H.J."
+      }
+    ],
+    "volume": "Kew",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens",
+    "issued": "2012",
+    "page": "350"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber",
+        "given": "H."
+      }
+    ],
+    "title": "Revision der Gattung Ceropegia",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Memorias da Sociedade Broteriana",
+    "issued": "1957",
+    "page": "1–203"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber",
+        "given": "H."
+      }
+    ],
+    "title": "Südwestafrikanische Asclepiadaceae. Mitteilungen aus dem botanischen Staatssammlungen",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "München",
+    "issued": "1961",
+    "page": "33–35"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List Categories and Criteria, Version 8",
+    "note": "Prepared by the Standards and petitions Subcommittee in March 2010",
+    "type": null,
+    "issued": "2010"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Collectanea 5",
+    "publisher": "Wappler, Vienna",
+    "type": "book",
+    "issued": "1796",
+    "page": "177"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementarum Plantarum",
+    "publisher": "Orphanotrophius, Brauschweig",
+    "type": "book",
+    "issued": "1782",
+    "page": "468"
+  },
+  {
+    "author": [
+      {
+        "family": "Manning",
+        "given": "J."
+      },
+      {
+        "family": "Goldblatt",
+        "given": "P."
+      }
+    ],
+    "title": "Plants of the Greater Cape Floristic Region. 1: The Core Cape Flora",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Strelitzia",
+    "issued": "2012",
+    "page": "1–853"
+  },
+  {
+    "author": [
+      {
+        "family": "Medikus",
+        "given": "F.K."
+      }
+    ],
+    "title": "Historia et Commentationes Academiae Electoralis Scientiarum 6",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "J. Theodora",
+    "issue": "eim",
+    "issued": "1790",
+    "page": "255"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "E.H.F."
+      }
+    ],
+    "title": "Commentarium de Plantis Africae Australioris",
+    "publisher": "L. Voss, Leipzig",
+    "type": "book",
+    "issued": "1837",
+    "page": "396"
+  },
+  {
+    "author": [
+      {
+        "family": "Molina",
+        "given": "G.I."
+      }
+    ],
+    "title": "Saggio sulla storia naturale del Chili",
+    "volume": "Bologna",
+    "type": "article-journal",
+    "container-title": "S. Tommaso",
+    "issued": "1782",
+    "page": "368",
+    "URL": "https://doi.org/10.5962/bhl.title.62689",
+    "DOI": "10.5962/bhl.title.62689"
+  },
+  {
+    "author": [
+      {
+        "family": "Schinz",
+        "given": "H."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der Flora von Deutsch-Südwesr-Afrika und der angrenzenden Gebiete",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Verhandlungen des botanischen Vereins der Provinz Brandenburg",
+    "issued": "1888",
+    "page": "229–276"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Observatio LXVIII",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Nova Acta Physico-Medica Academiae Caesareae Leopoldino.-Carolinae",
+    "issued": "1778",
+    "page": "328–341"
+  },
+  {
+    "author": [
+      {
+        "family": "Tölken",
+        "given": "H.R."
+      }
+    ],
+    "title": "New taxa and new combinations in Cotyledon and allied genera",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Bothalia",
+    "issued": "1978",
+    "page": "377–393",
+    "URL": "https://doi.org/10.4102/abc.v12i3.1794",
+    "DOI": "10.4102/abc.v12i3.1794"
+  }
+]

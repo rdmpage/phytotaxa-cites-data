@@ -1,0 +1,225 @@
+[
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "J.G."
+      }
+    ],
+    "title": "Recensio Specierum Generis Pteridis",
+    "type": null,
+    "issued": "1839",
+    "publisher-place": "Lund, Leipzig",
+    "URL": "https://doi.org/10.5962/bhl.title.143613",
+    "DOI": "10.5962/bhl.title.143613"
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "P."
+      }
+    ],
+    "title": "Taxonomic studies of fern genus Pteris L. (Pteridaceae) In India",
+    "genre": "Ph. D Thesis,",
+    "publisher": "University of Kalyani, West Bengal",
+    "note": "Unpublished",
+    "type": "thesis",
+    "issued": "2018",
+    "publisher-place": "India"
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "P."
+      },
+      {
+        "family": "Padhye",
+        "given": "P.M."
+      },
+      {
+        "family": "Gupta",
+        "given": "S."
+      }
+    ],
+    "title": "Clarification of the typification of Pteris argyraea (Pteridaceae",
+    "volume": "269",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "59–60",
+    "URL": "https://doi.org/10.11646/phytotaxa.269.1.8",
+    "DOI": "10.11646/phytotaxa.269.1.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Fraser-Jenkins",
+        "given": "C.R."
+      },
+      {
+        "family": "Gandhi",
+        "given": "K.N."
+      },
+      {
+        "family": "Kholia",
+        "given": "B.S."
+      },
+      {
+        "family": "Benniamin",
+        "given": "A."
+      }
+    ],
+    "title": "An Annotated Checklist of Indian Pteridophytes Part-1 (Lycopodiaceae to Thelypteridaceae",
+    "type": "article-journal",
+    "container-title": "Bishen Singh Mahendra Pal Singh. Dehra Dun",
+    "issued": "2016",
+    "page": "274–320"
+  },
+  {
+    "author": [
+      {
+        "family": "Liao",
+        "given": "W."
+      },
+      {
+        "family": "Ding",
+        "given": "M."
+      },
+      {
+        "family": "Wu",
+        "given": "Z."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Gilbert",
+        "given": "M.G."
+      }
+    ],
+    "title": "Pteris",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "3",
+    "publisher": "Pteridophyta). Science Press, Missouri Botanical Garden Press",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "181–256",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 2",
+    "type": "article-journal",
+    "container-title": "Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.R."
+      },
+      {
+        "family": "Pryer",
+        "given": "K.M."
+      },
+      {
+        "family": "Schuettpelz",
+        "given": "E."
+      },
+      {
+        "family": "Korall",
+        "given": "P."
+      },
+      {
+        "family": "Schneider",
+        "given": "H."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.G."
+      }
+    ],
+    "title": "A classification for extent ferns",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2006",
+    "page": "705–731",
+    "URL": "https://doi.org/10.2307/25065646",
+    "DOI": "10.2307/25065646"
+  },
+  {
+    "author": [
+      {
+        "family": "PPG",
+        "given": "I."
+      }
+    ],
+    "title": "A community–derived classification for extant lycophytes and ferns",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2016",
+    "page": "563–603",
+    "URL": "https://doi.org/10.1111/jse.12229",
+    "DOI": "10.1111/jse.12229"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.B."
+      }
+    ],
+    "title": "Phylogeny and systematics of the brake fern genus Pteris (Pteridaceae) based on molecular (plastid and nuclear) and morphological evidence",
+    "volume": "118",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2018",
+    "page": "265–285",
+    "URL": "https://doi.org/10.1016/j.ympev.2017.09.011",
+    "DOI": "10.1016/j.ympev.2017.09.011"
+  }
+]

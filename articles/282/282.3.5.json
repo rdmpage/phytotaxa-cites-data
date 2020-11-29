@@ -1,0 +1,306 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Prodromus Florae Novae Hollandiae et Insulae Van-Diemen, etc",
+    "publisher": "Leornard Schrag",
+    "type": "book",
+    "issued": "1810",
+    "publisher-place": "Nuremberg"
+  },
+  {
+    "author": [
+      {
+        "family": "Decaisne",
+        "given": "J."
+      }
+    ],
+    "title": "Asclepiadaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis 8",
+    "publisher": "Fortin, Masson & Sociorum",
+    "type": "chapter",
+    "issued": "1844",
+    "page": "490–665",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "The Flora of British India 4",
+    "publisher": "Reeve & Co., London",
+    "type": "book",
+    "issued": "1883",
+    "page": "780"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerr",
+        "given": "A.F.G."
+      }
+    ],
+    "title": "Hoya flagellata Kerr",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Hooker’s Icones Plantarum",
+    "issued": "1940",
+    "page": "3407"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List categories and criteria. Version 12. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerr",
+        "given": "A.F.G."
+      }
+    ],
+    "title": "Hoya R.Br",
+    "editor": [
+      {
+        "family": "Pendleton",
+        "given": "R.L."
+      }
+    ],
+    "container-title": "Florae Siamensis Enumeratio",
+    "volume": "3",
+    "publisher": "Siam Society",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1951",
+    "page": "35–42",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Kidyoo",
+        "given": "M."
+      }
+    ],
+    "title": "Hoya soidaoensis kidyoo, a new species of Hoya (Asclepiadaceae) from Eastern Thailand",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2013",
+    "page": "45–50",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.105.2.3",
+    "DOI": "10.11646/phytotaxa.105.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Kidyoo",
+        "given": "M."
+      }
+    ],
+    "title": "Hoya rostellata (Apocynaceae: Asclepiadoideae), a new species from Thailand",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issue": "1",
+    "issued": "2015",
+    "page": "39–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "P.T."
+      },
+      {
+        "family": "Gilbert",
+        "given": "M.G."
+      },
+      {
+        "family": "Stevens",
+        "given": "W.D."
+      }
+    ],
+    "title": "Asclepiadaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "16",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "189–270",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "Hoya Br",
+    "editor": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "container-title": "The Flora of the Malay Peninsula 2",
+    "publisher": "Reeve & Co",
+    "type": "chapter",
+    "issued": "1923",
+    "page": "393–402",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Rintz",
+        "given": "R.E."
+      }
+    ],
+    "title": "The Peninsular Malaysian species of Hoya (Asclepiadaceae",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Malaysian Nature Journal",
+    "issued": "1978",
+    "page": "467–522"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodda",
+        "given": "M."
+      },
+      {
+        "family": "Simonsson Juhonewe",
+        "given": "N."
+      }
+    ],
+    "title": "Hoya mappigera (Apocynaceae, Asclepiadoideae), a new campanulate flowered species from Peninsular Malaysia and southern Thailand",
+    "volume": "122",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issued": "2011",
+    "page": "1–7",
+    "URL": "http://dx.doi.org/10.1002/fedr.201100019",
+    "DOI": "10.1002/fedr.201100019"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodda",
+        "given": "M."
+      },
+      {
+        "family": "Ang",
+        "given": "W.F."
+      }
+    ],
+    "title": "Hoya caudata Hook.f. (Apocynaceae), A new record for Singapore, and keys to the Hoya species of Singapore",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Nature in Singapore",
+    "issued": "2012",
+    "page": "123–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Neue Asclepiadaceen von Sumatra und Celebes",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Beihefte zum Botanischen Centralblatt",
+    "issued": "1916",
+    "page": "1–18"
+  },
+  {
+    "author": [
+      {
+        "family": "Thaithong",
+        "given": "O."
+      }
+    ],
+    "title": "The genus Hoya in Thailand",
+    "editor": [
+      {
+        "family": "Kiew",
+        "given": "R."
+      }
+    ],
+    "container-title": "The Taxonomy and Phytochemistry of the Asclepiadaceae in Tropical Asia",
+    "publisher": "University Pertanian",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "83–94",
+    "publisher-place": "Malaysia"
+  },
+  {
+    "author": [
+      {
+        "family": "Wanntorp",
+        "given": "L."
+      },
+      {
+        "family": "Kocyan",
+        "given": "A."
+      },
+      {
+        "family": "Donkelaar",
+        "given": "R.",
+        "particle": "van"
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      }
+    ],
+    "title": "Towards a monophyletic Hoya (Marsdenieae, Apocynaceae): Inferences from the chloroplast trnL region and the rbcL-atpB spacer",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2006",
+    "page": "586–596",
+    "URL": "http://dx.doi.org/10.1600/036364406778388593",
+    "DOI": "10.1600/036364406778388593"
+  }
+]

@@ -1,0 +1,2327 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adanson",
+        "given": "M."
+      }
+    ],
+    "title": "Famille des plantes",
+    "volume": "2",
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1763",
+    "page": "640",
+    "publisher-place": "Vincent"
+  },
+  {
+    "author": [
+      {
+        "family": "Arbo",
+        "given": "M.M."
+      }
+    ],
+    "title": "El polen de las palmeras argentinas",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Bonplandia",
+    "issued": "1974",
+    "page": "171–193"
+  },
+  {
+    "author": [
+      {
+        "family": "Asmussen",
+        "given": "C.B."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Coding and noncoding plastid DNA in palm systematics",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "1103–1117",
+    "URL": "http://dx.doi.org/10.2307/2657094",
+    "DOI": "10.2307/2657094"
+  },
+  {
+    "author": [
+      {
+        "family": "Asmussen",
+        "given": "C.B."
+      },
+      {
+        "family": "Dransfield",
+        "given": "J."
+      },
+      {
+        "family": "Deickmann",
+        "given": "V."
+      },
+      {
+        "family": "Barfod",
+        "given": "A.S."
+      },
+      {
+        "family": "Pintaud",
+        "given": "J.-C."
+      },
+      {
+        "family": "Baker",
+        "given": "W.J."
+      }
+    ],
+    "title": "A new subfamily classification of the palm family (Arecaceae): evidence from plastid DNA phylogeny",
+    "volume": "151",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2006",
+    "page": "15–38",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2006.00521.x",
+    "DOI": "10.1111/j.1095-8339.2006.00521.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Báez",
+        "given": "J.R."
+      }
+    ],
+    "title": "Noticia sobre la distribución de las palmeras en la flora de Entre Ríos",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Memorias del Museo de Paraná, Botánica",
+    "issued": "1933",
+    "page": "3–12"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "W.J."
+      },
+      {
+        "family": "Savolainen",
+        "given": "V."
+      },
+      {
+        "family": "Asmussen-Lange",
+        "given": "C.B."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Dransfield",
+        "given": "J."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Harley",
+        "given": "M.M."
+      },
+      {
+        "family": "Uhl",
+        "given": "N.W."
+      },
+      {
+        "family": "Wilkinsonm",
+        "given": "M."
+      }
+    ],
+    "title": "Complete generic-level phylogenetic analyses of palms (Arecaceae) with comparisons of supertree and supermatrix approaches",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2009",
+    "page": "240–256"
+  },
+  {
+    "author": [
+      {
+        "family": "Barbosa Rodrigues",
+        "given": "J."
+      }
+    ],
+    "title": "Palmae Novae Paraguayenses",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Leuzinger, Rio de Janeiro",
+    "issued": "1899",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bauermann",
+        "given": "S.G."
+      },
+      {
+        "family": "Evaldt",
+        "given": "A.C.P."
+      },
+      {
+        "family": "Zanchin",
+        "given": "J.R."
+      },
+      {
+        "family": "Loreto Bordignon",
+        "given": "S.A.",
+        "particle": "de"
+      }
+    ],
+    "title": "Diferenciação polínica de Butia, Euterpe, Geonoma, Syagrus e Thritrinax e implicações paleoecológicas de Arecaceae para o Rio Grande do Sul",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Iheringia, Série Botânica",
+    "issued": "2010",
+    "page": "35–46"
+  },
+  {
+    "author": [
+      {
+        "family": "Beccari",
+        "given": "O."
+      }
+    ],
+    "title": "Le palme americane della tribù delle Corypheae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Webbia",
+    "issued": "1907",
+    "page": "214–230",
+    "URL": "http://dx.doi.org/10.1080/00837792.1921.10669576",
+    "DOI": "10.1080/00837792.1921.10669576"
+  },
+  {
+    "author": [
+      {
+        "family": "Beccari",
+        "given": "O."
+      }
+    ],
+    "title": "Asiatic Palms",
+    "editor": [
+      {
+        "given": "Corypheae"
+      }
+    ],
+    "container-title": "Annals of the Royal Botanic Garden of Calcutta",
+    "volume": "13",
+    "type": "chapter",
+    "issued": "1931",
+    "page": "322–325"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Genera Plantarum: Ad exemplaria imprimis in herbariis kewensibus servata definite",
+    "volume": "3",
+    "editor": [
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "issue": "2",
+    "type": null,
+    "issued": "1883",
+    "page": null,
+    "publisher-place": "Williams & Norgate, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertoldi",
+        "given": "H."
+      }
+    ],
+    "title": "Ensayo de clasificación morfológica de los silicofitos",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Ameghiniana",
+    "issued": "1971",
+    "page": "317–328"
+  },
+  {
+    "author": [
+      {
+        "family": "Bletter",
+        "given": "N."
+      },
+      {
+        "family": "Janovec",
+        "given": "J."
+      },
+      {
+        "family": "Brosi",
+        "given": "B."
+      },
+      {
+        "family": "Daly",
+        "given": "D."
+      }
+    ],
+    "title": "A Digital Basemap of the Americas for mapping and analyzing plant distributions",
+    "type": null,
+    "issued": "2003",
+    "publisher-place": "The New York Botanical Garden, CD-ROM"
+  },
+  {
+    "author": [
+      {
+        "family": "Boyer",
+        "given": "K."
+      }
+    ],
+    "title": "Palms and Cycads Beyond the Tropics",
+    "publisher": "Palm and Cycad Societies of Australia, Milton",
+    "type": "book",
+    "issued": "1992",
+    "page": "150"
+  },
+  {
+    "author": [
+      {
+        "family": "Burmeister",
+        "given": "H."
+      }
+    ],
+    "title": "Reise durch die La Plata Staaten",
+    "volume": "2",
+    "publisher": "Drud und Berlag von H.W. Schmidt, Halle",
+    "type": "book",
+    "issued": "1861",
+    "page": "340"
+  },
+  {
+    "author": [
+      {
+        "family": "Burmeister",
+        "given": "C.H."
+      }
+    ],
+    "title": "Atlas de la description physique de la République Argentine: Vues pittoresques de la République Argentine",
+    "publisher": "P.-E., Buenos Aires",
+    "type": "book",
+    "issued": "1881",
+    "page": "13",
+    "publisher-place": "Coni"
+  },
+  {
+    "author": [
+      {
+        "family": "Burret",
+        "given": "K.E.M."
+      }
+    ],
+    "title": "Schippia, eine neue Palmengattung aus Brit",
+    "container-title": "Honduras. Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "11",
+    "type": "chapter",
+    "issued": "1933",
+    "page": "867–869",
+    "URL": "http://dx.doi.org/10.2307/3994638",
+    "DOI": "10.2307/3994638"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabral",
+        "given": "E.L."
+      },
+      {
+        "family": "Castro",
+        "given": "M."
+      }
+    ],
+    "title": "Palmeras argentinas, Guía para el reconocimiento",
+    "publisher": "L.O.L.A, Buenos Aires",
+    "type": "book",
+    "issued": "2007",
+    "page": "88"
+  },
+  {
+    "author": [
+      {
+        "family": "Corrêa",
+        "given": "M.P."
+      }
+    ],
+    "title": "Dicionário das plantas úteis do Brasil e das exóticas cultivadas",
+    "volume": "2",
+    "publisher": "Ministério da Agricultura, Rio de Janeiro",
+    "type": "book",
+    "issued": "1931",
+    "page": "707"
+  },
+  {
+    "author": [
+      {
+        "family": "Crisp",
+        "given": "M.D."
+      },
+      {
+        "family": "Isagi",
+        "given": "Y."
+      },
+      {
+        "family": "Kato",
+        "given": "Y."
+      },
+      {
+        "family": "Cook",
+        "given": "L.G."
+      },
+      {
+        "family": "Bowman",
+        "given": "D.M.J.S."
+      }
+    ],
+    "title": "Livistona palms in Australia: Ancient relics or opportunistic immigrants?",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2010",
+    "page": "512–523",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2009.09.020",
+    "DOI": "10.1016/j.ympev.2009.09.020"
+  },
+  {
+    "author": [
+      {
+        "family": "Dammer",
+        "given": "C.L.U."
+      }
+    ],
+    "title": "Chelyocarpus Dammer nov",
+    "container-title": "gen. Notizblatt Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "7",
+    "issue": "68",
+    "type": "article-journal",
+    "issued": "1920",
+    "page": "388–395",
+    "URL": "http://dx.doi.org/10.2307/3994567",
+    "DOI": "10.2307/3994567"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "C.",
+        "particle": "de"
+      }
+    ],
+    "title": "Les ligules du Trithrinax campestris Drude et Grisebach",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société de Botanique de Genève",
+    "issued": "1913",
+    "page": "106–107"
+  },
+  {
+    "author": [
+      {
+        "family": "Vitto",
+        "given": "L.A.",
+        "particle": "del"
+      },
+      {
+        "family": "Petenatti",
+        "given": "E.M."
+      },
+      {
+        "family": "Nellar",
+        "given": "M.M."
+      },
+      {
+        "family": "Petenatti",
+        "given": "M.E."
+      }
+    ],
+    "title": "Las áreas naturales protegidas de San Luis, Argentina",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Multequina",
+    "issued": "1994",
+    "page": "141–156"
+  },
+  {
+    "author": [
+      {
+        "family": "Fluvio",
+        "given": "T.E.",
+        "particle": "di"
+      }
+    ],
+    "title": "Cromosomas gaméticos de Trithrinax campestris (Palmae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Kurtziana",
+    "issued": "1966",
+    "page": "233–234"
+  },
+  {
+    "author": [
+      {
+        "family": "Drabble",
+        "given": "E."
+      }
+    ],
+    "title": "On the anatomy of the roots of palms",
+    "volume": "2nd series 2",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London Botany",
+    "issued": "1904",
+    "page": "427–490",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1904.tb00006.x",
+    "DOI": "10.1111/j.1095-8339.1904.tb00006.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Dransfield",
+        "given": "J."
+      },
+      {
+        "family": "Uhl",
+        "given": "N.W."
+      },
+      {
+        "family": "Asmussen",
+        "given": "C.B."
+      },
+      {
+        "family": "Baker",
+        "given": "W.J."
+      },
+      {
+        "family": "Harley",
+        "given": "M.M."
+      },
+      {
+        "family": "Lewis",
+        "given": "C.E."
+      }
+    ],
+    "title": "A new phylogenetic classification of the palm family, Arecaceae",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2005",
+    "page": "559–569"
+  },
+  {
+    "author": [
+      {
+        "family": "Dransfield",
+        "given": "J."
+      },
+      {
+        "family": "Uhl",
+        "given": "N.W."
+      },
+      {
+        "family": "Asmussen",
+        "given": "C.B."
+      },
+      {
+        "family": "Baker",
+        "given": "W.J."
+      },
+      {
+        "family": "Harley",
+        "given": "M.M."
+      },
+      {
+        "family": "Lewis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Genera Palmarum, The Evolution and Classification of the Palms",
+    "publisher": "Royal Botanic Gardens, Kew",
+    "type": "book",
+    "issued": "2008",
+    "page": "732",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Drude",
+        "given": "O."
+      }
+    ],
+    "title": "Ueber die Trennung der Palmen Amerika's von denen der Alten Welt",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Botanische Zeitung",
+    "issued": "1876",
+    "page": "801–807"
+  },
+  {
+    "author": [
+      {
+        "family": "Drude",
+        "given": "O."
+      }
+    ],
+    "title": "C. Ueber die Gattung Trithrinax und eine neue kultivirte Art derselben",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Gartenflora",
+    "issued": "1878",
+    "page": "359–363"
+  },
+  {
+    "author": [
+      {
+        "family": "Drude",
+        "given": "O."
+      }
+    ],
+    "title": "Palmae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "3",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1882",
+    "page": "251–584",
+    "publisher-place": "Monachii, Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Endlicher",
+        "given": "S.L."
+      }
+    ],
+    "title": "Genera plantarum secundum ordines naturales disposita",
+    "publisher": "Fr. Beck",
+    "type": "book",
+    "issued": "1837",
+    "page": null,
+    "publisher-place": "Wien"
+  },
+  {
+    "author": [
+      {
+        "family": "Fagúndez",
+        "given": "G.A."
+      },
+      {
+        "family": "Caccavari",
+        "given": "M.A."
+      }
+    ],
+    "title": "Pollen analysis of honey from the central Argentine province of Entre Ríos",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Grana",
+    "issued": "2006",
+    "page": "305–320",
+    "URL": "http://dx.doi.org/10.1080/00173130601086636",
+    "DOI": "10.1080/00173130601086636"
+  },
+  {
+    "author": [
+      {
+        "family": "Fracchia",
+        "given": "S."
+      },
+      {
+        "family": "Aranda",
+        "given": "A."
+      },
+      {
+        "family": "Gopar",
+        "given": "A."
+      },
+      {
+        "family": "Silvani",
+        "given": "V."
+      },
+      {
+        "family": "Fernandez",
+        "given": "L."
+      },
+      {
+        "family": "Godeas",
+        "given": "A."
+      }
+    ],
+    "title": "Mycorrhizal status of plant species in the Chaco Serrano Woodland from central Argentina",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Mycorrhiza",
+    "issued": "2009",
+    "page": "205–214",
+    "URL": "http://dx.doi.org/10.1007/s00572-009-0231-8",
+    "DOI": "10.1007/s00572-009-0231-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaiero",
+        "given": "P."
+      },
+      {
+        "family": "Mazzella",
+        "given": "C."
+      },
+      {
+        "family": "Vaio",
+        "given": "M."
+      },
+      {
+        "given": "Barros"
+      },
+      {
+        "family": "A.E.",
+        "given": "Silva"
+      },
+      {
+        "family": "Santiñaque",
+        "given": "F.F."
+      },
+      {
+        "family": "López-Carro",
+        "given": "B."
+      },
+      {
+        "family": "Folle",
+        "given": "G.A."
+      },
+      {
+        "family": "M",
+        "given": "Guerram"
+      }
+    ],
+    "title": "An unusually high heterochromatin content and large genome size in the palm tree Trithrinax campestris (Arecaceae",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Australian Journal of Botany",
+    "issued": "2012",
+    "page": "378–382",
+    "URL": "http://dx.doi.org/10.1071/bt12029",
+    "DOI": "10.1071/bt12029"
+  },
+  {
+    "author": [
+      {
+        "family": "Gauto",
+        "given": "I."
+      }
+    ],
+    "title": "Conservation Status Assessment of the Paraguayan Palms (Arecaceae) with notes on their diversity, phytogeography and uses",
+    "volume": "Geneva",
+    "type": "article-journal",
+    "container-title": "Master in Biology, University of Geneva",
+    "issued": "2009",
+    "page": "132"
+  },
+  {
+    "author": [
+      {
+        "family": "Gauto",
+        "given": "I."
+      },
+      {
+        "family": "Spichiger",
+        "given": "R.E."
+      },
+      {
+        "family": "Stauffer",
+        "given": "F.W."
+      }
+    ],
+    "title": "Diversity, distribution and conservation status assessment of Paraguayan palms (Arecaceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Biodiversity and Conservation",
+    "issued": "2011",
+    "page": "2705–2728",
+    "URL": "http://dx.doi.org/10.1007/s10531-011-0100-6",
+    "DOI": "10.1007/s10531-011-0100-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillain",
+        "given": "G."
+      }
+    ],
+    "title": "Beiträge zur Anatomie der Palmen und Pandanaceen Wurzeln",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Botanisches Centralblatt",
+    "issue": "37",
+    "issued": "1900",
+    "page": "337–412"
+  },
+  {
+    "author": [
+      {
+        "family": "Glassman",
+        "given": "S.F."
+      }
+    ],
+    "title": "A Revision of B",
+    "container-title": "E. Dahlgren’s Index of American Palms. Phanerogamarum Monographiae tomus VI",
+    "publisher": "Cramer, Lehre",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "294"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Dransfield",
+        "given": "J."
+      }
+    ],
+    "title": "World Checklist of Palms",
+    "edition": "1st",
+    "container-title": "The Board of Trustees of the Royal Botanic Gardens",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "223",
+    "publisher-place": "Kew, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Griffith",
+        "given": "W."
+      }
+    ],
+    "title": "The palms of British India",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "The Calcutta Journal of Natural History",
+    "issued": "1844",
+    "page": "311–355"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A."
+      }
+    ],
+    "title": "Flora of the British West Indian Islands",
+    "publisher": "Reeve L. & Co., London",
+    "type": "book",
+    "issued": "1864",
+    "page": "789"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A."
+      }
+    ],
+    "title": "Catalogus Plantarum Cubensium exhibens collectionem wrightianam aliasque minores ex insula Cuba missas",
+    "publisher": "Englemann, G., Leipzig",
+    "type": "book",
+    "issued": "1866",
+    "page": "301"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A."
+      }
+    ],
+    "title": "Symbolae ad Floram argentinam. Zweite Bearbeitung argentinischer Pflanzen",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen",
+    "issued": "1879",
+    "page": "3–345",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.9025",
+    "DOI": "10.5962/bhl.title.9025"
+  },
+  {
+    "author": [
+      {
+        "family": "Guth",
+        "given": "E.B."
+      }
+    ],
+    "title": "La presencia de estegmatas en hojas de palmas flabeladas argentinas",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Argentina de Botánica",
+    "issued": "1970",
+    "page": "209–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Hahn",
+        "given": "W.J."
+      }
+    ],
+    "title": "A Synopsis of the Palmae of Paraguay",
+    "publisher": "Master of Science, Cornell University",
+    "type": "book",
+    "issued": "1990",
+    "page": "226",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Harley",
+        "given": "M.M."
+      }
+    ],
+    "title": "Palm pollen and the fossil record",
+    "genre": "Ph. D. thesis,",
+    "publisher": "University",
+    "container-title": "East London in collaboration with RGB",
+    "type": "chapter",
+    "issued": "1996",
+    "publisher-place": "Kew, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Henderson",
+        "given": "A."
+      },
+      {
+        "family": "Galeano",
+        "given": "G."
+      },
+      {
+        "family": "Bernal",
+        "given": "R."
+      }
+    ],
+    "title": "Field Guide to the Palms of the Americas",
+    "publisher": "Princeton University Press, Princeton",
+    "type": "book",
+    "issued": "1995",
+    "page": "352"
+  },
+  {
+    "author": [
+      {
+        "family": "Henderson",
+        "given": "F."
+      }
+    ],
+    "title": "Morphology and anatomy of palm seedlings",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "The Botanical Review",
+    "issued": "2006",
+    "page": "273–329"
+  },
+  {
+    "author": [
+      {
+        "family": "Hijmans",
+        "given": "R.J."
+      },
+      {
+        "family": "Guarino",
+        "given": "L."
+      },
+      {
+        "family": "Jarvis",
+        "given": "A."
+      },
+      {
+        "family": "O’Brien",
+        "given": "R."
+      },
+      {
+        "family": "Mathur",
+        "given": "P."
+      },
+      {
+        "family": "Bussink",
+        "given": "C."
+      },
+      {
+        "family": "Cruz",
+        "given": "M."
+      },
+      {
+        "family": "Barrantes",
+        "given": "I."
+      },
+      {
+        "family": "Rojas",
+        "given": "E."
+      }
+    ],
+    "genre": "Diva-GIS Version 5.2,",
+    "publisher": "Manual",
+    "type": null,
+    "issued": "2005"
+  },
+  {
+    "author": [
+      {
+        "family": "Holmgren",
+        "given": "P.K."
+      },
+      {
+        "family": "Holmgren",
+        "given": "N.H."
+      },
+      {
+        "family": "L.C",
+        "given": "Barnett"
+      }
+    ],
+    "title": "Index Herbariorum, part I: the herbaria of the world",
+    "edition": "ed. 8",
+    "type": null,
+    "issued": "1990",
+    "page": "693",
+    "publisher-place": "New York Botanical Garden, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoyos",
+        "given": "J."
+      },
+      {
+        "family": "Braun",
+        "given": "A."
+      }
+    ],
+    "title": "Palmas en Venezuela: autóctonas y exóticas, Sociedad de Ciencias Naturales La Salle",
+    "type": null,
+    "issued": "2001",
+    "page": "423",
+    "publisher-place": "Caracas"
+  },
+  {
+    "author": [
+      {
+        "family": "Humboldt",
+        "given": "F.W.H.A."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A.J.A."
+      },
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum",
+    "volume": "1",
+    "publisher": "Librairie Grecque-Latine-Allemande",
+    "type": "book",
+    "issued": "1816",
+    "page": "302",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red list categories and criteria, Version 3.1. IUCN Species Survival Commission",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucn.org/"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria, Version 8.1. IUCN Standards & Petitions Subcommittee",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucn.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquemin",
+        "given": "D."
+      }
+    ],
+    "title": "Palmiers Ornementaux pour Climats Méditerranéens",
+    "publisher": "Editions Champflour, Marly-le-Roi",
+    "type": "book",
+    "issued": "1999",
+    "page": "304"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L.de"
+      }
+    ],
+    "title": "Genera Plantarum Secundum Ordines Naturales Disposita",
+    "publisher": "Herissant et Theophilum Barrois, Paris",
+    "type": "book",
+    "issued": "1789",
+    "page": "498"
+  },
+  {
+    "author": [
+      {
+        "family": "Karsten",
+        "given": "H."
+      }
+    ],
+    "title": "Plantae columbianae, descripsit",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1856",
+    "page": "241–256"
+  },
+  {
+    "author": [
+      {
+        "family": "Krapovickas",
+        "given": "A."
+      }
+    ],
+    "title": "El tipo de Trithrinax campestris (Palmae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Bonplandia",
+    "issued": "2007",
+    "page": "271–273"
+  },
+  {
+    "author": [
+      {
+        "family": "Kümmerle",
+        "given": "J.B."
+      }
+    ],
+    "title": "Die paraguayanischen Pteridophyten-Sammlungen J",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Daniel Anisits’s. Magyar Botanikai Lapok",
+    "issued": "1933",
+    "page": "58–63"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanjouw",
+        "given": "J."
+      },
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      }
+    ],
+    "title": "Index Herbariorum part II, Collectors, First Instalment A-D",
+    "container-title": "International Bureau for Plant Taxonomy and Nomenclature of the International Association for Plant Taxonomy, Utrecht",
+    "type": "chapter",
+    "issued": "1954",
+    "page": "174"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "J.P."
+      },
+      {
+        "family": "Prado",
+        "given": "D.E."
+      },
+      {
+        "family": "Barberis",
+        "given": "I.M."
+      }
+    ],
+    "title": "Los remanentes de bosques del Espinal en la provincia de Córdoba",
+    "editor": [
+      {
+        "family": "A.D.",
+        "given": "Brown"
+      },
+      {
+        "family": "Martínez-Ortiz",
+        "given": "U."
+      },
+      {
+        "family": "Acerbi",
+        "given": "M."
+      },
+      {
+        "family": "Corcuera",
+        "given": "J."
+      }
+    ],
+    "container-title": "La situación ambiental argentina 2005. Fundación Vida Silvestre Argentina, Buenos Aires",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "254–258"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "J.P."
+      },
+      {
+        "family": "Noetinger",
+        "given": "S."
+      },
+      {
+        "family": "Prado",
+        "given": "D.E."
+      },
+      {
+        "family": "Barberis",
+        "given": "I.M."
+      }
+    ],
+    "title": "Woody vegetation structure and composition of the last relicts of Espinal vegetation in subtropical Argentina",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Biodiversity and Conservation",
+    "issued": "2009",
+    "page": "3615–3628",
+    "URL": "http://dx.doi.org/10.1007/s10531-009-9665-8",
+    "DOI": "10.1007/s10531-009-9665-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindeman",
+        "given": "J.C."
+      },
+      {
+        "family": "Baptista",
+        "given": "L.R.M."
+      },
+      {
+        "family": "Irgang",
+        "given": "B.E."
+      },
+      {
+        "family": "Porto",
+        "given": "M.L."
+      },
+      {
+        "family": "Girardi-Deiro",
+        "given": "A.M."
+      },
+      {
+        "family": "Lorscheitter-Baptista",
+        "given": "M.L."
+      }
+    ],
+    "title": "Estudos botânicos no Parque Estadual de Torres, Rio Grande do Sul, Brasil",
+    "container-title": "II Levantamento florístico da planície do Curtume, da área de Itapeva e da área colonizada. Iheringia, Série Botânica",
+    "volume": "21",
+    "type": "chapter",
+    "issued": "1975",
+    "page": "15–52"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": "article-journal",
+    "container-title": "Imprensis Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lombardo",
+        "given": "A."
+      }
+    ],
+    "title": "Flora arbórea y arborescente del Uruguay: con clave para determiner lase species",
+    "edition": "2nd",
+    "volume": "Montevideo",
+    "type": "article-journal",
+    "container-title": "Concejo Departamental de Montevideo",
+    "issued": "1964",
+    "page": "151"
+  },
+  {
+    "author": [
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      },
+      {
+        "family": "Noblick",
+        "given": "L.R."
+      },
+      {
+        "family": "Kahn",
+        "given": "F."
+      },
+      {
+        "family": "Ferreira",
+        "given": "E."
+      }
+    ],
+    "title": "Flora Brasileira: Arecaceae (Palmeiras",
+    "container-title": "Instituto Plantarum de Estudos da Flora",
+    "publisher": "Nova Odessa",
+    "type": "chapter",
+    "issued": "2010",
+    "page": "384"
+  },
+  {
+    "author": [
+      {
+        "family": "Lugo",
+        "given": "M.A."
+      },
+      {
+        "family": "Giordano",
+        "given": "P.G."
+      },
+      {
+        "family": "Urcelay",
+        "given": "C."
+      },
+      {
+        "family": "Crespo",
+        "given": "E.M."
+      }
+    ],
+    "title": "Colonización radical por endófitos fúngicos en Trithrinax campestris (Arecaceae) de ecosistemas semiáridos del centro de Argentina",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Argentina de Botánica",
+    "issued": "2011",
+    "page": "213–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Luna",
+        "given": "C.A."
+      }
+    ],
+    "title": "Plantas textiles indígenas",
+    "edition": "2nd",
+    "publisher": "ACME S.A.C.I., Buenos Aires",
+    "type": "book",
+    "issued": "1977",
+    "page": "72"
+  },
+  {
+    "author": [
+      {
+        "family": "Magnano",
+        "given": "S.",
+        "particle": "Maldonado de"
+      }
+    ],
+    "title": "Trithrinax campestris (Palmae): Inflorescencia y flor con especial referencia al gineceo",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Kurtziana",
+    "issued": "1973",
+    "page": "37–52"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "title": "Historia Naturalis Palmarum",
+    "volume": "2–3",
+    "publisher": "Weigel, Leipzig",
+    "type": "book",
+    "issued": "1837",
+    "page": "350"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "title": "Palmetum orbignianum. Descriptio palmarum in Paraguaria et Bolivia crescentium, secundum Alc. de Orbigny exempla, schedulas et icons digessit",
+    "editor": [
+      {
+        "family": "Orbigny",
+        "given": "ADd’"
+      }
+    ],
+    "note": "exécuté pendant les années 1826, 1827, 1828, 1829, 1830, 1831, 1832 et 1833 par Alcide d’Orbigny,",
+    "volume": "7",
+    "issue": "3",
+    "type": null,
+    "issued": "1847",
+    "page": "–140",
+    "publisher-place": "Palmiers. Bertrand, Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.8353",
+    "DOI": "10.5962/bhl.title.8353"
+  },
+  {
+    "author": [
+      {
+        "family": "Mattos",
+        "given": "J.R."
+      }
+    ],
+    "title": "Palmeiras do Rio Grande do Sul",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Roessleria",
+    "issued": "1977",
+    "page": "5–99"
+  },
+  {
+    "author": [
+      {
+        "family": "Meerow",
+        "given": "A.W."
+      }
+    ],
+    "title": "Betrock’s Cold Hardy Palms",
+    "edition": "1st",
+    "publisher": "Betrock Information System, Florida",
+    "type": "book",
+    "issued": "2005",
+    "page": "155"
+  },
+  {
+    "author": [
+      {
+        "family": "Moat",
+        "given": "J."
+      }
+    ],
+    "title": "Conservation assessment tools extension for ArcView 3.x, version 1.2",
+    "genre": "GIS Unit,",
+    "note": "Royal Botanic Gardens, Kew. Available from:",
+    "type": null,
+    "issued": "2007",
+    "URL": "http://www.kew.org/science-research-data/kew-in-depth/gis/resources-and-publications/tools/cat/index.htm"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "H.E."
+      }
+    ],
+    "title": "Chelyocarpus and its allies Cryosophila and Itaya (Palmae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Principes",
+    "issued": "1972",
+    "page": "67–88"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "H.E."
+      },
+      {
+        "family": "Uhl",
+        "given": "N.W."
+      }
+    ],
+    "title": "Major Trends of Evolution in Palms",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Botanical Review",
+    "issue": "1",
+    "issued": "1982",
+    "page": "1–69",
+    "URL": "http://dx.doi.org/10.1007/bf02860535",
+    "DOI": "10.1007/bf02860535"
+  },
+  {
+    "author": [
+      {
+        "family": "Moraes",
+        "given": "M."
+      }
+    ],
+    "title": "Flora de palmeras de Bolivia. Herbario Nacional de Bolivia, Instituto de Ecología, Carrera de Biología, Universidad Mayor de San Andrés",
+    "publisher": "La Paz",
+    "type": "book",
+    "issued": "2004",
+    "page": "262"
+  },
+  {
+    "author": [
+      {
+        "family": "Morong",
+        "given": "T."
+      }
+    ],
+    "title": "An Enumeration of the Plants Collected by Dr. Thomas Morong in Paraguay, 1888–1890",
+    "container-title": "Annals of the New York Academy of Sciences",
+    "volume": "7",
+    "type": "chapter",
+    "issued": "1893",
+    "page": "45–280",
+    "URL": "http://dx.doi.org/10.1111/j.1749-6632.1893.tb55410.x",
+    "DOI": "10.1111/j.1749-6632.1893.tb55410.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Morrow",
+        "given": "L.O."
+      }
+    ],
+    "title": "Floral morphology and anatomy of certain Coryphoideae (Palmae",
+    "genre": "Ph.D. thesis,",
+    "publisher": "Cornell University",
+    "type": "thesis",
+    "issued": "1965",
+    "page": "371",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Olson",
+        "given": "D.M."
+      },
+      {
+        "family": "Dinerstein",
+        "given": "E."
+      },
+      {
+        "family": "Wikramanayake",
+        "given": "E."
+      },
+      {
+        "family": "Burgess",
+        "given": "N."
+      },
+      {
+        "family": "Powell",
+        "given": "G."
+      },
+      {
+        "family": "Underwood",
+        "given": "E."
+      },
+      {
+        "family": "D'Amico",
+        "given": "J.A."
+      },
+      {
+        "family": "Itoua",
+        "given": "I."
+      },
+      {
+        "family": "Strand",
+        "given": "H.E."
+      },
+      {
+        "family": "Morrison",
+        "given": "H.C."
+      },
+      {
+        "family": "Loucks",
+        "given": "C.J."
+      },
+      {
+        "family": "Allnutt",
+        "given": "T.F."
+      },
+      {
+        "family": "Ricketts",
+        "given": "T.H."
+      },
+      {
+        "family": "Kura",
+        "given": "Y."
+      },
+      {
+        "family": "Lamoreux",
+        "given": "J.F."
+      },
+      {
+        "family": "Wettengel",
+        "given": "W.W."
+      },
+      {
+        "family": "Hedao",
+        "given": "P."
+      },
+      {
+        "family": "Kassem",
+        "given": "K.R."
+      }
+    ],
+    "title": "Terrestrial ecoregions of the world: a new map of life on earth",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Bioscience",
+    "issued": "2001",
+    "page": "933–938",
+    "URL": "http://dx.doi.org/10.1641/0006-3568(2001)051",
+    "DOI": "10.1641/0006-3568(2001)051"
+  },
+  {
+    "author": [
+      {
+        "family": "Palacios",
+        "given": "F."
+      },
+      {
+        "family": "Cardozo",
+        "given": "R."
+      },
+      {
+        "family": "Rodas",
+        "given": "O."
+      },
+      {
+        "family": "Yanosky",
+        "given": "A."
+      }
+    ],
+    "title": "Resultados del Monitoreo de los Cambios de Uso de la Tierra, Incendios e Inundaciones en el Gran Chaco Americano, periodo de monitoreo del 1 al 31 de Julio de 2012",
+    "volume": "Asunción",
+    "type": "article-journal",
+    "container-title": "Asociación Guyra Paraguay",
+    "issued": "2012",
+    "page": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfister",
+        "given": "R."
+      }
+    ],
+    "title": "Beitrag zur vergleichenden Anatomie der Sabaleenblätter",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Universität Zürich, Zürich",
+    "issued": "1892",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pingitore",
+        "given": "E.J."
+      }
+    ],
+    "title": "Revisión de las especies del género Trithrinax (Principales",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Revista del Instituto Municipal de Botánica de Buenos Aires",
+    "issued": "1978",
+    "page": "95–109"
+  },
+  {
+    "author": [
+      {
+        "family": "Pintaud",
+        "given": "J.-C."
+      },
+      {
+        "family": "Galeano",
+        "given": "G."
+      },
+      {
+        "family": "Balslev",
+        "given": "H."
+      },
+      {
+        "family": "Bernal",
+        "given": "R."
+      },
+      {
+        "family": "Borchsenius",
+        "given": "F."
+      },
+      {
+        "family": "Ferreira",
+        "given": "E."
+      },
+      {
+        "family": "Granville",
+        "given": "J.-J.",
+        "particle": "de"
+      },
+      {
+        "family": "Mejía",
+        "given": "K."
+      },
+      {
+        "family": "Millán",
+        "given": "B."
+      },
+      {
+        "family": "Moraes",
+        "given": "M."
+      },
+      {
+        "family": "Noblick",
+        "given": "L.R."
+      },
+      {
+        "family": "Stauffer",
+        "given": "F.W."
+      },
+      {
+        "family": "Kahn",
+        "given": "F."
+      }
+    ],
+    "title": "Las palmeras de América del Sur: diversidad, distribución e historia evolutiva",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Revista Peruana de Biología",
+    "issued": "2008",
+    "page": "7–29"
+  },
+  {
+    "author": [
+      {
+        "family": "Poinar",
+        "given": "G."
+      }
+    ],
+    "title": "Fossil palm flowers in Dominican and Mexican amber",
+    "volume": "138",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2002",
+    "page": "57–61",
+    "URL": "http://dx.doi.org/10.1046/j.1095-8339.2002.00010.x",
+    "DOI": "10.1046/j.1095-8339.2002.00010.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Quercellini",
+        "given": "S."
+      },
+      {
+        "family": "Luzzi",
+        "given": "P."
+      },
+      {
+        "family": "Gasparrini",
+        "given": "G."
+      }
+    ],
+    "title": "A strange palm of the genus Trithrinax Mart. in the collection of Arecaceae at the Florence Botanical Garden",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Hortus Exoticus",
+    "issued": "2012",
+    "page": "3–6"
+  },
+  {
+    "author": [
+      {
+        "family": "Read",
+        "given": "R.W."
+      }
+    ],
+    "title": "Palm chromosomes",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Principes",
+    "issued": "1963",
+    "page": "85–88"
+  },
+  {
+    "author": [
+      {
+        "family": "Read",
+        "given": "R.W."
+      }
+    ],
+    "title": "Palm Chromosome Studies Facilitated by Pollen Culture on a Colchicine-Lactose Medium",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Biotechnic and Histochemistry",
+    "issued": "1964",
+    "page": "99–106",
+    "URL": "http://dx.doi.org/10.3109/10520296409061215",
+    "DOI": "10.3109/10520296409061215"
+  },
+  {
+    "author": [
+      {
+        "family": "Reitz",
+        "given": "R."
+      }
+    ],
+    "title": "As palmeiras de Santa Catarina e sua distribuição geográfica",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Anais Botânicos do Herbário “Barbosa Rodrigues”",
+    "issued": "1953",
+    "page": "233–252"
+  },
+  {
+    "author": [
+      {
+        "family": "Reitz",
+        "given": "R."
+      }
+    ],
+    "title": "Os nomes populares das plantas de Santa Catarina",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Sellowia (Bra",
+    "issued": "1959",
+    "page": "9–148"
+  },
+  {
+    "author": [
+      {
+        "family": "Reitz",
+        "given": "R."
+      }
+    ],
+    "title": "Flora Ilustrada Catarinense: Palmeiras",
+    "type": null,
+    "issued": "1974",
+    "page": "189",
+    "publisher-place": "Herbario “Barbosa Rodrigues.”, Santa Catarina"
+  },
+  {
+    "author": [
+      {
+        "family": "Riffle",
+        "given": "R.L."
+      },
+      {
+        "family": "Craft",
+        "given": "P."
+      }
+    ],
+    "title": "An Encyclopedia of Cultivated Palms",
+    "publisher": "Timber Press, Oregon",
+    "type": "book",
+    "issued": "2003",
+    "page": "528"
+  },
+  {
+    "author": [
+      {
+        "family": "Roncal",
+        "given": "J."
+      },
+      {
+        "family": "Zona",
+        "given": "S."
+      },
+      {
+        "family": "Lewis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Molecular Phylogenetic Studies of Caribbean Palms (Arecaceae) and Their Relationships to Biogeography and Conservation",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "The Botanical Review",
+    "issued": "2008",
+    "page": "78–102",
+    "URL": "http://dx.doi.org/10.1007/s12229-008-9005-9",
+    "DOI": "10.1007/s12229-008-9005-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Röser",
+        "given": "M."
+      }
+    ],
+    "title": "Pathways of karyological differentiation in palms (Arecaceae",
+    "volume": "189",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "1994",
+    "page": "83–122",
+    "URL": "http://dx.doi.org/10.1007/bf00937580",
+    "DOI": "10.1007/bf00937580"
+  },
+  {
+    "author": [
+      {
+        "family": "Rudall",
+        "given": "P.J."
+      },
+      {
+        "family": "Ryder",
+        "given": "R.A."
+      },
+      {
+        "family": "Baker",
+        "given": "W.J."
+      }
+    ],
+    "title": "Comparative Gynoecium Structure and Multiple Origins of Apocarpy in Coryphoid Palms (Arecaceae",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2011",
+    "page": "674–690",
+    "URL": "http://dx.doi.org/10.1086/659459",
+    "DOI": "10.1086/659459"
+  },
+  {
+    "author": [
+      {
+        "family": "Salomon",
+        "given": "C."
+      }
+    ],
+    "title": "Die Palmen nebst ihren Gattungen und Arten für Gewächshaus und Zimmer-Kultur",
+    "publisher": "Parey, P., Berlin",
+    "type": "book",
+    "issued": "1887",
+    "page": "184"
+  },
+  {
+    "author": [
+      {
+        "family": "Satô",
+        "given": "D."
+      }
+    ],
+    "title": "Caryotype alteration and phylogeny, VI. Karyotype analysis in Palmae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Cytologia",
+    "issued": "1946",
+    "page": "174–186",
+    "URL": "http://dx.doi.org/10.1508/cytologia.14.174",
+    "DOI": "10.1508/cytologia.14.174"
+  },
+  {
+    "author": [
+      {
+        "family": "Seubert",
+        "given": "E."
+      }
+    ],
+    "title": "Root anatomy of palms, I",
+    "volume": "192",
+    "type": "article-journal",
+    "container-title": "Coryphoideae. Flora",
+    "issued": "1997",
+    "page": "81–103"
+  },
+  {
+    "author": [
+      {
+        "family": "Soares",
+        "given": "K.P."
+      }
+    ],
+    "title": "Estudo demográfico de duas populações de Trithrinax brasiliensis Mart. no estado do Rio Grande do Sul",
+    "container-title": "Trabalho de Conclusão de Curso de Graduação em Engenharia Florestal, Universidade Federal de",
+    "publisher": "Rio Grande do Sul",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "43",
+    "publisher-place": "Santa Maria"
+  },
+  {
+    "author": [
+      {
+        "family": "Solereder",
+        "given": "H."
+      },
+      {
+        "family": "F.J",
+        "given": "Meyer"
+      }
+    ],
+    "title": "Systematische Anatomie der Monokotyledonen",
+    "volume": null,
+    "publisher": "Palmae. Gebrüder Borntraeger",
+    "issue": "3",
+    "type": "book",
+    "issued": "1928",
+    "page": "175",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Sowunmi",
+        "given": "M.A."
+      }
+    ],
+    "title": "Pollen morphology of the Palmae and its bearing on taxonomy",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Review of Palaeobotany and Palynology",
+    "issued": "1972",
+    "page": "1–80",
+    "URL": "http://dx.doi.org/10.1016/0034-6667(72)90044-9",
+    "DOI": "10.1016/0034-6667(72)90044-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature, a selective guide to botanical publications and collections with dates, commentaries and types",
+    "edition": "2nd",
+    "volume": "1",
+    "publisher": "Bohn, Scheltema & Holkema",
+    "type": "book",
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum seu Prodromus",
+    "publisher": "Swederi",
+    "type": "article-journal",
+    "container-title": "Bibliopoliis Acad. M",
+    "issued": "1788",
+    "page": "158",
+    "publisher-place": "Uppsala, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Thanikaimoni",
+        "given": "G."
+      }
+    ],
+    "title": "Contribution à l’étude palynologique des palmiers",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Travaux de la section scientifique et technique de l’Institut français de Pondichéry",
+    "issue": "2",
+    "issued": "1966",
+    "page": "1–92"
+  },
+  {
+    "author": [
+      {
+        "family": "Thanikaimoni",
+        "given": "G."
+      }
+    ],
+    "title": "Les Palmiers: palynologie et systématique",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Travaux de la section scientifique et technique de l’Institut français de Pondichéry",
+    "issued": "1970",
+    "page": "1–286"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "R."
+      },
+      {
+        "family": "De Franceschi",
+        "given": "D."
+      }
+    ],
+    "title": "First evidence of fossil Cryosophileae (Arecaceae) outside the Americas (early Oligocene and late Miocene of France): Anatomy, palaeobiogeography and evolutionary implications",
+    "volume": "171",
+    "type": "article-journal",
+    "container-title": "Review of Palaeobotany and Palynology",
+    "issued": "2012",
+    "page": "27–39",
+    "URL": "http://dx.doi.org/10.1016/j.revpalbo.2011.11.010",
+    "DOI": "10.1016/j.revpalbo.2011.11.010"
+  },
+  {
+    "author": [
+      {
+        "family": "Tomlinson",
+        "given": "P.B."
+      }
+    ],
+    "title": "Palmae",
+    "editor": [
+      {
+        "family": "Metcalfe",
+        "given": "C.R."
+      }
+    ],
+    "container-title": "Anatomy of the Monocotyledons II",
+    "publisher": "Clarendon Press",
+    "type": "chapter",
+    "issued": "1961",
+    "page": "1–453",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Tomlinson",
+        "given": "P.B."
+      }
+    ],
+    "title": "The leaf base in palms; its morphology and mechanical biology",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1962",
+    "page": "23–46"
+  },
+  {
+    "author": [
+      {
+        "family": "Tomlinson",
+        "given": "P.B."
+      }
+    ],
+    "title": "Essays on the Morphology of Palms, VII. A Digression about spines",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Principes",
+    "issued": "1962",
+    "page": "44–52"
+  },
+  {
+    "author": [
+      {
+        "family": "Tomlinson",
+        "given": "P.B."
+      }
+    ],
+    "title": "The structural biology of palms",
+    "publisher": "Clarendon Press, Oxford",
+    "type": "book",
+    "issued": "1990",
+    "page": "477"
+  },
+  {
+    "author": [
+      {
+        "family": "Tomlinson",
+        "given": "P.B."
+      },
+      {
+        "family": "Horn",
+        "given": "J.W."
+      },
+      {
+        "family": "Fisher",
+        "given": "J.B."
+      }
+    ],
+    "title": "The Anatomy of Palms: Arecaceae-Palmae",
+    "publisher": "Oxford University Press, Oxford",
+    "type": "book",
+    "issued": "2011",
+    "page": "273"
+  },
+  {
+    "author": [
+      {
+        "family": "Uhl",
+        "given": "N.W."
+      },
+      {
+        "family": "Dransfield",
+        "given": "J."
+      }
+    ],
+    "title": "Genera Palmarum—A classification of Palms Based on the Work of Harold E",
+    "publisher": "Moore Jr. International Palm Society & L.H. Bailey Hortorium, Cornell University",
+    "type": "book",
+    "issued": "1987",
+    "page": "610"
+  },
+  {
+    "author": [
+      {
+        "family": "Ventenat",
+        "given": "E.P."
+      }
+    ],
+    "title": "Tableau du règne végétal",
+    "volume": "3",
+    "publisher": "J., Paris",
+    "type": "book",
+    "issued": "1799",
+    "page": "588",
+    "publisher-place": "Drisonnier"
+  },
+  {
+    "author": [
+      {
+        "family": "Walpers",
+        "given": "W.G."
+      }
+    ],
+    "title": "Annales botanices systematicae",
+    "volume": "1",
+    "publisher": "Sumptibus Friderici Hofmeister",
+    "issue": "6",
+    "type": "book",
+    "issued": "1849",
+    "page": "1–127",
+    "publisher-place": "Leipzig",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.7556",
+    "DOI": "10.5962/bhl.title.7556"
+  },
+  {
+    "author": [
+      {
+        "family": "Wendland",
+        "given": "H."
+      }
+    ],
+    "title": "Beiträge zur Kenntniss der Palmen",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Botanische Zeitung",
+    "issued": "1878",
+    "page": "114–118"
+  },
+  {
+    "author": [
+      {
+        "family": "Zocche",
+        "given": "J.J."
+      },
+      {
+        "family": "Daniel",
+        "given": "R.B."
+      },
+      {
+        "family": "Costa",
+        "given": "S."
+      },
+      {
+        "family": "Cristiano",
+        "given": "M.P."
+      },
+      {
+        "family": "Cardoso",
+        "given": "D.C."
+      },
+      {
+        "family": "Souza",
+        "given": "P.Z.",
+        "particle": "de"
+      },
+      {
+        "family": "Bitencourt",
+        "given": "F.",
+        "particle": "de"
+      }
+    ],
+    "title": "Estrutura populacional de Trithrinax brasiliensis Martius (Arecaceae) na falésia do Morro dos Conventos, Araranguá, SC",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Brasil. Revista Brasileira de Biociências",
+    "issued": "2007",
+    "page": "792–794"
+  },
+  {
+    "author": [
+      {
+        "family": "Zuloaga",
+        "given": "F.O."
+      },
+      {
+        "family": "Morrone",
+        "given": "O."
+      },
+      {
+        "family": "Belgrano",
+        "given": "M.J."
+      },
+      {
+        "family": "Pteridophyta",
+        "given": "Gymnospermae"
+      },
+      {
+        "given": "Monocotyledoneae"
+      }
+    ],
+    "title": "Catálogo de las Plantas Vasculares del Cono Sur (Argentina, Sur de Brasil, Chile, Paraguay y Uruguay",
+    "volume": "1",
+    "publisher": "Missouri",
+    "type": "book",
+    "issued": "2008",
+    "page": "984"
+  }
+]

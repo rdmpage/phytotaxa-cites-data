@@ -1,0 +1,698 @@
+[
+  {
+    "author": [
+      {
+        "family": "Akeroyd",
+        "given": "J.R."
+      },
+      {
+        "family": "Ball",
+        "given": "P.W."
+      }
+    ],
+    "title": "Aubrieta Adans",
+    "director": [
+      {
+        "family": "Tutin",
+        "given": "T.G."
+      },
+      {
+        "family": "Burges",
+        "given": "N.A."
+      },
+      {
+        "family": "Chater",
+        "given": "A.O."
+      },
+      {
+        "family": "Edmundon",
+        "given": "J.R."
+      },
+      {
+        "family": "Heywood",
+        "given": "V.H."
+      },
+      {
+        "family": "Moore",
+        "given": "D.M."
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "1",
+    "edition": "1st",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "356–358",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      }
+    ],
+    "title": "Brassicaceae Burnett",
+    "container-title": "Flora of North America Editorial Committee",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "volume": "7",
+    "type": "chapter",
+    "issued": "2010",
+    "page": "231–234",
+    "publisher-place": "New York and Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      }
+    ],
+    "title": "A generic and tribal synopsis of the Brassicaceae (Cruciferae",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2012",
+    "page": "931–954"
+  },
+  {
+    "author": [
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      },
+      {
+        "family": "Beilstein",
+        "given": "M.A."
+      },
+      {
+        "family": "Kellogg",
+        "given": "E.A."
+      }
+    ],
+    "title": "Systematics and phylogeny of the Brassicaceae (Cruciferae): an overview",
+    "volume": "259",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2006",
+    "page": "89–120",
+    "URL": "https://doi.org/10.1007/s00606-006-0415-z",
+    "DOI": "10.1007/s00606-006-0415-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      },
+      {
+        "family": "Mutlu",
+        "given": "B."
+      },
+      {
+        "family": "Dönmez",
+        "given": "A.A."
+      }
+    ],
+    "title": "The Brassicaceae (Cruciferae) of Turkey, updated",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Turkish Journal of Botany",
+    "issued": "2007",
+    "page": "327–336"
+  },
+  {
+    "author": [
+      {
+        "family": "Ancev",
+        "given": "M."
+      },
+      {
+        "family": "Goranova",
+        "given": "V."
+      }
+    ],
+    "title": "Aubrieta (Brassicaceae) in the Bulgarian flora",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Phytologia Balcanica",
+    "issued": "2009",
+    "page": "43–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Appel",
+        "given": "O."
+      },
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      }
+    ],
+    "title": "Cruciferae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "family": "Bayer",
+        "given": "C."
+      }
+    ],
+    "container-title": "The families and genera of vascular plants",
+    "volume": "5",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "75–174",
+    "publisher-place": "Heidelberg"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Aubrieta",
+    "editor": [
+      {
+        "family": "Georg",
+        "given": "A.H."
+      },
+      {
+        "family": "Bibliopolam",
+        "given": "Basil"
+      },
+      {
+        "family": "Eumdem",
+        "given": "Apud"
+      },
+      {
+        "given": "Geneve"
+      }
+    ],
+    "container-title": "Flora orientalis",
+    "volume": "1",
+    "type": "chapter",
+    "issued": "1867",
+    "page": "249–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Cullen",
+        "given": "J."
+      }
+    ],
+    "title": "Aubrieta Adans",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of Turkey and the East Aegean Islands",
+    "volume": "1",
+    "publisher": "Edinburgh University Press",
+    "type": "chapter",
+    "issued": "1965",
+    "page": "444–447",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Franzke",
+        "given": "A."
+      },
+      {
+        "family": "German",
+        "given": "D."
+      },
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      },
+      {
+        "family": "Mummenhoff",
+        "given": "K."
+      }
+    ],
+    "title": "Arabidopsis family tries: molecular phylogeny and age estimates in Brassicaceae",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2009",
+    "page": "425–437"
+  },
+  {
+    "author": [
+      {
+        "family": "Franzke",
+        "given": "A."
+      },
+      {
+        "family": "Lysak",
+        "given": "M.A."
+      },
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      },
+      {
+        "family": "Koch",
+        "given": "M.A."
+      },
+      {
+        "family": "Mummenhoff",
+        "given": "K."
+      }
+    ],
+    "title": "Cabbage family affairs: the evolutionary history of Brassicaceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Trends in Plant Science",
+    "issued": "2011",
+    "page": "108–116",
+    "URL": "https://doi.org/10.1016/j.tplants.2010.11.005",
+    "DOI": "10.1016/j.tplants.2010.11.005"
+  },
+  {
+    "author": [
+      {
+        "family": "Hohmann",
+        "given": "N."
+      },
+      {
+        "family": "Wolf",
+        "given": "E."
+      },
+      {
+        "family": "Lysak",
+        "given": "M."
+      },
+      {
+        "family": "Koch",
+        "given": "M.A."
+      }
+    ],
+    "title": "A Time-Calibrated Road Map of Brassicaceae Species Radiation and Evolutionary History",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "The Plant Cell",
+    "issue": "10",
+    "issued": "2015",
+    "page": "2770–2784",
+    "URL": "http://dx.doi.org/10.1105/tpc.15.00482",
+    "DOI": "10.1105/tpc.15.00482"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Red list categories: Version 3.1, IUCN Species Survival Commission",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "publisher-place": "Gland, Switzerland/Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Karl",
+        "given": "R."
+      },
+      {
+        "family": "Koch",
+        "given": "M.A."
+      }
+    ],
+    "title": "A world-wide perspective on crucifer speciation and evolution: phylogeny, biogeography and trait evolution in tribe Arabideae",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issue": "6",
+    "issued": "2013",
+    "page": "983–1001",
+    "URL": "https://doi.org/10.1093/aob/mct165",
+    "DOI": "10.1093/aob/mct165"
+  },
+  {
+    "author": [
+      {
+        "family": "Kiefer",
+        "given": "R.M."
+      },
+      {
+        "family": "Schmickl",
+        "given": "R."
+      },
+      {
+        "family": "German",
+        "given": "D."
+      },
+      {
+        "family": "Lysak",
+        "given": "M."
+      },
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      },
+      {
+        "family": "Franzke",
+        "given": "A."
+      },
+      {
+        "family": "Mummenhoff",
+        "given": "K."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Koch",
+        "given": "M.A."
+      }
+    ],
+    "title": "BrassiBase: Introduction to a Novel Knowledge Database on Brassicaceae Evolution",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Plant Cell and Physiology",
+    "issue": "1",
+    "issued": "2014",
+    "page": "3",
+    "URL": "https://doi.org/10.1093/pcp/pct158",
+    "DOI": "10.1093/pcp/pct158"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "M."
+      },
+      {
+        "family": "Kiefer",
+        "given": "C."
+      }
+    ],
+    "title": "Molecules and migration: biogeographical studies in cruciferous plants",
+    "volume": "259",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issue": "2–4",
+    "issued": "2006",
+    "page": "121–142",
+    "URL": "https://doi.org/10.1007/s00606-006-0416-y",
+    "DOI": "10.1007/s00606-006-0416-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Mattfield",
+        "given": "J."
+      }
+    ],
+    "title": "The species of the genus Aubrieta Adanson [Translated from Bla ̈tt",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Staudenk",
+    "issued": "1939",
+    "page": "157–181"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "F.K."
+      }
+    ],
+    "title": "Beiträge zur Flora Albanien",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Haussknechtia, Beihefte",
+    "issued": "2011",
+    "page": "1–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Mouterde",
+        "given": "P."
+      }
+    ],
+    "title": "Aubrieta Adans",
+    "editor": [
+      {
+        "family": "Mouterde",
+        "given": "P."
+      },
+      {
+        "family": "Dar El-Machreq",
+        "particle": "text."
+      },
+      {
+        "given": "Beyrouth"
+      }
+    ],
+    "container-title": "Nouvelle Flore du Liban et du la Syrie",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1986",
+    "page": "140"
+  },
+  {
+    "author": [
+      {
+        "family": "Mutlu",
+        "given": "B."
+      }
+    ],
+    "director": [
+      {
+        "given": "Brassicaceae"
+      }
+    ],
+    "title": "ve Rorippa hariç",
+    "editor": [
+      {
+        "family": "Güner",
+        "given": "A."
+      },
+      {
+        "family": "Aslan",
+        "given": "S."
+      },
+      {
+        "family": "Ekim",
+        "given": "T."
+      },
+      {
+        "family": "Vural",
+        "given": "M."
+      },
+      {
+        "family": "Babaç",
+        "given": "M.T."
+      }
+    ],
+    "container-title": "Türkiye Bitkileri Listesi (Damarlı Bitkiler). Nezahat Gökyiğit Botanik Bahçesi ve Flora Araştırmaları Derneği",
+    "note": "in Turkish",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "246–299",
+    "publisher-place": "İstanbul, Turkey"
+  },
+  {
+    "author": [
+      {
+        "family": "Mutlu",
+        "given": "B."
+      },
+      {
+        "family": "Karakuş",
+        "given": "Ş."
+      }
+    ],
+    "title": "A new species of Sisymbrium (Brassicaceae) from Turkey: Morphological and molecular evidences",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Turkish Journal of Botany",
+    "issued": "2015",
+    "page": "325–333",
+    "URL": "https://doi.org/10.3906/bot-1404-28",
+    "DOI": "10.3906/bot-1404-28"
+  },
+  {
+    "author": [
+      {
+        "family": "Peşmen",
+        "given": "H."
+      },
+      {
+        "family": "Güner",
+        "given": "A."
+      }
+    ],
+    "title": "Notes from the Royal Botanic Garden",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Edinburgh",
+    "issue": "1",
+    "issued": "1978",
+    "page": "35"
+  },
+  {
+    "author": [
+      {
+        "family": "Phitos",
+        "given": "D."
+      }
+    ],
+    "title": "Aubrieta Adans",
+    "editor": [
+      {
+        "family": "Strid",
+        "given": "A."
+      },
+      {
+        "family": "Tan",
+        "given": "K."
+      }
+    ],
+    "container-title": "Flora Hellenica",
+    "volume": "2",
+    "publisher": "A.R.G. Gantner Verlag K.G. Koeltz Scientific Books, Koenigstein",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "192–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "title": "Flora Aegea. Flora der Inseln und Halbinseln des ägäischen Meeres",
+    "publisher": "Denkschriften der Akademie der Wissenschaften Wien",
+    "note": "Mathematisch- Naturwissenschaftliche Klasse 105/1.",
+    "type": null,
+    "issued": "1943",
+    "publisher-place": "Wien"
+  },
+  {
+    "author": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "title": "Aubrieta Adans",
+    "editor": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "container-title": "Flora Iranica 57",
+    "publisher": "Akademische Druck und Verlagsanstalt",
+    "type": "chapter",
+    "issued": "1968",
+    "page": "219–220",
+    "publisher-place": "Graz"
+  },
+  {
+    "author": [
+      {
+        "family": "Strid",
+        "given": "A."
+      }
+    ],
+    "title": "Phytogeogaphia Aegaea and the Flora Hellenica Database",
+    "volume": "98B",
+    "type": "article-journal",
+    "container-title": "Annalen des Naturhistorischen Museums Wien",
+    "issued": "1996",
+    "page": "279–289"
+  },
+  {
+    "author": [
+      {
+        "family": "Townsend",
+        "given": "C.C."
+      }
+    ],
+    "title": "Aubrieta Adans",
+    "editor": [
+      {
+        "family": "Townsend",
+        "given": "C.C."
+      },
+      {
+        "family": "Guest",
+        "given": "E."
+      }
+    ],
+    "container-title": "Flora of Iraq Bignoniaceae to Resedaceae",
+    "volume": "4",
+    "publisher": "Ministry of Agriculture",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "1014–1015",
+    "publisher-place": "Baghdad"
+  },
+  {
+    "author": [
+      {
+        "family": "Yüzbaşıoğlu",
+        "given": "S."
+      },
+      {
+        "family": "Koch",
+        "given": "M.A."
+      },
+      {
+        "family": "I.A",
+        "given": "Al-Shehbaz"
+      }
+    ],
+    "title": "Proof of a knowledge database concept. Aubrieta ekimii (Brassicaceae), a new species from NW Anatolia (Turkey): morphological and molecular support",
+    "volume": "301",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2015",
+    "page": "2043–2055",
+    "URL": "https://doi.org/10.1007/s00606-015-1212-3",
+    "DOI": "10.1007/s00606-015-1212-3"
+  }
+]

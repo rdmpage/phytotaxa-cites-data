@@ -1,0 +1,605 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L.von"
+      }
+    ],
+    "title": "Enumeratio Plantarum Javae et insularum adjacentium: minus cognitarum vel novarum ex herbariis Reinwardtii, Kohlii, Hasseltii et Blumii",
+    "volume": null,
+    "editor": [
+      {
+        "given": "F."
+      },
+      {
+        "family": "Hartmann",
+        "given": "H."
+      },
+      {
+        "family": "Haag",
+        "given": "Den"
+      }
+    ],
+    "issue": "2",
+    "type": null,
+    "issued": "1828",
+    "page": "165–241"
+  },
+  {
+    "author": [
+      {
+        "family": "Ching",
+        "given": "R.-C."
+      }
+    ],
+    "title": "A revision of the compound leaved polysticha and other related species in the continental Asia including Japan and Formosa",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Sinensia",
+    "issued": "1934",
+    "page": "23–91"
+  },
+  {
+    "author": [
+      {
+        "family": "Ching",
+        "given": "R.-C."
+      }
+    ],
+    "title": "On the nomenclature of the compound-leaved polysticha",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Sinica",
+    "issued": "1962",
+    "page": "253–263"
+  },
+  {
+    "author": [
+      {
+        "family": "Ching",
+        "given": "R.-C."
+      }
+    ],
+    "title": "Notes on some confused species of Arachniodes Bl",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1964",
+    "page": "367–385"
+  },
+  {
+    "author": [
+      {
+        "family": "Ching",
+        "given": "R.-C."
+      }
+    ],
+    "title": "Filices novae sinenses generis Arachniodes Bl",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Research (Harbin",
+    "issued": "1986",
+    "page": "31–78"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Prodromus Florae Nepalensis",
+    "volume": "Londini",
+    "type": "article-journal",
+    "container-title": "J. Gale",
+    "issued": "1825",
+    "page": "256"
+  },
+  {
+    "author": [
+      {
+        "family": "Ebihara",
+        "given": "A."
+      }
+    ],
+    "title": "The Standards of Ferns and Lycophytes in Japan",
+    "volume": "Japan",
+    "type": "article-journal",
+    "container-title": "Gakken Plus",
+    "issued": "2017",
+    "page": "507"
+  },
+  {
+    "author": [
+      {
+        "family": "Hayata",
+        "given": "B."
+      }
+    ],
+    "title": "Materials for a flora of Formosa",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Journal of the College of Science, Imperial University of Tokyo",
+    "issue": "1",
+    "issued": "1911",
+    "page": "1–471"
+  },
+  {
+    "author": [
+      {
+        "family": "Hassler",
+        "given": "M."
+      },
+      {
+        "family": "Swale",
+        "given": "B."
+      }
+    ],
+    "title": "Checklist of world ferns",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "URL": "https://worldplants.webarchiv.kit.edu/ferns/"
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "H."
+      }
+    ],
+    "title": "A taxonomic study of the fern genus Arachniodes Blume (Dryopteridaceae) from China",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Fern Journal",
+    "issued": "2004",
+    "page": "163–182",
+    "URL": "https://doi.org/10.1640/0002-8444(2004)094",
+    "DOI": "10.1640/0002-8444(2004)094"
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "H."
+      },
+      {
+        "family": "Wu",
+        "given": "S.-G."
+      },
+      {
+        "family": "Xiang",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Barrington",
+        "given": "D.S."
+      }
+    ],
+    "title": "Arachniodes Blume",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "Vols. 2–3",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "542–558"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsieh",
+        "given": "Y.T."
+      }
+    ],
+    "title": "The taxonomy of Arachniodes Bl. in China",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Research (Harbin",
+    "issue": "2",
+    "issued": "1983",
+    "page": "73–81"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsieh",
+        "given": "Y.-T."
+      }
+    ],
+    "title": "Arachniodes (Dryopteridaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.-Y."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "5",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "2000",
+    "page": "14–95"
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "K.U."
+      },
+      {
+        "family": "Holttum",
+        "given": "R.E."
+      },
+      {
+        "family": "Moran",
+        "given": "R.C."
+      },
+      {
+        "family": "Smith",
+        "given": "A.R."
+      }
+    ],
+    "title": "Dryopteridaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants",
+    "volume": "1",
+    "publisher": "Pteridophytes and Gymnosperms. Springer",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "101–144",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-662-02604-5_23",
+    "DOI": "10.1007/978-3-662-02604-5_23"
+  },
+  {
+    "author": [
+      {
+        "family": "Kurata",
+        "given": "S."
+      }
+    ],
+    "title": "On the Japanese ferns belonging to the genus Arachniodes",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Science report of the Yokosuka City Museum",
+    "issued": "1962",
+    "page": "23–41"
+  },
+  {
+    "author": [
+      {
+        "family": "Lu",
+        "given": "T.N."
+      },
+      {
+        "family": "Ebihara",
+        "given": "A."
+      },
+      {
+        "family": "He",
+        "given": "H."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Zhou",
+        "given": "X.-M."
+      },
+      {
+        "family": "Knapp",
+        "given": "R."
+      },
+      {
+        "family": "Kamau",
+        "given": "P."
+      },
+      {
+        "family": "Lorence",
+        "given": "D."
+      },
+      {
+        "family": "Gao",
+        "given": "X.-F."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "Order out of chaos: A global plastid phylogeny resolves major relationships and provides insights into the taxonomy of the notoriously difficult fern genus Arachniodes (Dryopteridaceae",
+    "note": "in press",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Observations on the Flora of Japan",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine, Tokyo",
+    "issue": "170",
+    "issued": "1901",
+    "page": "1–84",
+    "URL": "https://doi.org/10.5962/bhl.title.12017",
+    "DOI": "10.5962/bhl.title.12017"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakaike",
+        "given": "T."
+      }
+    ],
+    "title": "Aspidiaceae",
+    "type": "article-journal",
+    "container-title": "Enumeratio Pteridophytarum Japonicarum. Univ. Tokyo Press, Tokyo",
+    "issued": "1975",
+    "page": "183–194"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakaike",
+        "given": "T."
+      }
+    ],
+    "title": "New Flora of Japan",
+    "volume": "Tokyo",
+    "type": "article-journal",
+    "container-title": "Pteridophyta (Revised & Enlarged). Shibundo",
+    "issued": "1992",
+    "page": "839"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakaike",
+        "given": "T."
+      }
+    ],
+    "title": "A synoptical study on the fern genus Arachniodes Blume (Dryopteridaceae",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Journal of Phytogeography and Taxonomy",
+    "issued": "2001",
+    "page": "7–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohwi",
+        "given": "J."
+      }
+    ],
+    "title": "On Arachniodes Bl",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "The Journal Japanese of Botany",
+    "issued": "1962",
+    "page": "75–76"
+  },
+  {
+    "author": [
+      {
+        "family": "PPG",
+        "given": "I."
+      }
+    ],
+    "title": "A community-derived classification for extant lycophytes and ferns",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal Systematics & Evolution",
+    "issued": "2016",
+    "page": "563–603",
+    "URL": "https://doi.org/10.1111/jse.12229",
+    "DOI": "10.1111/jse.12229"
+  },
+  {
+    "author": [
+      {
+        "family": "Proctor",
+        "given": "G.R."
+      }
+    ],
+    "title": "Ferns of Jamaica: A guide to the pteridophytes",
+    "container-title": "British Museum (Natural History",
+    "volume": "135 figs. VIII",
+    "type": "chapter",
+    "issued": "1985",
+    "page": "631",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenstock",
+        "given": "E."
+      }
+    ],
+    "title": "XXXV. Filices extremi orientis novae II",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issue": "355–358",
+    "issued": "1914",
+    "page": "129–135",
+    "URL": "https://doi.org/10.1002/fedr.19140130902",
+    "DOI": "10.1002/fedr.19140130902"
+  },
+  {
+    "author": [
+      {
+        "family": "Serizawa",
+        "given": "S."
+      }
+    ],
+    "title": "On Arachniodes chinensis",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issue": "7",
+    "issued": "1973",
+    "page": "218–219"
+  },
+  {
+    "author": [
+      {
+        "family": "Tagawa",
+        "given": "M."
+      }
+    ],
+    "title": "Spicilegium Pteridographiae Asiae Orientalis I",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica et Geobotanica",
+    "issued": "1932",
+    "page": "88–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.-F."
+      }
+    ],
+    "title": "A preliminary study of the ferns and fern allies of Wuling Mountain range district, China",
+    "editor": [
+      {
+        "family": "Jonhns",
+        "given": "R.J."
+      }
+    ],
+    "container-title": "Holttum Memorial Volume. Royal Botanical Gardens. Kew",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "173–176"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Y.-C."
+      },
+      {
+        "family": "Wong",
+        "given": "K.-K."
+      },
+      {
+        "family": "Pong",
+        "given": "S.-M."
+      }
+    ],
+    "title": "Polypodiaceae Yaoshanensis, Kwangsi",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Department of Biology: College of Science: Sun Ya-tsen University",
+    "issued": "1932",
+    "page": "1–372"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      },
+      {
+        "family": "Wu",
+        "given": "S.-G."
+      },
+      {
+        "family": "Xiang",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Xing",
+        "given": "F.-W."
+      },
+      {
+        "family": "He",
+        "given": "H."
+      },
+      {
+        "family": "Wang",
+        "given": "F.-G."
+      },
+      {
+        "family": "Lu",
+        "given": "S.-G."
+      },
+      {
+        "family": "Dong",
+        "given": "S.-Y."
+      },
+      {
+        "family": "Barrington",
+        "given": "D.S."
+      },
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      },
+      {
+        "family": "Christenhusz",
+        "given": "M.J.M."
+      },
+      {
+        "family": "Mickel",
+        "given": "J.T."
+      },
+      {
+        "family": "Kato",
+        "given": "M."
+      },
+      {
+        "family": "Gilbert",
+        "given": "M.G."
+      }
+    ],
+    "title": "Dryopteridaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H.Hong"
+      },
+      {
+        "given": "D.-Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "Vols. 2–3",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "541–724"
+  }
+]

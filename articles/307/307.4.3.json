@@ -1,0 +1,1530 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Jayasiri",
+        "given": "S.C."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Chethana",
+        "given": "K.W.T."
+      },
+      {
+        "family": "Dai",
+        "given": "D.Q."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Daranagama",
+        "given": "D.A."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R.S."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Niskanen",
+        "given": "T."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Voigt",
+        "given": "K."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Li",
+        "given": "G.J."
+      },
+      {
+        "family": "Doilom",
+        "given": "M."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Cai",
+        "given": "Q."
+      },
+      {
+        "family": "Cui",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Dayarathne",
+        "given": "M.C."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A.J."
+      },
+      {
+        "family": "Ekanayaka",
+        "given": "A.H."
+      },
+      {
+        "family": "Hashimoto",
+        "given": "A."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      },
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Li",
+        "given": "W.J."
+      },
+      {
+        "family": "Li",
+        "given": "Q.R."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Luo",
+        "given": "Z.L."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "Mapook",
+        "given": "A."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Norphanphoun",
+        "given": "C."
+      },
+      {
+        "family": "Konta",
+        "given": "S."
+      },
+      {
+        "family": "Pang",
+        "given": "K.L."
+      },
+      {
+        "family": "Perera",
+        "given": "R.H."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Phukhamsakda",
+        "given": "C."
+      },
+      {
+        "family": "Pinruan",
+        "given": "U."
+      },
+      {
+        "family": "Randrianjohany",
+        "given": "E."
+      },
+      {
+        "family": "Singtripop",
+        "given": "C."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Tibpromma",
+        "given": "S."
+      },
+      {
+        "family": "Abdel-Wahab",
+        "given": "M.A."
+      },
+      {
+        "family": "Wanasinghe",
+        "given": "D.N."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Zhang",
+        "given": "J.F."
+      },
+      {
+        "family": "Zhang",
+        "given": "H."
+      },
+      {
+        "family": "Abdel-Aziz",
+        "given": "F.A."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      },
+      {
+        "family": "Westberg",
+        "given": "M."
+      },
+      {
+        "family": "Ammirati",
+        "given": "J.F."
+      },
+      {
+        "family": "Bulgakov",
+        "given": "T.S."
+      },
+      {
+        "family": "Lima",
+        "given": "D.X."
+      },
+      {
+        "family": "Callaghan",
+        "given": "T.M."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Chang",
+        "given": "C.H."
+      },
+      {
+        "family": "Coca",
+        "given": "L.F."
+      },
+      {
+        "family": "Dal-Forno",
+        "given": "M."
+      },
+      {
+        "family": "Dollhofer",
+        "given": "V."
+      },
+      {
+        "family": "Fliegerová",
+        "given": "K."
+      },
+      {
+        "family": "Greiner",
+        "given": "K."
+      },
+      {
+        "family": "Griffith",
+        "given": "G.W."
+      },
+      {
+        "family": "Ho",
+        "given": "H.M."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Kang",
+        "given": "J.C."
+      },
+      {
+        "family": "Wen",
+        "given": "T.C."
+      },
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Kytövuori",
+        "given": "I."
+      },
+      {
+        "family": "Lawrey",
+        "given": "J.D."
+      },
+      {
+        "family": "Xing",
+        "given": "J."
+      },
+      {
+        "family": "Li",
+        "given": "H."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Liu",
+        "given": "X.Z."
+      },
+      {
+        "family": "Liimatainen",
+        "given": "K."
+      },
+      {
+        "family": "Réblová",
+        "given": "M."
+      },
+      {
+        "family": "Fournier",
+        "given": "J."
+      },
+      {
+        "family": "Camporesi",
+        "given": "E."
+      },
+      {
+        "family": "Luangsa-ard",
+        "given": "J.J."
+      },
+      {
+        "family": "Tasanathai",
+        "given": "K."
+      },
+      {
+        "family": "Khonsanit",
+        "given": "A."
+      },
+      {
+        "family": "Thanakitpipattana",
+        "given": "D."
+      },
+      {
+        "family": "Somrithipol",
+        "given": "S."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      }
+    ],
+    "title": "Lumbsch",
+    "editor": [
+      {
+        "family": "H.T.",
+        "given": "Matsumura"
+      },
+      {
+        "family": "M.",
+        "given": "Moncada"
+      },
+      {
+        "family": "B.",
+        "given": "Nuankaew"
+      },
+      {
+        "family": "S.",
+        "given": "Parnmen"
+      },
+      {
+        "family": "S.",
+        "given": "Santiago"
+      },
+      {
+        "family": "A.",
+        "given": "Sommai"
+      },
+      {
+        "family": "S.",
+        "given": "Song"
+      },
+      {
+        "family": "Y.",
+        "given": "Souza"
+      },
+      {
+        "family": "C.A.F.",
+        "given": "Souza-Motta"
+      },
+      {
+        "family": "C.M.",
+        "given": "Su"
+      },
+      {
+        "family": "H.Y.",
+        "given": "Suetrong"
+      },
+      {
+        "family": "S.",
+        "given": "Wang"
+      },
+      {
+        "family": "Y.",
+        "given": "Wei"
+      }
+    ],
+    "director": [
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Simonini",
+        "given": "G."
+      },
+      {
+        "family": "Wen",
+        "given": "H.A."
+      },
+      {
+        "family": "Chen",
+        "given": "X.H."
+      }
+    ],
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issue": "1",
+    "issued": "2015",
+    "page": "27–274",
+    "publisher-place": "S.F., Yuan, H.S., Zhou, L.W",
+    "URL": "http://dx.doi.org/10.1007/s13225-015-0346-5",
+    "DOI": "10.1007/s13225-015-0346-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Baglietto",
+        "given": "F."
+      }
+    ],
+    "title": "Nuove specie di Licheni",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Commentario della Società Crittogamologica Italiana",
+    "issued": "1861",
+    "page": "17–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Bandoni",
+        "given": "R.J."
+      }
+    ],
+    "title": "The Tremellales and Auriculariales: an alternative classification",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1984",
+    "page": "489–530"
+  },
+  {
+    "author": [
+      {
+        "family": "Bas",
+        "given": "C."
+      }
+    ],
+    "title": "Morphology and subdivision of Amanita and a monograph of its section Lepidella",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "1969",
+    "page": "285–579"
+  },
+  {
+    "author": [
+      {
+        "family": "Behrend",
+        "given": "G."
+      }
+    ],
+    "title": "Ueber Trichomycosis nodosa (Juhel-Renoy); Piedra (Osorio",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Berliner Klinische Wochenschrift",
+    "issued": "1890",
+    "page": "464–467"
+  },
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "M.J."
+      }
+    ],
+    "title": "Decades of fungi. Decades LXI-LXII. Rio Negro fungi",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Hooker’s Journal of Botany and Kew Garden Miscellany",
+    "issued": "1856",
+    "page": "272–280"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "C.-J."
+      }
+    ],
+    "title": "Morphological and molecular studies in the genus Tremella",
+    "volume": "174",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Mycologica",
+    "issued": "1998",
+    "page": "1–225"
+  },
+  {
+    "author": [
+      {
+        "family": "Diederich",
+        "given": "P."
+      }
+    ],
+    "title": "Lichenicolous fungi from the Grand Duchy of Luxembourg and surrounding areas",
+    "volume": "n. s. 119",
+    "type": "article-journal",
+    "container-title": "Lejeunia",
+    "issued": "1986",
+    "page": "1–26"
+  },
+  {
+    "author": [
+      {
+        "family": "Diederich",
+        "given": "P."
+      }
+    ],
+    "title": "The lichenicolous heterobasidiomycetes",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Lichenologica",
+    "issued": "1996",
+    "page": "1–198"
+  },
+  {
+    "author": [
+      {
+        "family": "Diederich",
+        "given": "P."
+      }
+    ],
+    "title": "New species and new records of American lichenicolous fungi",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Herzogia",
+    "issued": "2003",
+    "page": "41–90"
+  },
+  {
+    "author": [
+      {
+        "family": "Diederich",
+        "given": "P."
+      }
+    ],
+    "title": "New or interesting lichenicolous heterobasidiomycetes",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Opuscula Philolichenum",
+    "issued": "2007",
+    "page": "11–22"
+  },
+  {
+    "author": [
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Christiansen",
+        "given": "M.S."
+      }
+    ],
+    "title": "Biatoropsis usnearum Räsänen, and other heterobasidiomycetes on Usnea",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "1994",
+    "page": "47–66",
+    "URL": "https://doi.org/10.1017/S002428299400006X",
+    "DOI": "10.1017/S002428299400006X"
+  },
+  {
+    "author": [
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Marson",
+        "given": "G."
+      }
+    ],
+    "title": "Tremella coppinsii, a new lichenicolous basidiomycete from Sarawak",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden, Edinburgh",
+    "issued": "1988",
+    "page": "175–176"
+  },
+  {
+    "author": [
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      }
+    ],
+    "title": "Tremella umbilicariae (Tremellomycetes, Basidiomycota), a new lichenicolous species on Umbilicaria from Peru",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société des naturalistes luxembourgeois",
+    "issued": "2014",
+    "page": "167–172"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E.M."
+      }
+    ],
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Observationes mycologicae",
+    "issued": "1818",
+    "page": "372"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E.M."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Systema mycologicum",
+    "issued": "1821",
+    "page": "520"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes, application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaya",
+        "given": "E."
+      },
+      {
+        "family": "Redelings",
+        "given": "B.D."
+      },
+      {
+        "family": "Navarro-Rosinés",
+        "given": "P."
+      },
+      {
+        "family": "Llimona",
+        "given": "X."
+      },
+      {
+        "family": "Cáceres",
+        "given": "M.",
+        "particle": "de"
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Align or not to align? Resolving species complexes within the Caloplaca saxicola group as a case study",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2011",
+    "page": "361–378",
+    "URL": "https://doi.org/10.3852/10-120",
+    "DOI": "10.3852/10-120"
+  },
+  {
+    "author": [
+      {
+        "family": "Hillis",
+        "given": "D.M."
+      },
+      {
+        "family": "Bull",
+        "given": "J.J."
+      }
+    ],
+    "title": "An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analyses",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1993",
+    "page": "182–192",
+    "URL": "https://doi.org/10.1093/sysbio/42.2.182",
+    "DOI": "10.1093/sysbio/42.2.182"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Collectanea ad botanicam, chemiam, et historiam naturalem spectantia 1",
+    "type": null,
+    "issued": "1786",
+    "page": "368"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirschner",
+        "given": "R."
+      },
+      {
+        "family": "Sampaio",
+        "given": "J.P."
+      },
+      {
+        "family": "Gadanho",
+        "given": "M."
+      },
+      {
+        "family": "Weiß",
+        "given": "M."
+      },
+      {
+        "family": "Oberwinkler",
+        "given": "F."
+      }
+    ],
+    "title": "Cuniculitrema polymorpha (Tremellales, gen",
+    "editor": [
+      {
+        "given": "nov"
+      },
+      {
+        "family": "nov",
+        "particle": "sp."
+      }
+    ],
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Antonie van Leeuwenhoek",
+    "issued": "2001",
+    "page": "149–161",
+    "URL": "https://doi.org/10.1023/A:1012275204498",
+    "DOI": "10.1023/A:1012275204498"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "1, Ed.2",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindgren",
+        "given": "H."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Goward",
+        "given": "T."
+      },
+      {
+        "family": "Myllys",
+        "given": "L."
+      }
+    ],
+    "title": "The phylogenetic analysis of fungi associated with lichenized ascomycete genus Bryoria reveals new lineages in the Tremellales including a new species Tremella huuskonenii hyperparasitic on Phacopsis huuskonenii",
+    "volume": "119",
+    "type": "article-journal",
+    "container-title": "Fungal Biology",
+    "issued": "2015",
+    "page": "844–856",
+    "URL": "https://doi.org/10.1016/j.funbio.2015.06.005",
+    "DOI": "10.1016/j.funbio.2015.06.005"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "X.-Z."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.-M."
+      },
+      {
+        "family": "Göker",
+        "given": "M."
+      },
+      {
+        "family": "Groenewald",
+        "given": "M."
+      },
+      {
+        "family": "Kachalkin",
+        "given": "A.V."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      },
+      {
+        "family": "Yurkov",
+        "given": "A.M."
+      },
+      {
+        "family": "Boekhout",
+        "given": "T."
+      },
+      {
+        "family": "Bai",
+        "given": "F.-Y."
+      }
+    ],
+    "title": "Towards an integrated phylogenetic classification of the Tremellomycetes",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2016",
+    "page": "85–147",
+    "URL": "https://doi.org/10.1016/j.simyco.2015.12.001",
+    "DOI": "10.1016/j.simyco.2015.12.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Massalongo",
+        "given": "A."
+      }
+    ],
+    "title": "Memórie Lichenographiche",
+    "publisher": "Verona",
+    "type": "book",
+    "issued": "1853",
+    "page": "185"
+  },
+  {
+    "author": [
+      {
+        "family": "Massalongo",
+        "given": "A.B."
+      }
+    ],
+    "title": "Esame comparativo di alcune genere di licheni",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Atti dell ́Istituto Veneto Scienze",
+    "issued": "1860",
+    "page": "247–276"
+  },
+  {
+    "author": [
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Ekman",
+        "given": "S."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      }
+    ],
+    "title": "Phylogeny and character evolution in the jelly fungi (Tremellomycetes, Basidiomycota, Fungi",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2011",
+    "page": "12–28",
+    "URL": "https://doi.org/10.1016/j.ympev.2011.05.014",
+    "DOI": "10.1016/j.ympev.2011.05.014"
+  },
+  {
+    "author": [
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Westberg",
+        "given": "M."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      }
+    ],
+    "title": "Tremella diploschistina (Tremellomycetes, Basidiomycota, Fungi), a new lichenicolous species growing on Diploschistes",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2012",
+    "page": "321–332",
+    "URL": "https://doi.org/10.1017/S0024282911000788",
+    "DOI": "10.1017/S0024282911000788"
+  },
+  {
+    "author": [
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Westberg",
+        "given": "M."
+      },
+      {
+        "family": "Knutsson",
+        "given": "T."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      }
+    ],
+    "title": "Tremella rhizocarpicola sp. nov. and other interesting lichenicolous Tremellales and Filobasidiales in the Nordic countries",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Mycokeys",
+    "issued": "2014",
+    "page": "31–41",
+    "URL": "https://doi.org/10.3897/mycokeys.8.8176",
+    "DOI": "10.3897/mycokeys.8.8176"
+  },
+  {
+    "author": [
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Truong",
+        "given": "C."
+      },
+      {
+        "family": "Westberg",
+        "given": "M."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      }
+    ],
+    "title": "Host switching promotes diversity in host-specialized mycoparasitic fungi: uncoupled evolution in the Biatoropsis-Usnea system",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "2014",
+    "page": "1576–1593",
+    "URL": "https://doi.org/10.1111/evo.12374",
+    "DOI": "10.1111/evo.12374"
+  },
+  {
+    "author": [
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Westberg",
+        "given": "M."
+      },
+      {
+        "family": "Pippola",
+        "given": "E."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      }
+    ],
+    "title": "Tremella cetrariellae (Tremellales, Basidiomycota, Fungi), a new lichenicolous fungus on Cetrariella delisei",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2015",
+    "page": "359–368",
+    "URL": "https://doi.org/10.1017/S0024282915000377",
+    "DOI": "10.1017/S0024282915000377"
+  },
+  {
+    "author": [
+      {
+        "family": "Moberg",
+        "given": "R."
+      }
+    ],
+    "title": "The lichen genus Physcia and allied genera in Fennoscandia",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Symbolae Botanicae Upsalienses",
+    "issued": "1977",
+    "page": "1–108"
+  },
+  {
+    "author": [
+      {
+        "family": "Necker",
+        "given": "N.M.J."
+      }
+    ],
+    "title": "Methodus Muscorum",
+    "publisher": "XVII +",
+    "type": "book",
+    "issued": "1771",
+    "page": "296"
+  },
+  {
+    "author": [
+      {
+        "family": "Okoli",
+        "given": "I."
+      },
+      {
+        "family": "Christie",
+        "given": "A."
+      },
+      {
+        "family": "Kwon-Chung",
+        "given": "K.J."
+      },
+      {
+        "family": "Theelen",
+        "given": "B."
+      },
+      {
+        "family": "Robert",
+        "given": "V."
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      },
+      {
+        "family": "McFadden",
+        "given": "D.C."
+      },
+      {
+        "family": "Casadevall",
+        "given": "A."
+      },
+      {
+        "family": "Boekhout",
+        "given": "T."
+      }
+    ],
+    "title": "Cryptotrichosporon anacardii gen",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "FEMS Yeast Research",
+    "issue": "v., sp. nov.",
+    "issued": "2007",
+    "page": "339–350",
+    "URL": "https://doi.org/10.1111/j.1567-1364.2006.00164.x",
+    "DOI": "10.1111/j.1567-1364.2006.00164.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Olson",
+        "given": "D.M."
+      },
+      {
+        "family": "Dinerstein",
+        "given": "E."
+      },
+      {
+        "family": "Wikramanayake",
+        "given": "E.D."
+      },
+      {
+        "family": "Burgess",
+        "given": "N.D."
+      },
+      {
+        "family": "Powell",
+        "given": "G.V.N."
+      },
+      {
+        "family": "Underwood",
+        "given": "E.C."
+      },
+      {
+        "family": "D’Amico",
+        "given": "J.A."
+      },
+      {
+        "family": "Strand",
+        "given": "H.E."
+      },
+      {
+        "family": "Morrison",
+        "given": "J.C."
+      },
+      {
+        "family": "Loucks",
+        "given": "C.J."
+      },
+      {
+        "family": "Allnutt",
+        "given": "T.F."
+      },
+      {
+        "family": "Lamoreux",
+        "given": "J.F."
+      },
+      {
+        "family": "Ricketts",
+        "given": "T.H."
+      },
+      {
+        "family": "Itoua",
+        "given": "I."
+      },
+      {
+        "family": "Wettengel",
+        "given": "W.W."
+      },
+      {
+        "family": "Kura",
+        "given": "Y."
+      },
+      {
+        "family": "Hedao",
+        "given": "P."
+      },
+      {
+        "family": "Kassem",
+        "given": "K."
+      }
+    ],
+    "title": "Terrestrial ecoregions of the world: A new map of life on Earth",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "BioScience",
+    "issued": "2001",
+    "page": "933–938",
+    "URL": "https://doi.org/10.1641/0006-3568(2001)051",
+    "DOI": "10.1641/0006-3568(2001)051"
+  },
+  {
+    "author": [
+      {
+        "family": "Persoon",
+        "given": "C.H."
+      }
+    ],
+    "title": "Neuer Versuch einer systematischen Einteilung der Schwämme",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Neues Magazin für die Botanik",
+    "issued": "1794",
+    "page": "63–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Petkovits",
+        "given": "T."
+      },
+      {
+        "family": "Nagy",
+        "given": "L.G."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "K."
+      },
+      {
+        "family": "Wagner",
+        "given": "L."
+      },
+      {
+        "family": "Nyilasi",
+        "given": "I."
+      },
+      {
+        "family": "Griebel",
+        "given": "T."
+      },
+      {
+        "family": "Schnabelrauch",
+        "given": "D."
+      },
+      {
+        "family": "Vogel",
+        "given": "H."
+      },
+      {
+        "family": "Voigt",
+        "given": "K."
+      },
+      {
+        "family": "Vágvölgyi",
+        "given": "C."
+      },
+      {
+        "family": "Papp",
+        "given": "T."
+      }
+    ],
+    "title": "Data partitions, Bayesian analysis and phylogeny of the zygomycetous fungal family Mortierellaceae, inferred from nuclear ribosomal DNA sequences",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "PLoS One",
+    "issued": "2011",
+    "page": "27507",
+    "URL": "https://doi.org/10.1371/journal.pone.0027507",
+    "DOI": "10.1371/journal.pone.0027507"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest: phylogenetic model averaging",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2008",
+    "page": "1253–1256",
+    "URL": "https://doi.org/10.1093/molbev/msn083",
+    "DOI": "10.1093/molbev/msn083"
+  },
+  {
+    "author": [
+      {
+        "family": "Räsänen",
+        "given": "V."
+      }
+    ],
+    "title": "Die Flechten Estlands I",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Annales Academiae Scientiarum Fennicae",
+    "issued": "1931",
+    "page": "1–163"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Anmårkningar vid Skånes Ört-Historie",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Kongl. Vetenskaps Academiens Handlingar. Stockholm",
+    "issued": "1769",
+    "page": "243–255"
+  },
+  {
+    "author": [
+      {
+        "family": "Rose",
+        "given": "F."
+      }
+    ],
+    "title": "Anaptychia ciliaris ssp. ciliaris. Species account 45/1998 in the third fascicle of the Lichen Atlas of the British Isles",
+    "publisher": "British Lichen Society",
+    "type": "book",
+    "issued": "1998",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Schaeffer",
+        "given": "J.C."
+      }
+    ],
+    "title": "Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4",
+    "type": null,
+    "issued": "1774",
+    "page": "136"
+  },
+  {
+    "author": [
+      {
+        "family": "Sérusiaux",
+        "given": "E."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Ertz",
+        "given": "D."
+      },
+      {
+        "family": "Boom",
+        "given": "P.",
+        "particle": "van den"
+      }
+    ],
+    "title": "New or interesting lichens and lichenicolous fungi from Belgium, Luxembourg and northern France",
+    "volume": "IX. Lejeunia n. s. 173",
+    "type": null,
+    "issued": "2003",
+    "page": "1–48"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "RaxmlGUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity and Evolution",
+    "issued": "2012",
+    "page": "335 337",
+    "URL": "https://doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: Maximum Likelihood-based Phylogenetic Analyses with Thousands of Taxa and Mixed Models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "https://doi.org/10.1128/jb.172.8.4238-4246.1990",
+    "DOI": "10.1128/jb.172.8.4238-4246.1990"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamora",
+        "given": "J.C."
+      },
+      {
+        "family": "Pérez-Ortega",
+        "given": "S."
+      },
+      {
+        "family": "Rico",
+        "given": "V.J."
+      }
+    ],
+    "title": "Tremella macrobasidiata (Basidiomycota, Tremellales), a new lichenicolous fungus from the Iberian Peninsula",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2011",
+    "page": "407–415",
+    "URL": "https://doi.org/10.1017/S0024282911000405",
+    "DOI": "10.1017/S0024282911000405"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamora",
+        "given": "J.C."
+      },
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      },
+      {
+        "family": "Rico",
+        "given": "V.J."
+      },
+      {
+        "family": "Pérez-Ortega",
+        "given": "S."
+      }
+    ],
+    "title": "Understanding lichenicolous heterobasidiomycetes: new taxa and reproductive innovations in Tremella s.l",
+    "volume": "108",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2016",
+    "page": "381–396",
+    "URL": "https://doi.org/10.3852/15-090",
+    "DOI": "10.3852/15-090"
+  }
+]

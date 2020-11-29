@@ -1,0 +1,205 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      }
+    ],
+    "title": "Histoire des plantes de la Guiane françoise",
+    "genre": "Pierre-François Didot,",
+    "publisher": "London & Paris",
+    "type": null,
+    "issued": "1775",
+    "page": "976 , 392"
+  },
+  {
+    "author": [
+      {
+        "family": "Ducke",
+        "given": "W.A."
+      }
+    ],
+    "title": "Plantes nouvelles ou peu connues de la région amazonienne (IVe série",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Archivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1930",
+    "page": "99–187"
+  },
+  {
+    "author": [
+      {
+        "family": "Kostermans",
+        "given": "A.J.G.H."
+      }
+    ],
+    "title": "Studies in South American Malpighiaceae, Lauraceae and Hernandiaceae, especially of Surinam",
+    "container-title": "Mededeelingen van bet Botanisch Museum em Herbarium van de Rijks–Universiteit te Utrecht",
+    "volume": "25",
+    "type": "chapter",
+    "issued": "1936",
+    "page": "1–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "family": "Richter",
+        "given": "H.G."
+      }
+    ],
+    "title": "Williamodendron Kubitzki & Richter, a new genus of neotropical Lauraceae",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1987",
+    "page": "49–58"
+  },
+  {
+    "author": [
+      {
+        "family": "Lorea-Hernández",
+        "given": "F.G."
+      }
+    ],
+    "title": "Mocinnodaphne, un género nuevo de la familia Lauraceae en la flora de México",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Acta Botánica Mexicana",
+    "issued": "1995",
+    "page": "25–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Meisner",
+        "given": "C.D.F."
+      }
+    ],
+    "title": "Lauraceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.",
+        "particle": "de"
+      }
+    ],
+    "publisher": "Treuttel & Würtz",
+    "type": "book",
+    "issued": "1864",
+    "page": "1–260",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Mez",
+        "given": "C."
+      }
+    ],
+    "title": "Spicilegium Laureanum",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Arbeiten aus dem Königlichen Botanischen Garten zu Breslau",
+    "issued": "1892",
+    "page": "71–166"
+  },
+  {
+    "author": [
+      {
+        "family": "Mez",
+        "given": "C."
+      }
+    ],
+    "title": "Additamenta monographica 1919",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Repertorium specierum novarum regni vegetabilis",
+    "issued": "1920",
+    "page": "305–312"
+  },
+  {
+    "author": [
+      {
+        "family": "Rohwer",
+        "given": "J.G."
+      }
+    ],
+    "title": "Toward a phylogenetic classification of the Lauraceae: evidence from matK sequences",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2000",
+    "page": "60–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Rohwer",
+        "given": "J.G."
+      },
+      {
+        "family": "Rudolph",
+        "given": "B."
+      }
+    ],
+    "title": "Jumping genera: the phylogenetic positions of Cassytha, Hypodaphnis and Neocinnamomum (Lauraceae) based on different analyses of trnK intron sequences",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "2005",
+    "page": "153–178"
+  },
+  {
+    "author": [
+      {
+        "family": "Taubert",
+        "given": "P.H.W."
+      }
+    ],
+    "title": "Revisio generum plantarum vascularium omnium atque cellularium multarum secundum leges nomenclaturae internationales cum enumeratione plantarum exoticarum in itinere mundi collectarum",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Botanisches Centralblatt",
+    "issued": "1892",
+    "page": "17–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Werff",
+        "given": "H.",
+        "particle": "Van der"
+      }
+    ],
+    "title": "A Revision of Mezilaurus (Lauraceae",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1987",
+    "page": "153–182"
+  },
+  {
+    "author": [
+      {
+        "family": "Werff",
+        "given": "H.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Nishida",
+        "given": "S."
+      }
+    ],
+    "title": "Yasunia (Lauraceae), a new genus with two species from Ecuador and Peru",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2010",
+    "page": "493–502"
+  }
+]

@@ -1,0 +1,621 @@
+[
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "H.C."
+      }
+    ],
+    "title": "Botanist’s Repository, for new, and rare plants 8",
+    "type": null,
+    "issued": "1808",
+    "page": "538"
+  },
+  {
+    "author": [
+      {
+        "family": "Barbosa Rodrigues",
+        "given": "J."
+      }
+    ],
+    "title": "Genera et Species Orchidearum Novarum, 2",
+    "publisher": "Typographia Nacional, Sebastianopolis",
+    "type": "book",
+    "issued": "1881",
+    "page": "295"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L.von"
+      }
+    ],
+    "title": "De quibusdam orchideis e tribu Vanillearum",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Rumphia",
+    "issued": "1835",
+    "page": "195–201"
+  },
+  {
+    "author": [
+      {
+        "family": "Cameron",
+        "given": "K.M."
+      }
+    ],
+    "title": "Vanilloideae",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "A."
+      },
+      {
+        "family": "Cribb",
+        "given": "P."
+      },
+      {
+        "family": "Chase",
+        "given": "M."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F."
+      }
+    ],
+    "container-title": "Genera orchidacearum, 3",
+    "publisher": "Oxford University",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "281–334",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Cameron",
+        "given": "K.M."
+      }
+    ],
+    "title": "On the value of nuclear and mitochondrial gene sequences for reconstructing the phylogeny of vanilloid orchids (Vanilloideae, Orchidaceae",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2009",
+    "page": "377–385",
+    "URL": "http://dx.doi.org/10.1093/aob/mcp024",
+    "DOI": "10.1093/aob/mcp024"
+  },
+  {
+    "author": [
+      {
+        "family": "Cameron",
+        "given": "K."
+      },
+      {
+        "family": "Molina",
+        "given": "M.C."
+      }
+    ],
+    "title": "Photosystem II gene sequences of psbB and psbC clarify the phylogenetic position of Vanilla (Vanilloideae, Orchidaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "2006",
+    "page": "239–248"
+  },
+  {
+    "author": [
+      {
+        "family": "Dressler",
+        "given": "R.L."
+      }
+    ],
+    "title": "Phylogeny and classification of the orchid family",
+    "publisher": "Dioscorides Press, Portland",
+    "type": "book",
+    "issued": "1993",
+    "page": "314"
+  },
+  {
+    "author": [
+      {
+        "family": "Dunsterville",
+        "given": "G.C.K."
+      },
+      {
+        "family": "Garay",
+        "given": "L.A."
+      }
+    ],
+    "title": "Venezuelan Orchids Illustrated, 2",
+    "publisher": "André Deutsch, London",
+    "type": "book",
+    "issued": "1961",
+    "page": "360"
+  },
+  {
+    "author": [
+      {
+        "family": "Edwall",
+        "given": "G."
+      }
+    ],
+    "title": "Plantas paulistas novas ou menos conhecidas",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Revista do Centro de Sciencias, Letras e Artes de Campinas",
+    "issued": "1903",
+    "page": "191–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferreira",
+        "given": "A.W.C."
+      },
+      {
+        "family": "Baptista",
+        "given": "D.H."
+      },
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      }
+    ],
+    "title": "Triphora uniflora A",
+    "editor": [
+      {
+        "family": "Ferreira",
+        "given": "C."
+      },
+      {
+        "given": "Baptista"
+      },
+      {
+        "given": "Pansarin"
+      }
+    ],
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Brasilica",
+    "issued": "2010",
+    "page": "288–291",
+    "URL": "http://dx.doi.org/10.1590/S0102-33062010000100031",
+    "DOI": "10.1590/S0102-33062010000100031"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferreira",
+        "given": "A.W.C."
+      },
+      {
+        "family": "Lima",
+        "given": "M.I.S."
+      },
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      }
+    ],
+    "title": "Orchidaceae na região central de São Paulo, Brasil",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Rodriguesia",
+    "issued": "2010",
+    "page": "243–259"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferreira",
+        "given": "A.W.C."
+      },
+      {
+        "family": "Lima",
+        "given": "M.I.S."
+      },
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      }
+    ],
+    "title": "A New Species of Pelexia (Orchidaceae, Spiranthinae) from São Paulo",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Brazil. Novon (Saint Louis, Mo",
+    "issued": "2012",
+    "page": "155–159"
+  },
+  {
+    "author": [
+      {
+        "family": "Fidalgo",
+        "given": "O."
+      },
+      {
+        "family": "Bononi",
+        "given": "V.L.R."
+      }
+    ],
+    "title": "Técnicas de coleta, preservação e herborização de material botânico",
+    "container-title": "Instituto de Botânica, São Paulo",
+    "type": "chapter",
+    "issued": "1989",
+    "page": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Garay",
+        "given": "L.A."
+      }
+    ],
+    "title": "Olim Vanillaceae",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Botanical Museum Leaflets",
+    "issued": "1986",
+    "page": "223–236"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoehne",
+        "given": "F.C."
+      }
+    ],
+    "title": "Orchidáceas",
+    "editor": [
+      {
+        "family": "Hoehne",
+        "given": "F.C."
+      }
+    ],
+    "container-title": "Flora Brasílica",
+    "volume": null,
+    "note": "+ 209 Tabs.).",
+    "issue": "8 (Vol. XII, II",
+    "type": "article-journal",
+    "issued": "1945",
+    "page": "13–43"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN red list of threatened species",
+    "note": "IUCN Red List Unit, Cambridge U.K. Available from:",
+    "type": null,
+    "issued": "2001",
+    "page": "4",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Köppen",
+        "given": "W."
+      }
+    ],
+    "title": "Climatologia: con un estudio de los climas de la tierra",
+    "volume": "México",
+    "type": "article-journal",
+    "container-title": "Fondo de Cultura Económica",
+    "issued": "1948",
+    "page": "478"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The gardener’s dictionary, Abridged 4ed",
+    "note": "Printed by the Author, London, without pagination.",
+    "type": null,
+    "issued": "1754"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The gardener’s dictionary, Abridged 8ed",
+    "note": "Printed by the Author, London, without pagination.",
+    "type": null,
+    "issued": "1768"
+  },
+  {
+    "author": [
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      }
+    ],
+    "title": "Vanilla dietschiana, returns from Dictyophyllaria",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Orchids (West Palm Beach",
+    "issued": "2010",
+    "page": "106–109"
+  },
+  {
+    "author": [
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      }
+    ],
+    "title": "Taxonomic notes on Vanilleae (Orchidaceae: Vanilloideae): Vanilla dietschiana, a rare South American taxon transferred from Dictyophyllaria",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "2010",
+    "page": "198–202"
+  },
+  {
+    "author": [
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      },
+      {
+        "family": "Pansarin",
+        "given": "L.M."
+      }
+    ],
+    "title": "The family Orchidaceae in the Serra do Japi, São Paulo state, Brazil",
+    "publisher": "Springer, Viena",
+    "type": "book",
+    "issued": "2010",
+    "page": "290"
+  },
+  {
+    "author": [
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      },
+      {
+        "family": "Salatino",
+        "given": "A."
+      },
+      {
+        "family": "Pansarin",
+        "given": "L.M."
+      },
+      {
+        "family": "Sazima",
+        "given": "M."
+      }
+    ],
+    "title": "Pollination systems in Pogonieae (Orchidaceae: Vanilloideae): A hypothesis of evolution among reward and rewardless flowers",
+    "volume": "207",
+    "type": "article-journal",
+    "container-title": "Flora (Jena",
+    "issued": "2012",
+    "page": "849–861",
+    "URL": "http://dx.doi.org/10.1016/j.flora.2012.09.011",
+    "DOI": "10.1016/j.flora.2012.09.011"
+  },
+  {
+    "author": [
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      },
+      {
+        "family": "Aguiar",
+        "given": "J.M.R.B.V."
+      },
+      {
+        "family": "Ferreira",
+        "given": "A.W.C."
+      }
+    ],
+    "title": "A new species of Vanilla (Orchidaceae: Vanilloideae) from São Paulo, Brazil",
+    "volume": "N.Y.) 64",
+    "type": "article-journal",
+    "container-title": "Brittonia (Bronx",
+    "issued": "2012",
+    "page": "157–161",
+    "URL": "http://dx.doi.org/10.1007/s12228-011-9215-z",
+    "DOI": "10.1007/s12228-011-9215-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      }
+    ],
+    "title": "A new species of Cyclopogon (Orchidaceae: Spiranthinae) from São Paulo, Brazil",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2013",
+    "page": "102–105",
+    "URL": "http://dx.doi.org/10.1007/s12228-012-9266-9",
+    "DOI": "10.1007/s12228-012-9266-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      },
+      {
+        "family": "Pansarin",
+        "given": "L.M."
+      }
+    ],
+    "title": "Floral biology of two Vanilloideae (Orchidaceae) primarily adapted to pollination by euglossine bees",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Plant Biology (Stuttgart",
+    "issued": "2014",
+    "page": "1104–1113",
+    "URL": "http://dx.doi.org/10.1111/plb.12160",
+    "DOI": "10.1111/plb.12160"
+  },
+  {
+    "author": [
+      {
+        "family": "Pansarin",
+        "given": "E.R."
+      },
+      {
+        "family": "Aguiar",
+        "given": "J.M.R.B.V."
+      },
+      {
+        "family": "Pansarin",
+        "given": "L.M."
+      }
+    ],
+    "title": "Floral biology and histochemical analysis of Vanilla edwallii Hoehne (Orchidaceae: Vanilloideae): an orchid pollinated by Epicharis (Apidae: Centridini",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Plant Species Biology",
+    "issued": "2014",
+    "page": "242–252",
+    "URL": "http://dx.doi.org/10.1111/1442-1984.12014",
+    "DOI": "10.1111/1442-1984.12014"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "title": "Genera Orchidacearum, 1. General Introduction, Apostasioideae, Cypripedioideae",
+    "publisher": "Oxford University, Oxford",
+    "type": "book",
+    "issued": "1999",
+    "page": "197"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickison",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular Plant Systematics",
+    "publisher": "Harper & Row Publishers",
+    "type": "book",
+    "issued": "1974",
+    "page": "891",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Rain",
+        "given": "P."
+      }
+    ],
+    "title": "Vanilla: the cultural history of the world’s favorite flavor and fragrance",
+    "publisher": "Jeremy P. Tarcher/Penguin",
+    "type": "book",
+    "issued": "2004",
+    "page": "371",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      }
+    ],
+    "title": "Systema Orchidalium",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Fragmenta Floristica et Geobotanica, Supplementum",
+    "issued": "1995",
+    "page": "1–152"
+  },
+  {
+    "author": [
+      {
+        "family": "Soto Arenas",
+        "given": "M.A."
+      }
+    ],
+    "title": "A new species of Vanilla from South America",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2010",
+    "page": "281–284"
+  },
+  {
+    "author": [
+      {
+        "family": "Soto Arenas",
+        "given": "M.A."
+      },
+      {
+        "family": "Cribb",
+        "given": "P."
+      }
+    ],
+    "title": "A new infrageneric classification and synopsis of the genus Vanilla Plum. ex Mill",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Orchidaceae Vanillinae). Lankesteriana",
+    "issued": "2010",
+    "page": "355–398"
+  },
+  {
+    "author": [
+      {
+        "family": "Suguio",
+        "given": "K."
+      },
+      {
+        "family": "Martin",
+        "given": "L."
+      }
+    ],
+    "title": "Geomorfologia das restingas",
+    "container-title": "Anais do II Simpósio de Ecossistemas da Costa Sul e Sudeste Brasileiras 3. ACIESP, Águas de Lindóia",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "185–206"
+  }
+]

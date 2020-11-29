@@ -1,0 +1,212 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "L.E."
+      },
+      {
+        "family": "Schumann",
+        "given": "K.M."
+      }
+    ],
+    "title": "Bignoniaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora brasiliensis",
+    "volume": "8",
+    "publisher": "Fird. Fleischer, Monachii",
+    "type": "chapter",
+    "issued": "1897",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Studies in Bignoniaceae 26: new taxa and combinations in northwestern South American Bignoniaceae",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1977",
+    "page": "183–198"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Bignoniaceae Part II. Tribe Tecomeae",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica",
+    "issued": "1992",
+    "page": "1–362"
+  },
+  {
+    "author": [
+      {
+        "family": "Grose",
+        "given": "S.O."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      }
+    ],
+    "title": "Taxonomic revisions in the polyphyletic genus Tabebuia s. l",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Bignoniaceae). Systematic Botany",
+    "issued": "2007",
+    "page": "660–670"
+  },
+  {
+    "author": [
+      {
+        "family": "Grose",
+        "given": "S.O."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      }
+    ],
+    "title": "Evolution of a charismatic neotropical tree: molecular phylogeny of Tabebuia s. l., and allied genera (Bignoniaceae",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2007",
+    "page": "650–659"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red list categories and criteria",
+    "volume": "3",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "1",
+    "issued": "2001",
+    "publisher-place": "Gland & Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Kraenzlin",
+        "given": "F.W.L."
+      }
+    ],
+    "title": "Bignoniaceae novae",
+    "editor": [
+      {
+        "literal": "IV. In: Fedde, F.K.G. (ed."
+      }
+    ],
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "volume": "17",
+    "type": "chapter",
+    "issued": "1921",
+    "page": "215–226"
+  },
+  {
+    "author": [
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      }
+    ],
+    "title": "Bignoniaceae. In: Lista de espécies da flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://floradobrasil.jbrj.gov.br/2011/FB112305/"
+  },
+  {
+    "author": [
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      },
+      {
+        "family": "Ulloa",
+        "given": "C.U."
+      }
+    ],
+    "title": "Bignoniaceae",
+    "note": "In: iPlants prototype checklist. Available from:",
+    "type": null,
+    "issued": "2007",
+    "URL": "http://www.iplants.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Mattos",
+        "given": "J.R."
+      }
+    ],
+    "title": "Handroanthus, um novo gênero para os ‘‘ipês’’ do Brasil",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Loefgrenia",
+    "issued": "1970",
+    "page": "1–4"
+  },
+  {
+    "author": [
+      {
+        "family": "Seemann",
+        "given": "B.C."
+      }
+    ],
+    "title": "Flora of the Isthmus of Panama",
+    "editor": [
+      {
+        "family": "Seemann",
+        "given": "B."
+      }
+    ],
+    "volume": "5",
+    "publisher": "Lovel Reeve",
+    "type": "book",
+    "issued": "1854",
+    "page": "57–254",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Eclogae Americanae",
+    "volume": "2",
+    "note": "Impensis Auctoris, Havniae [Copenhagen], 56",
+    "type": null,
+    "issued": "1798",
+    "page": null
+  }
+]

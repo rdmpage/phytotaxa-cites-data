@@ -1,0 +1,631 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alston",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "Scitamineae",
+    "editor": [
+      {
+        "family": "Trimen",
+        "given": "H."
+      },
+      {
+        "literal": "Dulau & Co., Ltd., 32 Old Bond St."
+      }
+    ],
+    "container-title": "Handbook to the Flora of Ceylon",
+    "volume": "6",
+    "issue": "Suppl.",
+    "type": "article-journal",
+    "issued": "1931",
+    "page": "280–284",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Backer",
+        "given": "C.A."
+      },
+      {
+        "family": "Bakhuizen Van Den Brink",
+        "given": "R.C."
+      }
+    ],
+    "title": "Flora of Java",
+    "volume": "3",
+    "publisher": "Wolters- Noordhoff N.V",
+    "type": "book",
+    "issued": "1968",
+    "page": "69",
+    "publisher-place": "Groningen, The Netherlands"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Scitamineae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "family": "Co.",
+        "given": "Ltd"
+      }
+    ],
+    "volume": "6",
+    "type": null,
+    "issued": "1890",
+    "page": "198–264",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Burtt",
+        "given": "B.L."
+      }
+    ],
+    "title": "Cardamoms and other Zingiberaceae in Hortus Malabaricus",
+    "editor": [
+      {
+        "family": "Manilal",
+        "given": "K.S."
+      },
+      {
+        "family": "Balkema",
+        "given": "A.A."
+      }
+    ],
+    "publisher": "IBH",
+    "type": "book",
+    "issued": "1980",
+    "page": "144–146",
+    "publisher-place": "Rotterdam, Netherlands/Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Burtt",
+        "given": "B.L."
+      },
+      {
+        "family": "Smith",
+        "given": "R.M."
+      }
+    ],
+    "title": "Key species in the taxonomic history of Zingiberaceae",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden, Edinburgh",
+    "issued": "1972",
+    "page": "177–228"
+  },
+  {
+    "author": [
+      {
+        "family": "Burtt",
+        "given": "B.L."
+      },
+      {
+        "family": "Smith",
+        "given": "R.M."
+      }
+    ],
+    "title": "Zingiberaceae",
+    "editor": [
+      {
+        "family": "Dassanayake",
+        "given": "M.D."
+      }
+    ],
+    "container-title": "A revised handbook to the Flora of Ceylon",
+    "volume": "4",
+    "publisher": "Amerind Publishing Co. Pvt. Ltd",
+    "type": "chapter",
+    "issued": "1983",
+    "page": "488–532",
+    "publisher-place": "New Delhi"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooke",
+        "given": "T."
+      }
+    ],
+    "title": "Flora of Presidency of Bombay",
+    "volume": "3",
+    "publisher": "Botanical Survey of India, Calcutta",
+    "type": "book",
+    "issued": "1907",
+    "page": "232"
+  },
+  {
+    "author": [
+      {
+        "family": "Dalzell",
+        "given": "N.A."
+      },
+      {
+        "family": "Gibson",
+        "given": "A."
+      }
+    ],
+    "title": "The Bombay Flora",
+    "genre": "Supplement.",
+    "publisher": "Education Society’s Press, Byculla",
+    "type": null,
+    "issued": "1861",
+    "page": "87"
+  },
+  {
+    "author": [
+      {
+        "family": "Dan",
+        "given": "H.N."
+      },
+      {
+        "family": "Suresh",
+        "given": "C.R."
+      },
+      {
+        "family": "Manilal",
+        "given": "K.S."
+      }
+    ],
+    "title": "An interpretation of Van Rheede’s Hortus Malabaricus",
+    "publisher": "Koelz Scientific Books D-6240 Konigstein, Federal Republic of Germany",
+    "type": "book",
+    "issued": "1988",
+    "page": "315"
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "C.R."
+      },
+      {
+        "family": "Sikdar",
+        "given": "J.K."
+      }
+    ],
+    "title": "Review on the genus Boesenbergia (Scitamineae) from India",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Botanical Society of Bengal",
+    "issued": "1982",
+    "page": "39–46"
+  },
+  {
+    "author": [
+      {
+        "family": "Graham",
+        "given": "J."
+      }
+    ],
+    "title": "Catalogue of the plants growing in Bombay and its vicinity",
+    "publisher": "Government Press",
+    "type": "book",
+    "issued": "1839",
+    "page": "205–211",
+    "publisher-place": "Bombay"
+  },
+  {
+    "author": [
+      {
+        "family": "Holttum",
+        "given": "R.E."
+      }
+    ],
+    "title": "Zingiberaceae of the Malay Peninsula",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Gardens’ Bulletin Singapore",
+    "issued": "1950",
+    "page": "1–249"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Genera Plantarum",
+    "volume": "2",
+    "publisher": "Dulau & Co",
+    "type": "book",
+    "issued": "1891",
+    "page": "682–698",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "The Botanical Register",
+    "volume": "2",
+    "type": null,
+    "issued": "1816",
+    "page": "173",
+    "publisher-place": "Ridgways, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "type": null,
+    "issued": "1753",
+    "page": "1–2",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Loesener",
+        "given": "T."
+      }
+    ],
+    "title": "Zingiberaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die naturliche Pflanzenfamilien",
+    "volume": "15",
+    "edition": "a. ed. 2",
+    "type": "chapter",
+    "issued": "1930",
+    "page": "570",
+    "publisher-place": "Engelmann, Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Manilal",
+        "given": "K.S."
+      }
+    ],
+    "title": "Van Rheede’s Hortus Malabaricus",
+    "edition": "English",
+    "volume": "11",
+    "publisher": "University of Kerala",
+    "type": "book",
+    "issued": "2003",
+    "publisher-place": "Thiruvananthapuram"
+  },
+  {
+    "author": [
+      {
+        "family": "Mansfield",
+        "given": "R."
+      }
+    ],
+    "title": "Kulturpflanze. Bericht und Mitteilungen aus dem Institut für Kulturpflanzenforschung der Deutschen Akademie der Wissenschaften zu Berlin in Gatersleben Krs",
+    "volume": "6",
+    "publisher": "Akademie-Verlag",
+    "type": "article-journal",
+    "container-title": "Aschersleben",
+    "issued": "1958",
+    "page": "239",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Mood",
+        "given": "J.D."
+      },
+      {
+        "family": "Prince",
+        "given": "L.M."
+      },
+      {
+        "family": "Veldkamp",
+        "given": "J.F."
+      },
+      {
+        "family": "Santanu",
+        "given": "D."
+      }
+    ],
+    "title": "The history and identity of Boesenbergia longiflora (Zingiberaceae) and descriptions of five related new taxa",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Gardens’ Bulletin Singapore",
+    "issue": "1",
+    "issued": "2013",
+    "page": "47–95"
+  },
+  {
+    "author": [
+      {
+        "family": "Drakestein",
+        "given": "H.V.",
+        "particle": "Rheede tot"
+      }
+    ],
+    "title": "Hortus Indicus Malabaricus :continens regni Malabarici apud Indos cereberrimi onmis generis plantas rariores, Latinas, Malabaricis, Arabicis, Brachmanum charactareibus hominibusque expressas",
+    "volume": "11",
+    "note": "Amstelaedami :sumptibus Johannis van Someren, et Joannis van Dyck, t. 10. [in Latin",
+    "type": null,
+    "issued": "1690"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "The Scitamineae of the Malay Peninsula",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Journal of the Straits Branch of the Royal Asiatic Society",
+    "issued": "1899",
+    "page": "85–184"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "The Flora of the Malay Peninsula",
+    "volume": "4",
+    "editor": [
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "family": "Co.",
+        "given": "Ltd"
+      }
+    ],
+    "type": null,
+    "issued": "1924",
+    "page": "233–285",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Roscoe",
+        "given": "W."
+      }
+    ],
+    "title": "A new arrangement of the plants of the Monandrian class usually called Scitamineae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society",
+    "issued": "1807",
+    "page": "330–356",
+    "URL": "http://dx.doi.org/10.1111/j.1096-3642.1807.tb00321.x",
+    "DOI": "10.1111/j.1096-3642.1807.tb00321.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Roscoe",
+        "given": "W."
+      }
+    ],
+    "title": "Monandrian plants of the order Scitamineae",
+    "type": null,
+    "issued": "1828",
+    "publisher-place": "Liverpool"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Descriptions of several of the Monandrous plants of India",
+    "volume": "11",
+    "note": "t.2.",
+    "type": "article-journal",
+    "container-title": "Calcutta] Asiatic Researches or Transactions of the Society",
+    "issued": "1810",
+    "page": "318–362"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora Indica",
+    "volume": "1",
+    "publisher": "Today & Tomorrow’s printers & publishers",
+    "type": "book",
+    "issued": "1820",
+    "page": "17–18",
+    "publisher-place": "New Delhi"
+  },
+  {
+    "author": [
+      {
+        "family": "Saensouk",
+        "given": "S."
+      },
+      {
+        "family": "Larsen",
+        "given": "K."
+      }
+    ],
+    "title": "Boesenbergia baimaii, a new species of Zingiberaceae from Thailand",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2002",
+    "page": "595–597",
+    "URL": "http://dx.doi.org/10.1111/j.1756-1051.2001.tb00818.x",
+    "DOI": "10.1111/j.1756-1051.2001.tb00818.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Die Gattungen Gastrochilus Don. Und Gastrochilus Wall",
+    "editor": [
+      {
+        "family": "Fedde",
+        "given": "F."
+      }
+    ],
+    "container-title": "Feddes Repertorium",
+    "volume": "12",
+    "type": "chapter",
+    "issued": "1913",
+    "page": "313–317",
+    "publisher-place": "Dahlem, Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Zingiberaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "volume": "4",
+    "issue": "46",
+    "type": "article-journal",
+    "issued": "1904",
+    "page": "1–45",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Sirirugsa",
+        "given": "P."
+      }
+    ],
+    "title": "A revision of the genus Boesenbergia Kuntze (Zingiberaceae) in Thailand",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Natural History Bulletin of the Siam Society",
+    "issued": "1992",
+    "page": "67–90"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "R.E."
+      }
+    ],
+    "title": "New combinations in Etlingera. Notes from the Royal Botanic Garden",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Edinburgh",
+    "issue": "2",
+    "issued": "1986",
+    "page": "246"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooke",
+        "given": "T."
+      }
+    ],
+    "title": "Flora of Presidency of Bombay",
+    "volume": "3",
+    "publisher": "Botanical Survey of India",
+    "type": "book",
+    "issued": "1907",
+    "page": "228–251",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Plantae Asiaticae Rariores",
+    "volume": "1",
+    "publisher": "Treuttel & Würtz, Treuttel Jun. & Richter",
+    "type": "book",
+    "issued": "1829",
+    "page": "22–23",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Icones Plantarum Indiae Orientalis",
+    "volume": "6",
+    "editor": [
+      {
+        "family": "Ostell",
+        "given": "Messrs"
+      },
+      {
+        "given": "Lepage"
+      },
+      {
+        "family": "Co.",
+        "given": "Calcutta"
+      },
+      {
+        "family": "Dailliere",
+        "given": "H."
+      }
+    ],
+    "type": null,
+    "issued": "1853",
+    "page": "16",
+    "publisher-place": "London"
+  }
+]

@@ -1,0 +1,774 @@
+[
+  {
+    "author": [
+      {
+        "family": "Acharius",
+        "given": "E."
+      }
+    ],
+    "title": "Supplementum species quamplures novas descriptas nec non observationes varias complectens, quod praeviae suae Methodo Lichenum adjunxit Auctor",
+    "editor": [
+      {
+        "family": "L.). Lipsiae",
+        "given": "S.A.",
+        "particle": "et"
+      }
+    ],
+    "type": null,
+    "issued": "1803"
+  },
+  {
+    "author": [
+      {
+        "family": "Boluda",
+        "given": "C.G."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Divakar",
+        "given": "P.K."
+      },
+      {
+        "family": "Crespo",
+        "given": "A."
+      },
+      {
+        "family": "Rico",
+        "given": "V.J."
+      }
+    ],
+    "title": "Microchemical and molecular investigations reveal Pseudephebe species as cryptic with an environmentally modified morphology",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2016",
+    "page": "527–543",
+    "URL": "https://doi.org/10.1017/S0024282916000426",
+    "DOI": "10.1017/S0024282916000426"
+  },
+  {
+    "author": [
+      {
+        "family": "Corsie",
+        "given": "E.I."
+      },
+      {
+        "family": "Harrold",
+        "given": "P."
+      },
+      {
+        "family": "Yahr",
+        "given": "R."
+      }
+    ],
+    "title": "No combination of morphological, ecological or chemical characters can reliably diagnose species in the Parmelia saxatilis aggregate in Scotland",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2019",
+    "page": "107–121",
+    "URL": "https://doi.org/10.1017/S0024282919000069",
+    "DOI": "10.1017/S0024282919000069"
+  },
+  {
+    "author": [
+      {
+        "family": "Crespo",
+        "given": "A."
+      },
+      {
+        "family": "Pérez-Ortega",
+        "given": "S."
+      }
+    ],
+    "title": "Cryptic species and species pairs in lichens: A discussion on the relationship between molecular phylogenies and morphological characters",
+    "volume": "66S1",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issued": "2009",
+    "page": "71–81",
+    "URL": "https://doi.org/10.3989/ajbm.2225",
+    "DOI": "10.3989/ajbm.2225"
+  },
+  {
+    "author": [
+      {
+        "family": "Gargas",
+        "given": "A."
+      },
+      {
+        "family": "DePriest",
+        "given": "P."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Positions of multiple insertions in SSU rDNA of lichen-forming fungi",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1995",
+    "page": "208–218"
+  },
+  {
+    "author": [
+      {
+        "family": "Garovaglio",
+        "given": "S."
+      }
+    ],
+    "title": "Tentamen dispositionis methodicae Lichenum in Longobardia nascentium",
+    "type": "article-journal",
+    "container-title": "Mediolani",
+    "issued": "1865",
+    "page": "1–174"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.F."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Anisimova",
+        "given": "M."
+      },
+      {
+        "family": "Hordijk",
+        "given": "W."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Systematic biology",
+    "issue": "3",
+    "issued": "2010",
+    "page": "307–321",
+    "URL": "https://doi.org/10.1093/sysbio/syq010",
+    "DOI": "10.1093/sysbio/syq010"
+  },
+  {
+    "author": [
+      {
+        "family": "Gutell",
+        "given": "R.R."
+      }
+    ],
+    "title": "Collection of small subunit (16S- and 16S-like) ribosomal RNA structures",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1993",
+    "page": "3051–3054",
+    "URL": "https://doi.org/10.1093/nar/21.13.3051",
+    "DOI": "10.1093/nar/21.13.3051"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "McCarthy",
+        "given": "P.M."
+      },
+      {
+        "family": "Fletcher",
+        "given": "A."
+      }
+    ],
+    "title": "Verrucaria",
+    "editor": [
+      {
+        "family": "Purvis",
+        "given": "O.W."
+      },
+      {
+        "family": "Coppins",
+        "given": "B.J."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "James",
+        "given": "P.W."
+      },
+      {
+        "family": "Moore",
+        "given": "D.M."
+      }
+    ],
+    "container-title": "The Lichen Flora of Great Britain and Ireland",
+    "publisher": "Natural History Museum Publications & British Lichen Society",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "630–642",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Hellbom",
+        "given": "P.J."
+      }
+    ],
+    "title": "Bidrag till Lule Lappmarks lafflora",
+    "container-title": "Öfversigt af kongl. Vetenskaps-Akademiens Förhandlingar Stockholm 1875",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1875",
+    "page": "49–82"
+  },
+  {
+    "author": [
+      {
+        "family": "Körber",
+        "given": "G.W."
+      }
+    ],
+    "title": "Systema Lichenum Germaniae",
+    "publisher": "I–XXXIV). Breslau",
+    "type": "book",
+    "issued": "1855"
+  },
+  {
+    "author": [
+      {
+        "family": "Kossowska",
+        "given": "M."
+      },
+      {
+        "family": "Fałtynowicz",
+        "given": "W."
+      },
+      {
+        "family": "Szczepańska",
+        "given": "K."
+      }
+    ],
+    "title": "Current distribution and ecology of lichens in a biodiversity hotspot in the Mały Śnieżny Kocioł Glacial Cirque, Sudetes, Poland",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Herzogia",
+    "issue": "1",
+    "issued": "2016",
+    "page": "120–136",
+    "URL": "https://doi.org/10.13158/heia.29.1.2016.120",
+    "DOI": "10.13158/heia.29.1.2016.120"
+  },
+  {
+    "author": [
+      {
+        "family": "Krzewicka",
+        "given": "B."
+      }
+    ],
+    "title": "A revision of Verrucaria s.l. (Verrucariaceae) in Poland",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Polish Botanical Studies",
+    "issued": "2012",
+    "page": "3–143"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Li",
+        "given": "M."
+      },
+      {
+        "family": "Knyaz",
+        "given": "C."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2018",
+    "page": "1547–1549",
+    "URL": "https://doi.org/10.1093/molbev/msy096",
+    "DOI": "10.1093/molbev/msy096"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanfear",
+        "given": "R."
+      },
+      {
+        "family": "Calcott",
+        "given": "B."
+      },
+      {
+        "family": "Ho",
+        "given": "S.Y."
+      },
+      {
+        "family": "Guindon",
+        "given": "S."
+      }
+    ],
+    "title": "PartitionFinder: combined selection of partitioning schemes and substitution models for phylogenetic analyses",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Molecular biology and evolution",
+    "issue": "6",
+    "issued": "2012",
+    "page": "1695–1701",
+    "URL": "https://doi.org/10.1093/molbev/mss020",
+    "DOI": "10.1093/molbev/mss020"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanfear",
+        "given": "R."
+      },
+      {
+        "family": "Frandsen",
+        "given": "P.B."
+      },
+      {
+        "family": "Wright",
+        "given": "A.M."
+      },
+      {
+        "family": "Senfeld",
+        "given": "T."
+      },
+      {
+        "family": "Calcott",
+        "given": "B."
+      }
+    ],
+    "title": "PartitionFinder 2: new methods for selecting partitioned models of evolution formolecular and morphological phylogenetic analyses",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Molecular biology and evolution",
+    "issue": "3",
+    "issued": "2017",
+    "page": "772–773",
+    "URL": "https://doi.org/10.1093/molbev/msw260",
+    "DOI": "10.1093/molbev/msw260"
+  },
+  {
+    "author": [
+      {
+        "family": "McCarthy",
+        "given": "P.M."
+      }
+    ],
+    "title": "Additional lichen records from Australia 51. Some aquatic pyrenolichens from Kosciuszko National Park, Snowy Mountains, New South Wales",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Australasian Lichenology",
+    "issued": "2003",
+    "page": "16–18"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES science gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "publisher": "Gateway Computing",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Molina",
+        "given": "M.D.C."
+      },
+      {
+        "family": "Divakar",
+        "given": "P.K."
+      },
+      {
+        "family": "Millanes",
+        "given": "A.M."
+      },
+      {
+        "family": "Sánchez",
+        "given": "E."
+      },
+      {
+        "family": "Del-Prado",
+        "given": "R."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Crespo",
+        "given": "A."
+      }
+    ],
+    "title": "Parmelia sulcata (Ascomycota: Parmeliaceae), a sympatric monophyletic species complex",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2011",
+    "page": "585–601",
+    "URL": "https://doi.org/10.1017/S0024282911000521",
+    "DOI": "10.1017/S0024282911000521"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "W."
+      }
+    ],
+    "title": "Novitiae quaedam Licheneae Norvegicae. Öfversigt af kongl",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Vetenskaps-Akademiens Förhandlingar Stockholm",
+    "issued": "1860",
+    "page": "295–297"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      }
+    ],
+    "title": "Two new or misunderstood species related to Verrucaria praetermissa (Verrucariaceae, lichenized Ascomycota",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issue": "5",
+    "issued": "2014",
+    "page": "605–615",
+    "URL": "https://doi.org/10.1017/S0024282914000176",
+    "DOI": "10.1017/S0024282914000176"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      }
+    ],
+    "title": "A new species-level taxonomy for Trapelia (Trapeliaceae, Ostropomycetidae) with special reference to Great Britain and the Falkland Islands",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2018",
+    "page": "3–42",
+    "URL": "https://doi.org/10.1017/S0024282917000639",
+    "DOI": "10.1017/S0024282917000639"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "McCarthy",
+        "given": "P.M."
+      },
+      {
+        "family": "Fletcher",
+        "given": "A."
+      }
+    ],
+    "title": "Verrucaria",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "C.W."
+      },
+      {
+        "family": "Aptroot",
+        "given": "A."
+      },
+      {
+        "family": "Coppins",
+        "given": "B.J."
+      },
+      {
+        "family": "Fletcher",
+        "given": "A."
+      },
+      {
+        "family": "Gilbert",
+        "given": "O.L."
+      },
+      {
+        "family": "James",
+        "given": "P.W."
+      },
+      {
+        "family": "Wolseley",
+        "given": "P.A."
+      }
+    ],
+    "container-title": "The Lichens of Great Britain and Ireland. British Lichen Society",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "931–957",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Pykälä",
+        "given": "J."
+      },
+      {
+        "family": "Stepanchikova",
+        "given": "I.S."
+      },
+      {
+        "family": "Himelbrant",
+        "given": "D.E."
+      },
+      {
+        "family": "Kuznetsova",
+        "given": "E.S."
+      },
+      {
+        "family": "Alexeeva",
+        "given": "N.M."
+      }
+    ],
+    "title": "The lichen genera Thelidium and Verrucaria in the Leningrad Region (Russia",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Folia Cryptogamica Estonica",
+    "issued": "2012",
+    "page": "45–57"
+  },
+  {
+    "author": [
+      {
+        "family": "Pykälä",
+        "given": "J."
+      },
+      {
+        "family": "Launis",
+        "given": "A."
+      },
+      {
+        "family": "Myllys",
+        "given": "L."
+      }
+    ],
+    "title": "Four new species of Verrucaria from calcareous rocks in Finland",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issue": "1",
+    "issued": "2017",
+    "page": "27–37",
+    "URL": "https://doi.org/10.1017/S0024282916000542",
+    "DOI": "10.1017/S0024282916000542"
+  },
+  {
+    "author": [
+      {
+        "family": "Pykälä",
+        "given": "J."
+      },
+      {
+        "family": "Launis",
+        "given": "A."
+      },
+      {
+        "family": "Myllys",
+        "given": "L."
+      }
+    ],
+    "title": "Verrucaria ahtii, V. oulankaensis and V. vitikainenii, three new species from the Endocarpon group (Verrucariaceae, lichenized Ascomycota",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issue": "2",
+    "issued": "2017",
+    "page": "107–116",
+    "URL": "https://doi.org/10.1017/S0024282916000694",
+    "DOI": "10.1017/S0024282916000694"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Rougemont",
+        "given": "J."
+      }
+    ],
+    "title": "A fast bootstrapping algorithm for the RAxML web servers",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2008",
+    "page": "758–771",
+    "URL": "https://doi.org/10.1080/10635150802429642",
+    "DOI": "10.1080/10635150802429642"
+  },
+  {
+    "author": [
+      {
+        "family": "Thüs",
+        "given": "H."
+      },
+      {
+        "family": "Nascimbene",
+        "given": "J."
+      }
+    ],
+    "title": "Contributions toward a new taxonomy of Central European freshwater species of the lichen genus Thelidium ( Verrucariales, Ascomycota",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2008",
+    "page": "499–521",
+    "URL": "https://doi.org/10.1017/S0024282908007603",
+    "DOI": "10.1017/S0024282908007603"
+  },
+  {
+    "author": [
+      {
+        "family": "Thüs",
+        "given": "H."
+      },
+      {
+        "family": "Schultz",
+        "given": "M."
+      }
+    ],
+    "title": "Fungi: Lichens Pt. 1 (Süßwasserflora von Mitteleuropa / Freshwater Flora of Central Europe",
+    "publisher": "Spektrum Akademischer Verlag",
+    "type": "book",
+    "issued": "2009",
+    "page": "223",
+    "publisher-place": "Heidelberg, Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Torriani",
+        "given": "S.F.F."
+      },
+      {
+        "family": "Stukenbrock",
+        "given": "E.H."
+      },
+      {
+        "family": "Brunner",
+        "given": "P.C."
+      },
+      {
+        "family": "McDonald",
+        "given": "B.A."
+      },
+      {
+        "family": "Croll",
+        "given": "D."
+      }
+    ],
+    "title": "Evidence for extensive recent intron transposition in closely related fungi",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Current Biology",
+    "issued": "2011",
+    "page": "2017–2022",
+    "URL": "https://doi.org/10.1016/j.cub.2011.10.041",
+    "DOI": "10.1016/j.cub.2011.10.041"
+  }
+]

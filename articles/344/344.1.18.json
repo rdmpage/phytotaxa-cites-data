@@ -1,0 +1,343 @@
+[
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "7",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1838",
+    "page": "801"
+  },
+  {
+    "author": [
+      {
+        "family": "Coutinho",
+        "given": "A.X.P."
+      }
+    ],
+    "title": "A Flora de Portugal (Plantas vasculares). Disposta em chaves dicotómicas",
+    "publisher": "Aillaud, Alves & Cia, Lisboa",
+    "type": "book",
+    "issued": "1913",
+    "page": "767"
+  },
+  {
+    "author": [
+      {
+        "family": "Coutinho",
+        "given": "A.X.P."
+      }
+    ],
+    "title": "Flora de Portugal (Plantas vasculares). Disposta em chaves dicotómicas",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Ed",
+    "issued": "1939",
+    "page": "938",
+    "publisher-place": "Bertrand, Ltd., Lisboa"
+  },
+  {
+    "author": [
+      {
+        "family": "Devesa",
+        "given": "J.A."
+      },
+      {
+        "family": "López Nieto",
+        "given": "E."
+      },
+      {
+        "family": "Arnelas",
+        "given": "I."
+      },
+      {
+        "family": "Blanca",
+        "given": "G."
+      },
+      {
+        "family": "Suárez-Santiago",
+        "given": "V.N."
+      },
+      {
+        "family": "Rodríguez Invernón",
+        "given": "V."
+      },
+      {
+        "family": "Muñoz Rodríguez",
+        "given": "A.F."
+      }
+    ],
+    "title": "Centaurea L",
+    "editor": [
+      {
+        "family": "Devesa",
+        "given": "J.A."
+      },
+      {
+        "family": "Quintanar",
+        "given": "A."
+      },
+      {
+        "family": "García",
+        "given": "M.A."
+      }
+    ],
+    "container-title": "Flora iberica",
+    "volume": "16",
+    "note": "Real Jardín Botánico (CSIC), Madrid,",
+    "type": "chapter",
+    "issued": "2014",
+    "page": "342–630"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernández Casas",
+        "given": "F.J."
+      }
+    ],
+    "title": "De Centaureis occidentalibus notulae sparsae, X",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Fontqueria",
+    "issued": "1997",
+    "page": "203–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Franco",
+        "given": "J.do Amaral"
+      }
+    ],
+    "title": "Nova Flora de Portugal (Continente e Açores",
+    "volume": null,
+    "issue": "boa",
+    "type": null,
+    "issued": "1984",
+    "page": "660"
+  },
+  {
+    "author": [
+      {
+        "family": "Gandoger",
+        "given": "M."
+      }
+    ],
+    "title": "Observations sur les Centaurea decipiens (Thuill.) transalpina (Schleich.) et tubulosa (Chabert",
+    "publisher": "Chez CH Taranne",
+    "type": "book",
+    "issued": "1873",
+    "page": "16",
+    "publisher-place": "Libraire, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia Jacas",
+        "given": "N."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      }
+    ],
+    "title": "Mapa 476: Centaurea crocata Franco",
+    "editor": [
+      {
+        "family": "Fernandez Casas",
+        "given": "F.J."
+      },
+      {
+        "family": "Gamarra Gamarra",
+        "given": "R."
+      }
+    ],
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Fontqueria",
+    "issued": "1991",
+    "page": "262–263"
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia Jacas",
+        "given": "N."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      }
+    ],
+    "title": "Centaurea prolongi and C. crocata in Portugal: an old confusion",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issue": "1",
+    "issued": "1994",
+    "page": "31–38",
+    "URL": "https://doi.org/10.1111/j.1756-1051.1994.tb00566.x",
+    "DOI": "10.1111/j.1756-1051.1994.tb00566.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      }
+    ],
+    "title": "Compositae (pro parte majore",
+    "editor": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Raab-Straube",
+        "given": "E.von"
+      }
+    ],
+    "note": "Published on the Internet:",
+    "type": null,
+    "issued": "2006",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "1",
+    "type": null,
+    "issued": "1753",
+    "page": "560",
+    "publisher-place": "Salvius, Stockholm",
+    "URL": "https://doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "note": "Koeltz Scientific Books, Königstein. [Regnum Vegetabile 154",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Sampaio",
+        "given": "G."
+      }
+    ],
+    "title": "Flora vascular de Odemira",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Boletim da Sociedade Broteriana",
+    "issued": "1909",
+    "page": "7–132"
+  },
+  {
+    "author": [
+      {
+        "family": "Sampaio",
+        "given": "G."
+      }
+    ],
+    "title": "Flora Portuguesa",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "publisher": "Imprensa Moderna, Lda., Porto",
+    "type": "book",
+    "issued": "1947",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Trimen",
+        "given": "H."
+      }
+    ],
+    "title": "Friedrich Welwitsch",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Journal of Botany (British & Foreign",
+    "issued": "1873",
+    "page": "1–11"
+  }
+]

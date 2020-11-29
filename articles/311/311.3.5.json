@@ -1,0 +1,354 @@
+[
+  {
+    "author": [
+      {
+        "family": "Craib",
+        "given": "W.G."
+      }
+    ],
+    "title": "Flora Siamensis enumeratio",
+    "volume": "1",
+    "publisher": "Siam Society",
+    "type": "book",
+    "issued": "1925",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Dunal",
+        "given": "M.F."
+      }
+    ],
+    "title": "Monographie de la famille des Anonacées",
+    "publisher": "Treuttel & Wiirtz",
+    "type": "book",
+    "issued": "1817",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Elmer",
+        "given": "A.D.E."
+      }
+    ],
+    "title": "A century of new plants",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Leaflets of Philippine Botany",
+    "issued": "1908",
+    "page": "272–359"
+  },
+  {
+    "author": [
+      {
+        "family": "Finet",
+        "given": "A."
+      },
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Contributions à la flore de l’Asie orientale. Bulletin de la Société Botanique de France, Mémoires 52",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Mem",
+    "issued": "1905",
+    "page": "1–170 1–20"
+  },
+  {
+    "author": [
+      {
+        "family": "Gouy",
+        "given": "M."
+      },
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "SeaView version 4: a multiplatform graphical user interface for sequence alignment and phylogenetic tree building",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2010",
+    "page": "221–224",
+    "URL": "https://doi.org/10.1093/molbev/msp259",
+    "DOI": "10.1093/molbev/msp259"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L.",
+        "particle": "de"
+      }
+    ],
+    "title": "Suite des observations sur quelques genres de plantes de Loureiro, accompagnées de notes sur ceux qui composent la famille des Anonées",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Annales du Muséum National d’Histoire Naturelle, Paris",
+    "issued": "1810",
+    "page": "338–340"
+  },
+  {
+    "author": [
+      {
+        "family": "Hayata",
+        "given": "B."
+      }
+    ],
+    "title": "Icones plantarum formosanarum",
+    "volume": "9",
+    "publisher": "Government of Formosa, Taihoku",
+    "type": "book",
+    "issued": "1920"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "MEGA7: Molecular Evolutionary Genetics Analysis version 7.0 for bigger datasets",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2016",
+    "page": "1870–1874",
+    "URL": "https://doi.org/10.1093/molbev/msw054",
+    "DOI": "10.1093/molbev/msw054"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "H.L."
+      },
+      {
+        "family": "Chaw",
+        "given": "S.M."
+      }
+    ],
+    "title": "Schisandraceae",
+    "editor": [
+      {
+        "family": "Huang",
+        "given": "T.C."
+      }
+    ],
+    "container-title": "Flora of Taiwan",
+    "volume": "2",
+    "edition": "2nd",
+    "publisher": "Department of Botany, National Taiwan University",
+    "type": "chapter",
+    "issued": "1996",
+    "page": "423–426",
+    "publisher-place": "Taipei"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "Q."
+      }
+    ],
+    "title": "Taxonomic notes on some species of Kadsura (Schisandraceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Research",
+    "issued": "2002",
+    "page": "399–411"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "Q."
+      },
+      {
+        "family": "Duan",
+        "given": "L.D."
+      },
+      {
+        "family": "Yao",
+        "given": "B.F."
+      }
+    ],
+    "title": "Notes on three species of the genus Kadsura Juss",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "2005",
+    "page": "567–570",
+    "URL": "https://doi.org/10.1360/aps030102",
+    "DOI": "10.1360/aps030102"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "1",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Z."
+      },
+      {
+        "family": "Hao",
+        "given": "G."
+      },
+      {
+        "family": "Luo",
+        "given": "Y.B."
+      },
+      {
+        "family": "Thien",
+        "given": "L.B."
+      },
+      {
+        "family": "Rosso",
+        "given": "S.W."
+      },
+      {
+        "family": "Lu",
+        "given": "A.M."
+      },
+      {
+        "family": "Chen",
+        "given": "Z.D."
+      }
+    ],
+    "title": "Phylogeny and androecial evolution in Schisandraceae, inferred from sequences of nuclear ribosomal DNA ITS and chloroplast DNA trn LF regions",
+    "volume": "167",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2006",
+    "page": "539–550",
+    "URL": "https://doi.org/10.1086/501476",
+    "DOI": "10.1086/501476"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "Diagnoses of Hainan plants, II",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "The Philippine Journal of Science",
+    "issued": "1923",
+    "page": "237–268"
+  },
+  {
+    "author": [
+      {
+        "family": "Saunders",
+        "given": "R.M.K."
+      }
+    ],
+    "title": "Monograph of Kadsura (Schisandraceae",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Systematic Botany Monographs",
+    "issued": "1998",
+    "page": "1–106",
+    "URL": "https://doi.org/10.2307/25096646",
+    "DOI": "10.2307/25096646"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.C."
+      }
+    ],
+    "title": "The families Illiciaceae and Schisandraceae",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Sargentia",
+    "issued": "1947",
+    "page": "1–224"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomson",
+        "given": "D."
+      },
+      {
+        "family": "Henry",
+        "given": "R."
+      }
+    ],
+    "title": "Single-step protocol for preparation of plant tissue for analysis by PCR",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Biotechniques",
+    "issued": "1995",
+    "page": "394–397"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "J."
+      },
+      {
+        "family": "Chen",
+        "given": "M."
+      },
+      {
+        "family": "Dong",
+        "given": "X."
+      },
+      {
+        "family": "Lin",
+        "given": "R."
+      },
+      {
+        "family": "Fan",
+        "given": "J."
+      },
+      {
+        "family": "Chen",
+        "given": "Z."
+      }
+    ],
+    "title": "Evaluation of four commonly used DNA barcoding loci for Chinese medicinal plants of the family Schisandraceae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "PloS One",
+    "issued": "2015",
+    "page": "0125574",
+    "URL": "https://doi.org/10.1371/journal.pone.0125574",
+    "DOI": "10.1371/journal.pone.0125574"
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "E.F."
+      }
+    ],
+    "title": "The cactus family",
+    "publisher": "Timber Press",
+    "type": "book",
+    "issued": "2001",
+    "page": "776",
+    "publisher-place": "Portland, Oregon"
+  },
+  {
+    "author": [
+      {
+        "family": "Backeberg",
+        "given": "C."
+      }
+    ],
+    "title": "Discocactus boliviensis Backeberg",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Descriptiones Cactacearum Novarum",
+    "issued": "1963",
+    "page": "5"
+  },
+  {
+    "author": [
+      {
+        "family": "Braun",
+        "given": "P.J."
+      },
+      {
+        "family": "Esteves",
+        "given": "E.E."
+      }
+    ],
+    "title": "Discocactus bahiensis subsp. petr-halfari (Zachar) P.J.Braun & Esteves",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Kakteen und Andere Sukkulenten",
+    "issue": "7",
+    "issued": "2008",
+    "page": "184"
+  },
+  {
+    "author": [
+      {
+        "family": "Britton",
+        "given": "N.L."
+      },
+      {
+        "family": "Rose",
+        "given": "J.N."
+      }
+    ],
+    "title": "The Cactaceae",
+    "volume": "1–4",
+    "type": null,
+    "issued": "1919",
+    "page": null,
+    "publisher-place": "Carnegie Institution, Washington, D.C"
+  },
+  {
+    "author": [
+      {
+        "family": "Britton",
+        "given": "N.L."
+      },
+      {
+        "family": "Rose",
+        "given": "J.N."
+      }
+    ],
+    "title": "Discocactus hartmannii",
+    "editor": [
+      {
+        "family": "Britton",
+        "given": "K.Schumann)"
+      },
+      {
+        "family": "In",
+        "given": "Rose"
+      },
+      {
+        "family": "Britton",
+        "given": "N.L."
+      },
+      {
+        "family": "Rose",
+        "given": "J.N."
+      }
+    ],
+    "volume": "3",
+    "type": null,
+    "issued": "1922",
+    "page": "1–217",
+    "publisher-place": "Dover, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Crozier",
+        "given": "B.S."
+      }
+    ],
+    "title": "Systematics of Cactaceae Juss.: phylogeny, cpDNA evolution, and classification, with emphasis on the genus Mammillaria Haw",
+    "genre": "PhD.",
+    "publisher": "Dissertation-The University of Texas, Austin",
+    "type": "thesis",
+    "issued": "2005",
+    "page": "154"
+  },
+  {
+    "author": [
+      {
+        "family": "Diers",
+        "given": "L."
+      },
+      {
+        "family": "Esteves Pereira",
+        "given": "E."
+      }
+    ],
+    "title": "Discocactus lindanus",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Cactus and Succulent Journal",
+    "issued": "1981",
+    "page": "56–57"
+  },
+  {
+    "editor": [
+      {
+        "family": "Hunt",
+        "given": "D."
+      },
+      {
+        "family": "Taylor",
+        "given": "N.P."
+      },
+      {
+        "family": "Charles",
+        "given": "G."
+      }
+    ],
+    "title": "The New Cactus Lexicon",
+    "volume": "1−2",
+    "publisher": "dh Books, Milborne Port",
+    "type": "book",
+    "issued": "2006",
+    "page": "899"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN red list of threatened species, version 2010.4",
+    "genre": "IUCN Red List Unit,",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "publisher-place": "Cambridge, U.K",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Machado",
+        "given": "M.C."
+      }
+    ],
+    "title": "O gênero Discocactus Pfeiff. (Cactaceae) no estado da Bahia, Brasil: variabilidade morfológica, variabilidade genética, taxonomia e conservação",
+    "container-title": "M.Sc. Thesis-Universidade Estadual de Feira de",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "113",
+    "publisher-place": "Santana, Feira de Santana, Brazil"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodrigues",
+        "given": "J.B."
+      }
+    ],
+    "title": "Malacocarpus heptacanthus Barbosa Rodrigues",
+    "container-title": "Plantae Mattogrossenses, ou, RelaçaÞo de Plantas Novas Colhidas, Classificadas e Desenhadas",
+    "volume": "1",
+    "publisher": "Typographia Leuzinger, Rio de Janeiro",
+    "type": "chapter",
+    "issued": "1898",
+    "page": "1–29",
+    "publisher-place": "Brazil"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfeiffer",
+        "given": "L."
+      }
+    ],
+    "title": "Discocactus insignis Pfeiffer",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Allgemeine Gartenzeitung",
+    "issued": "1837",
+    "page": "241–242"
+  },
+  {
+    "author": [
+      {
+        "given": "N.P."
+      },
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      }
+    ],
+    "title": "A phylogenetic study of Discocactus Pfeiff. (Cactaceae) based on nuclear and plastid DNA sequences",
+    "editor": [
+      {
+        "family": "Santos",
+        "given": "M.R."
+      }
+    ],
+    "container-title": "Filogenia molecular, taxonomia, biogeografia e conservação de Discocactus Pfeiff. PhD thesis–Universidade Federal de Viçosa",
+    "publisher": "Viçosa",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "13 36",
+    "publisher-place": "Santos, M.R., Garcia, F.C.P., Machado, M.C., Barbosa, A.R., Taylor"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K.M."
+      }
+    ],
+    "title": "Discocactus hartmannii",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Monatschrift für Kakteenkunde",
+    "issued": "1900",
+    "page": "170"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "N.P."
+      },
+      {
+        "family": "Zappi",
+        "given": "D.C."
+      }
+    ],
+    "title": "Cacti of Eastern Brazil",
+    "container-title": "Royal Botanic Gardens",
+    "publisher": "Surrey",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "499",
+    "publisher-place": "Kew, Richmond"
+  },
+  {
+    "author": [
+      {
+        "family": "Zachar",
+        "given": "M."
+      }
+    ],
+    "title": "Nowość z Brazylii - Discocactus petr-halfari",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Kaktusy i Inne",
+    "issued": "2008",
+    "page": "43 47"
+  }
+]

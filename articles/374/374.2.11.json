@@ -1,0 +1,154 @@
+[
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "2",
+    "publisher": "Treuttelet Würtz",
+    "type": "book",
+    "issued": "1825",
+    "page": "644",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Desvaux",
+        "given": "N.A."
+      }
+    ],
+    "title": "Precis des caracteres de plusieurs genres de la famile des Legumineuses",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique, Appliquée à l’Agriculture, à la Pharmacie, à la Médecineet aux Arts",
+    "issued": "1813",
+    "page": "118–125"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "C.E.O."
+      }
+    ],
+    "volume": "1",
+    "editor": [
+      {
+        "family": "Felix",
+        "given": "Arthur"
+      }
+    ],
+    "publisher": "Leipzig",
+    "type": "article-journal",
+    "container-title": "Revisio Generum Plantarum",
+    "issued": "1891",
+    "page": "374"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant-Book, A portable dictionary of plants, their classification and uses",
+    "edition": "Fourth",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2017",
+    "page": null,
+    "publisher-place": "Cambridge",
+    "URL": "https://doi.org/10.1017/9781316335581",
+    "DOI": "10.1017/9781316335581"
+  },
+  {
+    "author": [
+      {
+        "family": "Poiret",
+        "given": "J.L.M."
+      }
+    ],
+    "title": "Encyclopedie Methodique Botanique",
+    "volume": "6",
+    "publisher": "Chez Panckoucke",
+    "type": "book",
+    "issued": "1805",
+    "page": "786",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Rasingam",
+        "given": "L."
+      },
+      {
+        "family": "Swamy",
+        "given": "J."
+      },
+      {
+        "family": "Rao",
+        "given": "M.S."
+      }
+    ],
+    "title": "Crotalaria nallamalayana (Fabaceae: Crotalarieae): a new species from Telangana",
+    "volume": "345",
+    "type": "article-journal",
+    "container-title": "India Phytotaxa",
+    "issue": "2",
+    "issued": "2018",
+    "page": "159–164",
+    "URL": "https://doi.org/10.11646/phytotaxa.345.2.7",
+    "DOI": "10.11646/phytotaxa.345.2.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Schindler",
+        "given": "A.K."
+      }
+    ],
+    "title": "Leguminosae—Desmodiinae quoted in Ray’s ‘Historia Plantarum’",
+    "volume": "III",
+    "type": "article-journal",
+    "container-title": "The Journal of Botany, British and Foreign",
+    "issued": "1926",
+    "page": "145–154"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G.von"
+      }
+    ],
+    "title": "Nomenclator Botanicus",
+    "volume": "1",
+    "publisher": "Stuttgardtiae&Tubingae, sumptibus I.G. Cottae",
+    "type": "book",
+    "issued": "1821",
+    "page": "900"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Prodromus Florae Peninsulae Indiae Orientalis",
+    "volume": "1",
+    "publisher": "Parbury, Allen & Co., London",
+    "type": "book",
+    "issued": "1834",
+    "page": "480"
+  }
+]

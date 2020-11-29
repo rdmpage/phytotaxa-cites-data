@@ -1,0 +1,834 @@
+[
+  {
+    "author": [
+      {
+        "family": "Almeda",
+        "given": "F."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Davidse",
+        "given": "G."
+      },
+      {
+        "family": "Sousa",
+        "given": "M.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Chiang",
+        "given": "F."
+      }
+    ],
+    "container-title": "Flora Mesoamerica. Cucubirtaceae a Polemoniaceae. Universidad Nacional Autónoma de México",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "164–337",
+    "publisher-place": "México, D.F"
+  },
+  {
+    "author": [
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      }
+    ],
+    "title": "Henriettea in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB9472"
+  },
+  {
+    "author": [
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      },
+      {
+        "family": "Caddah",
+        "given": "M.K."
+      },
+      {
+        "family": "Chiavegatto",
+        "given": "B."
+      },
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Guimarães",
+        "given": "P.J.F."
+      },
+      {
+        "family": "Koschnitzke",
+        "given": "C."
+      },
+      {
+        "family": "Kriebel",
+        "given": "R."
+      },
+      {
+        "family": "Lima",
+        "given": "L.F.G."
+      },
+      {
+        "family": "Martins",
+        "given": "A.B."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Reginato",
+        "given": "M."
+      },
+      {
+        "family": "Rocha",
+        "given": "M.J.R."
+      },
+      {
+        "family": "Rodrigues",
+        "given": "K.F."
+      },
+      {
+        "family": "Romero",
+        "given": "R."
+      },
+      {
+        "family": "Rosa",
+        "given": "P."
+      },
+      {
+        "family": "Silva-Gonçalves",
+        "given": "K.C."
+      },
+      {
+        "family": "Souza",
+        "given": "M.L.D.R."
+      },
+      {
+        "family": "Woodgyer",
+        "given": "E."
+      }
+    ],
+    "title": "Melastomataceae in Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB161"
+  },
+  {
+    "editor": [
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      },
+      {
+        "family": "Yatskievych",
+        "given": "K."
+      }
+    ],
+    "title": "Flora of the Venezuelan Guayana",
+    "volume": "6",
+    "publisher": "Missouri Botanical Garden Press, Saint Louis",
+    "type": "book",
+    "issued": "2001"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonpland",
+        "given": "A."
+      }
+    ],
+    "title": "Monographie des Melastomacées",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Rhexiae",
+    "issued": "1818",
+    "page": "93–104, 35–40",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Clausing",
+        "given": "G."
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      }
+    ],
+    "title": "Molecular phylogenetics of Melastomataceae and Memecylaceae: implications for character evolution",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "486–498",
+    "URL": "https://doi.org/10.2307/2657114",
+    "DOI": "10.2307/2657114"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "A."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      },
+      {
+        "family": "Fleischer",
+        "given": "Lipsiae Frid"
+      },
+      {
+        "given": "Monachii"
+      }
+    ],
+    "container-title": "Flora brasiliensis",
+    "volume": "14",
+    "type": "chapter",
+    "issued": "1884",
+    "page": "1–655"
+  },
+  {
+    "author": [
+      {
+        "family": "Dallwitz",
+        "given": "M.J."
+      },
+      {
+        "family": "Paine",
+        "given": "T.A."
+      },
+      {
+        "family": "Zurcher",
+        "given": "E.J."
+      }
+    ],
+    "title": "Onwards. User’s guide to the DELTA System: a general system for processing taxonomic descriptions",
+    "edition": "4th",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Access in",
+    "issued": "1993",
+    "URL": "http://delta-intkey.com"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "editor": [
+      {
+        "family": "et",
+        "given": "Tom I.",
+        "suffix": "II"
+      }
+    ],
+    "type": null,
+    "issued": "1828",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "De Queiroz",
+        "given": "K."
+      }
+    ],
+    "title": "The general lineage concept of species, species criteria, and the process of speciation: A conceptual unification and terminological recommendations",
+    "editor": [
+      {
+        "family": "Howard",
+        "given": "D.J."
+      },
+      {
+        "family": "Berlocher",
+        "given": "S.H."
+      }
+    ],
+    "container-title": "Endless forms: Species and speciation",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "1998",
+    "page": "57–75",
+    "publisher-place": "Oxford, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Figueroa",
+        "given": "S.N."
+      },
+      {
+        "family": "Nobre",
+        "given": "C.A."
+      }
+    ],
+    "title": "Precipitation distribution over Central and Western Tropical South Climanálise: Boletim de Monitoramento e análise climática",
+    "volume": "5",
+    "issue": "6",
+    "type": null,
+    "issued": "1990",
+    "page": "36–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Freire-fierro",
+        "given": "A."
+      }
+    ],
+    "title": "Monograpf of Aciotis (Melastomataceae",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany",
+    "issued": "2002",
+    "page": "1–99",
+    "URL": "https://doi.org/10.2307/25027895",
+    "DOI": "10.2307/25027895"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Caddah",
+        "given": "M.K."
+      },
+      {
+        "family": "Martins",
+        "given": "A.B."
+      },
+      {
+        "family": "Meirelles",
+        "given": "J."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Weiss",
+        "given": "M."
+      }
+    ],
+    "title": "Nomenclator Botanicus for the neotropical genus Miconia (Melastomataceae",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "1–171",
+    "URL": "https://doi.org/10.11646/phytotaxa.106.1.1",
+    "DOI": "10.11646/phytotaxa.106.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      },
+      {
+        "family": "Souza",
+        "given": "M.L.D.R."
+      }
+    ],
+    "title": "Taxonomia de Melastomataceae no Brasil: retrospectiva, perspectivas e chave de identificação para os gêneros",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issue": "1",
+    "issued": "2012",
+    "page": "145–161",
+    "URL": "https://doi.org/10.1590/S2175-78602012000100011",
+    "DOI": "10.1590/S2175-78602012000100011"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Caddah",
+        "given": "M.K."
+      }
+    ],
+    "title": "Miconia in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB9666"
+  },
+  {
+    "author": [
+      {
+        "family": "Guimarães",
+        "given": "P.J.F."
+      }
+    ],
+    "title": "Tibouchina in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB9876"
+  },
+  {
+    "author": [
+      {
+        "literal": "Junk, W.J., Piedade, M.T.F., Scho ̈ngart, J., Cohn-haft, M., Adeney, J.M. & Wittmann, F."
+      }
+    ],
+    "title": "A classification of major naturally-occurring Amazonian lowland wetlands",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Wetlands",
+    "issued": "2011",
+    "page": "623–640",
+    "URL": "https://doi.org/10.1007/s13157-011-0190-7",
+    "DOI": "10.1007/s13157-011-0190-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Köppen",
+        "given": "W."
+      }
+    ],
+    "title": "Climatologia; con un estúdio de los climas de la tierra",
+    "container-title": "Fonde de Cultura Económica, México",
+    "type": "chapter",
+    "issued": "1948"
+  },
+  {
+    "author": [
+      {
+        "family": "Lima",
+        "given": "L.F.G."
+      },
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      }
+    ],
+    "title": "Bellucia in Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB19607"
+  },
+  {
+    "author": [
+      {
+        "family": "Lima",
+        "given": "L.F.G."
+      },
+      {
+        "family": "Chiavegatto",
+        "given": "B."
+      },
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      }
+    ],
+    "title": "Adelobotrys in Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB23684"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      }
+    ],
+    "title": "Tococa",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica Monographs",
+    "issued": "2005",
+    "page": "1–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      }
+    ],
+    "title": "Maieta in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB23704"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      }
+    ],
+    "title": "Tococa in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB19732"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Reginato",
+        "given": "M."
+      }
+    ],
+    "title": "Clidemia in Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB9442"
+  },
+  {
+    "author": [
+      {
+        "family": "Pyšek",
+        "given": "P."
+      },
+      {
+        "family": "Richardson",
+        "given": "D.M."
+      },
+      {
+        "family": "Rejmánek",
+        "given": "M."
+      },
+      {
+        "family": "Webster",
+        "given": "G.L."
+      },
+      {
+        "family": "Williamson",
+        "given": "M."
+      },
+      {
+        "family": "Kirschner",
+        "given": "J."
+      }
+    ],
+    "title": "Alien plants in checklists and floras: towards better communication between taxonomists and ecologists",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2004",
+    "page": "131–143",
+    "URL": "https://doi.org/10.2307/4135498",
+    "DOI": "10.2307/4135498"
+  },
+  {
+    "author": [
+      {
+        "family": "Brasil",
+        "given": "Radam"
+      }
+    ],
+    "title": "Levantamento de Recursos Naturais",
+    "note": "20 Manaus. Rio de Janeiro, Departamento Nacional de Produção Mineral.",
+    "type": "article-journal",
+    "container-title": "Folha SA",
+    "issued": "1978"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickison",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular plant systematics",
+    "publisher": "Harper & Row, Publishers",
+    "type": "book",
+    "issued": "1974",
+    "page": "891",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Renner",
+        "given": "S.S."
+      },
+      {
+        "family": "Triebel",
+        "given": "D."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Stone",
+        "given": "D."
+      },
+      {
+        "family": "Ulloa",
+        "given": "C.U."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Cifuentes",
+        "given": "H.M."
+      }
+    ],
+    "title": "Melastomataceae.Net. A site with information on the biodiversity of Melastomataceae",
+    "note": "Available from: www. melastomataceae.net (accessed 29 May 2017",
+    "type": null,
+    "issued": "2010"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ribeiro, J.E.L.S., Hopkins, M.J.G., Vicentini, A., Sothers, C.A., Costa, M.A.S., Brito, J.M., Souza, M.A.D., Martins, L.H.P., Lohmann, L.G., Assunção, P. A.C.L., Pereira, E.C., Silva, C.F., Mesquita, M.R. & Procópio, L.C."
+      }
+    ],
+    "title": "Flora da Reserva Ducke: guia de identificação das plantas vasculares de uma floresta de terra-firme na Amazônia Central",
+    "volume": "Manaus",
+    "type": "article-journal",
+    "container-title": "INPA",
+    "issued": "1999",
+    "page": "800"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosa",
+        "given": "P."
+      },
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      }
+    ],
+    "title": "Aciotis. In Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB9389"
+  },
+  {
+    "author": [
+      {
+        "family": "Scudeller",
+        "given": "V.V."
+      },
+      {
+        "family": "Aprile",
+        "given": "F.M."
+      },
+      {
+        "family": "Melo",
+        "given": "S."
+      },
+      {
+        "family": "Silva",
+        "given": "E.N.dos S."
+      }
+    ],
+    "title": "Reserva de Desenvolvimento Sustentável do Tupé: características gerais",
+    "container-title": "Biotupé: Meio Físico, Diversidade Biológica e Sociocultural do Baixo Rio Negro, Amazônia Central. Editora INPA, Manaus",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "11–21"
+  },
+  {
+    "author": [
+      {
+        "family": "Scudeller",
+        "given": "V.V."
+      },
+      {
+        "family": "Souza",
+        "given": "A.M.G."
+      }
+    ],
+    "title": "Florística da mata de igapó na Amazônia central",
+    "container-title": "Biotupé: Meio Físico, Diversidade Biológica e Sociocultural do Baixo Rio Negro, Amazônia Central",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "97–108",
+    "publisher-place": "Editora INPA, Manaus"
+  },
+  {
+    "author": [
+      {
+        "family": "Triana",
+        "given": "J.J."
+      }
+    ],
+    "title": "Les Melastomacées",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1871",
+    "page": "1–188",
+    "URL": "https://doi.org/10.1111/j.1096-3642.1871.tb00222.x",
+    "DOI": "10.1111/j.1096-3642.1871.tb00222.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Veloso",
+        "given": "H.P."
+      },
+      {
+        "family": "Góes-filho",
+        "given": "L."
+      }
+    ],
+    "title": "A vegetação da Amazônia. Silvicultura em São Paulo 16 A",
+    "type": null,
+    "issued": "1982"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Lasser",
+        "given": "T."
+      }
+    ],
+    "container-title": "Flora de Venezuela",
+    "volume": "8",
+    "publisher": "Instituto Botanico",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "296–513",
+    "publisher-place": "Caracas"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Harling",
+        "given": "G."
+      },
+      {
+        "family": "Sparre",
+        "given": "B."
+      }
+    ],
+    "container-title": "Flora of Equador",
+    "volume": "13",
+    "publisher": "University Goteborg and Riksmuseum",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "1–406",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      },
+      {
+        "family": "Morley",
+        "given": "T."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Van Rijn",
+        "given": "A.R.A.G."
+      }
+    ],
+    "container-title": "Flora of the Guianas",
+    "volume": "99",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "1–425"
+  }
+]

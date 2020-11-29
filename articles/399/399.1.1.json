@@ -1,0 +1,738 @@
+[
+  {
+    "author": [
+      {
+        "family": "Akaike",
+        "given": "H."
+      }
+    ],
+    "title": "Information theory and an extension of the maximum likelihood principle",
+    "editor": [
+      {
+        "family": "Petrov",
+        "given": "B.N."
+      },
+      {
+        "family": "Caski",
+        "given": "F."
+      }
+    ],
+    "container-title": "Proceedings of the Second International Symposium on Information Theory",
+    "publisher": "Akademiai Kiado",
+    "type": "paper-conference",
+    "issued": "1973",
+    "page": "267–281",
+    "publisher-place": "Budapest"
+  },
+  {
+    "author": [
+      {
+        "family": "Baldwin",
+        "given": "B.G."
+      },
+      {
+        "family": "Markos",
+        "given": "S."
+      }
+    ],
+    "title": "Phylogenetic utility of the external transcribed spacer (ETS) of 18S–26S nrDNA: congruence of ETS and ITS trees of Calycadenia (Compositae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "1998",
+    "page": "449–463",
+    "URL": "https://doi.org/10.1006/mpev.1998.0545",
+    "DOI": "10.1006/mpev.1998.0545"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "Euthamia",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "G."
+      }
+    ],
+    "volume": "37",
+    "type": null,
+    "issued": "1825",
+    "page": "471–472",
+    "publisher-place": "Le Normant, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Brouillet",
+        "given": "L."
+      },
+      {
+        "family": "Semple",
+        "given": "J.C."
+      }
+    ],
+    "title": "Aster",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols. 20–21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "574–632",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.D."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemical Bulletin, Botanical Society of America",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: Multiple sequence alignment with high accuracy and high throughput",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2004",
+    "page": "1792–1797",
+    "URL": "https://doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Compositae novae e flora sinensi",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique",
+    "issue": "22",
+    "issued": "1896",
+    "page": "372–376"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Compositae novae e flora sinensi",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique",
+    "issue": "23",
+    "issued": "1896",
+    "page": "378"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogenetic trees",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list categories and criteria, version 3.1",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gouy",
+        "given": "M."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      }
+    ],
+    "title": "Multiple sequence alignment with Clustal X",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Trends in Biochemical Sciences",
+    "issued": "1998",
+    "page": "403–405",
+    "URL": "https://doi.org/10.1016/S0968-0004(98)01285-7",
+    "DOI": "10.1016/S0968-0004(98)01285-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Levan",
+        "given": "A."
+      },
+      {
+        "family": "Fredga",
+        "given": "K."
+      },
+      {
+        "family": "Sandberg",
+        "given": "A.A."
+      }
+    ],
+    "title": "Nomenclature for centromeric position on chromosomes",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Hereditas",
+    "issued": "1964",
+    "page": "201–220",
+    "URL": "https://doi.org/10.1111/j.1601-5223.1964.tb01953.x",
+    "DOI": "10.1111/j.1601-5223.1964.tb01953.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "W.P."
+      },
+      {
+        "family": "Liu",
+        "given": "S.X."
+      }
+    ],
+    "title": "Aster jishouensis (Asteraceae), a new species from Hunan, China",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "2002",
+    "page": "455–457"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "W.P."
+      },
+      {
+        "family": "Chen",
+        "given": "G.X."
+      }
+    ],
+    "title": "Aster ageratoides var. pendulus W.P.Li & G.X.Chen, a new variety of Aster (Asteraceae) from Hunan, China",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "2006",
+    "page": "348–350",
+    "URL": "https://doi.org/10.1360/aps050051",
+    "DOI": "10.1360/aps050051"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "W.P."
+      },
+      {
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "family": "Yin",
+        "given": "G.S."
+      },
+      {
+        "family": "Yin",
+        "given": "Y."
+      },
+      {
+        "family": "Yang",
+        "given": "F.S."
+      },
+      {
+        "family": "Chen",
+        "given": "S.M."
+      }
+    ],
+    "title": "Extensive chromosome number variation in Aster ageratoides var. pendulus (Asteraceae",
+    "volume": "165",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2011",
+    "page": "378–387",
+    "URL": "https://doi.org/10.1111/j.1095-8339.2011.01114.x",
+    "DOI": "10.1111/j.1095-8339.2011.01114.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "W.P."
+      },
+      {
+        "family": "Yang",
+        "given": "F.S."
+      },
+      {
+        "family": "Jivkova",
+        "given": "T."
+      },
+      {
+        "family": "Yin",
+        "given": "G.S."
+      }
+    ],
+    "title": "Phylogenetic relationships and generic delimitation of Eurasian Aster (Asteraceae: Astereae) inferred from ITS, ETS and trnL-F sequence data",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2012",
+    "page": "1341–1357",
+    "URL": "https://doi.org/10.1093/aob/mcs054",
+    "DOI": "10.1093/aob/mcs054"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Z."
+      },
+      {
+        "family": "Yin",
+        "given": "G.S."
+      },
+      {
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "family": "Li",
+        "given": "W.P."
+      }
+    ],
+    "title": "Aster oliganthus (Asteraceae, Astereae), a new species from western Sichuan, China, based on morphological and molecular data",
+    "volume": "326",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2017",
+    "page": "54–62",
+    "URL": "https://doi.org/10.11646/phytotaxa.326.1.4",
+    "DOI": "10.11646/phytotaxa.326.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von"
+      }
+    ],
+    "volume": "L",
+    "type": "article-journal",
+    "container-title": "Species Plantarum",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Markos",
+        "given": "S."
+      },
+      {
+        "family": "Baldwin",
+        "given": "B.G."
+      }
+    ],
+    "title": "Higher-level relationships and major lineages of Lessingia (Compositae, Astereae) based on nuclear rDNA internal and external transcribed spacer (ITS and ETS) sequences",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2001",
+    "page": "168–183"
+  },
+  {
+    "author": [
+      {
+        "family": "Meng",
+        "given": "Y."
+      },
+      {
+        "family": "Yang",
+        "given": "Y.P."
+      },
+      {
+        "family": "Deng",
+        "given": "T."
+      }
+    ],
+    "title": "New chromosome counts, polyploidy, and karyotype evolution in Aster L",
+    "note": "Asteraceae: Astereae) from the Qinghai-Tibet Plateau.",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Caryologia",
+    "issue": "4",
+    "issued": "2016",
+    "page": "1–9",
+    "URL": "https://doi.org/10.1080/00087114.2016.1248100",
+    "DOI": "10.1080/00087114.2016.1248100"
+  },
+  {
+    "author": [
+      {
+        "family": "Muller",
+        "given": "K."
+      },
+      {
+        "family": "Muller",
+        "given": "J."
+      },
+      {
+        "family": "Quandt",
+        "given": "D."
+      }
+    ],
+    "title": "PhyDE-Phylogenetic Data Editor, version 0.9971",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "URL": "http://www.phyde.de/index.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Nesom",
+        "given": "G.L."
+      }
+    ],
+    "title": "Review of the taxonomy of Aster sensu lato (Asteraceae: Astereae), emphasizing the New World species",
+    "volume": "77",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1994",
+    "page": "141–297"
+  },
+  {
+    "author": [
+      {
+        "family": "Noyes",
+        "given": "R.D."
+      },
+      {
+        "family": "Rieseberg",
+        "given": "L.H."
+      }
+    ],
+    "title": "ITS sequence data support a single origin for North American Astereae (Asteraceae) and reflect deep geographic divisions in Aster s.l",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1999",
+    "page": "398–412",
+    "URL": "https://doi.org/10.2307/2656761",
+    "DOI": "10.2307/2656761"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      }
+    ],
+    "title": "A critical review and a new proposal of karyotype asymmetry indices",
+    "volume": "258",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issue": "1",
+    "issued": "2006",
+    "page": "39–48",
+    "URL": "https://doi.org/10.1007/s00606-005-0389-2",
+    "DOI": "10.1007/s00606-005-0389-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Semple",
+        "given": "J.C."
+      }
+    ],
+    "title": "A Geographic Summary of Chromosome Number Reports for North American Asters and Goldenrods (Asteraceae: Astereae",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issue": "1",
+    "issued": "1992",
+    "page": "95–109",
+    "URL": "https://doi.org/10.2307/2399812",
+    "DOI": "10.2307/2399812"
+  },
+  {
+    "author": [
+      {
+        "family": "Semple",
+        "given": "J.C."
+      },
+      {
+        "family": "Zhang",
+        "given": "J."
+      },
+      {
+        "family": "Xiang",
+        "given": "C."
+      }
+    ],
+    "title": "Chromosome number determinations in fam. Compositae, tribe Astereae",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "V. Eastern North American taxa. Rhodora",
+    "issue": "883",
+    "issued": "1993",
+    "page": "234–253"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Stebbins",
+        "given": "G.L."
+      }
+    ],
+    "title": "Chromosomal evolution in higher plants",
+    "type": null,
+    "issued": "1971",
+    "page": "216",
+    "publisher-place": "Edward Arnold, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: phylogenetic analysis using parsimony (*and other methods), version 4.0b10",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Sunderland, MA"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: A Guide to Methods and Application",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Xiang",
+        "given": "C."
+      },
+      {
+        "family": "Semple",
+        "given": "J.D."
+      }
+    ],
+    "title": "Molecular systematic study of Aster sensu lato and related genera (Asteraceae: Astereae) based on chloroplast DNA restriction site analyses and mainly North American taxa",
+    "editor": [
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      },
+      {
+        "family": "Beentje",
+        "given": "H.J."
+      }
+    ],
+    "container-title": "Proceeding of the International Compositae Conference",
+    "volume": "1",
+    "publisher": "Royal Botanic Gardens, Kew",
+    "type": "article-journal",
+    "issued": "1996",
+    "page": "393–423",
+    "publisher-place": "Kew"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "G.J."
+      },
+      {
+        "family": "Hu",
+        "given": "H.H."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.F."
+      },
+      {
+        "family": "Tian",
+        "given": "X.J."
+      },
+      {
+        "family": "Peng",
+        "given": "H."
+      },
+      {
+        "family": "Gao",
+        "given": "T.G."
+      }
+    ],
+    "title": "Inaccessible biodiversity on limestone cliffs: Aster tianmenshanensis (Asteraceae), a new critically endangered species from China",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "PLoS ONE",
+    "issue": "8",
+    "issued": "2015",
+    "page": "0134895",
+    "URL": "https://doi.org/10.1371/journal.pone.0134895",
+    "DOI": "10.1371/journal.pone.0134895"
+  }
+]

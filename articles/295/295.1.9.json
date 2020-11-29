@@ -1,0 +1,377 @@
+[
+  {
+    "editor": [
+      {
+        "family": "Ascherson",
+        "given": "P."
+      },
+      {
+        "family": "Graebner",
+        "given": "P."
+      }
+    ],
+    "title": "Synopsis der Mitteleuropaischen Flora",
+    "volume": "5",
+    "publisher": "Verlag von Gebruder Borntraeger",
+    "issue": "2",
+    "type": "book",
+    "issued": "1920",
+    "page": "80",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertoloni",
+        "given": "A."
+      }
+    ],
+    "title": "Commentarius de itinere Neapolitano aestate anni 1834 suscepto",
+    "container-title": "Ex Typographaeo Emygdii ab Ulmo et Josephii Tiocchi, Bononieae [Bologna",
+    "type": "chapter",
+    "issued": "1837",
+    "page": "24"
+  },
+  {
+    "author": [
+      {
+        "family": "Cacciato",
+        "given": "A."
+      }
+    ],
+    "title": "Il genere Amaranthus a Roma e nel Lazio",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Annali di Botanica",
+    "issued": "1966",
+    "page": "613–630"
+  },
+  {
+    "author": [
+      {
+        "given": "D.A.I.S.I.E."
+      }
+    ],
+    "title": "European Invasive Alien Species Gateway. Amaranthus ×galii",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2008",
+    "URL": "http://www.europe-aliens.org/speciesFactsheet.do?speciesId=6681#"
+  },
+  {
+    "author": [
+      {
+        "family": "Galasso",
+        "given": "G."
+      },
+      {
+        "family": "Bartolucci",
+        "given": "F."
+      },
+      {
+        "family": "Peruzzi",
+        "given": "L."
+      },
+      {
+        "family": "Ardenghi",
+        "given": "N.M.G."
+      },
+      {
+        "family": "Banfi",
+        "given": "E."
+      },
+      {
+        "family": "Celesti-Grapow",
+        "given": "L."
+      },
+      {
+        "family": "Conti",
+        "given": "F."
+      }
+    ],
+    "title": "Checklist aggiornata della flora vascolare alloctona d’Italia",
+    "editor": [
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Peruzzi",
+        "given": "L."
+      }
+    ],
+    "container-title": "Minilavori della Riunione scientifica del Gruppo per la Floristica, Sistematica ed Evoluzione, 21-22 ottobre 2016, Roma. Notiziario della Società Botanica Italiana",
+    "type": "chapter",
+    "issued": "2016",
+    "page": "25–26"
+  },
+  {
+    "author": [
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Lectotypification of Linnaean names in the genus Achyranthes L",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Amaranthaceae). Taxon",
+    "issued": "2014",
+    "page": "405–407",
+    "URL": "https://doi.org/10.12705/632.2",
+    "DOI": "10.12705/632.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Taxonomic revision of the genus Amaranthus (Amaranthaceae) in Italy",
+    "volume": "199",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2015",
+    "page": "1–84",
+    "URL": "https://doi.org/10.11646/phytotaxa.199.1.1",
+    "DOI": "10.11646/phytotaxa.199.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Nomenclature survey of the genus Amaranthus (Amaranthaceae). 3. Names linked to the Italian flora",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issued": "2016",
+    "page": "519–531",
+    "URL": "https://doi.org/10.1080/11263504.2014.987188",
+    "DOI": "10.1080/11263504.2014.987188"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Proud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "J.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code): Adopted by the Eichteenth International Botanical Congress",
+    "volume": "154",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "1–274",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "publisher": "Laurentii Salvii, Holmiae [Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "899"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Systema Naturae ed",
+    "volume": "10, vol. 2",
+    "publisher": "Laurentii Salvii, Holmiae [Stockholm",
+    "type": "book",
+    "issued": "1759",
+    "page": "559"
+  },
+  {
+    "author": [
+      {
+        "family": "Priszter",
+        "given": "S."
+      }
+    ],
+    "title": "Amaranthus–vizsgálatok. 1. Amaranhtus-hibridek Magyarországon. Index Horti botanici Universitatis budapestinensis",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Budapest",
+    "issued": "1949",
+    "page": "116–149"
+  },
+  {
+    "author": [
+      {
+        "family": "Sánchez Del Pino",
+        "given": "I."
+      },
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Jamesbondia, a new subgenus of Alternanthera (Gomphrenoideae, Amaranthaceae) from Central America and the Caribbean Islands",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issued": "2016",
+    "page": "190–200",
+    "URL": "https://doi.org/10.1080/11263504.2014.941034",
+    "DOI": "10.1080/11263504.2014.941034"
+  },
+  {
+    "author": [
+      {
+        "family": "Sennen",
+        "given": "F."
+      }
+    ],
+    "title": "Quelques espèces adventices, subspontanées ou cultivées en Espagne et dans le domaine méditerranéen",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Cavanillesia",
+    "issued": "1829",
+    "page": "10–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "A.F."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "edition": "2nd",
+    "volume": "1",
+    "publisher": "A–G). Bohn, Scheltema & Holtema",
+    "type": "book",
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Botanica",
+        "given": "Tela"
+      }
+    ],
+    "title": "continuously updated) Tela Botanica. Flore électronique. Flores en ligne, France métropolitaine",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2000",
+    "URL": "http://www.tela-botanica.org/bdtfx-nn-3993-synthese"
+  },
+  {
+    "author": [
+      {
+        "family": "Thellung",
+        "given": "A."
+      }
+    ],
+    "title": "Amaranthus L",
+    "editor": [
+      {
+        "family": "Ascherson",
+        "given": "P."
+      },
+      {
+        "family": "Graebner",
+        "given": "P."
+      }
+    ],
+    "container-title": "Synopsis der Mitteleuropaischen Flora",
+    "volume": "5",
+    "publisher": "Verlag von Gebruder Borntraeger",
+    "type": "chapter",
+    "issued": "1914",
+    "page": "225–356",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "onwards) Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

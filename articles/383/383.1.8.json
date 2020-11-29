@@ -1,0 +1,149 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barros",
+        "given": "M."
+      }
+    ],
+    "title": "Las Ciperáceas del Estado de Santa Catalina",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Sellowia",
+    "issued": "1960",
+    "page": "181–450"
+  },
+  {
+    "author": [
+      {
+        "family": "Boeckeler",
+        "given": "J.O."
+      }
+    ],
+    "title": "Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening i Kjøbenhavn",
+    "type": "article-journal",
+    "container-title": "Naturhistoriske forening i Kjøbenhavn",
+    "issued": "1869",
+    "page": "143–149"
+  },
+  {
+    "author": [
+      {
+        "family": "Brasil",
+        "given": "Flora",
+        "particle": "do"
+      }
+    ],
+    "title": "Continuously updated. Cyperaceae. Jardim Botânico do Rio de Janeiro",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB7258"
+  },
+  {
+    "author": [
+      {
+        "family": "Kükenthal",
+        "given": "G."
+      }
+    ],
+    "title": "Vorarbeiten zu einer Monographie der Rhynchosporoideae -. Rhynchospora",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher fur Systematik",
+    "issued": "1950",
+    "page": "90–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Nees",
+        "given": "C.G.D."
+      }
+    ],
+    "title": "Cyperaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "2",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1842",
+    "page": "110–147"
+  },
+  {
+    "author": [
+      {
+        "family": "Rocha",
+        "given": "E."
+      },
+      {
+        "family": "Luceño",
+        "given": "M."
+      }
+    ],
+    "title": "Estudo taxonômico de Rhynchospora Vahl seção Tenues (Cyperaceae) no Brasil",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Hoehnea",
+    "issued": "2002",
+    "page": "189–214"
+  },
+  {
+    "author": [
+      {
+        "family": "Silva Filho",
+        "given": "P.J.S."
+      },
+      {
+        "family": "Trevisan",
+        "given": "R."
+      },
+      {
+        "family": "Boldrini",
+        "given": "I.I."
+      }
+    ],
+    "title": "Revision of Rhynchospora (Cyperaceae) sect",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Luzuliformes. Systematic Botany",
+    "issue": "1",
+    "issued": "2017",
+    "page": "175–184",
+    "URL": "https://doi.org/10.1600/036364417X694917",
+    "DOI": "10.1600/036364417X694917"
+  },
+  {
+    "author": [
+      {
+        "family": "Stam",
+        "given": "G."
+      }
+    ],
+    "title": "A riqueza dos campos de altitude",
+    "genre": "Pesquisa FAPESP 239.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://revistapesquisa.fapesp.br/2016/01/12/a-riqueza-dos-campos-de-altitude/"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Enumeratio Plantarum vel ab aliis, vel ab ipso observatarum, cum earum differentiis specificis, synonymis selectis et descriptionibus succinctis",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Enumeratio Plantarum",
+    "issued": "1805",
+    "page": "229"
+  }
+]

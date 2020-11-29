@@ -1,0 +1,155 @@
+[
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Plantes Nouvelles de la Chine occidentale",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique (Morot",
+    "issued": "1894",
+    "page": "290–291"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria (version 3.1",
+    "edition": "2nd",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamarck",
+        "given": "J.B.de"
+      },
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Flore Française",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "4",
+    "publisher": "Chez H. Agasse",
+    "issue": "2",
+    "type": "book",
+    "issued": "1805",
+    "page": "545",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Lidén",
+        "given": "M."
+      }
+    ],
+    "title": "A revision of Corydalis sect",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Fumarioides sect. nov. Part I. Rheedea",
+    "issued": "1991",
+    "page": "29–35"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Zhuang",
+        "given": "X."
+      }
+    ],
+    "title": "A new section of Corydalis, sect. Davidianae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issue": "3",
+    "issued": "1990",
+    "page": "279–286"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Zhuang",
+        "given": "X."
+      },
+      {
+        "family": "Su",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Corydalis DC",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "32",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "96–483",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "M.L."
+      },
+      {
+        "family": "Su",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Lidén",
+        "given": "M."
+      }
+    ],
+    "title": "Corydalis DC",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "7",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "336–342",
+    "publisher-place": "Beijing"
+  }
+]

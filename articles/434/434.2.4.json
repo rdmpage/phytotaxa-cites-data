@@ -1,0 +1,1171 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      }
+    ],
+    "title": "Histoire des plantes de la Guiane Françoise",
+    "volume": "1",
+    "publisher": "Pierre–François Didot",
+    "type": "book",
+    "issued": "1775",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Bivand",
+        "given": "R."
+      },
+      {
+        "family": "Keitt",
+        "given": "T."
+      },
+      {
+        "family": "Rowlingson",
+        "given": "B."
+      }
+    ],
+    "title": "Rgdal: Bindings for the ’geospatial’ data abstraction library",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://CRAN.R-project.org/package=rgdal"
+  },
+  {
+    "author": [
+      {
+        "family": "Browne",
+        "given": "P."
+      }
+    ],
+    "title": "Civ",
+    "publisher": "Nat. Hist. Jamaica. Browne",
+    "type": "book",
+    "issued": "1756",
+    "page": "503",
+    "publisher-place": "Patrick, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Burman",
+        "given": "N.L."
+      }
+    ],
+    "title": "Flora Indica",
+    "publisher": "Cornelium Haak & Johannes Schreuder, Amsterdam",
+    "type": "book",
+    "issued": "1768",
+    "page": "242"
+  },
+  {
+    "author": [
+      {
+        "family": "Cardoso",
+        "given": "P."
+      }
+    ],
+    "title": "Red: IUCN Redlisting tools",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://CRAN.R-project.org/package=red"
+  },
+  {
+    "author": [
+      {
+        "family": "Cornejo",
+        "given": "X."
+      },
+      {
+        "family": "Mori",
+        "given": "S.A."
+      },
+      {
+        "family": "Aguilar",
+        "given": "R."
+      },
+      {
+        "family": "Stevens",
+        "given": "H."
+      },
+      {
+        "family": "Douwes",
+        "given": "F."
+      }
+    ],
+    "title": "Phytogeography of the trees of the Osa Peninsula, Costa Rica",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2012",
+    "page": "76–101",
+    "URL": "https://doi.org/10.1007/s12228-011-9194-0",
+    "DOI": "10.1007/s12228-011-9194-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuatrecasas",
+        "given": "J."
+      }
+    ],
+    "title": "Notas a la flora de Colombia XII",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales",
+    "issued": "1952",
+    "page": "464–488"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuatrecasas",
+        "given": "J."
+      }
+    ],
+    "title": "Prima Flora Colombiana - 1. Burseraceae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Webbia: journal of plant taxonomy and geography",
+    "issued": "1957",
+    "page": "375–441",
+    "URL": "https://doi.org/10.1080/00837792.1957.10669667",
+    "DOI": "10.1080/00837792.1957.10669667"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuatrecasas",
+        "given": "J."
+      }
+    ],
+    "title": "A new Burseracea from Santa Catarina",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Sellowia",
+    "issued": "1961",
+    "page": "261–263"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "D.C."
+      }
+    ],
+    "title": "Studies in Neotropical Burseraceae. II. Generic limits in New World Protieae and Canarieae",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1989",
+    "page": "17–27",
+    "URL": "https://doi.org/10.2307/2807583",
+    "DOI": "10.2307/2807583"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "D.C."
+      }
+    ],
+    "title": "Burseraceae",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B."
+      }
+    ],
+    "container-title": "Flora of the Venezuelan Guayana",
+    "volume": "3",
+    "publisher": "Timber Press",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "688–728",
+    "publisher-place": "Portland"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "D.C."
+      }
+    ],
+    "title": "A new section of Protium from the neotropics. Studies in neotropical Burseraceae XIII",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2007",
+    "page": "1–24",
+    "URL": "https://doi.org/10.1663/0007-196X(2007)59",
+    "DOI": "10.1663/0007-196X(2007)59"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "D.C."
+      }
+    ],
+    "title": "A new peri-Amazonian species of Protium. Studies in neotropical Burseraceae XXI",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2017",
+    "page": "465–469",
+    "URL": "https://doi.org/10.1007/s12228-017-9479-z",
+    "DOI": "10.1007/s12228-017-9479-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "D.C."
+      }
+    ],
+    "title": "A new species of Protium from Guyana. Studies in neotropical Burseraceae XXIII",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2018",
+    "page": "333–336",
+    "URL": "https://doi.org/10.1007/s12228-018-9525-5",
+    "DOI": "10.1007/s12228-018-9525-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "D.C."
+      }
+    ],
+    "title": "Notes on the Burseraceae in central Amazonia, including four new taxa. Studies in neotropical Burseraceae XXVI",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2018",
+    "page": "427–444",
+    "URL": "https://doi.org/10.1007/s12228-018-9537-1",
+    "DOI": "10.1007/s12228-018-9537-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "D.C."
+      },
+      {
+        "family": "Fine",
+        "given": "P.V.A."
+      }
+    ],
+    "title": "Generic limits re-visited and an updated sectional classification for Protium (tribe Protieae). Studies in Neotropical Burseraceae XXV",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2018",
+    "page": "418–426",
+    "URL": "https://doi.org/10.1007/s12228-018-9533-5",
+    "DOI": "10.1007/s12228-018-9533-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "D.C."
+      },
+      {
+        "family": "Fine",
+        "given": "P.V.A."
+      },
+      {
+        "family": "Martínez-Habibe",
+        "given": "M.C."
+      }
+    ],
+    "title": "Burseraceae: A model for studying the Amazon flora",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2012",
+    "page": "21–30",
+    "URL": "https://doi.org/10.1590/S2175-78602012000100002",
+    "DOI": "10.1590/S2175-78602012000100002"
+  },
+  {
+    "author": [
+      {
+        "family": "Damasco",
+        "given": "G."
+      },
+      {
+        "family": "Daly",
+        "given": "D.C."
+      },
+      {
+        "family": "Vicentini",
+        "given": "A."
+      },
+      {
+        "family": "Fine",
+        "given": "P.V."
+      }
+    ],
+    "title": "Reestablishment of Protium cordatum (Burseraceae) based on integrative taxonomy",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2019",
+    "page": "34–46",
+    "URL": "https://doi.org/10.1002/tax.12022",
+    "DOI": "10.1002/tax.12022"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.L.P.P.",
+        "particle": "de"
+      }
+    ],
+    "title": "La famille des Myristicacées. Annales des Sciences Naturelles",
+    "volume": "4, 4",
+    "type": "article-journal",
+    "container-title": "Botanique série",
+    "issued": "1855",
+    "page": "20–31"
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "K.",
+        "particle": "de"
+      }
+    ],
+    "title": "Species concepts and species delimitation",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2007",
+    "page": "879–886",
+    "URL": "https://doi.org/10.1080/10635150701701083",
+    "DOI": "10.1080/10635150701701083"
+  },
+  {
+    "author": [
+      {
+        "family": "Dunnington",
+        "given": "D."
+      }
+    ],
+    "title": "Prettymapr: Scale bar, North arrow, and pretty margins in R",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "https://CRAN.R-project.org/package=prettymapr"
+  },
+  {
+    "author": [
+      {
+        "family": "Dunnington",
+        "given": "D."
+      }
+    ],
+    "title": "Ggspatial: Spatial data framework for ggplot2",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://CRAN.R-project.org/package=ggspatial"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "B."
+      },
+      {
+        "family": "Daly",
+        "given": "D.C."
+      },
+      {
+        "family": "Hickey",
+        "given": "L.J."
+      },
+      {
+        "family": "Johnson",
+        "given": "K.R."
+      },
+      {
+        "family": "Mitchell",
+        "given": "J.D."
+      },
+      {
+        "family": "Wilf",
+        "given": "P."
+      },
+      {
+        "family": "Wing",
+        "given": "S.L."
+      }
+    ],
+    "title": "Manual of leaf architecture",
+    "publisher": "Cornell University Press",
+    "type": "book",
+    "issued": "2009",
+    "page": "190"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Burseraceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.",
+        "particle": "von"
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Flora Brasiliensis. Typographia Regia, Munich",
+    "type": "chapter",
+    "issued": "1874",
+    "page": "247–294"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Burseraceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.L.P.P.",
+        "particle": "de"
+      },
+      {
+        "family": "Candolle",
+        "given": "A.C.P.",
+        "particle": "de"
+      }
+    ],
+    "container-title": "Monographiae Phanerogamarum",
+    "volume": "4",
+    "publisher": "G. Masson",
+    "type": "chapter",
+    "issued": "1883",
+    "page": "1–169",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      }
+    ],
+    "title": "Burseraceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      },
+      {
+        "literal": "ed."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien",
+    "publisher": "Dunker & Humblot",
+    "type": "chapter",
+    "issued": "1931",
+    "page": "2",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Fellows",
+        "given": "I."
+      }
+    ],
+    "title": "OpenStreetMap: Access to open street map raster images",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://CRAN.R-project.org/package=OpenStreetMap"
+  },
+  {
+    "author": [
+      {
+        "family": "Fine",
+        "given": "P.V.A."
+      },
+      {
+        "family": "Daly",
+        "given": "D.C."
+      },
+      {
+        "family": "Villa Muñoz",
+        "given": "G."
+      },
+      {
+        "family": "Mesones",
+        "given": "I."
+      },
+      {
+        "family": "Cameron",
+        "given": "K.M."
+      }
+    ],
+    "title": "The contribution of edaphic heterogeneity to the evolution and diversity of Burseraceae trees in the western Amazon",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "2005",
+    "page": "1464–1478",
+    "URL": "https://doi.org/10.1554/04-745",
+    "DOI": "10.1554/04-745"
+  },
+  {
+    "author": [
+      {
+        "family": "Fine",
+        "given": "P.V.A."
+      },
+      {
+        "family": "Zapata",
+        "given": "F."
+      },
+      {
+        "family": "Daly",
+        "given": "D.C."
+      }
+    ],
+    "title": "Investigating processes of Neotropical rain forest tree diversification by examining the evolution and historical biogeography of the Protieae (Burseraceae",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "2014",
+    "page": "1988–2004",
+    "URL": "https://doi.org/10.1111/evo.12414",
+    "DOI": "10.1111/evo.12414"
+  },
+  {
+    "author": [
+      {
+        "family": "Humboldt",
+        "given": "F.W.H.A."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A.J.A.",
+        "particle": "von"
+      },
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum",
+    "edition": "quarto",
+    "volume": "7",
+    "publisher": "Chez N. Maze Libraire",
+    "type": "book",
+    "issued": "1825",
+    "page": "506",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list categories and criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland; Cambridge, UK",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Johnston",
+        "given": "I.M."
+      }
+    ],
+    "title": "II. Taxonomic records concerning American Spermatophytes",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Contributions from the Gray Herbarium of Harvard",
+    "issued": "1924",
+    "page": "61–92"
+  },
+  {
+    "author": [
+      {
+        "family": "Karsten",
+        "given": "G.K.W.H."
+      }
+    ],
+    "title": "Deutsche Flora, lieferungen 6",
+    "type": null,
+    "issued": "1882",
+    "page": "529–624"
+  },
+  {
+    "author": [
+      {
+        "family": "Lima",
+        "given": "L.R."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Burseraceae",
+    "editor": [
+      {
+        "family": "Wanderley",
+        "given": "M."
+      },
+      {
+        "family": "Shepherd",
+        "given": "G."
+      },
+      {
+        "family": "Melhem",
+        "given": "T."
+      },
+      {
+        "family": "Martins",
+        "given": "S."
+      },
+      {
+        "family": "Kirizawa",
+        "given": "M."
+      },
+      {
+        "family": "Giulietti",
+        "given": "A."
+      }
+    ],
+    "container-title": "Flora Fanerogâmica do estado de São Paulo",
+    "volume": "4",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "163–168"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Supplementum Plantarum",
+    "issued": "1782",
+    "page": "467"
+  },
+  {
+    "author": [
+      {
+        "family": "Lundell",
+        "given": "C.L."
+      }
+    ],
+    "title": "Studies of Mexican and Central American Plants–IV",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Field & Laboratory",
+    "issued": "1937",
+    "page": "9–16"
+  },
+  {
+    "author": [
+      {
+        "family": "Marchand",
+        "given": "N.L."
+      }
+    ],
+    "title": "Recherches sur l’organisation des Burseracees",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1867",
+    "page": "17–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Marchand",
+        "given": "N.L."
+      }
+    ],
+    "title": "Burseraceae",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening i Kjøbenhavn",
+    "issued": "1873",
+    "page": "54–57"
+  },
+  {
+    "author": [
+      {
+        "family": "Oken",
+        "given": "L."
+      }
+    ],
+    "volume": "3",
+    "publisher": "Hoffmann’sche Verlags-Buchhandlung",
+    "type": "article-journal",
+    "container-title": "Allgemeine Naturgeschichte",
+    "issued": "1841",
+    "page": "1449–2142",
+    "publisher-place": "Stuttgart"
+  },
+  {
+    "author": [
+      {
+        "family": "Pebesma",
+        "given": "E."
+      }
+    ],
+    "title": "Sf: Simple features for R",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://CRAN.R-project.org/package=sf"
+  },
+  {
+    "author": [
+      {
+        "family": "Porter",
+        "given": "D.M."
+      }
+    ],
+    "title": "Part VI. Family 91. Burseraceae",
+    "editor": [
+      {
+        "family": "Woodson",
+        "given": "R.E."
+      },
+      {
+        "family": "Schery",
+        "given": "R.W."
+      }
+    ],
+    "container-title": "Flora of Panama",
+    "volume": "57",
+    "publisher": "Missouri Botanical Garden Press",
+    "type": "chapter",
+    "issued": "1970",
+    "page": "5–27",
+    "URL": "https://doi.org/10.2307/2394779",
+    "DOI": "10.2307/2394779"
+  },
+  {
+    "author": [
+      {
+        "family": "Porter",
+        "given": "D.M."
+      }
+    ],
+    "title": "Two new species of Protium (Burseraceae) from Central America",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1972",
+    "page": "261–265",
+    "URL": "https://doi.org/10.2307/2394937",
+    "DOI": "10.2307/2394937"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "R.Development Core"
+      }
+    ],
+    "title": "R: A language and environment for statistical computing. R Foundation for Statistical Computing",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "publisher-place": "Vienna, Austria",
+    "URL": "http://www.R-project.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Reginato",
+        "given": "M."
+      }
+    ],
+    "title": "MonographaR: An R package to facilitate the production of plant taxonomic monographs",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2016",
+    "page": "212–216",
+    "URL": "https://doi.org/10.1007/s12228-015-9407-z",
+    "DOI": "10.1007/s12228-015-9407-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Rose",
+        "given": "J.N."
+      }
+    ],
+    "title": "Burseraceae",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "North American Flora",
+    "issued": "1911",
+    "page": "241–261"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz López",
+        "given": "H."
+      },
+      {
+        "family": "Pavón",
+        "given": "J.A."
+      }
+    ],
+    "title": "Florae Peruvianae, et Chilensis Prodromus",
+    "volume": "Madrid",
+    "type": "article-journal",
+    "container-title": "Imprenta de Sancha",
+    "issued": "1794",
+    "page": "153"
+  },
+  {
+    "author": [
+      {
+        "family": "Santamaría-Aguilar",
+        "given": "D."
+      }
+    ],
+    "title": "Validation of two names and the description of a new species of Freziera (Pentaphylacaceae) from the Peruvian Andes",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Harvard Papers in Botany",
+    "issued": "2015",
+    "page": "69–77",
+    "URL": "https://doi.org/10.3100/hpib.v20iss1.2015.n5",
+    "DOI": "10.3100/hpib.v20iss1.2015.n5"
+  },
+  {
+    "author": [
+      {
+        "family": "Santamaría-Aguilar",
+        "given": "D."
+      },
+      {
+        "family": "Aguilar",
+        "given": "R."
+      }
+    ],
+    "title": "Dacryodes talamancensis (Burseraceae), la segunda especie del género para América Central",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Phytoneuron",
+    "issued": "2017",
+    "page": "1–6"
+  },
+  {
+    "author": [
+      {
+        "family": "Santamaría-Aguilar",
+        "given": "D."
+      },
+      {
+        "family": "Lagomarsino",
+        "given": "L.P."
+      }
+    ],
+    "title": "Two new species and a new combination in Protium (Burseraceae) from Costa Rica",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2017",
+    "page": "89–113",
+    "URL": "https://doi.org/10.3897/phytokeys.76.10298",
+    "DOI": "10.3897/phytokeys.76.10298"
+  },
+  {
+    "author": [
+      {
+        "family": "Santamaría-Aguilar",
+        "given": "D."
+      },
+      {
+        "family": "Ortiz",
+        "given": "R.C."
+      }
+    ],
+    "title": "Freziera dasycarpa (Pentaphylacaceae), a new species from the montane forest of Antioquia, Colombia",
+    "volume": "263",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "279–285",
+    "URL": "https://doi.org/10.11646/phytotaxa.263.3.8",
+    "DOI": "10.11646/phytotaxa.263.3.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Santos Baquero",
+        "given": "O."
+      }
+    ],
+    "title": "Ggsn: North symbols and scale bars for maps created with ’ggplot2’ or ’ggmap’",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "https://CRAN.R-project.org/package=ggsn"
+  },
+  {
+    "author": [
+      {
+        "family": "Schindelin",
+        "given": "J."
+      },
+      {
+        "family": "Arganda-Carreras",
+        "given": "I."
+      },
+      {
+        "family": "Frise",
+        "given": "E."
+      },
+      {
+        "family": "Kaynig",
+        "given": "V."
+      },
+      {
+        "family": "Longair",
+        "given": "M."
+      },
+      {
+        "family": "Pietzsch",
+        "given": "T."
+      },
+      {
+        "family": "Preibisch",
+        "given": "S."
+      },
+      {
+        "family": "Rueden",
+        "given": "C."
+      },
+      {
+        "family": "Saalfeld",
+        "given": "S."
+      },
+      {
+        "family": "Schmid",
+        "given": "B."
+      },
+      {
+        "family": "Tinevez",
+        "given": "J.-Y."
+      },
+      {
+        "family": "White",
+        "given": "D.J."
+      },
+      {
+        "family": "Hartenstein",
+        "given": "V."
+      },
+      {
+        "family": "Eliceiri",
+        "given": "K."
+      },
+      {
+        "family": "Tomancak",
+        "given": "P."
+      },
+      {
+        "family": "Cardona",
+        "given": "A."
+      }
+    ],
+    "title": "Fiji: An open-source platform for biological-image analysis",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "676–682",
+    "URL": "https://doi.org/10.1038/nmeth.2019",
+    "DOI": "10.1038/nmeth.2019"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "K.P.J."
+      }
+    ],
+    "title": "Melicocca",
+    "volume": "2, edition 16",
+    "publisher": "Sumtibus Librariae Dieterichianae",
+    "type": "article-journal",
+    "container-title": "Systema Vegetabilium",
+    "issued": "1825",
+    "page": "1–939",
+    "publisher-place": "Gottingen"
+  },
+  {
+    "author": [
+      {
+        "given": "Standley"
+      }
+    ],
+    "title": "New plants from Central America",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Journal of the Washington Academy of Sciences",
+    "issued": "1925",
+    "page": "457–462"
+  },
+  {
+    "author": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      }
+    ],
+    "title": "Flora of Costa Rica, part II",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Publications of the Field Museum of Natural History, Botanical Series",
+    "issued": "1937",
+    "page": "398–780"
+  },
+  {
+    "author": [
+      {
+        "family": "Stotz",
+        "given": "J.P."
+      }
+    ],
+    "title": "JMapViewer library",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://github.com/balloob/JMapViewer/blob/master/org/openstreetmap/gui/jmapviewer/Demo.java"
+  },
+  {
+    "author": [
+      {
+        "family": "Swart",
+        "given": "J.J."
+      }
+    ],
+    "title": "A monograph of the genus Protium and some allied genera (Burseraceae",
+    "editor": [
+      {
+        "family": "Knuttel",
+        "given": "Gouda Drukkerij Koch",
+        "particle": "en"
+      }
+    ],
+    "type": null,
+    "issued": "1942",
+    "page": "235"
+  },
+  {
+    "author": [
+      {
+        "family": "Swart",
+        "given": "J.J."
+      }
+    ],
+    "title": "Novitates Burseracearum",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Recueil des travaux botaniques néerlandais",
+    "issued": "1942",
+    "page": "189–210"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wickham",
+        "given": "H."
+      }
+    ],
+    "title": "Ggplot2: Elegant graphics for data analysis",
+    "publisher": "Springer-Verlag",
+    "note": "http://ggplot2.org",
+    "type": null,
+    "issued": "2009",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1007/978-0-387-98141-3",
+    "DOI": "10.1007/978-0-387-98141-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilke",
+        "given": "C.O."
+      }
+    ],
+    "title": "Ggridges: Ridgeline plots in ggplot2",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://CRAN.R-project.org/package=ggridges"
+  }
+]

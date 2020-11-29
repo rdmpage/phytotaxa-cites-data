@@ -1,0 +1,741 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aime",
+        "given": "M.C."
+      }
+    ],
+    "title": "Toward resolving family-level relationships in rust fungi (Uredinales",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issue": "47",
+    "issued": "2006",
+    "page": "112–122",
+    "URL": "http://dx.doi.org/10.1007/s10267-006-0281-0",
+    "DOI": "10.1007/s10267-006-0281-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Beenken",
+        "given": "L."
+      },
+      {
+        "family": "Zoller",
+        "given": "S."
+      },
+      {
+        "family": "Berndt",
+        "given": "R."
+      }
+    ],
+    "title": "Rust fungi on Annonaceae II: the genus Dasyspora Berk",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "& M. A. Curtis. Mycologia",
+    "issued": "2012",
+    "page": "659–681",
+    "URL": "http://dx.doi.org/10.3852/11-068",
+    "DOI": "10.3852/11-068"
+  },
+  {
+    "author": [
+      {
+        "family": "Beenken",
+        "given": "L."
+      }
+    ],
+    "title": "Pucciniales on Annona (Annonaceae) with special focus on the genus Phakopsora",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issue": "3",
+    "issued": "2014",
+    "page": "791–809",
+    "URL": "http://dx.doi.org/10.1007/s11557-014-0963-5",
+    "DOI": "10.1007/s11557-014-0963-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Beenken",
+        "given": "L."
+      },
+      {
+        "family": "Wood",
+        "given": "A.R."
+      }
+    ],
+    "title": "Puccorchidium and sphenorchidium, two new genera of Pucciniales on Annonaceae related to Puccinia psidii and the genus Dasyspora",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issue": "7",
+    "issued": "2015",
+    "page": "1–13",
+    "URL": "http://dx.doi.org/10.1007/s11557-015-1073-8",
+    "DOI": "10.1007/s11557-015-1073-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Cao",
+        "given": "B."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Liang",
+        "given": "Y.M."
+      }
+    ],
+    "title": "Gymnosporangium huanglongense sp. nov. from western China",
+    "volume": "131",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issue": "2",
+    "issued": "2016",
+    "page": "375–383",
+    "URL": "https://doi.org/10.5248/131.375",
+    "DOI": "10.5248/131.375"
+  },
+  {
+    "author": [
+      {
+        "family": "Cao",
+        "given": "Z.M."
+      },
+      {
+        "family": "Li",
+        "given": "Z.Q."
+      }
+    ],
+    "title": "Rust fungi of Qinling Mountains (In Chinese",
+    "publisher": "China Forestry Publishing House",
+    "type": "book",
+    "issued": "1999",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Cummins",
+        "given": "G.B."
+      },
+      {
+        "family": "Hiratsuka",
+        "given": "Y."
+      }
+    ],
+    "title": "Illustrated genera of rust fungi",
+    "edition": "2nd",
+    "publisher": "The American Phytopathological Society Press, St. Paul",
+    "type": "book",
+    "issued": "1983"
+  },
+  {
+    "author": [
+      {
+        "family": "Cummins",
+        "given": "G.B."
+      },
+      {
+        "family": "Hiratsuka",
+        "given": "Y."
+      }
+    ],
+    "title": "Illustrated genera of rust fungi",
+    "edition": "3rd",
+    "publisher": "The American Phytopathological Society Press, St. Paul",
+    "type": "book",
+    "issued": "2003"
+  },
+  {
+    "author": [
+      {
+        "family": "Deng",
+        "given": "S.Q."
+      }
+    ],
+    "title": "Fungi of China",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": null,
+    "issued": "1963",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.F."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Anisimova",
+        "given": "M."
+      },
+      {
+        "family": "Hordijk",
+        "given": "W."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2010",
+    "page": "307–321",
+    "URL": "https://doi.org/10.1093/sysbio/syq010",
+    "DOI": "10.1093/sysbio/syq010"
+  },
+  {
+    "author": [
+      {
+        "family": "Hillis",
+        "given": "D.M."
+      },
+      {
+        "family": "Bull",
+        "given": "J.J."
+      }
+    ],
+    "title": "An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analysis",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1993",
+    "page": "182–192",
+    "URL": "https://doi.org/10.1093/sysbio/42.2.182",
+    "DOI": "10.1093/sysbio/42.2.182"
+  },
+  {
+    "author": [
+      {
+        "family": "Jang",
+        "given": "Y."
+      },
+      {
+        "family": "Jang",
+        "given": "S."
+      },
+      {
+        "family": "Lee",
+        "given": "J."
+      },
+      {
+        "family": "Lee",
+        "given": "H."
+      },
+      {
+        "family": "Lim",
+        "given": "Y.W."
+      },
+      {
+        "family": "Kim",
+        "given": "C."
+      },
+      {
+        "family": "Kim",
+        "given": "J."
+      }
+    ],
+    "title": "Diversity of wood-inhabiting polyporoid and corticioid fungi in odaesan national park, Korea",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Mycobiology",
+    "issue": "4",
+    "issued": "2016",
+    "page": "217–236",
+    "URL": "https://doi.org/10.5941/MYCO.2016.44.4.217",
+    "DOI": "10.5941/MYCO.2016.44.4.217"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaitera",
+        "given": "J."
+      },
+      {
+        "family": "Hiltunen",
+        "given": "R."
+      },
+      {
+        "family": "Kauppila",
+        "given": "T."
+      },
+      {
+        "family": "Pitkäranta",
+        "given": "M."
+      },
+      {
+        "family": "Hantula",
+        "given": "J."
+      }
+    ],
+    "title": "Fruiting and sporulation of Thekopsora and Chrysomyxa cone rusts in Picea cones and Prunus leaves",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Forest Pathology",
+    "issue": "5",
+    "issued": "2014",
+    "page": "387–395",
+    "URL": "https://doi.org/10.1111/efp.12114",
+    "DOI": "10.1111/efp.12114"
+  },
+  {
+    "author": [
+      {
+        "family": "Maier",
+        "given": "W."
+      },
+      {
+        "family": "Begerow",
+        "given": "D."
+      },
+      {
+        "family": "Weiss",
+        "given": "M."
+      },
+      {
+        "family": "Oberwinkler",
+        "given": "F."
+      }
+    ],
+    "title": "Phylogeny of the rust fungi: an approach using nuclear large subunit ribosomal DNA sequences",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issue": "1",
+    "issued": "2003",
+    "page": "12–23",
+    "URL": "http://dx.doi.org/10.1139/b02-113",
+    "DOI": "10.1139/b02-113"
+  },
+  {
+    "author": [
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Padamsee",
+        "given": "M."
+      },
+      {
+        "family": "Dick",
+        "given": "M."
+      }
+    ],
+    "title": "First report of rust on Alnus in New Zealand is Melampsoridium betulinum, not M",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "hiratsukanum. Plant Pathology & Quarantine",
+    "issue": "2",
+    "issued": "2013",
+    "page": "59–65",
+    "URL": "http://dx.doi.org/10.5943/ppq/3/2/1",
+    "DOI": "10.5943/ppq/3/2/1"
+  },
+  {
+    "author": [
+      {
+        "family": "Patouillard",
+        "given": "N."
+      }
+    ],
+    "title": "Le genre Coleopuccinia",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Revue Mycologique",
+    "issue": "41",
+    "issued": "1889",
+    "page": "35–36"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfunder",
+        "given": "M."
+      },
+      {
+        "family": "Schürch",
+        "given": "S."
+      },
+      {
+        "family": "Roy",
+        "given": "B.A."
+      }
+    ],
+    "title": "Sequence variation and geographic distribution of pseudoflower-forming rust fungi (Uromyces pisi s. lat.) on Euphorbia cyparissias",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2001",
+    "page": "57–66",
+    "URL": "https://doi.org/10.1017/S0953756200003208",
+    "DOI": "10.1017/S0953756200003208"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "Modeltest: testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818",
+    "URL": "https://doi.org/10.1093/bioinformatics/14.9.817",
+    "DOI": "10.1093/bioinformatics/14.9.817"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A."
+      }
+    ],
+    "title": "FigTree v.1.3.1",
+    "publisher": "Institute of Evolutionary Biology, University of Edinburgh",
+    "type": "book",
+    "issued": "2010",
+    "publisher-place": "Edinburgh, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Rannala",
+        "given": "B."
+      },
+      {
+        "family": "Yang",
+        "given": "Z."
+      }
+    ],
+    "title": "Probability distribution of molecular evolutionary trees: a new method of phylogenetic inference",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Journal of Molecular Evolution",
+    "issued": "1996",
+    "page": "304–311",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.1007/BF02338839"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Scholler",
+        "given": "M."
+      },
+      {
+        "family": "Lutz",
+        "given": "M."
+      },
+      {
+        "family": "Wood",
+        "given": "A.R."
+      },
+      {
+        "family": "Hagedorn",
+        "given": "G."
+      },
+      {
+        "family": "Mennicken",
+        "given": "M."
+      }
+    ],
+    "title": "Taxonomy and phylogeny of Puccinia lagenophorae: a study using rDNA sequence data, morphological and host range features",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issue": "2",
+    "issued": "2011",
+    "page": "175–187",
+    "URL": "https://doi.org/10.1007/s11557-010-0687-0",
+    "DOI": "10.1007/s11557-010-0687-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic Analysis Using Parsimony, * and Other Methods, Version 4.0b10",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2003",
+    "publisher-place": "Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Tai",
+        "given": "F.L."
+      }
+    ],
+    "title": "A new species of Coleopuccinia with remarks on the genus",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Acta Agriculturae (China",
+    "issue": "2",
+    "issued": "1948",
+    "page": "97–103"
+  },
+  {
+    "author": [
+      {
+        "family": "Tai",
+        "given": "F.L."
+      }
+    ],
+    "title": "Sylloge Fungorum Sinicorum",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": null,
+    "issued": "1979",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Thirumalachar",
+        "given": "M.J."
+      },
+      {
+        "family": "Whitehead",
+        "given": "M.D."
+      }
+    ],
+    "title": "On the Validity of the Genera Coleopuccinia and Coleopucciniella (Uredinales",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "2",
+    "issued": "1954",
+    "page": "120–122"
+  },
+  {
+    "author": [
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Shang",
+        "given": "Y.Z."
+      },
+      {
+        "family": "Zhuang",
+        "given": "J.Y."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Morphological and molecular phylogenetic analysis of Melampsora species on poplars in China",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2004",
+    "page": "56–66",
+    "URL": "https://doi.org/10.1007/S10267-003-0150-Z",
+    "DOI": "10.1007/S10267-003-0150-Z"
+  },
+  {
+    "author": [
+      {
+        "family": "Auwera",
+        "given": "G.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Chapelle",
+        "given": "S."
+      },
+      {
+        "family": "De Wächter",
+        "given": "R."
+      }
+    ],
+    "title": "Structure of the large ribosomal subunit RNA of Phytophthora megasperma, and phylogeny of the oomycetes",
+    "volume": "338",
+    "type": "article-journal",
+    "container-title": "FEBS Letters",
+    "issue": "2",
+    "issued": "1994",
+    "page": "133–136",
+    "URL": "https://doi.org/10.1016/0014-5793(94)80350-1",
+    "DOI": "10.1016/0014-5793(94)80350-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Wei",
+        "given": "J.C."
+      }
+    ],
+    "title": "Identification of fungus handbook",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1979",
+    "publisher-place": "Shanghai"
+  },
+  {
+    "author": [
+      {
+        "family": "Wen",
+        "given": "H.C."
+      },
+      {
+        "family": "Tsukiboshi",
+        "given": "T."
+      },
+      {
+        "family": "Ono",
+        "given": "Y."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Morphological and phylogenetic analyses of Uromyces appendiculatus and U. vignae on legumes in Japan",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issue": "4",
+    "issued": "2004",
+    "page": "233–244",
+    "URL": "https://doi.org/10.1007/s10267-004-0177-9",
+    "DOI": "10.1007/s10267-004-0177-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "T."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Liang",
+        "given": "Y.M."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Thekopsora ostryae (Pucciniastraceae, Pucciniales), a new species from Gansu, northwestern china",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issue": "4",
+    "issued": "2014",
+    "page": "246–251",
+    "URL": "http://dx.doi.org/10.1016/j.myc.2013.09.005",
+    "DOI": "10.1016/j.myc.2013.09.005"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "T."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Lu",
+        "given": "H.Y."
+      },
+      {
+        "family": "Liang",
+        "given": "Y.M."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Two new rust fungi of Thekopsora on Cornus (Cornaceae) from western china",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issue": "5",
+    "issued": "2015",
+    "page": "461–469",
+    "URL": "http://dx.doi.org/10.1016/j.myc.2015.02.001",
+    "DOI": "10.1016/j.myc.2015.02.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "J.Y."
+      }
+    ],
+    "title": "Fungi flora of China",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Beijing"
+  }
+]

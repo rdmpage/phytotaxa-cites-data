@@ -1,0 +1,1146 @@
+[
+  {
+    "author": [
+      {
+        "family": "Altschul",
+        "given": "S.F."
+      },
+      {
+        "family": "Gish",
+        "given": "W."
+      },
+      {
+        "family": "Miller",
+        "given": "W."
+      },
+      {
+        "family": "Myers",
+        "given": "E.W."
+      },
+      {
+        "family": "Lipman",
+        "given": "D.J."
+      }
+    ],
+    "title": "Basic local alignment search tool",
+    "volume": "215",
+    "type": "article-journal",
+    "container-title": "Journal of Molecular Biology",
+    "issued": "1990",
+    "page": "403–410",
+    "URL": "https://doi.org/10.1016/S0022-2836(05)80360-2",
+    "DOI": "10.1016/S0022-2836(05)80360-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Castresana",
+        "given": "J."
+      }
+    ],
+    "title": "Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis",
+    "volume": "175",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2000",
+    "page": "40–52",
+    "URL": "http://doi.org/10.1093/oxfordjournals.molbev.a026334",
+    "DOI": "10.1093/oxfordjournals.molbev.a026334"
+  },
+  {
+    "author": [
+      {
+        "family": "Czarnota",
+        "given": "P."
+      }
+    ],
+    "title": "Japewia tornoensis and further localities of J. subaurifera found in the Carpathians",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Acta Mycologica",
+    "issued": "2009",
+    "page": "259–264",
+    "URL": "https://doi.org/10.5586/am.2009.024",
+    "DOI": "10.5586/am.2009.024"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Dereeper",
+        "given": "A."
+      },
+      {
+        "family": "Guignon",
+        "given": "V."
+      },
+      {
+        "family": "Blanc",
+        "given": "G."
+      },
+      {
+        "family": "Audic",
+        "given": "S."
+      },
+      {
+        "family": "Buffet",
+        "given": "S."
+      },
+      {
+        "family": "Chevenet",
+        "given": "F."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.F."
+      },
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Lescot",
+        "given": "M."
+      },
+      {
+        "family": "Claverie",
+        "given": "J.M."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "Phylogeny.fr: robust phylogenetic analysis for the non-specialist",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2008",
+    "page": "465–469",
+    "URL": "http://doi.org/10.1093/nar/gkn180",
+    "DOI": "10.1093/nar/gkn180"
+  },
+  {
+    "author": [
+      {
+        "family": "Elix",
+        "given": "J.A."
+      },
+      {
+        "family": "Tønsberg",
+        "given": "T."
+      }
+    ],
+    "title": "Notes on the chemistry of some lichens from Norway",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Graphis Scripta",
+    "issued": "1999",
+    "page": "4–6"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferencová",
+        "given": "Z."
+      },
+      {
+        "family": "Rico",
+        "given": "V.J."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      }
+    ],
+    "title": "Extraction of DNA from lichen-forming and lichenicolous fungi: a low-cost fast protocol using Chelex",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "2017",
+    "page": "521–525",
+    "URL": "https://doi.org/10.1017/S0024282917000329",
+    "DOI": "10.1017/S0024282917000329"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes. Application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogeny",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Kantvilas",
+        "given": "G."
+      }
+    ],
+    "title": "The lichen genera Japewia and Japewiella in Australia",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Muelleria",
+    "issued": "2011",
+    "page": "99–103"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT version 5: improvement in accuracy of multiple sequence alignment",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2005",
+    "page": "511–518",
+    "URL": "https://doi.org/10.1093/nar/gki198",
+    "DOI": "10.1093/nar/gki198"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Hodkinson",
+        "given": "B.P."
+      },
+      {
+        "family": "Leavitt",
+        "given": "S.D."
+      }
+    ],
+    "title": "The 2016 classification of lichenized fungi in the Ascomycota and Basidiomycota – Approaching one thousand genera",
+    "volume": "119",
+    "type": "article-journal",
+    "container-title": "Bryologist",
+    "issued": "2016",
+    "page": "361–416",
+    "URL": "https://doi.org/10.1639/0007-2745-119.4.361",
+    "DOI": "10.1639/0007-2745-119.4.361"
+  },
+  {
+    "author": [
+      {
+        "family": "Malíček",
+        "given": "J."
+      },
+      {
+        "family": "Palice",
+        "given": "Z."
+      },
+      {
+        "family": "Acton",
+        "given": "A."
+      },
+      {
+        "family": "Berger",
+        "given": "F."
+      },
+      {
+        "family": "Bouda",
+        "given": "F."
+      },
+      {
+        "family": "Sanderson",
+        "given": "N."
+      },
+      {
+        "family": "Vondrák",
+        "given": "J."
+      }
+    ],
+    "title": "Uholka primeval forest in the Ukrainian Carpathians – a keynote area for diversity of forest lichens in Europe",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Herzogia",
+    "issued": "2018",
+    "page": "140–171",
+    "URL": "https://doi.org/10.13158/099.031.0110",
+    "DOI": "10.13158/099.031.0110"
+  },
+  {
+    "author": [
+      {
+        "family": "Malíček",
+        "given": "J."
+      },
+      {
+        "family": "Palice",
+        "given": "Z."
+      },
+      {
+        "family": "Vondrák",
+        "given": "J."
+      },
+      {
+        "family": "Kostovčík",
+        "given": "M."
+      },
+      {
+        "family": "Lenzová",
+        "given": "V."
+      },
+      {
+        "family": "Hofmeister",
+        "given": "J."
+      }
+    ],
+    "title": "Lichens in old-growth and managed mountain spruce forests in the Czech Republic: assessment of biodiversity, functional traits and bioindicators",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Biodiversity and Conservation",
+    "issued": "2019",
+    "page": "3497–3528",
+    "URL": "https://doi.org/10.1007/s10531-019-01834-4",
+    "DOI": "10.1007/s10531-019-01834-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Miadlikowska",
+        "given": "J."
+      },
+      {
+        "family": "Kauff",
+        "given": "F."
+      },
+      {
+        "family": "Högnabba",
+        "given": "F."
+      },
+      {
+        "family": "Oliver",
+        "given": "J.C."
+      },
+      {
+        "family": "Molnár",
+        "given": "K."
+      },
+      {
+        "family": "Fraker",
+        "given": "E."
+      },
+      {
+        "family": "Gaya",
+        "given": "E."
+      },
+      {
+        "family": "Hafellner",
+        "given": "J."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Otálora",
+        "given": "M.A."
+      },
+      {
+        "family": "Hodkinson",
+        "given": "B."
+      },
+      {
+        "family": "Kukwa",
+        "given": "M."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Björk",
+        "given": "C."
+      },
+      {
+        "family": "Sipman",
+        "given": "H.J."
+      },
+      {
+        "family": "Burgaz",
+        "given": "A.R."
+      },
+      {
+        "family": "Thell",
+        "given": "A."
+      },
+      {
+        "family": "Passo",
+        "given": "A."
+      },
+      {
+        "family": "Myllys",
+        "given": "L."
+      },
+      {
+        "family": "Goward",
+        "given": "T."
+      },
+      {
+        "family": "Fernández-Brime",
+        "given": "S."
+      },
+      {
+        "family": "Hestmark",
+        "given": "G."
+      },
+      {
+        "family": "Lendemer",
+        "given": "J."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Schmull",
+        "given": "M."
+      },
+      {
+        "family": "Schoch",
+        "given": "C.L."
+      },
+      {
+        "family": "Sérusiaux",
+        "given": "E."
+      },
+      {
+        "family": "Maddison",
+        "given": "D.R."
+      },
+      {
+        "family": "Arnold",
+        "given": "A.E."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      },
+      {
+        "family": "Stenroos",
+        "given": "S."
+      }
+    ],
+    "title": "A multigene phylogenetic synthesis for the class Lecanoromycetes (Ascomycota): 1307 fungi representing 1139 infrageneric taxa, 317 genera and 66 families",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2014",
+    "page": "132–168",
+    "URL": "https://doi.org/10.1016/j.ympev.2014.04.003",
+    "DOI": "10.1016/j.ympev.2014.04.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans Convention Center, New Orleans, LA",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Moya",
+        "given": "P."
+      },
+      {
+        "family": "Chiva",
+        "given": "S."
+      },
+      {
+        "family": "Molins",
+        "given": "A."
+      },
+      {
+        "family": "Jadrná",
+        "given": "I."
+      },
+      {
+        "family": "Škaloud",
+        "given": "P."
+      },
+      {
+        "family": "Peksa",
+        "given": "O."
+      },
+      {
+        "family": "Barreno",
+        "given": "E."
+      }
+    ],
+    "title": "Myrmecia israeliensis as the primary symbiotic microalga in squamulose lichens growing in European and Canary Island terricolous communities",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Fottea",
+    "issued": "2018",
+    "page": "72–85"
+  },
+  {
+    "author": [
+      {
+        "family": "Obermayer",
+        "given": "W."
+      },
+      {
+        "family": "Witzmann",
+        "given": "M."
+      },
+      {
+        "family": "McCune",
+        "given": "B."
+      }
+    ],
+    "title": "Hypogymnia caperatica, a new species from the Hengduan Shan area (easternmost Tibetan region), with notes on some rare taxa from the greater Tibetan region and Bhutan",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Herzogia",
+    "issued": "2018",
+    "page": "677–694",
+    "URL": "https://doi.org/10.13158/heia.31.1.2018.677",
+    "DOI": "10.13158/heia.31.1.2018.677"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      },
+      {
+        "family": "James",
+        "given": "P.W."
+      },
+      {
+        "family": "White",
+        "given": "F.J."
+      }
+    ],
+    "title": "Microchemical Methods for the Identification of Lichens",
+    "publisher": "British Lichen Society",
+    "type": "book",
+    "issued": "2010",
+    "page": "101",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Øvstedal",
+        "given": "D.O."
+      },
+      {
+        "family": "Lewis Smith",
+        "given": "R.I."
+      }
+    ],
+    "title": "Lichens of Antarctica and South Georgia",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "2001",
+    "page": "424"
+  },
+  {
+    "author": [
+      {
+        "family": "Printzen",
+        "given": "C."
+      }
+    ],
+    "title": "Japewiella gen. nov., a new lichen genus and a new species from Mexico",
+    "volume": "102",
+    "type": "article-journal",
+    "container-title": "Bryologist",
+    "issued": "1999",
+    "page": "714–719",
+    "URL": "https://doi.org/10.2307/3244257",
+    "DOI": "10.2307/3244257"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmull",
+        "given": "M."
+      },
+      {
+        "family": "Miadlikowska",
+        "given": "J."
+      },
+      {
+        "family": "Pelzer",
+        "given": "M."
+      },
+      {
+        "family": "Stocker-Wörgötter",
+        "given": "E."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Fraker",
+        "given": "E."
+      },
+      {
+        "family": "Hodkinson",
+        "given": "B.P."
+      },
+      {
+        "family": "Reeb",
+        "given": "V."
+      },
+      {
+        "family": "Kukwa",
+        "given": "M."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Kauff",
+        "given": "F."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Phylogenetic affiliations of members of the heterogeneous lichen-forming fungi of the genus Lecidea sensu Zahlbruckner (Lecanoromycetes, Ascomycota",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2011",
+    "page": "983–1003",
+    "URL": "https://doi.org/10.3852/10-234",
+    "DOI": "10.3852/10-234"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Ochoterena",
+        "given": "H."
+      }
+    ],
+    "title": "Gaps as characters in sequence-based phylogenetic analyses",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2000",
+    "page": "369–381",
+    "URL": "https://doi.org/10.1093/sysbio/49.2.369",
+    "DOI": "10.1093/sysbio/49.2.369"
+  },
+  {
+    "author": [
+      {
+        "family": "Škaloud",
+        "given": "P."
+      },
+      {
+        "family": "Friedl",
+        "given": "T."
+      },
+      {
+        "family": "Hallmann",
+        "given": "C."
+      },
+      {
+        "family": "Beck",
+        "given": "A."
+      },
+      {
+        "family": "Dal Grande",
+        "given": "F."
+      }
+    ],
+    "title": "Taxonomic revision and species delimitation of coccoid green algae currently assigned to the genus Dictyochloropsis (Trebouxiophyceae, Chlorophyta",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "2016",
+    "page": "599–617",
+    "URL": "https://doi.org/10.1111/jpy.12422",
+    "DOI": "10.1111/jpy.12422"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML Version 8: A tool for Phylogenetic Analysis and Post-Analysis of Large Phylogenies",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2014",
+    "page": "1312–1313",
+    "URL": "https://doi.org/10.1093/bioinformatics/btu033",
+    "DOI": "10.1093/bioinformatics/btu033"
+  },
+  {
+    "author": [
+      {
+        "family": "Tønsberg",
+        "given": "T."
+      }
+    ],
+    "title": "Japewia subaurifera, a new lichen genus and species from north-west Europe and western North America",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "1990",
+    "page": "205–212",
+    "URL": "https://doi.org/10.1017/S0024282990000226",
+    "DOI": "10.1017/S0024282990000226"
+  },
+  {
+    "author": [
+      {
+        "family": "Tønsberg",
+        "given": "T."
+      }
+    ],
+    "title": "The sorediate and isidiate, corticolous, crustose lichens in Norway",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Sommerfeltia",
+    "issued": "1992",
+    "page": "1–331"
+  },
+  {
+    "author": [
+      {
+        "family": "Urbanavichus",
+        "given": "G."
+      },
+      {
+        "family": "Vondrák",
+        "given": "J."
+      },
+      {
+        "family": "Urbanavichene",
+        "given": "I."
+      },
+      {
+        "family": "Palice",
+        "given": "Z."
+      },
+      {
+        "family": "Malíček",
+        "given": "J."
+      }
+    ],
+    "title": "Lichens and allied non-lichenized fungi of virgin forests in the Caucasus State Nature Biosphere Reserve (Western Caucasus, Russia",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Herzogia",
+    "issued": "2020",
+    "page": "90–138",
+    "URL": "https://doi.org/10.13158/heia.33.1.2020.90",
+    "DOI": "10.13158/heia.33.1.2020.90"
+  },
+  {
+    "author": [
+      {
+        "family": "Vondrák",
+        "given": "J."
+      },
+      {
+        "family": "Malíček",
+        "given": "J."
+      },
+      {
+        "family": "Šoun",
+        "given": "J."
+      },
+      {
+        "family": "Pouska",
+        "given": "V."
+      }
+    ],
+    "title": "Epiphytic lichens of Stužica (E Slovakia) in the context of Central European old-growth forests",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Herzogia",
+    "issued": "2015",
+    "page": "104–126",
+    "URL": "https://doi.org/10.13158/heia.28.1.2015.104",
+    "DOI": "10.13158/heia.28.1.2015.104"
+  },
+  {
+    "author": [
+      {
+        "family": "Vondrák",
+        "given": "J."
+      },
+      {
+        "family": "Malíček",
+        "given": "J."
+      },
+      {
+        "family": "Palice",
+        "given": "Z."
+      },
+      {
+        "family": "Bouda",
+        "given": "F."
+      },
+      {
+        "family": "Berger",
+        "given": "F."
+      },
+      {
+        "family": "Sanderson",
+        "given": "N."
+      },
+      {
+        "family": "Acton",
+        "given": "A."
+      },
+      {
+        "family": "Pouska",
+        "given": "V."
+      },
+      {
+        "family": "Kish",
+        "given": "R."
+      }
+    ],
+    "title": "Exploiting hot-spots; effective determination of lichen diversity in a Carpathian virgin forest",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "PLoS ONE",
+    "issue": "9",
+    "issued": "2018",
+    "page": "0203540",
+    "URL": "https://doi.org/10.1371/journal.pone.0203540",
+    "DOI": "10.1371/journal.pone.0203540"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innes",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a Guide to Methods and Applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315 322",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "X."
+      },
+      {
+        "family": "Leavitt",
+        "given": "S.D."
+      },
+      {
+        "family": "Zhao",
+        "given": "Y.T."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.L."
+      },
+      {
+        "family": "Arup",
+        "given": "U."
+      },
+      {
+        "family": "Grube",
+        "given": "M."
+      },
+      {
+        "family": "Pérez-Ortega",
+        "given": "S."
+      },
+      {
+        "family": "Printzen",
+        "given": "C."
+      },
+      {
+        "family": "Śliwa",
+        "given": "L."
+      },
+      {
+        "family": "Kraichak",
+        "given": "E."
+      },
+      {
+        "family": "Divakar",
+        "given": "P.K."
+      },
+      {
+        "family": "Crespo",
+        "given": "A."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      }
+    ],
+    "title": "Towards a revised generic classification of lecanoroid lichens (Lecanoraceae, Ascomycota) based on molecular, morphological and chemical evidence",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2016",
+    "page": "293–304",
+    "URL": "https://doi.org/10.1007/s13225-015-0354-5",
+    "DOI": "10.1007/s13225-015-0354-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Zoller",
+        "given": "S."
+      },
+      {
+        "family": "Scheidegger",
+        "given": "C."
+      },
+      {
+        "family": "Sperisen",
+        "given": "C."
+      }
+    ],
+    "title": "PCR primers for the amplifications of mitochondrial small subunit ribosomal DNA of lichen-forming Ascomycetes",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Lichenologist",
+    "issued": "1999",
+    "page": "511 516",
+    "URL": "https://doi.org/10.1006/lich.1999.0220",
+    "DOI": "10.1006/lich.1999.0220"
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Pipoly",
+        "given": "J.J.",
+        "suffix": "III"
+      }
+    ],
+    "title": "Myrsinaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "15",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1996",
+    "page": "1–38",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "C.M."
+      }
+    ],
+    "title": "New synonyms and combinations in Asiatic Ardisia",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1999",
+    "page": "391–406"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "C.M."
+      },
+      {
+        "family": "Vidal",
+        "given": "J.E."
+      }
+    ],
+    "title": "Myrsinaceae",
+    "editor": [
+      {
+        "family": "Morat",
+        "given": "A."
+      }
+    ],
+    "container-title": "Flore du Cambodge, du Laos et du Vietnam",
+    "volume": "32",
+    "publisher": "Muséum National D’Histoire Naturelle",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "9–152",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1. IUCN Species Survival Commission",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2001",
+    "page": "30",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK. ii"
+  },
+  {
+    "author": [
+      {
+        "family": "Kurz",
+        "given": "S."
+      }
+    ],
+    "title": "Forest flora of British Burma",
+    "volume": "2",
+    "container-title": "Office of the Superintendent of Government Printing",
+    "type": "chapter",
+    "issued": "1877",
+    "page": "613",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsen",
+        "given": "K."
+      },
+      {
+        "family": "Hu",
+        "given": "C.M."
+      }
+    ],
+    "title": "Reduction of Tetrardisia to Ardisia",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "1995",
+    "page": "161–162"
+  },
+  {
+    "author": [
+      {
+        "family": "Mez",
+        "given": "C."
+      }
+    ],
+    "title": "Myrsinaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "volume": "9",
+    "publisher": "Verlag von Wilhelm Engelmann, Leipzig",
+    "issue": "IV. Fam. 236",
+    "type": "article-journal",
+    "issued": "1902",
+    "page": "437"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F."
+      }
+    ],
+    "title": "Flora Indiae Batavae, Supplementum Primum, Prodromus Florae Sumatranae",
+    "genre": "C.G. van der Post,",
+    "publisher": "Amsterdam and Utrecht",
+    "type": null,
+    "issued": "1861",
+    "page": "656"
+  },
+  {
+    "author": [
+      {
+        "family": "Sleumer",
+        "given": "H."
+      }
+    ],
+    "title": "A revision of the genus Ardisia Sw. in New Guinea",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1988",
+    "page": "115–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "B.C."
+      }
+    ],
+    "title": "Myrsinaceae",
+    "editor": [
+      {
+        "family": "Ng",
+        "given": "F.S.P."
+      }
+    ],
+    "container-title": "Tree Flora of Malaya",
+    "volume": "4",
+    "type": "chapter",
+    "issued": "1989",
+    "page": "264–284",
+    "publisher-place": "Longman, Malaysia"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "B.C."
+      }
+    ],
+    "title": "New and noteworthy Malesian Myrsinaceae III. On the genus Ardisia Sw",
+    "container-title": "Borneo. Proceedings of the National Academy of Sciences",
+    "volume": "141",
+    "type": "paper-conference",
+    "issued": "1989",
+    "page": "263–306",
+    "publisher-place": "Philadelphia"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "B.C."
+      }
+    ],
+    "title": "Studies in Malesian Myrsinaceae, V. Additional new species of Ardisia Sw",
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "volume": "142",
+    "type": "paper-conference",
+    "issued": "1990",
+    "page": "21–58",
+    "publisher-place": "Philadelphia"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "B.C."
+      }
+    ],
+    "title": "New and noteworthy Malesian Myrsinaceae, VI. Scherantha, a new subgenus of Ardisia",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Pacific Science",
+    "issued": "1993",
+    "page": "273–294"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera & Species Plantarum seu Prodromus",
+    "editor": [
+      {
+        "family": "Swederi",
+        "given": "Bibliopoliis Acad M."
+      },
+      {
+        "family": "Stockholm",
+        "given": "Uppsala"
+      },
+      {
+        "given": "Abo"
+      }
+    ],
+    "type": null,
+    "issued": "1788",
+    "page": "152"
+  },
+  {
+    "author": [
+      {
+        "family": "Taton",
+        "given": "A."
+      }
+    ],
+    "title": "Contribution a l’étude du genre Ardisia Sw. (Myrsinaceae) en Afrique tropicale",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique National de Belgique",
+    "issued": "1979",
+    "page": "81–120"
+  }
+]

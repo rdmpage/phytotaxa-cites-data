@@ -1,0 +1,461 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Leguminosae Faboideae",
+    "editor": [
+      {
+        "family": "Oliver",
+        "given": "D."
+      }
+    ],
+    "container-title": "Flora of Tropical Africa 2",
+    "publisher": "Reeve & CO",
+    "type": "chapter",
+    "issued": "1871",
+    "page": "110–114",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Leguminosae Faboideae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "publisher": "Reeve & CO",
+    "type": "book",
+    "issued": "1876",
+    "page": "209–214",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "XLVIII. - Enumeration of plants collected by Schomburgk, British Guiana",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Annals of Natural History",
+    "issued": "1839",
+    "page": "427–438"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Leguminosae I. Galegeae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "F. Fleischer, Lipsiae",
+    "issued": "1862",
+    "page": "45–49"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Leguminosae",
+    "editor": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "Genera Plantarum 1",
+    "publisher": "Lovell Reeve & Co",
+    "type": "chapter",
+    "issued": "1865",
+    "page": "496–497",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bosman",
+        "given": "M.T.M."
+      },
+      {
+        "family": "Haas",
+        "given": "A.J.P."
+      }
+    ],
+    "title": "A revision of the genus Tephrosia (Leguminosae-Papilionoideae) in Malaysia",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1983",
+    "page": "445–488"
+  },
+  {
+    "author": [
+      {
+        "family": "Brummitt",
+        "given": "R.K."
+      }
+    ],
+    "title": "Reconsideration of the genera Ptycholobium, Caulocarpus, Lupinophyllum and Requienia in relation to Tephrosia",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1980",
+    "page": "459–473",
+    "URL": "http://dx.doi.org/10.2307/4110015",
+    "DOI": "10.2307/4110015"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1. Prepared by the IUCN Species Survival Commission",
+    "type": null,
+    "issued": "2001",
+    "page": "30",
+    "publisher-place": "Gland, Switzerland, and Cambridge, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Geesink",
+        "given": "R."
+      },
+      {
+        "family": "Millettiearum",
+        "given": "Scala"
+      }
+    ],
+    "title": "A survey of the genera of the tribe Millettieae (Leguminosae, Papilionoideae) 8",
+    "publisher": "E. J. Brill / Leiden University Press, Leiden",
+    "type": "book",
+    "issued": "1984",
+    "page": "121"
+  },
+  {
+    "author": [
+      {
+        "family": "Hassler",
+        "given": "E."
+      }
+    ],
+    "title": "Ex herbario Hassleriano: Novitates paraguariensis XXIII",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Repertorium specierum novarum regni vegetabilis",
+    "issued": "1919",
+    "page": "161–166"
+  },
+  {
+    "author": [
+      {
+        "family": "Persoon",
+        "given": "C.H."
+      }
+    ],
+    "title": "Synopsis Plantarum seu Enchiridium botanicum, complectens enumerationem systematicam specierum hucusque cognitarum 2",
+    "publisher": "C.F. Cramerum",
+    "type": "book",
+    "issued": "1807",
+    "page": "638",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "R.T."
+      }
+    ],
+    "title": "Revisão taxonômica das espécies do gênero Tephrosia Pers",
+    "director": [
+      {
+        "family": "Leguminosae",
+        "given": "Papilionoideae"
+      },
+      {
+        "given": "Millettieae"
+      }
+    ],
+    "container-title": "ocorrentes na América do Sul. Tese (Doutorado). Instituto de Biologia, Universidade Estadual de Campinas, Campinas",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "321"
+  },
+  {
+    "author": [
+      {
+        "family": "Schrire",
+        "given": "B.D."
+      }
+    ],
+    "title": "Tribe Millettieae",
+    "editor": [
+      {
+        "family": "Lewis",
+        "given": "G."
+      },
+      {
+        "family": "Schrire",
+        "given": "B."
+      },
+      {
+        "family": "Mackinder",
+        "given": "B."
+      },
+      {
+        "family": "Lock",
+        "given": "M."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens, Kew",
+    "issued": "2005",
+    "page": "367–387"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "C.E."
+      }
+    ],
+    "title": "The American barbistyled species of Tephrosia (Leguminosae",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Rhodora",
+    "issued": "1949",
+    "page": "249–380"
+  },
+  {
+    "author": [
+      {
+        "family": "Madulid",
+        "given": "D.A."
+      },
+      {
+        "family": "Buot",
+        "given": "I.E."
+      },
+      {
+        "family": "Agoo",
+        "given": "E.M.G."
+      }
+    ],
+    "title": "Rafflesia panchoana (Rafflesiaceae), a new species from Luzon island, Philippines",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Acta Manilana",
+    "issued": "2008",
+    "page": "43–47",
+    "URL": "http://dx.doi.org/10.3860/acta.v55i0.1485",
+    "DOI": "10.3860/acta.v55i0.1485"
+  },
+  {
+    "author": [
+      {
+        "family": "Mayr",
+        "given": "E."
+      }
+    ],
+    "title": "The biological species concept",
+    "editor": [
+      {
+        "family": "Wheeler",
+        "given": "Q.D."
+      },
+      {
+        "family": "Meier",
+        "given": "E."
+      }
+    ],
+    "publisher": "Columbia University Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "17–29",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Meijer",
+        "given": "W."
+      }
+    ],
+    "title": "Rafflesiaceae",
+    "volume": "Series 1 13",
+    "type": "article-journal",
+    "container-title": "Flora Malesiana",
+    "issued": "1997",
+    "page": "1–42"
+  },
+  {
+    "author": [
+      {
+        "family": "E.D",
+        "given": "Merrill"
+      }
+    ],
+    "title": "An enumeration of Philippine flowering plants",
+    "volume": "2",
+    "publisher": "Bureau of Printing, Manila",
+    "type": "book",
+    "issued": "1923",
+    "page": "530"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Ampelideae novae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Annales Museum Botanicum Lugduno-Batavi",
+    "issued": "1863",
+    "page": "72–101"
+  },
+  {
+    "author": [
+      {
+        "family": "Nais",
+        "given": "J."
+      }
+    ],
+    "title": "Rafflesia of the world",
+    "publisher": "Kota Kinabalu",
+    "type": "book",
+    "issued": "2001",
+    "page": "260",
+    "publisher-place": "Sabah Parks"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.E."
+      }
+    ],
+    "title": "Ampelideae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A.L.P.P."
+      },
+      {
+        "family": "De Candolle",
+        "given": "A.C."
+      }
+    ],
+    "container-title": "Monographiae phanerogamarum 5",
+    "type": "chapter",
+    "issued": "1887",
+    "page": "305–637",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Solms-Laubach",
+        "given": "H."
+      }
+    ],
+    "title": "Ueber die Species in der Gattung Rafflesia insonderheit ueber die auf dem Philippinen sich findenden Arten",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Annales du Jardin Botanique de Buitenzorg",
+    "issued": "1891",
+    "page": "184–246"
+  },
+  {
+    "author": [
+      {
+        "family": "Solms-Laubach",
+        "given": "H."
+      }
+    ],
+    "title": "Rafflesiaceae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Das Pflanzenreich",
+    "issued": "1901",
+    "page": "1–18"
+  },
+  {
+    "author": [
+      {
+        "family": "Teijsmann",
+        "given": "J.E."
+      }
+    ],
+    "title": "Nadere bijdrage tot de kennis van de voortteling van Rafflesia arnoldii R.Br. in 's Lands Plantentuin te Buitenzorg",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Natuurkundig Tijdschrift voor Nederlands Indië",
+    "issued": "1856",
+    "page": "277–281"
+  },
+  {
+    "author": [
+      {
+        "family": "Teschemacher",
+        "given": "J.E."
+      }
+    ],
+    "title": "On a new species of Rafflesia, from Manilla",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Boston Journal of Natural History",
+    "issued": "1844",
+    "page": "63–66"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallroth",
+        "given": "C.F.W."
+      }
+    ],
+    "title": "Orobanches generis diaskene",
+    "volume": "Frankfurt",
+    "type": "article-journal",
+    "container-title": "Fredericus Wilmans",
+    "issued": "1825",
+    "page": "80"
+  }
+]

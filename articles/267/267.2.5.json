@@ -1,0 +1,479 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aguirre",
+        "given": "C."
+      },
+      {
+        "family": "Bonilla",
+        "given": "M."
+      },
+      {
+        "family": "Caetano",
+        "given": "C."
+      }
+    ],
+    "title": "Passiflora franciscoi, a new species of Passiflora subgenus Astrophea (Passifloraceae) from Colombia",
+    "volume": "252",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2016",
+    "page": "56–62",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.252.1.5",
+    "DOI": "10.11646/phytotaxa.252.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonilla",
+        "given": "M."
+      },
+      {
+        "family": "Aguirre",
+        "given": "C."
+      },
+      {
+        "family": "Agudelo",
+        "given": "O."
+      }
+    ],
+    "title": "Morfología de Passiflora: una guía para la descripción de sus especies",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Revista de Investigación Agraria y Ambiental",
+    "issued": "2015",
+    "page": "91–109"
+  },
+  {
+    "author": [
+      {
+        "family": "Cervi",
+        "given": "A."
+      }
+    ],
+    "title": "Passifloraceae do Brasil. Estudo do genero Passiflora L., subgenero Passiflora",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Fontqueria",
+    "issued": "1997",
+    "page": "1–92"
+  },
+  {
+    "author": [
+      {
+        "family": "Cervi",
+        "given": "A."
+      },
+      {
+        "family": "Linsingen",
+        "given": "L."
+      }
+    ],
+    "title": "Passfilora kikiana, a new species of Passifloraceae form the Brazilian Amazon",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Brasilica",
+    "issued": "2010",
+    "page": "1062–1064",
+    "URL": "http://dx.doi.org/10.1590/S0102-33062010000400021",
+    "DOI": "10.1590/S0102-33062010000400021"
+  },
+  {
+    "author": [
+      {
+        "family": "Feuillet",
+        "given": "C."
+      },
+      {
+        "family": "MacDougal",
+        "given": "J."
+      }
+    ],
+    "title": "A new infrageneric classification of Passiflora L",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Passiflora: The journal & Newsletter of Passiflora Society International",
+    "issue": "1",
+    "issued": "2004",
+    "page": "34–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Harms",
+        "given": "H."
+      }
+    ],
+    "title": "Plantae Lehmannianae in Columbia et Ecuador collectae. Passifloraceae. Botanische Jahrbücher für Systematik",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issue": "Beibl. 46, 5",
+    "issued": "1894",
+    "page": "1–14"
+  },
+  {
+    "author": [
+      {
+        "family": "Hemsley",
+        "given": "W."
+      }
+    ],
+    "title": "Passiflora ambigua",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J."
+      }
+    ],
+    "volume": "128",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine",
+    "issued": "1902",
+    "page": "7822"
+  },
+  {
+    "author": [
+      {
+        "family": "Hernández",
+        "given": "A."
+      },
+      {
+        "family": "Jørgensen",
+        "given": "P.M."
+      }
+    ],
+    "title": "Passiflora",
+    "editor": [
+      {
+        "family": "Bernal",
+        "given": "R."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Celis",
+        "given": "M."
+      }
+    ],
+    "container-title": "Catálogo de plantas y líquenes de Colombia. Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Bogotá",
+    "note": "without pagination.",
+    "type": "chapter",
+    "issued": "2015"
+  },
+  {
+    "author": [
+      {
+        "family": "Hijmans",
+        "given": "R.J."
+      },
+      {
+        "family": "Guarino",
+        "given": "L."
+      },
+      {
+        "family": "Cruz",
+        "given": "M."
+      },
+      {
+        "family": "Rojas",
+        "given": "E."
+      }
+    ],
+    "title": "Computer tools for spatial analysis of plant genetic resources data: DIVA-GIS",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Plant Genetic Resources Newsletter",
+    "issued": "2001",
+    "page": "15–19"
+  },
+  {
+    "author": [
+      {
+        "family": "Hijmans",
+        "given": "R.J."
+      },
+      {
+        "family": "Cameron",
+        "given": "S."
+      },
+      {
+        "family": "Parra",
+        "given": "J."
+      },
+      {
+        "family": "Jones",
+        "given": "P."
+      },
+      {
+        "family": "Jarvis",
+        "given": "A."
+      },
+      {
+        "family": "Richardson",
+        "given": "K."
+      }
+    ],
+    "note": "WorldClim. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.worldclim.org/current"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11. Prepared by the Standards and Petitions Subcommittee",
+    "type": null,
+    "issued": "2012"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L."
+      }
+    ],
+    "title": "Sur quelques nouvelles espèces du genre Passiflora, et sur la nécessité d’établir une famille des Passifloracées",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Annales du Muséum National d’Histoire Naturelle",
+    "issued": "1805",
+    "page": "102–116, 37–41"
+  },
+  {
+    "author": [
+      {
+        "family": "Killip",
+        "given": "E.P."
+      }
+    ],
+    "title": "Three new species of Passiflora from Venezuela and Ecuador",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Journal of the Washington Academy of Sciences",
+    "issued": "1924",
+    "page": "330–332"
+  },
+  {
+    "author": [
+      {
+        "family": "Killip",
+        "given": "E.P."
+      }
+    ],
+    "title": "New species of Passiflora from tropical America",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Journal of the Washington Academy of Sciences",
+    "issued": "1924",
+    "page": "108–116"
+  },
+  {
+    "author": [
+      {
+        "family": "Killip",
+        "given": "E.P."
+      }
+    ],
+    "title": "The American species of Passifloraceae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Publications of the Field Museum of Natural History, Botanical Series",
+    "issued": "1938",
+    "page": "1–613"
+  },
+  {
+    "author": [
+      {
+        "family": "Killip",
+        "given": "E.P."
+      }
+    ],
+    "title": "Supplemental notes on the American species of Passifloraceae with descriptions of new species",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Contributions from the United States National Herbarium",
+    "issued": "1960",
+    "page": "1–23"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K."
+      }
+    ],
+    "title": "Passifloraea",
+    "editor": [
+      {
+        "family": "Humboldt",
+        "given": "F."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A."
+      },
+      {
+        "family": "Kunth",
+        "given": "K."
+      }
+    ],
+    "container-title": "Nova Genera et Species Plantarum",
+    "edition": "quarto",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1817",
+    "page": "126–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "publisher": "Laurenti Salvi",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "MacDougal",
+        "given": "J."
+      },
+      {
+        "family": "Hernández",
+        "given": "A."
+      }
+    ],
+    "title": "Passiflora munchiquensis, una nueva especie de Passiflora subgénero Decaloba (Passifloraceae) para Colombia",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2015",
+    "page": "31–35",
+    "URL": "http://dx.doi.org/10.3417/2012068",
+    "DOI": "10.3417/2012068"
+  },
+  {
+    "author": [
+      {
+        "family": "Master",
+        "given": "M."
+      }
+    ],
+    "title": "Passifloraceae: Passiflora",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "K."
+      },
+      {
+        "family": "Beck",
+        "given": "S."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "13",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1872",
+    "page": "542–622, 106–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Rome",
+        "given": "M."
+      },
+      {
+        "family": "Coppens",
+        "given": "G."
+      }
+    ],
+    "title": "Passiflora kapiriensis (Passifloraceae), a new species from French Guiana",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "2016",
+    "page": "8–12",
+    "URL": "http://dx.doi.org/10.3767/000651916X691105",
+    "DOI": "10.3767/000651916X691105"
+  },
+  {
+    "author": [
+      {
+        "family": "Tillett",
+        "given": "S.S."
+      }
+    ],
+    "title": "Passionis Passifloris II",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Terminología. Ernstia",
+    "issued": "1988",
+    "page": "1–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Ulmer",
+        "given": "T."
+      },
+      {
+        "family": "MacDougal",
+        "given": "J."
+      }
+    ],
+    "title": "Passiflora: passionflowers of the word",
+    "publisher": "Timber Press Portland, Oregon",
+    "type": "book",
+    "issued": "2004",
+    "page": "430"
+  },
+  {
+    "author": [
+      {
+        "family": "Vásquez",
+        "given": "R."
+      },
+      {
+        "family": "Delanoy",
+        "given": "M."
+      },
+      {
+        "family": "Scheldeman",
+        "given": "X."
+      },
+      {
+        "family": "Damme",
+        "given": "P."
+      },
+      {
+        "family": "Beck",
+        "given": "S."
+      }
+    ],
+    "title": "Passiflora venusta, a new species of Passiflora series Laurifoliae (Passifloraceae) from Bolivia",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2007",
+    "page": "120–124",
+    "URL": "http://dx.doi.org/10.3417/1055-3177(2007)17",
+    "DOI": "10.3417/1055-3177(2007)17"
+  }
+]

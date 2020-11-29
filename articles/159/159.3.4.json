@@ -1,0 +1,564 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adanson",
+        "given": "M."
+      }
+    ],
+    "title": "Familles des Plantes, 2",
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1763",
+    "page": "640",
+    "publisher-place": "Vincent"
+  },
+  {
+    "note": "Letter (no. 1648/85–29",
+    "author": [
+      {
+        "family": "N.L. Bor",
+        "particle": "from"
+      }
+    ],
+    "title": "Forest Botanist, Forest Research Institute, Dehra Dun to Arthur Hill, Director of Kew Gardens",
+    "publisher": "Library, Art, & Archives Collections, Royal Botanic Gardens",
+    "type": null,
+    "issued": "1938-12-02",
+    "publisher-place": "Bor, N.L"
+  },
+  {
+    "author": [
+      {
+        "family": "Bor",
+        "given": "N.L."
+      }
+    ],
+    "title": "A new grass from the Himalaya",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Indian Forester",
+    "issued": "1942",
+    "page": "355–357"
+  },
+  {
+    "author": [
+      {
+        "family": "Bor",
+        "given": "N.L."
+      }
+    ],
+    "title": "Grasses of Burma, Ceylon, India and Pakistan (excluding Bambuseae",
+    "publisher": "Pergamon Press",
+    "type": "book",
+    "issued": "1960",
+    "page": "767",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bor",
+        "given": "N.L."
+      }
+    ],
+    "title": "Calamagrostis",
+    "editor": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "publisher": "Akademische Druck- u. Verlagsanstalt, Graz",
+    "type": "book",
+    "issued": "1970",
+    "page": "266–271"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A."
+      }
+    ],
+    "title": "Ueber die Gramineen Hochasiens",
+    "container-title": "Nachrichten von der Königlichen Gesellschaft der Wissenschaften und von der Georg-Augusts-Universitat",
+    "volume": "1868",
+    "type": "chapter",
+    "issued": "1868",
+    "page": "61–93"
+  },
+  {
+    "author": [
+      {
+        "family": "Haller",
+        "given": "A."
+      }
+    ],
+    "title": "Tentamen additamentorum et observationum ad historiam stirpium Helveticarum spectantium",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Archiv für die Botanik",
+    "issue": "2",
+    "issued": "1797",
+    "page": "1–12"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Flora of British India, 7",
+    "editor": [
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "family": "Co.",
+        "given": "London"
+      }
+    ],
+    "type": null,
+    "issued": "1896",
+    "page": "842"
+  },
+  {
+    "author": [
+      {
+        "family": "Howard",
+        "given": "T.G."
+      },
+      {
+        "family": "Saarela",
+        "given": "J.M."
+      },
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Peterson",
+        "given": "P.M."
+      },
+      {
+        "family": "Werier",
+        "given": "D."
+      }
+    ],
+    "title": "New records and a taxonomic review of Calamagrostis perplexa (Poaceae: Poeae: Agrostidinae), a New York state endemic grass",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Rhodora",
+    "issued": "2009",
+    "page": "155–170",
+    "URL": "http://dx.doi.org/10.3119/08-5.1",
+    "DOI": "10.3119/08-5.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Koeler",
+        "given": "G.L."
+      }
+    ],
+    "title": "Descriptio graminum in Gallia et Germania",
+    "editor": [
+      {
+        "given": "Varrentrapp"
+      },
+      {
+        "family": "Wenner",
+        "given": "Frankfurti ad Moenum"
+      }
+    ],
+    "type": null,
+    "issued": "1802",
+    "page": "384"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum, 1",
+    "editor": [
+      {
+        "family": "Salvii",
+        "given": "L."
+      },
+      {
+        "given": "Holmiae"
+      }
+    ],
+    "type": null,
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Litvinov",
+        "given": "D."
+      }
+    ],
+    "title": "Species Calamagrostis novae",
+    "container-title": "Botanicheskie Materialy Gerbariya Glavnogo Botanicheskogo Sada RSFSR",
+    "volume": "2",
+    "note": "in Russian).",
+    "type": "chapter",
+    "issued": "1921",
+    "page": "113–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Lu",
+        "given": "S.L."
+      },
+      {
+        "family": "Phillips",
+        "given": "S.M."
+      }
+    ],
+    "title": "Calamagrostis",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2006",
+    "page": "359–361",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Moulik",
+        "given": "S."
+      }
+    ],
+    "title": "The Grasses and Bamboos of India",
+    "volume": "2",
+    "publisher": "Scientific Publishers, Jodhpur",
+    "type": "book",
+    "issued": "1997",
+    "page": "700"
+  },
+  {
+    "author": [
+      {
+        "family": "Nuttall",
+        "given": "T."
+      }
+    ],
+    "title": "Collections towards a Flora of the Territory of Arkansas",
+    "volume": "n. ser. 5",
+    "type": "article-journal",
+    "container-title": "Transactions of the American Philosophical Society",
+    "issued": "1837",
+    "page": "139–203"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      }
+    ],
+    "title": "Calamagrostis gamblei sp. nov. (Poaceae) from the Western Himalayas, NW India",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Polish Botanical Journal",
+    "issued": "2012",
+    "page": "327–334"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      }
+    ],
+    "title": "Taxonomic revision of Calamagrostis filiformis, C. tripilifera and their allies (Poaceae: Agrostidinae",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Polish Botanical Journal",
+    "issued": "2012",
+    "page": "335–346"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      }
+    ],
+    "title": "The identity of Calamagrostis emodensis var. breviseta (Poaceae, Agrostidinae",
+    "volume": "118",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "35–42",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.118.2.2.",
+    "DOI": "10.11646/phytotaxa.118.2.2."
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      }
+    ],
+    "title": "Deyeuxia himalaica (Poaceae, Agrostidinae): taxonomy and its first record from Myanmar",
+    "volume": "156",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "285–290",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.156.5.4",
+    "DOI": "10.11646/phytotaxa.156.5.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Chen",
+        "given": "W.L."
+      }
+    ],
+    "title": "Deyeuxia sorengii sp",
+    "producer": [
+      {
+        "given": "nov"
+      }
+    ],
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2013",
+    "page": "551–555"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Chen",
+        "given": "W.L."
+      },
+      {
+        "family": "Szczepaniak",
+        "given": "M."
+      }
+    ],
+    "title": "Deyeuxia debilis (Poaceae, Agrostidinae): typification, taxonomy and update of the Chinese distribution",
+    "volume": "135",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "1–10",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.135.1.1",
+    "DOI": "10.11646/phytotaxa.135.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Ma",
+        "given": "H.Y."
+      }
+    ],
+    "title": "Taxonomic revision of the Calamagrostis epigeios complex with particular reference to China",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2011",
+    "page": "495–504"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Nobis",
+        "given": "M."
+      }
+    ],
+    "title": "The hybrid origin of Calamagrostis ×gracilescens (Poaceae) in Poland inferred from morphology and AFLP data",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Acta Societatis Botanicorum Poloniae",
+    "issued": "2010",
+    "page": "51–61",
+    "URL": "http://dx.doi.org/10.5586/asbp.2010.008",
+    "DOI": "10.5586/asbp.2010.008"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Pendry",
+        "given": "C.A."
+      }
+    ],
+    "title": "Agrostis griffithiana (Poaceae: Agrostidinae)—typification, a new synonym and an update of the distribution in India",
+    "volume": "140",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "26–34",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.140.1.2",
+    "DOI": "10.11646/phytotaxa.140.1.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Pendry",
+        "given": "C."
+      }
+    ],
+    "title": "Deyeuxia gaoligongensis (Poaceae: Agrostidinae), a new species from Gaoligong Shan in Yunnan, China",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "40–46",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.93.1.3",
+    "DOI": "10.11646/phytotaxa.93.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Paszko",
+        "given": "B."
+      },
+      {
+        "family": "Soreng",
+        "given": "R.J."
+      }
+    ],
+    "title": "Species delimitation and name application in Deyeuxia abnormis, Agrostis zenkeri, A. pleiophylla and related taxa (Poaceae: Agrostidinae",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "1–26",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.111.1.1",
+    "DOI": "10.11646/phytotaxa.111.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "J.R."
+      },
+      {
+        "family": "Shrestha",
+        "given": "K.K."
+      },
+      {
+        "family": "Sutton",
+        "given": "D.A."
+      }
+    ],
+    "title": "Annotated Checklist of the Flowering Plants of Nepal",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2000",
+    "URL": "http://www.efloras.org/flora_page.aspx?flora_id=110"
+  },
+  {
+    "author": [
+      {
+        "family": "Roshevitz",
+        "given": "R.Y."
+      }
+    ],
+    "title": "Novye zlaki 2 (Gramineae novae 2",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Izvestiya Botanicheskogo Sada, Akademii Nauk SSSR",
+    "issued": "1932",
+    "page": "293–304"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "A.W."
+      }
+    ],
+    "title": "Tentamen Florae Germanicae, 1",
+    "editor": [
+      {
+        "family": "Mülleriano",
+        "given": "I.G."
+      },
+      {
+        "given": "Lipsiae"
+      }
+    ],
+    "type": null,
+    "issued": "1788",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Schrader",
+        "given": "H.A."
+      }
+    ],
+    "title": "Flora Germanica, 1",
+    "publisher": "Henricus Dieterich, Gottingae",
+    "type": "book",
+    "issued": "1806",
+    "page": "432"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G."
+      }
+    ],
+    "title": "Synopsis Plantarum Glumacearum, 1",
+    "publisher": "J.B. Metzler, Stuttgart",
+    "type": "book",
+    "issued": "1854",
+    "page": "475"
+  }
+]

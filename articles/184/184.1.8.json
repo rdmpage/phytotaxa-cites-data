@@ -1,0 +1,201 @@
+[
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "publisher": "IUCN Species Survival Commission. IUCN",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Group",
+        "given": "Petitions Working"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria",
+    "container-title": "Version 8.0. Prepared by the Standards and Petitions Subcommitee in",
+    "type": "chapter",
+    "issued": "2010"
+  },
+  {
+    "author": [
+      {
+        "family": "Kainulainen",
+        "given": "K."
+      },
+      {
+        "family": "Persson",
+        "given": "C."
+      },
+      {
+        "family": "Eriksson",
+        "given": "T."
+      },
+      {
+        "family": "Bremer",
+        "given": "B."
+      }
+    ],
+    "title": "Molecular systematics and morphological character evolution of the Condamineeae (Rubiaceae",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "12",
+    "issued": "2010",
+    "page": "1961–1981",
+    "URL": "http://dx.doi.org/10.3732/ajb.1000090",
+    "DOI": "10.3732/ajb.1000090"
+  },
+  {
+    "author": [
+      {
+        "family": "Maldonado",
+        "given": "C."
+      }
+    ],
+    "title": "A revision of the genus Elaeagia (Rubiaceae",
+    "genre": "Master Thesis,",
+    "publisher": "Aarhus University",
+    "type": "thesis",
+    "issued": "2005",
+    "page": "84",
+    "publisher-place": "Denmark"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Two new species of Elaeagia (Rubiaceae) from South America",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Venezolana de Ciencias Naturales",
+    "issued": "1960",
+    "page": "240–242"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Rubiaceae",
+    "editor": [
+      {
+        "family": "Maguire",
+        "given": "B."
+      }
+    ],
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1965",
+    "page": "1–285"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "C.M."
+      }
+    ],
+    "title": "Rubiacearum americanarum magna hama pars IV: New taxa and combinations in Elaeagia and Warszewiczia (Rondeletieae) from Mexico, Central America, and Colombia",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2001",
+    "page": "274–279",
+    "URL": "http://dx.doi.org/10.2307/3393066",
+    "DOI": "10.2307/3393066"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "C.M."
+      }
+    ],
+    "title": "Elaeagia",
+    "editor": [
+      {
+        "family": "Davidse",
+        "given": "G.M."
+      },
+      {
+        "family": "S.",
+        "given": "Sousa"
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Chiang",
+        "given": "F.C."
+      },
+      {
+        "family": "Ulloa Ulloa",
+        "given": "C."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      }
+    ],
+    "container-title": "Flora Mesoamericana",
+    "volume": "4",
+    "publisher": "Universidad Nacional Autonoma de Mexico",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "83–85",
+    "publisher-place": "Mexico City, Missouri Botanical Gardent"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "C.M."
+      },
+      {
+        "family": "Hammel",
+        "given": "B.E."
+      }
+    ],
+    "title": "Notes on Elaeagia myriantha, comb. nov",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Rubiaceae). Novon",
+    "issue": "4",
+    "issued": "1993",
+    "page": "490–491",
+    "URL": "http://dx.doi.org/10.2307/3391399",
+    "DOI": "10.2307/3391399"
+  },
+  {
+    "author": [
+      {
+        "family": "Weddell",
+        "given": "H.A."
+      }
+    ],
+    "title": "Histoire naturelle des quinquinas, ou monographie du genre Cinchona, suivie d’une description du genre Cascarilla et de quelques autres plantes de la même tribu",
+    "publisher": "V. Masson, iv",
+    "type": "book",
+    "issued": "1849",
+    "page": "108",
+    "publisher-place": "Paris"
+  }
+]

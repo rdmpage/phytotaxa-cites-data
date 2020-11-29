@@ -1,0 +1,744 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alverson",
+        "given": "W.S."
+      },
+      {
+        "family": "Whitlock",
+        "given": "B.A."
+      },
+      {
+        "family": "Nyffler",
+        "given": "R."
+      },
+      {
+        "family": "Bayer",
+        "given": "C."
+      },
+      {
+        "family": "Baum",
+        "given": "D.A."
+      }
+    ],
+    "title": "Phylogeny of the Core Malvales: Evidence from ndhF Sequence Data",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1999",
+    "page": "1474–1486"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Angiosperm Phylogeny"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2009",
+    "page": "105–121",
+    "DOI": "10.1111/j.1095-8339.2009.00996.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ayers",
+        "given": "D."
+      },
+      {
+        "family": "Völkel",
+        "given": "M."
+      }
+    ],
+    "title": "Cool URIs for the Semantic Web",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2008",
+    "URL": "http://www.w3.org/TR/cooluris/."
+  },
+  {
+    "author": [
+      {
+        "family": "Bayer",
+        "given": "C."
+      },
+      {
+        "family": "Fay",
+        "given": "M.F."
+      },
+      {
+        "family": "De Bruijn",
+        "given": "A.Y."
+      },
+      {
+        "family": "Savolainen",
+        "given": "V."
+      },
+      {
+        "family": "Morton",
+        "given": "C.M."
+      },
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "family": "Alverson",
+        "given": "W.S."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Support for an expanded family concept of Malvaceae within a recircumscribed order Malvales: a combined analysis of plastid atpB and rbcL DNA sequences",
+    "volume": "129",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1999",
+    "page": "267–303"
+  },
+  {
+    "author": [
+      {
+        "family": "Bayer",
+        "given": "C."
+      },
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Malvaceae"
+      },
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "family": "Bayer",
+        "given": "C."
+      }
+    ],
+    "title": "The Families and Genera of Vascular Plants V: Flowering plants",
+    "container-title": "Dicotyledons: Malvales, Capparales and Non-betalain Caryophyllales",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "225–311",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Bizer",
+        "given": "C."
+      },
+      {
+        "family": "Heath",
+        "given": "T."
+      },
+      {
+        "family": "Berners-Lee",
+        "given": "T."
+      }
+    ],
+    "title": "Linked Data - The Story So Far",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "International Journal on Semantic Web and Information Systems",
+    "issue": "3",
+    "issued": "2009",
+    "page": "1–22",
+    "DOI": "10.4018/jswis.2009081901."
+  },
+  {
+    "author": [
+      {
+        "family": "Bocquillon",
+        "given": "H.T."
+      }
+    ],
+    "title": "Mémoire sur le groupe des Tiliacées",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Adansonia; recueil (périodique) d'observations botaniques",
+    "issued": "1866",
+    "page": "2–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheek",
+        "given": "M."
+      },
+      {
+        "family": "Pollard",
+        "given": "B."
+      },
+      {
+        "family": "Darbyshire",
+        "given": "I."
+      },
+      {
+        "family": "Onana",
+        "given": "J."
+      },
+      {
+        "family": "Wild",
+        "given": "C."
+      }
+    ],
+    "title": "The Plants of Kupe, Mwanenguba and the Bakossi Mountains",
+    "publisher": "Royal Botanic Gardens",
+    "type": "book",
+    "issued": "2004",
+    "page": "508",
+    "publisher-place": "Cameroon"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheek",
+        "given": "M."
+      },
+      {
+        "family": "V.H.",
+        "given": "Brummitt"
+      },
+      {
+        "family": "R.K.",
+        "given": "Culham"
+      },
+      {
+        "given": "A."
+      },
+      {
+        "family": "Seberg",
+        "given": "O."
+      }
+    ],
+    "title": "Sparmanniaceae",
+    "publisher": "In",
+    "type": "book",
+    "issued": "2007",
+    "page": "307–308",
+    "publisher-place": "Heywood"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheek",
+        "given": "M."
+      },
+      {
+        "family": "Harvey",
+        "given": "Y."
+      },
+      {
+        "family": "Onana",
+        "given": "J.M."
+      }
+    ],
+    "title": "The Plants of Mefou Proposed National Park",
+    "publisher": "A Conservation Checklist. Royal Botanic Gardens",
+    "type": "book",
+    "issued": "2011",
+    "page": "252",
+    "publisher-place": "Yaounde, Cameroon"
+  },
+  {
+    "author": [
+      {
+        "family": "Chevalier",
+        "given": "A."
+      }
+    ],
+    "title": "La forêt et les bois du Gabon. Fascicule 9 of Vegetaux Utiles de l'Afrique Tropicale Francaise",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Challamel",
+    "issue": "",
+    "issued": "1917",
+    "page": "315"
+  },
+  {
+    "author": [
+      {
+        "family": "Cryer",
+        "given": "P."
+      },
+      {
+        "family": "Hyam",
+        "given": "R."
+      },
+      {
+        "family": "Miller",
+        "given": "C."
+      },
+      {
+        "family": "Nicolson",
+        "given": "N."
+      },
+      {
+        "family": "Tuama",
+        "given": "Ó."
+      },
+      {
+        "family": "E.",
+        "given": "Page"
+      },
+      {
+        "family": "R.",
+        "given": "Rees"
+      },
+      {
+        "family": "J.",
+        "given": "Riccardi"
+      },
+      {
+        "family": "G.",
+        "given": "Richards"
+      },
+      {
+        "given": "K."
+      },
+      {
+        "family": "White",
+        "given": "R."
+      }
+    ],
+    "title": "Adoption of Persistent Identifiers for Biodiversity Informatics",
+    "container-title": "Recommendations of the GBIF LSID GUID Task Group. Global Biodiversity Information Facility Secretariat",
+    "type": "chapter",
+    "issued": "2009"
+  },
+  {
+    "author": [
+      {
+        "family": "Board",
+        "given": "D.C.M.I.Usage"
+      }
+    ],
+    "title": "DCMI Metadata Terms",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://dublincore.org/documents/2012/06/14/dcmi-terms/"
+  },
+  {
+    "author": [
+      {
+        "family": "De Wildeman",
+        "given": "E."
+      }
+    ],
+    "title": "Decades novarum specierum Florae Congolensis",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin botanique de l'État à Bruxelles",
+    "issued": "1915",
+    "page": "65"
+  },
+  {
+    "author": [
+      {
+        "family": "Drinkwater",
+        "given": "R.E."
+      }
+    ],
+    "title": "e-Taxonomy: exploring the publication of botanical inventory and revisional work online",
+    "publisher": "University of Edinburgh",
+    "type": "book",
+    "issued": "2011",
+    "page": "95"
+  },
+  {
+    "author": [
+      {
+        "given": "E.P.S.R.C."
+      }
+    ],
+    "title": "EPSRC Policy Framework on Research Data Available From",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.epsrc.ac.uk/about/standards/researchdata/Pages/expectations.aspx"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "D.J."
+      }
+    ],
+    "title": "The vascular plants of the Dzanga-Sangha Reserve, Central African Republic",
+    "publisher": "National Botanic Garden of Belgium, Meise",
+    "type": "book",
+    "issued": "2002",
+    "page": "273"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "D.J."
+      },
+      {
+        "family": "Wortley",
+        "given": "A.H."
+      }
+    ],
+    "title": "Sangha trees",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Garden Edinburgh, Edinburgh",
+    "issued": "2008",
+    "page": "300"
+  },
+  {
+    "author": [
+      {
+        "family": "Hawthorne",
+        "given": "W.D."
+      },
+      {
+        "family": "Jongkind",
+        "given": "C.C.H."
+      }
+    ],
+    "title": "Woody Plants of Western African Forests: A guide to the forest trees, shrubs and lianes from Senegal to Ghana",
+    "publisher": "Royal Botanic Gardens",
+    "type": "book",
+    "issued": "2006",
+    "page": null,
+    "publisher-place": "Kew, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Judd",
+        "given": "W.S."
+      },
+      {
+        "family": "S.R",
+        "given": "Manchester"
+      }
+    ],
+    "title": "Circumscription of Malvaceae (Malvales) as determined by a preliminary cladistic analysis of morphological, anatomical, palynological, and chemical characters",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "3",
+    "issued": "1997",
+    "page": "384–405"
+  },
+  {
+    "author": [
+      {
+        "family": "Keay",
+        "given": "R.W.J."
+      },
+      {
+        "family": "Hutchinson",
+        "given": "J."
+      },
+      {
+        "family": "Dalziel",
+        "given": "J."
+      }
+    ],
+    "title": "Flora of West Tropical Africa",
+    "volume": "1 part 2",
+    "type": "article-journal",
+    "container-title": "Second Edition.Volume",
+    "issued": "1958",
+    "page": "533"
+  },
+  {
+    "author": [
+      {
+        "family": "Keay",
+        "given": "R."
+      }
+    ],
+    "title": "Trees of Nigeria",
+    "publisher": "Clarendon Press, Oxford",
+    "type": "book",
+    "issued": "1989",
+    "page": "476"
+  },
+  {
+    "author": [
+      {
+        "family": "J.P.",
+        "given": "Lebrun"
+      },
+      {
+        "family": "Stork",
+        "given": "A."
+      }
+    ],
+    "title": "Enumeration des Plantes a Fleurs d'Afrique Tropicale",
+    "volume": "4",
+    "publisher": "Ville de Geneve, Geneva",
+    "type": "book",
+    "issued": "1997",
+    "page": "712"
+  },
+  {
+    "author": [
+      {
+        "family": "Lebrun",
+        "given": "J.P."
+      },
+      {
+        "family": "Stork",
+        "given": "A."
+      }
+    ],
+    "title": "Tropical African Flowering Plants",
+    "volume": "1",
+    "publisher": "Ville de Geneve, Geneva",
+    "type": "article-journal",
+    "container-title": "Ecology and Distribution",
+    "issued": "2003",
+    "page": "797"
+  },
+  {
+    "author": [
+      {
+        "family": "Louppe",
+        "given": "D."
+      },
+      {
+        "family": "Oteng-Amoako",
+        "given": "A."
+      },
+      {
+        "family": "Brink",
+        "given": "M."
+      }
+    ],
+    "title": "Plant Resources of Tropical Africa: Timbers 7 (1",
+    "publisher": "Backhuys Publishers, Leiden",
+    "type": "book",
+    "issued": "2008",
+    "page": "704"
+  },
+  {
+    "author": [
+      {
+        "family": "Mildbraed",
+        "given": "J."
+      }
+    ],
+    "title": "Wissenschaftliche Ergebnisse der zweiten Deutschen Zentral-Afrika-Expedition, 1910-1911",
+    "publisher": "Klinghardt and Biermann, Leipzig",
+    "type": "book",
+    "issued": "1922",
+    "page": "202"
+  },
+  {
+    "author": [
+      {
+        "family": "Riccardi",
+        "given": "G."
+      },
+      {
+        "family": "White",
+        "given": "R."
+      },
+      {
+        "family": "Cryer",
+        "given": "P."
+      },
+      {
+        "family": "Hyam",
+        "given": "R."
+      },
+      {
+        "family": "Miller",
+        "given": "C."
+      },
+      {
+        "family": "Nicolson",
+        "given": "N."
+      },
+      {
+        "family": "Tuama",
+        "given": "Ó."
+      },
+      {
+        "family": "E.",
+        "given": "Page"
+      },
+      {
+        "family": "R.",
+        "given": "Rees"
+      },
+      {
+        "given": "J."
+      },
+      {
+        "family": "Richards",
+        "given": "K."
+      }
+    ],
+    "title": "Persistent Identifiers for Biodiversity Informatics: Status and Likely Directions",
+    "container-title": "Proceedings of TDWG 2009, Abstracts",
+    "note": "Available from:",
+    "type": "paper-conference",
+    "issued": "2009",
+    "URL": "http://www.tdwg.org/proceedings/issue/current"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Tiliaceae in Engler",
+    "editor": [
+      {
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien. Die Natürlichen Pflanzenfamilien. Nachträge zum II - IV Teil",
+    "publisher": "Verlag von Wilhelm Engelmann, Leipzig",
+    "type": "chapter",
+    "issued": "1897",
+    "page": "234"
+  },
+  {
+    "author": [
+      {
+        "family": "Sosef",
+        "given": "M."
+      },
+      {
+        "family": "Wieringa",
+        "given": "J."
+      },
+      {
+        "family": "Jongkind",
+        "given": "C."
+      },
+      {
+        "family": "Achoundong",
+        "given": "G."
+      },
+      {
+        "family": "Azizet Issembe",
+        "given": "Y."
+      },
+      {
+        "family": "Bedigian",
+        "given": "D."
+      },
+      {
+        "family": "Berg",
+        "given": "R.",
+        "particle": "van den"
+      },
+      {
+        "family": "Breteler",
+        "given": "F."
+      },
+      {
+        "family": "Cheek",
+        "given": "M."
+      },
+      {
+        "family": "Degreef",
+        "given": "J."
+      },
+      {
+        "family": "Faden",
+        "given": "R."
+      },
+      {
+        "family": "Goldblatt",
+        "given": "P."
+      },
+      {
+        "family": "Maesen",
+        "given": "L.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ngok Banak",
+        "given": "L."
+      },
+      {
+        "family": "Niangadouma",
+        "given": "R."
+      },
+      {
+        "family": "Nzabi",
+        "given": "T."
+      },
+      {
+        "family": "Nziengui",
+        "given": "B."
+      },
+      {
+        "family": "Rogers",
+        "given": "Z."
+      },
+      {
+        "family": "Stevart",
+        "given": "T."
+      },
+      {
+        "family": "Valkenburg",
+        "given": "J.",
+        "particle": "van"
+      },
+      {
+        "family": "Walters",
+        "given": "G."
+      },
+      {
+        "family": "Wilde",
+        "given": "J.",
+        "particle": "de"
+      }
+    ],
+    "title": "Checklist of Gabonese Vascular Plants",
+    "publisher": "National Botanic Garden of Belgium",
+    "type": "book",
+    "issued": "2006",
+    "page": "438"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilczeck",
+        "given": "R."
+      }
+    ],
+    "title": "Tiliaceae",
+    "editor": [
+      {
+        "family": "Wilczeck",
+        "given": "R."
+      }
+    ],
+    "container-title": "Institut national pour l'étude agronomique du Congo, Bruxelles",
+    "type": "chapter",
+    "issued": "1963",
+    "page": "38–40"
+  }
+]

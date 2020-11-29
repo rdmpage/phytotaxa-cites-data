@@ -1,0 +1,182 @@
+[
+  {
+    "author": [
+      {
+        "family": "Curtis",
+        "given": "B.A."
+      },
+      {
+        "family": "Mannheimer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Tree atlas of Namibia",
+    "publisher": "National Botanical Research Institute, Windhoek",
+    "type": "book",
+    "issued": "2005",
+    "page": "674"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Plantae Gürichianae. Ein Beitrag zur Kenntnis der Flora von Deutschsüdwestafrica. Botanische Jahrbücher für Systematik",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1894",
+    "page": "128–152"
+  },
+  {
+    "author": [
+      {
+        "family": "Figueiredo",
+        "given": "E."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "title": "Plants of Angola/Plantas de Angola",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Strelitzia",
+    "issued": "2008",
+    "page": "1–279"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Plantarum Rariorum Horti Caesarei Schoenbrunnensis",
+    "volume": "2",
+    "publisher": "C.F. Wappler",
+    "type": "book",
+    "issued": "1797",
+    "page": "1–68, 130–250",
+    "publisher-place": "Vienna",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.332",
+    "DOI": "10.5962/bhl.title.332"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendes",
+        "given": "E.J."
+      }
+    ],
+    "title": "Additiones ed adnotationes florae angolensi – VIII",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Boletim da Sociedade Broteriana",
+    "issue": "28",
+    "issued": "1964",
+    "page": "137, 138"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendes",
+        "given": "E.J."
+      }
+    ],
+    "title": "Additiones ed adnotationes florae angolensi – X",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Boletim da Sociedade Broteriana",
+    "issue": "41",
+    "issued": "1967",
+    "page": "155–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Seely",
+        "given": "M."
+      }
+    ],
+    "title": "The Namib: Natural History of an Ancient Desert",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Desert Research Foundation of Namibia",
+    "issue": "oek",
+    "issued": "2004",
+    "page": "110"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyn",
+        "given": "M."
+      }
+    ],
+    "title": "A field guide, southern Africa Commiphora / ’n Veldgids, Suider-Afrika",
+    "type": null,
+    "issued": "2003"
+  },
+  {
+    "author": [
+      {
+        "given": "Commiphora"
+      }
+    ],
+    "title": "Published by the author",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Polokwane",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "List",
+        "given": "The Plant"
+      }
+    ],
+    "title": "Version 1.1. Published on the Internet",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://www.theplantlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Walt",
+        "given": "J.J.A.",
+        "particle": "Van der"
+      }
+    ],
+    "title": "Burseraceae",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Flora of southern Africa",
+    "issue": "3",
+    "issued": "1986",
+    "page": "5–34"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Wyk",
+        "given": "A.E."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "title": "Regions of floristic endemism in southern Africa: a review with emphasis on succulents",
+    "publisher": "Umdaus Press",
+    "type": "book",
+    "issued": "2001",
+    "page": "199",
+    "publisher-place": "Hatfield"
+  }
+]

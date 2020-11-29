@@ -1,0 +1,451 @@
+[
+  {
+    "author": [
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Dorr",
+        "given": "L.J."
+      }
+    ],
+    "title": "Miconia amilcariana (Melastomataceae: Miconieae), a new species from the Venezuelan Andes with notes on the distribution and origin of dioecy in the Melastomataceae",
+    "container-title": "Proceedings of the California Academy of Sciences",
+    "volume": "57",
+    "type": "paper-conference",
+    "issued": "2006",
+    "page": "549–555"
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "note": "version BETA",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Burke",
+        "given": "J.M."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      }
+    ],
+    "title": "Lectotypification of Peruvian Melastomataceae described by Cogniaux from Weberbauer collections",
+    "volume": "125",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "10–16",
+    "URL": "https://doi.org/10.11646/phytotaxa.125.1.2",
+    "DOI": "10.11646/phytotaxa.125.1.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Burke",
+        "given": "J.M."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Fernandez",
+        "given": "D."
+      }
+    ],
+    "title": "Miconia complanata (Miconieae: Melastomataceae), a new species from the border between Ecuador and Peru",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "3",
+    "issued": "2017",
+    "page": "370–375",
+    "URL": "https://doi.org/10.1007/s12228-017-9470-8",
+    "DOI": "10.1007/s12228-017-9470-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Cardenas",
+        "given": "L.A."
+      },
+      {
+        "family": "Burke",
+        "given": "J.M."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      }
+    ],
+    "title": "Five new species of Miconia (Melastomataceae) from the Central Peruvian Andes",
+    "volume": "188",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "121–134",
+    "URL": "https://doi.org/10.11646/phytotaxa.188.3.1",
+    "DOI": "10.11646/phytotaxa.188.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Miconia",
+    "volume": "14",
+    "publisher": "Monachii & Lipsiae",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issued": "1888",
+    "page": "4"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "An Enumeration of the Plants Collected by Dr. H.H. Rusby in South America, 1885-1886, XII",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1890",
+    "page": "90–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "particle": "de"
+      },
+      {
+        "family": "Candolle",
+        "particle": "de"
+      }
+    ],
+    "container-title": "Monographie Phanergamarum",
+    "type": "chapter",
+    "issued": "1891",
+    "page": null,
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Plantae novae andiane imprimis Weberbauerinae IV; Melastomataceae Peruvianae",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik",
+    "issued": "1908",
+    "page": "131–148"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamba",
+        "given": "D."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Alvear",
+        "given": "M."
+      }
+    ],
+    "title": "Miconia indicoviolacea (Melastomataceae: Miconieae): a new Colombian species from the western flanks of the cordillera Occidental",
+    "volume": "177",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2014",
+    "page": "171–176",
+    "URL": "https://doi.org/10.11646/phytotaxa.177.3.5",
+    "DOI": "10.11646/phytotaxa.177.3.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Gleason",
+        "given": "H.A."
+      }
+    ],
+    "title": "Nine South American Melastomes",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1933",
+    "page": "41–48"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Caddah",
+        "given": "M.K."
+      },
+      {
+        "family": "Martins",
+        "given": "A.B."
+      },
+      {
+        "family": "Meirelles",
+        "given": "J."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Weiss",
+        "given": "M."
+      }
+    ],
+    "title": "Nomenclator botanicus for the neotropical genus Miconia (Melastomataceae: Miconieae",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "1–171",
+    "URL": "https://doi.org/10.11646/phytotaxa.106.1.1",
+    "DOI": "10.11646/phytotaxa.106.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Humboldt",
+        "given": "A."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A."
+      }
+    ],
+    "title": "Essay on the Geography of Plants",
+    "publisher": "University of Chicago Press, Chicago",
+    "type": "book",
+    "issued": "2009",
+    "page": "274"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list categories and criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List Categories and Criteria. Version 13. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "MacBride",
+        "given": "J.A."
+      }
+    ],
+    "title": "Spermatophytes, Mostly Peruvian, from the Captain Marshall field expeditions to Peru",
+    "container-title": "Publications of the Field Museum of Natural History, Botanical Series",
+    "volume": "4",
+    "issue": "7",
+    "type": "article-journal",
+    "issued": "1929",
+    "page": "165–193"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Meier",
+        "given": "W."
+      }
+    ],
+    "title": "A new anisophyllous species of Miconia (Melastomataceae: Miconieae) from the Coastal Cordillera in northern Venezuela",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "37–44",
+    "URL": "https://doi.org/10.11646/phytotaxa.79.1.3",
+    "DOI": "10.11646/phytotaxa.79.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Naudin",
+        "given": "C.V."
+      }
+    ],
+    "title": "Melastomacearum monographicae descriptiones",
+    "genre": "[series 3]",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Botanique",
+    "issued": "1850",
+    "page": "83–246"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada-Herrera",
+        "given": "J.M."
+      },
+      {
+        "family": "Mendoza-Cifuentes",
+        "given": "H."
+      }
+    ],
+    "title": "Miconia curvitheca (Melastomataceae), una nueva especie nativa de los bosques altoandinos y subparamos de los Andes centrales, Colombia",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Biota Colombiana",
+    "issue": "2",
+    "issued": "2016",
+    "page": "12–18",
+    "URL": "https://doi.org/10.21068/c2016.v17n02a02",
+    "DOI": "10.21068/c2016.v17n02a02"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz",
+        "given": "H."
+      },
+      {
+        "family": "Pavon",
+        "given": "J."
+      }
+    ],
+    "title": "Florae Peruvianae et Chilensis",
+    "volume": "1",
+    "publisher": "Gabrielis de Sancha",
+    "type": "book",
+    "issued": "1794",
+    "page": "78",
+    "publisher-place": "Madrid",
+    "URL": "https://doi.org/10.5962/bhl.title.887",
+    "DOI": "10.5962/bhl.title.887"
+  },
+  {
+    "author": [
+      {
+        "family": "Rusby",
+        "given": "H.H."
+      }
+    ],
+    "title": "On the Collections of Mr. Miguel Bang in Bolivia",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Torrey Botanical Club",
+    "issue": "3",
+    "issued": "1893",
+    "page": "1–67"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Certamen Melastomataceis XIX",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issue": "5",
+    "issued": "1972",
+    "page": "474–502"
+  }
+]

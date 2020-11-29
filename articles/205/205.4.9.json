@@ -1,0 +1,238 @@
+[
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "M.Y."
+      }
+    ],
+    "title": "Clematis",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1980",
+    "page": "355",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Finet",
+        "given": "A."
+      },
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Contributions a la flore de Lásie Orientale dáprès l’herbier du musèum de Paris",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1903",
+    "page": "517–557"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Plantas yunnanenses, a cl",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "J",
+    "issued": "1886",
+    "page": "358–467"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum, exhibentes plantas rite cognitas ad genera relatas, cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas",
+    "volume": "1",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Diagnoses plantarum novarum Japonicae et Mandshuriae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Academie Imperiale des Sciences de St-Petersbourg",
+    "issued": "1876",
+    "page": "209–264"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "M."
+      }
+    ],
+    "title": "A classification of genus Clematis",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Geobotanica",
+    "issued": "1987",
+    "page": "33–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "M."
+      }
+    ],
+    "title": "Clematis L",
+    "editor": [
+      {
+        "family": "Heipko",
+        "given": "P."
+      }
+    ],
+    "container-title": "Engler’s Die Natürlichen Pflanzenfamilien",
+    "edition": "2nd",
+    "publisher": "Duncker & Humblot",
+    "volume": "17a",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "368–387",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      }
+    ],
+    "title": "Notulae de Ranunculaceis Sinensibus (XV",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1993",
+    "page": "201–226"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      },
+      {
+        "family": "Bartholomew",
+        "given": "B."
+      }
+    ],
+    "title": "Clematis",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "6",
+    "publisher": "Science Press, Missouri Botanical Garden Press",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "97–165",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      },
+      {
+        "family": "Li",
+        "given": "L.Q."
+      }
+    ],
+    "title": "A new system of classification of the genus Clematis (Ranunculaceae",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "2005",
+    "page": "431–488"
+  },
+  {
+    "author": [
+      {
+        "family": "Xie",
+        "given": "L."
+      }
+    ],
+    "title": "Taxonomic revision of Clematis Sect. Campanella Tamura (Ranunculaceae), with a study on the phylogeny of Clematis based on pollen morphology",
+    "genre": "Ph.D. Thesis.",
+    "publisher": "The Chinese Academy of Sciences",
+    "note": "In Chinese",
+    "type": "thesis",
+    "issued": "2005",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Xie",
+        "given": "L."
+      },
+      {
+        "family": "Shi",
+        "given": "J.H."
+      },
+      {
+        "family": "Li",
+        "given": "L.Q."
+      }
+    ],
+    "title": "Identity of Clematis tatarinowii and C. pinnata var. ternatifolia (Ranunculaceae",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2005",
+    "page": "305–308"
+  },
+  {
+    "author": [
+      {
+        "family": "Xue",
+        "given": "Z.W."
+      },
+      {
+        "family": "X.W",
+        "given": "Wang"
+      }
+    ],
+    "title": "A new species of Clematis from Anhui",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1986",
+    "page": "406–407"
+  }
+]

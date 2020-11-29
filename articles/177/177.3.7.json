@@ -1,0 +1,438 @@
+[
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Hymenochaetaceae (Basidiomycota) in China",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2010",
+    "page": "131–343",
+    "URL": "http://dx.doi.org/10.1007/s13225-010-0066-9",
+    "DOI": "10.1007/s13225-010-0066-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Decock",
+        "given": "C."
+      },
+      {
+        "family": "Amalfi",
+        "given": "M."
+      },
+      {
+        "family": "Robledo",
+        "given": "G."
+      },
+      {
+        "family": "Castillo",
+        "given": "G."
+      }
+    ],
+    "title": "Phylloporia nouraguensis, an undescribed species on Myrtaceae from French Guiana",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Cryptogamie Mycologie",
+    "issued": "2013",
+    "page": "15–27",
+    "URL": "http://dx.doi.org/10.782/crym.v34.iss1.2013.15"
+  },
+  {
+    "author": [
+      {
+        "family": "Douanla-Meli",
+        "given": "C."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      },
+      {
+        "family": "Langer",
+        "given": "E."
+      }
+    ],
+    "title": "Studies of tropical African pore fungi (Basidiomycota, Aphyllophorales): three new species from Cameroon",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "2007",
+    "page": "409–420",
+    "URL": "http://dx.doi.org/10.1127/0029-5035/2007/0084-0409",
+    "DOI": "10.1127/0029-5035/2007/0084-0409"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "A simple, fast and accurate method to estimate large phylogenies by maximum likelihood",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2003",
+    "page": "696–704",
+    "URL": "http://dx.doi.org/10.1080/10635150390235520",
+    "DOI": "10.1080/10635150390235520"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "http://dx.doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Briefings in Bioinformatics",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "http://dx.doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Minter",
+        "given": "D.W."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Dictionary of the fungi",
+    "edition": "10th",
+    "publisher": "CAB International, Oxon",
+    "type": "book",
+    "issued": "2008"
+  },
+  {
+    "author": [
+      {
+        "family": "Murrill",
+        "given": "W.A."
+      }
+    ],
+    "title": "Northern polypores",
+    "note": "Privately printed, New York.",
+    "type": null,
+    "issued": "1914",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.45986",
+    "DOI": "10.5962/bhl.title.45986"
+  },
+  {
+    "author": [
+      {
+        "family": "Pattengale",
+        "given": "N.D."
+      },
+      {
+        "family": "Alipour",
+        "given": "M."
+      },
+      {
+        "family": "Bininda-Emonds",
+        "given": "O.R.P."
+      },
+      {
+        "family": "Moret",
+        "given": "B.M.E."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "How many bootstrap replicates are necessary?",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Journal of Computational Biology",
+    "issued": "2010",
+    "page": "337–354",
+    "URL": "http://dx.doi.org/10.1089/cmb.2009.0179",
+    "DOI": "10.1089/cmb.2009.0179"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest: phylogenetic model averaging",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2008",
+    "page": "1253–1256",
+    "URL": "http://dx.doi.org/10.1093/molbev/msn083",
+    "DOI": "10.1093/molbev/msn083"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "raxmlGUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity & Evolution",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "http://dx.doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: phylogenetic analysis using parsimony (*and other methods",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "http://dx.doi.org/0021-9193/90/084238-09$02.00/0"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "T."
+      },
+      {
+        "family": "Fischer",
+        "given": "M."
+      }
+    ],
+    "title": "Proceedings towards a natural classification of the worldwide taxa Phellinus s.l. and Inonotus s.l., and phylogenetic relationships of allied genera",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2002",
+    "page": "998–1016",
+    "URL": "http://dx.doi.org/10.2307/3761866",
+    "DOI": "10.2307/3761866"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: A guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "H.Y."
+      },
+      {
+        "family": "Zhao",
+        "given": "C.L."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Inonotus niveomarginatus and I. tenuissimus spp",
+    "editor": [
+      {
+        "given": "nov"
+      }
+    ],
+    "volume": "124",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2013",
+    "page": "61–68",
+    "URL": "http://dx.doi.org/10.5248/124.61",
+    "DOI": "10.5248/124.61"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      }
+    ],
+    "title": "Fomitiporella caviphila sp. nova (Hymenochaetales, Basidiomycota) from eastern China, with a preliminary discussion on the taxonomy of Fomitiporella",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2014",
+    "page": "279–284"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      }
+    ],
+    "title": "Fulvifomes hainanensis sp",
+    "editor": [
+      {
+        "given": "nov"
+      },
+      {
+        "family": "nov",
+        "given": "F.",
+        "particle": "indicus comb."
+      }
+    ],
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2014",
+    "page": "70–77",
+    "URL": "http://dx.doi.org/10.1016/j.myc.2013.05.006",
+    "DOI": "10.1016/j.myc.2013.05.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Phylogeny and taxonomy of Phylloporia (Hymenochaetales): new species and a worldwide key to the genus",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2012",
+    "page": "211–222",
+    "URL": "http://dx.doi.org/10.3852/11-093",
+    "DOI": "10.3852/11-093"
+  }
+]

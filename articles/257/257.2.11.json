@@ -1,0 +1,102 @@
+[
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F."
+      }
+    ],
+    "title": "Grundzüge der Pflanzenverbreitung in den Karpathen 2",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Drude",
+        "given": "O."
+      }
+    ],
+    "container-title": "Die Vegetation der Erde 10. W. Engelmann, Leipzig",
+    "type": "chapter",
+    "issued": "1908",
+    "page": "– , 1–321"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F."
+      }
+    ],
+    "title": "Einige interessante Pflanzen aus der Karpathenflora. Jahres-Bericht der Schlesischen Gesellschaft für vaterländische Cultur",
+    "volume": "2",
+    "collection-title": "zoologisch-botanische Sektion",
+    "type": "article-journal",
+    "container-title": "Abteilung",
+    "issued": "1911",
+    "page": "26–27"
+  },
+  {
+    "author": [
+      {
+        "family": "Szeląg",
+        "given": "Z."
+      }
+    ],
+    "title": "Taxonomic revision of Hieracium sect. Cernua (Asteraceae) in the Carpathians, Sudetes and Alps",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Polish Botanical Journal",
+    "issued": "2006",
+    "page": "97–153"
+  },
+  {
+    "author": [
+      {
+        "family": "Szeląg",
+        "given": "Z."
+      }
+    ],
+    "title": "Taxonomic and nomenclatural notes on Hieracium tubulare (Asteraceae) with description of a new species from the Eastern Carpathians",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2006",
+    "page": "310–314"
+  },
+  {
+    "author": [
+      {
+        "family": "Uechtritz",
+        "given": "R.von"
+      }
+    ],
+    "title": "Hieracium dacicum n. sp",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Österreichische Botanische Zeitschrift",
+    "issued": "1875",
+    "page": "214–215",
+    "URL": "http://dx.doi.org/10.1007/BF01636003",
+    "DOI": "10.1007/BF01636003"
+  },
+  {
+    "author": [
+      {
+        "family": "Zahn",
+        "given": "K.H."
+      },
+      {
+        "family": "I",
+        "given": "E."
+      }
+    ],
+    "title": "Hieracia Transsilvanica. A cl",
+    "container-title": "Buletinul Grădinii Botanice şi al Muzeului Botanic de la Universitatea din Cluj",
+    "volume": "8",
+    "type": "chapter",
+    "issued": "1929",
+    "page": "33–86"
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ball",
+        "given": "P.W."
+      }
+    ],
+    "title": "Haloxylon Bunge",
+    "director": [
+      {
+        "family": "Tutin",
+        "given": "T.G."
+      },
+      {
+        "family": "Heywoood",
+        "given": "V.H."
+      },
+      {
+        "family": "Burges",
+        "given": "N.A."
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "1",
+    "publisher": "Lycopodiaceae to Platanaceae. Cambridge University Press, Cambridge",
+    "type": "chapter",
+    "issued": "1964",
+    "page": "107"
+  },
+  {
+    "author": [
+      {
+        "family": "Barrelier",
+        "given": "J."
+      }
+    ],
+    "title": "Plantae per Galliam, Hispaniam et Italiam observatae, iconibus aeneis exhibitae",
+    "note": "with 1324 illustrations.",
+    "type": "article-journal",
+    "container-title": "Apud Stephanum Ganeau, Parisiis [Paris",
+    "issued": "1714",
+    "page": "140 334"
+  },
+  {
+    "author": [
+      {
+        "family": "Battandier",
+        "given": "J.-A."
+      },
+      {
+        "family": "Trabut",
+        "given": "L.-C."
+      }
+    ],
+    "title": "Flore de l’Algérie. Ancienne flore d’Alger transformée, contenant la description de toutes les plantes signalées jusqu’à ce jour comme spontanées en Algérie par Battandier et Trabut professeurs à l’École de Mèdecine et de Pharmacie d’Alger. (1.) Dicotylédones",
+    "publisher": "Adolphe Jourdan",
+    "type": "book",
+    "issued": "1890",
+    "page": "825",
+    "publisher-place": "Alger, XI"
+  },
+  {
+    "author": [
+      {
+        "family": "Bolòs",
+        "given": "O.de"
+      },
+      {
+        "family": "Vigo",
+        "given": "J."
+      }
+    ],
+    "title": "Notes sobre taxonomía i nomenclatura de plantes, I. Butlletí de la Institució Catalana d’Història Natural 38 (Sec",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Bot",
+    "issued": "1974",
+    "page": "61–89"
+  },
+  {
+    "author": [
+      {
+        "family": "Bunge",
+        "given": "A.von"
+      }
+    ],
+    "title": "Beitrag zur Kenntniss der Flora Russlands und der Steppen Central-Asiens. Mémoires Présentés a l’Académie Impériale des Sciences de St.-Pétersbourg. Sixième Série",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Sciences Mathématiques, Physiques et Naturelles",
+    "issued": "1852",
+    "page": "177–536",
+    "URL": "https://doi.org/10.5962/bhl.title.51048",
+    "DOI": "10.5962/bhl.title.51048"
+  },
+  {
+    "author": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      }
+    ],
+    "title": "Accerca del género Hammada Iljin como peninsular",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issue": "2",
+    "issued": "1987",
+    "page": "579"
+  },
+  {
+    "author": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      }
+    ],
+    "title": "Hammada Iljin",
+    "editor": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      },
+      {
+        "family": "Laínz",
+        "given": "M."
+      },
+      {
+        "family": "López González",
+        "given": "G."
+      },
+      {
+        "family": "Montserrat",
+        "given": "P."
+      },
+      {
+        "family": "Muñoz Garmendia",
+        "given": "F."
+      },
+      {
+        "family": "Paiva",
+        "given": "J."
+      },
+      {
+        "family": "Villar",
+        "given": "L."
+      }
+    ],
+    "container-title": "Flora iberica",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "548–551",
+    "publisher-place": "Real Jardín Botánico de Madrid, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavanilles",
+        "given": "A.J."
+      }
+    ],
+    "title": "Icones et descriptiones plantarum, quae aut sponte in Hispania crescunt, aut in hortis hospitantur",
+    "volume": "3",
+    "note": "Typographia regia, Madrid, 58 pp + [Tab. 201-300",
+    "type": null,
+    "issued": "1795"
+  },
+  {
+    "author": [
+      {
+        "family": "Forsskål",
+        "given": "P."
+      }
+    ],
+    "title": "Flora Ægyptiaco Arabica",
+    "container-title": "Ex officina Mölleri, Hauniæ (Copenhagen",
+    "type": "chapter",
+    "issued": "1775",
+    "page": "251"
+  },
+  {
+    "author": [
+      {
+        "family": "Iljin",
+        "given": "M.M."
+      }
+    ],
+    "title": "Some results gained by studying the formation of flora in the deserts of Central Asia",
+    "container-title": "Materials on the history of the flora and vegetation of the USSR",
+    "volume": null,
+    "publisher": "Academic Sciences Press",
+    "note": "in Russian, with English summary",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1946",
+    "page": "197–256",
+    "publisher-place": "Moscow, Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "Iljin",
+        "given": "M.M."
+      }
+    ],
+    "title": "Novi rod Hammada Iljin",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Botanicheskii Zhurnal (Moscow & Leningrad",
+    "issued": "1948",
+    "page": "582–583"
+  },
+  {
+    "author": [
+      {
+        "family": "Mateo",
+        "given": "G."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Laguna",
+        "given": "E."
+      }
+    ],
+    "title": "Flora Valentina",
+    "volume": "1",
+    "container-title": "Fundación de la Comunidad Valenciana para el Medio Ambiente",
+    "type": "chapter",
+    "issued": "2010",
+    "page": "539"
+  },
+  {
+    "author": [
+      {
+        "family": "Moquin-Tandon",
+        "given": "C.H."
+      }
+    ],
+    "title": "Caroxylon",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.de"
+      }
+    ],
+    "container-title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "13",
+    "publisher": "Sumptibus Victoris Masson",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1849",
+    "page": "172–179",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Pomel",
+        "given": "A."
+      }
+    ],
+    "title": "Nouveaux matériaux pour la flore atlantique, Fascicule 2. Bulletin de la Société des Sciences Physiques",
+    "publisher": "Naturelles et Climatologiques de l’Algérie",
+    "type": "book",
+    "issued": "1875",
+    "page": "399"
+  },
+  {
+    "author": [
+      {
+        "family": "Schrenk",
+        "given": "A.G.von"
+      }
+    ],
+    "title": "Diagnoses plantarum novarum, in Songaria anno 1843 a Cl",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Al. Schrenk lectarum. Bulletin de la Classe Physico-Mathématique de l’Académie Impériale des Sciences de Saint-Pétersbourg",
+    "issued": "1845",
+    "page": "209–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "publisher": "Koeltz Botanical Books",
+    "type": "chapter",
+    "issued": "2018",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Uotila",
+        "given": "P."
+      }
+    ],
+    "title": "Chenopodiaceae (pro parte majore). In: Euro+Med Plantbase - the information resource for Euro-Mediterranean plant diversity",
+    "note": "Available from",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/"
+  }
+]

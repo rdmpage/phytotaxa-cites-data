@@ -1,0 +1,473 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      },
+      {
+        "family": "Chiavegatto",
+        "given": "B."
+      }
+    ],
+    "title": "Behuria",
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB9398"
+  },
+  {
+    "author": [
+      {
+        "family": "Brade",
+        "given": "A.C."
+      }
+    ],
+    "title": "Melastomataceae novae VI",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Arquivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1959",
+    "page": "6–16"
+  },
+  {
+    "author": [
+      {
+        "family": "Chamisso",
+        "given": "A."
+      }
+    ],
+    "title": "De plantis in expeditione speculatoria romanzoffiana et in herbariis regiis berolinensibus observatis—Melastomaceae americanae cont",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1834",
+    "page": "428–460"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.L.P.P."
+      }
+    ],
+    "title": "Melastomaceae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Prodromus systematis naturallis regni vegetabilis",
+    "issued": "1828",
+    "page": "99 202"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Reginato",
+        "given": "M."
+      }
+    ],
+    "title": "New species of Behuria, Miconia and Ossaea (Melastomataceae) from Eastern Brazil",
+    "volume": "136",
+    "type": "article-journal",
+    "container-title": "Journal of the Torrey Botanical Society",
+    "issued": "2009",
+    "page": "293 301",
+    "URL": "http://dx.doi.org/10.3159/09-ra-019.1",
+    "DOI": "10.3159/09-ra-019.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      },
+      {
+        "family": "Souza",
+        "given": "M.L.D.R."
+      }
+    ],
+    "title": "Taxonomia de Melastomataceae no Brasil: retrospectiva, perspectivas e chave de identificação para os gêneros",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2012",
+    "page": "145 161",
+    "URL": "http://dx.doi.org/10.1590/S2175-78602012000100011",
+    "DOI": "10.1590/S2175-78602012000100011"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Fraga",
+        "given": "C.N."
+      },
+      {
+        "family": "Fontana",
+        "given": "A.P."
+      },
+      {
+        "family": "Nicolas",
+        "given": "A."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      }
+    ],
+    "title": "Taxonomy and Phylogeny of Merianthera (Melastomataceae",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2012",
+    "page": "1040 1056"
+  },
+  {
+    "author": [
+      {
+        "family": "Henrard",
+        "given": "J.T."
+      }
+    ],
+    "title": "Velloziaceae americanae nonnulae novae vel minus cognitae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1937",
+    "page": "339 384"
+  },
+  {
+    "author": [
+      {
+        "family": "Iglesias",
+        "given": "D.T."
+      },
+      {
+        "family": "Dutra",
+        "given": "V.F."
+      },
+      {
+        "family": "Barros",
+        "given": "P.H.D."
+      },
+      {
+        "family": "Cardoso",
+        "given": "W.C."
+      },
+      {
+        "family": "Silva",
+        "given": "L.A."
+      },
+      {
+        "family": "Firmino",
+        "given": "A.D."
+      },
+      {
+        "family": "Florenço",
+        "given": "V.S."
+      }
+    ],
+    "title": "Diversidade florística da APA Mestre Álvaro, Serra, Espírito Santo, Brasil",
+    "container-title": "Anais da Sociedade Botânica do Brasil, LXV Congresso Brasileiro de Botânica",
+    "type": "chapter",
+    "issued": "2014",
+    "publisher-place": "Salvador"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria.Version 3.1",
+    "publisher": "IUCN Species Survival Commission, IUCN",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List Categories and Criteria",
+    "container-title": "Version 9.0",
+    "publisher": "IUCN Global Species Red List Unit",
+    "type": "chapter",
+    "issued": "2011",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Enumeratio Systematica Plantarum, quas in insulis Caribaeis",
+    "publisher": "Inter Documentation Company AG",
+    "type": "book",
+    "issued": "1760",
+    "page": "41",
+    "publisher-place": "Zug, Switzerland"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Collectanea ad Botanicam, Chemiam, et Historiam Naturalem, Spectantia, cum Figuris IV",
+    "publisher": "Wappler",
+    "type": "book",
+    "issued": "1791",
+    "publisher-place": "Wien"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuhlmann",
+        "given": "J.G."
+      }
+    ],
+    "title": "Novo gênero de Melastomataceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Arquivos do Instituto de Biologia Vegetal",
+    "issued": "1935",
+    "page": "231 233"
+  },
+  {
+    "author": [
+      {
+        "family": "Linden",
+        "given": "J."
+      }
+    ],
+    "title": "Catalogue des plantes exotiques nouvelles et rares cultives dans les serres de J",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Linden",
+    "issued": "1862",
+    "page": "1 56"
+  },
+  {
+    "author": [
+      {
+        "family": "Markgraf",
+        "given": "F."
+      }
+    ],
+    "title": "Plantae Luetzelbugianae Brasilienses VII",
+    "container-title": "Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "10",
+    "type": "chapter",
+    "issued": "1927",
+    "page": "43 54",
+    "URL": "http://dx.doi.org/10.2307/3994816",
+    "DOI": "10.2307/3994816"
+  },
+  {
+    "author": [
+      {
+        "family": "Porembski",
+        "given": "S."
+      }
+    ],
+    "title": "Tropical inselbergs: habitat types, adaptive strategies and diversity patterns",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Revista Brasileira de Botânica",
+    "issued": "2007",
+    "page": "579–586",
+    "URL": "http://dx.doi.org/10.1590/s0100-84042007000400004",
+    "DOI": "10.1590/s0100-84042007000400004"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      }
+    ],
+    "title": "Voyage dans le district des diamants et sur le littoral du Brésil",
+    "type": null,
+    "issued": "1833",
+    "publisher-place": "Gide, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      },
+      {
+        "family": "Nacional",
+        "given": "C.Companhia Editora"
+      }
+    ],
+    "title": "Segunda viagem ao interior do Brasil – Espírito Santo",
+    "publisher": "Madeira",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1936",
+    "publisher-place": "Translation",
+    "URL": "http://www.brasiliana.com.br/obras/segunda-viagem-ao-interior-do-brasil-espirito-santo"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "L.B."
+      },
+      {
+        "family": "Ayensu",
+        "given": "E.S."
+      }
+    ],
+    "title": "A revision of American Velloziaceae",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Smithsonian Contributions to Botany",
+    "issued": "1976",
+    "page": "1–172",
+    "URL": "http://dx.doi.org/10.5479/si.0081024X.30",
+    "DOI": "10.5479/si.0081024X.30"
+  },
+  {
+    "author": [
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "A.M",
+        "given": "Giulietti"
+      }
+    ],
+    "title": "Levantamento das espécies de Scrophulariaceae sensu lato nativas do Brasil",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Pesquisas, Botânica",
+    "issued": "2009",
+    "page": "70 208"
+  },
+  {
+    "author": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      }
+    ],
+    "title": "Studies of tropical american phanerogams",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Contributions from the United States National Herbarium",
+    "issue": "2",
+    "issued": "1916",
+    "page": "87 142"
+  },
+  {
+    "author": [
+      {
+        "family": "Tavares",
+        "given": "R.A.M."
+      }
+    ],
+    "title": "Revisão taxonômica do gênero Behuria Cham",
+    "director": [
+      {
+        "family": "Melastomataceae",
+        "given": "Merianieae)"
+      }
+    ],
+    "genre": "M.Sc. Thesis,",
+    "publisher": "Universidade Federal do Rio de Janeiro–Museu Nacional, Rio de Janeiro",
+    "type": "thesis",
+    "issued": "2005"
+  },
+  {
+    "author": [
+      {
+        "family": "Tavares",
+        "given": "R.A.M."
+      },
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      },
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      }
+    ],
+    "title": "A new species of Behuria Cham.(Melastomataceae: Merianieae) from Brazil",
+    "volume": "158",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2008",
+    "page": "489 492",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2008.00838.x",
+    "DOI": "10.1111/j.1095-8339.2008.00838.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Veloso",
+        "given": "H.P."
+      },
+      {
+        "family": "Rangel-Filho",
+        "given": "A.L.R."
+      },
+      {
+        "family": "Lima",
+        "given": "J.C.A."
+      }
+    ],
+    "title": "Classificação da vegetação brasileira, adaptada a um sistema universal",
+    "note": "IBGE—DERMA, Rio de Janeiro.",
+    "type": null,
+    "issued": "1991"
+  },
+  {
+    "author": [
+      {
+        "family": "Viana",
+        "given": "P.L."
+      },
+      {
+        "family": "Paula",
+        "given": "L.F.A.",
+        "particle": "de"
+      }
+    ],
+    "title": "Axonopus graniticola, a new species of A",
+    "producer": [
+      {
+        "family": "Suffulti",
+        "particle": "ser."
+      }
+    ],
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Paspaleae) from Minas Gerais, Brazil. PhytoKeys",
+    "issued": "2013",
+    "page": "7 16",
+    "URL": "http://dx.doi.org/10.3897/phytokeys.21.4157",
+    "DOI": "10.3897/phytokeys.21.4157"
+  }
+]

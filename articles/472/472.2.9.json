@@ -1,0 +1,391 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bernicchia",
+        "given": "A."
+      }
+    ],
+    "title": "Hyphoderma etruriae sp. nov. (Corticiaceae, Basidiomycetes) from the Natural Reserve of Burano, Italy",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1993",
+    "page": "37–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernicchia",
+        "given": "A."
+      },
+      {
+        "family": "Gorjón",
+        "given": "S.P."
+      }
+    ],
+    "title": "Corticiaceae s.l",
+    "container-title": "Fungi Europaei no 12",
+    "note": "Edizioni Candusso, Italia.",
+    "type": "chapter",
+    "issued": "2010"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernicchia",
+        "given": "A."
+      },
+      {
+        "family": "Karadelev",
+        "given": "M."
+      },
+      {
+        "family": "Perini",
+        "given": "C."
+      }
+    ],
+    "title": "Hyphoderma etruriae",
+    "container-title": "The IUCN Red List of Threatened Species 2019: e.T147430392A148009897",
+    "type": "chapter",
+    "issued": "2019",
+    "URL": "http://dx.doi.org/10.2305/IUCN.UK.2019-3.RLTS.T147430392A148009897.en",
+    "DOI": "10.2305/IUCN.UK.2019-3.RLTS.T147430392A148009897.en"
+  },
+  {
+    "author": [
+      {
+        "family": "Donk",
+        "given": "M.A."
+      }
+    ],
+    "title": "Notes on resupinate Hymenomycetes IV",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Fungus",
+    "issued": "1957",
+    "page": "1–29"
+  },
+  {
+    "author": [
+      {
+        "family": "Eriksson",
+        "given": "J."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "The Corticiaceae of North Europe",
+    "issued": "1975",
+    "page": "288–546"
+  },
+  {
+    "author": [
+      {
+        "family": "Karadelev",
+        "given": "M."
+      },
+      {
+        "family": "Koteska",
+        "given": "L."
+      }
+    ],
+    "title": "Hyphoderma etruriae (Meruliaceae, Basidiomycota): a rare corticioid fungus collected in Macedonia",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytologia Balcanica",
+    "issued": "2013",
+    "page": "3–5"
+  },
+  {
+    "author": [
+      {
+        "family": "Karasiński",
+        "given": "D."
+      }
+    ],
+    "title": "Lawrynomyces, a new genus of corticioid fungi in the Hymenochaetales",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Acta Mycologica",
+    "issue": "1",
+    "issued": "2013",
+    "page": "5–11",
+    "URL": "https://doi.org/10.5586/am.2013.001",
+    "DOI": "10.5586/am.2013.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      }
+    ],
+    "title": "Molecular phylogeny of Hyphoderma and the reinstatement of Peniophorella",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2007",
+    "page": "186–195",
+    "URL": "https://doi.org/10.1016%2Fj.mycres.2006.10.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "A."
+      }
+    ],
+    "title": "AliView: a fast and lightweight alignment viewer and editor for large datasets.Bioinformatics",
+    "volume": "30",
+    "type": null,
+    "issued": "2014",
+    "page": "3276–3278",
+    "URL": "https://doi.org/10.1093/bioinformatics/btu531",
+    "DOI": "10.1093/bioinformatics/btu531"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "K.-H."
+      },
+      {
+        "family": "Parmasto",
+        "given": "E."
+      },
+      {
+        "family": "Fischer",
+        "given": "M."
+      },
+      {
+        "family": "Langer",
+        "given": "E."
+      },
+      {
+        "family": "Nakasone",
+        "given": "K.K."
+      },
+      {
+        "family": "Redhead",
+        "given": "S.A."
+      }
+    ],
+    "title": "Hymenochaetales: a molecular phylogeny for the hymenochaetoid clade",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2006",
+    "page": "926–936",
+    "URL": "https://doi.org/10.1080/15572536.2006.11832622",
+    "DOI": "10.1080/15572536.2006.11832622"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "container-title": "In:Proceedings of the Gateway Computing Environments Workshop (GCE) 18",
+    "type": "paper-conference",
+    "issued": "2010",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Color",
+        "given": "Munsell"
+      }
+    ],
+    "title": "Munsell Soil Color Charts",
+    "container-title": "Macbeth Div. of Kollmogen Inst. Corp",
+    "type": "chapter",
+    "issued": "1990",
+    "publisher-place": "Baltimore"
+  },
+  {
+    "author": [
+      {
+        "family": "Rehner",
+        "given": "S.A."
+      },
+      {
+        "family": "Samuels",
+        "given": "G.J."
+      }
+    ],
+    "title": "Taxonomy and phylogeny of Gliocladium analysed from nuclear large subunit ribosomal DNA sequences",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "1994",
+    "page": "625–634",
+    "URL": "https://doi.org/10.1016/S0953-7562(09)80409-7",
+    "DOI": "10.1016/S0953-7562(09)80409-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "der",
+        "given": "Mark P.",
+        "particle": "van"
+      },
+      {
+        "family": "Ayres",
+        "given": "D."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxMLVersion 8: A tool for phylogenetic analysis and post-analysis of large phylogenies",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2014",
+    "page": "1312–1131",
+    "URL": "https://doi.org/10.1093/bioinformatics/btu033",
+    "DOI": "10.1093/bioinformatics/btu033"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "https://doi.org/10.1128/jb.172.8.4238-4246.1990",
+    "DOI": "10.1128/jb.172.8.4238-4246.1990"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallroth",
+        "given": "C.F.W."
+      }
+    ],
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Flora Cryptogamica Germaniae",
+    "issued": "1833",
+    "page": "1–923"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "USA",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  }
+]

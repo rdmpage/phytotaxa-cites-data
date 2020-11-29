@@ -1,0 +1,938 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J."
+      }
+    ],
+    "title": "Histoire des plantes de la Guiane françoise",
+    "volume": "1",
+    "editor": [
+      {
+        "family": "Didot",
+        "given": "P.F."
+      },
+      {
+        "given": "Paris"
+      }
+    ],
+    "type": null,
+    "issued": "1775",
+    "page": "621",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.674",
+    "DOI": "10.5962/bhl.title.674"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Notes on Tiliaceae",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Journal of the Proceedings of the Linnean Society: botany",
+    "issue": "suppl. 2",
+    "issued": "1861",
+    "page": "52–74"
+  },
+  {
+    "author": [
+      {
+        "family": "Boeira",
+        "given": "A.S.P."
+      },
+      {
+        "family": "Vicentini",
+        "given": "A."
+      },
+      {
+        "family": "Ribeiro",
+        "given": "J.E.L.S."
+      }
+    ],
+    "title": "Three new species of Sloanea (Elaeocarpaceae) from de Central Amazon, Brazil",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Brazilian Journal of Botany",
+    "issue": "1",
+    "issued": "2012",
+    "page": "119–123",
+    "URL": "http://dx.doi.org/10.1590/S1806-99592012000100012",
+    "DOI": "10.1590/S1806-99592012000100012"
+  },
+  {
+    "author": [
+      {
+        "family": "Brummit",
+        "given": "R.K."
+      },
+      {
+        "family": "Powell",
+        "given": "C.E."
+      }
+    ],
+    "title": "Authors of plant names",
+    "volume": "Kew",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens",
+    "issued": "1992",
+    "page": "547"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "2",
+    "publisher": "Treuttel et Wurtz",
+    "type": "book",
+    "issued": "1825",
+    "page": "644",
+    "publisher-place": "Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Coode",
+        "given": "M.J.E."
+      }
+    ],
+    "title": "A conspectus of Sloanea (Elaeocarpaceae) in the Old World",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "3",
+    "issued": "1983",
+    "page": "347–427",
+    "URL": "http://dx.doi.org/10.2307/4107835",
+    "DOI": "10.2307/4107835"
+  },
+  {
+    "author": [
+      {
+        "family": "Donnell Smith",
+        "given": "J."
+      }
+    ],
+    "title": "Undescribed plants from Guatemala and other Central America Republics XXXVIII",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Botanical Gazette",
+    "issue": "5",
+    "issued": "1914",
+    "page": "415–427",
+    "URL": "http://dx.doi.org/10.1086/331328",
+    "DOI": "10.1086/331328"
+  },
+  {
+    "author": [
+      {
+        "family": "Ducke",
+        "given": "A."
+      }
+    ],
+    "title": "Plantes nouvelles ou connues de la Region Amazonienne. Arquivos do Instituto de Biologia Vegetal",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Rio de Janeiro",
+    "issue": "2",
+    "issued": "1935",
+    "page": "158–168"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "G."
+      }
+    ],
+    "title": "Contributions towards a Flora of Brazil",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Part. II. Plants from the organ Mountains. London Journal of Botany",
+    "issued": "1843",
+    "page": "334–355"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoehne",
+        "given": "F.C."
+      }
+    ],
+    "title": "Uma nova Elaeocarpaceae de São Paulo",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Arquivos de Botânica do Estado São Paulo",
+    "issued": "1942",
+    "page": "92–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "New or Rare Plants",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Icones Plantarum",
+    "issued": "1844",
+    "page": "693–696"
+  },
+  {
+    "author": [
+      {
+        "family": "Keller",
+        "given": "H.A."
+      },
+      {
+        "family": "Sampaio",
+        "given": "D."
+      },
+      {
+        "family": "Tressens",
+        "given": "S.G."
+      }
+    ],
+    "title": "Primer registro de Sloanea (Elaeocarpaceae) para la Argentina",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Darwiniana",
+    "issue": "1",
+    "issued": "2012",
+    "page": "157–161"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "type": null,
+    "issued": "1753",
+    "page": "560",
+    "publisher-place": "Laurentius Salvius, Stockholm",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "MacVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Botanical Results of Sessé & Mocino expedition",
+    "publisher": "Hunt Institute for botanical documentation, Pittsburgh",
+    "type": "book",
+    "issued": "2000",
+    "page": "626"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "title": "Herbarium Florae brasiliensis",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Flora Beiblatter",
+    "issue": "2",
+    "issued": "1837",
+    "page": "1–128"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Nicolson",
+        "given": "D.H."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Silva",
+        "given": "P.C."
+      },
+      {
+        "family": "Skog",
+        "given": "J.E."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      }
+    ],
+    "title": "Código Internacional de Nomenclatura para Algas, Fungos e Plantas (Código de Melbourne",
+    "volume": "154",
+    "type": "article-journal",
+    "container-title": "Regnum Vegetabile",
+    "issued": "2012",
+    "page": "208"
+  },
+  {
+    "author": [
+      {
+        "family": "Moricand",
+        "given": "M.E."
+      }
+    ],
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Plantes Nouvelles d’Amérique",
+    "issued": "1840",
+    "page": "83–84",
+    "publisher-place": "Geneva"
+  },
+  {
+    "author": [
+      {
+        "family": "Palacios-Duque",
+        "given": "L."
+      }
+    ],
+    "title": "Dos nuevas especies de Sloanea (Elaeocarpaceae) Del Chocó, Colombia",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Caldasia",
+    "issued": "2004",
+    "page": "429–432"
+  },
+  {
+    "author": [
+      {
+        "family": "Palacios-Duque",
+        "given": "L."
+      },
+      {
+        "family": "Fernándes-Alonso",
+        "given": "J.L."
+      }
+    ],
+    "title": "Uma nueva e interesante especie de Sloanea (Elaeocarpaceae) del Pacifico Colombiano",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Revista de la Academia Colombiana de Ciencias Exactas Físicas e Naturales",
+    "issue": "111",
+    "issued": "2005",
+    "page": "179–182"
+  },
+  {
+    "author": [
+      {
+        "family": "Palacios-Duque",
+        "given": "L."
+      }
+    ],
+    "title": "Sloanea pacuritana Pal.- Duque sp. nov. (Elaeocarpaceae) del Chocó (Colombia",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Anales del Jardím Botánico de Madrid",
+    "issue": "2",
+    "issued": "2005",
+    "page": "191–193",
+    "URL": "http://dx.doi.org/10.3989/ajbm.2005.v62.i2.23",
+    "DOI": "10.3989/ajbm.2005.v62.i2.23"
+  },
+  {
+    "author": [
+      {
+        "family": "Palacios-Duque",
+        "given": "L."
+      }
+    ],
+    "title": "Sloanea esmeraldana Pal.-Duque sp. nov",
+    "note": "Elaeocarpaceae), del Chocó (Colombia). Anales del Jardím Botánico de Madrid 64",
+    "volume": "1",
+    "type": null,
+    "issued": "2007",
+    "page": "103–105",
+    "URL": "http://dx.doi.org/10.3989/ajbm.2007.v64.i1.254",
+    "DOI": "10.3989/ajbm.2007.v64.i1.254"
+  },
+  {
+    "author": [
+      {
+        "family": "Poeppig",
+        "given": "E."
+      },
+      {
+        "family": "Endlicher",
+        "given": "S.L."
+      }
+    ],
+    "title": "Nova Genera ac Species Plantarum",
+    "volume": "3",
+    "editor": [
+      {
+        "family": "Hofmeister",
+        "given": "F."
+      },
+      {
+        "given": "Leipzig"
+      }
+    ],
+    "type": null,
+    "issued": "1845",
+    "page": "91",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.453",
+    "DOI": "10.5962/bhl.title.453"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C.B.S."
+      }
+    ],
+    "volume": "1. Prague",
+    "type": "article-journal",
+    "container-title": "Symbolae Botanicae",
+    "issued": "1832",
+    "page": "76",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.12413",
+    "DOI": "10.5962/bhl.title.12413"
+  },
+  {
+    "author": [
+      {
+        "family": "Pulle",
+        "given": "A.A."
+      }
+    ],
+    "title": "Elaeocarpaceae. In: An Enumeration of the Vascular Plants Known from Surinam",
+    "publisher": "E.J. Brill",
+    "type": "book",
+    "issued": "1906",
+    "page": "279–280",
+    "publisher-place": "Leiden",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.44906",
+    "DOI": "10.5962/bhl.title.44906"
+  },
+  {
+    "author": [
+      {
+        "family": "Radlkofer",
+        "given": "L.A.T."
+      }
+    ],
+    "title": "Sitzungsberichte der Mathematisch-Physikalischen Classe (Klasse) der K",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "B. Akademie der Wissenschaften zu München",
+    "issued": "1882",
+    "page": "328–331"
+  },
+  {
+    "author": [
+      {
+        "family": "Rusby",
+        "given": "H.H."
+      }
+    ],
+    "title": "Descriptions of new genera and species of plants collected on the Mulford Biological Exploration of the Amazon Valley",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Memoirs of The New York Botanical Garden",
+    "issued": "1927",
+    "page": "294–295"
+  },
+  {
+    "author": [
+      {
+        "family": "Sampaio",
+        "given": "D."
+      }
+    ],
+    "title": "Revisão taxonômica das espécies neotropicais extra–amazônicas de Sloanea L",
+    "container-title": "Elaeocarpaceae) na América do Sul. Tese de doutorado, Universidade Estadual de Campinas, Instituto de Biologia",
+    "publisher": "SP",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "169",
+    "publisher-place": "Campinas"
+  },
+  {
+    "author": [
+      {
+        "family": "Sampaio",
+        "given": "D."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "New species of Sloanea (Elaeocarpaceae) from the Brazilian Cerrado",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Rodriguesia",
+    "issue": "1",
+    "issued": "2010",
+    "page": "13–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Sampaio",
+        "given": "D."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Two new species of Sloanea (Elaeocarpaceae) from the Brazilian Atlantic Forest",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2011",
+    "page": "511–515",
+    "URL": "http://dx.doi.org/10.1007/s12225-012-9322-3",
+    "DOI": "10.1007/s12225-012-9322-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Sampaio",
+        "given": "D."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Three new species of Sloanea (Elaeocarpaceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2011",
+    "page": "45–51"
+  },
+  {
+    "author": [
+      {
+        "family": "Seemann",
+        "given": "B.C."
+      }
+    ],
+    "title": "The Botany of the Voyage of H.M.S",
+    "publisher": "Herald. Lovell Reeve",
+    "type": "book",
+    "issued": "1853",
+    "page": "484",
+    "publisher-place": "London",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.425",
+    "DOI": "10.5962/bhl.title.425"
+  },
+  {
+    "author": [
+      {
+        "family": "Schott",
+        "given": "H."
+      }
+    ],
+    "title": "Dasynema",
+    "editor": [
+      {
+        "family": "Sprengel",
+        "given": "K.P."
+      }
+    ],
+    "container-title": "Systema Vegetabilium",
+    "volume": "4",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1827",
+    "page": "408–410",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.822",
+    "DOI": "10.5962/bhl.title.822"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K.M."
+      }
+    ],
+    "title": "Tiliaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      },
+      {
+        "family": "Oldenbourg",
+        "given": "R."
+      },
+      {
+        "given": "Munich"
+      },
+      {
+        "given": "Leipzig"
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "12",
+    "issue": "3",
+    "type": "article-journal",
+    "issued": "1886",
+    "page": "117–200",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.454",
+    "DOI": "10.5962/bhl.title.454"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.C."
+      }
+    ],
+    "title": "Elaeocarpaceae",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1934",
+    "page": "194–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "C.E."
+      },
+      {
+        "family": "Smith",
+        "given": "L.B."
+      }
+    ],
+    "title": "Elaeocarpaceae",
+    "editor": [
+      {
+        "family": "Reitz",
+        "given": "P.R.Flora Ilustrada Catarinense Parte I.Itajaí"
+      }
+    ],
+    "type": null,
+    "issued": "1970",
+    "page": "1–33",
+    "publisher-place": "Santa Catarina"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "C.E."
+      }
+    ],
+    "title": "Elaeocarpaceae",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Acta Botânica Venezuelica",
+    "issued": "1967",
+    "page": "244–246"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "C.E."
+      }
+    ],
+    "title": "Elaeocarpaceae",
+    "editor": [
+      {
+        "family": "Woodson",
+        "given": "R.E."
+      },
+      {
+        "family": "Schery",
+        "given": "R.W."
+      }
+    ],
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issue": "4",
+    "issued": "1965",
+    "page": "487–495",
+    "URL": "http://dx.doi.org/10.2307/2394991",
+    "DOI": "10.2307/2394991"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "C.E."
+      }
+    ],
+    "title": "The new world species of Sloanea (Elaeocarpaceae",
+    "volume": "175",
+    "type": "article-journal",
+    "container-title": "Contributions from the Gray Herbarium of Harvard University",
+    "issued": "1954",
+    "page": "1–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "D.A."
+      }
+    ],
+    "title": "Three previously undescribed Central American species of Sloanea (Elaeocarpaceae",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "1996",
+    "page": "120–127",
+    "URL": "http://dx.doi.org/10.2307/3392224",
+    "DOI": "10.2307/3392224"
+  },
+  {
+    "author": [
+      {
+        "family": "Splitgerber",
+        "given": "F.L."
+      }
+    ],
+    "title": "Plantis novis Surinamensibus",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Tijdschrift voor Natuurlijke Geschiedenis en Physiologie",
+    "issued": "1842",
+    "page": "95–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "volume": "1. 2nd",
+    "editor": [
+      {
+        "family": "Bohn",
+        "particle": "ed."
+      },
+      {
+        "given": "Scheltema"
+      },
+      {
+        "given": "Holkema"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Taxonomic Literature",
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Utrecht",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.48631",
+    "DOI": "10.5962/bhl.title.48631"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "volume": "6. 2nd",
+    "editor": [
+      {
+        "family": "Bohn",
+        "particle": "ed."
+      },
+      {
+        "given": "Scheltema"
+      },
+      {
+        "family": "Holkema",
+        "given": "Utrecht"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Taxonomic Literature",
+    "issued": "1986",
+    "page": "926",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.48631",
+    "DOI": "10.5962/bhl.title.48631"
+  },
+  {
+    "author": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      }
+    ],
+    "title": "The status of the genus Lecostemon",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Tropical Woods",
+    "issued": "1944",
+    "page": "9–10"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Botanical Exploration in Venezuela- II",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Fieldiana. Botany",
+    "issued": "1952",
+    "page": "357–363",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.2422",
+    "DOI": "10.5962/bhl.title.2422"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Flora of the Venezuelan Guayana-VI",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1988",
+    "page": "1565–1586",
+    "URL": "http://dx.doi.org/10.2307/2399301",
+    "DOI": "10.2307/2399301"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Novedades venezolanas del genero Sloanea",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Pittieria",
+    "issued": "1978",
+    "page": "13–16"
+  },
+  {
+    "author": [
+      {
+        "family": "Turczaninov",
+        "given": "N.S."
+      }
+    ],
+    "title": "Bulletin de la Société Impériale des Naturalistes de Moscou 31 (1",
+    "volume": "Moscou",
+    "type": "article-journal",
+    "container-title": "Imprimerie de l’Université Impériale",
+    "issued": "1858",
+    "page": "673"
+  },
+  {
+    "author": [
+      {
+        "family": "Uittien",
+        "given": "H."
+      }
+    ],
+    "title": "Elaeocarpaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Recueil des Travaux Botaniques Néerlandais",
+    "issue": "3",
+    "issued": "1925",
+    "page": "350–359"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M.da C."
+      }
+    ],
+    "title": "Florae Fluminensis",
+    "genre": "Typographia nationali,",
+    "publisher": "Rio de Janeiro",
+    "type": null,
+    "issued": "1829",
+    "page": "352",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.745",
+    "DOI": "10.5962/bhl.title.745"
+  },
+  {
+    "author": [
+      {
+        "family": "Walpers",
+        "given": "W.G."
+      }
+    ],
+    "title": "Repertorium Botanices Systematicae",
+    "volume": "1",
+    "publisher": "F. Hofmeister, Leipzig",
+    "issue": "2",
+    "type": "book",
+    "issued": "1842",
+    "page": "966",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.7553",
+    "DOI": "10.5962/bhl.title.7553"
+  }
+]

@@ -1,0 +1,818 @@
+[
+  {
+    "author": [
+      {
+        "family": "Benson",
+        "given": "D.A."
+      },
+      {
+        "family": "Cavanaugh",
+        "given": "M."
+      },
+      {
+        "family": "Clark",
+        "given": "K."
+      },
+      {
+        "family": "Karsch-Mizrachi",
+        "given": "I."
+      },
+      {
+        "family": "Lipman",
+        "given": "D.J."
+      },
+      {
+        "family": "Ostell",
+        "given": "J."
+      },
+      {
+        "family": "Sayers",
+        "given": "E.W."
+      }
+    ],
+    "title": "GenBank",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic acids research",
+    "issued": "2013",
+    "page": "36–42",
+    "URL": "http://dx.doi.org/10.1093/nar/gks1195",
+    "DOI": "10.1093/nar/gks1195"
+  },
+  {
+    "author": [
+      {
+        "family": "Castresana",
+        "given": "J."
+      }
+    ],
+    "title": "Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Molecular biology and evolution",
+    "issued": "2000",
+    "page": "540–552",
+    "URL": "http://dx.doi.org/10.1093/oxfordjournals.molbev.a026334",
+    "DOI": "10.1093/oxfordjournals.molbev.a026334"
+  },
+  {
+    "author": [
+      {
+        "family": "Fungorum",
+        "given": "Index"
+      }
+    ],
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.indexFungorum.org/names"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Fortin",
+        "given": "J."
+      },
+      {
+        "family": "Mueller",
+        "given": "G."
+      },
+      {
+        "family": "Kropp",
+        "given": "B."
+      }
+    ],
+    "title": "Restriction fragment length polymorphisms in the nuclear ribosomal DNA of four Laccaria spp",
+    "editor": [
+      {
+        "family": "bicolor",
+        "given": "L."
+      },
+      {
+        "family": "laccata",
+        "given": "L."
+      },
+      {
+        "family": "proxima.",
+        "given": "L."
+      },
+      {
+        "given": "L."
+      }
+    ],
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Phytopathology",
+    "issued": "1990",
+    "page": "1312–1317",
+    "URL": "http://dx.doi.org/10.1094/Phyto-80-1312",
+    "DOI": "10.1094/Phyto-80-1312"
+  },
+  {
+    "author": [
+      {
+        "family": "Giachini",
+        "given": "A.J."
+      },
+      {
+        "family": "Souza",
+        "given": "L.A.B."
+      },
+      {
+        "family": "Oliveira",
+        "given": "V.L."
+      }
+    ],
+    "title": "Species richness and seasonal abundance of ectomycorrhizal fungi in plantations of Eucalyptus dunnii and Pinus taeda in southern Brazil",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Mycorrhiza",
+    "issued": "2004",
+    "page": "375–381",
+    "URL": "http://dx.doi.org/10.1007/s00572-004-0297-2",
+    "DOI": "10.1007/s00572-004-0297-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Guo",
+        "given": "J."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Mortimer",
+        "given": "P.E."
+      },
+      {
+        "family": "Xu",
+        "given": "J."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Phylogenetic diversity of Russula from Xiaozhongdian, Yunnan, China, inferred from Internal transcribed spacer sequence data",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Chiang Mai Journal",
+    "issued": "2014",
+    "page": "001–011"
+  },
+  {
+    "author": [
+      {
+        "family": "Jayasiri",
+        "given": "S.C."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Bhat",
+        "given": "J."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Cai",
+        "given": "L."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Abd-Elsalam",
+        "given": "K.A."
+      },
+      {
+        "family": "Ertz",
+        "given": "D."
+      },
+      {
+        "family": "Hidayat",
+        "given": "I."
+      }
+    ],
+    "title": "The faces of fungi database: fungal names linked with morphology, phylogeny and human impacts",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "3–18",
+    "URL": "http://dx.doi.org/10.1007/s13225-015-0351-8",
+    "DOI": "10.1007/s13225-015-0351-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular biology and evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "http://dx.doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J."
+      }
+    ],
+    "title": "Methuen handbook of colour",
+    "edition": "3rd edn",
+    "publisher": "Eyre Methuen",
+    "type": "book",
+    "issued": "1978",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Largent",
+        "given": "D.L."
+      },
+      {
+        "family": "Thiers",
+        "given": "H.D."
+      }
+    ],
+    "title": "How to identify mushrooms to genus II: field identification of genera",
+    "type": "article-journal",
+    "container-title": "Mad River Press. Eureka",
+    "issued": "1977",
+    "page": "1–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "H."
+      },
+      {
+        "family": "Mortimer",
+        "given": "E.E."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Xu",
+        "given": "J."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "New species of Phallus from a subtropical forest in Xishuangbanna, China",
+    "volume": "163",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2014",
+    "page": "91–103",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.163.2.3",
+    "DOI": "10.11646/phytotaxa.163.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Lodge",
+        "given": "D.J."
+      },
+      {
+        "family": "Ammirati",
+        "given": "J.F."
+      },
+      {
+        "family": "O’Dell",
+        "given": "T.E."
+      },
+      {
+        "family": "Mueller",
+        "given": "G.M."
+      }
+    ],
+    "title": "Collecting and describing macrofungi. Biodiversity of fungi: inventory and monitoring methods",
+    "publisher": "Elsevier Academic",
+    "type": "book",
+    "issued": "2004",
+    "page": "128–158",
+    "publisher-place": "San Diego, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Montoya",
+        "given": "L."
+      },
+      {
+        "family": "Bandala",
+        "given": "V.M."
+      },
+      {
+        "family": "Baroni",
+        "given": "T.J."
+      },
+      {
+        "family": "Horton",
+        "given": "T.R."
+      }
+    ],
+    "title": "A new species of Laccaria in montane cloud forest from eastern Mexico",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2015",
+    "page": "597–605",
+    "URL": "http://dx.doi.org/10.1016/j.myc.2015.06.002",
+    "DOI": "10.1016/j.myc.2015.06.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Mueller",
+        "given": "G.M."
+      }
+    ],
+    "title": "Laccaria laccata complex in North America and Sweden: intercollection pairing and morphometric analyses",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1991",
+    "page": "578–594",
+    "URL": "http://dx.doi.org/10.2307/3760213",
+    "DOI": "10.2307/3760213"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J."
+      }
+    ],
+    "title": "MrModeltest 2.2. Computer software distributed by the University of Uppsala",
+    "type": null,
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Osmundson",
+        "given": "T.W."
+      },
+      {
+        "family": "Cripps",
+        "given": "C.L."
+      },
+      {
+        "family": "Mueller",
+        "given": "G.M."
+      }
+    ],
+    "title": "Morphological and molecular systematics of Rocky Mountain alpine Laccaria",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2005",
+    "page": "949–972",
+    "URL": "http://dx.doi.org/10.3852/mycologia.97.5.949",
+    "DOI": "10.3852/mycologia.97.5.949"
+  },
+  {
+    "author": [
+      {
+        "family": "Popa",
+        "given": "F."
+      },
+      {
+        "family": "Jimenéz",
+        "given": "S.Y.C."
+      },
+      {
+        "family": "Weisenborn",
+        "given": "J."
+      },
+      {
+        "family": "Donges",
+        "given": "K."
+      },
+      {
+        "family": "Rexer",
+        "given": "K.H."
+      },
+      {
+        "family": "Piepenbring",
+        "given": "M."
+      }
+    ],
+    "title": "A new Laccaria species from cloud forest of Fortuna, Panama",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2016",
+    "page": "1–8",
+    "URL": "http://dx.doi.org/10.1007/s11557-015-1139-7",
+    "DOI": "10.1007/s11557-015-1139-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Popa",
+        "given": "F."
+      },
+      {
+        "family": "Rexer",
+        "given": "K.H."
+      },
+      {
+        "family": "Donges",
+        "given": "K."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Kost",
+        "given": "G."
+      }
+    ],
+    "title": "Three new Laccaria species from Southwest China (Yunnan",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2014",
+    "page": "1105–1117",
+    "URL": "http://dx.doi.org/10.1007/s11557-014-0998-7",
+    "DOI": "10.1007/s11557-014-0998-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Robert",
+        "given": "V."
+      },
+      {
+        "family": "Stegehuis",
+        "given": "G."
+      },
+      {
+        "family": "Stalpers",
+        "given": "D."
+      }
+    ],
+    "title": "The MycoBank engine and related databases",
+    "note": "Available from: mycobank.org (accessed 11 January 2016",
+    "type": null,
+    "issued": "2014"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Sheedy",
+        "given": "E.M."
+      },
+      {
+        "family": "Wouw",
+        "given": "A.P.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Howlett",
+        "given": "B.J."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      }
+    ],
+    "title": "Multigene sequence data reveal morphologically cryptic phylogenetic species within the genus Laccaria in southern Australia",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2013",
+    "page": "547–563",
+    "URL": "http://dx.doi.org/10.3852/12-266",
+    "DOI": "10.3852/12-266"
+  },
+  {
+    "author": [
+      {
+        "family": "Sheedy",
+        "given": "E.M."
+      },
+      {
+        "family": "Wouw",
+        "given": "A.P.",
+        "particle": "van de"
+      },
+      {
+        "family": "Howlett",
+        "given": "B.J."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      }
+    ],
+    "title": "Population genetic structure of the ectomycorrhizal fungus Laccaria sp A resembles that of its host tree Nothofagus cunninghamii",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Fungal Ecology",
+    "issued": "2015",
+    "page": "23–32",
+    "URL": "http://dx.doi.org/10.1016/j.funeco.2014.08.005",
+    "DOI": "10.1016/j.funeco.2014.08.005"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamataki",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Rougemont",
+        "given": "J."
+      }
+    ],
+    "title": "A rapid bootstrap algorithm for the RAxML web servers",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2008",
+    "page": "758–771",
+    "URL": "http://dx.doi.org/10.1080/10635150802429642",
+    "DOI": "10.1080/10635150802429642"
+  },
+  {
+    "author": [
+      {
+        "family": "Wadud",
+        "given": "M.A."
+      },
+      {
+        "family": "Nara",
+        "given": "K."
+      },
+      {
+        "family": "Lian",
+        "given": "C.L."
+      },
+      {
+        "family": "Ishida",
+        "given": "T.A."
+      },
+      {
+        "family": "Hogetsu",
+        "given": "T."
+      }
+    ],
+    "title": "Genet dynamics and ecological functions of the pioneer ectomycorrhizal fungi Laccaria amethystina and Laccaria laccata in a volcanic desert on Mount Fuji",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Mycorrhiza",
+    "issued": "2014",
+    "page": "551–563",
+    "URL": "http://dx.doi.org/10.1007/s00572-014-0571-x",
+    "DOI": "10.1007/s00572-014-0571-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "L."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Liu",
+        "given": "J.H."
+      }
+    ],
+    "title": "Two new species of Laccaria (Basidiomycetes) from China",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "2004",
+    "page": "511–517",
+    "URL": "http://dx.doi.org/10.1127/0029-5035/2004/0079-0511",
+    "DOI": "10.1127/0029-5035/2004/0079-0511"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "A.W."
+      },
+      {
+        "family": "Hosaka",
+        "given": "K."
+      },
+      {
+        "family": "Perry",
+        "given": "B.A."
+      },
+      {
+        "family": "Mueller",
+        "given": "G.M."
+      }
+    ],
+    "title": "Laccaria (Agaricomycetes, Basidiomycota) from Tibet (Xizang Autonomous Region, China",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2013",
+    "page": "406–419",
+    "URL": "http://dx.doi.org/10.1016/j.myc.2013.01.006",
+    "DOI": "10.1016/j.myc.2013.01.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "J.C."
+      },
+      {
+        "family": "Lebel",
+        "given": "L."
+      },
+      {
+        "family": "Sturgeon",
+        "given": "J."
+      }
+    ],
+    "title": "Functional links between biodiversity, livelihoods and culture in a Hani Swidden Landscape in southwest China",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Ecology and Society",
+    "issued": "2009",
+    "page": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "Ye",
+        "given": "L."
+      },
+      {
+        "family": "Mortimer",
+        "given": "P.E."
+      },
+      {
+        "family": "J.",
+        "given": "Xu"
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "The genus phylloporus (Boletaceae, Boletales), from Mekong River Basin (Yunnan Province, China",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Chiang Mai Journal of Science",
+    "issued": "2014",
+    "page": "798–810"
+  },
+  {
+    "citation-number": "style='font-size:12.0pt;font-family:\"Times",
+    "title": "New Roman\",\"serif\"'><span",
+    "type": null
+  },
+  {
+    "type": null,
+    "URL": "mso-element:field-end'"
+  }
+]

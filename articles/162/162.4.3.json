@@ -1,0 +1,151 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bremer",
+        "given": "K."
+      }
+    ],
+    "title": "Asteraceae: Cladistics & Classification",
+    "publisher": "Timber Press, Portland",
+    "type": "book",
+    "issued": "1994",
+    "page": "752"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis 5",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1836",
+    "page": "706"
+  },
+  {
+    "author": [
+      {
+        "family": "Dusén",
+        "given": "P.K.H."
+      }
+    ],
+    "title": "Sur la flore de la Serra do Itatiaya au Brésil",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Archivos do Museu Nacional do Rio de Janeiro",
+    "issued": "1905",
+    "page": "1 – 119",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.5392",
+    "DOI": "10.5962/bhl.title.5392"
+  },
+  {
+    "author": [
+      {
+        "family": "Heiden",
+        "given": "G."
+      },
+      {
+        "family": "Schneider",
+        "given": "A.A."
+      }
+    ],
+    "title": "Baccharis",
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": "chapter",
+    "issued": "2013",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB5151"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List Categories and Criteria. Version 9. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "J."
+      }
+    ],
+    "title": "Systematics of Baccharis (Compositae–Astereae) in Bolivia, including an overview of the genus",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Systematic Botany Monographs",
+    "issued": "2006",
+    "page": "1–341"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "J."
+      }
+    ],
+    "title": "World checklist of Baccharis L",
+    "note": "Compositae–Astereae). Available from:",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://www.spezbot.uni-jena.de/wp-content/uploads/2013/09/World-checklist-of-Baccharis-L..pdf."
+  },
+  {
+    "author": [
+      {
+        "family": "Safford",
+        "given": "H.D."
+      }
+    ],
+    "title": "Brazilian páramos I. An introduction to the physical environment and vegetation of the campos de altitude",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "1999",
+    "page": "693–712",
+    "URL": "http://dx.doi.org/10.1046/j.1365-2699.1999.00313.x",
+    "DOI": "10.1046/j.1365-2699.1999.00313.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Safford",
+        "given": "H.D."
+      }
+    ],
+    "title": "Brazilian páramos II. Macro- and mesoclimate of the campos de altitude and affinities with high mountain climates of the tropical Andes and Costa Rica",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "1999",
+    "page": "713–73",
+    "URL": "http://dx.doi.org/10.1046/j.1365-2699.1999.00312.x",
+    "DOI": "10.1046/j.1365-2699.1999.00312.x"
+  }
+]

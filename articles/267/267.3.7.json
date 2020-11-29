@@ -1,0 +1,162 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cheo",
+        "given": "T.Y."
+      }
+    ],
+    "title": "Cardamine Linn",
+    "editor": [
+      {
+        "family": "Cheo",
+        "given": "T.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1987",
+    "page": "184–241",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Plantas Yunnanensis",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1886",
+    "page": "358–467",
+    "URL": "http://dx.doi.org/10.1080/00378941.1886.10828470",
+    "DOI": "10.1080/00378941.1886.10828470"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooler",
+        "given": "J.D."
+      },
+      {
+        "family": "Thomson",
+        "given": "T."
+      }
+    ],
+    "title": "Praecursores ad Floram Indicam",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Journal of the Proceedings of the Linnean Society, Botany",
+    "issued": "1861",
+    "page": "128–181",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8312.1861.tb01344.x",
+    "DOI": "10.1111/j.1095-8312.1861.tb01344.x"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1. Prepared by the IUCN Species Survival Commission",
+    "publisher": "IUCN",
+    "note": "and Cambridge, United Kingdom. Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria/2001-categories-criteria"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 2",
+    "publisher": "Laurentius Salvius",
+    "type": "book",
+    "issued": "1753",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "X.Q."
+      }
+    ],
+    "title": "Cardamine Linn",
+    "editor": [
+      {
+        "family": "Fu",
+        "given": "L.K."
+      },
+      {
+        "family": "Chen",
+        "given": "T.Q."
+      },
+      {
+        "family": "Lang",
+        "given": "K.Y."
+      },
+      {
+        "family": "Hong",
+        "given": "T."
+      },
+      {
+        "family": "Lin",
+        "given": "Q."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      }
+    ],
+    "container-title": "Higher Plants of China 5",
+    "publisher": "Qingdao Publishing House",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "451–462",
+    "publisher-place": "Qingdao"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "T.Y."
+      },
+      {
+        "family": "Lu",
+        "given": "L.L."
+      },
+      {
+        "family": "Yang",
+        "given": "G."
+      },
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      }
+    ],
+    "title": "Brassicaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2001",
+    "page": "1–193",
+    "publisher-place": "Beijing"
+  }
+]

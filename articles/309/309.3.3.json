@@ -1,0 +1,768 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aitchison",
+        "given": "J.E.T."
+      }
+    ],
+    "title": "Flora of the Jhelum District of the Punjab",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1865",
+    "page": "55–75",
+    "URL": "https://doi.org/10.1111/j.1095-8312.1864.tb01072.x",
+    "DOI": "10.1111/j.1095-8312.1864.tb01072.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhandari",
+        "given": "M.M."
+      },
+      {
+        "family": "Bhansali",
+        "given": "A.K."
+      }
+    ],
+    "title": "Sageretia Brongn",
+    "editor": [
+      {
+        "family": "Singh",
+        "given": "N.P."
+      },
+      {
+        "family": "Vohr",
+        "given": "J.N."
+      },
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      },
+      {
+        "family": "Singh",
+        "given": "D.K."
+      }
+    ],
+    "container-title": "Flora of India. Botanical Survey of India, Calcutta",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "197–206"
+  },
+  {
+    "author": [
+      {
+        "family": "Brongniart",
+        "given": "A.de"
+      }
+    ],
+    "title": "Mémoire sur la famille des Rhamnées, ou historie naturelle et médicale des genres qui composent ce groupe de plantes",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Didot le Jeune",
+    "issue": "",
+    "issued": "1826",
+    "page": "78"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Chou",
+        "given": "P.K."
+      }
+    ],
+    "title": "Materiae ad floram Rhamnacearum sinicarum",
+    "volume": "5",
+    "note": "in Chinese",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Laboratory of North-East Forest Institute",
+    "issued": "1979",
+    "page": "73–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Schirarend",
+        "given": "C."
+      }
+    ],
+    "title": "Sageretia Brongn",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "12",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "115–133",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "J.R."
+      },
+      {
+        "family": "Sprague",
+        "given": "T.A."
+      }
+    ],
+    "title": "Rhamnaceae. In: III.—Decades kewenses, plantarum novarum in herbario horti regii conservatarum. Decades XLV–XLVI",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1908",
+    "page": "14–16",
+    "URL": "http://doi.org/10.2307/4114866",
+    "DOI": "10.2307/4114866"
+  },
+  {
+    "author": [
+      {
+        "family": "Fan",
+        "given": "G.S."
+      }
+    ],
+    "title": "Rhamnaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "container-title": "Flora Yunnanica",
+    "volume": "12",
+    "publisher": "Science Press",
+    "note": "in Chinese",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "680–749",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Fan",
+        "given": "G.S."
+      },
+      {
+        "family": "S.K",
+        "given": "Chen"
+      }
+    ],
+    "title": "Two new species of the genus Sageretia from Yunnan",
+    "volume": "19",
+    "note": "in Chinese",
+    "type": "article-journal",
+    "container-title": "Acta Botanical Yunnanica",
+    "issue": "1",
+    "issued": "1997",
+    "page": "37–39"
+  },
+  {
+    "author": [
+      {
+        "family": "Farris",
+        "given": "J.S."
+      },
+      {
+        "family": "Källersjö",
+        "given": "M."
+      },
+      {
+        "family": "Kluge",
+        "given": "A.G."
+      },
+      {
+        "family": "Bult",
+        "given": "C."
+      }
+    ],
+    "title": "Testing significance of incongruence",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "1995",
+    "page": "315–319",
+    "URL": "https://doi.org/10.1111/j.1096-0031.1994.tb00181.x",
+    "DOI": "10.1111/j.1096-0031.1994.tb00181.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Gao",
+        "given": "C.Z."
+      }
+    ],
+    "title": "Materiae ad floram Rhamnacearum guangxiensis",
+    "volume": "3",
+    "note": "in Chinese",
+    "type": "article-journal",
+    "container-title": "Guihaia",
+    "issue": "4",
+    "issued": "1983",
+    "page": "313–316"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hance",
+        "given": "H.F."
+      }
+    ],
+    "title": "Spicilegia florae sinensis: diagnoses of new, and habitats of rare or hitherto unrecorded, Chinese plants",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Journal of Botany, British and Foreign",
+    "issued": "1878",
+    "page": "6–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Hauenschild",
+        "given": "F."
+      },
+      {
+        "family": "Matuszak",
+        "given": "S."
+      },
+      {
+        "family": "Muellner-Riehl",
+        "given": "A.N."
+      },
+      {
+        "family": "Favre",
+        "given": "A."
+      }
+    ],
+    "title": "Phylogenetic relationships within the cosmopolitan buckthorn family (Rhamnaceae) support the resurrection of Sarcomphalus and the description of Pseudoziziphus gen. nov",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "1",
+    "issued": "2016",
+    "page": "47–64",
+    "URL": "http://doi.org/10.12705/651.4",
+    "DOI": "10.12705/651.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Rhamnaceae",
+    "editor": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "Genera Plantarum",
+    "volume": "1",
+    "publisher": "A. Black",
+    "type": "chapter",
+    "issued": "1862",
+    "page": "371–386",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Islam",
+        "given": "M.B."
+      },
+      {
+        "family": "Guralnick",
+        "given": "R.P."
+      }
+    ],
+    "title": "Generic placement of the former Condaliopsis (Rhamnaceae) species",
+    "volume": "236",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "25–39",
+    "URL": "http://doi.org/10.11646/phytotaxa.236.1.2",
+    "DOI": "10.11646/phytotaxa.236.1.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnston",
+        "given": "M.C."
+      }
+    ],
+    "title": "Botanical name of the tea Sageretia of China",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1968",
+    "page": "377–379"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s plant-book: a portable dictionary of plants, their classification and uses",
+    "edition": "3rd",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": null,
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Plantae chinenses",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Trudy Imperatorskago S.-Peterburgskago Botaničeskago Sada",
+    "issued": "1890",
+    "page": "1–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Onstein",
+        "given": "R.E."
+      },
+      {
+        "family": "Carter",
+        "given": "R.J."
+      },
+      {
+        "family": "Xing",
+        "given": "Y.W."
+      },
+      {
+        "family": "Richardson",
+        "given": "J.E."
+      },
+      {
+        "family": "Linder",
+        "given": "H.P."
+      }
+    ],
+    "title": "Do mediterranean-type ecosystems have a common history?—insights from the buckthorn family (Rhamnaceae",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issue": "3",
+    "issued": "2015",
+    "page": "756–771",
+    "URL": "http://doi.org/10.1111/evo.12605",
+    "DOI": "10.1111/evo.12605"
+  },
+  {
+    "author": [
+      {
+        "family": "Osbeck",
+        "given": "P."
+      }
+    ],
+    "title": "Dagbok öfwer en Ostindisk resa åren 1750, 1751, 1752: Med anmårkningar uti naturkunnigheten, fråmmande folkslags språk, seder, hushållning, m. m",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Lor. Ludv. Grefing",
+    "issue": "olm",
+    "issued": "1757",
+    "page": "376",
+    "URL": "https://doi.org/10.5962/bhl.title.112527",
+    "DOI": "10.5962/bhl.title.112527"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F.A."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "K."
+      }
+    ],
+    "title": "Rhamnaceae",
+    "editor": [
+      {
+        "family": "Limpricht",
+        "given": "W."
+      }
+    ],
+    "volume": "12",
+    "note": "in German",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis, Beihefte",
+    "issued": "1922",
+    "page": "436–437"
+  },
+  {
+    "author": [
+      {
+        "family": "Pusalkar",
+        "given": "P.K."
+      },
+      {
+        "family": "Singh",
+        "given": "D.K."
+      }
+    ],
+    "title": "Sageretia santapaui sp",
+    "editor": [
+      {
+        "given": "nov"
+      },
+      {
+        "family": "nov",
+        "given": "S.",
+        "particle": "devendrae sp."
+      }
+    ],
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2010",
+    "page": "49–53",
+    "URL": "http://doi.org/10.1111/j.1756-1051.2009.00520.x",
+    "DOI": "10.1111/j.1756-1051.2009.00520.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "FigTree, a graphical viewer of phylogenetic trees",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2009",
+    "URL": "http://tree.bio.ed.ac.uk/software/figtree/"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "A.J",
+        "given": "Drummond"
+      }
+    ],
+    "title": "Tracer v1.5",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2009",
+    "URL": "http://beast.bio.ed.ac.uk/Tracer"
+  },
+  {
+    "author": [
+      {
+        "family": "Richardson",
+        "given": "J.E."
+      },
+      {
+        "family": "Fay",
+        "given": "M.F."
+      },
+      {
+        "family": "Cronk",
+        "given": "Q.C.B."
+      },
+      {
+        "family": "Bowman",
+        "given": "D."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "A phylogenetic analysis of Rhamnaceae using rbcL and trnL-F plastid DNA sequences",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "9",
+    "issued": "2000",
+    "page": "1309–1324",
+    "URL": "http://doi.org/10.2307/2656724",
+    "DOI": "10.2307/2656724"
+  },
+  {
+    "author": [
+      {
+        "family": "Richardson",
+        "given": "J.E."
+      },
+      {
+        "family": "Fay",
+        "given": "M.F."
+      },
+      {
+        "family": "Cronk",
+        "given": "Q.C.B."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "A revision of the tribal classification of Rhamnaceae",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "2",
+    "issued": "2000",
+    "page": "311–340",
+    "URL": "http://doi.org/10.2307/4115645",
+    "DOI": "10.2307/4115645"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      }
+    ],
+    "title": "Comparison of whole chloroplast genome sequences to choose noncoding regions for phylogenetic studies in angiosperms: the tortoise and the hare III",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "3",
+    "issued": "2007",
+    "page": "275–288",
+    "URL": "http://doi.org/10.3732/ajb.94.3.275",
+    "DOI": "10.3732/ajb.94.3.275"
+  },
+  {
+    "author": [
+      {
+        "family": "Starr",
+        "given": "J.R."
+      },
+      {
+        "family": "Harris",
+        "given": "S.A."
+      },
+      {
+        "family": "Simpson",
+        "given": "D.A."
+      }
+    ],
+    "title": "Potential of the 5′ and 3′ ends of the intergenic spacer (IGS) of rDNA in the Cyperaceae: new sequences for lower-level phylogenies in sedges with an example from Uncinia pers",
+    "volume": "164",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issue": "2",
+    "issued": "2003",
+    "page": "213–227",
+    "URL": "http://doi.org/10.1086/346168",
+    "DOI": "10.1086/346168"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic Analysis Using Parsimony (*and other methods), version 4.0b10",
+    "type": null,
+    "issued": "2002",
+    "publisher-place": "Sinauer, Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "https://doi.org/10.1007/bf00037152",
+    "DOI": "10.1007/bf00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "http://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "E.H."
+      }
+    ],
+    "title": "Sageretia Brongn. (Determined by Camillo Schneider",
+    "editor": [
+      {
+        "family": "Sargent",
+        "given": "C.S."
+      }
+    ],
+    "volume": "2",
+    "publisher": "The University Press",
+    "issue": "1",
+    "type": "book",
+    "issued": "1914",
+    "page": "226–231",
+    "publisher-place": "Cambridge"
+  }
+]

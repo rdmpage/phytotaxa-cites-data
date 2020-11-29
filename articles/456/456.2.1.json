@@ -1,0 +1,2407 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Zwickl",
+        "given": "D.J."
+      },
+      {
+        "family": "Beerli",
+        "given": "P."
+      },
+      {
+        "family": "Holder",
+        "given": "M.T."
+      },
+      {
+        "family": "Lewis",
+        "given": "P.O."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      },
+      {
+        "family": "Cummings",
+        "given": "M.P."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      }
+    ],
+    "title": "BEAGLE: an application programming interface for statistical phylogenetics",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "170–173",
+    "URL": "https://doi.org/10.1093/sysbio/syr100",
+    "DOI": "10.1093/sysbio/syr100"
+  },
+  {
+    "author": [
+      {
+        "family": "Batsch",
+        "given": "A.G.J.K."
+      }
+    ],
+    "title": "Elenchus Fungorum. Continuatio Secunda",
+    "publisher": "Johann Jacob Gebauer Verlag",
+    "type": "book",
+    "issued": "1789",
+    "page": "113",
+    "publisher-place": "Halle, Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      }
+    ],
+    "title": "Hebeloma (Fr.) P",
+    "volume": "14",
+    "publisher": "Edizioni Tecnografica",
+    "type": "article-journal",
+    "container-title": "Kumm. Fungi Europaei",
+    "issued": "2016",
+    "page": null,
+    "publisher-place": "Lomazzo, Italy"
+  },
+  {
+    "author": [
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Schütz",
+        "given": "N."
+      },
+      {
+        "family": "Gulden",
+        "given": "G."
+      }
+    ],
+    "title": "A review of the genus Hebeloma in Svalbard",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2018",
+    "page": "303–309",
+    "URL": "https://doi.org/10.1016/j.myc.2017.12.001",
+    "DOI": "10.1016/j.myc.2017.12.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Bon",
+        "given": "M."
+      }
+    ],
+    "title": "Taxons nouveaux",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Documents Mycologiques",
+    "issue": "35",
+    "issued": "1979",
+    "page": "39–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Bougher",
+        "given": "N.L."
+      },
+      {
+        "family": "Tommerup",
+        "given": "I.C."
+      },
+      {
+        "family": "Malajczuk",
+        "given": "N."
+      }
+    ],
+    "title": "Nuclear behaviour in the basidiomes and ectomycorrhizas of Hebeloma westraliense sp. nov",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "1991",
+    "page": "683–686",
+    "URL": "https://doi.org/10.1016/S0953-7562(09)80815-0",
+    "DOI": "10.1016/S0953-7562(09)80815-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Bruchet",
+        "given": "G."
+      }
+    ],
+    "title": "Contribution à l’étude de genre Hebeloma (Fr",
+    "volume": "39 Suppl. 6",
+    "type": "article-journal",
+    "container-title": "Kumm. Bulletin mensuel de la Société Linnéenne de Lyon",
+    "issued": "1970",
+    "page": "1–132",
+    "URL": "https://doi.org/10.3406/linly.1970.6079",
+    "DOI": "10.3406/linly.1970.6079"
+  },
+  {
+    "author": [
+      {
+        "family": "Bulliard",
+        "given": "P.J.B.F."
+      }
+    ],
+    "title": "Herbier de la France part 4",
+    "publisher": "A.J Dugour & Durand",
+    "type": "book",
+    "issued": "1784",
+    "page": "145–192",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Bulliard",
+        "given": "P.J.B.F."
+      }
+    ],
+    "title": "Herbier de la France part 7",
+    "publisher": "A.J Dugour & Durand",
+    "type": "book",
+    "issued": "1787",
+    "page": "289–336",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Clémençon",
+        "given": "H."
+      },
+      {
+        "family": "Hongo",
+        "given": "T."
+      }
+    ],
+    "title": "Notes on three Japanese Agaricales",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "1994",
+    "page": "21–27",
+    "URL": "https://doi.org/10.1007/BF02268524",
+    "DOI": "10.1007/BF02268524"
+  },
+  {
+    "author": [
+      {
+        "family": "Corbière",
+        "given": "L."
+      }
+    ],
+    "title": "Champignons de la Manche",
+    "editor": [
+      {
+        "family": "Basidiomycètes",
+        "given": "I."
+      }
+    ],
+    "container-title": "Mémoires de la Société des Sciences Naturelles et Mathématiques de Cherbourg",
+    "volume": "40",
+    "type": "chapter",
+    "issued": "1929",
+    "page": "21–284"
+  },
+  {
+    "author": [
+      {
+        "family": "Cripps",
+        "given": "C."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Schütz",
+        "given": "N."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Evenson",
+        "given": "V.S."
+      },
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "The genus Hebeloma in the Rocky Mountain alpine zone",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "MycoKeys",
+    "issued": "2019",
+    "page": "1–54",
+    "URL": "https://doi.org/10.3897/mycokeys.46.32823",
+    "DOI": "10.3897/mycokeys.46.32823"
+  },
+  {
+    "author": [
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      }
+    ],
+    "title": "Methods for DNA barcoding fungi",
+    "editor": [
+      {
+        "family": "Kress",
+        "given": "J.W."
+      },
+      {
+        "family": "Erickson",
+        "given": "D.L."
+      }
+    ],
+    "container-title": "DNA Barcodes: Methods and Protocols",
+    "publisher": "Humana Press Imprint (Springer",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "183–205",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1007/978-1-61779-591-6_9",
+    "DOI": "10.1007/978-1-61779-591-6_9"
+  },
+  {
+    "author": [
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      }
+    ],
+    "title": "Hebeloma vesterholtii, a new species in section Theobromina",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2010",
+    "page": "215–223",
+    "URL": "https://doi.org/10.1007/s11557-009-0627-z",
+    "DOI": "10.1007/s11557-009-0627-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Vila",
+        "given": "J."
+      },
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      },
+      {
+        "family": "Llimona",
+        "given": "X."
+      },
+      {
+        "family": "Gadjieva",
+        "given": "R."
+      }
+    ],
+    "title": "Hebeloma species associated with Cistus",
+    "volume": "113",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2009",
+    "page": "153–162",
+    "URL": "https://doi.org/10.1016/j.mycres.2008.09.007",
+    "DOI": "10.1016/j.mycres.2008.09.007"
+  },
+  {
+    "author": [
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      },
+      {
+        "family": "Dukik",
+        "given": "K."
+      },
+      {
+        "family": "Walther",
+        "given": "G."
+      },
+      {
+        "family": "Vila",
+        "given": "J."
+      },
+      {
+        "family": "Fernández Brime",
+        "given": "S."
+      }
+    ],
+    "title": "European species of Hebeloma section Theobromina",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2013",
+    "page": "103–126",
+    "URL": "https://doi.org/10.1007/s13225-012-0188-3",
+    "DOI": "10.1007/s13225-012-0188-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      }
+    ],
+    "title": "Decrypting the Hebeloma crustuliniforme complex: European species of Hebeloma section Denudata subsection Denudata",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2015",
+    "page": "101–147",
+    "URL": "https://doi.org/10.3767/003158515X687704",
+    "DOI": "10.3767/003158515X687704"
+  },
+  {
+    "author": [
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      },
+      {
+        "family": "Schütz",
+        "given": "N."
+      }
+    ],
+    "title": "The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia",
+    "volume": "120",
+    "type": "article-journal",
+    "container-title": "Echinospora subsect. nov. and Clepsydroida subsect. nov. and five new species. Fungal Biology",
+    "issued": "2016",
+    "page": "72–103",
+    "URL": "https://doi.org/10.1016/j.funbio.2015.09.014",
+    "DOI": "10.1016/j.funbio.2015.09.014"
+  },
+  {
+    "author": [
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Schütz",
+        "given": "N."
+      },
+      {
+        "family": "Pedersen",
+        "given": "O.S."
+      },
+      {
+        "family": "Sysouphanthong",
+        "given": "P."
+      },
+      {
+        "family": "Læssøe",
+        "given": "T."
+      }
+    ],
+    "title": "Adventurous cuisine in Laos: Hebeloma parvisporum, a new species in Hebeloma section Porphyrospora",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2020",
+    "page": "172–184",
+    "URL": "https://doi.org/10.1080/00275514.2019.1680220",
+    "DOI": "10.1080/00275514.2019.1680220"
+  },
+  {
+    "author": [
+      {
+        "family": "Fan",
+        "given": "F."
+      },
+      {
+        "family": "Fuqiang",
+        "given": "S."
+      }
+    ],
+    "title": "Dynamics of fungal diversity in different phases of Pinus litter degradation revealed through denaturing gradient gel electrophoresis (DGGE) coupled with morphological examination",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "African Journal of Microbiology",
+    "issued": "2011",
+    "page": "5674–5681",
+    "URL": "https://doi.org/10.5897/AJMR11.999",
+    "DOI": "10.5897/AJMR11.999"
+  },
+  {
+    "author": [
+      {
+        "family": "Fayod",
+        "given": "V."
+      }
+    ],
+    "title": "Prodrome d’une histoire naturelle des agaricinés. Annales des Sciences Naturelles",
+    "volume": "7, 9",
+    "type": "article-journal",
+    "container-title": "Botanique sér",
+    "issued": "1889",
+    "page": "181–411"
+  },
+  {
+    "author": [
+      {
+        "family": "Favre",
+        "given": "J."
+      }
+    ],
+    "title": "Les Champignons Superieurs de la Zone alpine du Parc National Suisse",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Ergebnisse der Wissenschaftlichen Untersuchungen der des Schweizerischen Nationalparks",
+    "issued": "1955",
+    "page": "1–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E.M."
+      }
+    ],
+    "title": "Systema Mycologicum 1",
+    "publisher": "E. Mauritii",
+    "type": "book",
+    "issued": "1821",
+    "page": "578",
+    "publisher-place": "Greifswald, Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E.M."
+      }
+    ],
+    "title": "Epicrisis Systematis Mycologici seu Synopsis Hymenomycetum",
+    "publisher": "Typographia Academica Uppsala, Sweden",
+    "type": "book",
+    "issued": "1836",
+    "page": "610"
+  },
+  {
+    "author": [
+      {
+        "family": "Fukiharu",
+        "given": "T."
+      },
+      {
+        "family": "Hongo",
+        "given": "T."
+      }
+    ],
+    "title": "Ammonia fungi of Iriomote island in the southern Ryukyus, Japan, and a new ammonia fungus: Hebeloma luchuense",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "1995",
+    "page": "425–430",
+    "URL": "https://doi.org/10.1007/BF02268627",
+    "DOI": "10.1007/BF02268627"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillet",
+        "given": "C.C."
+      }
+    ],
+    "title": "Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France, part 2",
+    "type": "article-journal",
+    "container-title": "Ch. Thomas, Alençon",
+    "issued": "1876",
+    "page": "177–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillet",
+        "given": "C.C."
+      }
+    ],
+    "title": "Champignons de France: Tableaux Analytiques des Hyménomycètes",
+    "publisher": "A. Lepage, Alençon",
+    "type": "book",
+    "issued": "1884",
+    "page": "199"
+  },
+  {
+    "author": [
+      {
+        "family": "Grilli",
+        "given": "E."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Schütz",
+        "given": "N."
+      },
+      {
+        "family": "Leonardi",
+        "given": "M."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      }
+    ],
+    "title": "Unexpected species diversity and contrasting evolutionary hypotheses in Hebeloma sections Sinapizantia and Velutipes in Europe",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2016",
+    "page": "1–46",
+    "URL": "https://doi.org/10.1007/s11557-015-1148-6",
+    "DOI": "10.1007/s11557-015-1148-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Gröger",
+        "given": "F."
+      }
+    ],
+    "title": "Wurzelnde Hebeloma-Arten",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Zeitschrift für Mykologie",
+    "issued": "1987",
+    "page": "49–58"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.-F."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Anisimova",
+        "given": "M."
+      },
+      {
+        "family": "Hordijk",
+        "given": "W."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "New algorithms and methods to estimate Maximum-Likelihood phylogenies: Assessing the performance of PhyML 3.0",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2010",
+    "page": "307–321",
+    "URL": "https://doi.org/10.1093/sysbio/syq010",
+    "DOI": "10.1093/sysbio/syq010"
+  },
+  {
+    "author": [
+      {
+        "family": "Heim",
+        "given": "R."
+      },
+      {
+        "family": "Romagnesi",
+        "given": "H."
+      }
+    ],
+    "title": "Notes systématiques sur quelques Agarics de la flore française",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Première série. Bulletin de la Société Mycologique de France",
+    "issued": "1934",
+    "page": "162–192"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoang",
+        "given": "D.T."
+      },
+      {
+        "family": "Chernomor",
+        "given": "O."
+      },
+      {
+        "family": "Haeseler",
+        "given": "A.",
+        "particle": "von"
+      },
+      {
+        "family": "Minh",
+        "given": "B.Q."
+      },
+      {
+        "family": "Vinh",
+        "given": "L.S."
+      }
+    ],
+    "title": "UFBoot2: Improving the ultrafast bootstrap approximation",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2018",
+    "page": "518–522",
+    "URL": "https://doi.org/10.1093/molbev/msx281",
+    "DOI": "10.1093/molbev/msx281"
+  },
+  {
+    "author": [
+      {
+        "family": "Holland",
+        "given": "A.A."
+      },
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "Hebeloma victoriense and the genus Metraria",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issued": "1983",
+    "page": "157–186",
+    "URL": "https://doi.org/10.1016/S0007-1536(83)80177-6",
+    "DOI": "10.1016/S0007-1536(83)80177-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Hongo",
+        "given": "T."
+      }
+    ],
+    "title": "Notes on Japanese larger fungi (17",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1965",
+    "page": "311–318"
+  },
+  {
+    "author": [
+      {
+        "family": "Huijsman",
+        "given": "H.S.C."
+      }
+    ],
+    "title": "Deux Hebeloma nouveaux",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "1961",
+    "page": "97–99"
+  },
+  {
+    "author": [
+      {
+        "family": "Imazeki",
+        "given": "R."
+      },
+      {
+        "family": "Hongo",
+        "given": "T."
+      }
+    ],
+    "title": "Colored illustrations of mushrooms of Japan [in Japanese",
+    "publisher": "Hoikusha, Osaka",
+    "type": "book",
+    "issued": "1987",
+    "page": "315"
+  },
+  {
+    "author": [
+      {
+        "family": "Imazeki",
+        "given": "R."
+      },
+      {
+        "family": "Otani",
+        "given": "Y."
+      },
+      {
+        "family": "Hongo",
+        "given": "T."
+      }
+    ],
+    "title": "Fungi of Japan [in Japanese",
+    "publisher": "Yama-Kei Publishers, Tokyo",
+    "type": "book",
+    "issued": "2011",
+    "page": "333"
+  },
+  {
+    "author": [
+      {
+        "family": "Iotti",
+        "given": "M."
+      },
+      {
+        "family": "Stocchi",
+        "given": "V."
+      },
+      {
+        "family": "Barbieri",
+        "given": "E."
+      },
+      {
+        "family": "Zambonelli",
+        "given": "A."
+      }
+    ],
+    "title": "Morphological and molecular characterisation of mycelia of ectomycorrhizal fungi in pure culture",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2005",
+    "page": "51–68"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalyaanamoorthy",
+        "given": "S."
+      },
+      {
+        "family": "Minh",
+        "given": "B.Q."
+      },
+      {
+        "family": "Wong",
+        "given": "T.K.F."
+      },
+      {
+        "family": "Haeseler",
+        "given": "A.",
+        "particle": "von"
+      },
+      {
+        "family": "Jermiin",
+        "given": "L.S."
+      }
+    ],
+    "title": "Fast model selection for accurate phylogenetic estimates",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2017",
+    "page": "587–589",
+    "URL": "https://doi.org/10.1038/nmeth.4285",
+    "DOI": "10.1038/nmeth.4285"
+  },
+  {
+    "author": [
+      {
+        "family": "Karsten",
+        "given": "P.A."
+      }
+    ],
+    "title": "Mycologia Fennica. Pars Tertia",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Basidiomycetes. Bidrag till kännedom av Finlands natur och folk",
+    "issued": "1876",
+    "page": "1–377"
+  },
+  {
+    "author": [
+      {
+        "family": "Karsten",
+        "given": "P.A."
+      }
+    ],
+    "title": "Rysslands, Finlands och den Skandinaviska Halföns Hattsvampar",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Bidrag till kännedom av Finlands natur och folk",
+    "issued": "1879",
+    "page": "1–571"
+  },
+  {
+    "author": [
+      {
+        "family": "Kasuya",
+        "given": "T."
+      },
+      {
+        "family": "Tuno",
+        "given": "N."
+      },
+      {
+        "family": "Hashiya",
+        "given": "M."
+      },
+      {
+        "family": "Kurokawa",
+        "given": "E."
+      },
+      {
+        "family": "Uno",
+        "given": "K."
+      },
+      {
+        "family": "Hosaka",
+        "given": "K."
+      }
+    ],
+    "title": "Nesting ecology of Japanese mole, Mogera wogura, through observation on fruiting of Hebeloma radicosum (Basidiomycota, Fungi",
+    "container-title": "Komatsu, Ishigawa Prefecture, with notes on phylogenetic placement of Japanese specimens of H. radicosum [In Japanese with English abstract]. Memoirs of the Komatsu City Museum",
+    "volume": "47",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "23–34"
+  },
+  {
+    "author": [
+      {
+        "family": "Kasuya",
+        "given": "T."
+      },
+      {
+        "family": "Mikami",
+        "given": "M."
+      },
+      {
+        "family": "Hashiya",
+        "given": "M."
+      },
+      {
+        "family": "Hosaka",
+        "given": "K."
+      }
+    ],
+    "title": "Identification of ectomycorrhizal fungi in mole latrines based on fieldwork, morphological observations, and molecular phylogeny [In Japanese with English abstract",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Botanic Gardens of Toyama",
+    "issued": "2017",
+    "page": "19–37"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Rozewicki",
+        "given": "J."
+      },
+      {
+        "family": "Yamada",
+        "given": "K.D."
+      }
+    ],
+    "title": "MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization",
+    "volume": "bbx108",
+    "type": "article-journal",
+    "container-title": "Briefings in Bioinformatics",
+    "issued": "2017",
+    "page": "1–7",
+    "URL": "https://doi.org/10.1093/bib/bbx108",
+    "DOI": "10.1093/bib/bbx108"
+  },
+  {
+    "author": [
+      {
+        "family": "Kauff",
+        "given": "F."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Phylogeny of the Gyalectales and Ostropales (Ascomycota, Fungi): among and within order relationships based on nuclear ribosomal RNA small and large subunits",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2002",
+    "page": "138–156",
+    "URL": "https://doi.org/10.1016/S1055-7903(02)00214-2",
+    "DOI": "10.1016/S1055-7903(02)00214-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Konrad",
+        "given": "P."
+      },
+      {
+        "family": "Maublanc",
+        "given": "A."
+      }
+    ],
+    "title": "Icones Selectae Fungorum",
+    "publisher": "Paul Lechevalier",
+    "type": "book",
+    "issued": "1924",
+    "page": "558",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Kropp",
+        "given": "B.R."
+      }
+    ],
+    "title": "A Samoan Hebeloma with phylogenetic ties to the western Pacific",
+    "volume": "107",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2015",
+    "page": "149–156",
+    "URL": "https://doi.org/10.3852/14-047",
+    "DOI": "10.3852/14-047"
+  },
+  {
+    "author": [
+      {
+        "family": "Kummer",
+        "given": "P."
+      }
+    ],
+    "title": "Der Führer in die Pilzkunde",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "C. Luppe",
+    "issue": "amburg",
+    "issued": "1871",
+    "page": "146 4"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuroyanagi",
+        "given": "E."
+      },
+      {
+        "family": "Honda",
+        "given": "S."
+      },
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "The appearance of Hebeloma radicosum from a buried cat carcass [In Japanese with English summary",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1982",
+    "page": "485–488"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanfear",
+        "given": "R."
+      },
+      {
+        "family": "Calcott",
+        "given": "B."
+      },
+      {
+        "family": "Ho",
+        "given": "S.Y.W."
+      },
+      {
+        "family": "Guindon",
+        "given": "S."
+      }
+    ],
+    "title": "PartitionFinder: combined selection of partitioning schemes and substitution models for phylogenetic analyses",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2012",
+    "page": "1695–1701",
+    "URL": "https://doi.org/10.1093/molbev/mss020",
+    "DOI": "10.1093/molbev/mss020"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "A."
+      }
+    ],
+    "title": "AliView: a fast and lightweight alignment viewer and editor for large data sets",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2014",
+    "page": "3276–3278",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btu531",
+    "DOI": "10.1093/bioinformatics/btu531"
+  },
+  {
+    "author": [
+      {
+        "family": "Maeno",
+        "given": "J."
+      },
+      {
+        "family": "Shimizu",
+        "given": "K."
+      },
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Tanaka",
+        "given": "C."
+      }
+    ],
+    "title": "Identity between the fruit bodies of Hebeloma radicosum and the mycosymbiont in ectomycorrhizas colonizing mole latrines",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2016",
+    "page": "196–199",
+    "URL": "http://dx.doi.org/10.1016/j.myc.2016.01.003",
+    "DOI": "10.1016/j.myc.2016.01.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Rapport sur les excursions et expositions organisées par la Société Mycologique de France (Session générale de Bretagne), en Octobre 1907",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Bulletin Trimestriel de la Société Mycologique de France",
+    "issued": "1908",
+    "page": "–"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Champignons Nord-Africains nouveaux ou peu connus Fasc. 5",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société d’Histoire Naturelle de l’Afrique du Nord",
+    "issued": "1931",
+    "page": "13–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Fungi Catalaunici. Contributions à l’étude de la flore mycologique de la Catalogne",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Publicacions de l’Institut Botànic (Barcelona",
+    "issued": "1937",
+    "page": "1–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Mikami",
+        "given": "M."
+      }
+    ],
+    "title": "What mycorrhizal fungi are hidden in mole’s latrines?",
+    "container-title": "Japanese",
+    "type": "chapter",
+    "issued": "2015",
+    "page": "37",
+    "publisher-place": "Chosi, Chiba"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES science gateway for inference of large phylogenetic trees",
+    "editor": [
+      {
+        "family": "Xavier",
+        "given": "J."
+      }
+    ],
+    "container-title": "2010 Gateway Computing Environments Workshop (GCE). Proceedings of a meeting held 14 Nov 2010",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE), Piscataway",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans, Louisiana, USA",
+    "URL": "http://dx.doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "O.K."
+      },
+      {
+        "family": "Hilton",
+        "given": "R.N."
+      }
+    ],
+    "title": "New and interesting agarics from Western Australia",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "1987",
+    "page": "126–137"
+  },
+  {
+    "author": [
+      {
+        "family": "Minh",
+        "given": "B.Q."
+      },
+      {
+        "family": "Nguyen",
+        "given": "M.A.T."
+      },
+      {
+        "family": "Haeseler",
+        "given": "A.",
+        "particle": "von"
+      }
+    ],
+    "title": "Ultrafast approximation for phylogenetic bootstrap",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "1188–1195",
+    "URL": "https://doi.org/10.1093/molbev/mst024",
+    "DOI": "10.1093/molbev/mst024"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakai",
+        "given": "M."
+      },
+      {
+        "family": "Yokohata",
+        "given": "Y."
+      },
+      {
+        "family": "Hashiya",
+        "given": "M."
+      },
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "New locality record of Euroscaptor mizura in the northern part of Gifu Prefecture, as revealed by investigating a case of mole nesting [In Japanese with English abstract",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Journal of the Japanese Wildlife Research Society",
+    "issued": "2016",
+    "page": "39–41",
+    "URL": "https://doi.org/10.18987/jjwrs.41.0_39",
+    "DOI": "10.18987/jjwrs.41.0_39"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "L.-T."
+      },
+      {
+        "family": "Schmidt",
+        "given": "H.A."
+      },
+      {
+        "family": "Haeseler",
+        "given": "A.",
+        "particle": "von"
+      },
+      {
+        "family": "Minh",
+        "given": "B.Q."
+      }
+    ],
+    "title": "IQ-TREE: A fast and effective stochastic algorithm for estimating Maximum Likelihood phylogenies",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2015",
+    "page": "268–274",
+    "URL": "https://doi.org/10.1093/molbev/msu300",
+    "DOI": "10.1093/molbev/msu300"
+  },
+  {
+    "author": [
+      {
+        "family": "Nilsson",
+        "given": "R.H."
+      },
+      {
+        "family": "Larsson",
+        "given": "K.-H."
+      },
+      {
+        "family": "Taylor",
+        "given": "A.F.S."
+      },
+      {
+        "family": "Bengtsson-Palme",
+        "given": "J."
+      },
+      {
+        "family": "Jeppesen",
+        "given": "T.S."
+      },
+      {
+        "family": "Schigel",
+        "given": "D."
+      },
+      {
+        "family": "Kennedy",
+        "given": "P."
+      },
+      {
+        "family": "Picard",
+        "given": "K."
+      },
+      {
+        "family": "Glöckner",
+        "given": "F.O."
+      },
+      {
+        "family": "Tedersoo",
+        "given": "L."
+      },
+      {
+        "family": "Saar",
+        "given": "I."
+      },
+      {
+        "family": "Kõljalg",
+        "given": "U."
+      },
+      {
+        "family": "Abarenkov",
+        "given": "K."
+      }
+    ],
+    "title": "The UNITE database for molecular identification of fungi: handling dark taxa and parallel taxonomic classifications",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2019",
+    "page": "259– 264",
+    "URL": "https://doi.org/10.1093/nar/gky1022",
+    "DOI": "10.1093/nar/gky1022"
+  },
+  {
+    "author": [
+      {
+        "family": "Orton",
+        "given": "P.D."
+      }
+    ],
+    "title": "Agarics and boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issued": "1960",
+    "page": "159–439"
+  },
+  {
+    "author": [
+      {
+        "family": "Paulet",
+        "given": "J.-J."
+      }
+    ],
+    "title": "Iconographie des Champignons",
+    "publisher": "J.B. Baillière",
+    "type": "book",
+    "issued": "1808",
+    "page": "217",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Peck",
+        "given": "C.H."
+      }
+    ],
+    "title": "Report of the Botanist (1869",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Annual Report on the New York State Museum of Natural History",
+    "issued": "1873",
+    "page": "17–135"
+  },
+  {
+    "author": [
+      {
+        "family": "Quadraccia",
+        "given": "L."
+      }
+    ],
+    "title": "Recherches sur Hebeloma (Agaricales, Cortinariaceae). I Quelques notes taxonomiques et nomenclaturales",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1987",
+    "page": "301–318"
+  },
+  {
+    "author": [
+      {
+        "family": "Quélet",
+        "given": "L."
+      }
+    ],
+    "title": "Les champignons du Jura et des Vosges",
+    "container-title": "Mémoires de la Société d’Emulation de Montbeliard 2éme sér",
+    "volume": "5",
+    "type": "chapter",
+    "issued": "1872",
+    "page": "43–332"
+  },
+  {
+    "author": [
+      {
+        "family": "Quélet",
+        "given": "L."
+      }
+    ],
+    "title": "Quelques espèces critiques ou nouvelles de la Flore Mycologique de France",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Comptes Rendus de l ́Association Française pour l ́Avancement des Sciences",
+    "issued": "1883",
+    "page": "387–412"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "FigTree. Tree figure drawing tool version 14.2, Institute of Evolutionary Biology",
+    "publisher": "University of Edinburgh",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2006",
+    "URL": "http://tree.bio.ed.ac.uk/"
+  },
+  {
+    "author": [
+      {
+        "family": "Rees",
+        "given": "B."
+      },
+      {
+        "family": "Midgley",
+        "given": "D."
+      },
+      {
+        "family": "Marchant",
+        "given": "A."
+      },
+      {
+        "family": "Lerkins",
+        "given": "A."
+      },
+      {
+        "family": "Orlovich",
+        "given": "D."
+      }
+    ],
+    "title": "Morphological and molecular data for Australian Hebeloma species do not support the generic status of Anamika",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2013",
+    "page": "1043–1058",
+    "URL": "https://doi.org/10.3852/12-404",
+    "DOI": "10.3852/12-404"
+  },
+  {
+    "author": [
+      {
+        "family": "Ricken",
+        "given": "A."
+      }
+    ],
+    "title": "Die Blätterpilze",
+    "publisher": "Verlag von Theodor Oswald Weigel",
+    "type": "book",
+    "issued": "1915",
+    "page": "112 480",
+    "publisher-place": "Leipzig, Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Romagnesi",
+        "given": "H."
+      }
+    ],
+    "title": "Etudes sur le genre Hebeloma",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "Bulletin trimestriel de la Société Mycologique de France",
+    "issued": "1965",
+    "page": "321–344"
+  },
+  {
+    "author": [
+      {
+        "family": "Romagnesi",
+        "given": "H."
+      }
+    ],
+    "title": "Etudes sur le genre Hebeloma II",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "1983",
+    "page": "255–268"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      }
+    ],
+    "title": "Draft MrBayes version 3.2 Manual: Tutorials and Model Summaries",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://mrbayes.sourceforge.net/mb3.2_manual.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Sucharard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Saccardo",
+        "given": "P.A."
+      },
+      {
+        "given": "Agaricineae"
+      }
+    ],
+    "title": "Sylloge Hymenomycetum",
+    "volume": "I",
+    "type": null,
+    "issued": "1887",
+    "page": "1–1146"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Ammonia Fungi: A chemoecological grouping of terrestrial fungi",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Contributions from the Biological Laboratory, Kyoto University",
+    "issued": "1975",
+    "page": "205–276"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Presence of a buried mammalian carcass indicated by fungal fruiting bodies",
+    "volume": "262",
+    "type": "article-journal",
+    "container-title": "Nature",
+    "issued": "1976",
+    "page": "816",
+    "URL": "https://doi.org/10.1038/262816a0",
+    "DOI": "10.1038/262816a0"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "The occurrence of fungi in association with wood mouse nests",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1978",
+    "page": "201–214"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Habitats of Hebeloma spoliatum [In Japanese",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1978",
+    "page": "90"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Not mouse but mole",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1980",
+    "page": "519"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Hair types of Japanese Insectivora, with special reference to the presence of straight guard hairs [In Japanese with English abstract",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Journal of the Mammalogical Society of Japan",
+    "issued": "1986",
+    "page": "57–64",
+    "URL": "https://doi.org/10.11238/jmammsocjapan1952.11.57",
+    "DOI": "10.11238/jmammsocjapan1952.11.57"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Mushrooms and animals [In Japanese",
+    "publisher": "Tsukiji-shokan, Tokyo",
+    "type": "book",
+    "issued": "1989",
+    "page": "185"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Experimental disturbances and epigeous fungi",
+    "editor": [
+      {
+        "family": "Carroll",
+        "given": "G.C."
+      },
+      {
+        "family": "Wicklow",
+        "given": "D.T."
+      }
+    ],
+    "container-title": "The Fungal Community",
+    "publisher": "Marcel Dekker",
+    "type": "chapter",
+    "issued": "1992",
+    "page": "427–454",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Association of ectomycorrhizal fungi with decomposed animal wastes in forest habitats: a cleaning symbiosis?",
+    "volume": "73, suppl. 1",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issued": "1995",
+    "page": "1423–1433",
+    "URL": "https://doi.org/10.1139/b95-406",
+    "DOI": "10.1139/b95-406"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Methods for studying the nesting ecology of moles through observation of mushroom fruiting [in Japanese with English abstract",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Mammalian Science",
+    "issued": "1998",
+    "page": "271–292",
+    "URL": "https://doi.org/10.11238/mammalianscience.38.271",
+    "DOI": "10.11238/mammalianscience.38.271"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      }
+    ],
+    "title": "Mycological approach to the natural history of talpid moles—a review with new data and proposal of ‘habitat-cleaning symbiosis’",
+    "editor": [
+      {
+        "family": "Yokohata",
+        "given": "Y."
+      },
+      {
+        "family": "Nakamura",
+        "given": "S."
+      }
+    ],
+    "container-title": "Recent advances in the biology of Japanese Insectivora",
+    "publisher": "Hiba Society of Natural History",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "33–55",
+    "publisher-place": "Shobara, Hiroshima"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Fukasawa",
+        "given": "Y."
+      }
+    ],
+    "title": "Inhabitant changes in long-term mole nesting at the same site, revealed by observing mushroom fruiting at the site",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "Mammalia",
+    "issued": "2014",
+    "page": "383–391",
+    "URL": "https://doi.org/10.1515/mammalia-2013-0073",
+    "DOI": "10.1515/mammalia-2013-0073"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Takayama",
+        "given": "S."
+      }
+    ],
+    "title": "Hebeloma radicosum appearing on the old latrine of a boy-scouts’(?) camping site [in Japanese",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Nature Study",
+    "issued": "1982",
+    "page": "99–100"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Honda",
+        "given": "S."
+      },
+      {
+        "family": "Kuroyanagi",
+        "given": "E."
+      },
+      {
+        "family": "Takayama",
+        "given": "S."
+      }
+    ],
+    "title": "The occurrence of Hebeloma spoliatum and Hebeloma radicosum on the dung-deposited burrows of Urotrichus talpoides (shrew mole",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1981",
+    "page": "441–455"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Kitamoto",
+        "given": "Y."
+      },
+      {
+        "family": "Nishio",
+        "given": "R."
+      },
+      {
+        "family": "Yoshimi",
+        "given": "S."
+      }
+    ],
+    "title": "Association of two Hebeloma species with decomposed nests of vespine wasps",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issued": "1985",
+    "page": "349–352",
+    "URL": "https://doi.org/10.1016/S0007-1536(85)80090-5",
+    "DOI": "10.1016/S0007-1536(85)80090-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Kobayashi",
+        "given": "S."
+      },
+      {
+        "family": "Ota",
+        "given": "H."
+      },
+      {
+        "family": "Itsubo",
+        "given": "T."
+      },
+      {
+        "family": "Okabe",
+        "given": "H."
+      }
+    ],
+    "title": "Finding Euroscaptor mizura (Mammalia: Insectivora) and its nest from under Hebeloma radicosum (Fungi: Agaricales) in Ashiu, Kyoto, with data of possible contiguous occurrences of three talpine species in this region",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Contributions from the Biological Laboratory, Kyoto University",
+    "issued": "1989",
+    "page": "261–272"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Abe",
+        "given": "H."
+      },
+      {
+        "family": "Okabe",
+        "given": "H."
+      }
+    ],
+    "title": "The persistence of moles in nesting at the same site as indicated by mushroom fruiting and nest reconstruction",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Zoology",
+    "issued": "1993",
+    "page": "1690–1693",
+    "URL": "https://doi.org/10.1139/z93-237",
+    "DOI": "10.1139/z93-237"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Okabe",
+        "given": "H."
+      },
+      {
+        "family": "Kikuchi",
+        "given": "J."
+      }
+    ],
+    "title": "Occurrence of an agaric fungus Hebeloma on the underground nest of wood mouse",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1993",
+    "page": "315–322"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Hongo",
+        "given": "T."
+      },
+      {
+        "family": "Murakami",
+        "given": "Y."
+      },
+      {
+        "family": "Hashimoto",
+        "given": "T."
+      },
+      {
+        "family": "Nagamasu",
+        "given": "H."
+      },
+      {
+        "family": "Fukiharu",
+        "given": "T."
+      },
+      {
+        "family": "Asakawa",
+        "given": "Y."
+      }
+    ],
+    "title": "Hebeloma radicosoides sp. nov., an agaric belonging to the chemoecological group ammonia fungi",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2000",
+    "page": "1017–1024",
+    "URL": "https://doi.org/10.1017/S0953756299002439",
+    "DOI": "10.1017/S0953756299002439"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Senn-Irlet",
+        "given": "B."
+      },
+      {
+        "family": "Marstad",
+        "given": "P."
+      }
+    ],
+    "title": "Establishment of the case of Hebeloma radicosum growth on the latrine of the wood mouse",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2006",
+    "page": "263–268",
+    "URL": "https://doi.org/10.1007/s10267-006-0303-y",
+    "DOI": "10.1007/s10267-006-0303-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Sagara",
+        "given": "N."
+      },
+      {
+        "family": "Ooyama",
+        "given": "J."
+      },
+      {
+        "family": "Koyama",
+        "given": "M."
+      }
+    ],
+    "title": "New causal animal for the growth of Hebeloma radicosum (Agaricales): shrew, Sorex sp",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Mammalia, Insectivora). Mycoscience",
+    "issued": "2008",
+    "page": "207–210",
+    "URL": "https://doi.org/10.1007/s10267-008-0407-7",
+    "DOI": "10.1007/s10267-008-0407-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Schoch",
+        "given": "C.L."
+      },
+      {
+        "family": "Seifert",
+        "given": "K.A."
+      },
+      {
+        "family": "Huhndorf",
+        "given": "S."
+      },
+      {
+        "family": "Robert",
+        "given": "V."
+      },
+      {
+        "family": "Spouge",
+        "given": "J.L."
+      },
+      {
+        "family": "Levesque",
+        "given": "C.A."
+      },
+      {
+        "family": "Chen",
+        "given": "W."
+      },
+      {
+        "family": "Consortium",
+        "given": "Fungal Barcoding"
+      }
+    ],
+    "title": "Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for Fungi",
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "volume": "109",
+    "type": "paper-conference",
+    "issued": "2012",
+    "page": "6241–6246",
+    "URL": "https://doi.org/10.1073/pnas.1117018109",
+    "DOI": "10.1073/pnas.1117018109"
+  },
+  {
+    "author": [
+      {
+        "family": "Slot",
+        "given": "J.C."
+      },
+      {
+        "family": "Hallstrom",
+        "given": "K.N."
+      },
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "Hosaka",
+        "given": "K."
+      },
+      {
+        "family": "Mueller",
+        "given": "G."
+      },
+      {
+        "family": "Robertson",
+        "given": "D.L."
+      },
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      }
+    ],
+    "title": "Phylogenetic, structural and functional diversification of nitrate transporters in three ecologically diverse clades of mushroom-forming fungi",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Fungal Ecology",
+    "issued": "2010",
+    "page": "160–177",
+    "URL": "https://doi.org/10.1016/j.funeco.2009.10.001",
+    "DOI": "10.1016/j.funeco.2009.10.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Soop",
+        "given": "K."
+      }
+    ],
+    "title": "Contribution à l’étude de la mycoflore cortinarioïde de Nouvelle-Zélande",
+    "volume": "117",
+    "type": "article-journal",
+    "container-title": "Bulletin trimestriel de la Société Mycologique de France",
+    "issued": "2001",
+    "page": "91–132"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "K.A."
+      },
+      {
+        "family": "Peintner",
+        "given": "U."
+      },
+      {
+        "family": "Moser",
+        "given": "M.M."
+      },
+      {
+        "family": "Manimohan",
+        "given": "P."
+      }
+    ],
+    "title": "Anamika, a new mycorrhizal genus of Cortinariaceae from India and its phylogenetic position based on ITS and LSU sequences",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2002",
+    "page": "245–251",
+    "URL": "https://doi.org/10.1017/S0953756201005445",
+    "DOI": "10.1017/S0953756201005445"
+  },
+  {
+    "author": [
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      }
+    ],
+    "title": "Hebeloma crustuliniforme and related taxa—notes on some characters of taxanomic importance",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Acta Universitatis Upsaliensis Symbolae Botanicae Upsalienses",
+    "issued": "1995",
+    "page": "129–137"
+  },
+  {
+    "author": [
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      }
+    ],
+    "title": "The Genus Hebeloma",
+    "genre": "Svampetryk, Tilst,",
+    "publisher": "Denmark",
+    "type": null,
+    "issued": "2005",
+    "page": "146"
+  },
+  {
+    "author": [
+      {
+        "family": "Vesterholt",
+        "given": "J."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Beker",
+        "given": "H.J."
+      }
+    ],
+    "title": "Epitypification of Hebeloma crustuliniforme",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2014",
+    "page": "553–562",
+    "URL": "https://doi.org/10.1007/s11557-013-0938-y",
+    "DOI": "10.1007/s11557-013-0938-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Vu",
+        "given": "D."
+      },
+      {
+        "family": "Groenewald",
+        "given": "M."
+      },
+      {
+        "family": "Vries",
+        "given": "M.",
+        "particle": "de"
+      },
+      {
+        "family": "Gehrmann",
+        "given": "T."
+      },
+      {
+        "family": "Stielow",
+        "given": "B."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Al-Hatmi",
+        "given": "A."
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      },
+      {
+        "family": "Cardinali",
+        "given": "G."
+      },
+      {
+        "family": "Houbraken",
+        "given": "J."
+      },
+      {
+        "family": "Boekhout",
+        "given": "T."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Robert",
+        "given": "V."
+      },
+      {
+        "family": "Verkley",
+        "given": "G.J.M."
+      }
+    ],
+    "title": "Large-scale generation and analysis of filamentous fungal DNA barcodes boosts coverage for kingdom fungi and reveals thresholds for fungal species and higher taxon delimitation",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "2019",
+    "page": "135–154",
+    "URL": "https://doi.org/10.1016/j.simyco.2018.05.001",
+    "DOI": "10.1016/j.simyco.2018.05.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "Ge",
+        "given": "Z.-W."
+      },
+      {
+        "family": "Slot",
+        "given": "J.C."
+      },
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      }
+    ],
+    "title": "New Asian species of the genus Anamika (Euagarics, hebelomatoid Clade) based on morphology and ribosomal DNA sequences",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2005",
+    "page": "1259–1267",
+    "URL": "https://doi.org/10.1017/S0953756205003758",
+    "DOI": "10.1017/S0953756205003758"
+  }
+]

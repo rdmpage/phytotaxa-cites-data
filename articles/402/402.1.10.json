@@ -1,0 +1,353 @@
+[
+  {
+    "author": [
+      {
+        "family": "Beccari",
+        "given": "O."
+      }
+    ],
+    "title": "Burmanniaceae",
+    "editor": [
+      {
+        "family": "Beccari",
+        "given": "O."
+      }
+    ],
+    "container-title": "Malesia. Tip. del R. Instituto sordo-muti, Genova",
+    "type": "chapter",
+    "issued": "1878",
+    "page": "240–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indië",
+    "publisher": "Ter Lands Drukkerij",
+    "type": "book",
+    "issued": "1825",
+    "page": null,
+    "publisher-place": "Jakarta"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Enumeratio Plantarum Javae 1",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "J.W. van Leeuwen, Leiden",
+    "issued": "1827",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for using the IUCN red list categories and criteria. Version 13. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.redlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Jonker",
+        "given": "F.P."
+      }
+    ],
+    "title": "A monograph of the Burmanniaceae",
+    "container-title": "Mededelingen van het Botanisch Museum en Herbarium van de Rijksuniversiteit te Utrecht",
+    "volume": "51",
+    "type": "chapter",
+    "issued": "1938",
+    "page": "1–279"
+  },
+  {
+    "author": [
+      {
+        "family": "Jonker",
+        "given": "F.P."
+      }
+    ],
+    "title": "Burmanniaceae",
+    "volume": "1, 4",
+    "type": "article-journal",
+    "container-title": "Flora Malesiana Series",
+    "issued": "1948",
+    "page": "13–26"
+  },
+  {
+    "author": [
+      {
+        "family": "Klackenberg",
+        "given": "J."
+      }
+    ],
+    "title": "Cotylanthera transferred to Exacum. Botanische Jahrbücher für Systematik",
+    "volume": "126",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "2006",
+    "page": "477–481",
+    "URL": "https://doi.org/10.1127/0006-8152/2006/0126-0477",
+    "DOI": "10.1127/0006-8152/2006/0126-0477"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Mayr",
+        "given": "E."
+      }
+    ],
+    "title": "The biological species concept",
+    "editor": [
+      {
+        "family": "Wheeler",
+        "given": "Q.D."
+      },
+      {
+        "family": "Meier",
+        "given": "E."
+      }
+    ],
+    "publisher": "Columbia University Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "17–29",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Merckx",
+        "given": "V."
+      },
+      {
+        "family": "Schols",
+        "given": "P.H."
+      },
+      {
+        "family": "Kamer",
+        "given": "H.",
+        "particle": "Maas-Van de"
+      },
+      {
+        "family": "Maas",
+        "given": "P."
+      },
+      {
+        "family": "Huysmans",
+        "given": "S."
+      },
+      {
+        "family": "Smets",
+        "given": "E."
+      }
+    ],
+    "title": "Phylogeny and evolution of Burmanniaceae (Dioscoreales) based on nuclear and mitochondrial data",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2006",
+    "page": "1684–1698",
+    "URL": "https://doi.org/10.3732/ajb.93.11.1684",
+    "DOI": "10.3732/ajb.93.11.1684"
+  },
+  {
+    "author": [
+      {
+        "family": "Merckx",
+        "given": "V.S.F.T."
+      },
+      {
+        "family": "Freudenstein",
+        "given": "J.V."
+      },
+      {
+        "family": "Kissling",
+        "given": "J."
+      },
+      {
+        "family": "Christenhusz",
+        "given": "M.J.M."
+      },
+      {
+        "family": "Stotler",
+        "given": "R.E."
+      },
+      {
+        "family": "Crandall-Stotler",
+        "given": "B."
+      },
+      {
+        "family": "Wickett",
+        "given": "N."
+      },
+      {
+        "family": "Rudall",
+        "given": "P.J."
+      },
+      {
+        "family": "Kamer",
+        "given": "H.",
+        "particle": "Maas-Van de"
+      },
+      {
+        "family": "Maas",
+        "given": "P.J.M."
+      }
+    ],
+    "title": "Taxonomy and classification",
+    "editor": [
+      {
+        "family": "Merckx",
+        "given": "V.S.F.T."
+      }
+    ],
+    "container-title": "Mycoheterotrophy: the biology of plants living on fungi",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "19–101",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1007/978-1-4614-5209-6_2",
+    "DOI": "10.1007/978-1-4614-5209-6_2"
+  },
+  {
+    "author": [
+      {
+        "family": "Miers",
+        "given": "J."
+      }
+    ],
+    "title": "On some new Brazilian plants allied to the natural order Burmanniaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Linnean Society of London",
+    "issued": "1840",
+    "page": "60–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Paguntalan",
+        "given": "L.M.J."
+      },
+      {
+        "family": "Jakosalem",
+        "given": "P.G."
+      }
+    ],
+    "title": "Conserving threatened and endemic fruit bats in isolated forest patches in Cebu",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Silliman Journal",
+    "issued": "2007",
+    "page": "81–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Paguntalan",
+        "given": "L.M.J."
+      },
+      {
+        "family": "Jakosalem",
+        "given": "P.G."
+      }
+    ],
+    "title": "Significant records of birds in forests on Cebu island, central Philippines",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Forktail",
+    "issued": "2008",
+    "page": "48–56"
+  },
+  {
+    "editor": [
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "Barcelona",
+        "given": "J.F."
+      },
+      {
+        "family": "Nickrent",
+        "given": "D.L."
+      }
+    ],
+    "title": "Co’s Digital Flora of the Philippines",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.philippineplants.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Neue Burmanniaceae Papuasiens",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher",
+    "issued": "1912",
+    "page": "100–108"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.J."
+      }
+    ],
+    "title": "Burmanniaceae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Nova Guinea",
+    "issued": "1909",
+    "page": "193–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.J."
+      }
+    ],
+    "title": "Plantae novae vel criticae ex herbario et horto Bogoriensi",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "II. Bulletin du Jardin Botanique de Buitenzorg III",
+    "issued": "1922",
+    "page": "230–250"
+  }
+]

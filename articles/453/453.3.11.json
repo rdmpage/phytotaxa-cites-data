@@ -1,0 +1,253 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bresadola",
+        "given": "G."
+      }
+    ],
+    "title": "Fungi Brasilienses",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Hedwigia",
+    "issued": "1896",
+    "page": "276–302"
+  },
+  {
+    "author": [
+      {
+        "family": "Gerdemann",
+        "given": "J.W."
+      },
+      {
+        "family": "Trappe",
+        "given": "J.M."
+      }
+    ],
+    "title": "The Endogonaceae in the Pacific Northwest",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Mycological Memoirs",
+    "issued": "1974",
+    "page": "1–76"
+  },
+  {
+    "author": [
+      {
+        "family": "Harkness",
+        "given": "H.W."
+      }
+    ],
+    "title": "Californian hypogeous fungi",
+    "container-title": "Proceedings of the California Academy of Sciences",
+    "volume": "3",
+    "type": "paper-conference",
+    "issued": "1899",
+    "page": "241–292"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoang",
+        "given": "D.T."
+      },
+      {
+        "family": "Chernomor",
+        "given": "O."
+      },
+      {
+        "family": "Haeseler",
+        "given": "A.",
+        "particle": "von"
+      },
+      {
+        "family": "Minh",
+        "given": "B.Q."
+      },
+      {
+        "family": "Vinh",
+        "given": "L.S."
+      }
+    ],
+    "title": "UFBoot2. Improving the ultrafast bootstrap approximation",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2018",
+    "page": "518–22",
+    "URL": "https://doi.org/10.1093/molbev/msx281",
+    "DOI": "10.1093/molbev/msx281"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalyaanamoorthy",
+        "given": "S."
+      },
+      {
+        "family": "Minh",
+        "given": "B.Q."
+      },
+      {
+        "family": "Wong",
+        "given": "T.K.F."
+      },
+      {
+        "family": "Haeseler",
+        "given": "A.von"
+      },
+      {
+        "family": "Jermiin",
+        "given": "L.S."
+      }
+    ],
+    "title": "ModelFinder: Fast model selection for accurate phylogenetic estimates",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2017",
+    "page": "587–589",
+    "URL": "https://doi.org/10.1038/nmeth.4285",
+    "DOI": "10.1038/nmeth.4285"
+  },
+  {
+    "author": [
+      {
+        "family": "Kanouse",
+        "given": "B.B."
+      }
+    ],
+    "title": "Studies of two species of Endogone in culture",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1936",
+    "page": "47–62",
+    "URL": "https://doi.org/10.1080/00275514.1936.12017117",
+    "DOI": "10.1080/00275514.1936.12017117"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "K."
+      }
+    ],
+    "title": "MAFFT Multiple Sequence Alignment Software Version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Minh",
+        "given": "B.Q."
+      },
+      {
+        "family": "Schmidt",
+        "given": "H.A."
+      },
+      {
+        "family": "Chernomor",
+        "given": "O."
+      },
+      {
+        "family": "Schrempf",
+        "given": "D."
+      },
+      {
+        "family": "Woodhams",
+        "given": "M.D."
+      },
+      {
+        "family": "Haeseler A.",
+        "particle": "von"
+      },
+      {
+        "family": "Lanfear",
+        "given": "R."
+      }
+    ],
+    "title": "IQ-TREE 2: new models and efficient methods for phylogenetic inference in the genomic era",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2020",
+    "page": "1530–1534",
+    "URL": "https://doi.org/10.1093/molbev/msaa015",
+    "DOI": "10.1093/molbev/msaa015"
+  },
+  {
+    "author": [
+      {
+        "given": "S.C.D."
+      }
+    ],
+    "title": "Systematics collection data. Landcare Research, New Zealand",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://scd.landcareresearch.co.nz"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "M.E."
+      },
+      {
+        "family": "Gryganskyi",
+        "given": "A."
+      },
+      {
+        "family": "Bonito",
+        "given": "G."
+      },
+      {
+        "family": "Nouhra",
+        "given": "E."
+      },
+      {
+        "family": "Moreno-Arroyo",
+        "given": "B."
+      },
+      {
+        "family": "Benny",
+        "given": "G."
+      }
+    ],
+    "title": "Phylogenetic analysis of the genus Modicella reveals an independent evolutionary origin of sporocarp-forming fungi in the Mortierellales",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Fungal Genetics and Biology",
+    "issued": "2013",
+    "page": "61 68",
+    "URL": "https://doi.org/10.1016/j.fgb.2013.10.001",
+    "DOI": "10.1016/j.fgb.2013.10.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Thaxter",
+        "given": "R."
+      }
+    ],
+    "title": "A revision of the Endogoneae",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "57",
+    "type": "paper-conference",
+    "issued": "1922",
+    "page": "291–351",
+    "URL": "https://doi.org/10.2307/20025921",
+    "DOI": "10.2307/20025921"
+  }
+]

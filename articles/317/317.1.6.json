@@ -1,0 +1,418 @@
+[
+  {
+    "author": [
+      {
+        "family": "Arnold",
+        "given": "M.L."
+      }
+    ],
+    "title": "Natural hybridization and evolution",
+    "publisher": "Oxford University Press",
+    "type": "book",
+    "issued": "1997",
+    "page": "232",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "X."
+      },
+      {
+        "family": "Lang",
+        "given": "K."
+      },
+      {
+        "family": "Gale",
+        "given": "S.W."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Ormerod",
+        "given": "P."
+      }
+    ],
+    "title": "Goodyera",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Flora of China",
+    "issued": "2009",
+    "page": "45–54"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellstrand",
+        "given": "N.C."
+      },
+      {
+        "family": "W.",
+        "given": "Richard"
+      },
+      {
+        "family": "Rieseberg",
+        "given": "L.H."
+      }
+    ],
+    "title": "Distribution of spontaneous plant hybrids",
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "volume": "93",
+    "issue": "10",
+    "type": "article-journal",
+    "issued": "1996",
+    "page": "5090–5093",
+    "URL": "https://doi.org/10.1073/pnas.93.10.5090",
+    "DOI": "10.1073/pnas.93.10.5090"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issue": "4",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "https://doi.org/10.1111/j.1558-5646.1985.tb00420.x",
+    "DOI": "10.1111/j.1558-5646.1985.tb00420.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kearse",
+        "given": "M."
+      },
+      {
+        "family": "Moir",
+        "given": "R."
+      },
+      {
+        "family": "Wilson",
+        "given": "A."
+      },
+      {
+        "family": "Stones-Havas",
+        "given": "S."
+      },
+      {
+        "family": "Cheung",
+        "given": "M."
+      },
+      {
+        "family": "Sturrock",
+        "given": "S."
+      },
+      {
+        "family": "Buxton",
+        "given": "S."
+      },
+      {
+        "family": "Cooper",
+        "given": "A."
+      },
+      {
+        "family": "Markowitz",
+        "given": "S."
+      },
+      {
+        "family": "Duran",
+        "given": "C."
+      },
+      {
+        "family": "Thierer",
+        "given": "T."
+      },
+      {
+        "family": "Ashton",
+        "given": "B."
+      },
+      {
+        "family": "Mentjies",
+        "given": "P."
+      },
+      {
+        "family": "Drummond",
+        "given": "A."
+      }
+    ],
+    "title": "Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issue": "12",
+    "issued": "2012",
+    "page": "1647–1649",
+    "URL": "https://doi.org/10.1093/bioinformatics/bts199",
+    "DOI": "10.1093/bioinformatics/bts199"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "C.S."
+      },
+      {
+        "family": "Kim",
+        "given": "S.C."
+      },
+      {
+        "family": "Yeau",
+        "given": "S.H."
+      },
+      {
+        "family": "Lee",
+        "given": "N.S."
+      },
+      {
+        "family": "Maxim",
+        "given": "G.",
+        "particle": "velutina"
+      }
+    ],
+    "title": "Nuclear and cpDNA sequences demonstrate spontaneous hybridization between Goodyera schlechtendaliana Rchb",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "2",
+    "issued": "2012",
+    "page": "356–364",
+    "URL": "https://doi.org/10.1600/036364412X635421",
+    "DOI": "10.1600/036364412X635421"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "C.S."
+      },
+      {
+        "family": "Yeau",
+        "given": "S.H."
+      },
+      {
+        "family": "Lee",
+        "given": "K.S."
+      },
+      {
+        "family": "Lee",
+        "given": "N.S."
+      }
+    ],
+    "title": "A New Taxon of Goodyera (Orchidaceae): G. × tamnaensis",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Korean Journal of Plant Taxonomy",
+    "issue": "4",
+    "issued": "2010",
+    "page": "251–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "N.S."
+      }
+    ],
+    "title": "Illustrated flora of Korean orchids",
+    "publisher": "Ewha Womans University Press, Seoul",
+    "type": "book",
+    "issued": "2011",
+    "page": "348"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohwi",
+        "given": "J."
+      }
+    ],
+    "title": "Flora of Japan: A combined much revised, and extended translation by the author of his Flora of Japan (1953) and Flora of Japan: Pteridophyta",
+    "publisher": "Smithsonian Institution",
+    "type": "book",
+    "issued": "1984",
+    "page": null,
+    "publisher-place": "Washington D. C"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "M.W.",
+        "given": "Chase"
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "volume": "3",
+    "publisher": "Oxford University Press",
+    "type": "article-journal",
+    "container-title": "Genera Orchidacearum",
+    "issued": "2003",
+    "page": "360",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Rieseberg",
+        "given": "L.H."
+      }
+    ],
+    "title": "Hybrid origins of plant species",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Annual Review of Ecology and Systematics",
+    "issue": "1",
+    "issued": "1997",
+    "page": "359–389",
+    "URL": "https://doi.org/10.1146/annurev.ecolsys.28.1.359",
+    "DOI": "10.1146/annurev.ecolsys.28.1.359"
+  },
+  {
+    "author": [
+      {
+        "family": "Rieseberg",
+        "given": "L.H."
+      },
+      {
+        "family": "Ellstrand",
+        "given": "N.C."
+      },
+      {
+        "family": "Arnold",
+        "given": "M."
+      }
+    ],
+    "title": "What can molecular and morphological markers tell us about plant hybridization?",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Critical reviews in plant sciences",
+    "issue": "3",
+    "issued": "1993",
+    "page": "213–241",
+    "URL": "https://doi.org/10.1080/07352689309701902",
+    "DOI": "10.1080/07352689309701902"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issue": "3",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Satake",
+        "given": "Y.J."
+      },
+      {
+        "family": "Ohwi",
+        "given": "S."
+      },
+      {
+        "family": "Kitamura",
+        "given": "S."
+      },
+      {
+        "family": "Watari",
+        "given": "S."
+      },
+      {
+        "family": "Tominari",
+        "given": "T."
+      }
+    ],
+    "title": "Wild flowers of Japan I",
+    "publisher": "Heibonsha, Tokyo",
+    "type": "book",
+    "issued": "1982",
+    "page": "305"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Q."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      }
+    ],
+    "title": "Examination of the cytoplasmic DNA in male reproductive cells to determine the potential for cytoplasmic inheritance in 295 angiosperm species",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Plant and Cell Physiology",
+    "issue": "9",
+    "issued": "2003",
+    "page": "941–951",
+    "URL": "https://doi.org/10.1093/pcp/pcg121",
+    "DOI": "10.1093/pcp/pcg121"
+  }
+]

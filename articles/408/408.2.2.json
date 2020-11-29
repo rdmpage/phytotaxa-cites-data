@@ -1,0 +1,631 @@
+[
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issue": "8",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf material",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochem Bull",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Fayod",
+        "given": "M.V."
+      }
+    ],
+    "title": "Prodrome d’une histoire naturelle des Agaricinés",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles Botanique",
+    "issued": "1889",
+    "page": "181–411"
+  },
+  {
+    "author": [
+      {
+        "family": "E.M",
+        "given": "Fries"
+      }
+    ],
+    "title": "Corpus florarum provincialium Sueciae. I",
+    "type": "article-journal",
+    "container-title": "Floram Scanicam. Upsaliae",
+    "issued": "1835",
+    "page": "349",
+    "URL": "https://doi.org/10.5962/bhl.title.47083",
+    "DOI": "10.5962/bhl.title.47083"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillet",
+        "given": "C.C."
+      }
+    ],
+    "title": "Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France",
+    "type": null,
+    "issued": "1876",
+    "page": "177–560"
+  },
+  {
+    "author": [
+      {
+        "literal": "Justo, A., Vizzini, A., Minnis, A.M., Menolli Jr, N., Capelari, M., Rodríguez, O., Malysheva, E., Contu, M., Ghignone, S. & Hibbett, D.S."
+      }
+    ],
+    "title": "Phylogeny of Pluteaceae (Agaricales, Basidiomycota): taxonomy and character evolution",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Fungal Biology",
+    "issued": "2011",
+    "page": "1–20",
+    "URL": "http://dx.doi.org/10.1016/j.funbio.2010.09.012",
+    "DOI": "10.1016/j.funbio.2010.09.012"
+  },
+  {
+    "author": [
+      {
+        "literal": "Justo, A., Minnis, A.M., Ghignone, S., Menolli Jr, N., Capelari, M., Rodríguez, O., Malysheva, E., Contu, M. & Vizzini, A."
+      }
+    ],
+    "title": "Species recognition in Pluteus and Volvopluteus (Pluteaceae, Agaricales): morphology, geography and phylogeny",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2011",
+    "page": "453–479",
+    "URL": "https://doi.org/10.1016/j.funbio.2010.09.012",
+    "DOI": "10.1016/j.funbio.2010.09.012"
+  },
+  {
+    "author": [
+      {
+        "family": "Justo",
+        "given": "A."
+      },
+      {
+        "family": "Caballero",
+        "given": "A."
+      },
+      {
+        "family": "Muñoz",
+        "given": "G."
+      },
+      {
+        "family": "Minnis",
+        "given": "A.M."
+      },
+      {
+        "family": "Malysheva",
+        "given": "E."
+      }
+    ],
+    "title": "Taxonomy of Pluteus eugraptus and morphologically similar taxa",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2011",
+    "page": "646–655",
+    "URL": "http://dx.doi.org/10.3852/10-280",
+    "DOI": "10.3852/10-280"
+  },
+  {
+    "author": [
+      {
+        "family": "Justo",
+        "given": "A."
+      },
+      {
+        "family": "Battistin",
+        "given": "E."
+      },
+      {
+        "family": "Angelini",
+        "given": "C."
+      }
+    ],
+    "title": "Two new species of Pluteus section Celluloderma from the Dominican Republic",
+    "volume": "120",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2012",
+    "page": "11–21",
+    "URL": "https://doi.org/10.5248/120.11",
+    "DOI": "10.5248/120.11"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Briefings in Bioinformatics",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "https://doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Kearse",
+        "given": "M."
+      },
+      {
+        "family": "Moir",
+        "given": "R."
+      },
+      {
+        "family": "Wilson",
+        "given": "A."
+      },
+      {
+        "family": "Stones-Havas",
+        "given": "S."
+      },
+      {
+        "family": "Cheung",
+        "given": "M."
+      },
+      {
+        "family": "Sturrock",
+        "given": "S."
+      },
+      {
+        "family": "Buxton",
+        "given": "S."
+      },
+      {
+        "family": "Cooper",
+        "given": "A."
+      },
+      {
+        "family": "Markowitz",
+        "given": "S."
+      },
+      {
+        "family": "Duran",
+        "given": "C."
+      },
+      {
+        "family": "Thierer",
+        "given": "T."
+      },
+      {
+        "family": "Ashton",
+        "given": "B."
+      },
+      {
+        "family": "Meintjes",
+        "given": "P."
+      },
+      {
+        "family": "Drummond",
+        "given": "A."
+      }
+    ],
+    "title": "Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2012",
+    "page": "1647–1649",
+    "URL": "https://doi.org/10.1093/bioinformatics/bts199",
+    "DOI": "10.1093/bioinformatics/bts199"
+  },
+  {
+    "author": [
+      {
+        "family": "Kotlaba",
+        "given": "F."
+      },
+      {
+        "family": "Pouzar",
+        "given": "Z."
+      }
+    ],
+    "title": "Taxonomic and nomenclatural notes on some Macromycetes",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Ceská Mykologie",
+    "issue": "4",
+    "issued": "1972",
+    "page": "217–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Kummer",
+        "given": "P."
+      }
+    ],
+    "title": "Der Führer in die Pilzkunde",
+    "volume": "Zerbst",
+    "type": "article-journal",
+    "container-title": "C. Luppe",
+    "issued": "1871",
+    "page": "146"
+  },
+  {
+    "author": [
+      {
+        "family": "Malysheva",
+        "given": "E.F."
+      },
+      {
+        "family": "Malysheva",
+        "given": "V.F."
+      },
+      {
+        "family": "Justo",
+        "given": "A."
+      }
+    ],
+    "title": "Observation on Pluteus (Pluteaceae) diversity in South Siberia, Russia: morphological and molecular data",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2016",
+    "page": "861–882",
+    "URL": "https://doi.org/10.1007/s11557-016-1215-7",
+    "DOI": "10.1007/s11557-016-1215-7"
+  },
+  {
+    "author": [
+      {
+        "literal": "Menolli Jr, N., Asai, T. & Capelari, M."
+      }
+    ],
+    "title": "Records and new species of Pluteus from Brazil based on morphological and molecular data",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Mycology",
+    "issued": "2010",
+    "page": "130–153",
+    "URL": "https://doi.org/10.1080/21501203.2010.493531",
+    "DOI": "10.1080/21501203.2010.493531"
+  },
+  {
+    "author": [
+      {
+        "literal": "Menolli, N. Jr, Justo, A. & Capelari, M."
+      }
+    ],
+    "title": "Phylogeny of Pluteus section Celluloderma including eight new species from Brazil",
+    "volume": "107",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "6",
+    "issued": "2015",
+    "page": "1205–1220",
+    "URL": "https://doi.org/10.3852/14-312",
+    "DOI": "10.3852/14-312"
+  },
+  {
+    "author": [
+      {
+        "family": "Munsell",
+        "given": "C."
+      }
+    ],
+    "title": "Soil, color charts",
+    "edition": "revised",
+    "publisher": "Macbeth Division of Kollmorgen Instruments Corporation",
+    "type": "book",
+    "issued": "1994",
+    "publisher-place": "New York (USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Pradeep",
+        "given": "C.K."
+      },
+      {
+        "family": "Justo",
+        "given": "A."
+      },
+      {
+        "family": "Vrinda",
+        "given": "K.B."
+      },
+      {
+        "family": "Shibu",
+        "given": "V.P."
+      }
+    ],
+    "title": "Two new species of Pluteus (Pluteaceae, Agaricales) from India and additional observations on Pluteus chrysaegis",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2012",
+    "page": "869–878",
+    "URL": "https://doi.org/10.1007/s11557-011-0801-y",
+    "DOI": "10.1007/s11557-011-0801-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Saccardo",
+        "given": "P.A."
+      }
+    ],
+    "title": "Sylloge Hymenomycetum",
+    "volume": "I",
+    "type": "article-journal",
+    "container-title": "Agaricineae. Sylloge Fungorum",
+    "issued": "1887",
+    "page": "1–1146"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The Agaricales in modern taxonomy",
+    "edition": "4th edn",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": "book",
+    "issued": "1986",
+    "page": "981"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      },
+      {
+        "family": "Schreurs",
+        "given": "J."
+      }
+    ],
+    "title": "Notulae ad Floram Agaricinam Neerlandicam-VIII. Pluteus in West-Europe",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issue": "4",
+    "issued": "1985",
+    "page": "337–373"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      }
+    ],
+    "title": "Pluteus",
+    "editor": [
+      {
+        "family": "Bas",
+        "given": "C."
+      },
+      {
+        "family": "Kuyper",
+        "given": "ThW"
+      },
+      {
+        "family": "Noordeloos",
+        "given": "M.E."
+      },
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      }
+    ],
+    "container-title": "Flora Agaricina Neerlandica",
+    "volume": "2",
+    "publisher": "A.A. Balkema",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "31–55",
+    "publisher-place": "Rotterdam"
+  },
+  {
+    "author": [
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Ercole",
+        "given": "E."
+      }
+    ],
+    "title": "A new annulate Pluteus variety from Italy",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2011",
+    "page": "904–911",
+    "URL": "https://doi.org/10.3852/10-382",
+    "DOI": "10.3852/10-382"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S.S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: A Guide to Methods and Applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  }
+]

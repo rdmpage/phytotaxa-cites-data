@@ -1,0 +1,94 @@
+[
+  {
+    "author": [
+      {
+        "family": "Decaisne",
+        "given": "J."
+      }
+    ],
+    "title": "Description d ́une herbier de l ́ile de Timor",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Nouvelles Annales du Museum d‘Histoire Naturelle",
+    "issued": "1834",
+    "page": "333–501"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Das Pflanzenreich: regni vegetablilis conspectus",
+    "volume": null,
+    "publisher": "Verlag von Wilhelm Engelmann, Leipzig",
+    "issue": "48",
+    "type": "book",
+    "issued": "1911",
+    "page": "130"
+  },
+  {
+    "author": [
+      {
+        "family": "Hetterscheid",
+        "given": "W.L.A."
+      }
+    ],
+    "title": "Notes on the genus Amorphophallus (Araceae) 15. New species from SE Asia",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Aroideana",
+    "issued": "2006",
+    "page": "53–79"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "H."
+      },
+      {
+        "family": "Hetterscheid",
+        "given": "W.L.A."
+      }
+    ],
+    "title": "Amorphophallus",
+    "editor": [
+      {
+        "family": "Li",
+        "given": "H."
+      },
+      {
+        "family": "Zhu",
+        "given": "G."
+      },
+      {
+        "family": "Boyce",
+        "given": "P.C."
+      },
+      {
+        "family": "Murata",
+        "given": "J."
+      },
+      {
+        "family": "Hetterscheid",
+        "given": "W.L.A."
+      },
+      {
+        "family": "Bogner",
+        "given": "J."
+      },
+      {
+        "family": "Jacobsen",
+        "given": "N."
+      }
+    ],
+    "container-title": "Flora of China volume 23 Acoraceae through Cyperaceae",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2010",
+    "page": "23–33",
+    "URL": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10056"
+  }
+]

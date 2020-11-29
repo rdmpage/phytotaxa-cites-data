@@ -1,0 +1,600 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bergius",
+        "given": "P.J."
+      }
+    ],
+    "title": "Descriptiones plantarum ex Capite Bonae Spei. Typis et impensis direct",
+    "type": null,
+    "issued": "1767",
+    "page": "362",
+    "publisher-place": "Laur. Salvii., Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Bolus",
+        "given": "H."
+      }
+    ],
+    "title": "Contributions to South African botany",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "The Journal of the Linnean Society. Botany",
+    "issued": "1884",
+    "page": "467–488"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "N.E."
+      }
+    ],
+    "title": "Decades Kewenses. Plantarum novarum in herbario horti regii conservatarum",
+    "volume": "Kew) 1896",
+    "type": "article-journal",
+    "container-title": "DecadesXXVIII.-XXX. Bulletin of Miscellaneous Information (Royal Gardens",
+    "issued": "1896",
+    "page": "158–167",
+    "URL": "http://dx.doi.org/10.2307/4118335",
+    "DOI": "10.2307/4118335"
+  },
+  {
+    "author": [
+      {
+        "family": "Burtt Davy",
+        "given": "J."
+      },
+      {
+        "family": "Pott-Leendertz",
+        "given": "R."
+      }
+    ],
+    "title": "A first check-list of the flowering plants and ferns of the Transvaal and Swaziland",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Annals of the Transvaal Museum",
+    "issued": "1912",
+    "page": "119–182"
+  },
+  {
+    "author": [
+      {
+        "family": "Bytebier",
+        "given": "B."
+      },
+      {
+        "family": "Bellstedt",
+        "given": "D.U."
+      },
+      {
+        "family": "Linder",
+        "given": "P.H."
+      }
+    ],
+    "title": "A molecular phylogeny for the large African orchid genus Disa",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2007",
+    "page": "75–90",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2006.08.014",
+    "DOI": "10.1016/j.ympev.2006.08.014"
+  },
+  {
+    "author": [
+      {
+        "family": "Bytebier",
+        "given": "B."
+      },
+      {
+        "family": "Oliver",
+        "given": "E.G.H."
+      },
+      {
+        "family": "Liltved",
+        "given": "W.R."
+      }
+    ],
+    "title": "Disa linderiana (Orchidaceae), a new orchid from the Western Cape of South Africa",
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2007",
+    "page": "558–562",
+    "URL": "http://dx.doi.org/10.1016/j.sajb.2007.04.066",
+    "DOI": "10.1016/j.sajb.2007.04.066"
+  },
+  {
+    "author": [
+      {
+        "family": "Bytebier",
+        "given": "B."
+      },
+      {
+        "family": "D.U.",
+        "given": "Bellstedt"
+      },
+      {
+        "family": "Linder",
+        "given": "H.P."
+      }
+    ],
+    "title": "A new phylogeny-based sectional classification for the large African orchid genus Disa",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2008",
+    "page": "1233–1251"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamarck",
+        "given": "J.B.A.P.M.",
+        "particle": "de"
+      },
+      {
+        "family": "Poiret",
+        "given": "J.L.M."
+      }
+    ],
+    "title": "Encyclopedie méthodique",
+    "volume": "4",
+    "publisher": "Chez Panckoucke",
+    "type": "article-journal",
+    "container-title": "Botanique",
+    "issue": "2",
+    "issued": "1798",
+    "page": "401–754",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "De Wildeman",
+        "given": "E."
+      }
+    ],
+    "title": "Icones selectae horti thenensis Vol 2",
+    "type": "article-journal",
+    "container-title": "Veuve Monnom, Bruxelles",
+    "issued": "1901",
+    "page": "179"
+  },
+  {
+    "author": [
+      {
+        "family": "Diels",
+        "given": "L."
+      }
+    ],
+    "title": "Campanulaceae Africanae. Botanische Jahrbücher fur Systematik",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1898",
+    "page": "111–119"
+  },
+  {
+    "author": [
+      {
+        "family": "Galley",
+        "given": "C."
+      },
+      {
+        "family": "Bytebier",
+        "given": "B."
+      },
+      {
+        "family": "Bellstedt",
+        "given": "D.U."
+      },
+      {
+        "family": "Linder",
+        "given": "H.P."
+      }
+    ],
+    "title": "The Cape element in the Afrotemperate flora: from Cape to Cairo?",
+    "container-title": "Proceedings of the Royal Society B-Biological Sciences",
+    "volume": "274",
+    "type": "paper-conference",
+    "issued": "2007",
+    "page": "535–543",
+    "URL": "http://dx.doi.org/10.1098/rspb.2006.0046",
+    "DOI": "10.1098/rspb.2006.0046"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      }
+    ],
+    "title": "World Checklist of Orchidaceae. Facilitated by the Royal Botanic Gardens",
+    "note": "Kew. Published on the Internet. Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Harvey",
+        "given": "W.H."
+      },
+      {
+        "family": "Sonder",
+        "given": "W.O."
+      }
+    ],
+    "title": "Flora Capensis, 1",
+    "publisher": "Hodges, Smith, and Co., Dublin",
+    "type": "book",
+    "issued": "1860",
+    "page": "546"
+  },
+  {
+    "author": [
+      {
+        "family": "Harvey",
+        "given": "W.H."
+      },
+      {
+        "family": "Sonder",
+        "given": "W.O."
+      }
+    ],
+    "title": "Flora Capensis, 3",
+    "publisher": "Hodges, Smith, and Co., Dublin",
+    "type": "book",
+    "issued": "1865",
+    "page": "633"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Streptocarpus Dunii",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Native of the Transvaal. Curtis’s Botanical Magazine",
+    "issued": "1886",
+    "page": "6903"
+  },
+  {
+    "author": [
+      {
+        "family": "Linder",
+        "given": "H.P."
+      }
+    ],
+    "title": "An annotated revision of the genus Schizochilus Sond",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Orchidaceae). Journal of South African Botany",
+    "issued": "1980",
+    "page": "379–434"
+  },
+  {
+    "author": [
+      {
+        "family": "Linder",
+        "given": "H.P."
+      }
+    ],
+    "title": "Taxonomic studies on the Disinae: 3. A revision of Disa Berg. excluding sect",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Micranthae Lindl. Contributions from the Bolus Herbarium",
+    "issued": "1981",
+    "page": "1–370"
+  },
+  {
+    "author": [
+      {
+        "family": "Linder",
+        "given": "H.P."
+      }
+    ],
+    "title": "A new species of Disa (Orchidaceae",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Journal of South African Botany",
+    "issued": "1984",
+    "page": "261–263"
+  },
+  {
+    "author": [
+      {
+        "family": "Linder",
+        "given": "H.P."
+      },
+      {
+        "family": "Hitchcock",
+        "given": "A.N."
+      }
+    ],
+    "title": "Disa remota, a remarkable new orchid species from the Western Cape",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2006",
+    "page": "627–629",
+    "URL": "http://dx.doi.org/10.1016/j.sajb.2006.06.003",
+    "DOI": "10.1016/j.sajb.2006.06.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Linder",
+        "given": "H.P."
+      },
+      {
+        "family": "Kurzweil",
+        "given": "H."
+      }
+    ],
+    "title": "Orchids of Southern Africa",
+    "publisher": "A.A. Balkema, Rotterdam",
+    "type": "book",
+    "issued": "1999",
+    "page": "492"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "The genera and species of orchidaceous plants, 5",
+    "type": null,
+    "issued": "1838",
+    "page": "45",
+    "publisher-place": "Ridgways, Piccadilly, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Matthews",
+        "given": "W.S."
+      },
+      {
+        "family": "Wyk",
+        "given": "A.E.",
+        "particle": "van"
+      },
+      {
+        "family": "Bredenkamp",
+        "given": "G.J."
+      }
+    ],
+    "title": "Endemic flora of the north-eastern Transvaal Escarpment, South Africa",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Biological Conservation",
+    "issued": "1993",
+    "page": "83–94",
+    "URL": "http://dx.doi.org/10.1016/0006-3207(93)90077-E",
+    "DOI": "10.1016/0006-3207(93)90077-E"
+  },
+  {
+    "editor": [
+      {
+        "family": "Mucina",
+        "given": "L."
+      },
+      {
+        "family": "Rutherford",
+        "given": "M.C."
+      }
+    ],
+    "title": "The vegetation of South Africa, Lesotho and Swaziland",
+    "volume": "19",
+    "publisher": "South African National Biodiversity Institute, Pretoria",
+    "type": "article-journal",
+    "container-title": "Strelitzia",
+    "issued": "2006",
+    "page": "807"
+  },
+  {
+    "author": [
+      {
+        "family": "McMurtry",
+        "given": "D."
+      },
+      {
+        "family": "Edwards",
+        "given": "T.J."
+      },
+      {
+        "family": "Bytebier",
+        "given": "B."
+      }
+    ],
+    "title": "A new species of Disa (Orchidaceae) from Mpumalanga, South Africa",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2006",
+    "page": "551–554",
+    "URL": "http://dx.doi.org/10.1016/j.sajb.2006.03.013",
+    "DOI": "10.1016/j.sajb.2006.03.013"
+  },
+  {
+    "author": [
+      {
+        "family": "McMurtry",
+        "given": "D."
+      },
+      {
+        "family": "Grobler",
+        "given": "L."
+      },
+      {
+        "family": "Grobler",
+        "given": "J."
+      },
+      {
+        "family": "Burns",
+        "given": "S."
+      }
+    ],
+    "title": "Field guide to the orchids of northern South Africa and Swaziland",
+    "publisher": "Umdaus Press, Pretoria",
+    "type": "book",
+    "issued": "2008",
+    "page": "482"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliver",
+        "given": "E.G.H."
+      },
+      {
+        "family": "Liltved",
+        "given": "W.R."
+      },
+      {
+        "family": "Bytebier",
+        "given": "B."
+      }
+    ],
+    "title": "Disa albomagentea (Orchidaceae), a new species from the Hottentots Holland Mountains in the Cape Floristic Region, South Africa",
+    "volume": "77",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2011",
+    "page": "313–318",
+    "URL": "http://dx.doi.org/10.1016/j.sajb.2010.08.010",
+    "DOI": "10.1016/j.sajb.2010.08.010"
+  },
+  {
+    "author": [
+      {
+        "family": "Phillips",
+        "given": "E.P."
+      }
+    ],
+    "title": "Inezia, a new genus of Compositae from South Africa",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1932",
+    "page": "297–298",
+    "URL": "http://dx.doi.org/10.2307/4113443",
+    "DOI": "10.2307/4113443"
+  },
+  {
+    "author": [
+      {
+        "family": "Roux",
+        "given": "J.-P."
+      }
+    ],
+    "title": "A new species and combination in Mohria (Schizaeaceae: Pteridophyta) from South Africa",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "1990",
+    "page": "399–402"
+  },
+  {
+    "author": [
+      {
+        "given": "Schinz"
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der Afrikanischen Flora",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin de L’Herbier Boissier",
+    "issued": "1896",
+    "page": "809–846"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "R."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis neuer und kritischer Orchideen aus Südafrika",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Beiblatt zu den Botanischen Jahrbüchern",
+    "issued": "1895",
+    "page": "1–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Sonder",
+        "given": "G."
+      }
+    ],
+    "title": "Enumeratio orchidearum, quas in Africa Australi Extratropica collegerunt C.F",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Ecklon, Dr., et C. Zeyher. Linnaea",
+    "issued": "1846",
+    "page": "71–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiselton-Dyer",
+        "given": "W.T."
+      }
+    ],
+    "title": "Flora of Tropical Africa, 8. L",
+    "publisher": "Reeve & Co., Ltd. London",
+    "type": "book",
+    "issued": "1902",
+    "page": "548"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiselton-Dyer",
+        "given": "W.T."
+      }
+    ],
+    "title": "Flora Capensis 4, Sect. 1 Part 1",
+    "editor": [
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "family": "Co.",
+        "given": "Ltd"
+      }
+    ],
+    "type": null,
+    "issued": "1905",
+    "page": "192",
+    "publisher-place": "Ashford, Kent"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "J.M."
+      }
+    ],
+    "title": "New Natal Plants",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "The Journal of Botany, British and Foreign",
+    "issued": "1897",
+    "page": "350–353"
+  }
+]

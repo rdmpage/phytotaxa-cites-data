@@ -1,0 +1,158 @@
+[
+  {
+    "author": [
+      {
+        "family": "Burkill",
+        "given": "I.H."
+      }
+    ],
+    "title": "Chapter on the history of botany in India. I. From the beginning to the middle of Wallich’s service",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "The Journal of the Bombay Natural History Society",
+    "issued": "1954",
+    "page": "846–878"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Cyperaceae",
+    "editor": [
+      {
+        "family": "Thiselton-Dyer",
+        "given": "W.T."
+      }
+    ],
+    "container-title": "Flora of Tropical Africa",
+    "volume": "VIII",
+    "publisher": "Lovell Reeve & Co., Limited",
+    "type": "chapter",
+    "issued": "1902",
+    "page": "548",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Lunkai",
+        "given": "D."
+      },
+      {
+        "family": "Tucker",
+        "given": "G.C."
+      },
+      {
+        "family": "Simpson",
+        "given": "D.A."
+      }
+    ],
+    "title": "Cyperus L",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Flora of China",
+    "issued": "2010",
+    "page": "219–241"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "publisher": "Koeltz Scientific Books",
+    "type": "book",
+    "issued": "2012",
+    "page": "240",
+    "publisher-place": "Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Observationvm Botanicarvm",
+    "volume": "V. Lipsiae",
+    "type": null,
+    "issued": "1789",
+    "page": "32"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  }
+]

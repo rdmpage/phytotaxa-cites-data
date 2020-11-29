@@ -1,0 +1,135 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Hortus Kewensis; or, a Cataloge of the Plants Cultivated at the Royal Botanic Garden at Kew",
+    "volume": "5",
+    "publisher": "W.T. Aiton",
+    "edition": "2nd",
+    "type": "book",
+    "issued": "1813",
+    "page": "211",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Garay",
+        "given": "L.A."
+      }
+    ],
+    "title": "Systematics of the genus Stelis Sw",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Botanical Museum Leaflets",
+    "issued": "1980",
+    "page": "167–259"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Loudon’s Hortus Britannicus",
+    "edition": "3rd",
+    "publisher": "Printed for Longman, Orme, Brown, Green and Longmans",
+    "type": "book",
+    "issued": "1839",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Edwards Botanical Register; or, Ornamental Flower-Garden and Shrubbery",
+    "volume": "28",
+    "container-title": "the entire work or",
+    "collection-title": "of the new series",
+    "type": "chapter",
+    "issued": "1842",
+    "page": "64",
+    "publisher-place": "James Ridgway, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum I",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "1986",
+    "page": "1–81"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum XXX, Systematics of Stelis, Stelis of Ecuador, part four",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "2009",
+    "page": "31–236"
+  },
+  {
+    "author": [
+      {
+        "family": "Persoon",
+        "given": "C.H."
+      }
+    ],
+    "title": "Synopsis Plantarum",
+    "publisher": "C.F. Cramer",
+    "type": "book",
+    "issued": "1807",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Dianome epidendri generis Linn. Journal für die Botanik",
+    "publisher": "Medizinalrat Schrader",
+    "type": "book",
+    "issued": "1799",
+    "page": "201–244",
+    "publisher-place": "Zweiter Band"
+  },
+  {
+    "author": [
+      {
+        "family": "Vasquez Ch.",
+        "given": "R."
+      },
+      {
+        "family": "Ibisch",
+        "given": "P.L."
+      }
+    ],
+    "title": "Orchideas de Bolivia/ Orchids of Bolivia",
+    "volume": "I",
+    "publisher": "Editorial F.A.N",
+    "type": "book",
+    "issued": "2000",
+    "publisher-place": "Santa Cruz de la Sierra"
+  }
+]

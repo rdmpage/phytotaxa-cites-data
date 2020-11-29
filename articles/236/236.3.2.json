@@ -1,0 +1,559 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatarum genera et species",
+    "type": null,
+    "issued": "1832",
+    "page": "783",
+    "publisher-place": "Ridgeway, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "publisher": "Victor Masson",
+    "type": "chapter",
+    "issued": "1848",
+    "page": "27–603",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Briquet",
+        "given": "J."
+      }
+    ],
+    "title": "Fragmenta monographiea Labiatarum, fasciculus V, observations sur quelques Labiées intéressantes ou nouvelles principalement de L’Herbier Delessert",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Annuaire du Conservatoire et du jardins botaniques de Genève",
+    "issued": "1898",
+    "page": "102–251"
+  },
+  {
+    "author": [
+      {
+        "family": "Cornejo-Tenorio",
+        "given": "G."
+      },
+      {
+        "family": "Ibarra-Manríquez",
+        "given": "G."
+      }
+    ],
+    "title": "Diversidad y distribución del género Salvia (Lamiaceae) en Michoacán, México",
+    "volume": "82",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issued": "2011",
+    "page": "1279–1296"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "A revision of Salvia subgenus Calosphace",
+    "volume": "110",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1939",
+    "page": "1–383"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1940",
+    "page": "509–534",
+    "URL": "http://dx.doi.org/10.2307/2480972",
+    "DOI": "10.2307/2480972"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-II",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1941",
+    "page": "552–568",
+    "URL": "http://dx.doi.org/10.2307/2481456",
+    "DOI": "10.2307/2481456"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiataae-III",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1944",
+    "page": "484–497",
+    "URL": "http://dx.doi.org/10.2307/2481241",
+    "DOI": "10.2307/2481241"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-IV",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1947",
+    "page": "512–518",
+    "URL": "http://dx.doi.org/10.2307/2481876",
+    "DOI": "10.2307/2481876"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-V",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1951",
+    "page": "129–142",
+    "URL": "http://dx.doi.org/10.2307/2804702",
+    "DOI": "10.2307/2804702"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-VII",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1960",
+    "page": "140–150",
+    "URL": "http://dx.doi.org/10.2307/2805214",
+    "DOI": "10.2307/2805214"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      },
+      {
+        "family": "Játiva",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-VIII",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1963",
+    "page": "366–376",
+    "URL": "http://dx.doi.org/10.2307/2805381",
+    "DOI": "10.2307/2805381"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      },
+      {
+        "family": "Játiva",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-IX",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1966",
+    "page": "255–265",
+    "URL": "http://dx.doi.org/10.2307/2805366",
+    "DOI": "10.2307/2805366"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      },
+      {
+        "family": "Játiva",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-X",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1968",
+    "page": "295–313",
+    "URL": "http://dx.doi.org/10.2307/2805687",
+    "DOI": "10.2307/2805687"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      },
+      {
+        "family": "Mathias",
+        "given": "M.E."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-VI",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1957",
+    "page": "297–313",
+    "URL": "http://dx.doi.org/10.2307/2804980",
+    "DOI": "10.2307/2804980"
+  },
+  {
+    "author": [
+      {
+        "family": "Espejo Serna",
+        "given": "A."
+      },
+      {
+        "family": "Ramamoorthy",
+        "given": "T.P."
+      }
+    ],
+    "title": "Revisión taxonómica de Salvia sección Sigmoideae (Lamiaceae",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "1993",
+    "page": "65–102"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernald",
+        "given": "M.L."
+      }
+    ],
+    "title": "A synopsis of the Mexican and Central American species of Salvia",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Contributions from the Gray Herbarium of Harvard University",
+    "issued": "1900",
+    "page": "490–556",
+    "URL": "http://dx.doi.org/10.2307/25129966",
+    "DOI": "10.2307/25129966"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Gallegos",
+        "given": "J.G."
+      },
+      {
+        "family": "Castro-Castro",
+        "given": "A."
+      },
+      {
+        "literal": "and description of S. pugana and S. albiterrarum"
+      }
+    ],
+    "title": "New insights on Salvia platyphylla (Lamiaceae",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "two new species from Jalisco, Mexico. Phytotaxa",
+    "issue": "2",
+    "issued": "2013",
+    "page": "47–60",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.93.2.1",
+    "DOI": "10.11646/phytotaxa.93.2.1"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Gallegos",
+        "given": "J.G."
+      },
+      {
+        "family": "Gama-Villanueva",
+        "given": "O.J."
+      }
+    ],
+    "title": "Resurrection of Salvia species (Lamiaceae) recently synonymized in Flora Mesoamericana",
+    "volume": "151",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "1–24",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.151.1.1",
+    "DOI": "10.11646/phytotaxa.151.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Gallegos",
+        "given": "J.G."
+      },
+      {
+        "family": "Vázquez-García",
+        "given": "J.A."
+      },
+      {
+        "family": "Cházaro-Basáñez",
+        "given": "M.J."
+      }
+    ],
+    "title": "Salvia carreyesii, Salvia ibugana and Salvia ramirezii (Lamiaceae), three new species from Jalisco, Mexico",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issued": "2013",
+    "page": "7–19",
+    "URL": "http://dx.doi.org/10.7550/rmb.29131",
+    "DOI": "10.7550/rmb.29131"
+  },
+  {
+    "author": [
+      {
+        "family": "Hemsley",
+        "given": "W.B."
+      }
+    ],
+    "title": "Botany vol",
+    "editor": [
+      {
+        "literal": "II. In: Godman, D. & Salvin, O. (Eds.) Biologia centrali-americana. R. H. Porter and Dulau & Co."
+      }
+    ],
+    "type": null,
+    "issued": "1881",
+    "page": "621",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Jenks",
+        "given": "A.A."
+      },
+      {
+        "family": "Walker",
+        "given": "J.B."
+      },
+      {
+        "family": "Kim",
+        "given": "S.-C."
+      }
+    ],
+    "title": "Phylogeny of New World Salvia subgenus Calosphace (Lamiaceae) based on cpDNA (psbA-trnH) and nrDNA (ITS) sequence data",
+    "volume": "126",
+    "type": "article-journal",
+    "container-title": "Journal of Plant Research",
+    "issued": "2013",
+    "page": "483–496",
+    "URL": "http://dx.doi.org/10.1007/s10265-012-0543-1",
+    "DOI": "10.1007/s10265-012-0543-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Klitgaard",
+        "given": "B."
+      }
+    ],
+    "title": "Salvia L",
+    "editor": [
+      {
+        "literal": "In: Davidse, G., Sousa, -S.M., Knapp, S. & Chiang, F. (Eds."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Rubiaceae a Verbenaceae. Missouri Botanical Press, St. Louis",
+    "issued": "2012",
+    "page": "396–424"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "C.S."
+      }
+    ],
+    "title": "Nova genera et species plantarum",
+    "publisher": "The Greek-Latin-Germanic Library, Paris",
+    "type": "book",
+    "issued": "1817",
+    "page": "404"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Prud’Homme Van Reine",
+        "given": "W.F."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code) adopted by the Eighteenth International Botanical Congress Melbourne",
+    "note": "Regnum Vegetabile 154].",
+    "publisher": "Gantner, Ruggell",
+    "type": null,
+    "issued": "2012",
+    "page": "240",
+    "publisher-place": "Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Ortega",
+        "given": "C.G.de"
+      }
+    ],
+    "title": "Novarum aut rariorum plantarum horti reg. botan",
+    "volume": "Madrid",
+    "type": "article-journal",
+    "container-title": "Matrit. Ibarriana",
+    "issued": "1797",
+    "page": "51"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodríguez-Jiménez",
+        "given": "L.S."
+      },
+      {
+        "family": "Espinosa-Garduño",
+        "given": "J."
+      }
+    ],
+    "title": "Listado florístico del estado de Michoacán sección III (Angiospermae: Connaraceae-Myrtaceae except Fagaceae, Gramineae, Krameriaceae y Leguminosae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Flora del Bajío y de Regiones Adyacentes, Fascículo Complementario",
+    "issued": "1996",
+    "page": "1–296"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicos"
+      }
+    ],
+    "title": "Tropicos database, Missouri Botanical Garden, St",
+    "genre": "Louis.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.tropicos.org/Name/17606846"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bennett",
+        "given": "A.W."
+      }
+    ],
+    "title": "Polygalaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "publisher": "Frid. Fleischer",
+    "type": "book",
+    "issued": "1874",
+    "page": "1–82",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis 1",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1824",
+    "page": "745",
+    "URL": "https://doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamy",
+        "given": "E.T."
+      }
+    ],
+    "title": "J. Dombey, médecin, naturaliste, archéologue, explorateur du Pérou, du Chili et du Brésil",
+    "type": null,
+    "issued": "1905",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Marques",
+        "given": "M.C.M."
+      },
+      {
+        "family": "Peixoto",
+        "given": "A.L."
+      }
+    ],
+    "title": "Estudo taxonômico de Polygala subgênero Ligustrina",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2007",
+    "page": "95–146"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Caamembeca: Generic status and new name for Polygala subgenus Ligustrina (Polygalaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2012",
+    "page": "435–442",
+    "URL": "https://doi.org/10.1007/s12225-012-9360-x",
+    "DOI": "10.1007/s12225-012-9360-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Poiret",
+        "given": "J.L.M."
+      }
+    ],
+    "title": "Polygala",
+    "editor": [
+      {
+        "family": "Lamarck",
+        "given": "J.B.A.P.M."
+      }
+    ],
+    "volume": "5",
+    "publisher": "H. Agasse",
+    "type": "article-journal",
+    "container-title": "Encycl",
+    "issued": "1804",
+    "page": "485–504",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz",
+        "given": "H.L."
+      },
+      {
+        "family": "Pavon",
+        "given": "J.A."
+      }
+    ],
+    "title": "Systema Vegetabilium Florae Peruvianae et Chilensis 1",
+    "publisher": "Gabrielis Sancha, Madrid",
+    "type": "book",
+    "issued": "1798",
+    "page": "456"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      },
+      {
+        "family": "Moquin-Tandon",
+        "given": "C.B.A."
+      }
+    ],
+    "title": "Conspectus Polygacearum Brasilie Meridionalis. Annales de la Société des Sciences",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Belles-Lettres et Arts d’Orléans",
+    "issued": "1828",
+    "page": "44–59"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P."
+      },
+      {
+        "family": "Moquin-Tandon",
+        "given": "C.B.A."
+      }
+    ],
+    "title": "Premier Mémoire sur la famille des Polygalées",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Mémoires du Museum d’Histoire Naturelle",
+    "issued": "1828",
+    "page": "313–375"
+  }
+]

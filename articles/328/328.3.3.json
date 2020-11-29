@@ -1,0 +1,794 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Notes on Mimoseae, with a synopsis of species",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "London Journal of Botany",
+    "issued": "1844",
+    "page": "83–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Journal of the Linnean Society",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Botany",
+    "issued": "1860",
+    "page": "82"
+  },
+  {
+    "author": [
+      {
+        "family": "Britton",
+        "given": "N.L."
+      }
+    ],
+    "title": "Family 1",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Clethraceae. North American Flora",
+    "issued": "1914",
+    "page": "6"
+  },
+  {
+    "author": [
+      {
+        "family": "Dickmann",
+        "given": "D.I."
+      },
+      {
+        "family": "Kuzovkina",
+        "given": "J."
+      }
+    ],
+    "title": "Poplars and willows of the world, with emphasis on silviculturally important species",
+    "editor": [
+      {
+        "family": "Isebrands",
+        "given": "J.G."
+      },
+      {
+        "family": "Richardson",
+        "given": "J."
+      }
+    ],
+    "container-title": "Poplars and willows: trees for society and the environment. CAB International & FAO, Rome",
+    "type": "chapter",
+    "issued": "2014",
+    "page": "88–91",
+    "URL": "https://doi.org/10.1079/9781780641089.0008",
+    "DOI": "10.1079/9781780641089.0008"
+  },
+  {
+    "author": [
+      {
+        "family": "Life",
+        "given": "Discover"
+      }
+    ],
+    "title": "Discover Life website",
+    "note": "Global Mapper page. Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.discoverlife.org/mp/20m?act=make_map"
+  },
+  {
+    "author": [
+      {
+        "family": "Dode",
+        "given": "L.A."
+      }
+    ],
+    "title": "Extraits d’une monographie inédite du Genre Populus",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société d’Histoire Naturelle d’Autun",
+    "issued": "1905",
+    "page": "161–231"
+  },
+  {
+    "author": [
+      {
+        "family": "Duby",
+        "given": "J.E."
+      }
+    ],
+    "title": "Aug. Pyrami de Candolle Botanicon Gallicum. Pars I",
+    "publisher": "Ve Desray",
+    "type": "book",
+    "issued": "1828",
+    "page": "544",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Eckenwalder",
+        "given": "J.E."
+      }
+    ],
+    "title": "North American cottonwoods (Populus, Salicaceae) of sections Abaso and Aigeiros",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1977",
+    "page": "193–208"
+  },
+  {
+    "author": [
+      {
+        "family": "Eckenwalder",
+        "given": "J.E."
+      }
+    ],
+    "title": "Systematics of Populus L. (Salicaceae) in southwestern North America with special reference to sect. Aigeiros Duby",
+    "genre": "Ph. D. Thesis.",
+    "publisher": "University of California",
+    "type": "thesis",
+    "issued": "1977",
+    "page": "263",
+    "publisher-place": "Berkeley"
+  },
+  {
+    "author": [
+      {
+        "family": "Eckenwalder",
+        "given": "J.E."
+      }
+    ],
+    "title": "Populus",
+    "container-title": "Flora of North America Editorial Committee",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "volume": "20+ vols. Vol. 7",
+    "publisher": "Salicaceae to Brassicaceae. Oxford University Press. New York and Oxford",
+    "type": "chapter",
+    "issued": "2010",
+    "page": "5–22"
+  },
+  {
+    "author": [
+      {
+        "given": "GBIForg"
+      }
+    ],
+    "title": "Global Biodiversity Information Facility database, GBIF, Populus guzmanantlensis Occurrence Download",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "https://doi.org/10.15468/dl.ulr6bc",
+    "DOI": "10.15468/dl.ulr6bc"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartig",
+        "given": "T."
+      }
+    ],
+    "title": "Vollständige Naturgeschichte der forstlichen Culturpflanzen Deutschlands",
+    "type": null,
+    "issued": "1851",
+    "page": "580",
+    "publisher-place": "Berlin, Förstner, xvii"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum",
+    "edition": "quarto ed.) 2",
+    "type": null,
+    "issued": "1817",
+    "page": "405",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      },
+      {
+        "family": "Bonpland",
+        "given": "M.",
+        "particle": "de Humboldt et"
+      }
+    ],
+    "title": "Mimoses et Autres Plantes Legimineuses du Noveau Continent, Recueilles par M",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Paris, pl",
+    "issued": "1821",
+    "page": "78–81"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "C.E.O."
+      }
+    ],
+    "title": "Dicotyledones. 53. Anacardiaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Toxicodendron L. Revisio Generum Plantarum",
+    "issued": "1891",
+    "page": "153–154"
+  },
+  {
+    "author": [
+      {
+        "family": "Liebmann",
+        "given": "F.M."
+      }
+    ],
+    "title": "Oversigt over det kongelige danske videnskabernes selskabs forhandlinger og dets medlemmers arbeider 1854",
+    "type": null,
+    "issued": "1854",
+    "page": "182"
+  },
+  {
+    "author": [
+      {
+        "family": "Linden",
+        "given": "J.J."
+      }
+    ],
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Gartenflora",
+    "issued": "1859",
+    "page": "368"
+  },
+  {
+    "author": [
+      {
+        "family": "Lingelsheim",
+        "given": "A."
+      }
+    ],
+    "title": "Vorarbeiten zu einer Monographie der gattung Fraxinus. Botanische Jahrbücher für Systematik",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1907",
+    "page": "221"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 2",
+    "type": "article-journal",
+    "container-title": "Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": "561–1231"
+  },
+  {
+    "author": [
+      {
+        "family": "Martínez-González",
+        "given": "R.E."
+      },
+      {
+        "family": "González-Villarreal",
+        "given": "L.M."
+      }
+    ],
+    "title": "La familia Salicaceae (Populus) en el estado de Jalisco, México",
+    "container-title": "Colección Flora de Jalisco. Instituto de Botánica, Universidad de Guadalajara",
+    "publisher": "México",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "20",
+    "publisher-place": "Guadalajara"
+  },
+  {
+    "author": [
+      {
+        "family": "Martínez-González",
+        "given": "R.E."
+      },
+      {
+        "family": "González-Villarreal",
+        "given": "L.M."
+      }
+    ],
+    "title": "Taxonomía y biogeografía del género Populus (Salicaceae) en México",
+    "publisher": "Universidad de Guadalajara",
+    "type": "book",
+    "issued": "2005",
+    "page": "160",
+    "publisher-place": "Guadalajara"
+  },
+  {
+    "author": [
+      {
+        "family": "Mez",
+        "given": "C.C."
+      }
+    ],
+    "title": "Lauraceae Americanae. Monographice descripsit",
+    "container-title": "Jahrbuch des Königlichen Botanischen Gartens und des Botanischen Museums zu",
+    "volume": "5",
+    "type": "chapter",
+    "issued": "1889",
+    "page": "166–167",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Michaux",
+        "given": "A."
+      }
+    ],
+    "title": "Flora Boreali-Americana 2",
+    "genre": "Levrault,",
+    "publisher": "Parisii et Argentorati",
+    "type": null,
+    "issued": "1803",
+    "page": "340"
+  },
+  {
+    "author": [
+      {
+        "family": "Nuttall",
+        "given": "T."
+      }
+    ],
+    "title": "A Flora of North America 1",
+    "type": null,
+    "issued": "1838",
+    "page": "219"
+  },
+  {
+    "author": [
+      {
+        "family": "World Online",
+        "given": "Plants",
+        "particle": "of the"
+      }
+    ],
+    "title": "Plants of the World Online",
+    "note": "POWO). Published on the Internet, Kew Sciences. Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.plantsoftheworldonline.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickison",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular plant systematics",
+    "publisher": "Harper & Row",
+    "type": "book",
+    "issued": "1974",
+    "page": "891",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "B.L."
+      },
+      {
+        "family": "Greenman",
+        "given": "J.M."
+      }
+    ],
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "34",
+    "type": "paper-conference",
+    "issued": "1899",
+    "page": "558"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodríguez-Castañeda",
+        "given": "J.L."
+      },
+      {
+        "family": "Rodríguez-Torres",
+        "given": "R."
+      }
+    ],
+    "title": "Geología estructural y estratigrafía del área entre Guadalajara y Tepic, estados de Jalisco y Nayarit, México",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Ciencias Geológicas",
+    "issued": "1992",
+    "page": "99–110"
+  },
+  {
+    "author": [
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      }
+    ],
+    "title": "Tres dicotiledóneas mexicanas nuevas de posible interés ornamental",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Botánica de México",
+    "issued": "1975",
+    "page": "37–43"
+  },
+  {
+    "author": [
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      }
+    ],
+    "title": "Análisis de la distribución geográfica de las especies mexicanas del género Populus (Salicaceae",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Compte rendu Somaire des séances de la société de biogéographie",
+    "issued": "1985",
+    "page": "141–150"
+  },
+  {
+    "author": [
+      {
+        "family": "Schiede",
+        "given": "C.J.W."
+      }
+    ],
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1838",
+    "page": "491–492"
+  },
+  {
+    "author": [
+      {
+        "family": "Shang",
+        "given": "C."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "Z."
+      }
+    ],
+    "title": "New combinations for nothotaxa of Populus (Salicaceae) from China",
+    "volume": "253",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "176–178",
+    "URL": "https://doi.org/10.11646/phytotaxa.253.2.9",
+    "DOI": "10.11646/phytotaxa.253.2.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Soderstrom",
+        "given": "T.R."
+      },
+      {
+        "family": "Calderón",
+        "given": "C.E."
+      }
+    ],
+    "title": "The species of Chusquea (Poaceae: Bambusoideae) with verticillate buds",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1978",
+    "page": "156–158",
+    "URL": "https://doi.org/10.2307/2806642",
+    "DOI": "10.2307/2806642"
+  },
+  {
+    "author": [
+      {
+        "family": "Spach",
+        "given": "E."
+      }
+    ],
+    "title": "Revisio Populorum. Annales des Sciences Naturelles",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Botanique, seconde série",
+    "issued": "1841",
+    "page": "30–33"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G."
+      }
+    ],
+    "title": "Nomenclator Botanicus",
+    "edition": "Editio secunda 2. J",
+    "publisher": "G. Cottae",
+    "type": "book",
+    "issued": "1841",
+    "page": "810",
+    "publisher-place": "London & Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum seu Prodromus",
+    "editor": [
+      {
+        "family": "Swederi",
+        "given": "Bibliopoliis Acad M."
+      },
+      {
+        "family": "Holmiae",
+        "given": "Upsaliae"
+      },
+      {
+        "given": "Aboae"
+      }
+    ],
+    "type": null,
+    "issued": "1788",
+    "page": "158"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "volume": "1800",
+    "type": "article-journal",
+    "container-title": "Journal für die Botanik",
+    "issued": "1801",
+    "page": "110"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamm",
+        "given": "Ü."
+      }
+    ],
+    "title": "Eestis kasvavad paplid",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Tartu, Estonia",
+    "issued": "1971",
+    "page": null
+  },
+  {
+    "title": "The International Plant Names Index",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.ipni.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/science/ih"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicosorg"
+      }
+    ],
+    "title": "Tropicos database, Missouri Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.tropicos.org/Specimen/2090644"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicosorg"
+      }
+    ],
+    "title": "Tropicos database, Missouri Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.tropicos.org/Specimen/2093383"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicosorg"
+      }
+    ],
+    "title": "Tropicos database, Missouri Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.tropicos.org/Specimen/1356256"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicosorg"
+      }
+    ],
+    "title": "Tropicos database, Missouri Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.tropicos.org/Specimen/2795702"
+  },
+  {
+    "author": [
+      {
+        "family": "Vázquez-García",
+        "given": "J.A."
+      },
+      {
+        "family": "Cuevas-Guzmán",
+        "given": "R."
+      }
+    ],
+    "title": "Una nueva especie tropical de Populus (Salicaceae) de la Sierra de Manantlán, Jalisco, México",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "1989",
+    "page": "39–45",
+    "URL": "https://doi.org/10.21829/abm8.1989.586",
+    "DOI": "10.21829/abm8.1989.586"
+  },
+  {
+    "author": [
+      {
+        "family": "Vázquez-García",
+        "given": "J.A."
+      },
+      {
+        "family": "Carvajal",
+        "given": "S."
+      },
+      {
+        "family": "Hernández-L.",
+        "given": "L."
+      }
+    ],
+    "title": "Magnolia pugana (Magnoliaceae) una nueva combinación en el complejo M. pacifica",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2002",
+    "page": "137–141",
+    "URL": "https://doi.org/10.2307/3393253",
+    "DOI": "10.2307/3393253"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "S."
+      }
+    ],
+    "title": "Contributions to American Botany. V. Revision of the Genus Ceanothus and Descriptions of New Plants, with a Synopsis of the Western Species of Silene",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Proceedings of the American Academy",
+    "issued": "1875",
+    "page": "333–350",
+    "URL": "https://doi.org/10.2307/20021421",
+    "DOI": "10.2307/20021421"
+  },
+  {
+    "author": [
+      {
+        "family": "Wenzig",
+        "given": "T."
+      }
+    ],
+    "title": "Die Gattung Fraxinus Tourn. Botanische Jahrbücher für Systematik",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1883",
+    "page": "182"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Prodromus Florae Peninsulae Indiae Orientalis",
+    "volume": "1",
+    "type": null,
+    "issued": "1834",
+    "page": "272"
+  }
+]

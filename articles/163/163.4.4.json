@@ -1,0 +1,78 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "W.J."
+      }
+    ],
+    "title": "The palms of New Guinea project",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Flora Malesiana Bulletin",
+    "issued": "2002",
+    "page": "35–37"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "W.J."
+      },
+      {
+        "family": "Dransfield",
+        "given": "J."
+      }
+    ],
+    "title": "New rattans from New Guinea (Calamus, Arecaceae",
+    "volume": "163",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2014",
+    "page": "181–215",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.163.4.1",
+    "DOI": "10.11646/phytotaxa.163.4.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Beccari",
+        "given": "O."
+      }
+    ],
+    "title": "Nuove specie de palme recentemente scoperte alla Nuova Guinea, descritte da O",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Beccari. Nuovo Giornale Botanico Italiano",
+    "issued": "1888",
+    "page": "177–180"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Impensis Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff (continuously updated",
+    "note": "http://sweetgum.nybg.org/ih/ Consulted on 4 December 2013.",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden's Virtual Herbarium",
+    "issued": "2013"
+  }
+]

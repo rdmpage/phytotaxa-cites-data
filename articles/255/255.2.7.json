@@ -1,0 +1,272 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indië 3",
+    "publisher": "Lands Drukkerij",
+    "type": "book",
+    "issued": "1825",
+    "page": "110–160",
+    "publisher-place": "Batavia",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.6656",
+    "DOI": "10.5962/bhl.title.6656"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis 1",
+    "publisher": "Treuttel et Würtz",
+    "type": "book",
+    "issued": "1824",
+    "page": "740",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Colebrooke",
+        "given": "H.T."
+      }
+    ],
+    "title": "On Boswellia and certain Indian Terebinthaceae",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1827",
+    "page": "355–358",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1826.tb00119.x",
+    "DOI": "10.1111/j.1095-8339.1826.tb00119.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant-Book. A portable dictionary of plants, their classification and uses",
+    "edition": "Third",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "2008",
+    "page": "545"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Proud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "Adopted by the eighteenth International Botanical Congress",
+    "publisher": "Koeltz, Königstein",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "274",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Nair",
+        "given": "K.N."
+      },
+      {
+        "family": "Nayar",
+        "given": "M.P."
+      }
+    ],
+    "title": "Rutaceae",
+    "editor": [
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      },
+      {
+        "family": "Nair",
+        "given": "V.J."
+      },
+      {
+        "family": "Daniel",
+        "given": "P."
+      }
+    ],
+    "container-title": "Flora of India 4. Botanical Survey of India, Calcutta",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "259–408"
+  },
+  {
+    "author": [
+      {
+        "family": "Roemer",
+        "given": "M.J."
+      }
+    ],
+    "title": "Familiarum Naturalium Regni Vegetabilis Synopses Monographicae 1",
+    "publisher": "Landes Industrie Comptoir, Weimar",
+    "type": "book",
+    "issued": "1846",
+    "page": "47"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus bengalensis",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Mission Press, Serampore",
+    "issued": "1814",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora Indica 1",
+    "publisher": "Mission Press, Serampore",
+    "type": "book",
+    "issued": "1820",
+    "page": "1–474"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora Indica 2",
+    "publisher": "Mission Press, Serampore",
+    "type": "book",
+    "issued": "1824",
+    "page": "1–571"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora Indica ed",
+    "editor": [
+      {
+        "family": "Thacker",
+        "given": "W."
+      },
+      {
+        "family": "Co.",
+        "given": "Calcutta"
+      }
+    ],
+    "type": null,
+    "issued": "1832",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Voigt",
+        "given": "J.O."
+      }
+    ],
+    "title": "Hortus suburbanus Calcuttensis",
+    "publisher": "Bishop’s College Press",
+    "type": "book",
+    "issued": "1845",
+    "page": "140",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Prodromus Florae Peninsulae Indiae Orientalis 1",
+    "publisher": "Purbury, Allen & Co",
+    "type": "book",
+    "issued": "1834",
+    "page": "94",
+    "publisher-place": "London"
+  }
+]

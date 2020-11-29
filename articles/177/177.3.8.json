@@ -1,0 +1,215 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Listera",
+    "editor": [
+      {
+        "family": "Aiton",
+        "given": "W."
+      },
+      {
+        "family": "Aiton",
+        "given": "W.T."
+      }
+    ],
+    "edition": "2nd",
+    "volume": "5",
+    "publisher": "Longman, Hurst, Rees, Ormes and Brown",
+    "type": "book",
+    "issued": "1813",
+    "page": "201",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      }
+    ],
+    "title": "Three new species of Listera (Orchidaceae) from China",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "4",
+    "issued": "1981",
+    "page": "759–761"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      }
+    ],
+    "title": "Neottia and Listera",
+    "editor": [
+      {
+        "family": "Lang",
+        "given": "K.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1999",
+    "page": "97–121",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      },
+      {
+        "family": "Gale",
+        "given": "S.W."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "Neottia",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "25",
+    "publisher": "Sciences Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "184–195",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      },
+      {
+        "family": "Luo",
+        "given": "Y.B."
+      }
+    ],
+    "title": "Additional notes on Chinese Listera (Orchidaceae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issue": "4",
+    "issued": "2002",
+    "page": "438–440"
+  },
+  {
+    "author": [
+      {
+        "family": "Guettard",
+        "given": "J.É."
+      }
+    ],
+    "title": "Histoire de l’académie royale des sciences. Avec les mémoires de mathématique & de physique",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "L’Imprimerie Royale",
+    "issue": "",
+    "issued": "1754",
+    "page": "374"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Contributions to the Orchidology of India",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issue": "1",
+    "issued": "1857",
+    "page": "170–190"
+  },
+  {
+    "title": "International Union for Conservation of Nature and Natural Resources",
+    "publisher": "IUCN",
+    "note": "and Cambridge, United Kingdom. Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearce",
+        "given": "N.R."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "The Orchids of Bhutan",
+    "publisher": "The Charlesworth Group, Huddersfield",
+    "type": "book",
+    "issued": "2002",
+    "page": "643"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "title": "Genera Orchidacearum, 4",
+    "publisher": "Oxford University Press, Oxford",
+    "type": "book",
+    "issued": "2005",
+    "page": "672"
+  },
+  {
+    "author": [
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      }
+    ],
+    "title": "Systema Orchidalium",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Fragmenta Floristica et Geobotanica Suppl",
+    "issued": "1995",
+    "page": "152"
+  }
+]

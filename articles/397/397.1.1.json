@@ -1,0 +1,169 @@
+[
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "J.G."
+      }
+    ],
+    "title": "Recensio Specierum Generis Pteridis",
+    "type": null,
+    "issued": "1839",
+    "publisher-place": "Lund, Leipzig",
+    "URL": "https://doi.org/10.5962/bhl.title.143613",
+    "DOI": "10.5962/bhl.title.143613"
+  },
+  {
+    "author": [
+      {
+        "family": "Fraser-Jenkins",
+        "given": "C.R."
+      },
+      {
+        "family": "Gandhi",
+        "given": "K.N."
+      },
+      {
+        "family": "Kholia",
+        "given": "B.S."
+      },
+      {
+        "family": "Benniamin",
+        "given": "A."
+      }
+    ],
+    "title": "An Annotated Checklist of Indian Pteridophytes Part-1(Lycopodiaceae to Thelypteridaceae",
+    "type": "article-journal",
+    "container-title": "Bishen Singh Mahenra Pal Singh. Dehra Dun",
+    "issued": "2016",
+    "page": "274–320"
+  },
+  {
+    "author": [
+      {
+        "family": "Liao",
+        "given": "W."
+      },
+      {
+        "family": "Ding",
+        "given": "M."
+      },
+      {
+        "family": "Wu",
+        "given": "Z."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Gilbert",
+        "given": "M.G."
+      }
+    ],
+    "title": "Pteris",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "publisher": "Science Press, Missouri Botanical Garden Press",
+    "type": "book",
+    "issued": "2013",
+    "page": "181–256",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Windisch",
+        "given": "P.G."
+      }
+    ],
+    "title": "The genus Pteris L. (Pteridaceae) in Brazil",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Boletim do Instituto de Botânica, São Paulo",
+    "issued": "2000",
+    "page": "103–199"
+  },
+  {
+    "author": [
+      {
+        "family": "Shieh",
+        "given": "W.C."
+      }
+    ],
+    "title": "A synopsis of the fern genus Pteris in Japan, Ryukyu, and Taiwan",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1966",
+    "page": "283–292",
+    "URL": "https://doi.org/10.15281/jplantres1887.79.283",
+    "DOI": "10.15281/jplantres1887.79.283"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Walker",
+        "given": "T.G."
+      }
+    ],
+    "title": "Cytology and evolution in the fern genus Pteris L",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1962",
+    "page": "27–43",
+    "URL": "https://doi.org/10.1111/j.1558-5646.1962.tb03196.x",
+    "DOI": "10.1111/j.1558-5646.1962.tb03196.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhanga",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.B."
+      }
+    ],
+    "title": "Phylogeny and systematics of the brake fern genus Pteris (Pteridaceae) based on molecular (plastid and nuclear) and morphological evidence",
+    "volume": "118",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2018",
+    "page": "265–285",
+    "URL": "https://doi.org/10.1016/j.ympev.2017.09.011",
+    "DOI": "10.1016/j.ympev.2017.09.011"
+  }
+]

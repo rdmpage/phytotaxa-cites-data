@@ -1,0 +1,383 @@
+[
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "C.A."
+      }
+    ],
+    "title": "Dispositio Algarum Suecae",
+    "volume": "IV",
+    "publisher": "Litteris Berlingianis, Lund",
+    "type": "book",
+    "issued": "1812",
+    "page": "45"
+  },
+  {
+    "author": [
+      {
+        "given": "Anonymous"
+      }
+    ],
+    "title": "Proposals for a standardization of diatom terminology and diagnoses",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia, Beiheft",
+    "issued": "1975",
+    "page": "323–354"
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "E.J."
+      },
+      {
+        "family": "Ross",
+        "given": "R."
+      }
+    ],
+    "title": "The striae of pennate diatoms",
+    "editor": [
+      {
+        "family": "Ross",
+        "given": "R."
+      }
+    ],
+    "container-title": "Proceedings of the Sixth International Diatom Symposium on Resent and Fossil Diatoms. Otto Koeltz, Koenigstein",
+    "type": "paper-conference",
+    "issued": "1981",
+    "page": "267–278"
+  },
+  {
+    "author": [
+      {
+        "family": "Guiry",
+        "given": "M.D."
+      },
+      {
+        "family": "Guiry",
+        "given": "G.M."
+      }
+    ],
+    "title": "AlgaeBase",
+    "publisher": "World-Wide Electronic Publication, National University of Ireland",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "publisher-place": "Galway",
+    "URL": "http://www.algaebase.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Harper",
+        "given": "M.A."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      },
+      {
+        "family": "Patterson",
+        "given": "J.E."
+      }
+    ],
+    "title": "Two unusual diatoms from New Zealand: Tabularia variostriata a new species and Eunophora berggrenii",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2009",
+    "page": "291–306",
+    "URL": "http://dx.doi.org/10.1080/0269249X.2009.9705803",
+    "DOI": "10.1080/0269249X.2009.9705803"
+  },
+  {
+    "author": [
+      {
+        "family": "Kobayasi",
+        "given": "H."
+      },
+      {
+        "family": "Idei",
+        "given": "M."
+      },
+      {
+        "family": "Mayama",
+        "given": "S."
+      },
+      {
+        "family": "Nagumo",
+        "given": "T."
+      },
+      {
+        "family": "Osada",
+        "given": "K."
+      }
+    ],
+    "title": "H",
+    "container-title": "Kobayasi’s Atlas of Japanese Diatoms Based on Electron Microscopy 1",
+    "publisher": "Uchida Rokakuho, Tokyo",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "533"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuriyama",
+        "given": "K."
+      },
+      {
+        "family": "Suzuki",
+        "given": "H."
+      },
+      {
+        "family": "Tanaka",
+        "given": "J."
+      },
+      {
+        "family": "Nagumo",
+        "given": "T."
+      }
+    ],
+    "title": "Morphology of marine diatom Tabularia fasciculata (C",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Agardh) Williams & Round. Bulletin of Nippon Dental University, General Education",
+    "issued": "2008",
+    "page": "43–46"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuriyama",
+        "given": "K."
+      },
+      {
+        "family": "Suzuki",
+        "given": "H."
+      },
+      {
+        "family": "Nagumo",
+        "given": "T."
+      },
+      {
+        "family": "Tanaka",
+        "given": "J."
+      }
+    ],
+    "title": "Morphology and taxonomy of marine benthic diatom (1), Tabularia (Fragilariaceae, Fragilariales",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "2010",
+    "page": "79–89"
+  },
+  {
+    "author": [
+      {
+        "family": "Kützing",
+        "given": "F.T."
+      }
+    ],
+    "title": "Die Kieselschaligen Bacillarien oder Diatomeen",
+    "publisher": "W. Köhne, Nordhausen",
+    "type": "book",
+    "issued": "1844",
+    "page": "152",
+    "URL": "http://dx.doi.org/10.1080/037454809495289",
+    "DOI": "10.1080/037454809495289"
+  },
+  {
+    "author": [
+      {
+        "family": "Kützing",
+        "given": "F.T."
+      }
+    ],
+    "title": "Species Algarum",
+    "publisher": "F.A. Brockhaus, Leipzig",
+    "type": "book",
+    "issued": "1849",
+    "page": "922",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.60464",
+    "DOI": "10.5962/bhl.title.60464"
+  },
+  {
+    "author": [
+      {
+        "family": "Nagumo",
+        "given": "T."
+      }
+    ],
+    "title": "Simple and safe cleaning methods for diatom samples",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Diatom",
+    "issued": "1995",
+    "page": "88"
+  },
+  {
+    "author": [
+      {
+        "family": "Nagumo",
+        "given": "T."
+      },
+      {
+        "family": "Kobayasi",
+        "given": "H."
+      }
+    ],
+    "title": "The bleaching method for gently loosening and cleaning a single diatom frustule",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Diatom",
+    "issued": "1990",
+    "page": "45–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Okamura",
+        "given": "K."
+      }
+    ],
+    "title": "On the algae from Ogasawara-jima (Bonin Islands",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "The Botanical Magazine, Tokyo",
+    "issued": "1897",
+    "page": "1–17",
+    "URL": "http://dx.doi.org/10.15281/jplantres1887.11.120_en11",
+    "DOI": "10.15281/jplantres1887.11.120_en11"
+  },
+  {
+    "author": [
+      {
+        "family": "Osada",
+        "given": "K."
+      },
+      {
+        "family": "Nagumo",
+        "given": "T."
+      }
+    ],
+    "title": "An introduction to diatom research",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bulletin of Nippon Dental University, General Education",
+    "issued": "2001",
+    "page": "131–142"
+  },
+  {
+    "author": [
+      {
+        "family": "Ross",
+        "given": "R."
+      },
+      {
+        "family": "Cox",
+        "given": "E.J."
+      },
+      {
+        "family": "Karayeva",
+        "given": "N.I."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      },
+      {
+        "family": "Paddock",
+        "given": "T.B.B."
+      },
+      {
+        "family": "Simonsen",
+        "given": "R."
+      },
+      {
+        "family": "Sims",
+        "given": "P.A."
+      }
+    ],
+    "title": "An amended terminology for the siliceous components of the diatom cell",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia, Beiheft",
+    "issued": "1979",
+    "page": "513–533"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "W."
+      }
+    ],
+    "title": "Synopsis of the British Diatomaceae",
+    "volume": "II",
+    "publisher": "John Van Vorst, London",
+    "type": "book",
+    "issued": "1856",
+    "page": "107",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.10706",
+    "DOI": "10.5962/bhl.title.10706"
+  },
+  {
+    "author": [
+      {
+        "family": "Snoeijs",
+        "given": "P."
+      }
+    ],
+    "title": "Studies in the Tabularia fasciculata complex",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "1992",
+    "page": "313–344",
+    "URL": "http://dx.doi.org/10.1080/0269249X.1992.9705223",
+    "DOI": "10.1080/0269249X.1992.9705223"
+  },
+  {
+    "author": [
+      {
+        "family": "Snoeijs",
+        "given": "P."
+      },
+      {
+        "family": "Kuylenstierna",
+        "given": "M."
+      }
+    ],
+    "title": "Two new diatom species in the genus Tabularia from the Swedish coast",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "1991",
+    "page": "351–365",
+    "URL": "http://dx.doi.org/10.1080/0269249X.1991.9705181",
+    "DOI": "10.1080/0269249X.1991.9705181"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "D.M."
+      },
+      {
+        "family": "Round",
+        "given": "F.E."
+      }
+    ],
+    "title": "Revision of the genus Synedra Ehrenb",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "1986",
+    "page": "313–339",
+    "URL": "http://dx.doi.org/10.1080/0269249X.1986.9704976",
+    "DOI": "10.1080/0269249X.1986.9704976"
+  }
+]

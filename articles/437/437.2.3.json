@@ -1,0 +1,269 @@
+[
+  {
+    "author": [
+      {
+        "given": "A.V.H."
+      }
+    ],
+    "title": "The Australasian Virtual Herbarium. Council of Heads of Australasian Herbaria",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://avh.chah.org.au/"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Compositae",
+        "given": "Myrtaceae- L.X.I.I."
+      }
+    ],
+    "title": "Orders XLVIII",
+    "volume": "3",
+    "publisher": "Reeve & Co",
+    "type": "book",
+    "issued": "1867",
+    "page": "337–345",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "J.M."
+      }
+    ],
+    "title": "Flora of South Australia",
+    "volume": "2, Vol. 3",
+    "publisher": "British Science Guild, South Australian Branch, Adelaide",
+    "type": "article-journal",
+    "container-title": "Edn",
+    "issued": "1952",
+    "page": "651"
+  },
+  {
+    "author": [
+      {
+        "given": "C.H.A.H."
+      }
+    ],
+    "title": "Australian Plant Census, Council of Heads of Australasian Herbaria",
+    "note": "accessed 1 April 2019",
+    "type": null,
+    "issued": "2011",
+    "URL": "https://biodiversity.org.au/nsl/services/APC"
+  },
+  {
+    "author": [
+      {
+        "family": "Constance",
+        "given": "L."
+      },
+      {
+        "family": "Dillon",
+        "given": "M.O."
+      }
+    ],
+    "title": "A new peltate Hydrocotyle (Umbelliferae) from northern Peru",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1990",
+    "page": "257–259",
+    "URL": "https://doi.org/10.2307/2806813",
+    "DOI": "10.2307/2806813"
+  },
+  {
+    "author": [
+      {
+        "family": "Eichler",
+        "given": "Hj"
+      }
+    ],
+    "title": "Hydrocotyle",
+    "editor": [
+      {
+        "family": "Jessop",
+        "given": "J.P."
+      },
+      {
+        "family": "Toelken",
+        "given": "H.R."
+      }
+    ],
+    "container-title": "Flora of South Australia",
+    "volume": "2",
+    "publisher": "South Australian Government Printing Division, Adelaide",
+    "type": "chapter",
+    "issued": "1986",
+    "page": "992–999"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": "article-journal",
+    "container-title": "Laurentius Salvius, Holmiae",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mathias",
+        "given": "M.E."
+      }
+    ],
+    "title": "The genus Hydrocotyle in northern South America",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "3",
+    "issued": "1936",
+    "page": "201–237",
+    "URL": "https://doi.org/10.2307/2804862",
+    "DOI": "10.2307/2804862"
+  },
+  {
+    "author": [
+      {
+        "family": "Mueller",
+        "given": "F.J.H.von"
+      }
+    ],
+    "title": "Definitions of rare or hitherto undescribed Australian plants",
+    "type": "article-journal",
+    "container-title": "Goodhugh & Trembath, Melbourne",
+    "issued": "1855",
+    "page": "46"
+  },
+  {
+    "author": [
+      {
+        "family": "Perkins",
+        "given": "A.J."
+      }
+    ],
+    "title": "Hydrocotyle spinulifera and H. dimorphocarpa (Araliaceae), two new Western Australian species with dimorphic mericarps",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Nuytsia",
+    "issued": "2018",
+    "page": "57–65"
+  },
+  {
+    "author": [
+      {
+        "family": "Perkins",
+        "given": "A.J."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Hydrocotyle asterocarpa, H. decorata and H. perforata (Araliaceae"
+      }
+    ],
+    "title": "three new Western Australian species with spicate inflorescences",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Nuytsia",
+    "issued": "2018",
+    "page": "205–216"
+  },
+  {
+    "author": [
+      {
+        "family": "Perkins",
+        "given": "A.J."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Hydrocotyle eichleri, H. papilionella and H. tuberculata (Araliaceae"
+      }
+    ],
+    "title": "three new annual species from Western Australia",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Nuytsia",
+    "issued": "2018",
+    "page": "233–243"
+  },
+  {
+    "author": [
+      {
+        "family": "Perkins",
+        "given": "A.J."
+      }
+    ],
+    "title": "Molecular phylogenetics and species delimitation in annual species of Hydrocotyle (Araliaceae) from South Western Australia",
+    "volume": "134",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics & Evolution",
+    "issued": "2019",
+    "page": "129–141",
+    "URL": "https://doi.org/10.1016/j.ympev.2019.02.011",
+    "DOI": "10.1016/j.ympev.2019.02.011"
+  },
+  {
+    "author": [
+      {
+        "family": "Perkins",
+        "given": "A.J."
+      }
+    ],
+    "title": "Nomenclatural updates and a new species of annual Hydrocotyle (Araliaceae) from Western Australia",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nuytsia",
+    "issued": "2019",
+    "page": "253–277"
+  },
+  {
+    "author": [
+      {
+        "family": "Perkins",
+        "given": "A.J."
+      }
+    ],
+    "title": "Araliaceae. In: Flora of Australia. Australian Biological Resources Study, Department of the Environment and Energy, Canberra",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://profiles.ala.org.au/opus/foa/profile/Araliaceae"
+  },
+  {
+    "author": [
+      {
+        "family": "Richard",
+        "given": "A."
+      }
+    ],
+    "title": "Monographie du genre Hydrocotyle de la famille des Ombellifères",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Annales Generales des Sciences Physiques",
+    "issued": "1820",
+    "page": "145–224"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated]) Index Herbariorum: a global directory of public herbaria and associated staff",
+    "publisher": "New York Botanical Garden’s Virtual Herbarium",
+    "type": "book",
+    "issued": "2020"
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile",
+    "volume": "154",
+    "type": null,
+    "issued": "2012",
+    "page": "1–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "M.C."
+      }
+    ],
+    "title": "Three combinations in Brazilian Plinia (Myrtaceae",
+    "volume": "316",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "88–90",
+    "URL": "https://doi.org/10.11646/phytotaxa.316.1.9",
+    "DOI": "10.11646/phytotaxa.316.1.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+    "volume": "6",
+    "publisher": "Authors Sti-Vuy]. Bohn, Scheltema & Holkema, Utrecht",
+    "type": "book",
+    "issued": "1986",
+    "page": "926"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M.C."
+      }
+    ],
+    "title": "Flora Fluminensis. Ex Typographia nationali, 1825",
+    "publisher": "Flumine Januario",
+    "type": "book",
+    "issued": "1829",
+    "page": "352"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M.C."
+      },
+      {
+        "family": "Arrábida",
+        "given": "F.A.de"
+      },
+      {
+        "family": "Senefelder",
+        "given": "A."
+      }
+    ],
+    "title": "Florae Fluminensis Icones",
+    "volume": "5",
+    "note": "Ex off. lithogr. Senefelder, curante J. Knecht, 1827,",
+    "publisher": "Paris",
+    "type": null,
+    "issued": "1831",
+    "page": "137"
+  }
+]

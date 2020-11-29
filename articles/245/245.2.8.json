@@ -1,0 +1,337 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baral",
+        "given": "H.O."
+      }
+    ],
+    "title": "The European and North-American species of Sarcoscypha",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "URL": "http://www.gbif-mycology.de/HostedSites/Baral/Sarcoscypha.htm"
+  },
+  {
+    "author": [
+      {
+        "family": "Baral",
+        "given": "H.O."
+      }
+    ],
+    "title": "Taxonomische und ökologische Studien über Sarcoscypha coccinea agg., Zinnoberrote Kelchbecherlinge",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Kurzfassung). Zeitschrift für Mykologie",
+    "issued": "1984",
+    "page": "117–145"
+  },
+  {
+    "author": [
+      {
+        "family": "Boudier",
+        "given": "J.L.E."
+      }
+    ],
+    "title": "Nouvelles especes de champignons de France",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Bulletin trimestriel de la Société mycologique de France",
+    "issued": "1885",
+    "page": "91 120"
+  },
+  {
+    "author": [
+      {
+        "family": "Boudier",
+        "given": "J.L.E."
+      }
+    ],
+    "title": "Histoire et classification des Discomycetes d’Europe",
+    "type": null,
+    "issued": "1907",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Harrington",
+        "given": "F.A."
+      }
+    ],
+    "title": "Sarcoscypha in North America (Pezizales, Sarcoscyphaecae",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1990",
+    "page": "417 458"
+  },
+  {
+    "author": [
+      {
+        "family": "Harrington",
+        "given": "F.A."
+      },
+      {
+        "family": "Potter",
+        "given": "D."
+      }
+    ],
+    "title": "Phylogenetic relationships within the fungal genus Sarcoscypha (Sarcoscyphineae, Pezizales) based upon nucleotide sequences of the internal transcribed spacer of nuclear ribosomal DNA",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1997",
+    "page": "258 267",
+    "URL": "http://dx.doi.org/10.2307/3761080",
+    "DOI": "10.2307/3761080"
+  },
+  {
+    "author": [
+      {
+        "family": "Harrington",
+        "given": "F.A."
+      }
+    ],
+    "title": "Relationships among Sarcoscypha species: evidence from molecular and morphological characters",
+    "volume": "90",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1998",
+    "page": "235 243",
+    "URL": "http://dx.doi.org/10.2307/3761299",
+    "DOI": "10.2307/3761299"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "C.-L."
+      },
+      {
+        "family": "Y.-Z",
+        "given": "Wang"
+      }
+    ],
+    "title": "New records of endophytic fungi associated with the Araucariaceae in Taiwan",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Collection and Research",
+    "issued": "2011",
+    "page": "87 95"
+  },
+  {
+    "author": [
+      {
+        "family": "Otani",
+        "given": "Y."
+      }
+    ],
+    "title": "Sarcoscyphineae of Japan",
+    "volume": "21",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "1980",
+    "page": "149 179"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridgway",
+        "given": "R."
+      }
+    ],
+    "title": "Color standards and color nomenclature",
+    "genre": "Publ. by the author,",
+    "type": null,
+    "issued": "1912",
+    "page": "43 , 53",
+    "publisher-place": "Washington, D.C"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A."
+      }
+    ],
+    "title": "FigTree v1.3.1",
+    "publisher": "Institute of Evolutionary Biology, University of Edinburgh",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "publisher-place": "Edinburgh",
+    "URL": "http://tree.bio.ed.ac.uk/software/figtree/"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572 1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Saccardo",
+        "given": "F.A."
+      }
+    ],
+    "title": "Sylloge Fungorum hucusque cognitorium 8",
+    "publisher": "Patavii",
+    "type": "book",
+    "issued": "1889"
+  },
+  {
+    "author": [
+      {
+        "family": "Tibuhwa",
+        "given": "D.D."
+      }
+    ],
+    "title": "Morphology and taxonomy of Sarcoscypha ololosokwaniensis sp. nov. a new Ascomycota species from Serengeti National Park-Tanzania",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Journal of Yeast and Fungal Research",
+    "issued": "2011",
+    "page": "1 6"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Y.-Z."
+      }
+    ],
+    "title": "Discomycetes of the Sarcoscyphaceae in Taiwan",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2001",
+    "page": "329 336"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Z."
+      },
+      {
+        "family": "Zhuang",
+        "given": "W.-y"
+      }
+    ],
+    "title": "Taxonomic studies of the genus Sarcoscypha in China",
+    "volume": "8−9",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "1996",
+    "page": "39 52"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press Inc",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315 322",
+    "publisher-place": "New York",
+    "URL": "http://dx.doi.org/10.1016/b978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/b978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "W.-Y."
+      }
+    ],
+    "title": "The genus Sarcoscypha in Jiaohe, Jilin province, with notes on surface morphology of ascospores",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "1993",
+    "page": "65 72"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "W.-Y."
+      }
+    ],
+    "title": "Additional notes on Sarcoscypha in China",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2000",
+    "page": "1 8"
+  },
+  {
+    "author": [
+      {
+        "family": "Zwickl",
+        "given": "D.J."
+      }
+    ],
+    "title": "Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion",
+    "genre": "Ph.D. dissertation,",
+    "publisher": "The University of Texas at Austin",
+    "type": "thesis",
+    "issued": "2006"
+  }
+]

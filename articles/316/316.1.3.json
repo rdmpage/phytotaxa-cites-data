@@ -1,0 +1,784 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "note": "Version BETA",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Berger",
+        "given": "B.A."
+      },
+      {
+        "family": "Kriebel",
+        "given": "R."
+      },
+      {
+        "family": "Spalink",
+        "given": "D."
+      },
+      {
+        "family": "Sytsma",
+        "given": "K.J."
+      }
+    ],
+    "title": "Divergence times, historical biogeography, and shifts in speciation rates of Myrtales",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2016",
+    "page": "116–136",
+    "URL": "https://doi.org/10.1016/j.ympev.2015.10.001",
+    "DOI": "10.1016/j.ympev.2015.10.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Brade",
+        "given": "A.C."
+      }
+    ],
+    "title": "Algumas espécies novas do gênero Microlicia (Melastomataceae) da Flora do Brasil",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Arquivos de Botânica do Estado de São Paulo",
+    "issued": "1962",
+    "page": "249–261"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Brazil Flora"
+      }
+    ],
+    "title": "Growing knowledge: an overview of Seed Plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2015",
+    "page": "1085–1113",
+    "URL": "https://doi.org/10.1590/2175-7860201566411",
+    "DOI": "10.1590/2175-7860201566411"
+  },
+  {
+    "author": [
+      {
+        "family": "Chamisso",
+        "given": "A."
+      }
+    ],
+    "title": "De plantis in expeditione speculatoria romanzoffiana et in herbariis regiis berolinensibus obervatis, Melastomaceae americanae",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1834",
+    "page": "368–402 428–460"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora Brasiliensis. Monachii, Lipsiae",
+    "type": "chapter",
+    "issued": "1883",
+    "page": "1–626"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Mélastomaceés",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A."
+      },
+      {
+        "family": "De Candolle",
+        "given": "C."
+      }
+    ],
+    "container-title": "Monographiae Phanerogamarum",
+    "volume": "7",
+    "publisher": "G. Masson",
+    "type": "chapter",
+    "issued": "1891",
+    "page": "1–1256",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Conceição",
+        "given": "A.A."
+      },
+      {
+        "family": "Rapini",
+        "given": "A."
+      },
+      {
+        "family": "Carmo",
+        "given": "F.F."
+      },
+      {
+        "family": "Brito",
+        "given": "J.C."
+      },
+      {
+        "family": "Silva",
+        "given": "G.A.Neves"
+      },
+      {
+        "given": "S.P.S."
+      },
+      {
+        "family": "Jacobi",
+        "given": "C.M."
+      }
+    ],
+    "title": "Rupestrian Grassland Vegetation, Diversity, and Origin",
+    "editor": [
+      {
+        "family": "Fernandes",
+        "given": "G.W."
+      }
+    ],
+    "container-title": "Ecology and Conservation of Mountaintop Grasslands in Brazil",
+    "publisher": "Springer International Publishing",
+    "type": "chapter",
+    "issued": "2016",
+    "page": "105–127",
+    "publisher-place": "Switzerland",
+    "URL": "https://doi.org/10.1007/978-3-319-29808-5_6",
+    "DOI": "10.1007/978-3-319-29808-5_6"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "publisher": "Treuttel et Würtz",
+    "type": "book",
+    "issued": "1828",
+    "page": "3",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "An illustration of the natural family of plants called Melastomataceae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Wernerian Natural History Society",
+    "issued": "1823",
+    "page": "276–329"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernandes",
+        "given": "G.W."
+      }
+    ],
+    "title": "The Megadiverse Rupestrian Grassland",
+    "editor": [
+      {
+        "family": "Fernandes",
+        "given": "G.W."
+      }
+    ],
+    "container-title": "Ecology and Conservation of Mountaintop Grasslands in Brazil",
+    "publisher": "Springer International Publishing",
+    "type": "chapter",
+    "issued": "2016",
+    "page": "3–14",
+    "publisher-place": "Switzerland",
+    "URL": "https://doi.org/10.1007/978-3-319-29808-5_1",
+    "DOI": "10.1007/978-3-319-29808-5_1"
+  },
+  {
+    "author": [
+      {
+        "family": "Fritsch",
+        "given": "P.W."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      },
+      {
+        "family": "Martins",
+        "given": "A.B."
+      },
+      {
+        "family": "Cruz",
+        "given": "B.C."
+      }
+    ],
+    "title": "Phylogeny and circumscription of the near-endemic Brazilian tribe Microlicieae (Melastomataceae",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2004",
+    "page": "1105–1114",
+    "URL": "https://doi.org/10.3732/ajb.91.7.1105",
+    "DOI": "10.3732/ajb.91.7.1105"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Sosa",
+        "given": "K."
+      },
+      {
+        "family": "Ribeiro",
+        "given": "R.C."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      }
+    ],
+    "title": "Rupestrea: a new Brazilian genus of Melastomataceae, with anomalous seeds and dry indehiscent fruits",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2015",
+    "page": "561–571",
+    "URL": "https://doi.org/10.1600/036364415X688862",
+    "DOI": "10.1600/036364415X688862"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red list Categories and Criteria. Version 12. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://jr.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Machado",
+        "given": "A.I.M.R."
+      }
+    ],
+    "title": "Melastomataceae no Parque Estadual da Serra Dourada, Goiás",
+    "volume": "Uberlândia",
+    "type": "article-journal",
+    "container-title": "Universidade Federal de Uberlândia",
+    "issued": "2015",
+    "page": "99"
+  },
+  {
+    "author": [
+      {
+        "family": "Naudin",
+        "given": "C.V."
+      }
+    ],
+    "title": "Additions a la flore du Brésil méridional. Description de genres nouveaux, et rectification de quelques anciens genres appartenant à la famille des Mélastomacées",
+    "volume": "3 3",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles, Botanique, sér",
+    "issued": "1845",
+    "page": "169–192"
+  },
+  {
+    "author": [
+      {
+        "family": "Naudin",
+        "given": "C.V."
+      }
+    ],
+    "title": "Melastomatacearum monographieae descriptiones",
+    "volume": "3 12",
+    "type": "article-journal",
+    "container-title": "Annales de Sciences Naturelles, sér",
+    "issued": "1849",
+    "page": "196–270"
+  },
+  {
+    "author": [
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      },
+      {
+        "family": "Sano",
+        "given": "P.T."
+      },
+      {
+        "family": "Mello-Silva",
+        "given": "R."
+      },
+      {
+        "family": "Menezes",
+        "given": "N.L."
+      },
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      },
+      {
+        "family": "Zappi",
+        "given": "D.C."
+      },
+      {
+        "family": "Jono",
+        "given": "V.Y."
+      }
+    ],
+    "title": "Flora da Serra do Cipó, Minas Gerais",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.ib.usp.br/botanica/serradocipo"
+  },
+  {
+    "author": [
+      {
+        "given": "R.E.F.L.O.R.A."
+      }
+    ],
+    "title": "Flora do Brasil 2020 em construção [Melastomataceae]. Jardim Botânico do Rio de Janeiro",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB161"
+  },
+  {
+    "author": [
+      {
+        "family": "Renner",
+        "given": "S.S."
+      },
+      {
+        "family": "Triebel",
+        "given": "D."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Stone",
+        "given": "D."
+      },
+      {
+        "family": "Ulloa",
+        "given": "C.U."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Cifuentes",
+        "given": "H.M."
+      }
+    ],
+    "title": "Melastomataceae.Net. A site with information on the biodiversity of Melastomataceae",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rocha",
+        "given": "M.J.R."
+      },
+      {
+        "family": "Guimarães",
+        "given": "P.J.F."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Romero",
+        "given": "R."
+      }
+    ],
+    "title": "Phylogenetic placement and a new circumscription of Poteranthera (Microlicieae; Melastomataceae",
+    "volume": "263",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "219–232",
+    "URL": "https://doi.org/10.11646/phytotaxa.263.3.3",
+    "DOI": "10.11646/phytotaxa.263.3.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      }
+    ],
+    "title": "Validation of the name Microlicia petiolulata (Melastomataceae), a new species from the Espinhaço Range",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Minas Gerais, Brazil. Kew Bulletin",
+    "issued": "2010",
+    "page": "69–72",
+    "URL": "https://doi.org/10.1007/s12225-010-9182-7",
+    "DOI": "10.1007/s12225-010-9182-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      },
+      {
+        "family": "Woodgyer",
+        "given": "E.M."
+      }
+    ],
+    "title": "Microlicia hirticalyx (Melastomataceae): a new name for Microlicia acuminata Cogn",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2011",
+    "page": "163–165",
+    "URL": "https://doi.org/10.1007/s12225-011-9264-1",
+    "DOI": "10.1007/s12225-011-9264-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      }
+    ],
+    "title": "A new species of Microlicia (Melastomataceae) from the Espinhaço Range",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Minas Gerais, Brazil. Phytotaxa",
+    "issued": "2013",
+    "page": "1–5",
+    "URL": "https://doi.org/10.11646/phytotaxa.88.1.1",
+    "DOI": "10.11646/phytotaxa.88.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Romero",
+        "given": "R."
+      },
+      {
+        "family": "Silva",
+        "given": "K.R."
+      },
+      {
+        "family": "Simão",
+        "given": "D.G."
+      }
+    ],
+    "title": "Microlicia cogniauxiana and Microlicia naudiniana (Melastomataceae), Two New Species from the Espinhaço Range, Brazil",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2015",
+    "page": "1012–1021",
+    "URL": "https://doi.org/10.1600/036364415X690058",
+    "DOI": "10.1600/036364415X690058"
+  },
+  {
+    "author": [
+      {
+        "family": "Silveira",
+        "given": "F.A.O."
+      },
+      {
+        "family": "Negreiros",
+        "given": "D."
+      },
+      {
+        "family": "Barbosa",
+        "given": "N.P.U."
+      },
+      {
+        "family": "Buisson",
+        "given": "E."
+      },
+      {
+        "family": "Carmo",
+        "given": "F.F."
+      },
+      {
+        "family": "Carstensen",
+        "given": "D.W."
+      },
+      {
+        "family": "Conceição",
+        "given": "A.A."
+      },
+      {
+        "family": "Cornelissen",
+        "given": "T.G."
+      },
+      {
+        "family": "Echternacht",
+        "given": "L."
+      },
+      {
+        "family": "Fernandes",
+        "given": "G.W."
+      },
+      {
+        "family": "Garcia",
+        "given": "Q.S."
+      },
+      {
+        "family": "Guerra",
+        "given": "T.J."
+      },
+      {
+        "family": "Jacobi",
+        "given": "C.M."
+      },
+      {
+        "family": "Lemos-Filho",
+        "given": "J.P."
+      },
+      {
+        "family": "Stradic",
+        "given": "S.L."
+      },
+      {
+        "family": "Morellato",
+        "given": "L.P.C."
+      },
+      {
+        "family": "Neves",
+        "given": "F.S."
+      },
+      {
+        "family": "Oliveira",
+        "given": "R.S."
+      },
+      {
+        "family": "Schaefer",
+        "given": "C.E."
+      },
+      {
+        "family": "Viana",
+        "given": "P.L."
+      },
+      {
+        "family": "Lambers",
+        "given": "H."
+      }
+    ],
+    "title": "Ecology and evolution of plant diversity in the endangered campo rupestre: a neglected conservation priority",
+    "volume": "403",
+    "type": "article-journal",
+    "container-title": "Plant and Soil",
+    "issued": "2015",
+    "page": "129–152",
+    "URL": "https://doi.org/10.1007/s11104-015-2637-8",
+    "DOI": "10.1007/s11104-015-2637-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Simon",
+        "given": "M.F."
+      },
+      {
+        "family": "Grether",
+        "given": "R."
+      },
+      {
+        "family": "Queiroz",
+        "given": "L.P."
+      },
+      {
+        "family": "Skema",
+        "given": "C."
+      },
+      {
+        "family": "Pennington",
+        "given": "T."
+      },
+      {
+        "family": "Hughes",
+        "given": "C.E."
+      }
+    ],
+    "title": "Recent assembly of the Cerrado, a neotropical plant diversity hotspot, by in situ evolution of adaptations to fire",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "106",
+    "type": "paper-conference",
+    "issued": "2009",
+    "page": "20359–20364",
+    "URL": "https://doi.org/10.1073/pnas.0903410106",
+    "DOI": "10.1073/pnas.0903410106"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Triana",
+        "given": "J.J."
+      }
+    ],
+    "title": "Les Melastomacées",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1871",
+    "page": "1–188",
+    "URL": "https://doi.org/10.1111/j.1096-3642.1871.tb00222.x",
+    "DOI": "10.1111/j.1096-3642.1871.tb00222.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Versiane",
+        "given": "A.F.A."
+      },
+      {
+        "family": "Santos",
+        "given": "M.L."
+      },
+      {
+        "family": "Romero",
+        "given": "R."
+      }
+    ],
+    "title": "Melastomataceae na Serra dos Pireneus, Goiás, Brasil",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2016",
+    "page": "721–759",
+    "URL": "https://doi.org/10.1590/2175-7860201667314",
+    "DOI": "10.1590/2175-7860201667314"
+  },
+  {
+    "author": [
+      {
+        "family": "Woodgyer",
+        "given": "E.M."
+      },
+      {
+        "family": "Zappi",
+        "given": "D.C."
+      }
+    ],
+    "title": "Two new species of Microlicia D. Don (Melastomataceae) from Catolés, Bahia",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "NE Brazil. Kew Bulletin",
+    "issued": "2005",
+    "page": "435–440"
+  }
+]

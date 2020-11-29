@@ -1,0 +1,593 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abbott",
+        "given": "J.R."
+      }
+    ],
+    "title": "Notes on the disintegration of Polygala (Polygalaceae) with four new genera for the flora of North America",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Journal of the Botanical Research Institute of Texas",
+    "issued": "2011",
+    "page": "125–137"
+  },
+  {
+    "author": [
+      {
+        "family": "APG",
+        "suffix": "III"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of plants: APG III",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2009",
+    "page": "105–121",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2009.00996.x",
+    "DOI": "10.1111/j.1095-8339.2009.00996.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Bello",
+        "given": "M.A."
+      },
+      {
+        "family": "Hawkins",
+        "given": "J.A."
+      },
+      {
+        "family": "Rudall",
+        "given": "P.J."
+      }
+    ],
+    "title": "Floral ontogeny in Polygalaceae and its bearing on the homologies of keeled flowers in Fabales",
+    "volume": "171",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issue": "5",
+    "issued": "2010",
+    "page": "482–498",
+    "URL": "http://dx.doi.org/10.1086/651945",
+    "DOI": "10.1086/651945"
+  },
+  {
+    "author": [
+      {
+        "family": "Bello",
+        "given": "M.A."
+      },
+      {
+        "family": "Rudall",
+        "given": "P.J."
+      },
+      {
+        "family": "Hawkins",
+        "given": "J.A."
+      }
+    ],
+    "title": "Combined phylogenetic analyses reveal interfamilial relationships and patterns of floral evolution in eudicot order Fabales",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "2012",
+    "page": "393–421",
+    "URL": "http://dx.doi.org/10.1111/j.1096-0031.2012.00392.x",
+    "DOI": "10.1111/j.1096-0031.2012.00392.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Soltis",
+        "given": "D.E."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      },
+      {
+        "family": "Morgan",
+        "given": "D."
+      },
+      {
+        "family": "Les",
+        "given": "D.H."
+      },
+      {
+        "family": "Mishler",
+        "given": "B.D."
+      },
+      {
+        "family": "Duvall",
+        "given": "M.R."
+      },
+      {
+        "family": "Price",
+        "given": "R.A."
+      },
+      {
+        "family": "Hills",
+        "given": "H.G."
+      },
+      {
+        "family": "Qiu",
+        "given": "Y.-L."
+      },
+      {
+        "family": "Kron",
+        "given": "K.A."
+      },
+      {
+        "family": "Rettig",
+        "given": "J.H."
+      },
+      {
+        "family": "Conti",
+        "given": "E."
+      },
+      {
+        "family": "Palmer",
+        "given": "J.D."
+      },
+      {
+        "family": "Manhart",
+        "given": "J.R."
+      },
+      {
+        "family": "Sytsma",
+        "given": "K.J."
+      },
+      {
+        "family": "Michaels",
+        "given": "H.J."
+      },
+      {
+        "family": "Kress",
+        "given": "W.J."
+      },
+      {
+        "family": "Karol",
+        "given": "K.G."
+      },
+      {
+        "family": "Clark",
+        "given": "W.D."
+      },
+      {
+        "family": "Hedrén",
+        "given": "M."
+      },
+      {
+        "family": "Gaut",
+        "given": "B.S."
+      },
+      {
+        "family": "Jansen",
+        "given": "R.K."
+      },
+      {
+        "family": "Kim",
+        "given": "K.-J."
+      },
+      {
+        "family": "Wimpee",
+        "given": "C.F."
+      },
+      {
+        "family": "Smith",
+        "given": "J.F."
+      },
+      {
+        "family": "Furnier",
+        "given": "G.R."
+      },
+      {
+        "family": "Strauss",
+        "given": "S.H."
+      },
+      {
+        "family": "Xiang",
+        "given": "Q.-Y."
+      },
+      {
+        "family": "Plunkett",
+        "given": "G.M."
+      },
+      {
+        "family": "Soltis",
+        "given": "P.S."
+      },
+      {
+        "family": "Swensen",
+        "given": "S.M."
+      },
+      {
+        "family": "Williams",
+        "given": "S.E."
+      },
+      {
+        "family": "Gadek",
+        "given": "P.A."
+      },
+      {
+        "family": "Quinn",
+        "given": "C.J."
+      },
+      {
+        "family": "Eguiarte",
+        "given": "L.E."
+      },
+      {
+        "family": "Golenberg",
+        "given": "E."
+      },
+      {
+        "family": "Learn",
+        "given": "G.H.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Graham",
+        "given": "S.W."
+      },
+      {
+        "family": "Barrett",
+        "given": "S.C.H."
+      },
+      {
+        "family": "Dayanandan",
+        "given": "S."
+      },
+      {
+        "family": "Albert",
+        "given": "V.A."
+      }
+    ],
+    "title": "Phylogenetics of seed plants: an analysis of nucleotide sequences from the plastic gene rbcL",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1993",
+    "page": "528–580",
+    "URL": "http://dx.doi.org/10.2307/2399846",
+    "DOI": "10.2307/2399846"
+  },
+  {
+    "author": [
+      {
+        "family": "Commelin",
+        "given": "J."
+      }
+    ],
+    "title": "Horti Medici Amstelodamensis rariorum tam Orientalis, quam Occidentalis Indiae, aliarumque peregrinarum plantarum 1",
+    "volume": "Amsterdam",
+    "type": "article-journal",
+    "container-title": "P. & J. Blaeu",
+    "issued": "1697",
+    "page": "220"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis 1",
+    "publisher": "Treuttel et Würtz",
+    "type": "book",
+    "issued": "1824",
+    "page": "745",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Exell",
+        "given": "A.W."
+      }
+    ],
+    "title": "Polygalaceae",
+    "editor": [
+      {
+        "family": "Exell",
+        "given": "A.W."
+      },
+      {
+        "family": "Wild",
+        "given": "H."
+      }
+    ],
+    "publisher": "Crown Agents for Oversea Governments and Administrations",
+    "type": "book",
+    "issued": "1960",
+    "page": "336"
+  },
+  {
+    "author": [
+      {
+        "family": "Friedrich-Holzhammer",
+        "given": "M."
+      },
+      {
+        "family": "Merxmüller",
+        "given": "H."
+      }
+    ],
+    "title": "Polygalaceae",
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "Prodromus einer Flora von Südwestafrika",
+    "issued": "1968",
+    "page": "1–8"
+  },
+  {
+    "author": [
+      {
+        "family": "Levyns",
+        "given": "M.R."
+      }
+    ],
+    "title": "The species of Polygala in the South-Western Cape Province",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "South African Journal of Science",
+    "issued": "1955",
+    "page": "9–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 2. L",
+    "publisher": "Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "639"
+  },
+  {
+    "author": [
+      {
+        "family": "Paiva",
+        "given": "J."
+      }
+    ],
+    "title": "Polygalarum africanarum et madagascariensium prodromus atque gerontogaei generis Heterosamara Kuntze, a genere Polygala L. segregati et a nobis denuo recepti, synopsis monographica",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Fontqueria",
+    "issued": "1998",
+    "page": "1–346"
+  },
+  {
+    "author": [
+      {
+        "family": "Paiva",
+        "given": "J."
+      }
+    ],
+    "title": "Polygalaceae",
+    "editor": [
+      {
+        "family": "Beentje",
+        "given": "H.J."
+      },
+      {
+        "family": "Ghazanfar",
+        "given": "S.A."
+      }
+    ],
+    "volume": "Kew",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens",
+    "issued": "2007",
+    "page": "64"
+  },
+  {
+    "author": [
+      {
+        "family": "Paiva",
+        "given": "J."
+      },
+      {
+        "family": "Figueiredo",
+        "given": "E."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "title": "Polygalaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "In",
+    "issued": "2008",
+    "page": "132–134"
+  },
+  {
+    "author": [
+      {
+        "family": "Paiva",
+        "given": "J."
+      }
+    ],
+    "title": "Polygalaceae",
+    "editor": [
+      {
+        "family": "Sosef",
+        "given": "M.S."
+      },
+      {
+        "family": "Florence",
+        "given": "J."
+      },
+      {
+        "family": "Banak",
+        "given": "R."
+      },
+      {
+        "family": "Bourobou",
+        "given": "H.P."
+      }
+    ],
+    "container-title": "Flore du Gabon 42",
+    "publisher": "Margraf publishers, Weikersheim",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "61 –86"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Caamembeca: generic status and new name for Polygala subgenus Ligustrina (Polygalaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "3",
+    "issued": "2012",
+    "page": "435–442",
+    "URL": "http://dx.doi.org/10.1007/s12225-012-9360-x",
+    "DOI": "10.1007/s12225-012-9360-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      },
+      {
+        "family": "Cardoso",
+        "given": "D.B.O.S."
+      },
+      {
+        "family": "C.",
+        "given": "Aymard"
+      },
+      {
+        "given": "G.A."
+      }
+    ],
+    "title": "A synopsis, new combinations, and synonyms in Acanthocladus (Polygalaceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issue": "3",
+    "issued": "2010",
+    "page": "317–324",
+    "URL": "http://dx.doi.org/10.3417/2009030",
+    "DOI": "10.3417/2009030"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      },
+      {
+        "family": "Abbott",
+        "given": "J.R."
+      }
+    ],
+    "title": "Taxonomic notes and new combinations for Asemeia (Polygalaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "4",
+    "issued": "2012",
+    "page": "801–813",
+    "URL": "http://dx.doi.org/10.1007/s12225-012-9397-x",
+    "DOI": "10.1007/s12225-012-9397-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Ordine eltrologici o definizioni degli ordini della primae classe delle piante",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Specchio delle scienze",
+    "issued": "1814",
+    "page": "113–148"
+  },
+  {
+    "author": [
+      {
+        "family": "Siebert",
+        "given": "S.J."
+      },
+      {
+        "family": "Retief",
+        "given": "E."
+      },
+      {
+        "family": "Wyk",
+        "given": "A.E.",
+        "particle": "van"
+      },
+      {
+        "family": "Struwig",
+        "given": "M."
+      }
+    ],
+    "title": "A new species of Polygala (Polygalaceae) from ultramafic soils in Sekhukhuneland, South Africa, with notes on its ecology",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issue": "2",
+    "issued": "2010",
+    "page": "345–353",
+    "URL": "http://dx.doi.org/10.1016/j.sajb.2010.01.003",
+    "DOI": "10.1016/j.sajb.2010.01.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Tucker",
+        "given": "S.C."
+      }
+    ],
+    "title": "Floral development in legumes",
+    "volume": "131",
+    "type": "article-journal",
+    "container-title": "Plant Physiology",
+    "issued": "2003",
+    "page": "911–926",
+    "URL": "http://dx.doi.org/10.1104/pp.102.017459",
+    "DOI": "10.1104/pp.102.017459"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Wyk",
+        "given": "A.E."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "title": "Regions of floristic endemism in southern Africa. A review with emphasis on succulents",
+    "publisher": "Umdaus Press, Hatfield",
+    "type": "book",
+    "issued": "2001",
+    "page": "199"
+  }
+]

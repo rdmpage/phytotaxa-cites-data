@@ -1,0 +1,322 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax theatri botanici. Sumptibus & typis Ludovici Regis, Basileae",
+    "type": null,
+    "issued": "1623",
+    "URL": "http://dx.doi.org/10.1515/BOT.2005.026",
+    "DOI": "10.1515/BOT.2005.026"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "J."
+      },
+      {
+        "family": "Cherler",
+        "given": "J.H."
+      }
+    ],
+    "title": "Historia plantarum universalis",
+    "volume": "3",
+    "publisher": "Typ. Caldoriana,Yverdon",
+    "type": "book",
+    "issued": "1651"
+  },
+  {
+    "author": [
+      {
+        "family": "Colonna",
+        "given": "F."
+      }
+    ],
+    "title": "Minus cognitarum stirpium aliquot ac etiam rariorum",
+    "publisher": "G. Facciottam",
+    "type": "book",
+    "issued": "1606",
+    "publisher-place": "Rome"
+  },
+  {
+    "author": [
+      {
+        "family": "Del Guacchio",
+        "given": "E."
+      },
+      {
+        "family": "Caputo",
+        "given": "P."
+      }
+    ],
+    "title": "Taxonomic notes on Asperula neglecta Guss. and Asperula nitens Guss",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Rubiaceae), and typification of their names. Webbia",
+    "issued": "2005",
+    "page": "569–576",
+    "URL": "http://dx.doi.org/10.1080/00837792.2005.10670787",
+    "DOI": "10.1080/00837792.2005.10670787"
+  },
+  {
+    "author": [
+      {
+        "family": "Del Guacchio",
+        "given": "E."
+      },
+      {
+        "family": "Caputo",
+        "given": "P."
+      }
+    ],
+    "title": "Taxonomic notes on Asperula sect",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Cynanchica (Rubiaceae). Taxon",
+    "issue": "2",
+    "issued": "2013",
+    "page": "394–400",
+    "URL": "http://dx.doi.org/10.12705/622.9",
+    "DOI": "10.12705/622.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Ehrendofer",
+        "given": "F."
+      },
+      {
+        "family": "Krendl",
+        "given": "F."
+      }
+    ],
+    "title": "Asperula L",
+    "director": [
+      {
+        "family": "Tutin",
+        "given": "T.G."
+      },
+      {
+        "family": "Burges",
+        "given": "N.A."
+      },
+      {
+        "family": "Chater",
+        "given": "A.O."
+      },
+      {
+        "family": "Edmondson",
+        "given": "J.R."
+      },
+      {
+        "family": "Haywood",
+        "given": "V.H."
+      },
+      {
+        "family": "Moore",
+        "given": "T.M."
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "3",
+    "publisher": "Cambridge Unversity Press",
+    "type": "chapter",
+    "issued": "1976",
+    "page": "4–9",
+    "publisher-place": "Cambridge, U.K"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Ruhsam",
+        "given": "M."
+      },
+      {
+        "family": "Andersson",
+        "given": "L."
+      },
+      {
+        "family": "Robbrecht",
+        "given": "E."
+      },
+      {
+        "family": "Bridson",
+        "given": "D."
+      },
+      {
+        "family": "Davis",
+        "given": "A."
+      },
+      {
+        "family": "Schanzer",
+        "given": "I."
+      },
+      {
+        "family": "Sonké",
+        "given": "B."
+      }
+    ],
+    "title": "World checklist of Rubiaceae",
+    "container-title": "The Board of Trustees of the Royal Botanic Gardens",
+    "type": "chapter",
+    "issued": "2012",
+    "publisher-place": "Kew"
+  },
+  {
+    "note": "accessed 1 May 2014).",
+    "type": null,
+    "URL": "http://www.kew.org/wcsp/rubiaceae"
+  },
+  {
+    "author": [
+      {
+        "family": "Haller",
+        "given": "A.von"
+      }
+    ],
+    "title": "Enumeratio methodica stirpium Helvetiae indigenarum. Tomus II",
+    "publisher": "Ex Officina Academica Abrami Vandenhoek, Gottingae",
+    "type": "book",
+    "issued": "1742"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Order out of Chaos. Linnaean plant names and their types",
+    "container-title": "Linnean Society of London with the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "publisher-place": "Stockholm",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Royen",
+        "given": "A."
+      }
+    ],
+    "title": "Florae leydensis prodromus",
+    "publisher": "Apud Samuelem Luchtmans",
+    "type": "book",
+    "issued": "1740",
+    "publisher-place": "Leiden",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.693",
+    "DOI": "10.5962/bhl.title.693"
+  },
+  {
+    "editor": [
+      {
+        "family": "Savage",
+        "given": "S."
+      }
+    ],
+    "title": "Caroli Linnaei determinationes in Hortum Siccum Joachimi Burseri",
+    "container-title": "The text of the manuscript in the Linnaean Collections",
+    "publisher": "The Linnean Society",
+    "type": "chapter",
+    "issued": "1937",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Sauvages",
+        "given": "F.B.de la Croix"
+      }
+    ],
+    "title": "Methodus foliorum, seu Plantae florae Monspeliensis",
+    "publisher": "A La Haye, La Haye",
+    "type": "book",
+    "issued": "1751"
+  },
+  {
+    "author": [
+      {
+        "family": "Tabernaemontanus",
+        "given": "T.J."
+      }
+    ],
+    "title": "New vollkommenlich Kräuter-Buch",
+    "publisher": "Jacob Werenfels",
+    "type": "book",
+    "issued": "1664",
+    "publisher-place": "Basel"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "Lectotypification of Campanula saxatilis, Phyteuma pinnatum and Verbascum arcturus, Linnaean names of three taxa endemic to Crete",
+    "volume": "36",
+    "note": "Special Issue): 303–309.",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2006",
+    "URL": "http://dx.doi.org/10.3372/wi.36.36124",
+    "DOI": "10.3372/wi.36.36124"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Typification of Linnaean specific and varietal names in the Leguminosae (Fabaceae",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1997",
+    "page": "457–485",
+    "URL": "http://dx.doi.org/10.2307/1224388",
+    "DOI": "10.2307/1224388"
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "author": [
+      {
+        "family": "Allioni",
+        "given": "C."
+      }
+    ],
+    "title": "Flora Pedemontana 2",
+    "publisher": "Joannes Michael Briolus, Turin",
+    "type": "book",
+    "issued": "1785",
+    "page": "366"
+  },
+  {
+    "author": [
+      {
+        "family": "Ascherson",
+        "given": "P."
+      },
+      {
+        "family": "Graebner",
+        "given": "P."
+      }
+    ],
+    "title": "Synopsis der Mitteleuropäischen Flora 2",
+    "publisher": "Wilhelm Engelmann, Leipzig",
+    "type": "book",
+    "issued": "1902",
+    "page": "795",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.32166",
+    "DOI": "10.5962/bhl.title.32166"
+  },
+  {
+    "author": [
+      {
+        "family": "Chater",
+        "given": "A.O."
+      }
+    ],
+    "title": "Carex",
+    "director": [
+      {
+        "family": "Tutin",
+        "given": "T.G."
+      },
+      {
+        "family": "Heywood",
+        "given": "V.H."
+      },
+      {
+        "family": "Burges",
+        "given": "N.A."
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea 5",
+    "publisher": "Cambridge University Press",
+    "type": "article-journal",
+    "issued": "1980",
+    "page": "290–323",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Dumortier",
+        "given": "B.C."
+      }
+    ],
+    "title": "Florula Belgica, operis majoris prodromus",
+    "volume": "Tournay",
+    "type": "article-journal",
+    "container-title": "J. Casterman",
+    "issued": "1827",
+    "page": "172"
+  },
+  {
+    "author": [
+      {
+        "family": "Egorova",
+        "given": "T.V."
+      }
+    ],
+    "title": "Sedges (Carex L.) of Russia and Adjacent States within the limits of the Former USSR",
+    "type": "article-journal",
+    "container-title": "Missouri Botanical Garden, St. Louis",
+    "issued": "1999",
+    "page": "772"
+  },
+  {
+    "author": [
+      {
+        "family": "Goodenough",
+        "given": "S."
+      }
+    ],
+    "title": "Observations on the British species of Carex",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1794",
+    "page": "126–211",
+    "URL": "http://dx.doi.org/10.1111/j.1096-3642.1794.tb00250.x",
+    "DOI": "10.1111/j.1096-3642.1794.tb00250.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Jiménez-Mejías",
+        "given": "P."
+      },
+      {
+        "family": "Luceño",
+        "given": "M."
+      }
+    ],
+    "title": "Cyperaceae. In: Euro+Med Plantbase—the information resource for Euro-Mediterranean plant diversity",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.emplantbase.org/home.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Jiménez-Mejías",
+        "given": "P."
+      },
+      {
+        "family": "Luceño",
+        "given": "M."
+      }
+    ],
+    "title": "Carex buekii Wimm",
+    "editor": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Raus",
+        "given": "T."
+      }
+    ],
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2011",
+    "page": "324"
+  },
+  {
+    "author": [
+      {
+        "family": "Koopman",
+        "given": "J."
+      }
+    ],
+    "title": "Carex Europaea 1",
+    "publisher": "Margraf Publishers, Weikersheim",
+    "type": "book",
+    "issued": "2011",
+    "page": "726"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J.N."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154.",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": null,
+    "issued": "2012",
+    "page": "208"
+  },
+  {
+    "editor": [
+      {
+        "family": "Röpert",
+        "given": "D."
+      }
+    ],
+    "title": "Digital specimen images at the Herbarium Berolinense",
+    "container-title": "Botanischer Garten und Botanisches Museum Berlin-Dahlem",
+    "note": "Available from",
+    "type": "chapter",
+    "issued": "2014",
+    "URL": "http://ww2.bgbm.org/herbarium/"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultze-Motel",
+        "given": "W."
+      }
+    ],
+    "title": "Carex",
+    "editor": [
+      {
+        "family": "Hegi",
+        "given": "A."
+      }
+    ],
+    "publisher": "P. Parey",
+    "type": "book",
+    "issued": "1968",
+    "page": "96–274",
+    "publisher-place": "Berlin, Hamburg"
+  },
+  {
+    "author": [
+      {
+        "family": "Soldano",
+        "given": "A."
+      }
+    ],
+    "title": "Alcuni spunti di interesse su Carex buekii",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Informatore Botanico Italiano",
+    "issue": "suppl. 2",
+    "issued": "2012",
+    "page": "70–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Bohn, Scheltema & Holkema",
+    "type": "book",
+    "issued": "1976",
+    "page": null,
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2014",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wimmer",
+        "given": "C.F.H."
+      }
+    ],
+    "title": "Carex Buekii nova species. Jahresbericht der schlesischen Gesellschaft für vaterländische Cultur",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Breslau",
+    "issued": "1852",
+    "page": "83–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Wimmer",
+        "given": "C.F.H."
+      }
+    ],
+    "title": "Flora von Schlesien",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Ferdinand Hirt’s Verlag, Breslau",
+    "type": "book",
+    "issued": "1857",
+    "page": "3"
+  }
+]

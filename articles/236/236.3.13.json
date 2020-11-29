@@ -1,0 +1,411 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax Theatri Botanici",
+    "publisher": "Sumptibus & typis Ludovici Regis, Basileae",
+    "type": "book",
+    "issued": "1623",
+    "page": "522",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.712",
+    "DOI": "10.5962/bhl.title.712"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "J."
+      },
+      {
+        "family": "Cherler",
+        "given": "J.H."
+      }
+    ],
+    "volume": "2",
+    "publisher": "Fr. Lud. von Graffenried, Ebroduni, Yverdon",
+    "type": "article-journal",
+    "container-title": "Historia Plantarum Universalis",
+    "issued": "1651",
+    "page": "882"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrer-Gallego",
+        "given": "P.P."
+      }
+    ],
+    "title": "Tipificación de dos nombres linneanos del género Linum L",
+    "editor": [
+      {
+        "family": "maritimum",
+        "given": "L."
+      },
+      {
+        "family": "narbonense",
+        "given": "L."
+      }
+    ],
+    "container-title": "Boletín de la Real Sociedad Española de Historia Natural Sección biológica",
+    "volume": "108",
+    "type": "chapter",
+    "issued": "2014",
+    "page": "103–106"
+  },
+  {
+    "author": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      },
+      {
+        "family": "Long",
+        "given": "G."
+      }
+    ],
+    "title": "Med-Checklist",
+    "volume": "4",
+    "note": "Dicotyledones (Lauraceae-Rhamnaceae). Conservatoire et Jardin Botaniques,",
+    "publisher": "Geneva",
+    "type": null,
+    "issued": "1989",
+    "page": "458"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Order out of Chaos: Linnaean plant names and their types",
+    "container-title": "The Linnean Society of London and the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "vols",
+    "publisher": "Impensis Laurentii Salvii, Holmiæ",
+    "type": "book",
+    "issued": "1753",
+    "page": "1–2",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Flora Anglica [dissertation of I.O",
+    "editor": [
+      {
+        "family": "L.M. Höjer",
+        "given": "Grufberg]",
+        "particle": "exc."
+      },
+      {
+        "family": "Uppsaliae",
+        "given": "Uppsala"
+      }
+    ],
+    "type": null,
+    "issued": "1754",
+    "page": "29"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2, vol. 1",
+    "publisher": "Impensis Laurentii Salvii, Holmiæ, Stockholm",
+    "type": "book",
+    "issued": "1762",
+    "page": "784"
+  },
+  {
+    "author": [
+      {
+        "family": "Lobel",
+        "given": "M.de"
+      }
+    ],
+    "title": "Icones Stirpium seu plantarum tam exoticarum, quam indigenarum",
+    "volume": "1",
+    "publisher": "Ex Officina Plantiniana, Antverpiae, Antwerp",
+    "type": "book",
+    "issued": "1581",
+    "page": "816"
+  },
+  {
+    "author": [
+      {
+        "family": "Magnol",
+        "given": "P."
+      }
+    ],
+    "title": "Novus Caracter Plantarum. apud Viduam Honorati Pech, Monspelii",
+    "publisher": "Montpellier",
+    "type": "book",
+    "issued": "1720",
+    "page": "340"
+  },
+  {
+    "author": [
+      {
+        "family": "Ockendon",
+        "given": "D.J."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      }
+    ],
+    "title": "Linum L",
+    "editor": [
+      {
+        "given": "In"
+      },
+      {
+        "family": "Valentine",
+        "given": "D.H."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "2",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1968",
+    "page": "206–211",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M"
+  },
+  {
+    "author": [
+      {
+        "family": "Peruzzi",
+        "given": "L."
+      }
+    ],
+    "title": "A new species of Linum perenne group (Linaceae) from Calabria (S Italy",
+    "volume": "145",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issued": "2011",
+    "page": "938–944",
+    "URL": "http://dx.doi.org/10.1080/11263504.2011.589163",
+    "DOI": "10.1080/11263504.2011.589163"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz-Martín",
+        "given": "J."
+      },
+      {
+        "family": "Jiménez-Mejías",
+        "given": "P."
+      },
+      {
+        "family": "Martínez-Labarga",
+        "given": "J.M."
+      },
+      {
+        "family": "Pérez-Barrales",
+        "given": "R."
+      }
+    ],
+    "title": "Linum flos-carmini (Linaceae), a new species from northern Morocco",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2015",
+    "page": "383–395"
+  },
+  {
+    "author": [
+      {
+        "family": "Sauvages",
+        "given": "de la Croix F.B."
+      }
+    ],
+    "title": "Methodus foliorum, seu Plantae florae Monspeliensis",
+    "publisher": "A La Haye, La Haya",
+    "type": "book",
+    "issued": "1751",
+    "page": "343"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      }
+    ],
+    "title": "An introduction to the Species Plantarum and cognate botanical works of Carl Linnaeus",
+    "editor": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "container-title": "Species Plantarum, a facsimile of the first edition 1753",
+    "volume": "1",
+    "publisher": "The Ray Society",
+    "type": "chapter",
+    "issued": "1957",
+    "page": "1–176",
+    "publisher-place": "London, I–XIV"
+  },
+  {
+    "author": [
+      {
+        "family": "Tison",
+        "given": "J.M."
+      },
+      {
+        "family": "Foucault",
+        "given": "B.de"
+      }
+    ],
+    "title": "Flora Gallica. Flore de France",
+    "type": null,
+    "issued": "2014",
+    "page": "1196",
+    "publisher-place": "Biotope, Mèze, XX"
+  },
+  {
+    "author": [
+      {
+        "family": "Tournefort",
+        "given": "J.P.de"
+      }
+    ],
+    "title": "Institutiones rei herbariae, editio altera, tomus primus",
+    "publisher": "Typographia Regia",
+    "type": "book",
+    "issued": "1700",
+    "page": "697",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Tugay",
+        "given": "O."
+      },
+      {
+        "family": "Bağci",
+        "given": "Y."
+      },
+      {
+        "family": "Uysal",
+        "given": "T."
+      }
+    ],
+    "title": "Linum ertugrulii (Linaceae), a new species from central Anatolia, Turkey",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2010",
+    "page": "135–138",
+    "URL": "http://dx.doi.org/10.5735/085.047.0208",
+    "DOI": "10.5735/085.047.0208"
+  },
+  {
+    "author": [
+      {
+        "family": "Yilmaz",
+        "given": "Ö."
+      },
+      {
+        "family": "Kaynak",
+        "given": "G."
+      }
+    ],
+    "title": "A new species of Linum (Linaceae) from West Anatolia",
+    "volume": "156",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2008",
+    "page": "459–462",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2007.00763.x",
+    "DOI": "10.1111/j.1095-8339.2007.00763.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Yilmaz",
+        "given": "Ö."
+      },
+      {
+        "family": "Kaynak",
+        "given": "G."
+      }
+    ],
+    "title": "A new taxon of Linum (Linaceae) from Southwest Anatolia, Turkey",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2010",
+    "page": "507–511",
+    "URL": "http://dx.doi.org/10.3417/2009003",
+    "DOI": "10.3417/2009003"
+  },
+  {
+    "author": [
+      {
+        "family": "Yilmaz",
+        "given": "Ö."
+      },
+      {
+        "family": "Kaynak",
+        "given": "G."
+      },
+      {
+        "family": "Vural",
+        "given": "M."
+      }
+    ],
+    "title": "A new taxon of Linum (Linaceae) from NW Anatolia, Turkey",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2003",
+    "page": "147–150"
+  }
+]

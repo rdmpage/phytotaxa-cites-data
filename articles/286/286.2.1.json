@@ -1,0 +1,624 @@
+[
+  {
+    "author": [
+      {
+        "family": "Balakrishnan",
+        "given": "N.P."
+      },
+      {
+        "family": "Chakrabarty",
+        "given": "T."
+      }
+    ],
+    "title": "The family Euphorbiaceae in India: A synopsis of its profile, taxonomy and bibliography",
+    "publisher": "Bishen Singh Mahendra Pal Singh",
+    "type": "book",
+    "issued": "2007",
+    "publisher-place": "India"
+  },
+  {
+    "author": [
+      {
+        "family": "Chakrabarty",
+        "given": "T."
+      },
+      {
+        "family": "Gangopadhyay",
+        "given": "M."
+      },
+      {
+        "family": "Balakrishnan",
+        "given": "N.P."
+      }
+    ],
+    "title": "Tribe Phyllantheae",
+    "editor": [
+      {
+        "family": "Balakrishnan",
+        "given": "N.P."
+      },
+      {
+        "family": "Chakrabarty",
+        "given": "T."
+      },
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      },
+      {
+        "family": "Lakshminarsimhan",
+        "given": "P."
+      },
+      {
+        "family": "Singh",
+        "given": "P."
+      }
+    ],
+    "container-title": "Flora of India",
+    "volume": "23",
+    "publisher": "Botanical Survey of India, Kolkata",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "462"
+  },
+  {
+    "editor": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Hills",
+        "given": "H.G."
+      }
+    ],
+    "title": "Silica gel: an ideal material for field preservation of leaf samples for DNA studies",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1991",
+    "page": "215–220",
+    "URL": "http://dx.doi.org/10.2307/1222975",
+    "DOI": "10.2307/1222975"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issue": "8",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsentein",
+        "given": "J."
+      }
+    ],
+    "title": "confidence limits on phylogenetics: an approach using bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://dx.doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "Flora of the Presidency of Madras",
+    "volume": "VII",
+    "publisher": "Botanical Survey of India, Culcutta",
+    "issue": "",
+    "type": "book",
+    "issued": "1925",
+    "page": "899"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "Decades Kewenses. Plantarum Novarum in Herbario Horti Regii Conservatorum",
+    "type": "article-journal",
+    "container-title": "Decas CXII Reviewed work(s): Bulletin of Miscellaneous Information. Royal Gardens",
+    "issued": "1925",
+    "page": "329–330"
+  },
+  {
+    "author": [
+      {
+        "family": "Kathriarachchi",
+        "given": "H."
+      },
+      {
+        "family": "Samuel",
+        "given": "R."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "P."
+      },
+      {
+        "family": "Mlinarec",
+        "given": "J."
+      },
+      {
+        "family": "Wurdack",
+        "given": "K.J."
+      },
+      {
+        "family": "Ralimanana",
+        "given": "H."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T.F."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetics of tribe Phyllantheae (Phyllanthaceae; Euphorbiaceae sensu lato) based on nrITS and plastid matK sequence data",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "4",
+    "issued": "2006",
+    "page": "637–655",
+    "URL": "http://dx.doi.org/10.3732/ajb.93.4.637",
+    "DOI": "10.3732/ajb.93.4.637"
+  },
+  {
+    "author": [
+      {
+        "family": "Kathriarachchi",
+        "given": "H."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "P."
+      },
+      {
+        "family": "Samuel",
+        "given": "R."
+      },
+      {
+        "family": "Wurdack",
+        "given": "K.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Molecular phylogenetics of Phyllanthaceae inferred from five genes (plastid atpB, matK, 3’ndhF, rbcL and nuclear PHYC",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2005",
+    "page": "112–134",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2004.12.002",
+    "DOI": "10.1016/j.ympev.2004.12.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Nei",
+        "given": "M."
+      },
+      {
+        "family": "Dudley",
+        "given": "J."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "MEGA: A biologist-centric software for evolutionary analysis of DNA and protein sequences",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Briefings in Bioinformatics",
+    "issued": "2008",
+    "page": "299–306",
+    "URL": "http://dx.doi.org/10.1093/bib/bbn017",
+    "DOI": "10.1093/bib/bbn017"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154. Koeltz Scientific Books, Königstein.",
+    "type": null,
+    "issued": "2012"
+  },
+  {
+    "author": [
+      {
+        "family": "Rajkumar",
+        "given": "S."
+      }
+    ],
+    "title": "Studies on systematics and biology of endemic tree genera of Western Ghats India",
+    "genre": "Ph.D.",
+    "note": "Thesis submitted to",
+    "publisher": "Goa University",
+    "type": "thesis",
+    "issued": "2001",
+    "publisher-place": "Goa, India"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Samuel",
+        "given": "R."
+      },
+      {
+        "family": "Kathriarachchi",
+        "given": "H."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "P."
+      },
+      {
+        "family": "Barfuss",
+        "given": "M.H.J."
+      },
+      {
+        "family": "Wurdack",
+        "given": "K.J."
+      },
+      {
+        "family": "Davis",
+        "given": "C.C."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Molecular phylogenetics of Phyllanthaceae: evidence from plastid matK and nuclear PHYC sequences",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2005",
+    "page": "132–141",
+    "URL": "http://dx.doi.org/10.3732/ajb.92.1.132",
+    "DOI": "10.3732/ajb.92.1.132"
+  },
+  {
+    "author": [
+      {
+        "family": "Varnostsova",
+        "given": "M.S."
+      },
+      {
+        "family": "Hoffman",
+        "given": "P."
+      },
+      {
+        "family": "Kathriarachchi",
+        "given": "H."
+      },
+      {
+        "family": "Kolterman",
+        "given": "D.A."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Andrachne cuneifolia (Phyllanthaceae; Euphorbiaceae s.l.) is a Phyllanthus",
+    "volume": "155",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of Linnean Society",
+    "issued": "2007",
+    "page": "519–525",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2007.00726.x",
+    "DOI": "10.1111/j.1095-8339.2007.00726.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      }
+    ],
+    "title": "Studies of the Euphorbiaceae, Phyllanthoideae I. Taxonomic notes on the West Indian species of Phyllanthus. Contributions from the Gray Herbarium of Harvard University",
+    "volume": "176",
+    "type": "article-journal",
+    "container-title": "Cambridge",
+    "issued": "1955",
+    "page": "45–63"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      }
+    ],
+    "title": "Studies on the Euphorbiaceae, Phyllanthoideae II. The American species of Phyllanthus described by Linnaeus",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issue": "1",
+    "issued": "1956"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      }
+    ],
+    "title": "A monographic study of the West Indian species of Phyllanthus",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "J Journal of the Arnold Arboretum",
+    "issue": "2",
+    "issued": "1956",
+    "page": "91–122 217–263, 340–359"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      }
+    ],
+    "title": "A monographic study of the West Indian species of Phyllanthus",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1957",
+    "page": "51–64, 170–198, 295–373",
+    "URL": "http://dx.doi.org/10.5962/bhl.part.9105",
+    "DOI": "10.5962/bhl.part.9105"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      }
+    ],
+    "title": "A monographic study of the West Indian species of Phyllanthus",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1958",
+    "page": "49–200, 111–212",
+    "URL": "http://dx.doi.org/10.5962/bhl.part.19111",
+    "DOI": "10.5962/bhl.part.19111"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      }
+    ],
+    "title": "Genera of Euphorbiaceae in Southern United States",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1967",
+    "page": "303–361 363–430"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      }
+    ],
+    "title": "A revision of Phyllanthus (Euphorbiaceae) in the continental United States",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1970",
+    "page": "44–76",
+    "URL": "http://dx.doi.org/10.2307/2805721",
+    "DOI": "10.2307/2805721"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      }
+    ],
+    "title": "Synopsis of the genus and suprageneric taxa of Euphorbiaceae",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1994",
+    "page": "33–144",
+    "URL": "http://dx.doi.org/10.2307/2399909",
+    "DOI": "10.2307/2399909"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "G.L."
+      },
+      {
+        "family": "Airy-Shaw",
+        "given": "K.H."
+      }
+    ],
+    "title": "A provisional synopsis of the New Guinea taxa of Phyllanthus (Euphorbiaceae",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "1",
+    "issued": "1971",
+    "page": "85–109",
+    "URL": "http://dx.doi.org/10.2307/4117335",
+    "DOI": "10.2307/4117335"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "K."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "P."
+      },
+      {
+        "family": "Samuel",
+        "given": "R."
+      },
+      {
+        "family": "Bruijn",
+        "given": "A."
+      },
+      {
+        "family": "Bank",
+        "given": "M."
+      },
+      {
+        "family": "M.W",
+        "given": "Chase"
+      }
+    ],
+    "title": "Molecular phylogenetic analysis of Phyllanthaceae (Phhanthoideae Pro Parte, Euphorbiaceae sensu lato) using plastid rbcL Dna sequences",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "11",
+    "issued": "2004",
+    "page": "1882–1900",
+    "URL": "http://dx.doi.org/10.3732/ajb.91.11.1882",
+    "DOI": "10.3732/ajb.91.11.1882"
+  },
+  {
+    "author": [
+      {
+        "family": "Centre",
+        "given": "World Conservation Monitoring"
+      }
+    ],
+    "title": "Pseudoglochidion anamalayanum. The IUCN Red List of Threatened Species",
+    "type": null,
+    "issued": "1998",
+    "page": "33643 9800121"
+  }
+]

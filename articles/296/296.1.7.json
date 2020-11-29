@@ -1,0 +1,152 @@
+[
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list of threatened species, version 3.1",
+    "note": "IUCN Red List Unit, Cambridge U.K. Available from:",
+    "type": null,
+    "issued": "2001",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Komarov",
+        "given": "V.L."
+      }
+    ],
+    "title": "Revisio critica specierum generis Epimedium L",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Trudy Imperatorskago S.-Petersburgskago Botanicheskago Sada",
+    "issued": "1908",
+    "page": "125–151"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum 1",
+    "publisher": "Imprensis Laurentii Salvii, Holmiae, Sweden",
+    "type": "book",
+    "issued": "1753",
+    "page": "117"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "K."
+      }
+    ],
+    "title": "Berberidaceae. Repertorium Specierum Novarum Regni Vegetabilis. Centralblatt für Sammlung und Veroffentlichung von Einzeldiagnosen neuer Pflanzen",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Beihefte",
+    "issued": "1922",
+    "page": "379–380"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      }
+    ],
+    "title": "Epimedium and Vancouveria (Berberidaceae), a monograph",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1938",
+    "page": "409–535",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1937.tb01914.x",
+    "DOI": "10.1111/j.1095-8339.1937.tb01914.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      }
+    ],
+    "title": "The genus Epimedium and other herbaceous Berberidaceae",
+    "publisher": "Timber Press, Portland",
+    "type": "book",
+    "issued": "2002",
+    "page": "202"
+  },
+  {
+    "author": [
+      {
+        "family": "Ying",
+        "given": "T.S."
+      },
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      },
+      {
+        "family": "Brach",
+        "given": "A.R.I."
+      }
+    ],
+    "title": "Epimedium L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Peter",
+        "given": "H.R."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2011",
+    "page": "787–799",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Y.J."
+      },
+      {
+        "family": "Dang",
+        "given": "H.S."
+      },
+      {
+        "family": "Li",
+        "given": "S.Y."
+      },
+      {
+        "family": "Li",
+        "given": "J.Q."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      }
+    ],
+    "title": "Five new synonyms in Epimedium (Berberidaceae) from China",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2015",
+    "page": "1–12",
+    "URL": "https://doi.org/10.3897/phytokeys.49.8768",
+    "DOI": "10.3897/phytokeys.49.8768"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "author": [
+      {
+        "family": "Furtado",
+        "given": "C.X."
+      },
+      {
+        "family": "Srisuko",
+        "given": "M."
+      }
+    ],
+    "title": "A revision of Lagerstroemia (Lythraceae",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Gardens’ Bulletin Singapore",
+    "issued": "1969",
+    "page": "185–335"
+  },
+  {
+    "author": [
+      {
+        "family": "Koehne",
+        "given": "E."
+      }
+    ],
+    "title": "Lythraceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "volume": "17",
+    "publisher": "Engelmann, Weinheim, Leipzig",
+    "type": "chapter",
+    "issued": "1903",
+    "page": "264"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Systema Naturae vol I",
+    "type": "article-journal",
+    "container-title": "Holmiae, Laurentii Salvii",
+    "issued": "1759",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "K.B."
+      }
+    ],
+    "title": "Botanische Bemerkungen",
+    "publisher": "Hofbuchdruckerei von Gottlieb Haase Sohne, Prag",
+    "type": "book",
+    "issued": "1844",
+    "page": "142"
+  }
+]

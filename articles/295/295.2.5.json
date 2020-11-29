@@ -1,0 +1,956 @@
+[
+  {
+    "author": [
+      {
+        "family": "Balfour",
+        "given": "I.B."
+      }
+    ],
+    "container-title": "Proceedings of the Royal Society of Edinburgh",
+    "volume": "12",
+    "publisher": "Royal Society of Edinburgh",
+    "type": "paper-conference",
+    "issued": "1884",
+    "page": null,
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Bean",
+        "given": "A.R."
+      }
+    ],
+    "title": "Kelita (Amaranthaceae), a new genus from Queensland, Australia",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Muelleria",
+    "issue": "2",
+    "issued": "2010",
+    "page": "105–109"
+  },
+  {
+    "author": [
+      {
+        "family": "Benl",
+        "given": "G."
+      }
+    ],
+    "title": "Two xerophytic new species of Ptilotus (Amaranthaceae) from Western Australia",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Journal of the Royal Society of Western Australia",
+    "issued": "1970",
+    "page": "4–6"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Prodromus florae Novae Hollandiae et insulae Van-Diemen",
+    "publisher": "Typis Richardi Taylor & Socii, London",
+    "type": "book",
+    "issued": "1810",
+    "page": "590"
+  },
+  {
+    "author": [
+      {
+        "family": "Burman",
+        "given": "N.L."
+      }
+    ],
+    "title": "Flora Indica",
+    "editor": [
+      {
+        "family": "Haek",
+        "given": "Apud Cornelium"
+      },
+      {
+        "family": "Batavorum",
+        "given": "Lugduni"
+      },
+      {
+        "family": "Schreuderum",
+        "given": "Apud Johannem"
+      },
+      {
+        "given": "Amstelaedami"
+      }
+    ],
+    "type": null,
+    "issued": "1768",
+    "page": "241"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavaco",
+        "given": "A."
+      }
+    ],
+    "title": "Aerva de Madagascar (Amarantacees",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Societe Botanique de France",
+    "issued": "1952",
+    "page": "252–254",
+    "URL": "https://doi.org/10.1080/00378941.1952.10836466",
+    "DOI": "10.1080/00378941.1952.10836466"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: More models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Forskaal",
+        "given": "P."
+      }
+    ],
+    "title": "Flora Ageyptiaco-Arabica",
+    "publisher": "Mölleri, Copenhagen",
+    "type": "book",
+    "issued": "1775",
+    "page": "220"
+  },
+  {
+    "author": [
+      {
+        "family": "Hammer",
+        "given": "T."
+      },
+      {
+        "family": "Davis",
+        "given": "R."
+      },
+      {
+        "family": "Thiele",
+        "given": "K.R."
+      }
+    ],
+    "title": "A molecular framework phylogeny for Ptilotus (Amaranthaceae): Evidence for the rapid diversification of an arid Australian genus",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "2",
+    "issued": "2015",
+    "page": "272–285",
+    "URL": "https://doi.org/10.12705/642.6",
+    "DOI": "10.12705/642.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Hernández-Ledesma",
+        "given": "P."
+      },
+      {
+        "family": "Berendsohn",
+        "given": "W.G."
+      },
+      {
+        "family": "Borsch",
+        "given": "T."
+      },
+      {
+        "family": "Mering",
+        "given": "S.",
+        "particle": "von"
+      },
+      {
+        "family": "Akhani",
+        "given": "H."
+      },
+      {
+        "family": "Arias",
+        "given": "S."
+      },
+      {
+        "family": "Castañeda-Noa",
+        "given": "I."
+      },
+      {
+        "family": "Eggli",
+        "given": "U."
+      },
+      {
+        "family": "Eriksson",
+        "given": "R."
+      },
+      {
+        "family": "Flores-Olvera",
+        "given": "H."
+      },
+      {
+        "family": "Fuentes-Bazán",
+        "given": "S."
+      },
+      {
+        "family": "Kadereit",
+        "given": "G."
+      },
+      {
+        "family": "Klak",
+        "given": "C."
+      },
+      {
+        "family": "Korotkova",
+        "given": "N."
+      },
+      {
+        "family": "Nyffeler",
+        "given": "R."
+      },
+      {
+        "family": "Ocampo",
+        "given": "G."
+      },
+      {
+        "family": "Ochoterena",
+        "given": "H."
+      },
+      {
+        "family": "Oxelman",
+        "given": "B."
+      },
+      {
+        "family": "Rabeler",
+        "given": "R.K."
+      },
+      {
+        "family": "Sanchez",
+        "given": "A."
+      },
+      {
+        "family": "Schlumpberger",
+        "given": "B.O.& Uotila"
+      },
+      {
+        "given": "P."
+      }
+    ],
+    "title": "A taxonomic backbone for the global synthesis of species diversity in the angiosperm order Caryophyllales",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issue": "3",
+    "issued": "2015",
+    "page": "281–383",
+    "URL": "https://doi.org/10.3372/wi.45.45301",
+    "DOI": "10.3372/wi.45.45301"
+  },
+  {
+    "author": [
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Lectotypification of Linnaean names in the genus Achyranthes L",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Amaranthaceae). Taxon",
+    "issue": "2",
+    "issued": "2014",
+    "page": "405–407",
+    "URL": "https://doi.org/10.12705/632.2",
+    "DOI": "10.12705/632.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Taxonomic revision of the genus Amaranthus (Amaranthaceae) in Italy",
+    "volume": "199",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "1–84",
+    "URL": "https://doi.org/10.11646/phytotaxa.199.1.1",
+    "DOI": "10.11646/phytotaxa.199.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Iamonico",
+        "given": "D."
+      },
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Lectotypification of Linnaean names in the genus Celosia L",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Amaranthaceae). Taxon",
+    "issue": "5",
+    "issued": "2012",
+    "page": "1101–1102"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L."
+      }
+    ],
+    "title": "Observations sur la famille des plantes amarantacees",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Annales du Muséum national d’histoire naturelle",
+    "issued": "1803",
+    "page": "131–135"
+  },
+  {
+    "author": [
+      {
+        "family": "Kearse",
+        "given": "M."
+      },
+      {
+        "family": "Moir",
+        "given": "R."
+      },
+      {
+        "family": "Wilson",
+        "given": "A."
+      },
+      {
+        "family": "Stones-Havas",
+        "given": "S."
+      },
+      {
+        "family": "Cheung",
+        "given": "M."
+      },
+      {
+        "family": "Sturrock",
+        "given": "S."
+      },
+      {
+        "family": "Buxton",
+        "given": "S."
+      },
+      {
+        "family": "Cooper",
+        "given": "A."
+      },
+      {
+        "family": "Markowitz",
+        "given": "S."
+      },
+      {
+        "family": "Duran",
+        "given": "C."
+      },
+      {
+        "family": "Thierer",
+        "given": "T."
+      },
+      {
+        "family": "Ashton",
+        "given": "B."
+      },
+      {
+        "family": "Meintjes",
+        "given": "P."
+      },
+      {
+        "family": "Drummond",
+        "given": "A."
+      }
+    ],
+    "title": "Geneious basic: An integrated and extendable desktop software platform for the organization and analysis of sequence data",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2012",
+    "page": "1647–1649",
+    "URL": "https://doi.org/10.1093/bioinformatics/bts199",
+    "DOI": "10.1093/bioinformatics/bts199"
+  },
+  {
+    "author": [
+      {
+        "family": "Leach",
+        "given": "G.J."
+      },
+      {
+        "family": "Townsend",
+        "given": "C.C."
+      },
+      {
+        "family": "M.M",
+        "given": "Harley"
+      }
+    ],
+    "title": "Omegandra, a new genus of Amaranthaceae from Australia",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "4",
+    "issued": "1993",
+    "page": "787–793",
+    "URL": "https://doi.org/10.2307/4118858",
+    "DOI": "10.2307/4118858"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "vols. 1‒2",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentii Salvii, Holmiae"
+  },
+  {
+    "author": [
+      {
+        "family": "Löytynoja",
+        "given": "A."
+      },
+      {
+        "family": "Goldman",
+        "given": "N."
+      }
+    ],
+    "title": "WebPRANK: A phylogeny-aware multiple sequence aligner with interactive alignment browser",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "BMC Bioinformatics",
+    "issued": "2010",
+    "page": "579",
+    "URL": "https://doi.org/10.1186/1471-2105-11-579",
+    "DOI": "10.1186/1471-2105-11-579"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "D.L."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Proud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "J.F."
+      },
+      {
+        "given": "Wiersema"
+      }
+    ],
+    "title": "J.H",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code): Adopted by the Eighteenth International Botanical Congress",
+    "volume": "154",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "1–274",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "A.G."
+      }
+    ],
+    "title": "Amaranthaceae Juss",
+    "editor": [
+      {
+        "family": "Miller",
+        "given": "A.G."
+      },
+      {
+        "family": "Cope",
+        "given": "T.A."
+      }
+    ],
+    "container-title": "Flora of Arabian Peninsula and Socotra",
+    "volume": "1",
+    "publisher": "Edinburgh University Press. Edinburgh",
+    "type": "chapter",
+    "issued": "1996",
+    "page": "295–299"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "A.G."
+      },
+      {
+        "family": "Nyberg",
+        "given": "J.A."
+      }
+    ],
+    "title": "Studies in the flora of Arabia: xxvii. Some new taxa from the Arabian peninsula",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Edinburgh Journal of Botany",
+    "issue": "1",
+    "issued": "1994",
+    "page": "33–47",
+    "URL": "https://doi.org/10.1017/S0960428600001694",
+    "DOI": "10.1017/S0960428600001694"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "publisher": "IEEE",
+    "volume": "8",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": null,
+    "publisher-place": "New Orleans",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Moquin-Tandon",
+        "given": "C."
+      }
+    ],
+    "title": "Aerva Forrsk",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "13",
+    "publisher": "Sumptibus Sociorum Treuttel et Würtz",
+    "type": "chapter",
+    "issued": "1849",
+    "page": "299–306",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "K."
+      },
+      {
+        "family": "Borsch",
+        "given": "T."
+      }
+    ],
+    "title": "Phylogenetics of Amaranthaceae based on matK/trnK sequence data: Evidence from parsimony, likelihood, and Bayesian analyses",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "2005",
+    "page": "66–102"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "title": "Tracer, version 1.6",
+    "publisher": "University of Edinburgh",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2007",
+    "URL": "http://beast.bio.ed.ac.uk/Tracer"
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "K.R."
+      },
+      {
+        "family": "Clemants",
+        "given": "S.E."
+      }
+    ],
+    "title": "Amaranthaceae Juss",
+    "container-title": "Flora of North America Editorial Committee",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "volume": "part 1), vol. 4",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "405–456",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.Ayres",
+        "particle": "Van der"
+      },
+      {
+        "family": "D.L.",
+        "given": "Darling"
+      },
+      {
+        "family": "A.",
+        "given": "Höhna"
+      },
+      {
+        "family": "S.",
+        "given": "Larget"
+      },
+      {
+        "family": "B.",
+        "given": "Liu"
+      },
+      {
+        "family": "L.",
+        "given": "Suchard"
+      },
+      {
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Sage",
+        "given": "R.F."
+      },
+      {
+        "family": "Sage",
+        "given": "T.L."
+      },
+      {
+        "family": "Pearcy",
+        "given": "R.W."
+      },
+      {
+        "family": "Borsch",
+        "given": "T."
+      }
+    ],
+    "title": "The taxonomic distribution of C4 photosynthesis in Amaranthaceae sensu stricto",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2007",
+    "page": "1992–2003",
+    "URL": "https://doi.org/10.3732/ajb.94.12.1992",
+    "DOI": "10.3732/ajb.94.12.1992"
+  },
+  {
+    "author": [
+      {
+        "family": "Sánchez-del Pino",
+        "given": "I."
+      },
+      {
+        "family": "Borsch",
+        "given": "T."
+      },
+      {
+        "family": "Motley",
+        "given": "T.J."
+      }
+    ],
+    "title": "trnL-F and rpl16 sequence data and dense taxon sampling reveal monophyly of unilocular anthered Gomphrenoideae (Amaranthaceae) and an improved picture of their internal relationships",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2009",
+    "page": "57–67",
+    "URL": "https://doi.org/10.1600/036364409787602401",
+    "DOI": "10.1600/036364409787602401"
+  },
+  {
+    "author": [
+      {
+        "family": "Schinz",
+        "given": "H."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der afrikanischen Flora (XXXVI",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Vierteljahrsschrift der Naturforschenden Gesellschaft in Zürich",
+    "issued": "1931",
+    "page": "33–146"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultes",
+        "given": "J.A."
+      }
+    ],
+    "title": "Systema Vegetabilium",
+    "volume": "5. J.G",
+    "publisher": "Cottae, Stuttgart",
+    "type": "book",
+    "issued": "1819",
+    "page": "634"
+  },
+  {
+    "author": [
+      {
+        "family": "Schwartz",
+        "given": "O."
+      }
+    ],
+    "title": "Flora des tropischen Arabien",
+    "publisher": "Institut für Allgemeine Botanik, Hamburg",
+    "type": "book",
+    "issued": "1939",
+    "page": "557"
+  },
+  {
+    "author": [
+      {
+        "family": "Sukumaran",
+        "given": "J."
+      },
+      {
+        "family": "Holder",
+        "given": "M.T."
+      }
+    ],
+    "title": "DendroPy: A Python library for phylogenetic computing",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2010",
+    "page": "1569–1571",
+    "URL": "https://doi.org/10.1093/bioinformatics/btq228",
+    "DOI": "10.1093/bioinformatics/btq228"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiv",
+        "given": "M."
+      },
+      {
+        "family": "Thulin",
+        "given": "M."
+      },
+      {
+        "family": "Kilian",
+        "given": "N."
+      },
+      {
+        "family": "Linder",
+        "given": "H.P."
+      }
+    ],
+    "title": "Eritreo-arabian affinities of the Socotran flora as revealed from the molecular phylogeny of Aerva (Amaranthaceae",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2006",
+    "page": "560–570",
+    "URL": "https://doi.org/10.1600/036364406778388683",
+    "DOI": "10.1600/036364406778388683"
+  },
+  {
+    "author": [
+      {
+        "family": "Townsend",
+        "given": "C.C."
+      }
+    ],
+    "title": "Amaranthaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "family": "Rohwer",
+        "given": "J.G."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      }
+    ],
+    "container-title": "The families and genera of vasuclar plants",
+    "volume": "2",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "70–91",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-662-02899-5_7",
+    "DOI": "10.1007/978-3-662-02899-5_7"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Icones Plantarum Indiae Orientalis",
+    "volume": "6",
+    "publisher": "J.B. Pharoah",
+    "type": "book",
+    "issued": "1853",
+    "page": "44",
+    "publisher-place": "Madras"
+  },
+  {
+    "author": [
+      {
+        "family": "Zwickl",
+        "given": "D.J."
+      }
+    ],
+    "title": "Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion",
+    "genre": "Ph.D. Dissertation,",
+    "publisher": "University of Texas at",
+    "type": "thesis",
+    "issued": "2006",
+    "publisher-place": "Austin, U.S.A"
+  }
+]

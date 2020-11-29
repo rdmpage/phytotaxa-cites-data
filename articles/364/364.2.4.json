@@ -1,0 +1,732 @@
+[
+  {
+    "author": [
+      {
+        "family": "den",
+        "given": "B.R.C.",
+        "particle": "Bakhuizen van"
+      }
+    ],
+    "title": "Genus Lasianthus",
+    "editor": [
+      {
+        "family": "Backer",
+        "given": "C.A."
+      }
+    ],
+    "container-title": "Flora of Java 2",
+    "publisher": "Noordhoff Publishers",
+    "type": "chapter",
+    "issued": "1965",
+    "page": "334–343",
+    "publisher-place": "Groningen"
+  },
+  {
+    "author": [
+      {
+        "family": "Baldwin",
+        "given": "B.G."
+      },
+      {
+        "family": "Markos",
+        "given": "S."
+      }
+    ],
+    "title": "Phylogenetic utility of the external transcribed spacer (ETS) of 18S–26S rDNA: congruence of ETS and ITS trees in Calycadenia (Compositeae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "1998",
+    "page": "449–463",
+    "URL": "https://doi.org/10.1006/mpev.1998.0545",
+    "DOI": "10.1006/mpev.1998.0545"
+  },
+  {
+    "author": [
+      {
+        "family": "Bremer",
+        "given": "B."
+      }
+    ],
+    "title": "Phylogenetic studies within Rubiaceae and relationships to other families based on molecular data",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Opera Botanica",
+    "issued": "1996",
+    "page": "33–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Bremer",
+        "given": "B."
+      },
+      {
+        "family": "Manen",
+        "given": "J.F."
+      }
+    ],
+    "title": "Phylogeny and classification of the subfamily Rubioideae (Rubiaceae",
+    "volume": "225",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2000",
+    "page": "43–72",
+    "URL": "https://doi.org/10.1007/BF00985458",
+    "DOI": "10.1007/BF00985458"
+  },
+  {
+    "editor": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Hills",
+        "given": "H.G."
+      }
+    ],
+    "title": "Silica gel: An ideal desiccant for preserving field-collected leaves for use in molecular studies",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1991",
+    "page": "215–220",
+    "URL": "https://doi.org/10.2307/1222975",
+    "DOI": "10.2307/1222975"
+  },
+  {
+    "author": [
+      {
+        "family": "Craib",
+        "given": "W.G."
+      }
+    ],
+    "title": "Contributions to the Flora of Siam",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Add",
+    "issued": "1933",
+    "page": "18–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Craib",
+        "given": "W.G."
+      }
+    ],
+    "title": "Lasianthus (Rubiaceae). In: Bangkok times Press (Org.) Flora Siamensis Enumeratio 2",
+    "publisher": "The Bangkok Times Press",
+    "type": "book",
+    "issued": "1934",
+    "page": "207–220",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "Isolation of plant DNA from fresh tissue",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Focus",
+    "issued": "1990",
+    "page": "13–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: An approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "https://doi.org/10.1111/j.1558-5646.1985.tb00420.x",
+    "DOI": "10.1111/j.1558-5646.1985.tb00420.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Fitch",
+        "given": "W.M."
+      }
+    ],
+    "title": "Toward defining the course of evolution: Minimum change for a specific tree topology",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Systematic Zoology",
+    "issued": "1971",
+    "page": "406–416",
+    "URL": "https://doi.org/10.2307/2412116",
+    "DOI": "10.2307/2412116"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Lasianthus Jack",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "type": null,
+    "issued": "1880",
+    "page": "178–192",
+    "publisher-place": "London, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogenetic trees",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Application of IUCN Red List Criteria at Regional and National Levels, version 4.0",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://s3.amazonaws.com/iucnredlist-newcms/staging/public/attachments/3101/reg_guidelines_en.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Jack",
+        "given": "W."
+      }
+    ],
+    "title": "Account of the Lansium and some other genera of Malayan plants",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1823",
+    "page": "125–126",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1823.tb00083.x",
+    "DOI": "10.1111/j.1095-8339.1823.tb00083.x"
+  },
+  {
+    "author": [
+      {
+        "given": "MacClade"
+      }
+    ],
+    "title": "Introduction to MacClade",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://macclade.org/intro.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Negrón-Ortiz",
+        "given": "V."
+      },
+      {
+        "family": "Watson",
+        "given": "L.E."
+      }
+    ],
+    "title": "Molecular phylogeny and biogeography of Erithalis (Rubiaceae), an endemic of the Caribbean Basin",
+    "volume": "234",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2002",
+    "page": "71–83",
+    "URL": "https://doi.org/10.1007/s00606-002-0192-2",
+    "DOI": "10.1007/s00606-002-0192-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest 2.3. Department of Systematic Zoology",
+    "publisher": "EBC, Uppsala University",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "publisher-place": "Sweden",
+    "URL": "https://github.com/nylander/MrModeltest2"
+  },
+  {
+    "author": [
+      {
+        "family": "Oxelman",
+        "given": "B."
+      }
+    ],
+    "title": "RAPD patterns, nrDNA ITS sequences and morphological patterns in Silene section Sedoideae (Caryophyllaceae",
+    "volume": "201",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "1996",
+    "page": "93–116",
+    "URL": "https://doi.org/10.1007/BF00989054",
+    "DOI": "10.1007/BF00989054"
+  },
+  {
+    "author": [
+      {
+        "family": "Oxelman",
+        "given": "B."
+      },
+      {
+        "family": "Liden",
+        "given": "M."
+      },
+      {
+        "family": "Berglund",
+        "given": "D."
+      }
+    ],
+    "title": "Chloroplast rps16 intron phylogeny of the tribe Sileneae (Caryophyllaceae",
+    "volume": "184",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "1997",
+    "page": "393–410",
+    "URL": "https://doi.org/10.1007/BF00987959",
+    "DOI": "10.1007/BF00987959"
+  },
+  {
+    "author": [
+      {
+        "family": "Pitard",
+        "given": "J."
+      }
+    ],
+    "title": "Lasianthus Jack",
+    "editor": [
+      {
+        "family": "Lecomte",
+        "given": "H."
+      }
+    ],
+    "publisher": "Masson",
+    "type": "book",
+    "issued": "1924",
+    "page": "371–399",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Popp",
+        "given": "M."
+      },
+      {
+        "family": "Oxelman",
+        "given": "B."
+      }
+    ],
+    "title": "Inferring the history of the polyploid Silene aegaea (Caryophyllaceae) using plastid and homoeologous nuclear DNA sequences",
+    "type": null,
+    "issued": "2001"
+  },
+  {
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "page": "474–481",
+    "URL": "https://doi.org/10.1006/mpev.2001.0977",
+    "DOI": "10.1006/mpev.2001.0977"
+  },
+  {
+    "author": [
+      {
+        "family": "Piesschaert",
+        "given": "F."
+      },
+      {
+        "family": "Anderson",
+        "given": "L."
+      },
+      {
+        "family": "Jansen",
+        "given": "S."
+      },
+      {
+        "family": "Dessein",
+        "given": "S."
+      },
+      {
+        "family": "Robbrecht",
+        "given": "E."
+      },
+      {
+        "family": "Smets",
+        "given": "E."
+      }
+    ],
+    "title": "Searching for the taxonomic position of the African genus Colletoecema (Rubiaceae): morphology and anatomy compared to an rps 16-intron analysis of Rubioideae",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issue": "3",
+    "issued": "2000",
+    "page": "288–304",
+    "URL": "https://doi.org/10.1139/b00-002",
+    "DOI": "10.1139/b00-002"
+  },
+  {
+    "author": [
+      {
+        "family": "Razafimandimbison",
+        "given": "S.G."
+      },
+      {
+        "family": "Bremer",
+        "given": "B."
+      }
+    ],
+    "title": "Phylogeny and classification of Nucleases. (Rubiaceae) inferred from molecular (ITS, rbcL, and trnT-F) and morphological data",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2002",
+    "page": "1027–1041",
+    "URL": "https://doi.org/10.3732/ajb.89.7.1027",
+    "DOI": "10.3732/ajb.89.7.1027"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "Lasianthus Jack",
+    "editor": [
+      {
+        "family": "Henry",
+        "given": "N."
+      },
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "publisher": "Reeve L., Co. Ltd",
+    "type": "book",
+    "issued": "1923",
+    "page": "149–169",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Robbrecht",
+        "given": "E."
+      },
+      {
+        "family": "Manen",
+        "given": "J.F."
+      }
+    ],
+    "title": "The major evolutionary lineages of the coffee family (Rubiaceae, angiosperms) combined analysis (nDNA and cpDNA) to infer the position of Coptosapelta and Luculia and supertree construction based on rbcL, rps16, trnL-trnF and atpB-rbcL data. A new classification in two subfamilies, Cinchonoideae and Rubioideae",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Systematics and Geography of Plants",
+    "issued": "2006",
+    "page": "85–146"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Rydin",
+        "given": "C."
+      },
+      {
+        "family": "Razafimandimbison",
+        "given": "S.G."
+      },
+      {
+        "family": "Bremer",
+        "given": "B."
+      }
+    ],
+    "title": "Rare and enigmatic genera (Dunnia, Schizocolea, Colletoecema), sisters to species-rich clades: Phylogeny and aspects of conservation biology in the coffee family",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2008",
+    "page": "74–83",
+    "URL": "https://doi.org/10.1016/j.ympev.2008.04.006",
+    "DOI": "10.1016/j.ympev.2008.04.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Smedmark",
+        "given": "J.E.E."
+      },
+      {
+        "family": "Razafimandimbison",
+        "given": "S.G."
+      },
+      {
+        "family": "Wikström",
+        "given": "N."
+      },
+      {
+        "family": "Bremer",
+        "given": "B."
+      }
+    ],
+    "title": "Inferring geographic range evolution of a pantropical tribe in the coffee family (Lasiantheae, Rubiaceae) in the face of topological uncertainty",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2014",
+    "page": "182–194",
+    "URL": "https://doi.org/10.1016/j.ympev.2013.09.007",
+    "DOI": "10.1016/j.ympev.2013.09.007"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP. Phylogenetic Analysis Using Parsimony (and other methods",
+    "volume": "4",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "0b10",
+    "issued": "2002",
+    "publisher-place": "Sinauer Associates, Sunderland, Massachusetts",
+    "URL": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.6867&rep=rep1&type="
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The CLUSTAL_X Windows interface: Flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "https://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Notes on Indian Botany",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Calcutta Journal of Natural History",
+    "issued": "1846",
+    "page": "494–518"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamazaki",
+        "given": "T."
+      }
+    ],
+    "title": "Note on Lasianthus in Ryukyu",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1964",
+    "page": "348–352"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Z."
+      },
+      {
+        "family": "Rannala",
+        "given": "B."
+      }
+    ],
+    "title": "Bayesian phylogenetic inference using DNA sequences: a Markov Chain Monte Carlo method",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1997",
+    "page": "717–724",
+    "URL": "https://doi.org/10.1093/oxfordjournals.molbev.a025811",
+    "DOI": "10.1093/oxfordjournals.molbev.a025811"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "H."
+      }
+    ],
+    "title": "A taxonomic study on the genus Lasianthus Jack. in China",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1994",
+    "page": "49–81"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "H."
+      }
+    ],
+    "title": "Notes on Lasianthus Jack (Rubiaceae) from Asia",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1998",
+    "page": "149–159"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "H."
+      }
+    ],
+    "title": "A Taxonomic revision of the genus Lasianthus Jack . (Rubiaceae) from Thailand",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Acta phytotaxonomica sinica",
+    "issued": "2001",
+    "page": "116–150"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "H."
+      }
+    ],
+    "title": "Four new species and one new record of Lasianthus (Rubiaceae) from Thailand",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2002",
+    "page": "573–578",
+    "URL": "https://doi.org/10.1111/j.1756-1051.2002.tb01912.x",
+    "DOI": "10.1111/j.1756-1051.2002.tb01912.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "H."
+      },
+      {
+        "family": "Roos",
+        "given": "M.C."
+      },
+      {
+        "family": "Ridsdale",
+        "given": "C.E."
+      }
+    ],
+    "title": "A taxonomic revision of the Malesian species of Lasianthus (Rubiaceae",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "2012",
+    "page": "1–102",
+    "URL": "https://doi.org/10.3767/000651912X652012",
+    "DOI": "10.3767/000651912X652012"
+  }
+]

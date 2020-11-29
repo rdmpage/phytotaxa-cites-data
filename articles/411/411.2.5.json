@@ -1,0 +1,194 @@
+[
+  {
+    "author": [
+      {
+        "family": "Briquet",
+        "given": "J.I."
+      }
+    ],
+    "title": "Decades plantarum novarum velminus cognitarum",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Annuaire du Conservatoire et du jardin botaniques de Genève",
+    "issued": "1919",
+    "page": "401"
+  },
+  {
+    "author": [
+      {
+        "family": "De Smet",
+        "given": "Y."
+      },
+      {
+        "family": "Granados Mendoza",
+        "given": "C."
+      },
+      {
+        "family": "Wanke",
+        "given": "S."
+      },
+      {
+        "family": "Goetghebeur",
+        "given": "P."
+      },
+      {
+        "family": "Samain",
+        "given": "M.S."
+      }
+    ],
+    "title": "Molecular phylogenetics and new (infra) generic classification to alleviate polyphyly in tribe Hydrangeeae (Cornales: Hydrangeaceae",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "4",
+    "issued": "2015",
+    "page": "741–753",
+    "URL": "https://doi.org/10.12705/644.6",
+    "DOI": "10.12705/644.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaudichaud-Beaupré",
+        "given": "C."
+      }
+    ],
+    "title": "Voyage autour du Monde, entrepris par Ordre du Roi Execute sur les Corvettes de S.M. l’Uranie et la Physicienne par M",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Louis de Freycinet. Botanique. Chez Pillet",
+    "issue": "",
+    "issued": "1826",
+    "page": "479"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Thomson",
+        "given": "T."
+      }
+    ],
+    "title": "Praecursores ad Floriam Indicam; being Sketches of the Natural Families of Indian Plants, with remarks on their Distribution, Structure and Affinities",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Journal of the Proceedings of the Linnean Society",
+    "issued": "1857",
+    "page": "57",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1857.tb02465.x",
+    "DOI": "10.1111/j.1095-8339.1857.tb02465.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Impensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "397"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2. Ed. 2",
+    "publisher": "Impensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1763",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Loureiro",
+        "given": "J."
+      }
+    ],
+    "title": "Flora cochinchinensis: sistens plantas in regno Cochinchina nascentes. Quibus accedunt aliæ observatæ in Sinensi imperio, Africa Orientali, Indiæque locis variis",
+    "volume": "1",
+    "genre": "Typis, et expensis academicis,",
+    "publisher": "Ulyssipone",
+    "type": "article-journal",
+    "container-title": "Omnes dispositæ secundum systema sexuale Linnæanum",
+    "issued": "1790",
+    "page": "301",
+    "URL": "https://doi.org/10.5962/bhl.title.40199",
+    "DOI": "10.5962/bhl.title.40199"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Revisio Hydrangeearum Asiae Orientalis",
+    "container-title": "Mémoires de l’Academie Imperiale des Sciences de Saint Petersbourg Ser",
+    "volume": "10",
+    "issue": "16",
+    "type": "article-journal",
+    "issued": "1867",
+    "page": "2"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "New plants Sorsogon Province, Luzon",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Philippine Journal of Science",
+    "issue": "1",
+    "issued": "1916",
+    "page": "13"
+  },
+  {
+    "editor": [
+      {
+        "family": "Pelser",
+        "given": "P.B."
+      },
+      {
+        "family": "Barcelona",
+        "given": "J.F."
+      },
+      {
+        "family": "Nickrent",
+        "given": "D.L."
+      }
+    ],
+    "title": "Co’s Digital Flora of the Philippines",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.philippineplants.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Siebold",
+        "given": "P.F."
+      }
+    ],
+    "title": "Flora Japonica; sive, Plantae Quas in Imperio Japonico Collegit, Descripsit, ex Parte in Ipsis Locis Pingendas Curavit. Sectio Prima Continens Plantas Ornatui vel Usui Inservientes Digessit J",
+    "volume": "58, 62",
+    "type": "article-journal",
+    "container-title": "G. Zuccarini. Lugduni Batavorum, Leiden",
+    "issued": "1835",
+    "page": "119"
+  }
+]

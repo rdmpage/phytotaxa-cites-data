@@ -1,0 +1,352 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "M.J."
+      },
+      {
+        "family": "Curtis",
+        "given": "M.A."
+      }
+    ],
+    "title": "On Cuban fungi",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society Botany",
+    "issued": "1868",
+    "page": "280–341"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Hymenochaetaceae (Basidiomycota) in China",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2010",
+    "page": "131–343",
+    "URL": "http://dx.doi.org/10.1007/s13225-010-0066-9",
+    "DOI": "10.1007/s13225-010-0066-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Polypore diversity in China with an annotated checklist of Chinese polypores",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2012",
+    "page": "49–80",
+    "URL": "http://dx.doi.org/10.1007/s10267-011-0134-3",
+    "DOI": "10.1007/s10267-011-0134-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E.M."
+      }
+    ],
+    "title": "Epicrisis systematis mycologici, seu synopsis Hymenomycetum",
+    "type": null,
+    "issued": "1838",
+    "page": "612",
+    "publisher-place": "Uppsala, Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Kotiranta",
+        "given": "H."
+      }
+    ],
+    "title": "The genus Inonotus sensu lato in Iran, with keys to Inocutis and Mensularia worldwide",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2008",
+    "page": "465–476",
+    "URL": "http://dx.doi.org/10.5735/085.045.0605",
+    "DOI": "10.5735/085.045.0605"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "http://dx.doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Briefings in Bioinformatics",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "http://dx.doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Pattengale",
+        "given": "N.D."
+      },
+      {
+        "family": "Alipour",
+        "given": "M."
+      },
+      {
+        "family": "Bininda-Emonds",
+        "given": "O.R.P."
+      },
+      {
+        "family": "Moret",
+        "given": "B.M.E."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "How many bootstrap replicates are necessary?",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Journal of Computational Biology",
+    "issued": "2010",
+    "page": "337–354",
+    "URL": "http://dx.doi.org/10.1089/cmb.2009.0179",
+    "DOI": "10.1089/cmb.2009.0179"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "J.H."
+      }
+    ],
+    "title": "Farvekort. The Danish Mycological Society’s colour-chart",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Foreningen til Svampekundskabens Fremme, Greve",
+    "issued": "1996",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pouzar",
+        "given": "Z."
+      }
+    ],
+    "title": "Notes on the taxonomy and nomenclature of the polypore Inonotus polymorphus",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Česká Mykologie",
+    "issued": "1981",
+    "page": "25–28"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "Genera of polypores. Nomenclature and taxonomy",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "1991",
+    "page": "1–363"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "The genus Inonotus, a synopsis",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2005",
+    "page": "1–149"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      },
+      {
+        "family": "Melo",
+        "given": "I."
+      }
+    ],
+    "title": "Poroid fungi of Europe",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2014",
+    "page": "1–455"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "raxmlGUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity & Evolution",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "http://dx.doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (*and other methods",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "0b10",
+    "issued": "2002",
+    "publisher-place": "Sinauer Associates, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "T."
+      },
+      {
+        "family": "Fischer",
+        "given": "M."
+      }
+    ],
+    "title": "Natural groups and a revised system for the European poroid Hymenochaetales (Basidiomycota) supported by nLSU rDNA sequence data",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2001",
+    "page": "773–782",
+    "URL": "http://dx.doi.org/10.1017/S0953756201004257",
+    "DOI": "10.1017/S0953756201004257"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "T."
+      },
+      {
+        "family": "Fischer",
+        "given": "M."
+      }
+    ],
+    "title": "Proceedings towards a natural classification of the worldwide taxa Phellinus s.l. and Inonotus s.l., and phylogenetic relationships of allied genera",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2002",
+    "page": "998–1016"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      }
+    ],
+    "title": "Phylloporia tiliae sp. nov. from China",
+    "volume": "124",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2013",
+    "page": "361–365",
+    "URL": "http://dx.doi.org/10.5248/124.361",
+    "DOI": "10.5248/124.361"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      }
+    ],
+    "title": "Mensularia lithocarpi sp. nov. from Yunnan Province, southwestern China",
+    "volume": "127",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2014",
+    "page": "103–109",
+    "URL": "http://dx.doi.org/10.5248/127.103",
+    "DOI": "10.5248/127.103"
+  }
+]

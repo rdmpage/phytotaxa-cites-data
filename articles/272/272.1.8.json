@@ -1,0 +1,196 @@
+[
+  {
+    "author": [
+      {
+        "family": "Burtt-Davy",
+        "given": "J."
+      }
+    ],
+    "title": "A manual of the flowering plants and ferns of the Transvaal with Swaziland, South Africa",
+    "genre": "Part 1.",
+    "publisher": "Longman, Green",
+    "type": null,
+    "issued": "1926",
+    "page": "269",
+    "publisher-place": "Reader & Dyer, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "publisher": "Treuttel & Würts, Paris",
+    "type": "book",
+    "issued": "1828",
+    "page": "494"
+  },
+  {
+    "author": [
+      {
+        "family": "Coates-Palgrave",
+        "given": "M."
+      }
+    ],
+    "title": "Keith Coates-Palgrave Trees of Southern Africa",
+    "edition": "3rd",
+    "publisher": "Struick Publishers, Cape Town",
+    "type": "book",
+    "issued": "2002",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Brehmer",
+        "given": "V."
+      }
+    ],
+    "title": "Myrtaceae africanae. Botanische Jahrbücher für Systematik",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschicte und Pflanzengeographie",
+    "issued": "1917",
+    "page": "329–341"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaertner",
+        "given": "J."
+      }
+    ],
+    "title": "De Fructibus et Seminibus Plantarum",
+    "volume": "1",
+    "publisher": "Typis Academie Carolinae, Stuttgart",
+    "type": "book",
+    "issued": "1788",
+    "page": "577",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.102753",
+    "DOI": "10.5962/bhl.title.102753"
+  },
+  {
+    "author": [
+      {
+        "family": "Harvey",
+        "given": "W.H."
+      }
+    ],
+    "title": "The genera of South African plants",
+    "edition": "2nd",
+    "publisher": "Longman",
+    "type": "book",
+    "issued": "1868",
+    "page": "485",
+    "publisher-place": "Green, Reader & Dyer, London"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "note": "Available from:",
+    "publisher": "International Union for the Conservation of Nature and Natural Resources",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "E."
+      },
+      {
+        "family": "Lötter",
+        "given": "M."
+      },
+      {
+        "family": "McCleland",
+        "given": "W."
+      }
+    ],
+    "title": "Trees and shrubs of Mpumalanga and Kruger National Park",
+    "publisher": "Jacana Media, Johannesburg",
+    "type": "book",
+    "issued": "2002",
+    "page": "702"
+  },
+  {
+    "author": [
+      {
+        "given": "S.Y.Z.W.G."
+      }
+    ],
+    "title": "Syzygium (Myrtaceae): Monographing a taxonomic giant via 22 coordinated regional revisions",
+    "volume": "4",
+    "publisher": "Syzygium Working Group",
+    "type": "article-journal",
+    "container-title": "PeerJ Preprints",
+    "issued": "2016",
+    "page": "1930 1"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.S.P."
+      }
+    ],
+    "title": "World Checklist of Selected Plant Families. Facilitated by the Royal Botanic Gardens, Kew",
+    "note": "Available from",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "F."
+      }
+    ],
+    "title": "Forest Flora of Northern Rhodesia",
+    "publisher": "Oxford University Press",
+    "type": "book",
+    "issued": "1962",
+    "page": "455",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "G.C. Nauk",
+    "type": "book",
+    "issued": "1799",
+    "page": "823",
+    "publisher-place": "Berlin"
+  }
+]

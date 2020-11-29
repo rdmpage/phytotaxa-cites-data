@@ -1,0 +1,814 @@
+[
+  {
+    "author": [
+      {
+        "family": "Allioni",
+        "given": "C."
+      }
+    ],
+    "title": "Flora Pedemontana sive Enumeratio Methodica Stirpium Indigenarum Pedemontii",
+    "volume": "2",
+    "publisher": "Avgvstae Tavrinorvm, excudebat I.M., Briolus",
+    "type": "book",
+    "issued": "1785",
+    "page": "421"
+  },
+  {
+    "author": [
+      {
+        "family": "Breistroffer",
+        "given": "M."
+      }
+    ],
+    "title": "Notes de nomenclature botanique (2e contribution",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société scientifique du Dauphiné",
+    "issued": "1947",
+    "page": "605–642"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "N.E."
+      }
+    ],
+    "title": "Juncaceae",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1903",
+    "page": "160–166"
+  },
+  {
+    "author": [
+      {
+        "family": "Buchenau",
+        "given": "F.G.P."
+      }
+    ],
+    "title": "Kritisches Verzeichniss aller bis jetzt beschriebenen Juncaceen",
+    "editor": [
+      {
+        "given": "C."
+      }
+    ],
+    "publisher": "Müller’s Verlagsbuchhandlung, Bremen",
+    "type": "book",
+    "issued": "1879",
+    "page": "112"
+  },
+  {
+    "author": [
+      {
+        "family": "Buchenau",
+        "given": "F.G.P."
+      }
+    ],
+    "title": "Die Verbreitung der Juncaceen über die Erde",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "volume": "1",
+    "publisher": "Verlag von Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1880",
+    "page": "104–141",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Buchenau",
+        "given": "F.G.P."
+      }
+    ],
+    "title": "Monographia Juncacearum",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "volume": "12",
+    "publisher": "Verlag von Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1890",
+    "page": "1–495",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Chaix",
+        "given": "D."
+      }
+    ],
+    "title": "Histoire des Plantes de Dauphiné",
+    "volume": "1",
+    "container-title": "& chez Piestre & de La Molière",
+    "type": "chapter",
+    "issued": "1786",
+    "page": "467",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Dandy",
+        "given": "J.E."
+      },
+      {
+        "family": "Wilmott",
+        "given": "A.J."
+      }
+    ],
+    "title": "Luzula luzuloides (Lam.), comb",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "nov. Journal of Botany",
+    "issued": "1938",
+    "page": "352–353"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Monocotylédones Phanérogame A étamines périgynes. Seizième Famille. Joncées. Junceae",
+    "editor": [
+      {
+        "family": "Lamarck",
+        "given": "J.B.A.P.M."
+      },
+      {
+        "family": "Candolle",
+        "given": "A.P.",
+        "particle": "de"
+      }
+    ],
+    "volume": "3",
+    "edition": "3rd",
+    "publisher": "H. Agasse",
+    "type": "book",
+    "issued": "1805",
+    "page": "155–171",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Desvaux",
+        "given": "N.A."
+      }
+    ],
+    "title": "Mémorie sur une monographie du genre Luzula",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique, Rédigé par une Société di Botanistes",
+    "issued": "1808",
+    "page": "129–165"
+  },
+  {
+    "author": [
+      {
+        "family": "Drábková",
+        "given": "L.Z."
+      },
+      {
+        "family": "Vlcek",
+        "given": "C."
+      }
+    ],
+    "title": "Molecular phylogeny of the genus Luzula DC (Juncaceae, Monocotyledones) based on plastome and nuclear ribosomal regions: a case of incongruence, incomplete lineage sorting and hybridization",
+    "volume": "77",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2010",
+    "page": "536–551",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2010.07.022",
+    "DOI": "10.1016/j.ympev.2010.07.022"
+  },
+  {
+    "author": [
+      {
+        "given": "eMonocot"
+      }
+    ],
+    "title": "eMonocot: an online resource for monocot plants",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://e-monocot.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Ehrhart",
+        "given": "J.F."
+      }
+    ],
+    "title": "Besstimmung einiger Kräuter und Gräfer. Beiträge zur Naturkunde, und den damit verwandten wissenschaften, besonders der botanik, chemie, haus- und landwirthschaft, arzneigelahrtheit und apothekerkunst 6",
+    "type": null,
+    "issued": "1791",
+    "page": "131–147",
+    "publisher-place": "Hannover & Osnabrück, Hanover"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebebach",
+        "given": "A.H.R."
+      },
+      {
+        "family": "Junceae",
+        "given": "Fam X.C.I.V."
+      }
+    ],
+    "title": "In: Spicilegium Florae Rumelicae et Bithynicae Exhibens Synopsin Plantarum quas in aest",
+    "volume": "2",
+    "container-title": "Prostat apud Fridericum Vieweg et filium, Brunsvigae",
+    "type": "chapter",
+    "issued": "1846",
+    "page": "404–408"
+  },
+  {
+    "author": [
+      {
+        "family": "Hämet-Ahti",
+        "given": "R."
+      }
+    ],
+    "title": "A synopsis of the species Luzula, subgenus Anthelaea Griseb. (Juncaceae) indigenous in North America",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "1971",
+    "page": "368–381"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoppe",
+        "given": "D.H."
+      }
+    ],
+    "title": "Herbarium vivum plantarum rariorum praesertim alpinarum, exhibens sodalibus in variis Germaniae regionibus collectas et Botaniphilis communicates",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Cent",
+    "issued": "1800",
+    "publisher-place": "Regensburg"
+  },
+  {
+    "author": [
+      {
+        "family": "Hultén",
+        "given": "E."
+      }
+    ],
+    "title": "Comments on the flora of Alaska and Yukon",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Arkiv för Botanik",
+    "issued": "1968",
+    "page": "1–147"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirschner",
+        "given": "J."
+      }
+    ],
+    "title": "Juncaceae 1. Rostkovia to Luzula, Species Plantarum",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Flora of the World Part",
+    "issued": "2002",
+    "page": "1–237"
+  },
+  {
+    "author": [
+      {
+        "family": "Jepson",
+        "given": "W.L."
+      }
+    ],
+    "title": "A Flora of California",
+    "volume": "1. Parts 1–7",
+    "publisher": "Associated Student Store University of California",
+    "type": "book",
+    "issued": "1921",
+    "page": "578",
+    "publisher-place": "Berkeley, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaplan",
+        "given": "Z."
+      }
+    ],
+    "title": "Taxonomic and nomenclatural notes on Luzula subg",
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "Pterodes. Preslia",
+    "issued": "2001",
+    "page": "59–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Laestadius",
+        "given": "L.L."
+      }
+    ],
+    "title": "Botaniska Anmarkningar, gjorda I Lappmarken och tillgränsande Landsorter",
+    "volume": "1822",
+    "type": "article-journal",
+    "container-title": "Kongl. Vetenskapsacademiens Handlingar",
+    "issued": "1822",
+    "page": "327–342"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamark",
+        "given": "J.B.A.P.M."
+      }
+    ],
+    "title": "Encyclopédie méthodique: botanique",
+    "volume": "3",
+    "type": null,
+    "issued": "1789",
+    "page": "759",
+    "publisher-place": "Panckoucke, Plomteux, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindeberg",
+        "given": "C.J."
+      }
+    ],
+    "title": "Resu i Norge 1854",
+    "volume": "1855",
+    "type": "article-journal",
+    "container-title": "Botaniska Notiser",
+    "issued": "1855",
+    "page": "1–13"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "E.H.F."
+      }
+    ],
+    "title": "Luzularum species",
+    "container-title": "Linnaea ein journal für die Botanik in ihrem ganzen umfange",
+    "volume": "22",
+    "type": "article-journal",
+    "issued": "1849",
+    "page": "383–420"
+  },
+  {
+    "author": [
+      {
+        "family": "Miyabe",
+        "given": "K."
+      },
+      {
+        "family": "Kudo",
+        "given": "Y."
+      }
+    ],
+    "title": "Materials for a flora of Hokkaido II",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Transactions of the Sapporo Natural History Society",
+    "issued": "1913",
+    "page": "36–44"
+  },
+  {
+    "title": "National Center for Biotechnology Information",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://blast.ncbi.nlm.nih.gov/Blast.cgi"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "N.T."
+      }
+    ],
+    "title": "The Fansipan flora in relationship to the Sino-Japanese floristic region In",
+    "editor": [
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      },
+      {
+        "family": "Obha",
+        "given": "H.Bulletin No"
+      }
+    ],
+    "publisher": "University of Tokyo",
+    "type": "book",
+    "issued": "1998",
+    "page": "111–122",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "N.T."
+      },
+      {
+        "family": "Harder",
+        "given": "D.K."
+      }
+    ],
+    "title": "Diversity of the flora of Fan Si Pan, the highest mountain in Vietnam",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1996",
+    "page": "404–408",
+    "URL": "http://dx.doi.org/10.2307/2399869",
+    "DOI": "10.2307/2399869"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "N.T."
+      },
+      {
+        "family": "Dang",
+        "given": "H.H."
+      },
+      {
+        "family": "Le",
+        "given": "V.K."
+      },
+      {
+        "family": "Truong",
+        "given": "V.L."
+      },
+      {
+        "family": "Dang",
+        "given": "T.D."
+      },
+      {
+        "family": "Tran",
+        "given": "M.H."
+      },
+      {
+        "family": "Nguyen",
+        "given": "V.T."
+      },
+      {
+        "family": "Nguyen",
+        "given": "Q.T."
+      },
+      {
+        "family": "Vu",
+        "given": "A.T."
+      },
+      {
+        "family": "Nguyen",
+        "given": "T.K.T."
+      },
+      {
+        "family": "Truong",
+        "given": "N.K."
+      },
+      {
+        "family": "Nguyen",
+        "given": "A.D."
+      }
+    ],
+    "title": "Biodiversity of flora in Hoang Lien National Park, Lao Cai Province",
+    "publisher": "Agriculture Publishing House, Hanoi",
+    "type": "book",
+    "issued": "2008",
+    "page": "268"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "N.T."
+      },
+      {
+        "family": "Vu",
+        "given": "A.T."
+      },
+      {
+        "family": "Nguyen",
+        "given": "A.D."
+      },
+      {
+        "family": "Nguyen",
+        "given": "Q.T."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "given": "Thomson"
+      }
+    ],
+    "title": "Decaisnea insignis (Griffith",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Scientific Journal of Ministry of Agriculture and Rural Development",
+    "issued": "2005",
+    "page": "65–66"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "N.T."
+      },
+      {
+        "family": "Vu",
+        "given": "A.T."
+      },
+      {
+        "family": "Nguyen",
+        "given": "A.D."
+      },
+      {
+        "family": "Nguyen",
+        "given": "T.D."
+      },
+      {
+        "family": "Nguyen",
+        "given": "Q.T."
+      }
+    ],
+    "title": "Addition of new taxa to Vietnam’s Flora from the flora of Hoang Lien National Park, Lao Cai Province",
+    "editor": [
+      {
+        "family": "Nguyen",
+        "given": "B."
+      }
+    ],
+    "container-title": "Proceedings of National Conferences on Life Science",
+    "publisher": "Hanoi Medical University, Science and Techniques Publishing House, Hanoi",
+    "type": "paper-conference",
+    "issued": "2005",
+    "page": "298–301"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Autikon Botanikon",
+    "publisher": "Philadelphia",
+    "type": "book",
+    "issued": "1840",
+    "page": "200"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruprecht",
+        "given": "F.J."
+      }
+    ],
+    "title": "Floes Samojedorum Cisuralensium",
+    "publisher": "Kaiserlichen Akademie, der Wissenschaften, St. Petersburg",
+    "type": "book",
+    "issued": "1845",
+    "page": "67"
+  },
+  {
+    "author": [
+      {
+        "family": "Satake",
+        "given": "Y."
+      }
+    ],
+    "title": "Juncaceae",
+    "editor": [
+      {
+        "family": "Nakai",
+        "given": "T."
+      },
+      {
+        "family": "Honda",
+        "given": "M."
+      }
+    ],
+    "volume": "1",
+    "type": null,
+    "issued": "1938",
+    "page": "103",
+    "publisher-place": "Sanseido, Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "K.P.J."
+      }
+    ],
+    "title": "Juncus",
+    "edition": "In: Systema vegetabilium. Editio decima sexta",
+    "volume": "II",
+    "container-title": "Classis 6–15. Sumtibus Librariae Dieterichianae, Gottingae",
+    "type": "chapter",
+    "issued": "1825",
+    "page": "103–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Starr",
+        "given": "J.R."
+      },
+      {
+        "family": "Bayer",
+        "given": "R.J."
+      },
+      {
+        "family": "Ford",
+        "given": "B.A."
+      }
+    ],
+    "title": "The phylogenetic position of Carex section Phyllostachys and its implications for phylogeny and subgeneric circumscription in Carex (Cyperaceae",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1999",
+    "page": "563–577",
+    "URL": "http://dx.doi.org/10.2307/2656818",
+    "DOI": "10.2307/2656818"
+  },
+  {
+    "author": [
+      {
+        "family": "Starr",
+        "given": "J.R."
+      },
+      {
+        "family": "Naczi",
+        "given": "R.F.C."
+      },
+      {
+        "family": "Chouinard",
+        "given": "B.N."
+      }
+    ],
+    "title": "Plant DNA barcodes and species resolution in sedges (Carex, Cyperaceae",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issue": "1",
+    "issued": "2009",
+    "page": "151–163",
+    "URL": "http://dx.doi.org/10.1111/j.1755-0998.2009.02640.x",
+    "DOI": "10.1111/j.1755-0998.2009.02640.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Sterling",
+        "given": "E.J."
+      },
+      {
+        "family": "Hurley",
+        "given": "M.M."
+      },
+      {
+        "family": "Minh",
+        "given": "L."
+      }
+    ],
+    "title": "Vietnam: a Natural History",
+    "publisher": "Yale University Press, New Haven and London",
+    "type": "book",
+    "issued": "2006",
+    "page": "423"
+  },
+  {
+    "author": [
+      {
+        "family": "Center",
+        "given": "Vietnam Plant Data"
+      }
+    ],
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.botanyvn.com/default.asp?lg=en"
+  },
+  {
+    "author": [
+      {
+        "family": "Vu",
+        "given": "A.T."
+      }
+    ],
+    "title": "A new record of species Rubia tinctorum L",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Rubiaceae) for the flora of Vietnam. Journal of Biology",
+    "issued": "2012",
+    "page": "452–454"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "S."
+      }
+    ],
+    "title": "Contributions to American botany: revision of the North American Liliaceae; descriptions of some new species of North American plants",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "14",
+    "type": "paper-conference",
+    "issued": "1879",
+    "page": "213–303",
+    "URL": "http://dx.doi.org/10.2307/25138538",
+    "DOI": "10.2307/25138538"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "S."
+      }
+    ],
+    "title": "Botany of California",
+    "volume": "2",
+    "publisher": "John Wilson & Son, University Press",
+    "type": "book",
+    "issued": "1880",
+    "page": "559",
+    "publisher-place": "Cambridge, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "K.F."
+      }
+    ],
+    "title": "Taxonomy and geographical distribution of the genus Luzula of China",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Journal of East China Normal University Natural Science Edition",
+    "issued": "1992",
+    "page": "88–104"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "G."
+      },
+      {
+        "family": "Clements",
+        "given": "S.E."
+      }
+    ],
+    "title": "Juncaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "24",
+    "publisher": "Science Press, Beijing and Missouri Botanical Garden Press, St. Louis",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "44–69"
+  }
+]

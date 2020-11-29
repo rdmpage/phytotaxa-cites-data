@@ -1,0 +1,735 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ali-Shtayeh",
+        "given": "M.S."
+      },
+      {
+        "family": "Saleh",
+        "given": "A.S.F."
+      }
+    ],
+    "title": "Isolation of Pythium acanthicum, P. oligandrum, and P. periplocum from soil and evaluation of their mycoparasitic activity and biocontrol efficacy against selected phytopathogenic Pythium species",
+    "volume": "145",
+    "type": "article-journal",
+    "container-title": "Mycopathologia",
+    "issued": "1999",
+    "page": "143–153",
+    "URL": "https://doi.org/10.1023/A:1007065010931",
+    "DOI": "10.1023/A:1007065010931"
+  },
+  {
+    "author": [
+      {
+        "family": "Bala",
+        "given": "K."
+      },
+      {
+        "family": "Gautam",
+        "given": "N."
+      },
+      {
+        "family": "Paul",
+        "given": "B."
+      }
+    ],
+    "title": "Pythium rhizo-oryzae sp. nov. isolated from paddy fields: taxonomy, ITS region of rDNA, and comparison with related species",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Current Microbiology",
+    "issued": "2006",
+    "page": "102–107",
+    "URL": "https://doi.org/10.1007/s00284-005-0116-9",
+    "DOI": "10.1007/s00284-005-0116-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Benard",
+        "given": "D."
+      },
+      {
+        "family": "Punja",
+        "given": "Z.K."
+      }
+    ],
+    "title": "Role of Pythium species in cavity spot development on carrots in British Columbia",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Plant Pathology",
+    "issued": "1995",
+    "page": "31–45",
+    "URL": "https://doi.org/10.1080/07060669509500717",
+    "DOI": "10.1080/07060669509500717"
+  },
+  {
+    "author": [
+      {
+        "family": "Blair",
+        "given": "J.E."
+      },
+      {
+        "family": "Coffey",
+        "given": "M.D."
+      },
+      {
+        "family": "Park",
+        "given": "S.Y."
+      },
+      {
+        "family": "Geiser",
+        "given": "D.M."
+      },
+      {
+        "family": "Kang",
+        "given": "S."
+      }
+    ],
+    "title": "A multi-locus phylogeny for Phytophthora utilizing markers derived from complete genome sequences",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Fungal Genetics and Biology",
+    "issued": "2008",
+    "page": "266–277",
+    "URL": "https://doi.org/10.1016/j.fgb.2007.10.010",
+    "DOI": "10.1016/j.fgb.2007.10.010"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Studies on Wrightoporia from China 3. Wrightoporia subavellanea sp. nov. based on morphological characters and rDNA sequence data",
+    "volume": "175",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "225–234",
+    "URL": "https://doi.org/10.11646/phytotaxa.175.4.4",
+    "DOI": "10.11646/phytotaxa.175.4.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Lv",
+        "given": "L."
+      },
+      {
+        "family": "Ye",
+        "given": "W.W."
+      },
+      {
+        "family": "Wang",
+        "given": "Y.C."
+      },
+      {
+        "family": "Zheng",
+        "given": "X.B."
+      }
+    ],
+    "title": "Pythium cedri sp",
+    "producer": [
+      {
+        "given": "nov"
+      }
+    ],
+    "volume": "309",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "135–142",
+    "URL": "https://doi.org/10.11646/phytotaxa.309.2.4",
+    "DOI": "10.11646/phytotaxa.309.2.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Salmaninezhad",
+        "given": "F."
+      },
+      {
+        "family": "Mostowfizadeh-Ghalamfarsa",
+        "given": "R."
+      }
+    ],
+    "title": "Three new Pythium species from rice paddy fields",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2019",
+    "page": "274–290",
+    "URL": "https://doi.org/10.1080/00275514.2018.1543486",
+    "DOI": "10.1080/00275514.2018.1543486"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence intervals on phylogenetics: an approach using bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "https://doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "Bioedit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Ho",
+        "given": "H.H."
+      }
+    ],
+    "title": "The genus Pythium in mainland China",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "2013",
+    "page": "20–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Lévesque",
+        "given": "C.A."
+      },
+      {
+        "family": "Cock",
+        "given": "A.W.A.M.",
+        "particle": "de"
+      }
+    ],
+    "title": "Molecular phylogeny and taxonomy of the genus Pythium",
+    "volume": "108",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2004",
+    "page": "1363–1383",
+    "URL": "https://doi.org/10.1017/S0953756204001431",
+    "DOI": "10.1017/S0953756204001431"
+  },
+  {
+    "author": [
+      {
+        "family": "Long",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Wei",
+        "given": "J.G."
+      },
+      {
+        "family": "Sun",
+        "given": "X."
+      },
+      {
+        "family": "He",
+        "given": "Y.Q."
+      },
+      {
+        "family": "Luo",
+        "given": "J.T."
+      },
+      {
+        "family": "Guo",
+        "given": "L.D."
+      }
+    ],
+    "title": "Two new Pythium species from China based on the morphology and DNA sequence data",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2012",
+    "page": "689–698",
+    "URL": "https://doi.org/10.1007/s11557-011-0778-6",
+    "DOI": "10.1007/s11557-011-0778-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Long",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Sun",
+        "given": "X."
+      },
+      {
+        "family": "Wei",
+        "given": "J.G."
+      },
+      {
+        "family": "Sum",
+        "given": "X."
+      },
+      {
+        "family": "Wei",
+        "given": "J.J."
+      },
+      {
+        "family": "Deng",
+        "given": "H."
+      },
+      {
+        "family": "Guo",
+        "given": "L.D."
+      }
+    ],
+    "title": "Two new species, Pythium agreste and P. wuhanense, based on morphological characteristics and DNA sequence dataa",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2014",
+    "page": "145–155",
+    "URL": "https://doi.org/10.1007/s11557-013-0901-y",
+    "DOI": "10.1007/s11557-013-0901-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.D.M."
+      }
+    ],
+    "title": "Treeview: application to display phylogenetic trees on personal computers",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Computer Applications in the Biosciences",
+    "issued": "1996",
+    "page": "357–358",
+    "URL": "https://doi.org/10.1093/bioinformatics/12.4.357",
+    "DOI": "10.1093/bioinformatics/12.4.357"
+  },
+  {
+    "author": [
+      {
+        "family": "Pringsheim",
+        "given": "N."
+      }
+    ],
+    "title": "Beiträge zur Morphology and Systematik der Algen. 2. Die Saprolegníeen",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Jahrbücher für Wissenschaftliche Botanik",
+    "issued": "1858",
+    "page": "284–306"
+  },
+  {
+    "author": [
+      {
+        "family": "Rahman",
+        "given": "M.Z."
+      },
+      {
+        "family": "Abdelzaher",
+        "given": "H.M.A."
+      },
+      {
+        "family": "Mingzhu",
+        "given": "L."
+      },
+      {
+        "family": "Motohashi",
+        "given": "K."
+      },
+      {
+        "family": "Suga",
+        "given": "H."
+      },
+      {
+        "family": "Kageyama",
+        "given": "K."
+      },
+      {
+        "family": "water",
+        "particle": "nov. from"
+      },
+      {
+        "family": "sp",
+        "given": "P.",
+        "particle": "alternatum"
+      }
+    ],
+    "title": "Pythium rishiriense sp",
+    "volume": "362",
+    "type": "article-journal",
+    "container-title": "FEMS Microbiology Letters",
+    "issued": "2015",
+    "page": "1–9",
+    "URL": "https://doi.org/10.1093/femsle/fnv086",
+    "DOI": "10.1093/femsle/fnv086"
+  },
+  {
+    "author": [
+      {
+        "family": "Robideau",
+        "given": "G.P."
+      },
+      {
+        "family": "Cock",
+        "given": "A.W.",
+        "particle": "de"
+      },
+      {
+        "family": "Coffey",
+        "given": "M.D."
+      },
+      {
+        "family": "Voglmayr",
+        "given": "H."
+      },
+      {
+        "family": "Brouwer",
+        "given": "H."
+      },
+      {
+        "family": "Bala",
+        "given": "K."
+      },
+      {
+        "family": "Chitty",
+        "given": "D.W."
+      },
+      {
+        "family": "Désaulniers",
+        "given": "N."
+      },
+      {
+        "family": "Eggertson",
+        "given": "Q.A."
+      },
+      {
+        "family": "Gachon",
+        "given": "C.M."
+      },
+      {
+        "family": "Hu",
+        "given": "C.H."
+      },
+      {
+        "family": "Küpper",
+        "given": "F.C."
+      },
+      {
+        "family": "Rintoul",
+        "given": "T.L."
+      },
+      {
+        "family": "Sarhan",
+        "given": "E."
+      },
+      {
+        "family": "Verstappen",
+        "given": "E.C."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Bonants",
+        "given": "P.J."
+      },
+      {
+        "family": "Ristaino",
+        "given": "J.B."
+      },
+      {
+        "family": "Lévesque",
+        "given": "C.A."
+      }
+    ],
+    "title": "DNA barcoding of oomycetes with cytochrome c oxidase subunit I and internal transcribed spacer",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2011",
+    "page": "1002–1011",
+    "URL": "https://doi.org/10.1111/j.1755-0998.2011.03041.x",
+    "DOI": "10.1111/j.1755-0998.2011.03041.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "Mrbayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (*and other methods",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "0b10",
+    "issued": "2002",
+    "publisher-place": "Sinauer Associates, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The Clustal_X windows interface: fexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "https://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Ueta",
+        "given": "S."
+      },
+      {
+        "family": "Tojo",
+        "given": "M."
+      }
+    ],
+    "title": "Pythium barbulae sp. nov. isolated from the moss, Barbula unguiculata; morphology, molecular phylogeny and pathogenicity",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2016",
+    "page": "11–19",
+    "URL": "https://doi.org/10.1016/j.myc.2015.07.002",
+    "DOI": "10.1016/j.myc.2015.07.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Uzuhashi",
+        "given": "S."
+      },
+      {
+        "family": "Tojo",
+        "given": "M."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Phylogeny of the genus Pythium and description of new genera",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2010",
+    "page": "337–365",
+    "URL": "https://doi.org/10.1007/S10267-010-0046-7",
+    "DOI": "10.1007/S10267-010-0046-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Uzuhashi",
+        "given": "S."
+      },
+      {
+        "family": "Okada",
+        "given": "G."
+      },
+      {
+        "family": "Ohkuma",
+        "given": "M."
+      }
+    ],
+    "title": "Four new Pythium species from aquatic environments in Japan",
+    "volume": "107",
+    "type": "article-journal",
+    "container-title": "Antonie van Leeuwenhoek",
+    "issued": "2015",
+    "page": "375–391",
+    "URL": "https://doi.org/10.1007/s10482-014-0336-8",
+    "DOI": "10.1007/s10482-014-0336-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Plaäts-Niterink",
+        "given": "A.J.",
+        "particle": "van der"
+      }
+    ],
+    "title": "Monograph of the genus Pythium",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Studies in Mycology",
+    "issued": "1981",
+    "page": "1–242"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "P.H."
+      },
+      {
+        "family": "Chung",
+        "given": "C.Y."
+      },
+      {
+        "family": "Lin",
+        "given": "Y.S."
+      },
+      {
+        "family": "Yeh",
+        "given": "Y."
+      }
+    ],
+    "title": "Use of polymerase chain reaction to detect the soft rot pathogen, Pythium myriotylum, in infected ginger rhizomes",
+    "volume": "Microbiology36",
+    "type": "article-journal",
+    "container-title": "Letters in Applied",
+    "issued": "2003",
+    "page": "116–120",
+    "URL": "https://doi.org/10.1046/j.1472-765X.2003.01272.x",
+    "DOI": "10.1046/j.1472-765X.2003.01272.x"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: A guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Wrather",
+        "given": "J.A."
+      },
+      {
+        "family": "Koenning",
+        "given": "S.R."
+      }
+    ],
+    "title": "Estimates of disease effects on soybean yields in the United States 2003 to 2005",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Journal of Nematology",
+    "issued": "2006",
+    "page": "173–180"
+  }
+]

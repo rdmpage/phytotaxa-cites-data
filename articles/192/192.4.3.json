@@ -1,0 +1,914 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adanson",
+        "given": "P.M."
+      }
+    ],
+    "title": "Familles des plantes",
+    "genre": "Vincent,",
+    "publisher": "Paris",
+    "type": null,
+    "issued": "1894",
+    "page": "640"
+  },
+  {
+    "author": [
+      {
+        "family": "Ascherson",
+        "given": "P."
+      }
+    ],
+    "title": "Flora der Provinz Brandenburg, 2",
+    "publisher": "August Hirschwald",
+    "type": "book",
+    "issued": "1864",
+    "page": "210",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Bendiksby",
+        "given": "M.Thorbek"
+      },
+      {
+        "family": "Scheen",
+        "given": "L."
+      },
+      {
+        "family": "A.-C.",
+        "given": "Lindqvist"
+      },
+      {
+        "given": "C."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      }
+    ],
+    "title": "An updated phylogeny and classification of Lamiaceae subfamily Lamioideae",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2011",
+    "page": "471–484"
+  },
+  {
+    "author": [
+      {
+        "family": "Bendiksby",
+        "given": "M."
+      },
+      {
+        "family": "Brysting",
+        "given": "A.K."
+      },
+      {
+        "family": "Thorbek",
+        "given": "L."
+      },
+      {
+        "family": "Gussarova",
+        "given": "G."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      }
+    ],
+    "title": "Molecular phylogeny and taxonomy of the genus Lamium L. (Lamiaceae): disentangling origins of presumed allotetraploids",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2011",
+    "page": "986–1000"
+  },
+  {
+    "author": [
+      {
+        "family": "Bendiksby",
+        "given": "M."
+      },
+      {
+        "family": "Salmaki",
+        "given": "Y."
+      },
+      {
+        "family": "Bräucher",
+        "given": "C."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      }
+    ],
+    "title": "The generic position of Stachys tibetica Vatke and amalgamation of the genera Eriophyton and Stachyopsis (Lamiaceae subfam. 4 Lamioideae",
+    "volume": "300",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2013",
+    "page": "961–971",
+    "URL": "http://dx.doi.org/10.1007/s00606-013-0935-2",
+    "DOI": "10.1007/s00606-013-0935-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatarum genera et species",
+    "publisher": "James Ridgway and Sons, London",
+    "type": "book",
+    "issued": "1832",
+    "page": "783"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "12",
+    "publisher": "Victor Masson",
+    "type": "chapter",
+    "issued": "1848",
+    "page": "27–603",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhattacharjee",
+        "given": "R."
+      }
+    ],
+    "title": "Taxonomic studies in Stachys, Part II, a new infrageneric classification of Stachys L",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanical Garden Edinburgh",
+    "issued": "1982",
+    "page": "65–96"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Diagnoses plantarum Orientalium novarum",
+    "volume": "7. [ser. 1",
+    "publisher": "B. Hermann",
+    "type": "book",
+    "issued": "1846",
+    "page": "56–57",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Flora orientalis",
+    "volume": "4",
+    "editor": [
+      {
+        "family": "Genevae",
+        "given": "H.Georg"
+      },
+      {
+        "given": "Basilea"
+      }
+    ],
+    "issue": "2",
+    "type": null,
+    "issued": "1879",
+    "page": "714–749"
+  },
+  {
+    "author": [
+      {
+        "family": "Bornmüller",
+        "given": "J."
+      }
+    ],
+    "title": "Reliquiae Straussianae weitere Beiträge zur Kenntnis der Flora des westlichen Persiens",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Beihefte zum Botanischen Centralblatt",
+    "issued": "1915",
+    "page": "165–269"
+  },
+  {
+    "author": [
+      {
+        "given": "Briquet"
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien",
+    "volume": "4",
+    "publisher": "Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1895",
+    "page": "183–375",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Cunningham",
+        "given": "C.W."
+      }
+    ],
+    "title": "Can three incongruence tests predict when data should be combined?",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1997",
+    "page": "733–740",
+    "URL": "http://dx.doi.org/10.1093/oxfordjournals.molbev.a025813",
+    "DOI": "10.1093/oxfordjournals.molbev.a025813"
+  },
+  {
+    "author": [
+      {
+        "family": "Dumortier",
+        "given": "B.C."
+      }
+    ],
+    "title": "Florula Belgica",
+    "type": "article-journal",
+    "container-title": "J. Casterman, Tournay",
+    "issued": "1827",
+    "page": "44–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Farris",
+        "given": "J.S."
+      },
+      {
+        "family": "Albert",
+        "given": "V.A."
+      },
+      {
+        "family": "Kallersjo",
+        "given": "M."
+      },
+      {
+        "family": "Lipscomb",
+        "given": "D."
+      },
+      {
+        "family": "Kluge",
+        "given": "A.G."
+      }
+    ],
+    "title": "Parsimony jackknifing out performs neighbor-joining",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "1996",
+    "page": "99–124",
+    "URL": "http://dx.doi.org/10.1111/j.1096-0031.1996.tb00196.x",
+    "DOI": "10.1111/j.1096-0031.1996.tb00196.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://dx.doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Paton",
+        "given": "A.J."
+      },
+      {
+        "family": "Harvey",
+        "given": "Y."
+      },
+      {
+        "family": "Navarro",
+        "given": "T."
+      }
+    ],
+    "title": "World checklist of Lamiaceae & Verbenaceae",
+    "container-title": "The Board of Trustees of the Royal Botanic Gardens",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2013",
+    "publisher-place": "Kew, Richmond",
+    "URL": "http://www.kew.org/wcsp/lamiaceae"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and program for Window 95/98/NT",
+    "genre": "[ser. 41]",
+    "container-title": "Nucleic Acid Symposium",
+    "type": "paper-conference",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Jamzad",
+        "given": "Z."
+      }
+    ],
+    "title": "Eremostachys and Phlomis",
+    "editor": [
+      {
+        "family": "Assadi",
+        "given": "M."
+      },
+      {
+        "family": "Maassoumi",
+        "given": "A.A."
+      },
+      {
+        "family": "Mozaffarian",
+        "given": "V."
+      }
+    ],
+    "publisher": "Research Institute of Forest and Rengelands",
+    "type": "book",
+    "issued": "2012",
+    "page": "253–337",
+    "publisher-place": "Tehran"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "2",
+    "type": null,
+    "issued": "1753",
+    "page": "561–1200",
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Systema naturae",
+    "type": null,
+    "issued": "1759",
+    "page": "525–1384",
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Mennema",
+        "given": "J."
+      }
+    ],
+    "title": "A taxonomic revision of Lamium (Lamiaceae",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Leiden Botanical Series",
+    "issued": "1989",
+    "page": "1–198"
+  },
+  {
+    "author": [
+      {
+        "family": "Oxelman",
+        "given": "B."
+      },
+      {
+        "family": "Lidén",
+        "given": "M."
+      },
+      {
+        "family": "Berglund",
+        "given": "D."
+      }
+    ],
+    "title": "Chloroplast rps16 intron phylogeny of the tribe Sileneae (Caryophyllaceae",
+    "volume": "206",
+    "type": "article-journal",
+    "container-title": "Plant Systematic and Evolution",
+    "issued": "1997",
+    "page": "393–410",
+    "URL": "http://dx.doi.org/10.1007/BF00987959",
+    "DOI": "10.1007/BF00987959"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "JModelTest: phylogenetic model averaging",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2008",
+    "page": "1253–1256",
+    "URL": "http://dx.doi.org/10.1093/molbev/msn083",
+    "DOI": "10.1093/molbev/msn083"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodríguez-Sánchez",
+        "given": "F."
+      },
+      {
+        "family": "Oliver",
+        "given": "J.L."
+      },
+      {
+        "family": "Marín",
+        "given": "A."
+      },
+      {
+        "family": "Medina",
+        "given": "J.R."
+      }
+    ],
+    "title": "The general stochastic model of nucleotide substitution",
+    "volume": "142",
+    "type": "article-journal",
+    "container-title": "Journal of Theoretical Biology",
+    "issued": "1990",
+    "page": "485–501",
+    "URL": "http://dx.doi.org/10.1016/S0022-5193(05)80104-3",
+    "DOI": "10.1016/S0022-5193(05)80104-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Salmaki",
+        "given": "Y."
+      },
+      {
+        "family": "Jamzad",
+        "given": "Z."
+      },
+      {
+        "family": "Zarre",
+        "given": "S."
+      },
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      }
+    ],
+    "title": "Pollen morphology of Stachys (Lamiaceae) in Iran and its systematic implication",
+    "volume": "203",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "2008",
+    "page": "617–626",
+    "URL": "http://dx.doi.org/10.1016/j.flora.2007.10.005",
+    "DOI": "10.1016/j.flora.2007.10.005"
+  },
+  {
+    "author": [
+      {
+        "family": "Salmaki",
+        "given": "Y."
+      },
+      {
+        "family": "Zarre",
+        "given": "S."
+      },
+      {
+        "family": "Jamzad",
+        "given": "Z."
+      }
+    ],
+    "title": "Nutlet morphology of Stachys (Lamiaceae) in Iran and its systematic implication",
+    "volume": "119",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issued": "2008",
+    "page": "631–645",
+    "URL": "http://dx.doi.org/10.1002/fedr.200811187",
+    "DOI": "10.1002/fedr.200811187"
+  },
+  {
+    "author": [
+      {
+        "family": "Salmaki",
+        "given": "Y."
+      },
+      {
+        "family": "Zarre",
+        "given": "S."
+      },
+      {
+        "family": "Jamzad",
+        "given": "Z."
+      },
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      }
+    ],
+    "title": "Trichome micromorphology of Iranian Stachys (Lamiaceae) with emphasis on its systematic implication",
+    "volume": "204",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "2009",
+    "page": "371–381",
+    "URL": "http://dx.doi.org/10.1016/j.flora.2008.11.001",
+    "DOI": "10.1016/j.flora.2008.11.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Salmaki",
+        "given": "Y."
+      },
+      {
+        "family": "Zarre",
+        "given": "S."
+      },
+      {
+        "family": "Lindqvist",
+        "given": "C."
+      },
+      {
+        "family": "Heubl",
+        "given": "G."
+      },
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      }
+    ],
+    "title": "Comparative leaf anatomy of Stachys (Lamiaceae: Lamioideae) in Iran with a discussion on its subgeneric classification",
+    "volume": "294",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2011",
+    "page": "109–125",
+    "URL": "http://dx.doi.org/10.1007/s00606-011-0450-2",
+    "DOI": "10.1007/s00606-011-0450-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Salmaki",
+        "given": "Y."
+      },
+      {
+        "family": "Zarre",
+        "given": "S."
+      },
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      }
+    ],
+    "title": "A taxonomic revision of the genus Stachys (Lamiaceae: Lamioideae) in Iran",
+    "volume": "170",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of Linnean Society",
+    "issued": "2012",
+    "page": "573–617",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2012.01317.x",
+    "DOI": "10.1111/j.1095-8339.2012.01317.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Salmaki",
+        "given": "Y."
+      },
+      {
+        "family": "Zarre",
+        "given": "S."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      },
+      {
+        "family": "Lindqvist",
+        "given": "C."
+      },
+      {
+        "family": "Scheunert",
+        "given": "A."
+      },
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      },
+      {
+        "family": "Heubl",
+        "given": "G."
+      }
+    ],
+    "title": "Phylogeny of the tribe Phlomideae (Lamioideae: Lamiaceae) with special focus on Eremostachys and Phlomoides: new insights from nuclear and chloroplast sequences",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2012",
+    "page": "161–179"
+  },
+  {
+    "author": [
+      {
+        "family": "Salmaki",
+        "given": "Y."
+      },
+      {
+        "family": "Zarre",
+        "given": "S."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      },
+      {
+        "family": "Lindqvist",
+        "given": "C."
+      },
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      },
+      {
+        "family": "Heubl",
+        "given": "G."
+      },
+      {
+        "family": "Barber",
+        "given": "G."
+      },
+      {
+        "family": "Bendiksby",
+        "given": "M."
+      }
+    ],
+    "title": "Molecular phylogeny of tribe Stachydeae (Lamiaceae subfamily Lamioieae",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2013",
+    "page": "535–551",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2013.07.024",
+    "DOI": "10.1016/j.ympev.2013.07.024"
+  },
+  {
+    "author": [
+      {
+        "family": "Sato",
+        "given": "Y."
+      },
+      {
+        "family": "Takakura",
+        "given": "K.I."
+      },
+      {
+        "family": "Nishida",
+        "given": "S."
+      },
+      {
+        "family": "Nishida",
+        "given": "T."
+      }
+    ],
+    "title": "Dominant occurrence of cleistogamous flowers of Lamium amplexicaule in relation to the nearby presence of an alien Congener L",
+    "note": "purpureum (Lamiaceae). International Scholarly Research Notices Ecology 1–6.",
+    "type": null,
+    "issued": "2013"
+  },
+  {
+    "author": [
+      {
+        "family": "Scheen",
+        "given": "A.-C."
+      },
+      {
+        "family": "Bendiksby",
+        "given": "M."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      },
+      {
+        "family": "Mathiesen",
+        "given": "C."
+      },
+      {
+        "family": "Albert",
+        "given": "V.A."
+      },
+      {
+        "family": "Lindqvist",
+        "given": "C."
+      }
+    ],
+    "title": "Molecular phylogenetics, character evolution and suprageneric classification of Lamioideae (Lamiaceae",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Annals Missouri Botanical Garden",
+    "issued": "2010",
+    "page": "191–219",
+    "URL": "http://dx.doi.org/10.3417/2007174",
+    "DOI": "10.3417/2007174"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic Analysis Using Parsimony (and other methods",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "0b10",
+    "issued": "2003",
+    "publisher-place": "Sinauer, Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "http://dx.doi.org/10.1007/BF00037152",
+    "DOI": "10.1007/BF00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Vargas",
+        "given": "P."
+      },
+      {
+        "family": "Baldwin",
+        "given": "B.G."
+      },
+      {
+        "family": "Constance",
+        "given": "L."
+      }
+    ],
+    "title": "Nuclear ribosomal DNA evidence for a western North American origin of Hawaiian and South American species of Sanicula (Apiaceae",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "95",
+    "type": "paper-conference",
+    "issued": "1998",
+    "page": "235–240",
+    "URL": "http://dx.doi.org/10.1073/pnas.95.1.235",
+    "DOI": "10.1073/pnas.95.1.235"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: A guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "http://dx.doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  }
+]

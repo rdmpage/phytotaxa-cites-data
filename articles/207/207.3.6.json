@@ -1,0 +1,273 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      },
+      {
+        "family": "pp.Boivin",
+        "given": "B."
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indië",
+    "volume": "1",
+    "publisher": "Ter Lands Drukkerij",
+    "type": "article-journal",
+    "container-title": "Rhodora",
+    "issued": "1825",
+    "page": "337–376",
+    "publisher-place": "Batavia"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Regni vegetabilis systema naturale 1",
+    "publisher": "Sumptibus Sociorum Treuttel et Würtz",
+    "type": "book",
+    "issued": "1817",
+    "page": "175",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis 1",
+    "publisher": "Sumptibus Sociorum Treuttel et Würtz",
+    "type": "book",
+    "issued": "1824",
+    "page": "11–16",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Finet",
+        "given": "A."
+      },
+      {
+        "family": "Gagnepain",
+        "given": "F."
+      }
+    ],
+    "title": "Contribution à la flore de l’Asie orientale d’après l’herbier du muséum de Paris",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1903",
+    "page": "601–627",
+    "URL": "http://dx.doi.org/10.1080/00378941.1903.10831074",
+    "DOI": "10.1080/00378941.1903.10831074"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "D.Z."
+      },
+      {
+        "family": "Zhu",
+        "given": "G.H."
+      }
+    ],
+    "title": "Thalictrum L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "6",
+    "publisher": "Science Press, Beijing and Missouri Botanical Garden Press, St. Louis",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "289–311"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Thomson",
+        "given": "T."
+      }
+    ],
+    "title": "Flora Indica",
+    "volume": "1",
+    "publisher": "W. Pamplin",
+    "type": "book",
+    "issued": "1855",
+    "page": "12–19",
+    "publisher-place": "London",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.50109",
+    "DOI": "10.5962/bhl.title.50109"
+  },
+  {
+    "author": [
+      {
+        "family": "Lecoyer",
+        "given": "J.C."
+      }
+    ],
+    "title": "Étude morphologique sur les Thalictrum",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Bulletin de la SociétRoyale de Botanique de Belgique",
+    "issued": "1880",
+    "page": "198–235"
+  },
+  {
+    "author": [
+      {
+        "family": "Lecoyer",
+        "given": "J.C."
+      }
+    ],
+    "title": "Monographie du genre Thalictrum",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Royale de Botanique de Belgique",
+    "issued": "1885",
+    "page": "78–324"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum, exhibentes plantas rite cognitas ad genera relatas, cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas",
+    "volume": "1",
+    "publisher": "Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "545–547"
+  },
+  {
+    "author": [
+      {
+        "family": "Royle",
+        "given": "J.F."
+      }
+    ],
+    "title": "Illustrations of the Botany and Other Branches of the Natural History of the Himalayan Mountains: and of the flora of Cashmere",
+    "volume": "1",
+    "publisher": "Wm. H. Allen",
+    "type": "book",
+    "issued": "1834",
+    "page": "44–52",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "M."
+      }
+    ],
+    "title": "A new classification of the family Ranunculaceae 3",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Geobotanica",
+    "issued": "1992",
+    "page": "53–58"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "M."
+      }
+    ],
+    "title": "Thalictrum L",
+    "editor": [
+      {
+        "family": "Heipko",
+        "given": "P."
+      },
+      {
+        "family": "Ed. Duncker",
+        "particle": "nd"
+      },
+      {
+        "given": "Humblot"
+      }
+    ],
+    "container-title": "Engler’s Die Natürlichen Pflanzenfamilien. Vol.17a",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "474–494",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Plantae Asiaticae Rariores",
+    "volume": "2",
+    "publisher": "Treuttel and Würtz",
+    "type": "book",
+    "issued": "1831",
+    "page": "26",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "W.T."
+      },
+      {
+        "family": "Wang",
+        "given": "S.H."
+      }
+    ],
+    "title": "Thalictrum L., Flora Reipublicae Popularis Sinicae",
+    "volume": "27",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": null,
+    "issued": "1979",
+    "page": "502–592",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Ziman",
+        "given": "S.N."
+      },
+      {
+        "family": "Keener",
+        "given": "C.S."
+      }
+    ],
+    "title": "A geographical analysis of the family Ranunculaceae",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1989",
+    "page": "1012–1049",
+    "URL": "http://dx.doi.org/10.2307/2399690",
+    "DOI": "10.2307/2399690"
+  }
+]

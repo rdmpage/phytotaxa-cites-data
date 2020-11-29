@@ -1,0 +1,662 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bassols-Battalla",
+        "given": "A."
+      },
+      {
+        "family": "Rentería-Romero",
+        "given": "S."
+      },
+      {
+        "family": "Ortíz-Wadgymar",
+        "given": "A."
+      },
+      {
+        "family": "Hernández",
+        "given": "R."
+      },
+      {
+        "family": "Bustamante-Lemus",
+        "given": "C."
+      },
+      {
+        "family": "Sosa",
+        "given": "P."
+      }
+    ],
+    "title": "Las Huastecas, en el desarrollo regional de México",
+    "type": null,
+    "issued": "1977",
+    "page": "434",
+    "publisher-place": "Trillas, México, D.F"
+  },
+  {
+    "author": [
+      {
+        "family": "Bedolla-García",
+        "given": "B.Y."
+      },
+      {
+        "family": "Zamudio",
+        "given": "S."
+      }
+    ],
+    "title": "Four new species of Salvia (Lamiaceae) from central Mexico",
+    "volume": "217",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2015",
+    "page": "35–52",
+    "URL": "https://doi.org/10.11646/phytotaxa.217.1.3",
+    "DOI": "10.11646/phytotaxa.217.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Bedolla-García",
+        "given": "B.Y."
+      },
+      {
+        "family": "Zamudio",
+        "given": "S."
+      }
+    ],
+    "title": "Nueva especie de Salvia (Lamiaceae) del centro de México",
+    "volume": "2017-66",
+    "type": "article-journal",
+    "container-title": "Phytoneuron",
+    "issued": "2017",
+    "page": "1–12"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatarum genera et species",
+    "type": null,
+    "issued": "1833",
+    "page": "783",
+    "publisher-place": "Ridgeway, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Calderón",
+        "given": "G."
+      }
+    ],
+    "title": "Notas sobre la flora y la vegetación del estado de San Luis Potosí. VII. Vegetación en el Valle de San Luis Potosí",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Acta Científica Potosina",
+    "issued": "1960",
+    "page": "5–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Carrillo-Reyes",
+        "given": "P."
+      },
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      },
+      {
+        "family": "Rzedowski",
+        "given": "G.",
+        "particle": "Calderón de"
+      }
+    ],
+    "title": "Cuatro nuevas especies de Verbesina (Compositae: Heliantheae) del centro de México",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "2010",
+    "page": "127–143",
+    "URL": "https://doi.org/10.21829/abm93.2010.279",
+    "DOI": "10.21829/abm93.2010.279"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Synopsis of South American Labiatae",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1935",
+    "page": "97–192"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "A revision of Salvia subgenus Calosphace",
+    "volume": "110",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1939",
+    "page": "1–383"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1940",
+    "page": "509–534",
+    "URL": "https://doi.org/10.2307/2480972",
+    "DOI": "10.2307/2480972"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae-II",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1941",
+    "page": "552–568",
+    "URL": "https://doi.org/10.2307/2481456",
+    "DOI": "10.2307/2481456"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernald",
+        "given": "M.L."
+      }
+    ],
+    "title": "A synopsis of the Mexican and Central American species of Salvia",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "35",
+    "type": "paper-conference",
+    "issued": "1900",
+    "page": "489–556",
+    "URL": "https://doi.org/10.2307/25129966",
+    "DOI": "10.2307/25129966"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernald",
+        "given": "M.L."
+      }
+    ],
+    "title": "New and little know Mexican plants, chiefly Labiatae",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "45",
+    "type": "paper-conference",
+    "issued": "1910",
+    "page": "415–422",
+    "URL": "https://doi.org/10.2307/20022576",
+    "DOI": "10.2307/20022576"
+  },
+  {
+    "author": [
+      {
+        "family": "Fragoso-Martínez",
+        "given": "I."
+      },
+      {
+        "family": "Martínez-Gordillo",
+        "given": "M."
+      },
+      {
+        "family": "Salazar",
+        "given": "G.A."
+      },
+      {
+        "family": "Sazatornil",
+        "given": "F."
+      },
+      {
+        "family": "Jenks",
+        "given": "A.A."
+      },
+      {
+        "family": "García-Peña",
+        "given": "M.R."
+      },
+      {
+        "family": "Barrera-Aveleida",
+        "given": "G."
+      },
+      {
+        "family": "Benitez-Vieyra",
+        "given": "S."
+      },
+      {
+        "family": "Magallón",
+        "given": "S."
+      },
+      {
+        "family": "Cornejo-Tenorio",
+        "given": "G."
+      },
+      {
+        "family": "Granados-Mendoza",
+        "given": "C."
+      }
+    ],
+    "title": "Phylogeny of the Neotropical sages (Salvia subg. Calosphace; Lamiaceae) and insights into pollinator and area shifts",
+    "volume": "304",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2018",
+    "page": "43–55",
+    "URL": "https://doi.org/10.1007/s00606-017-1445-4",
+    "DOI": "10.1007/s00606-017-1445-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Galván",
+        "given": "R."
+      },
+      {
+        "family": "Zamudio",
+        "given": "S."
+      }
+    ],
+    "title": "Una nueva especie de Agave subgénero Littaea (Agavaceae) del estado de Querétaro, México",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "2013",
+    "page": "1–10",
+    "URL": "https://doi.org/10.21829/abm105.2013.228",
+    "DOI": "10.21829/abm105.2013.228"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Gallegos",
+        "given": "J.G."
+      },
+      {
+        "family": "Vázquez-García",
+        "given": "J.A."
+      },
+      {
+        "family": "Santana-Michel",
+        "given": "F.J."
+      },
+      {
+        "family": "Cuevas-Guzmán",
+        "given": "R."
+      },
+      {
+        "family": "Guzmán-Hernández",
+        "given": "L."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Salvia meera, S. rogersiana, S. santanae and S. concolor var. iltisii (Lamiaceae"
+      }
+    ],
+    "title": "three new species and a variety from Jalisco, Mexico",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issued": "2012",
+    "page": "591–604",
+    "URL": "https://doi.org/10.7550/rmb.26217",
+    "DOI": "10.7550/rmb.26217"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Gallegos",
+        "given": "J.G."
+      },
+      {
+        "family": "Vázquez-García",
+        "given": "J.A."
+      },
+      {
+        "family": "Cházaro-Basañez",
+        "given": "M.J."
+      }
+    ],
+    "title": "Salvia carreyesii, Salvia ibugana and Salvia ramirezii (Lamiaceae), three new species from Jalisco, Mexico",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issued": "2013",
+    "page": "7–19",
+    "URL": "https://doi.org/10.7550/rmb.29131",
+    "DOI": "10.7550/rmb.29131"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Gallegos",
+        "given": "J.G."
+      },
+      {
+        "family": "Castro-Castro",
+        "given": "A."
+      },
+      {
+        "family": "Quintero-Fuentes",
+        "given": "V."
+      },
+      {
+        "family": "Mendoza-López",
+        "given": "M.E."
+      },
+      {
+        "family": "De Castro-Arce",
+        "given": "E."
+      }
+    ],
+    "title": "Revisión taxonómica de Lamiaceae del Occidente de México",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Ibugana",
+    "issued": "2016",
+    "page": "3–545"
+  },
+  {
+    "author": [
+      {
+        "family": "Hunziker",
+        "given": "A.T."
+      }
+    ],
+    "title": "Studies on Solanaceae XII. Additions to the genus Chamaesaracha",
+    "volume": "210",
+    "type": "article-journal",
+    "container-title": "Contributions from the Gray Herbarium of Harvard University",
+    "issued": "1980",
+    "page": "23–28"
+  },
+  {
+    "author": [
+      {
+        "family": "Landry",
+        "given": "G.P."
+      },
+      {
+        "family": "Wilson",
+        "given": "M.C."
+      }
+    ],
+    "title": "A new species of Ceratozamia (Cycadaceae) from San Luis Potosí",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1979",
+    "page": "422–424",
+    "URL": "https://doi.org/10.2307/2806139",
+    "DOI": "10.2307/2806139"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Lundell",
+        "given": "C.L."
+      }
+    ],
+    "title": "Studies of the American Myrsinaceae II",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Wrightia",
+    "issued": "1964",
+    "page": "97–116"
+  },
+  {
+    "author": [
+      {
+        "family": "Matuda",
+        "given": "E."
+      }
+    ],
+    "title": "Nuevas especies de manfredas (Amarilidáceas) de México",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Ciencia (México",
+    "issued": "1966",
+    "page": "189–191"
+  },
+  {
+    "editor": [
+      {
+        "family": "Martens",
+        "given": "M."
+      },
+      {
+        "family": "Galeotti",
+        "given": "H.G."
+      }
+    ],
+    "title": "Enumeratio synoptica plantarum phanerogamicarum ab Henrico Galeotti in regionibus mexicanis collectarum",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Academie Royale des Sciences et Belles-lettres de Bruxelles",
+    "issued": "1844",
+    "page": "61–79"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      },
+      {
+        "literal": "II."
+      }
+    ],
+    "title": "Tropical American Myrtaceae",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Fieldiana, Botany",
+    "issued": "1963",
+    "page": "395–532",
+    "URL": "https://doi.org/10.5962/bhl.title.3851",
+    "DOI": "10.5962/bhl.title.3851"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Calix",
+        "given": "E."
+      },
+      {
+        "family": "Patiño-Siciliano",
+        "given": "A."
+      }
+    ],
+    "title": "Revisión del género Mimophytum Greenm",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "Boraginaceae). Acta Botanica Mexicana",
+    "issued": "2009",
+    "page": "91–99",
+    "URL": "https://doi.org/10.21829/abm87.2009.1084",
+    "DOI": "10.21829/abm87.2009.1084"
+  },
+  {
+    "author": [
+      {
+        "family": "Puig",
+        "given": "H."
+      }
+    ],
+    "title": "Vegetación de la Huasteca (Mexico). Estudio fitogeográfico y ecológico",
+    "container-title": "Institut Français de Recherche Scientifique pour le Deìveloppement en Coopeìration, Instituto de Ecología, Centre d’Études Mexicaines et Centraméricaines",
+    "type": "chapter",
+    "issued": "1991",
+    "page": "625",
+    "publisher-place": "Mexico, D.F"
+  },
+  {
+    "author": [
+      {
+        "family": "Rollins",
+        "given": "R.C."
+      }
+    ],
+    "title": "The Cruciferae of continental North America: Systematics of the mustard family from the Artic to Panama",
+    "publisher": "Stanford University Press, Standford",
+    "type": "book",
+    "issued": "1993",
+    "page": "976"
+  },
+  {
+    "author": [
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      }
+    ],
+    "title": "Dos especies nuevas de Cirsium (Compositae: Cardueae) del estado de Querétaro, México",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "1994",
+    "page": "101–105",
+    "URL": "https://doi.org/10.21829/abm29.1994.727",
+    "DOI": "10.21829/abm29.1994.727"
+  },
+  {
+    "author": [
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      },
+      {
+        "family": "Guridi-Gómez",
+        "given": "L.I."
+      }
+    ],
+    "title": "El palo escrito, árbol de madera preciosa-una nueva especie mexicana de Dalbergia (Leguminosae: Papilionoideae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "1998",
+    "page": "1–8",
+    "URL": "https://doi.org/10.21829/abm4.1988.568",
+    "DOI": "10.21829/abm4.1988.568"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Symbolae botanicae",
+    "publisher": "Nicolaus Möller & Son, Copenhagen",
+    "type": "book",
+    "issued": "1794",
+    "page": "104"
+  },
+  {
+    "author": [
+      {
+        "family": "Vázquez-García",
+        "given": "J.A."
+      },
+      {
+        "family": "Domínguez-Yescas",
+        "given": "R."
+      },
+      {
+        "family": "Pedraza-Ruiz",
+        "given": "R."
+      },
+      {
+        "family": "Sánchez-González",
+        "given": "A."
+      },
+      {
+        "family": "Muñiz-Castro",
+        "given": "M.A."
+      }
+    ],
+    "title": "Magnolia rzedowskiana (Magnoliaceae), una especie nueva de la sección Macrophylla de la parte central de la sierra Madre Oriental, México",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Mexicana",
+    "issued": "2015",
+    "page": "19–36",
+    "URL": "https://doi.org/10.21829/abm112.2015.1086",
+    "DOI": "10.21829/abm112.2015.1086"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamudio",
+        "given": "S."
+      }
+    ],
+    "title": "Una especie nueva notable de Pinguicula (Lentibulariaceae) de los estados de Querétaro y San Luis Potosí, México",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Botánica de México",
+    "issued": "2001",
+    "page": "85–88",
+    "URL": "https://doi.org/10.17129/botsci.1638",
+    "DOI": "10.17129/botsci.1638"
+  },
+  {
+    "author": [
+      {
+        "family": "Zamudio",
+        "given": "S."
+      },
+      {
+        "family": "Juárez",
+        "given": "H.D."
+      },
+      {
+        "family": "Hernández",
+        "given": "J."
+      }
+    ],
+    "title": "Cuatro especies nuevas de Pinguicula (Lentibulariaceae) de México",
+    "volume": "2018-14",
+    "type": "article-journal",
+    "container-title": "Phytoneuron",
+    "issued": "2018",
+    "page": "1–20"
+  }
+]

@@ -1,0 +1,537 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Rumphia, sive, Commentationes botanicæ imprimis de plantis Indiae Orientalis: tum penitus incognitis tum quæ in libris Rheedii, Rumphii, Roxburghii, Wallichii aliorum recensentur",
+    "volume": "1",
+    "note": "Lugduni Batavorum [Leiden, the Netherlands], C.G. Sulpke, H. Remy, Arnz et socios, G.",
+    "publisher": "Roret",
+    "type": null,
+    "issued": "1835",
+    "page": "204",
+    "URL": "https://doi.org/10.5962/bhl.title.51502",
+    "DOI": "10.5962/bhl.title.51502"
+  },
+  {
+    "author": [
+      {
+        "family": "Christy",
+        "given": "T."
+      }
+    ],
+    "title": "Nutmeg genus",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "New Commercial Plants and Drug",
+    "issued": "1885",
+    "page": "26–31"
+  },
+  {
+    "author": [
+      {
+        "family": "Exell",
+        "given": "A.W."
+      }
+    ],
+    "title": "Catalogue of the vascular plants of S.Tomé (with Príncipe and Annobon",
+    "container-title": "British Museum (Natural History",
+    "type": "chapter",
+    "issued": "1944",
+    "page": "428",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Exell",
+        "given": "A.W."
+      }
+    ],
+    "title": "Angiosperms of the islands of the Gulf of Guinea (Fernando Po, Príncipe, S.Tomé and Annobon",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin of the British Museum (Natural History) Botany",
+    "issue": "8",
+    "issued": "1973",
+    "page": "327–411"
+  },
+  {
+    "author": [
+      {
+        "family": "Figueiredo",
+        "given": "E."
+      }
+    ],
+    "title": "Little known endemics collected by J",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Espírito Santo in S.Tomé. Garcia de Orta. Série de botânica",
+    "issue": "1 & 2",
+    "issued": "1994",
+    "page": "121–124"
+  },
+  {
+    "author": [
+      {
+        "family": "Figueiredo",
+        "given": "E."
+      },
+      {
+        "family": "Paiva",
+        "given": "J."
+      },
+      {
+        "family": "Stévart",
+        "given": "T."
+      },
+      {
+        "family": "Oliveira",
+        "given": "F."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "title": "An annotated catalogue of the flowering plants of São Tomé and Príncipe",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Bothalia",
+    "issue": "1",
+    "issued": "2011",
+    "page": "41–82",
+    "URL": "https://doi.org/10.4102/abc.v41i1.34",
+    "DOI": "10.4102/abc.v41i1.34"
+  },
+  {
+    "author": [
+      {
+        "family": "Figueiredo",
+        "given": "E."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "title": "Friedrich Welwitsch and his contributions to the exploration and study of the flora of São Tomé and Príncipe, Gulf of Guinea, with typification of three names described from his collections",
+    "volume": "459",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2020",
+    "page": "227–234",
+    "URL": "https://doi.org/10.11646/phytotaxa.459.3.4",
+    "DOI": "10.11646/phytotaxa.459.3.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Figueiredo",
+        "given": "E."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "title": "Typification of Euphorbia candelabrum (Euphorbiaceae) and associated names",
+    "volume": "447",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2020",
+    "page": "216–220",
+    "URL": "https://doi.org/10.11646/phytotaxa.447.3.8",
+    "DOI": "10.11646/phytotaxa.447.3.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Hiern",
+        "given": "W.P."
+      }
+    ],
+    "title": "Catalogue of the African plants collected by Dr Friedrich Welwitsch in 1853–61, Dicotyledons, Part IV",
+    "container-title": "Printed by order of the Trustees [of the British Museum",
+    "note": "https://www.biodiversitylibrary.org/item/42452#page/5/mode/1up",
+    "type": "chapter",
+    "issued": "1900",
+    "page": "785– 1035",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Murray",
+        "given": "G."
+      }
+    ],
+    "title": "Preface",
+    "editor": [
+      {
+        "family": "Hiern",
+        "given": "W.P."
+      }
+    ],
+    "container-title": "Printed by order of the Trustees [of the British Museum",
+    "note": "https://www.biodiversitylibrary.org/item/42462#page/11/mode/1up",
+    "type": "chapter",
+    "issued": "1896",
+    "page": "–",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "book",
+        "given": "Museum",
+        "particle": "entry"
+      },
+      {
+        "given": "Kew"
+      }
+    ],
+    "title": "Museum entry book. Royal Botanic Gardens, Kew",
+    "publisher": "Surrey",
+    "note": "https://www.biodiversitylibrary.org/item/274452#page/9/mode/1up",
+    "type": null,
+    "issued": "1861",
+    "page": "572",
+    "publisher-place": "Richmond"
+  },
+  {
+    "author": [
+      {
+        "family": "Negreiros",
+        "given": "A.A."
+      }
+    ],
+    "title": "Historia ethnographica da ilha de S.Thomé. Antiga Casa Bertrand",
+    "type": null,
+    "issued": "1895",
+    "page": "369",
+    "publisher-place": "José Bastos, Lisboa"
+  },
+  {
+    "author": [
+      {
+        "family": "Negreiros",
+        "given": "A.A."
+      }
+    ],
+    "title": "Notice historico-économique de l’île de San-Thomé et monographie des produits envoyés par cette colonie à l’Exposition Universelle de Paris de 1900",
+    "publisher": "Augustin Challamel",
+    "type": "book",
+    "issued": "1901",
+    "page": "166",
+    "publisher-place": "Paris"
+  },
+  {
+    "editor": [
+      {
+        "family": "Oldfield",
+        "given": "S."
+      },
+      {
+        "family": "Lusty",
+        "given": "C."
+      },
+      {
+        "family": "MacKinven",
+        "given": "A."
+      }
+    ],
+    "title": "The World List of Threatened Trees",
+    "publisher": "World Conservation Monitoring Centre, World Conservation Press, Cambridge",
+    "type": "book",
+    "issued": "1998",
+    "page": "650"
+  },
+  {
+    "author": [
+      {
+        "family": "Phongphaew",
+        "given": "P."
+      }
+    ],
+    "title": "The commercial woods of Africa. A descriptive, full-colour guide",
+    "publisher": "Linden Publishing Co., Inc",
+    "type": "book",
+    "issued": "2003",
+    "page": "206",
+    "publisher-place": "Fresno, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Rottbøll",
+        "given": "C.F."
+      }
+    ],
+    "title": "Descriptiones Plantarum Surinamensium",
+    "volume": "1",
+    "note": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044089221154&view=1up&seq=287",
+    "type": "article-journal",
+    "container-title": "Acta Literaria Universitatis Hafniensis",
+    "issued": "1778",
+    "page": "269–304"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Figueiredo",
+        "given": "E."
+      }
+    ],
+    "title": "Typification of the name Kalanchoe scapigera (Crassulaceae subfam",
+    "volume": "435",
+    "type": "article-journal",
+    "container-title": "Kalanchooideae). Phytotaxa",
+    "issue": "2",
+    "issued": "2020",
+    "page": "203–207",
+    "URL": "https://doi.org/10.11646/phytotaxa.435.2.7",
+    "DOI": "10.11646/phytotaxa.435.2.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+    "volume": "7",
+    "edition": "2nd edn",
+    "editor": [
+      {
+        "family": "Bohn",
+        "given": "Scheltema"
+      },
+      {
+        "family": "Holkema",
+        "given": "dr W."
+      }
+    ],
+    "publisher": "Junk b.v., Publishers, Utrecht/Antwerpen & The Hague/Boston",
+    "note": "https://www.biodiversitylibrary.org/item/103250#page/7/mode/1up",
+    "type": null,
+    "issued": "1988",
+    "page": "–"
+  },
+  {
+    "author": [
+      {
+        "family": "Stapf",
+        "given": "O."
+      }
+    ],
+    "title": "Myristicaceae",
+    "editor": [
+      {
+        "family": "Thiselton-Dyer",
+        "given": "W.T."
+      },
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "container-title": "Flora of Tropical Africa",
+    "volume": "6",
+    "note": "https://www.biodiversitylibrary.org/item/129#page/168/mode/1up",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1909",
+    "page": "156–167",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "title": "Regnum Vegetabile 159. Koeltz Botanical Books, Glashütten",
+    "type": "chapter",
+    "issued": "2018",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Warburg",
+        "given": "O."
+      }
+    ],
+    "title": "Myristicaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A.Die Pflanzenwelt Ost-Afrikas"
+      },
+      {
+        "family": "Nachbargebiete. Theil C. Dietrich Reimer",
+        "particle": "der"
+      }
+    ],
+    "note": "https://www.biodiversitylibrary.org/item/10523#page/184/mode/1up",
+    "type": null,
+    "issued": "1895",
+    "page": "179–180",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Warburg",
+        "given": "O."
+      }
+    ],
+    "title": "Zur Charakterisirung und Gliederung der Myristicaceen",
+    "volume": "13",
+    "note": "https://www.biodiversitylibrary.org/item/132451#page/686/mode/1up",
+    "type": "article-journal",
+    "container-title": "Berichte der Deutschen Botanischen Gesellschaft",
+    "issued": "1896",
+    "page": "82–95"
+  },
+  {
+    "author": [
+      {
+        "family": "Warburg",
+        "given": "O."
+      }
+    ],
+    "title": "Monographie der Myristicaceen",
+    "volume": "68",
+    "note": "https://www.biodiversitylibrary.org/item/45222#page/13/mode/1up",
+    "type": "article-journal",
+    "container-title": "Nova acta Academiae Caesareae Leopoldino-Carolinae Germanicae Naturae Curiosorum",
+    "issued": "1897",
+    "page": "1–680"
+  },
+  {
+    "author": [
+      {
+        "family": "Warburg",
+        "given": "O."
+      }
+    ],
+    "title": "Die Muskatnuss ihre Geschichte, Botanik, Kultur, Handel und Verwerthung sowie ihre Verfälschungen und Surrogate. Zugleich ein Beitrag zur Kulturgeschichte der Banda-Inseln",
+    "publisher": "W. Engelmann, Leipzig",
+    "type": "book",
+    "issued": "1897",
+    "page": "628",
+    "URL": "https://doi.org/10.5962/bhl.title.15403",
+    "DOI": "10.5962/bhl.title.15403"
+  },
+  {
+    "author": [
+      {
+        "family": "Warburg",
+        "given": "O."
+      }
+    ],
+    "title": "Myristicaceae africanae. Botanische Jahrbücher fur Systematik",
+    "volume": "33",
+    "note": "https://www.biodiversitylibrary.org/page/213193#page/393/mode/1up",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1903",
+    "page": "382–384"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.M.C."
+      }
+    ],
+    "title": "Staudtia pterocarpa. The IUCN Red List of Threatened Species",
+    "type": null,
+    "issued": "1998",
+    "page": "32780 9723570",
+    "URL": "https://dx.doi.org/10.2305/IUCN.UK.1998.RLTS.T32780A9723570.en",
+    "DOI": "10.2305/IUCN.UK.1998.RLTS.T32780A9723570.en"
+  }
+]

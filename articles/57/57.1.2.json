@@ -1,0 +1,134 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "K.L."
+      }
+    ],
+    "title": "Addenda",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Systema Vegetabilium",
+    "issue": "2",
+    "issued": "1830",
+    "page": "1729–1731"
+  },
+  {
+    "author": [
+      {
+        "family": "Caires",
+        "given": "C.S."
+      },
+      {
+        "family": "Dettke",
+        "given": "G.A."
+      }
+    ],
+    "title": "Loranthaceae in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://floradobrasil.jbrj.gov.br/2012/FB008702"
+  },
+  {
+    "author": [
+      {
+        "family": "Desrousseaux",
+        "given": "L.A.J."
+      }
+    ],
+    "title": "Loranthe",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Encyclopédie Méthodique, Botanique",
+    "issued": "1789",
+    "page": "594–602"
+  },
+  {
+    "author": [
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      }
+    ],
+    "title": "Loranthaceae",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issue": "2",
+    "issued": "1868",
+    "page": "1–136, 1–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F."
+      }
+    ],
+    "title": "Herbarium Florae brasiliensis",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Flora oder Botanische Zeitung",
+    "issue": "Beiblätter II",
+    "issued": "1841",
+    "page": "1–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Rizzini",
+        "given": "C.T."
+      }
+    ],
+    "title": "Struthanti Brasiliae eiusque vicinorum",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Revista Brasileira de Biologia",
+    "issue": "4",
+    "issued": "1950",
+    "page": "393–408"
+  },
+  {
+    "author": [
+      {
+        "family": "Rizzini",
+        "given": "C.T."
+      }
+    ],
+    "title": "Pars specialis prodromi monographiae Loranthacearum Brasiliae terrarumque finitimarum",
+    "volume": "30–31",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "1956",
+    "page": "87–234"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M.C."
+      }
+    ],
+    "title": "Flora Fluminensis",
+    "publisher": "Aloysii de Vasconcellos & Souza Brasilias, Rio de Janeiro",
+    "type": "book",
+    "issued": "1829",
+    "page": "352"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellozo",
+        "given": "J.M.C."
+      }
+    ],
+    "title": "Florae Fluminensis Icones",
+    "volume": "3",
+    "publisher": "A. Senefelder, Parisiis",
+    "type": "book",
+    "issued": "1831",
+    "page": "155"
+  }
+]

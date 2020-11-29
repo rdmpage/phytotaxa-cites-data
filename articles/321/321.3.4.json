@@ -1,0 +1,436 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aiton",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus Kewensis",
+    "volume": "1",
+    "publisher": "George Nicoll, London",
+    "type": "book",
+    "issued": "1789",
+    "page": "496"
+  },
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H.E."
+      }
+    ],
+    "title": "Stirpes exoticae novae",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Adansonia",
+    "issued": "1874",
+    "page": "175–182"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Contributions to the flora of Madagascar. Part I",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Polypetalae. The Journal of the Linnean Society, Botany",
+    "issued": "1883",
+    "page": "96–97"
+  },
+  {
+    "author": [
+      {
+        "family": "Boiteau",
+        "given": "P."
+      },
+      {
+        "family": "Boiteau",
+        "given": "M."
+      },
+      {
+        "family": "Lucile",
+        "given": "A.-B."
+      }
+    ],
+    "title": "Dictionnaire des noms malgaches des végétaux",
+    "volume": "IV",
+    "publisher": "Edition Alzieu",
+    "type": "book",
+    "issued": "1999",
+    "page": "105–106",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Feder",
+        "given": "N."
+      },
+      {
+        "family": "O’Brien",
+        "given": "T.P."
+      }
+    ],
+    "title": "Plant microtechnique: some principles and new methods",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1968",
+    "page": "123–142",
+    "URL": "https://doi.org/10.2307/2440500",
+    "DOI": "10.2307/2440500"
+  },
+  {
+    "author": [
+      {
+        "family": "Humbert",
+        "given": "H."
+      }
+    ],
+    "title": "Contributions à l’étude de la Flore de Madagascar et des Comores. Fascicule 5",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Notulae Systematicae (Paris",
+    "issued": "1956",
+    "page": "118–128"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Catégories et critères de l’UICN pour la liste rouge. Commission de la sauvegarde des espèces de l’UICN. Gland, Suisse",
+    "volume": "3",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "1",
+    "issued": "2001",
+    "page": "32",
+    "URL": "http://pfbc-cbfp.org/tl_files/archive/conventions/iucn.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Kotina",
+        "given": "E.L."
+      },
+      {
+        "family": "Stepanova",
+        "given": "A.V."
+      },
+      {
+        "family": "Oskolski",
+        "given": "A.A."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      },
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      }
+    ],
+    "title": "Crystal types and their distribution in the bark of African genistoid legumes (Fabaceae tribes Sophoreae, Podalyrieae, Crotalarieae and Genisteae",
+    "volume": "178",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnaean Society",
+    "issued": "2015",
+    "page": "620–632",
+    "URL": "https://doi.org/10.1111/boj.12292",
+    "DOI": "10.1111/boj.12292"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "245"
+  },
+  {
+    "author": [
+      {
+        "family": "Magee",
+        "given": "A.R."
+      }
+    ],
+    "title": "Generic relationships of selected African genera of Apiaceae",
+    "genre": "Ph.D. Dissertation,",
+    "publisher": "University of Johannesburg, South Africa",
+    "type": "thesis",
+    "issued": "2009"
+  },
+  {
+    "author": [
+      {
+        "family": "Magee",
+        "given": "A.R."
+      },
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      }
+    ],
+    "title": "A taxonomic revision of the genus Cynorhiza (Apiaceae: Apioideae",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2008",
+    "page": "726–734",
+    "URL": "https://doi.org/10.1016/j.sajb.2008.05.007",
+    "DOI": "10.1016/j.sajb.2008.05.007"
+  },
+  {
+    "author": [
+      {
+        "family": "Magee",
+        "given": "A.R."
+      },
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      }
+    ],
+    "title": "A taxonomic revision of the genus Nanobubon (Apiaceae: Apioideae",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2008",
+    "page": "713–719",
+    "URL": "https://doi.org/10.1016/j.sajb.2008.05.006",
+    "DOI": "10.1016/j.sajb.2008.05.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Magee",
+        "given": "A.R."
+      },
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      },
+      {
+        "family": "Sales",
+        "given": "F."
+      },
+      {
+        "family": "Hedge",
+        "given": "I."
+      },
+      {
+        "family": "Downie",
+        "given": "S.R."
+      }
+    ],
+    "title": "Billburttia, a new genus of Apiaceae (tribe Apieae) endemic to Madagascar",
+    "volume": "283",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2009",
+    "page": "237–245",
+    "URL": "https://doi.org/10.1007/s00606-009-0223-3",
+    "DOI": "10.1007/s00606-009-0223-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Magee",
+        "given": "A.R."
+      },
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      }
+    ],
+    "title": "A taxonomic revision of the woody South African genus Notobubon (Apiaceae: Apioideae",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "1",
+    "issued": "2009",
+    "page": "220–242",
+    "URL": "https://doi.org/10.1600/036364409787602294",
+    "DOI": "10.1600/036364409787602294"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The Gardeners Dictionary",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Abridged",
+    "issue": "ed. 4",
+    "issued": "1754",
+    "publisher-place": "John and James Rivington, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Sales",
+        "given": "F."
+      },
+      {
+        "family": "Hedge",
+        "given": "I.C."
+      },
+      {
+        "family": "Coutinho",
+        "given": "A.X.P."
+      },
+      {
+        "family": "Marques",
+        "given": "A."
+      }
+    ],
+    "title": "Apiaceae subfamily Apioideae in Madagascar",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2004",
+    "page": "446–448",
+    "URL": "https://doi.org/10.1016/S0254-6299(15)30228-3",
+    "DOI": "10.1016/S0254-6299(15)30228-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Thouars",
+        "given": "L.M.A.Du Petit"
+      }
+    ],
+    "title": "Histoire des Végétaux Recueillis dans les Isles Australes d’Afrique",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Tourneisen fils, Paris",
+    "issued": "1807",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      }
+    ],
+    "title": "A preliminary analysis of evolution of African and Madagascan Apiaceae",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Edinburgh Journal of Botany",
+    "issued": "2001",
+    "page": "291–299",
+    "URL": "https://doi.org/10.1017/S0960428601000646",
+    "DOI": "10.1017/S0960428601000646"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      },
+      {
+        "family": "Winter",
+        "given": "P.J.D."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      }
+    ],
+    "title": "Four new genera of woody Apiaceae of Madagascar",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1999",
+    "page": "737–745",
+    "URL": "https://doi.org/10.2307/1223644",
+    "DOI": "10.2307/1223644"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      },
+      {
+        "family": "Magee",
+        "given": "A.R."
+      }
+    ],
+    "title": "African Apiaceae. A synopsis of the Apiaceae / Umbelliferae of sub-Saharan Africa and Madagascar",
+    "publisher": "Briza Academic Books, Pretoria",
+    "type": "book",
+    "issued": "2013",
+    "page": "114–115"
+  },
+  {
+    "author": [
+      {
+        "family": "Winter",
+        "given": "P.J.D."
+      },
+      {
+        "family": "Magee",
+        "given": "A.R."
+      },
+      {
+        "family": "Phephu",
+        "given": "N."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      },
+      {
+        "family": "Downie",
+        "given": "S.R."
+      },
+      {
+        "family": "Van Wyk",
+        "given": "B.-E."
+      }
+    ],
+    "title": "A new generic classification for African peucedanoid species (Apiaceae",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2008",
+    "page": "347–364"
+  }
+]

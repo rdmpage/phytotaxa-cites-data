@@ -1,0 +1,121 @@
+[
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Pueraria",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles",
+    "issued": "1825",
+    "page": "97",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Lackey",
+        "given": "J.A."
+      }
+    ],
+    "title": "A synopsis of the Phaseoleae (Leguminosae, Papilionoideae",
+    "genre": "Ph.D. dissertation,",
+    "publisher": "Iowa State University",
+    "type": "thesis",
+    "issued": "1977",
+    "page": "293",
+    "publisher-place": "Ames"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "J."
+      },
+      {
+        "family": "Hymowitz",
+        "given": "T."
+      }
+    ],
+    "title": "A molecular phylogenetic study of the subtribe Glycininae (Leguminosae) derived from the chloroplast DNA rps16 intron sequences",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "11",
+    "issued": "2001",
+    "page": "2064–2073",
+    "URL": "http://dx.doi.org/10.2307/3558432",
+    "DOI": "10.2307/3558432"
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "Y.B."
+      },
+      {
+        "family": "Lu",
+        "given": "Z.P."
+      },
+      {
+        "family": "Zhu",
+        "given": "T."
+      }
+    ],
+    "title": "Causes of the formation of dry-hot valleys in Hengduan Mountain Plateau",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Resources Sciences",
+    "issue": "5",
+    "issued": "2000",
+    "page": "69–72"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "URL": "http://www.iucn.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Maesen",
+        "given": "L.J.G.",
+        "particle": "Van der"
+      }
+    ],
+    "title": "Revision of the genus Pueraria DC. with some notes on Teyleria Backer (Leguminosae",
+    "publisher": "Agricultural University",
+    "type": "book",
+    "issued": "1985",
+    "page": "5–13",
+    "publisher-place": "Wageningen"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "D.L."
+      },
+      {
+        "family": "Thulin",
+        "given": "M."
+      }
+    ],
+    "title": "Pueraria",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Flora of China",
+    "issued": "2010",
+    "page": "244–248"
+  }
+]

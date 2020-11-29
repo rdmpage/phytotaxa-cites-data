@@ -1,0 +1,564 @@
+[
+  {
+    "author": [
+      {
+        "family": "Boissieu",
+        "given": "H.D."
+      }
+    ],
+    "title": "Les Ombellifères de Chine d’après les collections du Muséum d’Histoire naturelle de Paris",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Herbier Boissier",
+    "issued": "1903",
+    "page": "837–856"
+  },
+  {
+    "author": [
+      {
+        "family": "Burland",
+        "given": "T.G."
+      }
+    ],
+    "title": "DNASTAR’s Lasergene sequence analysis software",
+    "volume": "132",
+    "type": "article-journal",
+    "container-title": "Methods in molecular biology",
+    "issued": "2000",
+    "page": "71–91",
+    "URL": "https://doi.org/10.1385/1-59259-192-2:71",
+    "DOI": "10.1385/1-59259-192-2:71"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "H.T."
+      }
+    ],
+    "title": "Revision of Notopterygium (Umbelliferae",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1975",
+    "page": "83–87"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemical Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "BEAST: Bayesian evolutionary analyses by sampling trees",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2007",
+    "page": "214",
+    "URL": "https://doi.org/10.1186/1471-2148-7-214",
+    "DOI": "10.1186/1471-2148-7-214"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gouy",
+        "given": "M."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      }
+    ],
+    "title": "Multiple sequence alignment with Clustal X",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Trends in Biochemical Sciences",
+    "issued": "1998",
+    "page": "403–405",
+    "URL": "https://doi.org/10.1016/S0968-0004(98)01285-7",
+    "DOI": "10.1016/S0968-0004(98)01285-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "Mega7: molecular evolutionary genetics analysis version 7.0 for bigger datasets",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2016",
+    "page": "1870–1874",
+    "URL": "https://doi.org/10.1093/molbev/msw054",
+    "DOI": "10.1093/molbev/msw054"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest, a program to evaluate the fit of several models of evolution to a given data and unrooted tree (version 2.2). Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "publisher-place": "Sweden",
+    "URL": "http://www.abc.se/~nylander/"
+  },
+  {
+    "author": [
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      },
+      {
+        "family": "Leonov",
+        "given": "M.V."
+      }
+    ],
+    "title": "The genera of the Umbelliferae: a nomenclator",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1993",
+    "page": "592",
+    "URL": "https://doi.org/10.2307/4114493",
+    "DOI": "10.2307/4114493"
+  },
+  {
+    "author": [
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      },
+      {
+        "family": "Kljuykov",
+        "given": "E.V."
+      },
+      {
+        "family": "Ostroumova",
+        "given": "T.A."
+      }
+    ],
+    "title": "Reduction of Notopterygium to Hansenia (Umbelliferae",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2008",
+    "page": "155–172"
+  },
+  {
+    "type": null,
+    "URL": "https://"
+  },
+  {
+    "author": [
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      }
+    ],
+    "title": "Updated checklist of Chinese Umbelliferea: nomenclature, synonymy, typification, distribution",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Turczaninowia",
+    "issued": "2017",
+    "page": "106–239",
+    "URL": "https://doi.org/10.14258/turczaninowia.20.2.9",
+    "DOI": "10.14258/turczaninowia.20.2.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Pu",
+        "given": "F.T."
+      },
+      {
+        "family": "Wang",
+        "given": "Y.P."
+      }
+    ],
+    "title": "A new species of Notopterygium (Umbelliferae) from Sichuan",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Journal of Sichuan University: Natural Science Edition",
+    "issued": "1994",
+    "page": "386–388"
+  },
+  {
+    "author": [
+      {
+        "family": "Pu",
+        "given": "F.T."
+      },
+      {
+        "family": "Wang",
+        "given": "L.P."
+      },
+      {
+        "family": "Zheng",
+        "given": "Z.H."
+      },
+      {
+        "family": "Wang",
+        "given": "Y.P."
+      }
+    ],
+    "title": "A reclassification of Notopterygium Boissieu (Umbelliferae",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "2000",
+    "page": "430–436"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Hohna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Shan",
+        "given": "R.H."
+      }
+    ],
+    "title": "Umbelliferae novae sinicae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Sin. Special Bull",
+    "issued": "1943",
+    "page": "111–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Sheh",
+        "given": "M.L."
+      },
+      {
+        "family": "Pu",
+        "given": "F.T."
+      }
+    ],
+    "title": "A new species of Notopterygium de Boiss. from China",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Resources Environm",
+    "issued": "1997",
+    "page": "41–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP* Version 4.0b10: Phylogenetic Analysis using Parsimony*and Other Methods",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2003",
+    "publisher-place": "Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Turczaninow",
+        "given": "N.S."
+      }
+    ],
+    "title": "Flora baicalensi-dahurica seu descriptio plantarum in regionibus ciset transbaicalensibus atque in Dahuria sponte nascentium. Ordo XXXIV",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Umbelliferae. Naturalistes Moscou",
+    "issued": "1844",
+    "page": "707–754"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Y.P."
+      },
+      {
+        "family": "Pu",
+        "given": "F.D."
+      },
+      {
+        "family": "Wang",
+        "given": "L.P."
+      },
+      {
+        "family": "Xing",
+        "given": "J.H."
+      }
+    ],
+    "title": "A Systematic Classification of the Endemic Genera of China",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1996",
+    "page": "424–430"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: A Guide to Methods and Applications",
+    "publisher": "Academic Press Inc",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego, California",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolff",
+        "given": "H."
+      }
+    ],
+    "title": "Karl Friedrich August Hermann Repertorium Specierum Novarum Regni Vegetabilis",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Beihefte",
+    "issued": "1922",
+    "page": "449"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolff",
+        "given": "H."
+      }
+    ],
+    "title": "Umbelliferae Asiaticae novae relictae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "III. Repertorium novarum specierum regni vegetabilis",
+    "issued": "1930",
+    "page": "301–335",
+    "URL": "https://doi.org/10.1002/fedr.4870271612",
+    "DOI": "10.1002/fedr.4870271612"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "J."
+      },
+      {
+        "family": "Yue",
+        "given": "M."
+      },
+      {
+        "family": "Niu",
+        "given": "C."
+      },
+      {
+        "family": "Ma",
+        "given": "X.F."
+      },
+      {
+        "family": "Li",
+        "given": "Z.H."
+      }
+    ],
+    "title": "Comparative analysis of the complete chloroplast genome of four endangered herbals of Notopterygium",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Genes",
+    "issued": "2017",
+    "page": "124",
+    "URL": "https://doi.org/10.3390/genes8040124",
+    "DOI": "10.3390/genes8040124"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "J."
+      },
+      {
+        "family": "Peng",
+        "given": "H."
+      },
+      {
+        "family": "Downie",
+        "given": "S.R."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.W."
+      },
+      {
+        "family": "Gong",
+        "given": "X."
+      }
+    ],
+    "title": "A molecular phylogeny of Chinese Apiaceae subfamily Apioideae inferred from nuclear ribosomal DNA internal transcribed spacer sequences",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2008",
+    "page": "402–416",
+    "URL": "https://doi.org/10.2307/25066012",
+    "DOI": "10.2307/25066012"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "J."
+      },
+      {
+        "family": "Gong",
+        "given": "X."
+      },
+      {
+        "family": "Downie",
+        "given": "S.R."
+      },
+      {
+        "family": "Peng",
+        "given": "H."
+      }
+    ],
+    "title": "Towards a more robust molecular phylogeny of Chinese Apiaceae subfamily Apioideae: additional evidence from nrdna its and cpDNA intron (rpl16 and rps16) sequences",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics & Evolution",
+    "issued": "2009",
+    "page": "56–68",
+    "URL": "https://doi.org/10.1016/j.ympev.2009.05.029",
+    "DOI": "10.1016/j.ympev.2009.05.029"
+  }
+]

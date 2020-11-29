@@ -1,0 +1,755 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ackerman",
+        "given": "J.D."
+      }
+    ],
+    "title": "Orchid flora of the Greater Antilles",
+    "type": null,
+    "issued": "2015",
+    "page": "640",
+    "publisher-place": "New York Botanical Garden, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Ames",
+        "given": "O."
+      }
+    ],
+    "title": "A new genus of the Pleurothallidinae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Botanical Museum Leaflets",
+    "issued": "1933",
+    "page": "1–31"
+  },
+  {
+    "author": [
+      {
+        "family": "Archila",
+        "given": "F."
+      }
+    ],
+    "title": "Neooreophilus Archila: A new genus in the Pleurothallidinae Lindl",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Orchidaceae). Revista Guatemalensis",
+    "issued": "2009",
+    "page": "71–90"
+  },
+  {
+    "author": [
+      {
+        "family": "Barbosa Rodrigues",
+        "given": "J."
+      }
+    ],
+    "title": "Anathallis",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Genera et Species Orchidearum Novarum",
+    "issued": "1877",
+    "page": "23–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Pleurothallis",
+    "editor": [
+      {
+        "family": "Aiton",
+        "given": "W.T."
+      }
+    ],
+    "edition": "2",
+    "type": null,
+    "issued": "1813",
+    "page": "1–211",
+    "publisher-place": "London",
+    "URL": "http://doi.org/10.5962/bhl.title.104998",
+    "DOI": "10.5962/bhl.title.104998"
+  },
+  {
+    "author": [
+      {
+        "family": "Chiron",
+        "given": "G.R."
+      },
+      {
+        "family": "Guiard",
+        "given": "J."
+      },
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      }
+    ],
+    "title": "Phylogenetic relationships in Brazilian Pleurothallis sensu lato (Pleurothallidinae, Orchidaceae): evidence from nuclear ITS rDNA sequences",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "34–58",
+    "URL": "https://doi.org/10.11646/phytotaxa.46.1.5",
+    "DOI": "10.11646/phytotaxa.46.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "C.F.P.",
+        "given": "Martius"
+      },
+      {
+        "family": "A.G",
+        "given": "Eichler"
+      },
+      {
+        "family": "Fleisher",
+        "given": "F."
+      },
+      {
+        "given": "Munich"
+      }
+    ],
+    "type": null,
+    "issued": "1986",
+    "page": "1–672"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemical Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Galtier",
+        "given": "N."
+      },
+      {
+        "family": "Gouy",
+        "given": "M."
+      },
+      {
+        "family": "Gautier",
+        "given": "C."
+      }
+    ],
+    "title": "SEAVIEW and PHYLO_WIN: two graphic tools for sequence alignment and molecular phylogeny",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Computer Applications in the Biosciences",
+    "issued": "1996",
+    "page": "543–548",
+    "URL": "https://doi.org/10.1093/bioinformatics/12.6.543",
+    "DOI": "10.1093/bioinformatics/12.6.543"
+  },
+  {
+    "author": [
+      {
+        "family": "Garay",
+        "given": "L.A."
+      },
+      {
+        "family": "Dunsterville",
+        "given": "G.C.K."
+      }
+    ],
+    "title": "Venezuelan Orchids Illustrated 3",
+    "publisher": "André Deutsch, London",
+    "type": "book",
+    "issued": "1965",
+    "page": "246"
+  },
+  {
+    "author": [
+      {
+        "family": "Gouy",
+        "given": "M.Guindon"
+      },
+      {
+        "given": "S."
+      },
+      {
+        "family": "Gascuel.",
+        "given": "O."
+      }
+    ],
+    "title": "SeaView version 4 : a multiplatform graphical user interface for sequence alignment and phylogenetic tree building",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2010",
+    "page": "221–224",
+    "URL": "https://doi.org/10.1093/molbev/msp259",
+    "DOI": "10.1093/molbev/msp259"
+  },
+  {
+    "author": [
+      {
+        "family": "Higgins",
+        "given": "W.E."
+      },
+      {
+        "family": "Williams",
+        "given": "N.H."
+      }
+    ],
+    "title": "Pleurothallidinae: how many genera?",
+    "container-title": "19th World Orchid Conference",
+    "type": "paper-conference",
+    "issued": "2009"
+  },
+  {
+    "author": [
+      {
+        "family": "Jiménez-Pérez",
+        "given": "I."
+      }
+    ],
+    "title": "Orquídeas de Bolivia y Perú, novedades taxonómicas I (Pleurothallidinae",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2015",
+    "page": "185–202",
+    "URL": "https://doi.org/10.15517/lank.v15i3.21586",
+    "DOI": "10.15517/lank.v15i3.21586"
+  },
+  {
+    "author": [
+      {
+        "family": "Jost",
+        "given": "L."
+      },
+      {
+        "family": "Endara",
+        "given": "L."
+      }
+    ],
+    "title": "Analysis of the DNA-Based Reclassification of the Pleurothallidinae",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      }
+    ],
+    "title": "Lankesteriana a new genus in the Pleurothallidinae (Orchidaceae",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2014",
+    "page": "319–332",
+    "URL": "https://doi.org/10.15517/lank.v13i3.14368",
+    "DOI": "10.15517/lank.v13i3.14368"
+  },
+  {
+    "author": [
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      }
+    ],
+    "title": "Genera Pleurothallidinarum: an updated phylogenetic overview of Pleurothallidinae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2016",
+    "page": "219–241",
+    "URL": "https://doi.org/10.15517/lank.v16i2.26008",
+    "DOI": "10.15517/lank.v16i2.26008"
+  },
+  {
+    "author": [
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      },
+      {
+        "family": "Albertazzi",
+        "given": "F.J."
+      },
+      {
+        "family": "Bakker",
+        "given": "F.T."
+      },
+      {
+        "family": "Eurlings",
+        "given": "M.C.M."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A."
+      },
+      {
+        "family": "Pupulin",
+        "given": "F."
+      },
+      {
+        "family": "Gravendeel",
+        "given": "B."
+      }
+    ],
+    "title": "Phylogenetic reassessment of Specklinia and its allied genera in the Pleurothallidinae (Orchidaceae",
+    "volume": "272",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "1–36",
+    "URL": "https://doi.org/10.11646/phytotaxa.272.1.1",
+    "DOI": "10.11646/phytotaxa.272.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Orchideae In",
+    "editor": [
+      {
+        "family": "Bonpland",
+        "given": "A."
+      },
+      {
+        "family": "Humboldt",
+        "given": "A."
+      },
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "container-title": "Nova Genera et Species Plantarum",
+    "publisher": "sumtibus Librariae Graeco-Latino-Germanico",
+    "type": "chapter",
+    "issued": "1816",
+    "page": "338–339",
+    "publisher-place": "Lutetiae Parisiorum"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Section Pleurothalleae In",
+    "editor": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      },
+      {
+        "family": "Bauer",
+        "given": "F.A."
+      }
+    ],
+    "container-title": "The genera and species of Orchidaceous plants",
+    "type": "chapter",
+    "issued": "1830",
+    "page": "3–4",
+    "publisher-place": "Ridgways, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Miscellaneous Species of Pleurothallis",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "1976",
+    "page": "38–201"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Miscellaneous new species and combinations in the Pleurothallidinae (Orchidaceae",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Selbyana",
+    "issued": "1982",
+    "page": "100–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Trichosalpinx a new genus in Pleurothallidinae",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1983",
+    "page": "393–394",
+    "URL": "https://doi.org/10.5962/bhl.part.14427",
+    "DOI": "10.5962/bhl.part.14427"
+  },
+  {
+    "author": [
+      {
+        "family": "C.A",
+        "given": "Luer"
+      }
+    ],
+    "title": "Icones Pleurothallidinarum I: Systematics of the Pleurothallidinae (Orchidaceae",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "1986",
+    "page": "1–81"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum VIII: Systematics of Lepanthopsis, Octomeria Subgenus Pleurothallopsis, Restrepiella, Restrepiopsis, Salpistele and Teagueia",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "1991",
+    "page": "1–161"
+  },
+  {
+    "author": [
+      {
+        "family": "C.A",
+        "given": "Luer"
+      }
+    ],
+    "title": "Icones Pleurothallidinarum XV: Systematics of Trichosalpinx",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "1997",
+    "page": "1–136"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum XXVII: Dryadella and Acronia section Macrophyllae-Fasciculatae",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "2005",
+    "page": "1–311"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum XI. Systematics of Lepanthes subgenus Brachycladium and Pleurothallis subgenera Aenigma, Elongatia, Kraenzlinella. Addenda to Dracula, Lepanthopsis, Myoxanthus, Platystele, Porroglossum, and Trisetella",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "1994",
+    "page": "1–137"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum XX: Systematics of Jostia, Andinia, Barbrodria, Pleurothallis and Subgenera Antilla, Effusia and Restrepiodia with addenda to Lepanthes, Masdevallia and Pleurothallis",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "2000",
+    "page": "1–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author. Evolutionary Biology Centre, Uppsala University",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "URL": "https://github.com/nylander/MrModeltest2"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "A phylogenetic reclassification of Pleurothallidinae (Orchidaceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Lindleyana",
+    "issued": "2001",
+    "page": "235–271"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Solano",
+        "given": "R."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetic relationships in Pleurothallidinae (Orchidaceae): Combined evidence from nuclear and plastid DNA sequences",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "2286–2308",
+    "URL": "https://doi.org/10.2307/3558390",
+    "DOI": "10.2307/3558390"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "M.A."
+      }
+    ],
+    "title": "Subtribe Pleurothallidinae In",
+    "editor": [
+      {
+        "family": "Pridgeon",
+        "given": "M.A."
+      },
+      {
+        "family": "Cribb",
+        "given": "P."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F."
+      }
+    ],
+    "container-title": "Genera Orchidacearum Volume 4 Epidendroideae (Part 1",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "319–422",
+    "publisher-place": "Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      }
+    ],
+    "title": "MrBayes version 3.2 Manual: Tutorials and Model Summaries",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://mrbayes.sourceforge.net/mb3.2_manual.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Stöver",
+        "given": "B.C."
+      },
+      {
+        "family": "Müller",
+        "given": "K.F."
+      }
+    ],
+    "title": "TreeGraph 2: Combining and visualizing evidence from different phylogenetic analyses",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "BMC Bioinformatics",
+    "issued": "2010",
+    "page": "7",
+    "URL": "http://doi.org/10.1186/1471-2105-11-7",
+    "DOI": "10.1186/1471-2105-11-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Sun",
+        "given": "Y."
+      },
+      {
+        "family": "Skinner",
+        "given": "D.Z."
+      },
+      {
+        "family": "Liang",
+        "given": "G.H."
+      },
+      {
+        "family": "Hulbert",
+        "given": "S.H."
+      }
+    ],
+    "title": "Phylogenetic analysis of Sorghum and related taxa using internal transcribed spacers of nuclear ribosomal DNA",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Theoretical and Applied Genetics",
+    "issued": "1994",
+    "page": "26–32",
+    "URL": "https://doi.org/10.1007/BF00226978",
+    "DOI": "10.1007/BF00226978"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Dianome Epidendri generis Linn",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Nova Acta Regiae Societatis Scientiarum Upsaliensis",
+    "issued": "1799",
+    "page": "61–88"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Dianome Epidendri generis Linn",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Journal für die Botanik",
+    "issued": "1799",
+    "page": "201–244"
+  },
+  {
+    "author": [
+      {
+        "family": "Szlachetko",
+        "given": "D.L."
+      },
+      {
+        "family": "Margońska",
+        "given": "H.B."
+      }
+    ],
+    "title": "Gynostemia Orchidalium II",
+    "volume": "173",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Fennica",
+    "issued": "2002",
+    "page": "1–275"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "M."
+      },
+      {
+        "family": "Frank",
+        "given": "G.S."
+      },
+      {
+        "family": "Jost",
+        "given": "L.Pridgeon"
+      },
+      {
+        "family": "A.M.",
+        "given": "Vieira-Uribe"
+      },
+      {
+        "given": "S."
+      },
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      }
+    ],
+    "title": "Phylogenetic analysis of Andinia (Pleurothallidinae: Orchidaceae) and a systematic re-circumscription of the genus",
+    "volume": "295",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "101–131",
+    "URL": "https://doi.org/10.11646/phytotaxa.295.2.1",
+    "DOI": "10.11646/phytotaxa.295.2.1"
+  }
+]

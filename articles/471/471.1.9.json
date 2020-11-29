@@ -1,0 +1,199 @@
+[
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria",
+    "edition": "Version 3.1",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "2",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Källersjö",
+        "given": "M."
+      }
+    ],
+    "title": "A generic re-classification of Pentzia Thunb. (Compositae-Anthemideae) from southern Africa",
+    "volume": "96",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1988",
+    "page": "299–322",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1988.tb00686.x",
+    "DOI": "10.1111/j.1095-8339.1988.tb00686.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Magee",
+        "given": "A.R."
+      },
+      {
+        "family": "Nicolas",
+        "given": "A.N."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      },
+      {
+        "family": "Plunkett",
+        "given": "G.M."
+      }
+    ],
+    "title": "Phylogenetic relationships and generic realignments in the early diverging subtribe Pentziinae (Asteraceae, Anthemideae",
+    "volume": "178",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2015",
+    "page": "633–647",
+    "URL": "https://doi.org/10.1111/boj.12295",
+    "DOI": "10.1111/boj.12295"
+  },
+  {
+    "author": [
+      {
+        "family": "Magee",
+        "given": "A.R."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      }
+    ],
+    "title": "A taxonomic revision of Pentzia (Asteraceae, Anthemideae) I: the P. incana group in southern Africa, including the description of the new species P. oppositifolia Magee",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2012",
+    "page": "148–158",
+    "URL": "https://doi.org/10.1016/j.sajb.2011.10.003",
+    "DOI": "10.1016/j.sajb.2011.10.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Mallon",
+        "given": "D.P."
+      }
+    ],
+    "title": "Global hotspots in the Arabian Peninsula",
+    "volume": "54, Suppl. 3",
+    "type": "article-journal",
+    "container-title": "Zoology in the Middle East",
+    "issued": "2011",
+    "page": "13–20",
+    "URL": "https://doi.org/10.1080/09397140.2011.10648896",
+    "DOI": "10.1080/09397140.2011.10648896"
+  },
+  {
+    "author": [
+      {
+        "family": "Patzelt",
+        "given": "A."
+      }
+    ],
+    "title": "Oman Plant Red Data Book",
+    "publisher": "Diwan of Royal Court, Oman Botanic Garden, Sultanate of Oman",
+    "type": "book",
+    "issued": "2014",
+    "page": "312"
+  },
+  {
+    "author": [
+      {
+        "family": "Patzelt",
+        "given": "A."
+      }
+    ],
+    "title": "Synopsis of the flora and vegetation of Oman, with special emphasis on patterns of plant endemism",
+    "type": "article-journal",
+    "container-title": "Jahrbuch der Abhandlungen der Braunschweigischen Wissenschaftlichen Gesellschaft",
+    "issued": "2015",
+    "page": "282–317"
+  },
+  {
+    "author": [
+      {
+        "family": "Thulin",
+        "given": "M."
+      }
+    ],
+    "title": "Pentzia (Asteraceae-Anthemideae) in the Horn of Africa region",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2001",
+    "page": "249–252",
+    "URL": "https://doi.org/10.1111/j.1756-1051.2001.tb00763.x",
+    "DOI": "10.1111/j.1756-1051.2001.tb00763.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Thulin",
+        "given": "M."
+      }
+    ],
+    "title": "Horn of Africa",
+    "editor": [
+      {
+        "family": "Mittermeier",
+        "given": "R.A."
+      },
+      {
+        "family": "Robles Gil",
+        "given": "P."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "M."
+      },
+      {
+        "family": "Pilgrim",
+        "given": "J."
+      },
+      {
+        "family": "Brooks",
+        "given": "T."
+      },
+      {
+        "family": "Goettsch Mittermeier",
+        "given": "C."
+      },
+      {
+        "family": "Lamoreux",
+        "given": "J."
+      },
+      {
+        "family": "Fonseca",
+        "given": "G.A.B.",
+        "particle": "da"
+      }
+    ],
+    "container-title": "Hotspots revisited: earthʼs richest and most endangered ecoregions. Cemex, Mexico City",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "276–283"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Prodromus plantarum capensium 2",
+    "publisher": "Edman, Uppsala",
+    "type": "book",
+    "issued": "1800",
+    "page": "191"
+  }
+]

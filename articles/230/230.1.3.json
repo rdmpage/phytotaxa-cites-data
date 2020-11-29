@@ -1,0 +1,536 @@
+[
+  {
+    "author": [
+      {
+        "family": "Airy-Shaw",
+        "given": "H.K."
+      },
+      {
+        "family": "J.C. Willis",
+        "particle": "of"
+      }
+    ],
+    "edition": "Revised 7th",
+    "title": "A Dictionary of the Flowering Plants and Ferns",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "1966",
+    "page": null,
+    "publisher-place": "New York, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Ballard",
+        "given": "H.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "Violaceae",
+    "editor": [
+      {
+        "family": "Heywood",
+        "given": "V.H."
+      },
+      {
+        "family": "Brummitt",
+        "given": "R.K."
+      },
+      {
+        "family": "Culham",
+        "given": "A."
+      },
+      {
+        "family": "Seberg",
+        "given": "O."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens, Kew",
+    "issued": "2007",
+    "page": "331–333"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ballard, H.E. Jr., Paula Souza, J. & Wahlert, G.A."
+      }
+    ],
+    "title": "Violaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "container-title": "The families and genera of vascular plants, Volume XI Flowering plants. Eudicots. Malphiales",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "2014",
+    "page": "303–322",
+    "publisher-place": "Berlin",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-39417-1_25",
+    "DOI": "10.1007/978-3-642-39417-1_25"
+  },
+  {
+    "author": [
+      {
+        "family": "Bennett",
+        "given": "E.M."
+      }
+    ],
+    "title": "A Revision of the Australian species of Hybanthus Jacquin (Violaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Nuytsia",
+    "issued": "1972",
+    "page": "218–241"
+  },
+  {
+    "author": [
+      {
+        "family": "Broussalis",
+        "given": "A.M."
+      },
+      {
+        "family": "Goransson",
+        "given": "U."
+      },
+      {
+        "family": "Coussio",
+        "given": "J.D."
+      },
+      {
+        "family": "Ferraro",
+        "given": "G."
+      },
+      {
+        "family": "Martino",
+        "given": "P.V."
+      },
+      {
+        "family": "Claeson",
+        "given": "P."
+      }
+    ],
+    "title": "First cyclotide from Hybanthus (Violaceae",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Phytochemistry",
+    "issued": "2001",
+    "page": "47–51",
+    "URL": "http://dx.doi.org/10.1016/S0031-9422(01)00173-X",
+    "DOI": "10.1016/S0031-9422(01)00173-X"
+  },
+  {
+    "author": [
+      {
+        "family": "Feng",
+        "given": "M."
+      }
+    ],
+    "title": "Floral morphogenesis and molecular systematics of the family Violaceae",
+    "genre": "Ph.D. dissertation.",
+    "publisher": "Ohio University",
+    "type": "thesis",
+    "issued": "2005",
+    "page": "279",
+    "publisher-place": "Athens, Ohio"
+  },
+  {
+    "author": [
+      {
+        "family": "Grey-Wilson",
+        "given": "C."
+      }
+    ],
+    "title": "Notes on African Violaceae",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1981",
+    "page": "103–126",
+    "URL": "http://dx.doi.org/10.2307/4119009",
+    "DOI": "10.2307/4119009"
+  },
+  {
+    "author": [
+      {
+        "family": "Grey-Wilson",
+        "given": "C."
+      }
+    ],
+    "title": "Violaceae",
+    "editor": [
+      {
+        "family": "Pothill",
+        "given": "R.M."
+      }
+    ],
+    "publisher": "A.A. Balkema",
+    "type": "book",
+    "issued": "1986",
+    "page": "27–37",
+    "publisher-place": "Rotterdam"
+  },
+  {
+    "author": [
+      {
+        "family": "Hutchinson",
+        "given": "J."
+      }
+    ],
+    "title": "The Genera of Flowering Plants",
+    "volume": "II",
+    "publisher": "Clarendon Press",
+    "type": "book",
+    "issued": "1967",
+    "page": "117",
+    "publisher-place": "Oxford, England"
+  },
+  {
+    "author": [
+      {
+        "family": "Ireland",
+        "given": "D.C."
+      },
+      {
+        "family": "Colgrave",
+        "given": "M.L."
+      },
+      {
+        "family": "Nguyencong",
+        "given": "P."
+      },
+      {
+        "family": "Daly",
+        "given": "N.L."
+      },
+      {
+        "family": "Craik",
+        "given": "D.J."
+      }
+    ],
+    "title": "Discovery and characterization of a linear cyclotide from Viola odorata: implications for the processing of circular proteins",
+    "volume": "357",
+    "type": "article-journal",
+    "container-title": "Journal of Molecular Biology",
+    "issued": "2006",
+    "page": "1522–1535",
+    "URL": "http://dx.doi.org/10.1016/j.jmb.2006.01.051",
+    "DOI": "10.1016/j.jmb.2006.01.051"
+  },
+  {
+    "author": [
+      {
+        "family": "Mangenot",
+        "given": "S."
+      },
+      {
+        "family": "Mangenot",
+        "given": "G."
+      }
+    ],
+    "title": "Enquete sur les nombres chromosomiques dans une collection d’especes tropicales",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Revue de Cytologie et de Biologie Vegetales",
+    "issue": "25",
+    "issued": "1962",
+    "page": "411–447",
+    "URL": "http://dx.doi.org/10.1080/00378941.1962.10838117",
+    "DOI": "10.1080/00378941.1962.10838117"
+  },
+  {
+    "author": [
+      {
+        "family": "Melchior",
+        "given": "H."
+      }
+    ],
+    "title": "Violaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      },
+      {
+        "literal": "ed."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien",
+    "volume": "2, vol 21",
+    "publisher": "W. Engelmann",
+    "type": "chapter",
+    "issued": "1925",
+    "page": "329–377",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Paula-Souza",
+        "given": "J."
+      },
+      {
+        "family": "Ballard",
+        "given": "H.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "Re-establishment of the name Pombalia and new combinations from the polyphyletic Hybanthus (Violaceae",
+    "volume": "183",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "1–15",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.183.1.1",
+    "DOI": "10.11646/phytotaxa.183.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Paula-Souza",
+        "given": "J."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "A new species of Hybanthus (Violaceae) from north-eastern Brazil",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnaean Society",
+    "issued": "2003",
+    "page": "503–506",
+    "URL": "http://dx.doi.org/10.1046/j.1095-8339.2003.00161.x",
+    "DOI": "10.1046/j.1095-8339.2003.00161.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Peng",
+        "given": "C.I."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.F."
+      }
+    ],
+    "title": "Hybanthus Jacq. (Violaceae), a new generic record for the flora of Taiwan",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Botanical Bulletin of Academia Sinica",
+    "issued": "1985",
+    "page": "213–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Sarkar",
+        "given": "A.K."
+      },
+      {
+        "family": "Chakraverty",
+        "given": "M."
+      },
+      {
+        "family": "Das",
+        "given": "S.K."
+      },
+      {
+        "family": "Pal",
+        "given": "C.R."
+      },
+      {
+        "family": "Hazara",
+        "given": "D."
+      }
+    ],
+    "title": "Hybanthus enneaspermus (L",
+    "container-title": "F. Muell, in Chromosome",
+    "volume": "number reports LXVII. Taxon 29",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "358–360"
+  },
+  {
+    "author": [
+      {
+        "family": "Schulze",
+        "given": "G.K."
+      }
+    ],
+    "title": "Morphologisch-systematische Studien über die Gattung Hybanthus mit besonderer Berücksichtigung der südamerikanischen Arten",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1944",
+    "page": "437–492"
+  },
+  {
+    "author": [
+      {
+        "family": "Seo",
+        "given": "M.N."
+      },
+      {
+        "family": "Sanso",
+        "given": "A.M."
+      },
+      {
+        "family": "Xifreda",
+        "given": "C.C."
+      }
+    ],
+    "title": "Foliar micromorphology in the classification of South American Hybanthus species (Violaceae",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2011",
+    "page": "247–255",
+    "URL": "http://dx.doi.org/10.5735/085.048.0305",
+    "DOI": "10.5735/085.048.0305"
+  },
+  {
+    "author": [
+      {
+        "family": "Simonsen",
+        "given": "S.M."
+      },
+      {
+        "family": "Sando",
+        "given": "L."
+      },
+      {
+        "family": "Ireland",
+        "given": "D.C."
+      },
+      {
+        "family": "Colgrave",
+        "given": "M.L."
+      },
+      {
+        "family": "Bharathi",
+        "given": "R."
+      },
+      {
+        "family": "Goransson",
+        "given": "U."
+      },
+      {
+        "family": "Craik",
+        "given": "D.J."
+      }
+    ],
+    "title": "A continent of plant defense peptide diversity: cyclotides in Australian Hybanthus (Violaceae",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "The Plant Cell",
+    "issued": "2005",
+    "page": "3176–3189",
+    "URL": "http://dx.doi.org/10.1105/tpc.105.034678",
+    "DOI": "10.1105/tpc.105.034678"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature: A selective guide to botanical publications and collections with dates, commentaries and types",
+    "volume": "I",
+    "editor": [
+      {
+        "given": "A.–G."
+      }
+    ],
+    "publisher": "Bohn, Scheltema & Holkema",
+    "type": "book",
+    "issued": "1976",
+    "page": "2",
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature: A selective guide to botanical publications and collections with dates, commentaries and types",
+    "volume": "VI",
+    "editor": [
+      {
+        "given": "Sti-Vuy"
+      }
+    ],
+    "publisher": "Bohn, Scheltema & Holkema, Utrecht",
+    "type": "book",
+    "issued": "1986",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Souza",
+        "given": "J.P."
+      }
+    ],
+    "title": "Levantamento das especies de Hybanthus Jacq. (Violaceae) do Brasil",
+    "genre": "MS. Dissertation,",
+    "publisher": "Universidade de São Paulo",
+    "type": "thesis",
+    "issued": "2002",
+    "page": "166",
+    "publisher-place": "Brazil"
+  },
+  {
+    "author": [
+      {
+        "family": "Wahlert",
+        "given": "G.A."
+      },
+      {
+        "family": "Marcussen",
+        "given": "T."
+      },
+      {
+        "family": "Paula-Souza",
+        "given": "J.",
+        "particle": "de"
+      },
+      {
+        "family": "Feng",
+        "given": "M."
+      },
+      {
+        "family": "Ballard",
+        "given": "H.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "A phylogeny of the Violaceae (Malpighiales) inferred from plastid DNA sequences: Implications for generic diversity and intrafamilial taxonomy",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2014",
+    "page": "239–252",
+    "URL": "http://dx.doi.org/10.1600/036364414X678008",
+    "DOI": "10.1600/036364414X678008"
+  }
+]

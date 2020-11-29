@@ -1,0 +1,200 @@
+[
+  {
+    "author": [
+      {
+        "family": "Burman",
+        "given": "J."
+      }
+    ],
+    "title": "Thesaurus Zeylanicus",
+    "publisher": "Apud Janssonio-Waesbergios & Salomonem Schouten, Amsterdam",
+    "type": "book",
+    "issued": "1737",
+    "page": "235"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis. Sumptibus Sociorum Treuttel et Würtz",
+    "type": null,
+    "issued": "1824",
+    "page": "745",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Christenhusz",
+        "given": "M.J.M."
+      },
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Typification of ornamental plants 3: Impatiens balsamina (Balsaminaceae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2010",
+    "page": "61"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Order out of Chaos: Linnaean plant names and their types",
+    "container-title": "The Linnaean Society of London and The Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Flora Zeylanica",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1747",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s Plant-Book, A portable dictionary of plants, their classification and uses",
+    "edition": "3rd",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": null,
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Draakestein",
+        "given": "H.A.von",
+        "particle": "Rheede tot"
+      }
+    ],
+    "title": "Hortus Indicus Malabaricus, 9. Sumptibus Viduae Joannis van Someren",
+    "genre": "etc.,",
+    "publisher": "Amsterdam",
+    "type": null,
+    "issued": "1689",
+    "page": "187"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "R.K."
+      }
+    ],
+    "title": "Typification of thirty six names of thirty five recognized taxa in Impatiens (Balsaminaceae), endemic to Western Ghats",
+    "volume": "268",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2016",
+    "page": "167–180",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.268.3.1",
+    "DOI": "10.11646/phytotaxa.268.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "R.K."
+      }
+    ],
+    "title": "Notes on author attribution and typification of two names of Impatiens (Balsaminaceae",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "The Journal of Japanese Botany",
+    "issue": "4",
+    "issued": "2016",
+    "page": "237–241"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "R.K."
+      },
+      {
+        "family": "Garg",
+        "given": "A."
+      }
+    ],
+    "title": "Call for conservation of the critically endangered saffron balsam of Karnataka – Impatiens raziana Bhaskar and Razi (Balsaminaceae",
+    "volume": "142",
+    "type": "article-journal",
+    "container-title": "Indian Forester",
+    "issue": "8",
+    "issued": "2016",
+    "page": "803–805"
+  },
+  {
+    "author": [
+      {
+        "family": "Trimen",
+        "given": "H."
+      }
+    ],
+    "title": "Hermann’s Ceylon herbarium and Linnaeus’s ‘Flora Zeylanica’",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1887",
+    "page": "129–155",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1887.tb01319.x",
+    "DOI": "10.1111/j.1095-8339.1887.tb01319.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Prodromus Florae Peninsulae Indiae Orientalis, 1",
+    "publisher": "Purbury, Allen & Co., London",
+    "type": "book",
+    "issued": "1834",
+    "page": "480"
+  }
+]

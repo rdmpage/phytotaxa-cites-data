@@ -1,0 +1,2620 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Jayasiri",
+        "given": "S.C."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Chethana",
+        "given": "K.W.T."
+      },
+      {
+        "family": "Dai",
+        "given": "D.Q."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Daranagama",
+        "given": "D.A."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R.S."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Niskanen",
+        "given": "T."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Voigt",
+        "given": "K."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Li",
+        "given": "G.J."
+      },
+      {
+        "family": "Doilom",
+        "given": "M."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Cai",
+        "given": "Q."
+      },
+      {
+        "family": "Cui",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Dayarathne",
+        "given": "M.C."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A.J."
+      },
+      {
+        "family": "Ekanayaka",
+        "given": "A.H."
+      },
+      {
+        "family": "Hashimoto",
+        "given": "A."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      },
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Li",
+        "given": "W.J."
+      },
+      {
+        "family": "Li",
+        "given": "Q.R."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Luo",
+        "given": "Z.L."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "Mapook",
+        "given": "A."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Norphanphoun",
+        "given": "C."
+      },
+      {
+        "family": "Konta",
+        "given": "S."
+      },
+      {
+        "family": "Pang",
+        "given": "K.L."
+      },
+      {
+        "family": "Perera",
+        "given": "R.H."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Phukhamsakda",
+        "given": "C."
+      },
+      {
+        "family": "Pinruan",
+        "given": "U."
+      },
+      {
+        "family": "Randrianjohany",
+        "given": "E."
+      },
+      {
+        "family": "Singtripop",
+        "given": "C."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Tibpromma",
+        "given": "S."
+      },
+      {
+        "family": "Abdel-Wahab",
+        "given": "M.A."
+      },
+      {
+        "family": "Wanasinghe",
+        "given": "D.N."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Zhang",
+        "given": "J.F."
+      },
+      {
+        "family": "Zhang",
+        "given": "H."
+      },
+      {
+        "family": "Abdel-Aziz",
+        "given": "F.A."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      },
+      {
+        "family": "Westberg",
+        "given": "M."
+      },
+      {
+        "family": "Ammirati",
+        "given": "J.F."
+      },
+      {
+        "family": "Bulgakov",
+        "given": "T.S."
+      },
+      {
+        "family": "Lima",
+        "given": "D.X."
+      },
+      {
+        "family": "Callaghan",
+        "given": "T.M."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Chang",
+        "given": "C.H."
+      },
+      {
+        "family": "Coca",
+        "given": "L.F."
+      },
+      {
+        "family": "Dal-Forno",
+        "given": "M."
+      },
+      {
+        "family": "Dollhofer",
+        "given": "V."
+      },
+      {
+        "family": "Fliegerová",
+        "given": "K."
+      },
+      {
+        "family": "Greiner",
+        "given": "K."
+      },
+      {
+        "family": "Griffith",
+        "given": "G.W."
+      },
+      {
+        "family": "Ho",
+        "given": "H.M."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Kang",
+        "given": "J.C."
+      },
+      {
+        "family": "Wen",
+        "given": "T.C."
+      },
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Kytövuori",
+        "given": "I."
+      },
+      {
+        "family": "Lawrey",
+        "given": "J.D."
+      },
+      {
+        "family": "Xing",
+        "given": "J."
+      },
+      {
+        "family": "Li",
+        "given": "H."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Liu",
+        "given": "X.Z."
+      },
+      {
+        "family": "Liimatainen",
+        "given": "K."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Matsumura",
+        "given": "M."
+      },
+      {
+        "family": "Moncada",
+        "given": "B."
+      },
+      {
+        "family": "Nuankaew",
+        "given": "S."
+      },
+      {
+        "family": "Parnmen",
+        "given": "S."
+      }
+    ],
+    "title": "Santiago",
+    "editor": [
+      {
+        "literal": "A.L.C.M.D.A., Sommai, S., Song, Y., de Souza, C.A.F., de Souza-Motta, C.M., Su, H.Y., Suetrong, S., Wang, Y., Fong, W.S., Yuan, H.S., Zhou, L.W., Réblová, M., Fournier, J., Camporesi, E., Luangsa-ard, J.J., Tasanathai, K., Khonsanit, A., Thanakitpipattana, D., Somrithipol, S., Diederich, P."
+      }
+    ],
+    "producer": [
+      {
+        "family": "Battistin",
+        "given": "E."
+      },
+      {
+        "family": "Marsico",
+        "given": "O."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Vila",
+        "given": "J."
+      },
+      {
+        "family": "Ercole",
+        "given": "E."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Simonini",
+        "given": "G."
+      },
+      {
+        "family": "Wen",
+        "given": "H.A."
+      }
+    ],
+    "note": "& Chen, X.H.",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "27–274",
+    "publisher-place": "Millanes, A.M., Common, R.S., Stadler, M., Yan, J.Y., Li, X.H., Lee, H.W., Nguyen, T.T.T., Lee, H.B",
+    "URL": "https://doi.org/10.1007/s13225-015-0346-5",
+    "DOI": "10.1007/s13225-015-0346-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Wu",
+        "given": "S.P."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Additions to Karst Fungi 1: Botryosphaeria minutispermatia sp. nov., from Guizhou Province",
+    "volume": "275",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2016",
+    "page": "35–44",
+    "URL": "https://doi.org/10.11646/phytotaxa.275.1.4",
+    "DOI": "10.11646/phytotaxa.275.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "Al-Sadi",
+        "given": "A.M."
+      },
+      {
+        "family": "Elgorban",
+        "given": "A.M."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Additions to Karst Fungi 3: Prosthemium sinense sp. nov., from Guizhou Province, China",
+    "volume": "284",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2016",
+    "page": "281–291",
+    "URL": "https://doi.org/10.11646/phytotaxa.284.4.4",
+    "DOI": "10.11646/phytotaxa.284.4.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "Al-Sadi",
+        "given": "A.M."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Additions to Karst Fungi 2: Alpestrisphaeria jonesii from Guizhou Province, China",
+    "volume": "277",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2016",
+    "page": "255–265",
+    "URL": "https://doi.org/10.11646/phytotaxa.277.3.3",
+    "DOI": "10.11646/phytotaxa.277.3.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Nanayakkara",
+        "given": "R.R."
+      },
+      {
+        "family": "Zhu",
+        "given": "G.S."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Fungi from Asian Karst formations I. Pestalotiopsis photinicola sp. nov., causing leaf spots of Photinia serrulata",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Mycosphere",
+    "issue": "1",
+    "issued": "2017",
+    "page": "103–110",
+    "URL": "https://doi.org/10.5943/mycosphere/8/1/9",
+    "DOI": "10.5943/mycosphere/8/1/9"
+  },
+  {
+    "author": [
+      {
+        "family": "Chesters",
+        "given": "C.G.C."
+      },
+      {
+        "family": "Bell",
+        "given": "A."
+      }
+    ],
+    "title": "Studies in the Lophiostomataceae Sacc",
+    "volume": "120",
+    "type": "article-journal",
+    "container-title": "Mycological Papers",
+    "issued": "1970",
+    "page": "1–55"
+  },
+  {
+    "author": [
+      {
+        "family": "Chomnunti",
+        "given": "P."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Aguirre-Hudson",
+        "given": "B."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Peršoh",
+        "given": "D."
+      },
+      {
+        "family": "Dhami",
+        "given": "M.K."
+      },
+      {
+        "family": "Alias",
+        "given": "A.S."
+      },
+      {
+        "family": "Xu",
+        "given": "J.C."
+      },
+      {
+        "family": "Liu",
+        "given": "X.Z."
+      },
+      {
+        "family": "Stadler",
+        "given": "M."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "The sooty moulds",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issue": "1",
+    "issued": "2014",
+    "page": "1–36",
+    "URL": "https://doi.org/10.1007/s13225-014-0278-5",
+    "DOI": "10.1007/s13225-014-0278-5"
+  },
+  {
+    "author": [
+      {
+        "family": "De Silva",
+        "given": "N.I."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Goonasekara",
+        "given": "I.D."
+      },
+      {
+        "family": "Lumyong",
+        "given": "S."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Morphology and phylogeny of Atrocalyx acervatus sp. nov",
+    "volume": "333",
+    "type": "article-journal",
+    "container-title": "Lophiotremataceae) from Acer species. Phytotaxa",
+    "issue": "2",
+    "issued": "2018",
+    "page": "199–208",
+    "URL": "https://doi.org/10.11646/phytotaxa.333.2.3",
+    "DOI": "10.11646/phytotaxa.333.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hashimoto",
+        "given": "A."
+      },
+      {
+        "family": "Matsumura",
+        "given": "M."
+      },
+      {
+        "family": "Hirayama",
+        "given": "K."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      }
+    ],
+    "title": "Revision of Lophiotremataceae (Pleosporales, Dothideomycetes): Aquasubmersaceae, Cryptocoryneaceae, and Hermatomycetaceae fam. nov",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2017",
+    "page": "51–73",
+    "URL": "https://doi.org/10.3767/persoonia.2017.39.03",
+    "DOI": "10.3767/persoonia.2017.39.03"
+  },
+  {
+    "author": [
+      {
+        "family": "Hillis",
+        "given": "D.M."
+      },
+      {
+        "family": "Bull",
+        "given": "J.J."
+      }
+    ],
+    "title": "An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analysis",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1993",
+    "page": "182–192",
+    "URL": "https://doi.org/10.1093/sysbio/42.2.182",
+    "DOI": "10.1093/sysbio/42.2.182"
+  },
+  {
+    "author": [
+      {
+        "family": "Hirayama",
+        "given": "K."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      }
+    ],
+    "title": "Taxonomic revision of Lophiostoma and Lophiotrema based on reevaluation of morphological characters and molecular analyses",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issue": "6",
+    "issued": "2011",
+    "page": "401–412",
+    "URL": "https://doi.org/10.1007/S10267-011-0126-3",
+    "DOI": "10.1007/S10267-011-0126-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Holm",
+        "given": "L."
+      },
+      {
+        "family": "Holm",
+        "given": "K."
+      }
+    ],
+    "title": "Studies in the Lophiostmataceae with emphasis on the Swedish species",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Symbolae Botanicae Upsalienses",
+    "issued": "1988",
+    "page": "1–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Bhat",
+        "given": "D.J."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Abdel-Aziz",
+        "given": "F.A."
+      },
+      {
+        "family": "Abdel-Wahab",
+        "given": "M.A."
+      },
+      {
+        "family": "Banmai",
+        "given": "S."
+      },
+      {
+        "family": "Chomnunti",
+        "given": "P."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Daranagama",
+        "given": "D.A."
+      },
+      {
+        "family": "Das",
+        "given": "K."
+      },
+      {
+        "family": "Dayarathne",
+        "given": "M.C."
+      },
+      {
+        "family": "Silva",
+        "given": "N.L."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A.J."
+      },
+      {
+        "family": "Doilom",
+        "given": "M."
+      },
+      {
+        "family": "Ekanayaka",
+        "given": "A.H."
+      },
+      {
+        "family": "Gibertoni",
+        "given": "T.B."
+      },
+      {
+        "family": "Góes-Neto",
+        "given": "A."
+      },
+      {
+        "family": "Huang",
+        "given": "S.K."
+      },
+      {
+        "family": "Jayasiri",
+        "given": "S.C."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R.S."
+      },
+      {
+        "family": "Konta",
+        "given": "S."
+      },
+      {
+        "family": "Lee",
+        "given": "H.B."
+      },
+      {
+        "family": "Li",
+        "given": "W.J."
+      },
+      {
+        "family": "Lin",
+        "given": "C.G."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Lu",
+        "given": "Y.Z."
+      },
+      {
+        "family": "Luo",
+        "given": "Z.L."
+      },
+      {
+        "family": "Manawasinghe",
+        "given": "I.S."
+      },
+      {
+        "family": "Manimohan",
+        "given": "P."
+      },
+      {
+        "family": "Mapook",
+        "given": "A."
+      },
+      {
+        "family": "Niskanen",
+        "given": "T."
+      },
+      {
+        "family": "Norphanphoun",
+        "given": "C."
+      },
+      {
+        "family": "Papizadeh",
+        "given": "M."
+      },
+      {
+        "family": "Perera",
+        "given": "R.H."
+      },
+      {
+        "family": "Phukhamsakda",
+        "given": "C."
+      },
+      {
+        "family": "Richter",
+        "given": "C."
+      },
+      {
+        "family": "Santiago",
+        "given": "A.L.C.M.A."
+      },
+      {
+        "family": "Drechsler-Santos",
+        "given": "E.R."
+      },
+      {
+        "family": "Senanayake",
+        "given": "I.C."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Tennakoon",
+        "given": "T.M.D.S."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Tibpromma",
+        "given": "S."
+      },
+      {
+        "family": "Thongbai",
+        "given": "B."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Wanasinghe",
+        "given": "D.N."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Wu",
+        "given": "H."
+      },
+      {
+        "family": "Yang",
+        "given": "J."
+      },
+      {
+        "family": "Zeng",
+        "given": "X.Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "H."
+      },
+      {
+        "family": "Zhang",
+        "given": "J.F."
+      },
+      {
+        "family": "Bulgakov",
+        "given": "T.S."
+      },
+      {
+        "family": "Camporesi",
+        "given": "E."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Amoozegar",
+        "given": "A.M."
+      },
+      {
+        "family": "Araujo-Neta",
+        "given": "L.S."
+      },
+      {
+        "family": "Ammirati",
+        "given": "J.F."
+      },
+      {
+        "family": "Baghela",
+        "given": "A."
+      },
+      {
+        "family": "Bhatt",
+        "given": "R.P."
+      },
+      {
+        "family": "Bojantchev",
+        "given": "S."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Silva",
+        "given": "G.A."
+      },
+      {
+        "family": "Lima",
+        "given": "C.L.F."
+      },
+      {
+        "family": "Oliveira",
+        "given": "R.J.V.",
+        "particle": "de"
+      },
+      {
+        "family": "Souza",
+        "given": "C.A.F.",
+        "particle": "de"
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Dima",
+        "given": "B."
+      },
+      {
+        "family": "Duong",
+        "given": "T.T."
+      },
+      {
+        "family": "Ercole",
+        "given": "E."
+      },
+      {
+        "family": "Mafalda-Freire",
+        "given": "F."
+      },
+      {
+        "family": "Ghosh",
+        "given": "A."
+      },
+      {
+        "family": "Hashimoto",
+        "given": "A."
+      },
+      {
+        "family": "Kamolhan",
+        "given": "S."
+      },
+      {
+        "family": "Kang",
+        "given": "J.C."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Kytövuori",
+        "given": "I."
+      },
+      {
+        "family": "Lantieri",
+        "given": "A."
+      },
+      {
+        "family": "Liimatainen",
+        "given": "K."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Liu",
+        "given": "X.Z."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Medardi",
+        "given": "G."
+      },
+      {
+        "family": "Mortimer",
+        "given": "P.E."
+      },
+      {
+        "family": "Nguyen",
+        "given": "T.T.T."
+      },
+      {
+        "family": "Promputtha",
+        "given": "I."
+      },
+      {
+        "family": "Raj",
+        "given": "K.N.A."
+      },
+      {
+        "family": "Reck",
+        "given": "M.A."
+      },
+      {
+        "family": "Lumyong",
+        "given": "S."
+      },
+      {
+        "family": "Shahzadeh-Fazeli",
+        "given": "S.A."
+      },
+      {
+        "family": "Stadler",
+        "given": "M."
+      },
+      {
+        "family": "Soudi",
+        "given": "M.R."
+      },
+      {
+        "family": "Su",
+        "given": "H.Y."
+      },
+      {
+        "family": "Takahashi",
+        "given": "T."
+      },
+      {
+        "given": "L."
+      }
+    ],
+    "producer": [
+      {
+        "family": "Tangthirasunun",
+        "given": "N."
+      },
+      {
+        "family": "Uniyal",
+        "given": "P."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "given": "Wen"
+      }
+    ],
+    "note": "& Zhu,",
+    "title": "Fungal diversity notes 367–490: taxonomic and phylogenetic contributions to fungal taxa",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2016",
+    "page": "1–270",
+    "publisher-place": "T.C., Xu, J.C., Zhang, Z.K., Zhao, Y.C., Zhou, J.Z",
+    "URL": "https://doi.org/10.1007/s13225-016-0373-x",
+    "DOI": "10.1007/s13225-016-0373-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Jones",
+        "given": "E.G."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Ariyawansa",
+        "given": "H."
+      },
+      {
+        "family": "Boehm",
+        "given": "E."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Braun",
+        "given": "U."
+      },
+      {
+        "family": "Chomnunti",
+        "given": "P."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Dai",
+        "given": "D.Q."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A."
+      },
+      {
+        "family": "Doilom",
+        "given": "M."
+      },
+      {
+        "family": "Doveri",
+        "given": "F."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R."
+      },
+      {
+        "family": "Lawrey",
+        "given": "J.D."
+      },
+      {
+        "family": "Li",
+        "given": "Y.M."
+      },
+      {
+        "family": "Liu",
+        "given": "X.Z."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Monkai",
+        "given": "J."
+      },
+      {
+        "family": "Muggia",
+        "given": "L."
+      },
+      {
+        "family": "Nelsen",
+        "given": "M.P."
+      },
+      {
+        "family": "Pang",
+        "given": "K.L."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Senanayake",
+        "given": "I.C."
+      },
+      {
+        "family": "Shearer",
+        "given": "C.A."
+      },
+      {
+        "family": "Suetrong",
+        "given": "S."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Wikee",
+        "given": "S."
+      },
+      {
+        "family": "Wu",
+        "given": "H.X."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Begoña",
+        "given": "Aguirre-Hudson"
+      },
+      {
+        "family": "Alias",
+        "given": "S.A."
+      },
+      {
+        "family": "Aptroot",
+        "given": "A."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Bezerra",
+        "given": "J.L."
+      },
+      {
+        "family": "Bhat",
+        "given": "D.J."
+      },
+      {
+        "family": "Camporesi",
+        "given": "E."
+      },
+      {
+        "family": "Chukeatirote",
+        "given": "E."
+      },
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Hirayama",
+        "given": "K."
+      },
+      {
+        "family": "Hoog",
+        "given": "S.D."
+      },
+      {
+        "family": "Kang",
+        "given": "J.C."
+      },
+      {
+        "family": "Knudsen",
+        "given": "K."
+      },
+      {
+        "family": "Li",
+        "given": "W.J."
+      },
+      {
+        "family": "Li",
+        "given": "X.H."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Mapook",
+        "given": "A."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Miller",
+        "given": "A.N."
+      },
+      {
+        "family": "Mortimer",
+        "given": "P.E."
+      },
+      {
+        "family": "Phillips",
+        "given": "A.J.L."
+      },
+      {
+        "family": "Raja",
+        "given": "H.A."
+      },
+      {
+        "family": "Scheuer",
+        "given": "C."
+      },
+      {
+        "family": "Schumm",
+        "given": "F."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.E."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Tibpromma",
+        "given": "S."
+      },
+      {
+        "given": "M."
+      }
+    ],
+    "title": "Wanasinghe",
+    "note": "& Zhang,",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issue": "1",
+    "issued": "2013",
+    "page": "1–313",
+    "publisher-place": "D.N., Wang, Y., Xu, J.C., Yacharoen, S., Yan, J.Y",
+    "URL": "https://doi.org/10.1007/s13225-013-0263-4",
+    "DOI": "10.1007/s13225-013-0263-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaklitsch",
+        "given": "W.M."
+      },
+      {
+        "family": "Fournier",
+        "given": "J."
+      },
+      {
+        "family": "Voglmayr",
+        "given": "H."
+      }
+    ],
+    "title": "Two unusual new species of Pleosporales: Anteaglonium rubescens and Atrocalyx asturiensis",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "2018",
+    "page": "129–140",
+    "URL": "https://doi.org/",
+    "DOI": "10.12905/0380.sydowia70-2018-0129"
+  },
+  {
+    "author": [
+      {
+        "family": "Jayasiri",
+        "given": "S.C."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Bhat",
+        "given": "J."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Cai",
+        "given": "L."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Abd-Elsalam",
+        "given": "K.A."
+      },
+      {
+        "family": "Ertz",
+        "given": "D."
+      },
+      {
+        "family": "Hidayat",
+        "given": "I."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Luangsa-ard",
+        "given": "J.J."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      },
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Nilsson",
+        "given": "H."
+      },
+      {
+        "family": "Pang",
+        "given": "K.L."
+      },
+      {
+        "family": "Pereira",
+        "given": "O.L."
+      },
+      {
+        "family": "Phillips",
+        "given": "A.J.L."
+      },
+      {
+        "family": "Raspé",
+        "given": "O."
+      },
+      {
+        "family": "Rollins",
+        "given": "A.W."
+      },
+      {
+        "family": "Romero",
+        "given": "A.I."
+      },
+      {
+        "family": "Etayo",
+        "given": "J."
+      },
+      {
+        "family": "Selçuk",
+        "given": "F."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Suetrong",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.E."
+      },
+      {
+        "family": "Tsui",
+        "given": "C.K.M."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Abdel-Wahab",
+        "given": "M.A."
+      },
+      {
+        "family": "Wen",
+        "given": "T.C."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Dai",
+        "given": "D.Q."
+      },
+      {
+        "family": "Daranagama",
+        "given": "D.A."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A.J."
+      },
+      {
+        "family": "Ekanayaka",
+        "given": "A.H."
+      },
+      {
+        "family": "Fryar",
+        "given": "S.C."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R.S."
+      },
+      {
+        "family": "Li",
+        "given": "W.J."
+      },
+      {
+        "family": "Perera",
+        "given": "R.H."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "De Silva",
+        "given": "N.I."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Kang",
+        "given": "J.C."
+      },
+      {
+        "family": "Promputtha",
+        "given": "I."
+      }
+    ],
+    "title": "The Faces of Fungi database: fungal names linked with morphology, phylogeny and human impacts",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issue": "1",
+    "issued": "2015",
+    "page": "3–18",
+    "URL": "https://doi.org/10.1007/s13225-015-0351-8",
+    "DOI": "10.1007/s13225-015-0351-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Establishing species boundaries and new taxa among fungi: recommendations to resolve taxonomic ambiguities",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Mycosphere",
+    "issued": "2016",
+    "page": "1669–1677",
+    "URL": "https://doi.org/10.5943/mycosphere/7/11/4",
+    "DOI": "10.5943/mycosphere/7/11/4"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      },
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Bhat",
+        "given": "D.J."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Phukjamsakda",
+        "given": "C."
+      },
+      {
+        "family": "Shenoy",
+        "given": "B.D."
+      },
+      {
+        "family": "Abdel-Wahab",
+        "given": "M.A."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Chethana",
+        "given": "K.W.T."
+      },
+      {
+        "family": "Singtripop",
+        "given": "C."
+      },
+      {
+        "family": "Dai",
+        "given": "D.Q."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Daranagama",
+        "given": "D.A."
+      },
+      {
+        "family": "Dissansyake",
+        "given": "A.J."
+      },
+      {
+        "family": "Doilom",
+        "given": "M."
+      },
+      {
+        "family": "D’souza",
+        "given": "M."
+      },
+      {
+        "family": "Fan",
+        "given": "X.L."
+      },
+      {
+        "family": "Goonasekara",
+        "given": "I.D."
+      },
+      {
+        "family": "Hirayama",
+        "given": "K."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jayasiri",
+        "given": "S.C."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R.S."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Li",
+        "given": "W.J."
+      },
+      {
+        "family": "Mapook",
+        "given": "A."
+      },
+      {
+        "family": "Norphanphoun",
+        "given": "C."
+      },
+      {
+        "family": "Pang",
+        "given": "K.L."
+      },
+      {
+        "family": "Perera",
+        "given": "R.H."
+      },
+      {
+        "family": "Peršoh",
+        "given": "D."
+      },
+      {
+        "family": "Pinruan",
+        "given": "U."
+      },
+      {
+        "family": "Senanayake",
+        "given": "I.C."
+      },
+      {
+        "family": "Somrithipol",
+        "given": "S."
+      },
+      {
+        "family": "Suetrong",
+        "given": "S."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Tibpromma",
+        "given": "S."
+      },
+      {
+        "family": "Udayanga",
+        "given": "D."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Wanasinghe",
+        "given": "D."
+      },
+      {
+        "family": "Wisitrassameewong",
+        "given": "K."
+      },
+      {
+        "family": "Zeng",
+        "given": "X.Y."
+      },
+      {
+        "family": "Abdel-Aziz",
+        "given": "F.A."
+      },
+      {
+        "family": "Adamčík",
+        "given": "S."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Boonyuen",
+        "given": "N."
+      },
+      {
+        "family": "Bulgakov",
+        "given": "T."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Chomnunti",
+        "given": "P."
+      },
+      {
+        "family": "Greiner",
+        "given": "K."
+      },
+      {
+        "family": "Hashimoto",
+        "given": "A."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Kang",
+        "given": "J.C."
+      },
+      {
+        "family": "Lewis",
+        "given": "D."
+      },
+      {
+        "family": "Li",
+        "given": "X.H."
+      },
+      {
+        "family": "Liu",
+        "given": "X.Z."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Matsumura",
+        "given": "M."
+      },
+      {
+        "family": "Mortimer",
+        "given": "P.E."
+      },
+      {
+        "family": "Rambold",
+        "given": "G."
+      },
+      {
+        "family": "Randrianjohany",
+        "given": "E."
+      },
+      {
+        "family": "Sato",
+        "given": "G."
+      },
+      {
+        "family": "Sri-Indrasutdhi",
+        "given": "V."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Brackel",
+        "given": "W."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Camporesi",
+        "given": "E."
+      }
+    ],
+    "title": "Wen",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issue": "1",
+    "issued": "2015",
+    "page": "1–197",
+    "publisher-place": "T.C., Xu, J.C., Yan, J.Y., Zhao, R.L",
+    "URL": "https://doi.org/10.1007/s13225-015-0324-y",
+    "DOI": "10.1007/s13225-015-0324-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Y.J."
+      },
+      {
+        "family": "Whelen",
+        "given": "S."
+      },
+      {
+        "family": "Hall",
+        "given": "B.D."
+      }
+    ],
+    "title": "Phylogenetic relationships among ascomycetes: evidence from an RNA polymerse II subunit",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issue": "12",
+    "issued": "1999",
+    "page": "1799–1808",
+    "URL": "https://doi.org/10.1093/oxfordjournals.molbev.a026092",
+    "DOI": "10.1093/oxfordjournals.molbev.a026092"
+  },
+  {
+    "author": [
+      {
+        "family": "Mathiassen",
+        "given": "G."
+      }
+    ],
+    "title": "Some corticolous and lignicolous Pyrenomycetes s",
+    "translator": [
+      {
+        "family": "Troms",
+        "given": "N.Norway",
+        "particle": "lat. on Salix in"
+      }
+    ],
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Sommerfeltia",
+    "issued": "1989",
+    "page": "1–100"
+  },
+  {
+    "author": [
+      {
+        "family": "Mathiassen",
+        "given": "G."
+      }
+    ],
+    "title": "Corticolous and lignicolous Pyrenomycetes s. lat. (Ascomycetes) on Salix along a mid-Scandinavian transect",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Sommerfeltia",
+    "issued": "1993",
+    "page": "1–180"
+  },
+  {
+    "author": [
+      {
+        "family": "Mathiassen",
+        "given": "G."
+      },
+      {
+        "family": "Granmo",
+        "given": "A."
+      },
+      {
+        "family": "Stensrud",
+        "given": "Ø."
+      }
+    ],
+    "title": "Lophiotrema lennartii and Lophiotrema kerstiniae –two new species from Norway and Sweden",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "2017",
+    "page": "199–203",
+    "URL": "https://doi.org/10.12905/0380.sydowia69-2017-0199",
+    "DOI": "10.12905/0380.sydowia69-2017-0199"
+  },
+  {
+    "author": [
+      {
+        "family": "Mathiassen",
+        "given": "G."
+      },
+      {
+        "family": "Granmo",
+        "given": "A."
+      },
+      {
+        "family": "Stensrud",
+        "given": "Ø."
+      }
+    ],
+    "title": "Lophiotrema borealiforme, a new species close to L. boreale",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Karstenia",
+    "issued": "2018",
+    "page": "11–15",
+    "URL": "https://doi.org/10.29203/ka.2017.479",
+    "DOI": "10.29203/ka.2017.479"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J."
+      }
+    ],
+    "title": "MrModeltest2 version 2.3 (program for selecting DNA substitution models using PAUP*",
+    "publisher": "Evolutionary Biology Centre",
+    "type": "book",
+    "issued": "2008",
+    "publisher-place": "Uppsala, Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.D.M."
+      }
+    ],
+    "title": "TREEVIEW, tree drawing software for Apple Macintosh and Microsoft Windows. Division of Environmental and Evolutionary Biology, Institute Biomedical and Life Sciences",
+    "publisher": "University of Glasgow",
+    "type": "book",
+    "issued": "1996",
+    "publisher-place": "Glasgow, Scotland, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Rannala",
+        "given": "B."
+      },
+      {
+        "family": "Yang",
+        "given": "Z."
+      }
+    ],
+    "title": "Probability distribution of molecular evolutionary trees: a new method of phylogenetic inference",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Journal of Molecular Evolution",
+    "issue": "3",
+    "issued": "1996",
+    "page": "304–311",
+    "URL": "https://doi.org/10.1007/BF02338839",
+    "DOI": "10.1007/BF02338839"
+  },
+  {
+    "author": [
+      {
+        "family": "Rehner",
+        "given": "S."
+      }
+    ],
+    "title": "Primers for elongation factor 1-α (EF1-α",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "URL": "http://ocid.NACSE.ORG/research/deephyphae/EFlprimer.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Van Der Mark",
+        "given": "P."
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Saccardo",
+        "given": "P.A."
+      }
+    ],
+    "title": "Saccardo Pyrenomycetum",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Sylloge Fungorum",
+    "issued": "1883",
+    "page": "1–813"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "raxmlGUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity & Evolution",
+    "issue": "4",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "https://doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP: phylogenetic analysis using parsimony, version 4.0 b10",
+    "publisher": "Sinauer Associattes",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Harada",
+        "given": "Y."
+      }
+    ],
+    "title": "Pleosporales in Japan (2): the genus Lophiotrema",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2003",
+    "page": "115–121",
+    "URL": "https://doi.org/10.1007/S10267-003-0092-5",
+    "DOI": "10.1007/S10267-003-0092-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "A.M.C."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Tsui",
+        "given": "K.M."
+      },
+      {
+        "family": "Corlett",
+        "given": "R.T."
+      }
+    ],
+    "title": "A new species of Lophiotrema from wild fruit in Hong Kong",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Personnia",
+    "issued": "2003",
+    "page": "265–269"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "https://doi.org/10.1128/jb.172.8.4238-4246.1990",
+    "DOI": "10.1128/jb.172.8.4238-4246.1990"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "volume": "18",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315 322",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "Ekanayaka",
+        "given": "A.H."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      }
+    ],
+    "title": "Outline of Ascomycota: 2017",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2018",
+    "page": "167–263",
+    "URL": "https://doi.org/10.1007/s13225-018-0394-8",
+    "DOI": "10.1007/s13225-018-0394-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "J.F."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Liu",
+        "given": "Y.X."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Two new species of Dyfrolomyces (Dyfrolomycetaceae, Dothideomycetes) from karst landforms",
+    "volume": "313",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2017",
+    "page": "267–277",
+    "URL": "https://doi.org/10.11646/phytotaxa.313.3.4",
+    "DOI": "10.11646/phytotaxa.313.3.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "J.F."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Yang",
+        "given": "W."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Fungi from Asian Karst formations II. Two new species of Occultibambusa (Occultibambusaceae, Dothideomycetes) from karst landforms of China",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Mycosphere",
+    "issue": "4",
+    "issued": "2017",
+    "page": "550–559",
+    "URL": "https://doi.org/10.5943/mycosphere/8/4/4",
+    "DOI": "10.5943/mycosphere/8/4/4"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Wang",
+        "given": "H.K."
+      },
+      {
+        "family": "Fournier",
+        "given": "J."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Pointing",
+        "given": "S.B."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Towards a phylogenetic clarification of Lophiostoma/Massarina and morphologically similar genera in the Pleosporales",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2009",
+    "page": "225–251"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhaxybayeva",
+        "given": "O."
+      },
+      {
+        "family": "Gogarten",
+        "given": "J.P."
+      }
+    ],
+    "title": "Bootstrap, Bayesian probability and maximum likelihood mapping: exploring new tools for comparative genome analyses",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "BMC Genomics",
+    "issue": "1",
+    "issued": "2002",
+    "page": "4",
+    "URL": "https://doi.org/10.1186/1471-2164-3-4",
+    "DOI": "10.1186/1471-2164-3-4"
+  }
+]

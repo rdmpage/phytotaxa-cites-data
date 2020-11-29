@@ -1,0 +1,197 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "C.A."
+      }
+    ],
+    "title": "Flora Brasiliensis",
+    "volume": "3",
+    "publisher": "Fleischer, Leipzig",
+    "issue": "4",
+    "type": "book",
+    "issued": "1893",
+    "page": "672"
+  },
+  {
+    "author": [
+      {
+        "family": "Eaton",
+        "given": "A."
+      }
+    ],
+    "title": "Filices Wrightianae et Fendlerianae,-nempe in Insula Cuba a Carolo Wright et in Venezuela ab Aug. Fendler, ann. 1854-60, (nonnullis Panamensibus etc. interjectis,) Enumeratae cura Daniel C. Eaton, A.M",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Memoirs of the American Academy of Arts and Sciences",
+    "issued": "1860",
+    "page": "220"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Flora of the British West Indian islands",
+    "publisher": "Lovell Reeve, London",
+    "type": "book",
+    "issued": "1864",
+    "page": "789",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.143",
+    "DOI": "10.5962/bhl.title.143"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "W.D.J."
+      }
+    ],
+    "title": "Synopsis Florae Germanicae et Helveticae",
+    "type": null,
+    "issued": "1837",
+    "page": "686",
+    "publisher-place": "Wilmans, Frankfurt"
+  },
+  {
+    "author": [
+      {
+        "family": "Kränzlin",
+        "given": "F."
+      }
+    ],
+    "title": "Orchidaceae herbaria Dom",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "J. Arechavaletae det. et descr. Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1887",
+    "page": "317"
+  },
+  {
+    "author": [
+      {
+        "family": "Kränzlin",
+        "given": "F."
+      }
+    ],
+    "title": "Orchidaceae africanae. Botanische Jahrbücher für Systematik",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1913",
+    "page": "391"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G."
+      }
+    ],
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Annales Botanices Systematicae",
+    "issued": "1862",
+    "page": "345–346"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanguinetti",
+        "given": "A."
+      },
+      {
+        "family": "Buzatto",
+        "given": "C."
+      },
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "A taxonomical study of Bipinnula (Orchidaceae: Chloraeinae) in Argentina",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issue": "4",
+    "issued": "2015",
+    "page": "421–431",
+    "URL": "http://dx.doi.org/10.1111/njb.00714",
+    "DOI": "10.1111/njb.00714"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "F.R.R."
+      }
+    ],
+    "title": "Orchidaceae novae et criticae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Repertorium Species Novarum Regni Vegetabilis",
+    "issued": "1912",
+    "page": "352–363",
+    "URL": "http://dx.doi.org/10.1002/fedr.19120102105",
+    "DOI": "10.1002/fedr.19120102105"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultes",
+        "given": "R.E."
+      }
+    ],
+    "title": "Orchidaceae Neotropicales IV",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Botanical Museum Leaflets, Harvard University",
+    "issued": "1958",
+    "page": "92–102"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "B."
+      },
+      {
+        "family": "Kessler",
+        "given": "M."
+      },
+      {
+        "family": "Nyffeler",
+        "given": "R."
+      }
+    ],
+    "title": "Using the internet to aid in discovery of unrecognized type material",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2012",
+    "page": "13–24",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.62.1.4",
+    "DOI": "10.11646/phytotaxa.62.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "B."
+      }
+    ],
+    "title": "Clarification of the type specimens of Angraecum parcum Schltr. and Angraecum stolzii Schltr",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2012",
+    "page": "63–64",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.44.1.6",
+    "DOI": "10.11646/phytotaxa.44.1.6"
+  }
+]

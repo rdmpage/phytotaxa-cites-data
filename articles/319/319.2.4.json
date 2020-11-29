@@ -1,0 +1,308 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "Zookeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issue": "1",
+    "issued": "1855",
+    "page": "1–472"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "B.F.G.—The Brazilian Flora"
+      }
+    ],
+    "title": "Growing knowledge: an overview of Seed Plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issue": "4",
+    "issued": "2015",
+    "page": "1085–1113",
+    "URL": "https://doi.org/10.1590/2175-7860201566411",
+    "DOI": "10.1590/2175-7860201566411"
+  },
+  {
+    "author": [
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A.F.C.P.",
+        "particle": "de"
+      }
+    ],
+    "container-title": "Flora Brasiliae Meridionalis",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1833",
+    "page": "277–376"
+  },
+  {
+    "author": [
+      {
+        "family": "Informação Ambiental",
+        "given": "C.R.I.A.—Centro",
+        "particle": "de Referência em"
+      }
+    ],
+    "note": "speciesLink. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://inct.splink.org.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Myrtacées",
+    "editor": [
+      {
+        "family": "Saint-Vincent",
+        "given": "J.B.G.M.",
+        "particle": "Bory de"
+      }
+    ],
+    "container-title": "Dictionnaire classique d’histoire naturelle",
+    "volume": "11",
+    "type": "chapter",
+    "issued": "1827",
+    "page": "399–407"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "3",
+    "type": null,
+    "issued": "1828",
+    "page": "1–494"
+  },
+  {
+    "title": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro",
+    "note": "Available from:",
+    "type": null,
+    "URL": "http://floradobrasil.jbrj.gov.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "E."
+      },
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Morfologia vegetal",
+    "edition": "2",
+    "publisher": "São Paulo, Plantarum",
+    "type": "book",
+    "issued": "2011",
+    "page": "544"
+  },
+  {
+    "title": "IBGE Instituto Brasileiro de Geografia e Estatística",
+    "note": "IBGEcidades@. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.ibge.gov.br/cidadesat/default.php"
+  },
+  {
+    "title": "IUCN—International Union for the Conservation of Nature and Natural Resources",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Masumoto",
+        "given": "K."
+      },
+      {
+        "family": "Harris",
+        "given": "S.A."
+      },
+      {
+        "family": "Nic Lughadha",
+        "given": "E.M."
+      },
+      {
+        "family": "Bernardini",
+        "given": "B."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetics, morphology and evolution of the large genus Myrcia s.l",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Myrtaceae). International Journal of Plant Science",
+    "issued": "2011",
+    "page": "915–934",
+    "URL": "https://doi.org/10.1086/660913",
+    "DOI": "10.1086/660913"
+  },
+  {
+    "author": [
+      {
+        "family": "Poiret",
+        "given": "J.L.M."
+      }
+    ],
+    "title": "Encyclopédie Méthodique",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Botanique. Suplement",
+    "issued": "1813",
+    "page": "368",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickison",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular Plant Systematics",
+    "publisher": "Harper & Row Publishers",
+    "type": "book",
+    "issued": "1974",
+    "page": "891",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Ribeiro",
+        "given": "J.F."
+      },
+      {
+        "family": "Walter",
+        "given": "B.M.T."
+      }
+    ],
+    "title": "As principais fitofisionomias do bioma Cerrado",
+    "editor": [
+      {
+        "family": "Sano",
+        "given": "S.M."
+      },
+      {
+        "family": "Almeida",
+        "given": "S.P."
+      },
+      {
+        "family": "Ribeiro",
+        "given": "J.F."
+      }
+    ],
+    "container-title": "Cerrado: ecologia e flora. Embrapa Cerrados, Planaltina",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "151–212"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum",
+    "type": null,
+    "issued": "1788",
+    "page": "158"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

@@ -1,0 +1,329 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aiton",
+        "given": "W.T."
+      }
+    ],
+    "title": "Hortus Kewensis 4",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Longman, Hurst, Rees, Orme, and Brown, London",
+    "type": "book",
+    "issued": "1812",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Appel",
+        "given": "O."
+      },
+      {
+        "family": "Al-Shehbaz",
+        "given": "I.A."
+      }
+    ],
+    "title": "Brassicaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "family": "Bayer",
+        "given": "C."
+      }
+    ],
+    "container-title": "The families and genera of vascular plants",
+    "volume": "5",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "75–174",
+    "publisher-place": "Berlin Heidelberg"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Diagnoses Plantarum Orientalium Novarum",
+    "volume": "1, N. o 6",
+    "publisher": "Apud B. Herrmann, Leipzig",
+    "type": "article-journal",
+    "container-title": "ser",
+    "issued": "1845",
+    "page": "134"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Flora orientalis",
+    "volume": "1",
+    "editor": [
+      {
+        "family": "Georg",
+        "given": "H."
+      },
+      {
+        "given": "Genevae"
+      }
+    ],
+    "type": null,
+    "issued": "1867",
+    "page": "146–156"
+  },
+  {
+    "author": [
+      {
+        "family": "Chernyakovskaya",
+        "given": "E.G."
+      }
+    ],
+    "title": "Matthiola W.T. Aiton",
+    "editor": [
+      {
+        "family": "Bush",
+        "given": "N.A."
+      }
+    ],
+    "container-title": "Flora of the U.S.S.R",
+    "volume": "8",
+    "publisher": "Izdatel’stvo Akademii Nauk SSSR",
+    "type": "chapter",
+    "issued": "1939",
+    "page": "212–221",
+    "publisher-place": "Moskva, Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "Cullen",
+        "given": "J."
+      }
+    ],
+    "title": "Matthoila W.T. Aiton",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of Turkey and the East Aegean Islands",
+    "volume": "1",
+    "publisher": "Edinburgh Univ. Press",
+    "type": "chapter",
+    "issued": "1965",
+    "page": "447–450",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Hedge",
+        "given": "I.C."
+      }
+    ],
+    "title": "A systematic and geographical survey of old World Cruciferae",
+    "container-title": "In: the biology and chemistry of the Cruciferae",
+    "editor": [
+      {
+        "family": "Vaughan",
+        "given": "J.G.",
+        "particle": "ed."
+      },
+      {
+        "family": "Macleod",
+        "given": "A.J."
+      }
+    ],
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1976",
+    "page": "1–46",
+    "publisher-place": "and Jones, B.M.G"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List categories and criteria: Version 3.1",
+    "publisher": "IUCN, Species Survival Commission",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/info/categories_criteria2001.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Jafri",
+        "given": "S.M.H."
+      }
+    ],
+    "title": "Brassicaceae",
+    "editor": [
+      {
+        "family": "Nasir",
+        "given": "E."
+      },
+      {
+        "family": "Ali",
+        "given": "S.I."
+      }
+    ],
+    "container-title": "Flora of West Pakistan",
+    "volume": "55",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "1–308",
+    "publisher-place": "Ferozsons, Karachi"
+  },
+  {
+    "author": [
+      {
+        "family": "Mahmoodi",
+        "given": "M."
+      },
+      {
+        "family": "Zeraatkar",
+        "given": "A."
+      },
+      {
+        "family": "Ghahremaninejad",
+        "given": "F."
+      },
+      {
+        "family": "Maassoumi",
+        "given": "A.A."
+      }
+    ],
+    "title": "A new species of Matthiola (Brassicaceae, Anchonieae) from Iran",
+    "volume": "261",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2016",
+    "page": "194–198",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.261.2.9",
+    "DOI": "10.11646/phytotaxa.261.2.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Ponert",
+        "given": "J."
+      }
+    ],
+    "title": "Eine neue Art in der Gattung Matthiola aus Iran",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issue": "9–10",
+    "issued": "1973",
+    "page": "733–736",
+    "URL": "http://dx.doi.org/10.1002/fedr.19730840904",
+    "DOI": "10.1002/fedr.19730840904"
+  },
+  {
+    "author": [
+      {
+        "family": "Ranjbar",
+        "given": "M."
+      },
+      {
+        "family": "Karami",
+        "given": "S."
+      }
+    ],
+    "title": "Meiotic chromosome number and behavior of Matthiola shehbazii sp",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issue": "v",
+    "issued": "2014",
+    "page": "713–716",
+    "URL": "http://dx.doi.org/10.1111/j.1756-1051.2013.00326.x",
+    "DOI": "10.1111/j.1756-1051.2013.00326.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "title": "Matthoila W.T. Aiton",
+    "editor": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "container-title": "Flora Iranica",
+    "volume": "57",
+    "publisher": "Akad. Druck- und Verlagsanstalt, Graz",
+    "type": "chapter",
+    "issued": "1968",
+    "page": "228–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated] Index herbariorum: A global directory of public herbaria and associated staff",
+    "publisher": "New York Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "publisher-place": "Bronx, NY",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Townsend",
+        "given": "C.C."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Matthoila W.T.Aiton"
+      },
+      {
+        "family": "Townsend",
+        "given": "C.C."
+      },
+      {
+        "family": "Guest",
+        "given": "E."
+      }
+    ],
+    "container-title": "Flora of Iraq",
+    "volume": "4",
+    "publisher": "Ministry of Agriculture",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "1017–1024",
+    "publisher-place": "Republic of Iraq, Baghdad"
+  }
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "author": [
+      {
+        "family": "Antoniades",
+        "given": "D."
+      },
+      {
+        "family": "Hamilton",
+        "given": "P.B."
+      },
+      {
+        "family": "Douglas",
+        "given": "M.S.V."
+      },
+      {
+        "family": "Smol",
+        "given": "J.P."
+      }
+    ],
+    "title": "Diatoms of North America: The freshwater floras of Prince Patrick, Ellef Ringnes and northern Ellesmere Islands from the Canadian Arctic Archipelago",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2007",
+    "page": "1–649"
+  },
+  {
+    "author": [
+      {
+        "family": "Bahls",
+        "given": "L."
+      }
+    ],
+    "title": "Sellaphora alastos",
+    "container-title": "Diatoms of the United States",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2014",
+    "URL": "http://westerndiatoms.colorado.edu/taxa/species/sellaphora_alastos"
+  },
+  {
+    "author": [
+      {
+        "family": "Bahls",
+        "given": "L."
+      }
+    ],
+    "title": "Sellaphora americana",
+    "container-title": "Diatoms of the United States",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2014",
+    "URL": "http://westerndiatoms.colorado.edu/taxa/species/sellaphora_americana"
+  },
+  {
+    "author": [
+      {
+        "family": "Behnke",
+        "given": "A."
+      },
+      {
+        "family": "Friedl",
+        "given": "T."
+      },
+      {
+        "family": "Chepurnov",
+        "given": "V.A."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "Reproductive compatibility and rDNA sequence analyses in the Sellaphora pupula species complex (Bacillariophyta",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "2004",
+    "page": "193–208",
+    "URL": "https://doi.org/10.1046/j.1529-8817.2004.03037.x",
+    "DOI": "10.1046/j.1529-8817.2004.03037.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Vincent",
+        "given": "J.B.G.M.",
+        "particle": "Bory de"
+      }
+    ],
+    "title": "Bacillarées",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Dictionnaire Classique d’Histoire naturelle",
+    "issued": "1822",
+    "page": "127–129"
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "E.J."
+      }
+    ],
+    "title": "Coscinodiscophyceae, Mediophyceae, Fragilariophyceae, Bacillariophyceae (Diatoms",
+    "editor": [
+      {
+        "family": "Frey",
+        "given": "W."
+      }
+    ],
+    "container-title": "Syllabus of Plant Families",
+    "edition": "13the Edition. Part 2/1. Gebr. Borntrager Verlagsbuchhandlung",
+    "type": "chapter",
+    "issued": "2015",
+    "page": "64–103",
+    "publisher-place": "Stuttgart, Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "Z.-J."
+      },
+      {
+        "family": "Li",
+        "given": "Y.-L."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      }
+    ],
+    "title": "New records of Sellaphora (Bacillariophyta) in China",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Acta Micropalaeontologica Sinica",
+    "issued": "2013",
+    "page": "107–112"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Balasubramanian",
+        "given": "K."
+      },
+      {
+        "family": "Blanco",
+        "given": "S."
+      },
+      {
+        "family": "Coste",
+        "given": "M."
+      },
+      {
+        "family": "Ector",
+        "given": "L."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      },
+      {
+        "family": "Kulikovskiy",
+        "given": "M."
+      },
+      {
+        "family": "Lundhom",
+        "given": "N."
+      },
+      {
+        "family": "Ludwig",
+        "given": "T."
+      },
+      {
+        "family": "Potapova",
+        "given": "M."
+      },
+      {
+        "family": "Rimet",
+        "given": "F."
+      },
+      {
+        "family": "Sabbe",
+        "given": "K."
+      },
+      {
+        "family": "Sala",
+        "given": "S."
+      },
+      {
+        "family": "Sar",
+        "given": "E."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      },
+      {
+        "family": "Vijver",
+        "given": "B.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Wetzel",
+        "given": "C.E."
+      },
+      {
+        "family": "Williams",
+        "given": "D.M."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      }
+    ],
+    "note": "& Witkowski.(2017) Diatom Base. Available from:",
+    "type": null,
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "You",
+        "given": "Q.-M."
+      },
+      {
+        "family": "Stepanek",
+        "given": "J.G."
+      },
+      {
+        "family": "Lowe",
+        "given": "R.L."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.-X."
+      }
+    ],
+    "title": "New freshwater diatom genus, Edtheriotia gen. nov. of the Stephanodiscaceae (Bacillariophyta) from south-central China",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Phycological Research",
+    "issued": "2016",
+    "page": "274–280",
+    "URL": "https://doi.org/10.1111/pre.12145",
+    "DOI": "10.1111/pre.12145"
+  },
+  {
+    "author": [
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "You",
+        "given": "Q.-M."
+      },
+      {
+        "family": "Stepanek",
+        "given": "J.G."
+      },
+      {
+        "family": "Lowe",
+        "given": "R.L."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.-X."
+      }
+    ],
+    "title": "A new Eunotia (Bacillariophyta: Eunotiales) species from Karst formations of southern China",
+    "volume": "265",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "285–293",
+    "URL": "https://doi.org/10.11646/phytotaxa.265.3.10",
+    "DOI": "10.11646/phytotaxa.265.3.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Kusber",
+        "given": "W.H."
+      },
+      {
+        "family": "Jahn",
+        "given": "R."
+      }
+    ],
+    "title": "Annotated list of diatom names by Horst Lange-Bertalot and co-workers",
+    "genre": "Version 3.0.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2003",
+    "URL": "http://www.algaterra.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      }
+    ],
+    "title": "Indicators of oligotrophy. 800 taxa representative of three ecologically distinct lake types, carbonate buffered-Oligodystrophic-weakly buffered soft water. Oligotrophie-Indikatoren. 800 Taxa repräsentativ für drei diverse Seen-Typen: Kalkreich - Oligodystroph - Schwach gepuffertes Weichwasser",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "1996",
+    "page": "1–390"
+  },
+  {
+    "author": [
+      {
+        "family": "Levkov",
+        "given": "Z."
+      },
+      {
+        "family": "Krstic",
+        "given": "S.Metzeltin"
+      },
+      {
+        "given": "D."
+      },
+      {
+        "family": "Nakov",
+        "given": "T."
+      }
+    ],
+    "title": "Diatoms of lakes Prespa and Ohrid. About 500 taxa from ancient lake system",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2007",
+    "page": "1–613"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "B."
+      }
+    ],
+    "title": "Studies on diatoms of karst landform of Munigou Valley in Sichuan Province",
+    "publisher": "Master Dissertation. Shanghai Normal University",
+    "note": "In Chinese",
+    "type": null,
+    "issued": "2013"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y.-L."
+      },
+      {
+        "family": "Gong",
+        "given": "Z.-J.Wang"
+      },
+      {
+        "given": "C.-C."
+      },
+      {
+        "family": "Shen",
+        "given": "J."
+      }
+    ],
+    "title": "New species and new records of diatoms from Lake Fuxian, China",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issue": "1",
+    "issued": "2010",
+    "page": "65–72",
+    "URL": "https://doi.org/10.1111/j.1759-6831.2009.00059.x",
+    "DOI": "10.1111/j.1759-6831.2009.00059.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y.-L."
+      },
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      },
+      {
+        "family": "Gong",
+        "given": "Z.-J."
+      }
+    ],
+    "title": "Two new species of Sellaphora (Bacillariophyta) from a deep oligotrophic plateau lake, Lake Fuxian in subtropical China",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Chinese Journal of Oceanology and Limnology",
+    "issued": "2010",
+    "page": "1160–1165",
+    "URL": "https://doi.org/10.1007/s00343-010-9028-z",
+    "DOI": "10.1007/s00343-010-9028-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Lowe",
+        "given": "R."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "You",
+        "given": "Q.-M."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.-X."
+      },
+      {
+        "family": "Stepanek",
+        "given": "J."
+      }
+    ],
+    "title": "Diversity of the diatom genus Humidophila in karst areas of Guizhou, China",
+    "volume": "305",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "269–284",
+    "URL": "https://doi.org/10.11646/phytotaxa.305.4.3",
+    "DOI": "10.11646/phytotaxa.305.4.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "The diatom genus Sellaphora: separation from Navicula",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "British Phycological Journal",
+    "issued": "1989",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1080/00071618900650011",
+    "DOI": "10.1080/00071618900650011"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "The systematics of the Sellaphora pupula complex: typification of S. pupula",
+    "editor": [
+      {
+        "family": "Jahn",
+        "given": "R."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Witkowski",
+        "given": "A."
+      },
+      {
+        "family": "Compère",
+        "given": "P."
+      }
+    ],
+    "container-title": "Lange-Bertalot-Festschrift. Studies on diatoms, dedicated to Prof. Dr. Dr. h. c. Horst Lange-Bertalot on the occasion of his 65th birthday. A. R. G",
+    "publisher": "Gantner",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "225–241",
+    "publisher-place": "Ruggell, Liechtenstein"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "D.G."
+      },
+      {
+        "family": "McDonald",
+        "given": "S.M."
+      },
+      {
+        "family": "Bayer",
+        "given": "M.M."
+      },
+      {
+        "family": "Droop",
+        "given": "S.J.M."
+      },
+      {
+        "family": "Chepurnov",
+        "given": "V.A."
+      },
+      {
+        "family": "Loke",
+        "given": "R.E."
+      },
+      {
+        "family": "Ciobanu",
+        "given": "A."
+      },
+      {
+        "family": "Buf",
+        "given": "J.M.H.",
+        "particle": "du"
+      }
+    ],
+    "title": "Morphometric analysis, ultrastructure and mating data provide evidence for five new species of Sellaphora (Bacillariophyceae",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2004",
+    "page": "459–482",
+    "URL": "https://doi.org/10.2216/i0031-8884-43-4-459.1",
+    "DOI": "10.2216/i0031-8884-43-4-459.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "D.G."
+      },
+      {
+        "family": "Thomas",
+        "given": "S.J."
+      },
+      {
+        "family": "Evans",
+        "given": "K.M."
+      }
+    ],
+    "title": "Revision of the diatom genus Sellaphora: a first account of the larger species in British Isles",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Fottea, Olomouc",
+    "issue": "1",
+    "issued": "2008",
+    "page": "15–78",
+    "URL": "https://doi.org/10.5507/fot.2008.002",
+    "DOI": "10.5507/fot.2008.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Mereschkowsky",
+        "given": "C."
+      }
+    ],
+    "title": "On Sellaphora, a new genus of diatoms",
+    "volume": "Series 7 9",
+    "type": "article-journal",
+    "container-title": "Annals and Magazine of Natural History",
+    "issued": "1902",
+    "page": "185–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      }
+    ],
+    "title": "Tropical diatoms of South America II. Special remarks on biogeographic disjunction",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2007",
+    "page": "1–877"
+  },
+  {
+    "author": [
+      {
+        "family": "Metzeltin",
+        "given": "D."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      },
+      {
+        "family": "F",
+        "given": "Garcia-Rodriguez"
+      }
+    ],
+    "title": "Diatoms of Uruguay. Compared with other taxa from South America and elsewhere",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Iconographia Diatomologica",
+    "issued": "2005",
+    "page": "1–736"
+  },
+  {
+    "author": [
+      {
+        "family": "Parr",
+        "given": "J.F."
+      },
+      {
+        "family": "Taffs",
+        "given": "K.H."
+      },
+      {
+        "family": "Lane",
+        "given": "C.M."
+      }
+    ],
+    "title": "A microwave digestion technique for the extraction of fossil diatoms from coastal lake and swamp sediments",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Journal of Paleolimnology",
+    "issued": "2004",
+    "page": "383–390",
+    "URL": "https://doi.org/10.1023/B:JOPL.0000021857.32734.c6",
+    "DOI": "10.1023/B:JOPL.0000021857.32734.c6"
+  },
+  {
+    "author": [
+      {
+        "family": "Patrick",
+        "given": "R.M."
+      },
+      {
+        "family": "Reimer",
+        "given": "C.W."
+      },
+      {
+        "family": "Fragilariaceae",
+        "given": "Eunotiaceae"
+      },
+      {
+        "given": "Achnanthaceae"
+      }
+    ],
+    "title": "The diatoms of the United States exclusive of Alaska and Hawaii",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Monographs of the Academy of Natural Sciences of Philadelphia",
+    "issued": "1966",
+    "page": "1–688",
+    "URL": "https://doi.org/10.2307/1351135",
+    "DOI": "10.2307/1351135"
+  },
+  {
+    "author": [
+      {
+        "family": "Potapova",
+        "given": "M.G."
+      },
+      {
+        "family": "Ponader",
+        "given": "K.C."
+      }
+    ],
+    "title": "New Species and Combinations in the Diatom Genus Sellaphora (Sellaphoraceae) from Southeastern United States",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Harvard Papers in Botany",
+    "issued": "2008",
+    "page": "171–181",
+    "URL": "https://doi.org/10.3100/1043-4534(2008)13",
+    "DOI": "10.3100/1043-4534(2008)13"
+  },
+  {
+    "author": [
+      {
+        "family": "Round",
+        "given": "F.E."
+      },
+      {
+        "family": "Crawford",
+        "given": "R.M."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "The diatoms. Biology and morphology of the genera",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "1990",
+    "page": "747"
+  },
+  {
+    "author": [
+      {
+        "family": "Schiller",
+        "given": "W."
+      },
+      {
+        "family": "Lange-Bertalot",
+        "given": "H."
+      }
+    ],
+    "title": "Eolimna martinii n",
+    "volume": "n. sp",
+    "type": "article-journal",
+    "container-title": "gen",
+    "issue": "3",
+    "issued": "1997",
+    "page": "163–172",
+    "URL": "https://doi.org/10.1007/BF02988485",
+    "DOI": "10.1007/BF02988485"
+  },
+  {
+    "author": [
+      {
+        "family": "Spaulding",
+        "given": "S."
+      },
+      {
+        "family": "Edlund",
+        "given": "M."
+      }
+    ],
+    "title": "Sellaphora",
+    "container-title": "Diatoms of the United States",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2008",
+    "URL": "http://westerndiatoms.colorado.edu/taxa/genus/Sellaphora"
+  },
+  {
+    "author": [
+      {
+        "family": "Wetzel",
+        "given": "C.E."
+      },
+      {
+        "family": "Ector",
+        "given": "L."
+      },
+      {
+        "family": "Vijver",
+        "given": "B.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Compère",
+        "given": "P."
+      },
+      {
+        "family": "Mann",
+        "given": "D.G."
+      }
+    ],
+    "title": "Morphology, typification and critical analysis of some ecologically important small naviculoid species (Bacillariophyta",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Fottea, Olomouc",
+    "issued": "2015",
+    "page": "203–234",
+    "URL": "https://doi.org/10.5507/fot.2015.020",
+    "DOI": "10.5507/fot.2015.020"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "D.M."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      }
+    ],
+    "title": "Pursuit of a natural classification of diatoms: History, monophyly and the rejection of paraphyletic taxa",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "European Journal of Phycology",
+    "issued": "2007",
+    "page": "313–319",
+    "URL": "https://doi.org/10.1080/09670260701419921",
+    "DOI": "10.1080/09670260701419921"
+  },
+  {
+    "author": [
+      {
+        "family": "You",
+        "given": "Q.-M."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.-X."
+      }
+    ],
+    "title": "The diatom genus Hantzschia (Bacillariophyta) in Xinjiang province, China",
+    "volume": "197",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2015",
+    "page": "1–14",
+    "URL": "https://doi.org/10.11646/phytotaxa.197.1.1",
+    "DOI": "10.11646/phytotaxa.197.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "You",
+        "given": "Q.-M."
+      },
+      {
+        "family": "Kociolek",
+        "given": "J.P."
+      },
+      {
+        "family": "Yu",
+        "given": "P."
+      },
+      {
+        "family": "Cai",
+        "given": "M.-J."
+      },
+      {
+        "family": "Lowe",
+        "given": "R.L."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.-X."
+      }
+    ],
+    "title": "A new species of Simonsenia from a karst landform, Maolan Nature Reserve, Guizhou Province, China",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2016",
+    "page": "269–275",
+    "URL": "https://doi.org/10.1080/0269249X.2016.1227377",
+    "DOI": "10.1080/0269249X.2016.1227377"
+  },
+  {
+    "author": [
+      {
+        "literal": "Yu, P., You, Q.–M., Kociolek, J.P., Lowe, R.L. & Wang, Q.–X."
+      }
+    ],
+    "title": "Nupela major sp. nov., a new diatom species from Maolan Nature Reserve, south-central China",
+    "volume": "311",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "245–254",
+    "URL": "https://doi.org/10.11646/phytotaxa.311.3.4",
+    "DOI": "10.11646/phytotaxa.311.3.4"
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Zgrundo"
+      },
+      {
+        "family": "P.",
+        "given": "Lemke"
+      },
+      {
+        "family": "F.",
+        "given": "Pniewski"
+      },
+      {
+        "family": "E.J.",
+        "given": "Cox"
+      },
+      {
+        "family": "A",
+        "given": "Latała"
+      }
+    ],
+    "title": "Morphological and molecular phylogenetic studies on Fistulifera saprophila",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Diatom Research",
+    "issued": "2013",
+    "page": "431–443",
+    "URL": "https://doi.org/10.1080/0269249X.2013.833136",
+    "DOI": "10.1080/0269249X.2013.833136"
+  }
+]

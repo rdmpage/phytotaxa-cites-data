@@ -1,0 +1,1693 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ariyawansa",
+        "given": "H."
+      },
+      {
+        "family": "Hyde",
+        "given": "K."
+      },
+      {
+        "family": "Jayasiri",
+        "given": "S."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Chethana",
+        "given": "K.W.T."
+      },
+      {
+        "family": "Dai",
+        "given": "D."
+      },
+      {
+        "family": "Dai",
+        "given": "Y."
+      },
+      {
+        "family": "Daranagama",
+        "given": "D."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Niskanen",
+        "given": "T."
+      },
+      {
+        "family": "Thambugala",
+        "given": "K."
+      },
+      {
+        "family": "Voigt",
+        "given": "K."
+      },
+      {
+        "family": "Zhao",
+        "given": "R."
+      },
+      {
+        "family": "Li",
+        "given": "G.J."
+      },
+      {
+        "family": "Doilom",
+        "given": "M."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Yang",
+        "given": "Z."
+      },
+      {
+        "family": "Cai",
+        "given": "Q."
+      },
+      {
+        "family": "Cui",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Cui",
+        "given": "B."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Dayarathne",
+        "given": "M."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A."
+      },
+      {
+        "family": "Ekanayaka",
+        "given": "A."
+      },
+      {
+        "family": "Hashimoto",
+        "given": "A."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      },
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Li",
+        "given": "W."
+      },
+      {
+        "family": "Li",
+        "given": "Q.R."
+      },
+      {
+        "family": "Liu",
+        "given": "J."
+      },
+      {
+        "family": "Luo",
+        "given": "Z."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.N."
+      },
+      {
+        "family": "Mapook",
+        "given": "A."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.C."
+      },
+      {
+        "family": "Norphanphoun",
+        "given": "C."
+      },
+      {
+        "family": "Konta",
+        "given": "S."
+      },
+      {
+        "family": "Pang",
+        "given": "K."
+      },
+      {
+        "family": "Perera",
+        "given": "R."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Phukhamsakda",
+        "given": "C."
+      },
+      {
+        "family": "Pinruan",
+        "given": "U."
+      },
+      {
+        "family": "Randrianjohany",
+        "given": "E."
+      },
+      {
+        "family": "Singtripop",
+        "given": "C."
+      },
+      {
+        "family": "Tanaka",
+        "given": "K."
+      },
+      {
+        "family": "Tian",
+        "given": "C."
+      },
+      {
+        "family": "Tibpromma",
+        "given": "S."
+      },
+      {
+        "family": "Abdel-Wahab",
+        "given": "M."
+      },
+      {
+        "family": "Wanasinghe",
+        "given": "D."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N."
+      },
+      {
+        "family": "Zhang",
+        "given": "J.F."
+      },
+      {
+        "family": "Zhang",
+        "given": "H."
+      },
+      {
+        "family": "Abdel-Aziz",
+        "given": "F."
+      },
+      {
+        "family": "Wedin",
+        "given": "M."
+      },
+      {
+        "family": "Westberg",
+        "given": "M."
+      },
+      {
+        "family": "Ammirati",
+        "given": "J."
+      },
+      {
+        "family": "Bulgakov",
+        "given": "T."
+      },
+      {
+        "family": "Lima",
+        "given": "D."
+      },
+      {
+        "family": "Callaghan",
+        "given": "T."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Chang",
+        "given": "C.H."
+      },
+      {
+        "family": "Coca",
+        "given": "L."
+      },
+      {
+        "family": "Dal-Forno",
+        "given": "M."
+      },
+      {
+        "family": "Dollhofer",
+        "given": "V."
+      },
+      {
+        "family": "Fliegerová",
+        "given": "K."
+      },
+      {
+        "family": "Greiner",
+        "given": "K."
+      },
+      {
+        "family": "Griffith",
+        "given": "G."
+      },
+      {
+        "family": "Ho",
+        "given": "H.M."
+      },
+      {
+        "family": "Hofstetter",
+        "given": "V."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Kang",
+        "given": "J."
+      },
+      {
+        "family": "Wen",
+        "given": "T.C."
+      },
+      {
+        "family": "Kirk",
+        "given": "P."
+      },
+      {
+        "family": "Kytövuori",
+        "given": "I."
+      },
+      {
+        "family": "Lawrey",
+        "given": "J."
+      },
+      {
+        "family": "Xing",
+        "given": "J."
+      },
+      {
+        "family": "Li",
+        "given": "H."
+      },
+      {
+        "family": "Liu",
+        "given": "Z."
+      },
+      {
+        "family": "Liu",
+        "given": "X."
+      },
+      {
+        "family": "Liimatainen",
+        "given": "K."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Matsumura",
+        "given": "M."
+      },
+      {
+        "family": "Moncada",
+        "given": "B."
+      },
+      {
+        "family": "Nuankaew",
+        "given": "S."
+      },
+      {
+        "family": "Parnmen",
+        "given": "S."
+      },
+      {
+        "family": "Azevedo",
+        "particle": "de"
+      }
+    ],
+    "editor": [
+      {
+        "family": "A.L.C.M.",
+        "given": "Sommai"
+      },
+      {
+        "family": "S.",
+        "given": "Song"
+      },
+      {
+        "family": "Y.",
+        "given": "de Souza"
+      },
+      {
+        "family": "C.F.",
+        "given": "de Souza-Motta"
+      },
+      {
+        "family": "C.",
+        "given": "Su"
+      },
+      {
+        "family": "H.",
+        "given": "Suetrong"
+      },
+      {
+        "family": "S.",
+        "given": "Wang"
+      },
+      {
+        "family": "Y.",
+        "given": "Wei"
+      },
+      {
+        "family": "S.F.",
+        "given": "Wen"
+      },
+      {
+        "family": "T.",
+        "given": "Yuan"
+      },
+      {
+        "family": "H.",
+        "given": "Zhou"
+      },
+      {
+        "family": "L.",
+        "given": "Réblová"
+      },
+      {
+        "family": "M.",
+        "given": "Fournier"
+      },
+      {
+        "given": "J."
+      }
+    ],
+    "producer": [
+      {
+        "family": "Camporesi",
+        "given": "E."
+      },
+      {
+        "family": "Luangsa-ard",
+        "given": "J.J."
+      },
+      {
+        "family": "Tasanathai",
+        "given": "K."
+      },
+      {
+        "family": "Khonsanit",
+        "given": "A."
+      },
+      {
+        "family": "Thanakitpipattana",
+        "given": "D."
+      },
+      {
+        "family": "Somrithipol",
+        "given": "S."
+      },
+      {
+        "family": "Diederich",
+        "given": "P."
+      },
+      {
+        "family": "Millanes",
+        "given": "A."
+      },
+      {
+        "family": "Common",
+        "given": "R."
+      },
+      {
+        "family": "Stadler",
+        "given": "M."
+      },
+      {
+        "family": "Yan",
+        "given": "J."
+      },
+      {
+        "family": "Li",
+        "given": "X."
+      },
+      {
+        "family": "Lee",
+        "given": "H."
+      },
+      {
+        "family": "Nguyen",
+        "given": "T.T."
+      },
+      {
+        "family": "Lee",
+        "given": "H."
+      },
+      {
+        "family": "Battistin",
+        "given": "E."
+      },
+      {
+        "family": "Marsico",
+        "given": "O."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Vila",
+        "given": "J."
+      },
+      {
+        "family": "Ercole",
+        "given": "E."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Simonini",
+        "given": "G."
+      },
+      {
+        "family": "Wen",
+        "given": "H.A."
+      }
+    ],
+    "note": "& Chen, X.H.",
+    "title": "Fungal diversity notes 111–252—taxonomic and phylogenetic contributions to fungal taxa",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "27–274",
+    "publisher-place": "Santiago",
+    "URL": "http://dx.doi.org/10."
+  },
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "M.J."
+      }
+    ],
+    "title": "Decades of Fungi",
+    "editor": [
+      {
+        "literal": "Dec. XV-XIX."
+      }
+    ],
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "The London Journal of Botany",
+    "issued": "1847",
+    "page": "479–514"
+  },
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "M.J."
+      },
+      {
+        "family": "Broome",
+        "given": "C.E."
+      }
+    ],
+    "title": "On some species of the genus Agaricus from Ceylon",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "The Transactions of the Linnean Society of London",
+    "issue": "series 1",
+    "issued": "1870",
+    "page": "149–152",
+    "URL": "http://dx.doi.org/10.1111/j.1096-3642.1870.tb00206.x",
+    "DOI": "10.1111/j.1096-3642.1870.tb00206.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "M.J."
+      },
+      {
+        "family": "Broome",
+        "given": "C.E."
+      }
+    ],
+    "title": "The fungi of Ceylon (Hymenomycetes, from Agaricus to Cantharellus",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "The Journal of the Linnean Society (Botany",
+    "issued": "1871",
+    "page": "494–567"
+  },
+  {
+    "author": [
+      {
+        "family": "Blanco-Dios",
+        "given": "J.B."
+      }
+    ],
+    "title": "Agaricales des dunes de Galice (Nord-Ouest de l’ Espagne) 1: Agaricus freirei sp. nov",
+    "volume": "121",
+    "type": "article-journal",
+    "container-title": "Documents Mycologiques",
+    "issued": "2001",
+    "page": "27–34"
+  },
+  {
+    "author": [
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      }
+    ],
+    "title": "Morphological and molecular characterization of two novel species of Agaricus section Xanthodermatei",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2005",
+    "page": "416–424",
+    "URL": "http://dx.doi.org/10.3852/mycologia.97.2.416",
+    "DOI": "10.3852/mycologia.97.2.416"
+  },
+  {
+    "author": [
+      {
+        "family": "Cappelli",
+        "given": "A."
+      }
+    ],
+    "title": "Agaricus L.: Fr",
+    "editor": [
+      {
+        "family": "Biella Giovanna",
+        "given": "Psalliota Fr) Libreria",
+        "particle": "editrice"
+      },
+      {
+        "given": "Saronno"
+      }
+    ],
+    "type": null,
+    "issued": "1984",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Challen",
+        "given": "M.P."
+      },
+      {
+        "family": "Kerrigan",
+        "given": "R.W."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "A phylogenetic reconstruction and emendation of Agaricus section Duploannulatae",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "1",
+    "issued": "2003",
+    "page": "61–73",
+    "URL": "http://dx.doi.org/10.2307/3761962",
+    "DOI": "10.2307/3761962"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "De Kesel",
+        "given": "A."
+      },
+      {
+        "family": "Khalid",
+        "given": "A.N."
+      },
+      {
+        "family": "Qasim",
+        "given": "T."
+      },
+      {
+        "family": "Aisha",
+        "given": "A."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Inter- and intra-specific diversity in Agaricus endoxanthus and allied species reveals a new taxon, A. punjabensis",
+    "volume": "252",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "1–16",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.252.1.1",
+    "DOI": "10.11646/phytotaxa.252.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Guelly",
+        "given": "A.K."
+      },
+      {
+        "family": "Kesel",
+        "given": "A.D."
+      },
+      {
+        "family": "Rapior",
+        "given": "S."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Chukeatirote",
+        "given": "E."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Agaricus section Brunneopicti: a phylogenetic reconstruction with descriptions of four new taxa",
+    "volume": "192",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "145–168",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.192.3.2",
+    "DOI": "10.11646/phytotaxa.192.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issue": "5",
+    "issued": "2004",
+    "page": "1792–1797",
+    "URL": "http://dx.doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: a multiple sequence alignment method with reduced time and space complexity",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "BMC Bioinformatics",
+    "issued": "2004",
+    "page": "113"
+  },
+  {
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "A.E.H."
+      }
+    ],
+    "title": "Agaricus in the southeastern United States",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issue": "1",
+    "issued": "1979",
+    "page": "50–118"
+  },
+  {
+    "author": [
+      {
+        "family": "Geml",
+        "given": "J."
+      },
+      {
+        "family": "Geiser",
+        "given": "D.M."
+      },
+      {
+        "family": "Royse",
+        "given": "D.J."
+      }
+    ],
+    "title": "Molecular evolution of Agaricus species based on ITS and LSU rDNA sequences",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issue": "2",
+    "issued": "2004",
+    "page": "157–176",
+    "URL": "http://dx.doi.org/10.1007/s11557-006-0086-8",
+    "DOI": "10.1007/s11557-006-0086-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      }
+    ],
+    "title": "Un agaric méconnu et largement répandu sur le littoral atlantique francais, Agaricus freirei. Comparaison et confusion avec un agaric proche mais rare: Agaricus phaeolepidotus",
+    "volume": "192",
+    "type": "article-journal",
+    "container-title": "Bulletin Mycologique et Botanique Dauphiné-Savoie",
+    "issued": "2009",
+    "page": "47–58"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      },
+      {
+        "family": "Goossens-Fontana",
+        "given": "M."
+      }
+    ],
+    "title": "Agaricus I",
+    "editor": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      }
+    ],
+    "container-title": "Flore Iconographique des Champignons du Congo. Fasc., Bruxelles",
+    "type": "chapter",
+    "issued": "1956",
+    "page": "99–119"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      }
+    ],
+    "title": "Essai d’une clé de determination des genres Agaricus et Micropsalliota",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "1978",
+    "page": "6–37"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      }
+    ],
+    "title": "Les genres Agaricus et Micropsalliota en Malaisie et en Indonésie",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique National de Belgique",
+    "issued": "1980",
+    "page": "3–68",
+    "URL": "http://dx.doi.org/10.2307/3667774",
+    "DOI": "10.2307/3667774"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      }
+    ],
+    "title": "Agarici austroamericani VI. Apercu sur les Agaricus de Patagonie et de la terre de Feu",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique National de Belgique",
+    "issued": "1986",
+    "page": "417–446",
+    "URL": "http://dx.doi.org/10.2307/3668202",
+    "DOI": "10.2307/3668202"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      }
+    ],
+    "title": "Agarici austroamericani VII: Agariceae des zones tempérées de 1’ Argentine et du Chili",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique National de Belgique",
+    "issued": "1990",
+    "page": "331–370",
+    "URL": "http://dx.doi.org/10.2307/3668225",
+    "DOI": "10.2307/3668225"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MrBayesian: Baysian inference of phylogeny",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Biometrics",
+    "issued": "2001",
+    "page": "754–755"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerrigan",
+        "given": "R.W."
+      }
+    ],
+    "title": "The Agaricales (Gilled Fungi) of California",
+    "volume": "6",
+    "publisher": "Agaricaceae. Mad River Press",
+    "type": "book",
+    "issued": "1986",
+    "page": "62",
+    "publisher-place": "Eureka"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerrigan",
+        "given": "R.W."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      },
+      {
+        "family": "Challen",
+        "given": "M.P."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      }
+    ],
+    "title": "Agaricus section Xanthodermatei: a phylogenetic reconstruction with commentary on taxa",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2005",
+    "page": "1292–1315",
+    "URL": "http://dx.doi.org/10.3852/mycologia.97.6.1292",
+    "DOI": "10.3852/mycologia.97.6.1292"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerrigan",
+        "given": "R.W."
+      }
+    ],
+    "title": "Agaricus of North America",
+    "publisher": "New York Botanical Garden Press",
+    "note": "in press",
+    "type": null,
+    "issued": "2016",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Largent",
+        "given": "D.L."
+      }
+    ],
+    "title": "How to identify mushrooms to genus",
+    "volume": "1",
+    "publisher": "Mad River Press, Eureka",
+    "type": "book",
+    "issued": "1986",
+    "page": "166"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of color",
+    "edition": "3rd edn",
+    "publisher": "Eyre Methuen, London",
+    "type": "book",
+    "issued": "1978",
+    "page": "252"
+  },
+  {
+    "author": [
+      {
+        "family": "Mahdizadeh",
+        "given": "V."
+      },
+      {
+        "family": "Safaie",
+        "given": "N."
+      },
+      {
+        "family": "Goltapeh",
+        "given": "E.M."
+      },
+      {
+        "family": "Nassaj",
+        "given": "Hosseini"
+      },
+      {
+        "given": "S.M."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Agaricus section Xanthodermatei in Iran",
+    "volume": "247",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "181–196",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.247.3.2",
+    "DOI": "10.11646/phytotaxa.247.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Michalak",
+        "given": "S."
+      }
+    ],
+    "title": "raxmlGUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity and Evolution",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "http://dx.doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Møller",
+        "given": "F.H."
+      }
+    ],
+    "title": "Danish Psalliota species, Preliminary studies for a monograph on the Danish Psalliotae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Part",
+    "issue": "1–2",
+    "issued": "1950",
+    "page": "1–60"
+  },
+  {
+    "author": [
+      {
+        "family": "Nauta",
+        "given": "M.M."
+      }
+    ],
+    "title": "Agaricus L. and Allopsalliota Nanta et Bas",
+    "editor": [
+      {
+        "family": "Noordeloos",
+        "given": "M.E."
+      },
+      {
+        "family": "Kyuper",
+        "given": "ThW"
+      },
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      }
+    ],
+    "container-title": "Flora Agaricina Neerlandica, Critical monographs on families of Agarics and Boleti occurring in the Netherlands",
+    "volume": "5",
+    "publisher": "Family Agaricaceae. A.A. Balkema Publishers",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "23–62",
+    "publisher-place": "Rotterdam"
+  },
+  {
+    "author": [
+      {
+        "family": "Parra",
+        "given": "L.A."
+      }
+    ],
+    "title": "Contribution to the knowledge of genus Agaricus",
+    "volume": "Alassio",
+    "type": "article-journal",
+    "container-title": "Massimo Candusso",
+    "issued": "2003",
+    "page": "108"
+  },
+  {
+    "author": [
+      {
+        "family": "Parra",
+        "given": "L.A."
+      }
+    ],
+    "title": "Agaricus L. Allopsalliota Nauta & Bas. Part 1. Fungi Europaei 1",
+    "publisher": "Candusso Edizioni, Alassio",
+    "type": "book",
+    "issued": "2008",
+    "page": "824"
+  },
+  {
+    "author": [
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Allopsalliota",
+        "given": "Nauta"
+      },
+      {
+        "given": "Bas"
+      }
+    ],
+    "title": "Agaricus L",
+    "volume": "1A",
+    "type": "article-journal",
+    "container-title": "Fungi Europaei",
+    "issued": "2013",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Mua",
+        "given": "A."
+      },
+      {
+        "family": "Cappelli",
+        "given": "A."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Agaricus biannulatus sp. nov., a new species of the section Xanthodermatei collected in Sardinia and Sicily",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Micologia e Vegetazione Mediterranea",
+    "issue": "1",
+    "issued": "2011",
+    "page": "3–20"
+  },
+  {
+    "author": [
+      {
+        "family": "Patouillard",
+        "given": "N."
+      }
+    ],
+    "title": "Quelques champignons du Tonkin",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Mycologique Fran aise",
+    "issue": "2",
+    "issued": "1913",
+    "page": "206–228"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "Agaric flora of Sri Lanka",
+    "publisher": "Royal Botanic Gardens, Kew, London",
+    "type": "book",
+    "issued": "1986",
+    "page": "519"
+  },
+  {
+    "author": [
+      {
+        "family": "Petch",
+        "given": "T."
+      }
+    ],
+    "title": "Revisions of Ceylon Fungi V",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Annals of the Royal Botanic Gardens Peradeniya",
+    "issued": "1917",
+    "page": "307–355"
+  },
+  {
+    "author": [
+      {
+        "family": "Petch",
+        "given": "T."
+      }
+    ],
+    "title": "Additions to Ceylon Fungi. III",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Annals of the Royal Botanic Gardens Peradeniya",
+    "issued": "1925",
+    "page": "313–328"
+  },
+  {
+    "author": [
+      {
+        "family": "Pilát",
+        "given": "A."
+      }
+    ],
+    "title": "The Bohemian species of the genus Agaricus",
+    "volume": "7B (1",
+    "type": "article-journal",
+    "container-title": "Acta musei Nationalis Pragae",
+    "issued": "1951",
+    "page": "1–142"
+  },
+  {
+    "author": [
+      {
+        "family": "Rehner",
+        "given": "S.A."
+      },
+      {
+        "family": "Buckley",
+        "given": "E."
+      }
+    ],
+    "title": "A Beauveria phylogeny inferred from nuclear ITS and EF1-α sequences: evidence for cryptic diversification and links to Cordyceps teleomorphs",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2005",
+    "page": "84–98",
+    "URL": "http://dx.doi.org/10.3852/mycologia.97.1.84",
+    "DOI": "10.3852/mycologia.97.1.84"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayse 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "Diagnoses Fungorum Novorum Agaricalium",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Sydowia",
+    "issued": "1948",
+    "page": "26–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The Agaricales in modern taxonomy",
+    "edition": "4th",
+    "publisher": "Koeltz Scientific Books, Königstein",
+    "type": "book",
+    "issued": "1986",
+    "page": "981"
+  },
+  {
+    "author": [
+      {
+        "family": "Thongklang",
+        "given": "N."
+      },
+      {
+        "family": "Nawaz",
+        "given": "R."
+      },
+      {
+        "family": "Khalid",
+        "given": "A.N."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Hanif",
+        "given": "M."
+      },
+      {
+        "family": "Moinard",
+        "given": "M."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Morphological and molecular characterization of three Agaricus species from tropical Asia (Pakistan, Thailand) reveals a new group in section Xanthodermatei",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "6",
+    "issued": "2014",
+    "page": "1220–1232",
+    "URL": "http://dx.doi.org/10.3852/14-076",
+    "DOI": "10.3852/14-076"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several species of Cryptococcus",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "http://dx.doi.org/10.1111/j.1574-6968.1989.tb03617.x",
+    "DOI": "10.1111/j.1574-6968.1989.tb03617.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Z.R."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "J.L.",
+        "given": "Zhou"
+      },
+      {
+        "family": "Fu",
+        "given": "W.J."
+      },
+      {
+        "family": "Dui",
+        "given": "S.H."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      }
+    ],
+    "title": "Edible species of Agaricus (Agaricaceae) from Xinjiang Province (Western China",
+    "volume": "202",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "185–197",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.202.3.2",
+    "DOI": "10.11646/phytotaxa.202.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Burns",
+        "given": "T.L."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Application and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Genfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "J.T."
+      }
+    ],
+    "container-title": "PCR Protocols: A Guide to Methods and Application",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Type studies on agarics described by N. Patouillard (and his co-authors) from Vietnam",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2000",
+    "page": "431–476"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Desjardin",
+        "given": "D.E."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      },
+      {
+        "family": "Soytong",
+        "given": "K."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Two species of Agaricus sect",
+    "volume": "122",
+    "type": "article-journal",
+    "container-title": "Xanthodermatei from Thailand. Mycotaxon",
+    "issued": "2012",
+    "page": "187–195",
+    "URL": "http://dx.doi.org/10.5248/122.187",
+    "DOI": "10.5248/122.187"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S."
+      },
+      {
+        "family": "Raspé",
+        "given": "O."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      },
+      {
+        "family": "Moinard",
+        "given": "M."
+      },
+      {
+        "family": "Kesel",
+        "given": "A.D."
+      },
+      {
+        "family": "Barroso",
+        "given": "G."
+      },
+      {
+        "family": "Courtecuisse",
+        "given": "R."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Guelly",
+        "given": "A.K."
+      },
+      {
+        "family": "Desjardin",
+        "given": "D.E."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Major clades in tropical Agaricus",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2011",
+    "page": "279–296",
+    "URL": "http://dx.doi.org/10.1007/s13225-011-0136-7",
+    "DOI": "10.1007/s13225-011-0136-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Zhou",
+        "given": "J.L."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Margaritescu",
+        "given": "S."
+      },
+      {
+        "family": "Sánchez-Ramírez",
+        "given": "S."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Li",
+        "given": "G.J."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      }
+    ],
+    "title": "Towards standardizing taxonomic ranks using divergence times – a case study for reconstruction of the Agaricus taxonomic system. Fungal Diversity",
+    "note": "in press",
+    "type": null,
+    "issued": "2016"
+  }
+]

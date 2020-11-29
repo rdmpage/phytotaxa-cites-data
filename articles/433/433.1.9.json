@@ -1,0 +1,341 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Gramineae",
+    "editor": [
+      {
+        "family": "Flinders",
+        "given": "M."
+      }
+    ],
+    "publisher": "W. Bulmer & Co",
+    "type": "book",
+    "issued": "1814",
+    "page": "580–583",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.5962/bhl.title.106080",
+    "DOI": "10.5962/bhl.title.106080"
+  },
+  {
+    "author": [
+      {
+        "family": "Hackel",
+        "given": "E."
+      }
+    ],
+    "title": "Neue Grässer",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Oesterreichische Botanische Zeitschrift",
+    "issued": "1901",
+    "page": "426 467",
+    "URL": "https://doi.org/10.1007/BF01695459",
+    "DOI": "10.1007/BF01695459"
+  },
+  {
+    "author": [
+      {
+        "family": "Hochstetter",
+        "given": "C.F."
+      }
+    ],
+    "title": "Gramina nova Africana",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "1844",
+    "page": "241 254"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaufman",
+        "given": "S."
+      }
+    ],
+    "title": "Melinis repens (Natal redtop",
+    "note": "Oxon. Available from:",
+    "type": "article-journal",
+    "container-title": "Invasive species compendium. CAB International",
+    "issued": "2012",
+    "URL": "https://www.cabi.org/isc/datasheet/116730"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "A Natural System of Botany",
+    "edition": "2nd",
+    "publisher": "Longman & Soc., London",
+    "type": "book",
+    "issued": "1836",
+    "page": "526",
+    "URL": "https://doi.org/10.5962/bhl.title.130142",
+    "DOI": "10.5962/bhl.title.130142"
+  },
+  {
+    "author": [
+      {
+        "family": "Link",
+        "given": "J.H.F."
+      }
+    ],
+    "title": "Handbuch 1",
+    "publisher": "S.J. Joseephy",
+    "type": "book",
+    "issued": "1829",
+    "page": "864",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "literal": "Linnaeus filius, C."
+      }
+    ],
+    "title": "Supplementum plantarum systematis vegetabilium editionis decimae tertiae",
+    "publisher": "Impensis orphanotrophei, Brunsvigae [Braunschweig",
+    "type": "book",
+    "issued": "1782",
+    "page": "468",
+    "URL": "https://doi.org/10.5962/bhl.title.555",
+    "DOI": "10.5962/bhl.title.555"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Contributions à l’étude de la Flore de l’Afrique du Nord. Fascicule 25",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société d’Histoire Naturelle de l’Afrique du Nord",
+    "issued": "1937",
+    "page": "332 388"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Contributions à l’étude de la Flore de l’Afrique du Nord (Fascicule 26",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société d’Histoire Naturelle de l’Afrique du Nord",
+    "issued": "1938",
+    "page": "403 458"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Flore de l’Afrique du Nord 1",
+    "publisher": "P. Lechevalier, Paris",
+    "type": "book",
+    "issued": "1952",
+    "page": "366"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      },
+      {
+        "family": "Samuelsson",
+        "given": "G."
+      }
+    ],
+    "title": "Plantae maroccanae novae vel rariores",
+    "volume": "29A (11",
+    "type": "article-journal",
+    "container-title": "Arkiv för Botanik",
+    "issued": "1939",
+    "page": "1 30"
+  },
+  {
+    "author": [
+      {
+        "family": "Mez",
+        "given": "C."
+      }
+    ],
+    "title": "Gramineae Africanae",
+    "volume": "XIV",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1921",
+    "page": "185 201"
+  },
+  {
+    "author": [
+      {
+        "family": "Nees",
+        "given": "C.G.D."
+      }
+    ],
+    "title": "Index seminum, quae pro mutua commutatione offert hortus botanicus Vratislaviensis 1835",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Breslau",
+    "issued": "1835",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Beauvois",
+        "given": "A.M.F.J.",
+        "particle": "Palisot de"
+      }
+    ],
+    "title": "Essay d’une nouvelle agrostographie",
+    "publisher": "Imprimerie de Fain, Paris",
+    "type": "book",
+    "issued": "1812",
+    "page": "184",
+    "URL": "https://doi.org/10.5962/bhl.title.474",
+    "DOI": "10.5962/bhl.title.474"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultes",
+        "given": "J.A."
+      }
+    ],
+    "title": "Mantissa in volumen secundum. Systematis Vegetabilium Caroli a Linne",
+    "note": "Sumtibus J.G.",
+    "publisher": "Cottae, Stuttgardtiae",
+    "type": null,
+    "issued": "1824",
+    "page": "522",
+    "URL": "https://doi.org/10.5962/bhl.title.552",
+    "DOI": "10.5962/bhl.title.552"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "note": "Regnum Vegetabile 159].",
+    "publisher": "Koeltz Botanical Books, Glashütten",
+    "type": "chapter",
+    "issued": "2018",
+    "page": "254",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L.von"
+      }
+    ],
+    "title": "Species plantarum. Editio Quarta 1",
+    "publisher": "Impensis G.C. Nauk",
+    "type": "book",
+    "issued": "1797",
+    "page": "495",
+    "publisher-place": "Berolini [Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Zizka",
+        "given": "G."
+      }
+    ],
+    "title": "Revision der Melinideae Hitchcock (Poaceae, Panicoideae",
+    "volume": "138",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Botanica",
+    "issued": "1988",
+    "page": "1 149"
+  }
+]

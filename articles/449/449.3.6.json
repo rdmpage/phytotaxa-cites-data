@@ -1,0 +1,614 @@
+[
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "S."
+      }
+    ],
+    "title": "FastQC: A quality control tool for high throughput sequence data",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Browne",
+        "given": "P."
+      }
+    ],
+    "title": "The civil and natural history of Jamaica",
+    "type": null,
+    "issued": "1756",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bushnell",
+        "given": "B."
+      }
+    ],
+    "title": "BBMap",
+    "note": "Available from",
+    "type": null,
+    "issued": "2015",
+    "URL": "https://sourceforge.net/projects/bbmap/"
+  },
+  {
+    "author": [
+      {
+        "family": "Capella-Gutiérrez",
+        "given": "S."
+      },
+      {
+        "family": "Silla-Martínez",
+        "given": "J.M."
+      },
+      {
+        "family": "Gabaldón",
+        "given": "T."
+      }
+    ],
+    "title": "trimAl: A tool for automated alignment trimming in large-scale phylogenetic analyses",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2009",
+    "page": "1972–1973",
+    "URL": "https://doi.org/10.1093/bioinformatics/btp348",
+    "DOI": "10.1093/bioinformatics/btp348"
+  },
+  {
+    "author": [
+      {
+        "family": "Emche",
+        "given": "S.D."
+      },
+      {
+        "family": "Zhang",
+        "given": "D."
+      },
+      {
+        "family": "Islam",
+        "given": "M.B."
+      },
+      {
+        "family": "Bailey",
+        "given": "B.A."
+      },
+      {
+        "family": "Meinhardt",
+        "given": "L.W."
+      }
+    ],
+    "title": "AFLP phylogeny of 36 Erythroxylum species",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Tropical Plant Biology",
+    "issued": "2011",
+    "page": "126–133",
+    "URL": "https://doi.org/10.1007/s12042-011-9070-9",
+    "DOI": "10.1007/s12042-011-9070-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Glenn",
+        "given": "T.C."
+      },
+      {
+        "family": "Nilsen",
+        "given": "R."
+      },
+      {
+        "family": "Kieran",
+        "given": "T.J."
+      },
+      {
+        "family": "Finger",
+        "given": "J.W."
+      },
+      {
+        "family": "Pierson",
+        "given": "T.W."
+      },
+      {
+        "family": "Bentley",
+        "given": "K.E."
+      },
+      {
+        "family": "Hoffberg",
+        "given": "S."
+      },
+      {
+        "family": "Louha",
+        "given": "S."
+      },
+      {
+        "family": "Garcia-De-Leon",
+        "given": "F.J."
+      },
+      {
+        "family": "Rio Portilla",
+        "given": "M.",
+        "particle": "Angel del"
+      },
+      {
+        "family": "Reed",
+        "given": "K."
+      },
+      {
+        "family": "Anderson",
+        "given": "J.L."
+      },
+      {
+        "family": "Meece",
+        "given": "J.K."
+      },
+      {
+        "family": "Aggery",
+        "given": "S."
+      },
+      {
+        "family": "Rekaya",
+        "given": "R."
+      },
+      {
+        "family": "Alabady",
+        "given": "M."
+      },
+      {
+        "family": "Belanger",
+        "given": "M."
+      },
+      {
+        "family": "Winker",
+        "given": "K."
+      },
+      {
+        "family": "Faircloth",
+        "given": "B.C."
+      }
+    ],
+    "note": "Adapterama I: universal stubs and primers for thousands of dual-indexed Illumina libraries (iTru & iNext). bioRxiv 049114.",
+    "type": null,
+    "issued": "2016",
+    "URL": "https://doi.org/10.1101/049114",
+    "DOI": "10.1101/049114"
+  },
+  {
+    "author": [
+      {
+        "family": "Islam",
+        "given": "M.B."
+      }
+    ],
+    "title": "Tracing the evolutionary history of coca (Erythroxylum",
+    "publisher": "University of Colorado",
+    "type": "book",
+    "issued": "2011"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "M.G."
+      },
+      {
+        "family": "Gardner",
+        "given": "E.M."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      },
+      {
+        "family": "Medina",
+        "given": "R."
+      },
+      {
+        "family": "Goffinet",
+        "given": "B."
+      },
+      {
+        "family": "Shaw",
+        "given": "A.J."
+      },
+      {
+        "family": "Zerega",
+        "given": "N.J.C."
+      },
+      {
+        "family": "Wickett",
+        "given": "N.J."
+      }
+    ],
+    "title": "HybPiper: extracting coding sequence and introns for phylogenetics from high-throughput sequencing reads using target enrichment",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Applications in Plant Sciences",
+    "issued": "2016",
+    "page": "1600016",
+    "URL": "https://doi.org/10.3732/apps.1600016",
+    "DOI": "10.3732/apps.1600016"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Misawa",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2002",
+    "page": "3059–3066",
+    "URL": "https://doi.org/10.1093/nar/gkf436",
+    "DOI": "10.1093/nar/gkf436"
+  },
+  {
+    "author": [
+      {
+        "family": "Khanuja",
+        "given": "S.P.S."
+      },
+      {
+        "family": "Shasany",
+        "given": "A.K."
+      },
+      {
+        "family": "Darokar",
+        "given": "M.P."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "Rapid Isolation of DNA from Dry and Fresh Samples of Plants Producing Large Amounts of Secondary Metabolites and Essential Oils",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology Reporter",
+    "issued": "1999",
+    "page": "74–74",
+    "URL": "https://doi.org/10.1023/A:1007528101452",
+    "DOI": "10.1023/A:1007528101452"
+  },
+  {
+    "author": [
+      {
+        "family": "Loiola",
+        "given": "M.I.B."
+      },
+      {
+        "family": "Costa-Lima",
+        "given": "J.L."
+      }
+    ],
+    "title": "Erythroxylaceae",
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB7680"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.",
+        "particle": "von"
+      }
+    ],
+    "title": "Beiträge zur Kenntniss der Pflanzengattung Erythroxylon",
+    "container-title": "Abhandlungen der Mathematisch-Physikalischen Classe der Königlich Bayerischen Akademie der Wissenschaften",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1840",
+    "page": "281–412"
+  },
+  {
+    "author": [
+      {
+        "family": "Peyritsch",
+        "given": "J.J."
+      }
+    ],
+    "title": "Erythroxylaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.Flora Brasiliensis R.Oldenbourg",
+        "particle": "von"
+      },
+      {
+        "given": "Munich"
+      },
+      {
+        "given": "Leipzig"
+      }
+    ],
+    "type": null,
+    "issued": "1878",
+    "page": "125–180"
+  },
+  {
+    "author": [
+      {
+        "literal": "Pitman, N., Vriesendorp, C., Alvira, D., Markel, J.A., Johnston, M., Ruelas inzunza, E., Lancha Pizango, A., Sarmiento Valenzuela, G., Álvarez-Loayza, P., Homan, J., Wachter, T., del Campo, Á., Stotz, D.F."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Heilpern",
+        "given": "S."
+      }
+    ],
+    "volume": "26",
+    "publisher": "Cordillera Escalera-Loreto. The Field Museum",
+    "type": "article-journal",
+    "container-title": "Rapid Biological and Social Inventories Report",
+    "issued": "2014",
+    "publisher-place": "Perú"
+  },
+  {
+    "author": [
+      {
+        "family": "Plowman",
+        "given": "T."
+      }
+    ],
+    "title": "New taxa of Erythroxylum (Erythroxylaceae) from the Amazon basin",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Acta Amazonica",
+    "issued": "1984",
+    "page": "117–143",
+    "URL": "https://doi.org/10.1590/1809-43921984145143",
+    "DOI": "10.1590/1809-43921984145143"
+  },
+  {
+    "author": [
+      {
+        "family": "Plowman",
+        "given": "T."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      }
+    ],
+    "title": "Erythroxylaceae",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B."
+      },
+      {
+        "family": "Yatskievych",
+        "given": "K."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Missouri Botanical Garden Press, St. Louis",
+    "issued": "1999",
+    "page": "59–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Plowman",
+        "given": "T."
+      },
+      {
+        "family": "Hensold",
+        "given": "N."
+      }
+    ],
+    "title": "Names, types, and distribution of neotropical species of Erythroxylum (Erythroxylaceae",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2004",
+    "page": "1–53",
+    "URL": "https://doi.org/10.1663/0007-196X(2004)056",
+    "DOI": "10.1663/0007-196X(2004)056"
+  },
+  {
+    "author": [
+      {
+        "family": "Plowman",
+        "given": "T."
+      },
+      {
+        "family": "Rivier",
+        "given": "L."
+      }
+    ],
+    "title": "Cocaine and cinnamoylcocaine content of Erythroxylum species",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "1983",
+    "page": "641–659",
+    "URL": "https://doi.org/10.1093/oxfordjournals.aob.a086511",
+    "DOI": "10.1093/oxfordjournals.aob.a086511"
+  },
+  {
+    "author": [
+      {
+        "family": "Rury",
+        "given": "P.M."
+      }
+    ],
+    "title": "Systematic anatomy of the Erythroxylaceae",
+    "publisher": "University of North Carolina",
+    "type": "book",
+    "issued": "1982"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      }
+    ],
+    "title": "Erythroxylaceae",
+    "editor": [
+      {
+        "family": "Belin",
+        "given": "Flora Brasiliae Meridionalis Apud A."
+      },
+      {
+        "family": "Bibliopolam",
+        "given": "Via Dicta Des Mathurins S.-J."
+      }
+    ],
+    "type": null,
+    "issued": "1829",
+    "page": "92–101",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Schulz",
+        "given": "O.E."
+      }
+    ],
+    "title": "Erythroxylaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "type": "chapter",
+    "issued": "1907",
+    "page": "1–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML version 8: A tool for phylogenetic analysis and post-analysis of large phylogenies",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2014",
+    "page": "1312–1313",
+    "URL": "https://doi.org/10.1093/bioinformatics/btu033",
+    "DOI": "10.1093/bioinformatics/btu033"
+  },
+  {
+    "author": [
+      {
+        "family": "Tavaré",
+        "given": "S."
+      }
+    ],
+    "title": "Some probabilistic and statistical problems in the analysis of DNA sequences",
+    "container-title": "Lectures on Mathematics in the Life Sciences",
+    "volume": "7",
+    "type": "chapter",
+    "issued": "1986",
+    "page": "57–86"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A worldwide index of 3,100 herbaria and 12,000 associated staff where a total of 390 million botanical specimens are permanently housed",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "D.M."
+      },
+      {
+        "family": "Islam",
+        "given": "M.B."
+      },
+      {
+        "family": "Mason-Gamer",
+        "given": "R.J."
+      }
+    ],
+    "title": "Phylogenetic inference in section Archerythroxylum informs taxonomy, biogeography, and the domestication of coca (Erythroxylum species",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2019",
+    "page": "1–12",
+    "URL": "https://doi.org/10.1002/ajb2.1224",
+    "DOI": "10.1002/ajb2.1224"
+  },
+  {
+    "author": [
+      {
+        "literal": "Woodson Jr., R.E., Shery, R.W., D’Arcy, W.G. & Schanen, N."
+      }
+    ],
+    "title": "Flora of Panama. Part IV. Family 87. Erythroxylaceae",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1975",
+    "page": "21–33",
+    "URL": "https://doi.org/10.2307/2395047",
+    "DOI": "10.2307/2395047"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Z."
+      }
+    ],
+    "title": "Maximum-likelihood estimation of phylogeny from DNA sequences when substitution rates differ over sites",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1993",
+    "page": "1396–401",
+    "URL": "https://doi.org/10.1093/oxfordjournals.molbev.a040082",
+    "DOI": "10.1093/oxfordjournals.molbev.a040082"
+  }
+]

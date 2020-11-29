@@ -1,0 +1,683 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aitchson",
+        "given": "J.E.T."
+      }
+    ],
+    "title": "The plants of Punjab and Sindh",
+    "publisher": "The American mission press",
+    "type": "book",
+    "issued": "1869",
+    "page": "50",
+    "publisher-place": "Loodiana, Punjab, India"
+  },
+  {
+    "author": [
+      {
+        "family": "Almeida",
+        "given": "M.R."
+      }
+    ],
+    "title": "Flora of Maharashtra",
+    "publisher": "Orient Press",
+    "type": "book",
+    "issued": "1998",
+    "page": "31–48",
+    "publisher-place": "Mumbai"
+  },
+  {
+    "author": [
+      {
+        "family": "Alston",
+        "given": "A.H.G."
+      },
+      {
+        "given": "Dulau"
+      },
+      {
+        "family": "Co.",
+        "given": "Ltd"
+      }
+    ],
+    "title": "A handbook to the Flora of Ceylon",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "W. I London",
+    "issue": "suppl.",
+    "issued": "1931",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ansari",
+        "given": "A.A."
+      }
+    ],
+    "title": "Crotalaria L",
+    "editor": [
+      {
+        "family": "Singh",
+        "given": "India Bishen Singh Mahendra Pal"
+      },
+      {
+        "given": "Deharadun"
+      }
+    ],
+    "type": null,
+    "issued": "2008",
+    "page": "376"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "Leguminosae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "container-title": "The Flora of British India",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1876",
+    "page": "67",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Enumeration of Leguminosae indigenous to Southern Asia and Central and Southern Africa",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "London Journal of Botany",
+    "issued": "1843",
+    "page": "423–482"
+  },
+  {
+    "author": [
+      {
+        "family": "Boatwright",
+        "given": "J.S."
+      },
+      {
+        "family": "Roux",
+        "given": "M.M.",
+        "particle": "le"
+      },
+      {
+        "family": "Wink",
+        "given": "M."
+      },
+      {
+        "family": "Morozova",
+        "given": "T."
+      },
+      {
+        "family": "Wyk",
+        "given": "B.E.",
+        "particle": "van"
+      }
+    ],
+    "title": "Phylogenetic relationships of tribe Crotalarieae (Fabaceae) inferred from DNA sequences and morphology",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "4",
+    "issued": "2008",
+    "page": "752–761",
+    "URL": "https://doi.org/10.1600/036364408786500271",
+    "DOI": "10.1600/036364408786500271"
+  },
+  {
+    "author": [
+      {
+        "family": "Boatwright",
+        "given": "J.S."
+      },
+      {
+        "family": "Wink",
+        "given": "M."
+      },
+      {
+        "family": "Wyk",
+        "given": "B.E.",
+        "particle": "van"
+      }
+    ],
+    "title": "The generic concept of Lotononis (Crotalarieae, Fabaceae): Reinstatement of the genera Euchlora, Leobordea and Listia and the new genus Ezoloba",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "1",
+    "issued": "2011",
+    "page": "161–177",
+    "URL": "https://doi.org/10.1002/tax.601014",
+    "DOI": "10.1002/tax.601014"
+  },
+  {
+    "author": [
+      {
+        "family": "Dalzell",
+        "given": "N.A."
+      }
+    ],
+    "title": "The Bombay Flora",
+    "publisher": "Education Society’s Press",
+    "type": "book",
+    "issued": "1861",
+    "page": "196",
+    "publisher-place": "Byculla, Bombay"
+  },
+  {
+    "author": [
+      {
+        "literal": "Danda, S., Subramaniam, S., Rather, S.A. &, Pandey, A.K."
+      }
+    ],
+    "title": "A New Species of Crotalaria (Fabaceae, Crotalarieae) from Meghalaya, India",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "2",
+    "issued": "2016",
+    "page": "307–315",
+    "URL": "https://doi.org/10.1600/036364416X691894",
+    "DOI": "10.1600/036364416X691894"
+  },
+  {
+    "author": [
+      {
+        "family": "Herbarium",
+        "given": "J.C.B."
+      }
+    ],
+    "title": "Flora of Peninsular India",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://flora-peninsula-indica.ces.iisc.ac.in/"
+  },
+  {
+    "author": [
+      {
+        "family": "Hutchinson",
+        "given": "J."
+      }
+    ],
+    "title": "The Genera of flowering plant",
+    "volume": "1",
+    "publisher": "Oxford University Press",
+    "type": "book",
+    "issued": "1964",
+    "page": "364–365"
+  },
+  {
+    "author": [
+      {
+        "family": "Gholave",
+        "given": "A.R."
+      },
+      {
+        "family": "Mane",
+        "given": "R.N."
+      },
+      {
+        "family": "Gore",
+        "given": "R.D."
+      },
+      {
+        "family": "Kambale",
+        "given": "S.S."
+      },
+      {
+        "family": "Gaikwad",
+        "given": "S.P."
+      }
+    ],
+    "title": "Crotalaria kanchiana (Fabaceae), a new species from Balaghat Ranges of Maharashtra, India",
+    "volume": "409",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2019",
+    "page": "233–238",
+    "URL": "https://doi.org/10.11646/phytotaxa.409.4.6",
+    "DOI": "10.11646/phytotaxa.409.4.6"
+  },
+  {
+    "author": [
+      {
+        "given": "I.L.D.I.S."
+      }
+    ],
+    "title": "International Legume Database Information Service",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.legumes-online.net/ildis/aweb/database.htm#"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "note": "IUCN, Species Survival Commission, Gland. Available from",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.iucnredlist.org"
+  },
+  {
+    "author": [
+      {
+        "given": "Jstor"
+      }
+    ],
+    "title": "Jstor Global Plants, Ithaka",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://plants.jstor.org/"
+  },
+  {
+    "author": [
+      {
+        "given": "Kew"
+      }
+    ],
+    "title": "Kew Herbarium Catalogue, Kew gardens Available from",
+    "note": "accessed 25December 2019",
+    "type": null,
+    "issued": "2018",
+    "URL": "http://apps.kew.org/herbcat/navigator.do"
+  },
+  {
+    "author": [
+      {
+        "family": "Krishnaraj",
+        "given": "M.V."
+      },
+      {
+        "family": "Tandeyekkal",
+        "given": "D."
+      },
+      {
+        "family": "Mohanan",
+        "given": "N."
+      }
+    ],
+    "title": "Crotalaria trichotoma (Fabaceae: Crotalarieae) - A new record to peninsular India",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Indian Journal of Forestry",
+    "issue": "3",
+    "issued": "2013",
+    "page": "409–410"
+  },
+  {
+    "author": [
+      {
+        "family": "Law",
+        "given": "Y.W."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Icones Plantarum Indiae Orientalis",
+    "volume": "Madras",
+    "type": "article-journal",
+    "container-title": "J.B. Pharoah for the author",
+    "issued": "1839",
+    "page": "250"
+  },
+  {
+    "author": [
+      {
+        "family": "Le Roux",
+        "given": "M.M."
+      },
+      {
+        "family": "Boatwright",
+        "given": "J.S."
+      },
+      {
+        "family": "Van Wyk",
+        "given": "B.E."
+      }
+    ],
+    "title": "A global infrageneric classification system for the genus Crotalaria (Leguminosae) based on molecular and morphological evidence",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2013",
+    "page": "957–971",
+    "URL": "https://doi.org/10.12705/625.1",
+    "DOI": "10.12705/625.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "An Introduction to the Natural System of Botany",
+    "publisher": "Longman Ress, Orme Brown, Green and Longman Paternoster Row: London",
+    "type": "book",
+    "issued": "1836",
+    "page": "148"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "Cv"
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "publisher": "Impensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "714–716"
+  },
+  {
+    "title": "Plants of the World, Kew Science",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://www.plantsoftheworldonline.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Rao",
+        "given": "R.R."
+      },
+      {
+        "family": "Sharma",
+        "given": "B.D."
+      }
+    ],
+    "title": "A Manual for Herbarium Collection",
+    "container-title": "Botanical Survey of India Calcutta",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "184"
+  },
+  {
+    "author": [
+      {
+        "family": "Rather",
+        "given": "S.A."
+      },
+      {
+        "family": "Subramaniam",
+        "given": "S."
+      },
+      {
+        "family": "Danda",
+        "given": "S."
+      },
+      {
+        "family": "Pandey",
+        "given": "A.K."
+      }
+    ],
+    "title": "Discovery of two new species of Crotalaria (Leguminosae, Crotalarieae) from Western Ghats",
+    "volume": "One13 (2",
+    "type": "article-journal",
+    "container-title": "India Plos",
+    "issued": "2018",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1371/journal.pone.0192226",
+    "DOI": "10.1371/journal.pone.0192226"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Observationes Botanicae",
+    "volume": "4",
+    "note": "Lipsiae (Leipzig): Siegfried Lebrechet Crusium, 1791 (i.e., 1779-1791),",
+    "type": null,
+    "issued": "1786",
+    "page": "29"
+  },
+  {
+    "author": [
+      {
+        "family": "Rokade",
+        "given": "K."
+      },
+      {
+        "family": "Dalavi",
+        "given": "J.V."
+      },
+      {
+        "family": "Gaikwad",
+        "given": "N."
+      },
+      {
+        "family": "Yadav",
+        "given": "S."
+      }
+    ],
+    "title": "A new variety of Crotalaria prostrata Roxb. (Fabaceae) from the Northern Western Ghats, India",
+    "volume": "414",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2019",
+    "page": "35–40",
+    "URL": "https://doi.org/10.11646/phytotaxa.414.1.4",
+    "DOI": "10.11646/phytotaxa.414.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "A.W."
+      }
+    ],
+    "title": "Novae Plantarum Species",
+    "publisher": "Sumptibus H. Vogleri",
+    "type": "book",
+    "issued": "1821",
+    "page": "338",
+    "publisher-place": "Halberstadii"
+  },
+  {
+    "author": [
+      {
+        "family": "Rudd",
+        "given": "V.E."
+      }
+    ],
+    "title": "Reduction of The Genus Goniogyna to Crotalaria (Leguminosae",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issue": "1",
+    "issued": "1983",
+    "page": "26–28",
+    "URL": "https://doi.org/10.5962/bhl.part.14415",
+    "DOI": "10.5962/bhl.part.14415"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "Legumes of India",
+    "publisher": "Bishen Singh Mahendra Pal Singh Deharadun",
+    "type": "book",
+    "issued": "2010",
+    "page": "132"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "N.P."
+      },
+      {
+        "family": "Karthikeyan",
+        "given": "S."
+      }
+    ],
+    "title": "Flora of Maharashtra",
+    "volume": "1",
+    "publisher": "Botanical Survey of India",
+    "type": "book",
+    "issued": "2000",
+    "page": "193–195",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Subramaniam",
+        "given": "S."
+      },
+      {
+        "family": "Pandey",
+        "given": "A.K."
+      },
+      {
+        "family": "Rather",
+        "given": "S.A."
+      }
+    ],
+    "title": "A revised circumscription of the species in Bracteatae complex (section Calycinae) in the genus Crotalaria, Evidence from nuclear and chloroplast markers",
+    "volume": "301",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2015",
+    "page": "2261–2290",
+    "URL": "https://doi.org/10.1007/s00606-015-1228-8",
+    "DOI": "10.1007/s00606-015-1228-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Subramaniam",
+        "given": "S."
+      },
+      {
+        "family": "Pandey",
+        "given": "A.K."
+      },
+      {
+        "family": "Geeta",
+        "given": "R."
+      },
+      {
+        "family": "Mort",
+        "given": "M.E."
+      }
+    ],
+    "title": "Molecular systematics of Indian Crotalaria (Fabaceae) based on analysis of nuclear ribosomal ITS DNA sequences",
+    "volume": "299",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2013",
+    "page": "1089–1106",
+    "URL": "https://doi.org/10.1007/s00606-013-0781-2",
+    "DOI": "10.1007/s00606-013-0781-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Yaradua",
+        "given": "S.S."
+      }
+    ],
+    "title": "A review of the genus Crotalaria L",
+    "note": "Crotalarieae, Fabaceae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "International Journal of Scientific and Research Publications",
+    "issue": "6",
+    "issued": "2018",
+    "page": "316–321",
+    "URL": "https://doi.org/10.29322/IJSRP.8.6.2018.p7841",
+    "DOI": "10.29322/IJSRP.8.6.2018.p7841"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Prodromus Florae Peninsulae Indiae Orientalis vol.1",
+    "publisher": "Parbury, Allen & Co",
+    "type": "book",
+    "issued": "1834",
+    "page": "181–192",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "CLv"
+      }
+    ],
+    "title": "Enumeratio Plantarum Horti Botanici Berolinensis",
+    "volume": "2",
+    "container-title": "Taberna Libraria Scholae Realis: Berolini",
+    "type": "chapter",
+    "issued": "1809",
+    "page": "747"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "CLv"
+      }
+    ],
+    "title": "Der Gesellsschaft Naturforschender Freunde zu Berlin, neue Schriften",
+    "publisher": "Auf Kosten Der Gesellschaft",
+    "type": "book",
+    "issued": "1803",
+    "page": "217",
+    "publisher-place": "Berlin"
+  }
+]

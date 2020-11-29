@@ -1,0 +1,356 @@
+[
+  {
+    "author": [
+      {
+        "family": "Amorim",
+        "given": "A.M."
+      },
+      {
+        "family": "Maurenza",
+        "given": "D."
+      },
+      {
+        "family": "Barros",
+        "given": "F.S.M."
+      }
+    ],
+    "title": "Chrysobalanaceae",
+    "editor": [
+      {
+        "family": "Martinelli",
+        "given": "G."
+      },
+      {
+        "family": "Moraes",
+        "given": "M.A."
+      }
+    ],
+    "container-title": "Livro Vermelho da Flora do Brasil. Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Rio de Janeiro",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "1100"
+  },
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      }
+    ],
+    "title": "Histoire des plantes de la Guiane Françoise",
+    "genre": "Didot,",
+    "publisher": "London & Paris",
+    "type": null,
+    "issued": "1775",
+    "page": "976"
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "B",
+        "given": "Scott"
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "http://dx.doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Bardon",
+        "given": "L."
+      },
+      {
+        "family": "Chamagne",
+        "given": "J."
+      },
+      {
+        "family": "Dexter",
+        "given": "K.G."
+      },
+      {
+        "family": "Sothers",
+        "given": "C.A."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      },
+      {
+        "family": "Chave",
+        "given": "J."
+      }
+    ],
+    "title": "Origin and evolution of Chrysobalanaceae: insights into the evolution of plants in the Neotropics",
+    "volume": "171",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2013",
+    "page": "19–37",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2012.01289.x",
+    "DOI": "10.1111/j.1095-8339.2012.01289.x"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Rosaceae. Chrysobalaneae",
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1825",
+    "page": "644"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Prance",
+        "given": "G.T."
+      }
+    ],
+    "title": "Chrysobalanaceae",
+    "editor": [
+      {
+        "family": "Irwin",
+        "given": "H.S."
+      }
+    ],
+    "container-title": "Flora Neotropica Monograph 9",
+    "publisher": "Hafner Publishing Company",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "410",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Prance",
+        "given": "G.T."
+      }
+    ],
+    "title": "The taxonomy and phytogeography of the Chrysobalanaceae of the Atlantic coastal forests of Brazil",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Revista Brasileira de Botânica",
+    "issue": "1",
+    "issued": "1979",
+    "page": "19–39"
+  },
+  {
+    "author": [
+      {
+        "family": "Prance",
+        "given": "G.T."
+      }
+    ],
+    "title": "Chrysobalanaceae",
+    "editor": [
+      {
+        "family": "Hammond",
+        "given": "H.D."
+      },
+      {
+        "family": "Lebrón-Luteyn",
+        "given": "M.L."
+      }
+    ],
+    "container-title": "Flora Neotropica Monograph 9S. The New York Botanical Garden",
+    "type": "chapter",
+    "issued": "1989",
+    "page": "267",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Prance",
+        "given": "G.T."
+      },
+      {
+        "family": "Sothers",
+        "given": "C.A."
+      }
+    ],
+    "title": "Chrysobalanaceae 2, Acioa to Magnistipula",
+    "editor": [
+      {
+        "family": "Orchard",
+        "given": "A.E."
+      },
+      {
+        "family": "Wilson",
+        "given": "A.J.G."
+      }
+    ],
+    "volume": "Canberra",
+    "type": "article-journal",
+    "container-title": "Australian Biological Resources Study",
+    "issued": "2003",
+    "page": "268"
+  },
+  {
+    "author": [
+      {
+        "family": "Prance",
+        "given": "G.T."
+      },
+      {
+        "family": "White",
+        "given": "F."
+      }
+    ],
+    "title": "The genera of Chrysobalanaceae: A study in practical and theoretical taxonomy and its relevance to evolutionary biology",
+    "volume": "B320",
+    "type": "article-journal",
+    "container-title": "Philosophical Transactions of the Royal Society",
+    "issued": "1988",
+    "page": "1–184",
+    "URL": "http://dx.doi.org/10.1098/rstb.1988.0071",
+    "DOI": "10.1098/rstb.1988.0071"
+  },
+  {
+    "author": [
+      {
+        "family": "Sothers",
+        "given": "C.A."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      },
+      {
+        "family": "Buerki",
+        "given": "S."
+      },
+      {
+        "family": "Kok",
+        "given": "R.",
+        "particle": "de"
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Taxonomic Novelties in Neotropical Chrysobalanaceae: towards a monophyletic Couepia",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2014",
+    "page": "176–200",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.172.3.2",
+    "DOI": "10.11646/phytotaxa.172.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Sothers",
+        "given": "C.A."
+      },
+      {
+        "family": "Alves",
+        "given": "F.M."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      }
+    ],
+    "title": "Chrysobalanaceae in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB16788"
+  },
+  {
+    "author": [
+      {
+        "family": "Yakandawala",
+        "given": "D."
+      },
+      {
+        "family": "Morton",
+        "given": "C.M."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      }
+    ],
+    "title": "Phylogenetic relationships of the Chrysobalanaceae inferred from chloroplast, nuclear and morphological data",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "2010",
+    "page": "259–281",
+    "URL": "http://dx.doi.org/10.3417/2007175",
+    "DOI": "10.3417/2007175"
+  }
+]

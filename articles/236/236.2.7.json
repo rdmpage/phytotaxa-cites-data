@@ -1,0 +1,406 @@
+[
+  {
+    "author": [
+      {
+        "family": "Baumgratz",
+        "given": "J.F.A."
+      },
+      {
+        "family": "Coelho",
+        "given": "M.A.N."
+      },
+      {
+        "family": "Peixoto",
+        "given": "A.L."
+      },
+      {
+        "family": "Mynssen",
+        "given": "C.M."
+      },
+      {
+        "family": "Bediaga",
+        "given": "B.E.H."
+      },
+      {
+        "family": "Costa",
+        "given": "D.P."
+      },
+      {
+        "family": "Dalcin",
+        "given": "E."
+      },
+      {
+        "family": "Guimarães",
+        "given": "E.F."
+      },
+      {
+        "family": "Martinell",
+        "given": "G."
+      },
+      {
+        "family": "Silva",
+        "given": "D.S.P."
+      },
+      {
+        "family": "Sylvestre",
+        "given": "L.S."
+      },
+      {
+        "family": "Freitas",
+        "given": "M.F."
+      },
+      {
+        "family": "Morim",
+        "given": "M.P."
+      },
+      {
+        "family": "Forzza",
+        "given": "R.C."
+      }
+    ],
+    "title": "Catálogo das Espécies de Plantas Vasculares e Briófitas do Estado do Rio de Janeiro",
+    "note": "Instituto de Pesquisas Jardim Botânico do Rio de Janeiro. Available form:",
+    "type": null,
+    "issued": "2013",
+    "URL": "http://florariojaneiro.jbrj.gov.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Genera Plantarum ad exemplaria imprimis in herbariis Kewensibus 2",
+    "publisher": "Reeve & Co., Williams & Norgate",
+    "type": "book",
+    "issued": "1876",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Bremekamp",
+        "given": "C.E.B."
+      }
+    ],
+    "title": "Delimitation and subdivision of the Acanthaceae",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Botanical Survey of India",
+    "issued": "1965",
+    "page": "21–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Côrtes",
+        "given": "A.L.A."
+      },
+      {
+        "family": "Rapini",
+        "given": "A."
+      }
+    ],
+    "title": "Four new species of Justicia (Acanthaceae) from the Caatinga biome of Bahia, Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "3",
+    "issued": "2011",
+    "page": "453–461",
+    "URL": "http://dx.doi.org/10.1007/s12225-011-9295-7",
+    "DOI": "10.1007/s12225-011-9295-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Cysneiros",
+        "given": "V.C."
+      },
+      {
+        "family": "Oliveira Junior",
+        "given": "J.M."
+      },
+      {
+        "family": "Gaui",
+        "given": "T.D."
+      },
+      {
+        "family": "Braz",
+        "given": "D.M."
+      }
+    ],
+    "title": "Diversity, community structure and conservation status of an Atlantic Forest fragment in Rio de Janeiro State, Brazil",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Biota Neotropica",
+    "issue": "2",
+    "issued": "2015",
+    "page": "1–15",
+    "URL": "http://dx.doi.org/10.1590/1676-060320150132",
+    "DOI": "10.1590/1676-060320150132"
+  },
+  {
+    "author": [
+      {
+        "family": "Ezcurra",
+        "given": "C."
+      }
+    ],
+    "title": "El género Justicia (Acanthaceae) en Sudamérica Austral",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "2002",
+    "page": "225–280",
+    "URL": "http://dx.doi.org/10.2307/3298565",
+    "DOI": "10.2307/3298565"
+  },
+  {
+    "author": [
+      {
+        "family": "Figueiredo",
+        "given": "D.V."
+      }
+    ],
+    "title": "Interação microrganismo, solo e flora como condutores de biodiversidade na Mata Atlântica",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Acta botanica brasilica",
+    "issued": "2012",
+    "page": "857–865",
+    "publisher-place": "Fraga, M.E., Braz, D.M., Rocha, J.F., Pereira, M.G",
+    "URL": "http://dx.doi.org/10.1590/S0102-33062012000400015",
+    "DOI": "10.1590/S0102-33062012000400015"
+  },
+  {
+    "author": [
+      {
+        "family": "Graham",
+        "given": "V.A.W."
+      }
+    ],
+    "title": "Delimitation and infra-generic classification of Justicia (Acanthaceae",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1988",
+    "page": "551–624",
+    "URL": "http://dx.doi.org/10.2307/4129957",
+    "DOI": "10.2307/4129957"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories: version 3.1. Prepared by the IUCN Species Survival Commission",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Impensis Laurentii Salvii, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "McDade",
+        "given": "L.A."
+      },
+      {
+        "family": "Daniel",
+        "given": "T.F."
+      },
+      {
+        "family": "Kiel",
+        "given": "C.A."
+      }
+    ],
+    "title": "Toward a comprehensive understanding of phylogenetic relationships among lineages of Acanthaceae s.l",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Lamiales). American Journal of Botany",
+    "issue": "9",
+    "issued": "2008",
+    "page": "1136–1152",
+    "URL": "http://dx.doi.org/10.3732/ajb.0800096",
+    "DOI": "10.3732/ajb.0800096"
+  },
+  {
+    "author": [
+      {
+        "family": "Profice",
+        "given": "S.R."
+      },
+      {
+        "family": "Kameyama",
+        "given": "C."
+      },
+      {
+        "family": "Côrtes",
+        "given": "A.L.A."
+      },
+      {
+        "family": "Braz",
+        "given": "D.M."
+      },
+      {
+        "family": "Indriunas",
+        "given": "A."
+      },
+      {
+        "family": "Vilar",
+        "given": "T."
+      },
+      {
+        "family": "Pessoa",
+        "given": "C."
+      },
+      {
+        "family": "Ezcurra",
+        "given": "C."
+      },
+      {
+        "family": "Wasshausen",
+        "given": "D."
+      }
+    ],
+    "title": "Acanthaceae in Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB4137"
+  },
+  {
+    "author": [
+      {
+        "family": "Scotland",
+        "given": "R.W."
+      },
+      {
+        "family": "Vollensen",
+        "given": "K."
+      }
+    ],
+    "title": "Classification of Acanthaceae",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2000",
+    "page": "513–589",
+    "URL": "http://dx.doi.org/10.2307/4118776",
+    "DOI": "10.2307/4118776"
+  },
+  {
+    "author": [
+      {
+        "family": "Stehmann",
+        "given": "J.R."
+      },
+      {
+        "family": "Forzza",
+        "given": "R.C."
+      },
+      {
+        "family": "Salino",
+        "given": "A."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Costa",
+        "given": "D.P.E."
+      },
+      {
+        "given": "Kamino"
+      }
+    ],
+    "title": "L.H.Y",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "Instituto de Pesquisa Jardim Botânico do Rio de Janeiro, Rio de Janeiro",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "516"
+  },
+  {
+    "author": [
+      {
+        "family": "Tabarelli",
+        "given": "M."
+      },
+      {
+        "family": "Pinto",
+        "given": "L.P."
+      },
+      {
+        "family": "Silva",
+        "given": "J.M.C."
+      },
+      {
+        "family": "Hirota",
+        "given": "M.M."
+      },
+      {
+        "family": "Bedê",
+        "given": "L.C."
+      }
+    ],
+    "title": "Desafios e oportunidades para a conservação da biodiversidade na Mata Atlântica brasileira",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Megadiversidade",
+    "issued": "2005",
+    "page": "132–138"
+  },
+  {
+    "author": [
+      {
+        "family": "Wasshausen",
+        "given": "D.C."
+      },
+      {
+        "family": "Wood",
+        "given": "J.R.I."
+      }
+    ],
+    "title": "Notes on the genus Justicia in Bolivia",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2003",
+    "page": "769–831",
+    "URL": "http://dx.doi.org/10.2307/4111199",
+    "DOI": "10.2307/4111199"
+  },
+  {
+    "type": null,
+    "page": "–"
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Prodromus Florae Nepalensis",
+    "type": "article-journal",
+    "container-title": "J. Gale, London",
+    "issued": "1825",
+    "page": "256"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.L."
+      },
+      {
+        "family": "Rabeler",
+        "given": "R.K."
+      }
+    ],
+    "title": "Stellaria L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "6",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "11–29",
+    "publisher-place": "Beijing, China"
+  },
+  {
+    "author": [
+      {
+        "family": "Greenberg",
+        "given": "A.K."
+      },
+      {
+        "family": "Donoghue",
+        "given": "M.J."
+      }
+    ],
+    "title": "Molecular systematics and character evolution in Caryophyllaceae",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2011",
+    "page": "1637–1652",
+    "URL": "https://doi.org/10.1002/tax.606009",
+    "DOI": "10.1002/tax.606009"
+  },
+  {
+    "author": [
+      {
+        "family": "Handel-Mazzetti",
+        "given": "H."
+      }
+    ],
+    "title": "Symbolae sinicae",
+    "container-title": "Botanische Ergebnisse der Expedition der Akademie der Wissenschaften in Wien nach Südwest-China 1914–1918",
+    "volume": "7",
+    "publisher": "Springer, Vienna",
+    "type": "chapter",
+    "issued": "1929",
+    "page": "730"
+  },
+  {
+    "author": [
+      {
+        "family": "Hernández-Ledesma",
+        "given": "P."
+      },
+      {
+        "family": "Berendsohn",
+        "given": "W.G."
+      },
+      {
+        "family": "Borsch",
+        "given": "T."
+      },
+      {
+        "family": "Mering",
+        "given": "S.",
+        "particle": "von"
+      },
+      {
+        "family": "Akhani",
+        "given": "H."
+      },
+      {
+        "family": "Arias",
+        "given": "S."
+      },
+      {
+        "family": "Castañeda-Noa",
+        "given": "I."
+      },
+      {
+        "family": "Eggli",
+        "given": "U."
+      },
+      {
+        "family": "Eriksson",
+        "given": "R."
+      },
+      {
+        "family": "Flores-Olvera",
+        "given": "H."
+      },
+      {
+        "family": "Fuentes-Bazán",
+        "given": "S."
+      },
+      {
+        "family": "Kadereit",
+        "given": "G."
+      },
+      {
+        "family": "Klak",
+        "given": "C."
+      },
+      {
+        "family": "Korotkova",
+        "given": "N."
+      },
+      {
+        "family": "Nyffeler",
+        "given": "R."
+      },
+      {
+        "family": "Ocampo",
+        "given": "G."
+      },
+      {
+        "family": "Ochoterena",
+        "given": "H."
+      },
+      {
+        "family": "Oxelman",
+        "given": "B."
+      },
+      {
+        "family": "Rabeler",
+        "given": "R.K."
+      },
+      {
+        "family": "Sánchez",
+        "given": "A."
+      },
+      {
+        "family": "Schlumpberger",
+        "given": "B.O."
+      },
+      {
+        "family": "Uotila",
+        "given": "P."
+      }
+    ],
+    "title": "A taxonomic backbone for the global synthesis of species diversity in the angiosperm order Caryophyllales",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2015",
+    "page": "281–383",
+    "URL": "https://doi.org/10.3372/wi.45.45301",
+    "DOI": "10.3372/wi.45.45301"
+  },
+  {
+    "author": [
+      {
+        "family": "Ke",
+        "given": "P."
+      }
+    ],
+    "title": "Materials on the genus Stellaria L. in China",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1985",
+    "page": "69–82"
+  },
+  {
+    "author": [
+      {
+        "family": "Kurz",
+        "given": "S."
+      }
+    ],
+    "title": "On a few new plants from Yunnan",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Journal of Botany",
+    "issued": "1873",
+    "page": "193–196"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Observations on the Flora of Japan",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1901",
+    "page": "102–114",
+    "URL": "https://doi.org/10.15281/jplantres1887.15.174_102",
+    "DOI": "10.15281/jplantres1887.15.174_102"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F.A."
+      }
+    ],
+    "title": "Die Natürlichen Pflanzenfamilien",
+    "publisher": "W. Engelmann, Leipzig",
+    "type": "book",
+    "issued": "1934",
+    "page": "318"
+  },
+  {
+    "author": [
+      {
+        "family": "Popov",
+        "given": "M.G."
+      }
+    ],
+    "title": "Stellaria L",
+    "editor": [
+      {
+        "family": "Komarov",
+        "given": "V.L."
+      },
+      {
+        "family": "Shishkin",
+        "given": "B.K."
+      }
+    ],
+    "container-title": "Flora URSS (Flora of the U.S.S.R",
+    "volume": "6",
+    "type": "chapter",
+    "issued": "1936",
+    "page": "389–426"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: a global directory of public herbaria and associated staff",
+    "publisher": "New York Botanical Garden’s Virtual Herbarium",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "publisher-place": "New York",
+    "URL": "http://sweetgum.nybg.org/ih"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Enumeratio Plantarum Horti Regii Botanici Berolinensis",
+    "type": "article-journal",
+    "container-title": "Libraria scholae realis, Berlini [Berlin",
+    "issued": "1809",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Caryophyllaceae In: Institutum Botanicun Kunmingense Academiae Sinicae Edita. Index Florae Yunnnanensis, Tomus1",
+    "publisher": "Yunnan People’s Publishing House",
+    "type": "book",
+    "issued": "1984",
+    "page": "248–264",
+    "publisher-place": "Kunming"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Some problems on the taxonomy of Chinese Stellaria",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1991",
+    "page": "351–368"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Stellaria L",
+    "editor": [
+      {
+        "family": "Yunnanica",
+        "given": "Institutum Botanicun Kunmingense Academiae Sinicae Flora"
+      },
+      {
+        "given": "Tom"
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1995",
+    "page": "6",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Ke",
+        "given": "P."
+      }
+    ],
+    "title": "Stellaria L",
+    "editor": [
+      {
+        "family": "Tang",
+        "given": "C.L."
+      },
+      {
+        "family": "Ke",
+        "given": "P."
+      },
+      {
+        "family": "Lu",
+        "given": "D.Q."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.H."
+      },
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae, Tomus 26",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1996",
+    "page": "93–158",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Lu",
+        "given": "A.M."
+      },
+      {
+        "family": "Tang",
+        "given": "Y.C."
+      },
+      {
+        "family": "Chen",
+        "given": "Z.D."
+      },
+      {
+        "family": "Li",
+        "given": "D.Z."
+      }
+    ],
+    "title": "The Families and Genera of Angiosperms in China",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2003",
+    "page": "162",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "L.H."
+      }
+    ],
+    "title": "Stellaria L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "container-title": "Flora Xizangica",
+    "volume": "1",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1983",
+    "page": "689–704",
+    "publisher-place": "Beijing"
+  }
+]

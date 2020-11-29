@@ -1,0 +1,645 @@
+[
+  {
+    "author": [
+      {
+        "family": "Arvet-Touvet",
+        "given": "C."
+      }
+    ],
+    "title": "Essai de classification sur les genres Pilosella & Hieracium",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Dauphinoise pour l’Échange des Plantes",
+    "issued": "1880",
+    "page": "278–292"
+  },
+  {
+    "author": [
+      {
+        "family": "Arvet-Touvet",
+        "given": "C."
+      }
+    ],
+    "title": "Hieraciorum praesertim Galliae et Hispaniae Catalogus Systematicus",
+    "publisher": "Librairie des Sciences Naturelles Paul Klincksieck",
+    "type": "book",
+    "issued": "1913",
+    "page": "480",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Belli",
+        "given": "S."
+      }
+    ],
+    "title": "Hieracium di Sardegna",
+    "genre": "[ser. 2]",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Memorie della Reale Accademia delle Scienze di Torino",
+    "issued": "1897",
+    "page": "421–499"
+  },
+  {
+    "author": [
+      {
+        "family": "Belli",
+        "given": "S."
+      }
+    ],
+    "title": "Chiave dicotomica per la determinazione delle principali specie crescenti in Italia del Gen. Hieracium",
+    "editor": [
+      {
+        "family": "Fiori",
+        "given": "A."
+      },
+      {
+        "family": "Paoletti",
+        "given": "G."
+      }
+    ],
+    "container-title": "Flora analitica d’Italia, 3. Tipografia del Seminario, Padua",
+    "type": "chapter",
+    "issued": "1904",
+    "page": "442–505"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernardo",
+        "given": "L."
+      }
+    ],
+    "title": "Fiori e piante del Parco del Pollino",
+    "volume": "Castrovillari",
+    "type": "article-journal",
+    "container-title": "Edizioni Prometeo",
+    "issued": "1995",
+    "page": "254"
+  },
+  {
+    "author": [
+      {
+        "family": "Bivona-Bernardi",
+        "given": "A."
+      }
+    ],
+    "title": "Nuove piante inedite",
+    "volume": "Palermo",
+    "type": "article-journal",
+    "container-title": "Lorenzo Dato",
+    "issued": "1838",
+    "page": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "Caldarella",
+        "given": "O."
+      },
+      {
+        "family": "Gianguzzi",
+        "given": "L."
+      },
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      }
+    ],
+    "title": "Hieracium busambarense, a new species of the sect. Grovesiana (Asteraceae) from Sicily (Italy",
+    "volume": "148",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issue": "3",
+    "issued": "2014",
+    "page": "439–443",
+    "URL": "http://dx.doi.org/10.1080/11263504.2013.778352",
+    "DOI": "10.1080/11263504.2013.778352"
+  },
+  {
+    "author": [
+      {
+        "family": "Clapham",
+        "given": "A.R."
+      },
+      {
+        "family": "Tutin",
+        "given": "T.G."
+      },
+      {
+        "family": "Warburg",
+        "given": "E.F."
+      }
+    ],
+    "title": "Flora of the British Isles",
+    "publisher": "University Press",
+    "type": "book",
+    "issued": "1952",
+    "page": null,
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Cocca",
+        "given": "C."
+      },
+      {
+        "family": "Campanile",
+        "given": "D."
+      },
+      {
+        "family": "Campanile",
+        "given": "G."
+      }
+    ],
+    "title": "The Pollino National Park in between ecology and development",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Forest",
+    "issued": "2006",
+    "page": "310–314"
+  },
+  {
+    "author": [
+      {
+        "family": "Cosson",
+        "given": "E."
+      }
+    ],
+    "title": "Sur quelques espèces nouvelles ou critiques",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles; Botanique",
+    "issue": "3",
+    "issued": "1847",
+    "page": "205–213"
+  },
+  {
+    "author": [
+      {
+        "family": "Di Gristina",
+        "given": "E."
+      },
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      },
+      {
+        "family": "Galesi",
+        "given": "R."
+      },
+      {
+        "family": "Raimondo",
+        "given": "F.M."
+      },
+      {
+        "family": "Cristaudo",
+        "given": "A."
+      }
+    ],
+    "title": "Hieracium hypochoeroides subsp. montis-scuderii (Asteraceae), a new endemic subspecies from Sicily (Italy",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Flora Mediterranea",
+    "issued": "2013",
+    "page": "49–55"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E."
+      }
+    ],
+    "title": "Novitiae Florae Svecicae",
+    "editor": [
+      {
+        "family": "Continuatio",
+        "given": "Part V."
+      }
+    ],
+    "type": null,
+    "issued": "1819",
+    "page": "73–80",
+    "publisher-place": "Berlingianis, Lund"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E."
+      }
+    ],
+    "title": "Summa Vegetabilium Scandinaviae",
+    "publisher": "Typographia Academica, Uppsala",
+    "type": "book",
+    "issued": "1845",
+    "page": "258"
+  },
+  {
+    "author": [
+      {
+        "family": "Gargano",
+        "given": "D."
+      },
+      {
+        "family": "Bonacci",
+        "given": "A."
+      },
+      {
+        "family": "De Vivo",
+        "given": "G."
+      },
+      {
+        "family": "Marchianò",
+        "given": "V."
+      },
+      {
+        "family": "Schettino",
+        "given": "A."
+      },
+      {
+        "family": "Bernardo",
+        "given": "L."
+      }
+    ],
+    "title": "A permanent field laboratory in the Pollino National Park: vegetation dynamics in mountain herbaceous communities",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Italian Journal of Forest and Mountain Environments",
+    "issue": "2",
+    "issued": "2014",
+    "page": "125–133"
+  },
+  {
+    "author": [
+      {
+        "family": "Gavioli",
+        "given": "O."
+      }
+    ],
+    "title": "Synopsis Florae Lucanae",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Giornale Botanico Italiano",
+    "issued": "1947",
+    "page": "1–278",
+    "URL": "http://dx.doi.org/10.1080/11263504709440996",
+    "DOI": "10.1080/11263504709440996"
+  },
+  {
+    "author": [
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      }
+    ],
+    "title": "Die Gattung Hieracium L. (Compositae) im Herbarium Rupert Huter (Vinzentinum Brixen, BRIX",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Veröffentlichungen des Tiroler Landesmuseums Ferdinandeum",
+    "issued": "2007",
+    "page": "5–416"
+  },
+  {
+    "author": [
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      }
+    ],
+    "title": "Die Gattung Hieracium L. (Compositae) in der Region Abruzzen (Italien). Eine floristisch-taxonomische Studie",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Stapfia",
+    "issued": "2009",
+    "page": "1–328"
+  },
+  {
+    "author": [
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      }
+    ],
+    "title": "Hieracium boreoapenninum Gottschl., a new species from the Northern Apennine (Italy",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Webbia",
+    "issued": "2009",
+    "page": "3–7",
+    "URL": "http://dx.doi.org/10.1080/00837792.2009.10670847",
+    "DOI": "10.1080/00837792.2009.10670847"
+  },
+  {
+    "author": [
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      }
+    ],
+    "title": "New species of the genus Hieracium L",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Compositae) from the Northern Apennine (Italy). Webbia",
+    "issued": "2009",
+    "page": "175–186",
+    "URL": "http://dx.doi.org/10.1080/00837792.2009.10670858",
+    "DOI": "10.1080/00837792.2009.10670858"
+  },
+  {
+    "author": [
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      },
+      {
+        "family": "Vaill",
+        "given": "Pilosella"
+      }
+    ],
+    "title": "New taxa of Hieracium L",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Revisions of italian Hieracium collections VII.). Webbia",
+    "issued": "2011",
+    "page": "195–230",
+    "URL": "http://dx.doi.org/10.1080/00837792.2011.10670896",
+    "DOI": "10.1080/00837792.2011.10670896"
+  },
+  {
+    "author": [
+      {
+        "family": "Gottschlich",
+        "given": "G."
+      },
+      {
+        "family": "Raimondo",
+        "given": "F.M."
+      },
+      {
+        "family": "Di Gristina",
+        "given": "E."
+      }
+    ],
+    "title": "Hieracium pallidum subsp",
+    "container-title": "aetnense (Asteraceae), a new subspecies from Sicily (Italy), with notes on the taxonomy of H. pallidum Biv. Plant Biosystems",
+    "volume": "147",
+    "issue": "3",
+    "type": "article-journal",
+    "issued": "2013",
+    "page": "826–831",
+    "URL": "http://dx.doi.org/10.1080/11263504.2013.829882",
+    "DOI": "10.1080/11263504.2013.829882"
+  },
+  {
+    "author": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      }
+    ],
+    "title": "Med-Checklist 2. Dicotyledones (Compositae",
+    "genre": "OPTIMA Secretariat,",
+    "publisher": "Palermo",
+    "type": null,
+    "issued": "2008",
+    "page": "798",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN Red List of threatened species, version 2010.4",
+    "publisher": "IUCN Red List Unit",
+    "note": "Available:",
+    "type": null,
+    "issued": "2010",
+    "publisher-place": "Cambridge, UK",
+    "URL": "http://www.iucnredlist.org."
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Nägeli",
+        "given": "C.von"
+      },
+      {
+        "family": "Peter",
+        "given": "A."
+      }
+    ],
+    "volume": "2",
+    "publisher": "Oldenbourg, München",
+    "type": "article-journal",
+    "container-title": "Die Hieracien Mitteleuropas",
+    "issue": "2",
+    "issued": "1886",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "family": "Raimondo",
+        "given": "F.M."
+      },
+      {
+        "family": "Di Gristina",
+        "given": "E."
+      }
+    ],
+    "title": "Hieracium pignattianum (Asteraceae), a new species from the Madonie Mountains (N-Sicily",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bocconea",
+    "issued": "2004",
+    "page": "313–324"
+  },
+  {
+    "author": [
+      {
+        "family": "Raimondo",
+        "given": "F.M."
+      },
+      {
+        "family": "Di Gristina",
+        "given": "E."
+      }
+    ],
+    "title": "Hieracium madoniense (Asteraceae), a new species from Sicily",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issue": "1",
+    "issued": "2007",
+    "page": "86–92",
+    "URL": "http://dx.doi.org/10.1080/11263500601153982",
+    "DOI": "10.1080/11263500601153982"
+  },
+  {
+    "author": [
+      {
+        "family": "Rivas Martinez",
+        "given": "S."
+      }
+    ],
+    "title": "Les étages bioclimatiques de la végétation de la péninsula Ibérique",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Acta III Congr. Optima. Anales del Jardín Botánico de Madrid",
+    "issued": "1981",
+    "page": "251–268"
+  },
+  {
+    "author": [
+      {
+        "family": "Rouy",
+        "given": "G."
+      }
+    ],
+    "title": "Flora de France, 9",
+    "publisher": "Asnières & Paris",
+    "type": "book",
+    "issued": "1905",
+    "page": "410"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "title": "Hieracium L",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "container-title": "Florae Graecae Prodromus, 2",
+    "publisher": "R. Taylor & Soc",
+    "type": "chapter",
+    "issued": "1813",
+    "page": "132–135",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Suter",
+        "given": "J.R."
+      }
+    ],
+    "title": "Helvetiens Flora, 2",
+    "publisher": "Orell & Füssli, Zürich",
+    "type": "book",
+    "issued": "1802",
+    "page": "504"
+  },
+  {
+    "author": [
+      {
+        "family": "Zahn",
+        "given": "K.H."
+      }
+    ],
+    "title": "Beitrag zur Kenntnis südeuropäischer Hieracien",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Allgemeine Botanische Zeitschrift für Systematik, Floristik Pflanzengeographie etc",
+    "issued": "1901",
+    "page": "113–115, 145–147, 177–179"
+  },
+  {
+    "author": [
+      {
+        "family": "Zahn",
+        "given": "K.H."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der Archieracien Ungarns und der Balkanländer",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Magyar Botanikai Lapok",
+    "issue": "1906",
+    "issued": "1907",
+    "page": "62–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Zahn",
+        "given": "K.H."
+      }
+    ],
+    "title": "Les Hieracium des Alpes Maritimes",
+    "publisher": "Georg & Cie, Libraires–editeurs, Genève, Bale",
+    "type": "book",
+    "issued": "1916",
+    "page": "404"
+  },
+  {
+    "author": [
+      {
+        "family": "Zahn",
+        "given": "K.H."
+      }
+    ],
+    "title": "Compositae-Hieracium",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "volume": "77",
+    "issue": "IV.280",
+    "type": "article-journal",
+    "issued": "1921",
+    "page": "577–864",
+    "publisher-place": "Engelmann, Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Zahn",
+        "given": "K.H."
+      }
+    ],
+    "title": "Compositae-Hieracium",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "volume": "79",
+    "issue": "IV.280",
+    "type": "article-journal",
+    "issued": "1922",
+    "page": "865–1146",
+    "publisher-place": "Engelmann, Leipzig"
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "author": [
+      {
+        "family": "Gaertner",
+        "given": "J."
+      }
+    ],
+    "title": "De Fructibus et Seminibus Plantarum",
+    "volume": "1",
+    "publisher": "Typis Academiae Carolinae, Stutgardiae",
+    "type": "book",
+    "issued": "1788",
+    "page": "384"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Thomson",
+        "given": "T."
+      }
+    ],
+    "title": "Pittosporeae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "Flora of British India",
+    "volume": "1",
+    "publisher": "L. Reeve & Co",
+    "type": "chapter",
+    "issued": "1872",
+    "page": "197–200",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "The Plant book–A Portable Dictionary of Plants",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": null,
+    "publisher-place": "Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "D.L."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Proud’Homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "J.F."
+      },
+      {
+        "given": "Wiersema"
+      }
+    ],
+    "title": "J.H",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code): Adopted by the Eighteenth International Botanical Congress",
+    "volume": "154",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "1–274",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Analecta Botanica Indica",
+    "volume": "3",
+    "publisher": "JCA Sulpke",
+    "type": "book",
+    "issued": "1852",
+    "page": "5–6",
+    "publisher-place": "Amsterdam"
+  },
+  {
+    "author": [
+      {
+        "family": "Nayar",
+        "given": "M.P."
+      },
+      {
+        "family": "Giri",
+        "given": "G.S."
+      }
+    ],
+    "title": "Pittosporaceae",
+    "editor": [
+      {
+        "family": "Sharma",
+        "given": "B.D."
+      },
+      {
+        "family": "Balakrishnan",
+        "given": "N.P."
+      }
+    ],
+    "container-title": "Flora of India",
+    "volume": "2",
+    "publisher": "Botanical Survey of India",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "438–449",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Nayar",
+        "given": "M.P."
+      },
+      {
+        "family": "Giri",
+        "given": "G.S."
+      }
+    ],
+    "title": "Fascicles of Flora of India",
+    "container-title": "Fascicle 6. Botanical Survey of India, Howrah",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "1–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Royle",
+        "given": "J.F."
+      }
+    ],
+    "title": "Illustrations of the Botany and Other Branches of the Natural History of the Himalayan Mountains: and of the flora of Cashmere",
+    "volume": "1",
+    "publisher": "Wm. H. Allen, London",
+    "type": "book",
+    "issued": "1834",
+    "page": "472"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "P."
+      },
+      {
+        "family": "Karthigeyan",
+        "given": "K."
+      },
+      {
+        "family": "Lakshminarasimhan",
+        "given": "P."
+      },
+      {
+        "family": "Dash",
+        "given": "S.S."
+      }
+    ],
+    "title": "Endemic Vascular Plants of India",
+    "volume": "Kolkata",
+    "type": "article-journal",
+    "container-title": "Botanical Survey of India",
+    "issued": "2015",
+    "page": "339"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "R.K."
+      },
+      {
+        "family": "Diwakar",
+        "given": "P.G."
+      }
+    ],
+    "title": "Notes on the identity and taxonomic status of some species and infraspecific taxa of genus Pittosporum Banks ex Soland",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Pittosporaceae). Journal of Non Timber Forest Products",
+    "issued": "2009",
+    "page": "211–214"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "R.K."
+      }
+    ],
+    "title": "Lectotypification of three Indian endemic taxa of Pittosporum (Pittosporaceae",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Turkish Journal of Botany",
+    "issued": "2016",
+    "page": "557–560",
+    "URL": "https://doi.org/10.3906/bot-1512-21",
+    "DOI": "10.3906/bot-1512-21"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Prodromus Florae Peninsulae Indiae Orientalis",
+    "volume": "1",
+    "publisher": "Purbury, Allen & Company",
+    "type": "book",
+    "issued": "1834",
+    "page": "480",
+    "publisher-place": "London, UK"
+  }
+]

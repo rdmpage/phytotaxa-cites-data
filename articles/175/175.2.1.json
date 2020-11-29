@@ -1,0 +1,886 @@
+[
+  {
+    "author": [
+      {
+        "family": "Agnihothrudu",
+        "given": "V."
+      }
+    ],
+    "title": "Notes on fungi from North East India X",
+    "editor": [
+      {
+        "family": "O",
+        "given": "Chaetospermum",
+        "particle": "camelliae sp. nov. on tea"
+      }
+    ],
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Mycopathologia et Mycologia Applicata",
+    "issued": "1962",
+    "page": "113–116",
+    "URL": "http://dx.doi.org/10.1007/BF02089127",
+    "DOI": "10.1007/BF02089127"
+  },
+  {
+    "author": [
+      {
+        "family": "Chomnunti",
+        "given": "P."
+      },
+      {
+        "family": "Schoch",
+        "given": "C.L."
+      },
+      {
+        "family": "Aguirre-Hudson",
+        "given": "B."
+      },
+      {
+        "family": "Ko-Ko",
+        "given": "T.W."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Gareth Jones",
+        "given": "E.B."
+      },
+      {
+        "family": "Kodsueb",
+        "given": "R."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Chukeatirote",
+        "given": "E."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Capnodiaceae",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2011",
+    "page": "103–134",
+    "URL": "http://dx.doi.org/10.1007/s13225-011-0145-6",
+    "DOI": "10.1007/s13225-011-0145-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://dx.doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Fonseka",
+        "given": "de R.N."
+      }
+    ],
+    "title": "The morphology of Chaetospermum chaetosporum",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issued": "1960",
+    "page": "631–636",
+    "URL": "http://dx.doi.org/10.1016/S0007-1536(60)80053-8",
+    "DOI": "10.1016/S0007-1536(60)80053-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      },
+      {
+        "family": "Bischoff",
+        "given": "J.F."
+      },
+      {
+        "family": "Blackwell",
+        "given": "M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Eriksson",
+        "given": "O.E."
+      },
+      {
+        "family": "Huhndorf",
+        "given": "S."
+      },
+      {
+        "family": "James",
+        "given": "T."
+      },
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Thorsten Lumbsch",
+        "given": "H."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      },
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "D.J."
+      },
+      {
+        "family": "Powell",
+        "given": "M.J."
+      },
+      {
+        "family": "Redhead",
+        "given": "S."
+      },
+      {
+        "family": "Schoch",
+        "given": "C.L."
+      },
+      {
+        "family": "Spatafora",
+        "given": "J.W."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      },
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Aime",
+        "given": "M.C."
+      },
+      {
+        "family": "Aptroot",
+        "given": "A."
+      },
+      {
+        "family": "Bauer",
+        "given": "R."
+      },
+      {
+        "family": "Begerow",
+        "given": "D."
+      },
+      {
+        "family": "Benny",
+        "given": "G.L."
+      },
+      {
+        "family": "Castlebury",
+        "given": "L.A."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Gams",
+        "given": "W."
+      },
+      {
+        "family": "Geiser",
+        "given": "D.M."
+      },
+      {
+        "family": "Griffith",
+        "given": "G.W."
+      },
+      {
+        "family": "Gueidan",
+        "given": "C."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Hestmark",
+        "given": "G."
+      },
+      {
+        "family": "Hosaka",
+        "given": "K."
+      },
+      {
+        "family": "Humber",
+        "given": "R.A."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Ironside",
+        "given": "J.E."
+      },
+      {
+        "family": "Koljalg",
+        "given": "U."
+      },
+      {
+        "family": "Kurtzman",
+        "given": "C.P."
+      },
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      },
+      {
+        "family": "Lichtwardt",
+        "given": "R."
+      },
+      {
+        "family": "Longcore",
+        "given": "J."
+      },
+      {
+        "family": "Miadlikowska",
+        "given": "J."
+      },
+      {
+        "family": "Miller",
+        "given": "A."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      },
+      {
+        "family": "Mozley-Standridge",
+        "given": "S."
+      },
+      {
+        "family": "Oberwinkler",
+        "given": "F."
+      },
+      {
+        "family": "Parmasto",
+        "given": "E."
+      },
+      {
+        "family": "Reeb",
+        "given": "V."
+      },
+      {
+        "family": "Rogers",
+        "given": "J.D."
+      },
+      {
+        "family": "Roux",
+        "given": "C."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      },
+      {
+        "family": "Sampaio",
+        "given": "J.P."
+      },
+      {
+        "family": "Schussler",
+        "given": "A."
+      },
+      {
+        "family": "Sugiyama",
+        "given": "J."
+      },
+      {
+        "family": "Thorn",
+        "given": "R.G."
+      },
+      {
+        "family": "Tibell",
+        "given": "L."
+      },
+      {
+        "family": "Untereiner",
+        "given": "W.A."
+      },
+      {
+        "family": "Walker",
+        "given": "C."
+      },
+      {
+        "family": "Wang",
+        "given": "Z."
+      },
+      {
+        "family": "Weir",
+        "given": "A."
+      },
+      {
+        "family": "Weiss",
+        "given": "M."
+      }
+    ],
+    "note": "& Zhang,",
+    "volume": "N",
+    "title": "A higher-level phylogenetic classification of the fungi",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2007",
+    "page": "509–547",
+    "publisher-place": "White, M.M., Winka, K., Yao, Y.J",
+    "URL": "http://dx.doi.org/10.1016/j.mycres.2007.03.004",
+    "DOI": "10.1016/j.mycres.2007.03.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Höhnel",
+        "given": "F.X.R.von"
+      }
+    ],
+    "title": "Fragmente zur Mykologie III. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe",
+    "volume": "116",
+    "type": "article-journal",
+    "container-title": "Abteilung I",
+    "issued": "1907",
+    "page": "83–162"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Minter",
+        "given": "D.W."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Ainsworth & Bisby’s dictionary of the fungi",
+    "edition": "10th",
+    "publisher": "CAB International, Wallingford, United Kingdom",
+    "type": "book",
+    "issued": "2008",
+    "page": "771"
+  },
+  {
+    "author": [
+      {
+        "family": "Kishino",
+        "given": "H."
+      },
+      {
+        "family": "Hasegawa",
+        "given": "M."
+      }
+    ],
+    "title": "Evaluation of the maximum likelihood estimate of the evolutionary tree topologies from DNA sequence data",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Journal of Molecular Evolution",
+    "issued": "1989",
+    "page": "170–179",
+    "URL": "http://dx.doi.org/10.1007/BF02100115",
+    "DOI": "10.1007/BF02100115"
+  },
+  {
+    "author": [
+      {
+        "family": "Lecellier",
+        "given": "G."
+      },
+      {
+        "family": "Silar",
+        "given": "P."
+      }
+    ],
+    "title": "Rapid methods for nucleic acids extraction from Petri dish grown mycelia",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Current Genetics",
+    "issued": "1994",
+    "page": "122–123",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.1007/BF00309536"
+  },
+  {
+    "author": [
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "Guo",
+        "given": "L.D."
+      },
+      {
+        "family": "Cai",
+        "given": "L."
+      },
+      {
+        "family": "Chukeatirote",
+        "given": "E."
+      },
+      {
+        "family": "Wu",
+        "given": "W.P."
+      },
+      {
+        "family": "Sun",
+        "given": "X."
+      },
+      {
+        "family": "Crous",
+        "given": "P.W."
+      },
+      {
+        "family": "Bhat",
+        "given": "D.J."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "A multi-locus backbone tree for Pestalotiopsis, with a polyphasic characterization of 14 new species",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2012",
+    "page": "95–129",
+    "URL": "http://dx.doi.org/10.1007/s13225-012-0198-1",
+    "DOI": "10.1007/s13225-012-0198-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Marincowitz",
+        "given": "S."
+      },
+      {
+        "family": "Gryzenhout",
+        "given": "M."
+      },
+      {
+        "family": "Wingfield",
+        "given": "M.J."
+      }
+    ],
+    "title": "New and rare coelomycetes with appendage-bearing conidia from Pondoland, South Africa",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2010",
+    "page": "309–322",
+    "URL": "http://dx.doi.org/10.5248/111.309",
+    "DOI": "10.5248/111.309"
+  },
+  {
+    "author": [
+      {
+        "family": "Muntanola-Cvetkovic",
+        "given": "M."
+      },
+      {
+        "family": "Gomez-Bolea",
+        "given": "A."
+      }
+    ],
+    "title": "Chaetospermum chaetosporum (coelomycetes) first record from the Iberian Peninsula",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1993",
+    "page": "59–65"
+  },
+  {
+    "author": [
+      {
+        "family": "Nag Raj",
+        "given": "T.R."
+      }
+    ],
+    "title": "Coelomycetous anamorphs with appendage-bearing conidia",
+    "publisher": "Mycologue Publications",
+    "type": "book",
+    "issued": "1993",
+    "page": null,
+    "publisher-place": "Waterloo, Canada"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.D."
+      }
+    ],
+    "title": "TREEVIEW: an application to display phylogenetic trees on personal computers",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Computer Applications in the Biosciences",
+    "issued": "1996",
+    "page": "357–358",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/12.4.357",
+    "DOI": "10.1093/bioinformatics/12.4.357"
+  },
+  {
+    "author": [
+      {
+        "family": "Patouillard",
+        "given": "M.N."
+      }
+    ],
+    "title": "Note sur une Tuberculariée graminicole",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Mycologique de France",
+    "issued": "1888",
+    "page": "–"
+  },
+  {
+    "author": [
+      {
+        "family": "Petch",
+        "given": "T."
+      }
+    ],
+    "title": "Additions to Ceylon fungi",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Annals of the Royal Botanic Gardens, Peradeniya",
+    "issued": "1917",
+    "page": "195–256"
+  },
+  {
+    "author": [
+      {
+        "family": "Rajeshkumar",
+        "given": "K.C."
+      },
+      {
+        "family": "Paras",
+        "given": "N.S."
+      },
+      {
+        "family": "Yadav",
+        "given": "L.S."
+      },
+      {
+        "family": "Swami",
+        "given": "S.V."
+      },
+      {
+        "family": "Singh",
+        "given": "S.K."
+      }
+    ],
+    "title": "Chaetospermum setosum sp. nov. from the Western Ghats, India",
+    "volume": "113",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2010",
+    "page": "397–404",
+    "URL": "http://dx.doi.org/10.5248/113.397",
+    "DOI": "10.5248/113.397"
+  },
+  {
+    "author": [
+      {
+        "family": "Rehner",
+        "given": "S.A."
+      },
+      {
+        "family": "Samuels",
+        "given": "G.J."
+      }
+    ],
+    "title": "Taxonomy and phylogeny of Gliocladium analyzed by large subunit rDNA sequences",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "1994",
+    "page": "625–634",
+    "URL": "http://dx.doi.org/10.1016/S0953-7562(09)80409-7",
+    "DOI": "10.1016/S0953-7562(09)80409-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Rungjindamai",
+        "given": "N."
+      },
+      {
+        "family": "Sakayaroj",
+        "given": "J."
+      },
+      {
+        "family": "Plaingamy",
+        "given": "N."
+      },
+      {
+        "family": "Somrithipol",
+        "given": "S."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      }
+    ],
+    "title": "Putative basidiomycete teleomorphs and phylogenetic placement of the coelomycete genera: Chaetospermum, Giulia and Mycotribulus based on nu-rDNA sequences",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2008",
+    "page": "802–810",
+    "URL": "http://dx.doi.org/10.1016/j.mycres.2008.01.002",
+    "DOI": "10.1016/j.mycres.2008.01.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Saccardo",
+        "given": "P.A."
+      }
+    ],
+    "title": "Supplementum universale, Pars II",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Discomyceteae-Hyphomyceteae. Sylloge Fungorum",
+    "issued": "1892",
+    "page": "1–964"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.L."
+      },
+      {
+        "family": "Ramsbottom",
+        "given": "J."
+      }
+    ],
+    "title": "1913] New or rare fungi",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issued": "1914",
+    "page": "318–330"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutton",
+        "given": "B.C."
+      }
+    ],
+    "title": "The coelomycetes: fungi imperfecti with pycnidia, acervuli and stromata",
+    "publisher": "Commonwealth Mycological Institute",
+    "type": "book",
+    "issued": "1980",
+    "page": "696",
+    "publisher-place": "Slough, England"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (*and other methods) version 4",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2002",
+    "page": "142",
+    "publisher-place": "Sunderland, Massachusetts"
+  },
+  {
+    "type": null,
+    "URL": "http://www.tsu.edu/pdffiles/cber/miranda/PAUP%20Manual.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Talde",
+        "given": "U.K."
+      }
+    ],
+    "title": "Aquatic deuteromycetous fungi from Purna and Dudhna Rivers",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Indian Journal of Mycology and Plant Pathology",
+    "issued": "1981",
+    "page": "288–290"
+  },
+  {
+    "author": [
+      {
+        "family": "Tassi",
+        "given": "F."
+      }
+    ],
+    "title": "Novae micromycetum species descriptae et iconibus illustratae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Bollettino del Laboratorio de Orto Botanico Reale Universita Siena",
+    "issued": "1900",
+    "page": "117–132"
+  },
+  {
+    "author": [
+      {
+        "family": "Tode",
+        "given": "H.J."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Fungi Mecklenburgenses Selecti",
+    "issued": "1790",
+    "page": "1–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246"
+  },
+  {
+    "type": null,
+    "URL": "http://jb.asm.org/content/172/8/4238"
+  },
+  {
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "M."
+      },
+      {
+        "family": "Selosse",
+        "given": "M.-A."
+      },
+      {
+        "family": "Rexer",
+        "given": "K.-H."
+      },
+      {
+        "family": "Urban",
+        "given": "A."
+      },
+      {
+        "family": "Oberwinkler",
+        "given": "F."
+      }
+    ],
+    "title": "Sebacinales: a hitherto overlooked cosm of heterobasidiomycetes with a broad mycorrhizal potential",
+    "volume": "108",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2004",
+    "page": "1003–1010",
+    "URL": "http://dx.doi.org/10.1017/S0953756204000772",
+    "DOI": "10.1017/S0953756204000772"
+  },
+  {
+    "author": [
+      {
+        "family": "Wells",
+        "given": "K."
+      },
+      {
+        "family": "Oberwinkler",
+        "given": "F."
+      }
+    ],
+    "title": "Tremelloscypha gelatinosa, a species of a new family Sebacinaceae",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1982",
+    "page": "325–331"
+  },
+  {
+    "type": null,
+    "URL": "http://www.jstor.org/stable/3792902"
+  },
+  {
+    "author": [
+      {
+        "family": "Zimmermann",
+        "given": "A."
+      }
+    ],
+    "title": "Über einige an tropischen Kulturpflanzen beobachtete Pilze",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "II. Zentralbl Bakteriol",
+    "issued": "1902",
+    "page": "216–223"
+  }
+]

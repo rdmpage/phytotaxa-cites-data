@@ -1,0 +1,909 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "title": "Marine red algae of the Hawaiian Islands",
+    "publisher": "Bishop Museum Press",
+    "type": "book",
+    "issued": "1999",
+    "page": "47",
+    "publisher-place": "Honolulu"
+  },
+  {
+    "author": [
+      {
+        "family": "Adams",
+        "given": "N.M."
+      }
+    ],
+    "title": "Seaweeds of New Zealand. An Illustrated Guide",
+    "publisher": "Canterbury University Press, Christchurch",
+    "type": "book",
+    "issued": "1994",
+    "page": "360"
+  },
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "C.A."
+      }
+    ],
+    "title": "Systema Algarum",
+    "publisher": "Literis Berlingianis, Lund",
+    "type": "book",
+    "issued": "1824",
+    "page": "312",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.1829",
+    "DOI": "10.5962/bhl.title.1829"
+  },
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "J.G."
+      }
+    ],
+    "title": "In historiam algarum symbolae",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1841",
+    "page": "1–50"
+  },
+  {
+    "author": [
+      {
+        "family": "Ardissone",
+        "given": "F."
+      }
+    ],
+    "title": "Le Floridee italiche descritte ed illustrate. 8, Rhodomelaceae",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Tipografia editrice Lombarda",
+    "issue": "",
+    "issued": "1878",
+    "page": "119 , 4"
+  },
+  {
+    "author": [
+      {
+        "family": "Ballantine",
+        "given": "D.L."
+      }
+    ],
+    "title": "Dasya magnei sp. nov. (Dasyaceae, Rhodophyta) from the Caribbean Sea",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Cryptogamie Algologie",
+    "issued": "2000",
+    "page": "149–155",
+    "URL": "http://dx.doi.org/10.1016/S0181-1568(00)00108-2",
+    "DOI": "10.1016/S0181-1568(00)00108-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Ballantine",
+        "given": "D.L."
+      },
+      {
+        "family": "Aponte",
+        "given": "N.E."
+      }
+    ],
+    "title": "Dasya abbottiana sp. nov. (Dasyaceae, Rhodophyta) from Puerto Rico, Caribbean Sea",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Cryptogamie Algologie",
+    "issued": "2004",
+    "page": "409–417"
+  },
+  {
+    "author": [
+      {
+        "family": "Choi",
+        "given": "H.G."
+      },
+      {
+        "family": "Kraft",
+        "given": "G.T."
+      },
+      {
+        "family": "Lee",
+        "given": "I.K."
+      },
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      }
+    ],
+    "title": "Phylogenetic analyses of anatomical and nuclear SSU rDNA sequence data indicate that the Dasyaceae and Delesseriaceae (Ceramiales, Rhodophyta) are polyphyletic",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "European Journal of Phycology",
+    "issued": "2002",
+    "page": "551–569",
+    "URL": "http://dx.doi.org/10.1017/S0967026202003967",
+    "DOI": "10.1017/S0967026202003967"
+  },
+  {
+    "author": [
+      {
+        "family": "Choi",
+        "given": "H.G."
+      },
+      {
+        "family": "Kraft",
+        "given": "G.T."
+      },
+      {
+        "family": "Kim",
+        "given": "H.S."
+      },
+      {
+        "family": "Guiry",
+        "given": "M."
+      },
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      }
+    ],
+    "title": "Phylogenetic relationships among lineages of the Ceramiaceae (Ceramiales, Rhodophyta) based on nuclear small subunit rDNA sequence data",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "2008",
+    "page": "1033–1048",
+    "URL": "http://dx.doi.org/10.1111/j.1529-8817.2008.00554.x",
+    "DOI": "10.1111/j.1529-8817.2008.00554.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "J."
+      },
+      {
+        "family": "Solander",
+        "given": "D."
+      }
+    ],
+    "title": "The natural history of many curious and uncommon zoophytes, collected from various parts of the globe by the late John Ellis",
+    "publisher": "B. White & Son, London",
+    "type": "book",
+    "issued": "1786",
+    "page": "208"
+  },
+  {
+    "author": [
+      {
+        "family": "Fredericq",
+        "given": "S."
+      },
+      {
+        "family": "Norris",
+        "given": "J.N."
+      }
+    ],
+    "title": "The structure and reproduction of Dasya haitiana sp. nov. (Dasyaceae, Rhodophyta) from the Caribbean Sea",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "1986",
+    "page": "185–196",
+    "URL": "http://dx.doi.org/10.2216/i0031-8884-25-2-185.1",
+    "DOI": "10.2216/i0031-8884-25-2-185.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Gmelin",
+        "given": "S.G."
+      }
+    ],
+    "title": "Historia fucorum. Typographia Academiae scientiarum",
+    "publisher": "Saint Petersburg",
+    "type": "book",
+    "issued": "1768",
+    "page": "239"
+  },
+  {
+    "author": [
+      {
+        "family": "Grateloup",
+        "given": "J.P.A.S."
+      }
+    ],
+    "title": "Observations sur la constitution de l’été de 1806 SS. Descriptiones Aliquorum ceramiorum novorum, cum iconum explicationibus",
+    "type": null,
+    "issued": "1806",
+    "publisher-place": "Montpellier"
+  },
+  {
+    "author": [
+      {
+        "family": "Guiry",
+        "given": "M.D."
+      },
+      {
+        "family": "Guiry",
+        "given": "G.M."
+      }
+    ],
+    "title": "AlgaeBase",
+    "genre": "World-wide electronic publication,",
+    "publisher": "National University of Ireland",
+    "note": "Galway. Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.algaebase.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Harvey",
+        "given": "W.H."
+      },
+      {
+        "family": "Dr Hooker’s British Flora)",
+        "particle": "of"
+      }
+    ],
+    "title": "Div",
+    "editor": [
+      {
+        "literal": "II. Confervoideae. In: Hooker, W.J. (Ed."
+      }
+    ],
+    "volume": "V. (or Vol. II",
+    "publisher": "Longman, Brown, Green & Longmans Paternoster-Row",
+    "type": "article-journal",
+    "container-title": "Cryptogamia",
+    "issued": "1833",
+    "page": "322–385",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Harvey",
+        "given": "W.H."
+      }
+    ],
+    "title": "Algae of Tasmania",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "London Journal of Botany",
+    "issued": "1844",
+    "page": "428–454"
+  },
+  {
+    "author": [
+      {
+        "family": "Harvey",
+        "given": "W.H."
+      }
+    ],
+    "title": "Phycologia Britannica 2(1",
+    "publisher": "Reeve and Benham",
+    "type": "book",
+    "issued": "1849",
+    "page": "98–189",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Jadiye",
+        "given": "S.U."
+      },
+      {
+        "family": "Rao",
+        "given": "P.S.N."
+      }
+    ],
+    "title": "A new species of Dasya (Rhodophyta, Ceramiales) from the Dapoli coast of Maharashtra, India",
+    "volume": "118",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issued": "2007",
+    "page": "60–64",
+    "URL": "http://dx.doi.org/10.1002/fedr.200611127",
+    "DOI": "10.1002/fedr.200611127"
+  },
+  {
+    "author": [
+      {
+        "family": "Jong",
+        "given": "Y.S.D.M.de"
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Lokhorst",
+        "given": "G.M."
+      }
+    ],
+    "title": "Studies on Dasyaceae. 2. A revision of the genera Eupogodon and Dipterocladia gen. nov",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Ceramiales, Rhodophyta). Botanica Marina",
+    "issued": "1997",
+    "page": "421–450",
+    "URL": "http://dx.doi.org/10.1515/botm.1997.40.1-6.421",
+    "DOI": "10.1515/botm.1997.40.1-6.421"
+  },
+  {
+    "author": [
+      {
+        "family": "Jong",
+        "given": "Y.S.D.M.De"
+      },
+      {
+        "family": "Van Der Wurff",
+        "given": "A.G."
+      },
+      {
+        "family": "Stam",
+        "given": "W.T."
+      },
+      {
+        "family": "Olsen",
+        "given": "J."
+      }
+    ],
+    "title": "Studies on Dasyaceae. 3. Towards a phylogeny of the Dasyaceae (Ceramiales, Rhodophyta), based on comparative rbcL gene sequences and morphology",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "European Journal of Phycology",
+    "issued": "1998",
+    "page": "187–201"
+  },
+  {
+    "author": [
+      {
+        "family": "Kapraun",
+        "given": "D.F."
+      },
+      {
+        "family": "Dunwoody",
+        "given": "J.T."
+      }
+    ],
+    "title": "Relationship of nuclear genome size to some reproductive cell parameters in the Florideophycidae (Rhodophyta",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2002",
+    "page": "507–516",
+    "URL": "http://dx.doi.org/10.2216/i0031-8884-41-5-507.1",
+    "DOI": "10.2216/i0031-8884-41-5-507.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kützing",
+        "given": "F.T."
+      }
+    ],
+    "title": "Phycologia generalis; oder Anatomie, Physiologie und Systemkunde der Tange, part 2",
+    "publisher": "F.A. Brockhaus",
+    "type": "book",
+    "issued": "1843",
+    "page": "143–458",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentii Salvii, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "López-Piñero",
+        "given": "I.Y."
+      },
+      {
+        "family": "Ballantine",
+        "given": "D.L."
+      }
+    ],
+    "title": "Dasya puertoricensis sp. nov. (Dasyaceae, Rhodophyta) from Puerto Rico, Caribbean Sea",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Botanica Marina",
+    "issued": "2001",
+    "page": "337–344",
+    "URL": "http://dx.doi.org/10.1515/BOT.2001.043",
+    "DOI": "10.1515/BOT.2001.043"
+  },
+  {
+    "author": [
+      {
+        "family": "Masuda",
+        "given": "M."
+      },
+      {
+        "family": "Uwai",
+        "given": "S."
+      },
+      {
+        "family": "Kogame",
+        "given": "K."
+      },
+      {
+        "family": "Kawaguchi",
+        "given": "S."
+      },
+      {
+        "family": "Phang",
+        "given": "S.M."
+      }
+    ],
+    "title": "Taxonomic notes on marine algae from Malaysia. X. Four species of Dasya (Rhodophyceae), with the descriptions of Dasya longifila sp",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "nov. and D. malaccensis sp. nov. Botanica Marina",
+    "issued": "2003",
+    "page": "243–255",
+    "URL": "http://dx.doi.org/10.1515/BOT.2003.022",
+    "DOI": "10.1515/BOT.2003.022"
+  },
+  {
+    "author": [
+      {
+        "family": "Masuda",
+        "given": "M."
+      },
+      {
+        "family": "Kurihara",
+        "given": "A."
+      },
+      {
+        "family": "Kogame",
+        "given": "K."
+      }
+    ],
+    "title": "Two species of Dasya (Ceramiales, Rhodophyta) from Bonin Islands, Southern Japan, with the description of Dasya boninensis sp. nov",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Phycological Research",
+    "issued": "2007",
+    "page": "113–124",
+    "URL": "http://dx.doi.org/10.1111/j.1440-1835.2007.00454.x",
+    "DOI": "10.1111/j.1440-1835.2007.00454.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Millar",
+        "given": "A.J.K."
+      }
+    ],
+    "title": "Marine red algae of the Coffs Harbour region, northern New South Wales",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Australian Systematic Botany",
+    "issued": "1990",
+    "page": "293–593",
+    "URL": "http://dx.doi.org/10.1071/SB9900293",
+    "DOI": "10.1071/SB9900293"
+  },
+  {
+    "author": [
+      {
+        "family": "Millar",
+        "given": "A.J.K."
+      }
+    ],
+    "title": "Dasya roslyniae sp. nov",
+    "director": [
+      {
+        "family": "Dasyaceae",
+        "given": "Rhodophyta"
+      }
+    ],
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "1996",
+    "page": "145–157",
+    "URL": "http://dx.doi.org/10.1111/j.0022-3646.1996.00145.x",
+    "DOI": "10.1111/j.0022-3646.1996.00145.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Montagne",
+        "given": "J.F.C."
+      }
+    ],
+    "title": "Plantes cellulaires",
+    "editor": [
+      {
+        "family": "Webb",
+        "given": "P.B."
+      },
+      {
+        "family": "Berthelot",
+        "given": "S."
+      }
+    ],
+    "publisher": "Béthune",
+    "type": "book",
+    "issued": "1841",
+    "page": "161–208",
+    "publisher-place": "Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.60795",
+    "DOI": "10.5962/bhl.title.60795"
+  },
+  {
+    "author": [
+      {
+        "family": "Montagne",
+        "given": "J.F.C."
+      }
+    ],
+    "title": "Prodromus generum specierumque phycearum novarum",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Gide editorem, Paris",
+    "issued": "1842",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pena-Martín",
+        "given": "C."
+      },
+      {
+        "family": "Gómez-Garreta"
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      }
+    ],
+    "title": "Proposal to conserve Fucus baillouviana (Dasyaceae, Rhodophyta",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2007",
+    "page": "253–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Pena-Martín",
+        "given": "C."
+      }
+    ],
+    "title": "El género Dasya (Rhodophyta, Dasyaceae) en la península Ibérica y las islas Baleares: revisión taxonómica y nomenclatural",
+    "genre": "PhD Thesis Collection,",
+    "publisher": "University of Alicante, Alicante",
+    "type": "thesis",
+    "issued": "2011",
+    "page": "299"
+  },
+  {
+    "type": null,
+    "URL": "http://hdl.handle.net/10045/20535"
+  },
+  {
+    "author": [
+      {
+        "family": "Pena-Martín",
+        "given": "C."
+      },
+      {
+        "family": "Le Gall",
+        "given": "L."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Gómez-Garreta",
+        "given": "A."
+      }
+    ],
+    "title": "A revision of Dasya C",
+    "note": "Agardh (Dasyaceae, Rhodophyta) in the western Mediterranean basin. 5th European Phycological Congress. 4–9 September.",
+    "publisher": "Rhodes",
+    "type": null,
+    "issued": "2011",
+    "publisher-place": "Greece"
+  },
+  {
+    "author": [
+      {
+        "family": "Pena-Martín",
+        "given": "C."
+      },
+      {
+        "family": "Verlaque",
+        "given": "M."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Gómez-Garreta",
+        "given": "A."
+      }
+    ],
+    "title": "Morphology and taxonomic status of Dasya rigescens (Rhodophyta, Dasyaceae",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Cryptogamie Algologie",
+    "issued": "2011",
+    "page": "63–76",
+    "URL": "http://dx.doi.org/10.7872/crya.v32.iss1.2011.063",
+    "DOI": "10.7872/crya.v32.iss1.2011.063"
+  },
+  {
+    "author": [
+      {
+        "family": "Pena-Martín",
+        "given": "C."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Gómez-Garreta",
+        "given": "A."
+      }
+    ],
+    "title": "Nomenclatural remarks and typification of Dasya species (Dasyaceae, Rhodophyta) from the western Mediterranean",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2014",
+    "page": "196–208",
+    "URL": "http://dx.doi.org/10.1111/j.1756-1051.2012.01510.x",
+    "DOI": "10.1111/j.1756-1051.2012.01510.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Peña",
+        "given": "V."
+      },
+      {
+        "family": "Bárbara",
+        "given": "I."
+      }
+    ],
+    "title": "Revision of the genus Dasya (Ceramiales, Rhodophyta) in Galicia (NW Spain) and the addition of a new alien species Dasya sessilis Yamada for the European Atlantic coasts",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issued": "2006",
+    "page": "13–26"
+  },
+  {
+    "author": [
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      },
+      {
+        "family": "Bailey",
+        "given": "J.C."
+      }
+    ],
+    "title": "Phylogenesis of pit-plug-associated features in the Rhodophyta: inferences from molecular systematic data",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issued": "1997",
+    "page": "1436–1447",
+    "URL": "http://dx.doi.org/10.1139/b97-858",
+    "DOI": "10.1139/b97-858"
+  },
+  {
+    "author": [
+      {
+        "family": "Sauvageau",
+        "given": "C."
+      }
+    ],
+    "title": "Remarques sur les Sphacélariacées 2. Féret et fils",
+    "type": null,
+    "issued": "1904",
+    "page": "160",
+    "publisher-place": "Bordeaux"
+  },
+  {
+    "author": [
+      {
+        "family": "Sonder",
+        "given": "G."
+      }
+    ],
+    "title": "Nova algarum genera et species, quas in itinere ad oras occidentales Novae Hollandiae, collegit L",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Priess, Ph. Dr. Botanische Zeitung",
+    "issued": "1845",
+    "page": "49–57"
+  },
+  {
+    "author": [
+      {
+        "family": "Stegenga",
+        "given": "H."
+      },
+      {
+        "family": "Bolton",
+        "given": "J.J."
+      },
+      {
+        "family": "Anderson",
+        "given": "R.J."
+      }
+    ],
+    "title": "Seaweeds of the South African West Coast",
+    "genre": "[Contributions from the Bolus Herbarium 8].",
+    "publisher": "University of Cape Town, Rondebosch",
+    "type": null,
+    "issued": "1997",
+    "page": "655"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "W.R."
+      }
+    ],
+    "title": "Marine algae of the eastern tropical and subtropical coasts of the Americas",
+    "publisher": "University of Michigan Press",
+    "type": "book",
+    "issued": "1960",
+    "page": "555–807",
+    "publisher-place": "Michigan"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Womersley",
+        "given": "H.B.S."
+      }
+    ],
+    "title": "The marine benthic flora of Southern Australia. Part III C. Ceramiales: Ceramiaceae, Dasyaceae",
+    "publisher": "Australian Biological Resources Study & State Herbarium of South Australia",
+    "type": "book",
+    "issued": "1998",
+    "page": "535",
+    "publisher-place": "Canberra"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamada",
+        "given": "Y."
+      }
+    ],
+    "title": "Report on the biological survey of Mutsu Bay, 9. Marine algae of Mutsu Bay and adjacent waters",
+    "container-title": "II. Scientific Reports of the Tôhoku Imperial University 4",
+    "collection-title": "Biology Series",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1928",
+    "page": "497–534"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamagishi",
+        "given": "Y."
+      },
+      {
+        "family": "Ohta",
+        "given": "Y."
+      },
+      {
+        "family": "Masuda",
+        "given": "M."
+      },
+      {
+        "family": "Abe",
+        "given": "T."
+      }
+    ],
+    "title": "Dasya enomotoi sp",
+    "editor": [
+      {
+        "given": "nov"
+      }
+    ],
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Phycological Research",
+    "issued": "2014",
+    "page": "63–72",
+    "URL": "http://dx.doi.org/10.1111/pre.12038",
+    "DOI": "10.1111/pre.12038"
+  },
+  {
+    "author": [
+      {
+        "family": "Zanardini",
+        "given": "G."
+      }
+    ],
+    "title": "Sopra le alghe del Mare Adriatico. Lettera seconda di Giovanni Zanardini, medico fisico in Venezia, alla Direzione della Biblioteca Italiana",
+    "container-title": "Biblioteca Italiana Ossia Giornale di Letteratura Scienze ed Arti (Milano",
+    "volume": "99",
+    "type": "chapter",
+    "issued": "1840",
+    "page": "195–229"
+  },
+  {
+    "author": [
+      {
+        "family": "Zanardini",
+        "given": "G."
+      }
+    ],
+    "title": "Synopsis algarum in mari Adriatico hucusque collectarum, cui accedunt monographia siphonearum nec non generales de algarum vita et structura disquisitiones cum tabulis auctoris manu ad vivum depictis",
+    "volume": "ser. 2 4",
+    "type": "article-journal",
+    "container-title": "Memorie della Reale Accademia delle Scienze di Torino",
+    "issued": "1841",
+    "page": "105–255"
+  },
+  {
+    "author": [
+      {
+        "family": "Zanardini",
+        "given": "G."
+      }
+    ],
+    "title": "Scelta di Ficee nuove o più rare dei mari Mediterraneo ed Adriatico",
+    "container-title": "Decade VI. Memorie del Reale Istituto Veneto di Scienze, Lettere ed Arti",
+    "volume": "12",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1865",
+    "page": "375–410"
+  }
+]

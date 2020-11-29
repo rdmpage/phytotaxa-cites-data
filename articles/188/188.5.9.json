@@ -1,0 +1,150 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "12",
+    "publisher": "Treuttel et Wurtz",
+    "type": "chapter",
+    "issued": "1848",
+    "page": "27–603",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Diagnosis plantarum orientalium novarum",
+    "volume": "ser. 1, vol. 12",
+    "publisher": "Herrmann, Leipzig",
+    "type": "book",
+    "issued": "1853",
+    "page": "120"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Flora Orientalis",
+    "volume": "5",
+    "publisher": "H. Georg, Geneva and Basel",
+    "type": "book",
+    "issued": "1884",
+    "page": "868"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamilton",
+        "given": "A."
+      }
+    ],
+    "title": "Esquisse d’une monographie du genre Scutellaria ou Toque",
+    "publisher": "Louis Perrin",
+    "type": "book",
+    "issued": "1832",
+    "page": "67",
+    "publisher-place": "Lyon"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Paton",
+        "given": "A."
+      }
+    ],
+    "title": "A global taxonomic investigation of Scutellaria (Labiatae",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1990",
+    "page": "399–450",
+    "URL": "http://dx.doi.org/10.2307/4110512",
+    "DOI": "10.2307/4110512"
+  },
+  {
+    "author": [
+      {
+        "family": "Paton",
+        "given": "A."
+      }
+    ],
+    "title": "The phytogeography of Scutellaria L",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden, Edinburgh",
+    "issued": "1990",
+    "page": "345–359"
+  },
+  {
+    "author": [
+      {
+        "family": "Ranjbar",
+        "given": "M."
+      },
+      {
+        "family": "Mahmoudi",
+        "given": "C."
+      }
+    ],
+    "title": "Chromosome numbers and biogeography of the genus Scutellaria L",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Lamiaceae). Caryologia",
+    "issued": "2013",
+    "page": "205–214",
+    "URL": "http://dx.doi.org/10.1080/00087114.2013.821840",
+    "DOI": "10.1080/00087114.2013.821840"
+  },
+  {
+    "author": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "title": "Scutellaria L",
+    "editor": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "container-title": "Flora Iranica",
+    "volume": "150",
+    "publisher": "Akademische Druck-u Verlagsanstalt, Graz",
+    "type": "chapter",
+    "issued": "1982",
+    "page": "44–84"
+  }
+]

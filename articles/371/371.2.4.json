@@ -1,0 +1,831 @@
+[
+  {
+    "author": [
+      {
+        "family": "Akaike",
+        "given": "H."
+      }
+    ],
+    "title": "Information theory and an extension of the maximum likelihood principle",
+    "editor": [
+      {
+        "family": "Petrov",
+        "given": "B.N."
+      },
+      {
+        "family": "Csaki",
+        "given": "F."
+      }
+    ],
+    "container-title": "Proceedings of the 2nd International Symposium on Information Theory",
+    "publisher": "Akademiai Kiado",
+    "type": "paper-conference",
+    "issued": "1973",
+    "page": "267–281",
+    "publisher-place": "Budapest"
+  },
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "M.J."
+      },
+      {
+        "family": "Broome",
+        "given": "C.E."
+      }
+    ],
+    "title": "Enumeration of the Fungi of Ceylon – Part II., containing the remainder of the Hymenomycetes, with the remaining established tribes of Fungi",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society of Botany",
+    "issue": "74",
+    "issued": "1873",
+    "page": "29–140",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1873.tb00301.x",
+    "DOI": "10.1111/j.1095-8339.1873.tb00301.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issue": "8",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Ertz",
+        "given": "D."
+      },
+      {
+        "family": "Tehler",
+        "given": "A."
+      },
+      {
+        "family": "Irestedt",
+        "given": "M."
+      },
+      {
+        "family": "Frisch",
+        "given": "A."
+      },
+      {
+        "family": "Thor",
+        "given": "G."
+      },
+      {
+        "family": "Boom",
+        "given": "P.",
+        "particle": "van den"
+      }
+    ],
+    "title": "A large-scale phylogenetic revision of Roccellaceae (Arthoniales) reveals eight new genera",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "31–53",
+    "URL": "https://doi.org/10.1007/s13225-014-0286-5",
+    "DOI": "10.1007/s13225-014-0286-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Frisch",
+        "given": "A."
+      }
+    ],
+    "title": "Contribution towards a new systematics of the lichen family Thelotremataceae. I. The lichen family Thelotremataceae in Africa",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Lichenologica",
+    "issued": "2006",
+    "page": "3–370"
+  },
+  {
+    "author": [
+      {
+        "family": "Frisch",
+        "given": "A."
+      },
+      {
+        "family": "Kalb",
+        "given": "K."
+      }
+    ],
+    "title": "The lichen genus Topeliopsis, additions and corrections",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "The Lichenologist",
+    "issued": "2006",
+    "page": "37–45",
+    "URL": "https://doi.org/10.1017/S0024282905005530",
+    "DOI": "10.1017/S0024282905005530"
+  },
+  {
+    "author": [
+      {
+        "family": "Hale",
+        "given": "M.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "A revision of the lichen family Thelotremataceae in Sri Lanka",
+    "container-title": "Bulletin of the British Museum (Natural History), Botany Series",
+    "volume": "8",
+    "type": "chapter",
+    "issued": "1981",
+    "page": "227–332"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogeny",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalb",
+        "given": "K."
+      }
+    ],
+    "title": "New taxa and new records of thelotremoid Graphidaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Herzogia",
+    "issued": "2009",
+    "page": "17–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Misawa",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K.I."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nucleic acids research",
+    "issued": "2002",
+    "page": "3059–3066",
+    "URL": "https://doi.org/10.1093/nar/gkf436",
+    "DOI": "10.1093/nar/gkf436"
+  },
+  {
+    "author": [
+      {
+        "family": "Lima",
+        "given": "E.L."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Cáceres",
+        "given": "M.E.S."
+      }
+    ],
+    "title": "Three new species of Graphidaceae (Ostropales, Ascomycota) from atlantic forest in Northeast Brazil",
+    "volume": "278",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "163–170",
+    "URL": "https://doi.org/10.11646/phytotaxa.278.2.6",
+    "DOI": "10.11646/phytotaxa.278.2.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Lücking",
+        "given": "R."
+      }
+    ],
+    "title": "Three new species of thelotremoid Graphidaceae from tropical Africa",
+    "volume": "189",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "176–179",
+    "URL": "https://doi.org/10.11646/phytotaxa.189.1.12",
+    "DOI": "10.11646/phytotaxa.189.1.12"
+  },
+  {
+    "author": [
+      {
+        "family": "Lücking",
+        "given": "R."
+      }
+    ],
+    "title": "Thelotremoid Graphidaceae from the NYBG herbarium: New species, range extensions, and a forgotten lichen",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Opuscula Philolichenum",
+    "issued": "2015",
+    "page": "1–57"
+  },
+  {
+    "type": null,
+    "URL": "http://sweetgum.nybg.org/philolichenum/"
+  },
+  {
+    "author": [
+      {
+        "family": "Maddison",
+        "given": "W.P."
+      },
+      {
+        "family": "Maddison",
+        "given": "D.R."
+      }
+    ],
+    "title": "Mesquite: a modular system for evolutionary analysis",
+    "genre": "Version 3.04.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://mesquiteproject.org."
+  },
+  {
+    "author": [
+      {
+        "family": "Mangold",
+        "given": "A."
+      },
+      {
+        "family": "Elix",
+        "given": "J.A."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      }
+    ],
+    "title": "Chapsa",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Flora of Australia",
+    "issued": "2009",
+    "page": "653–654"
+  },
+  {
+    "author": [
+      {
+        "family": "Massal",
+        "given": "A."
+      }
+    ],
+    "title": "Atti Istituto Veneto di Scienza",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Letteratura ed Arti",
+    "issue": "3",
+    "issued": "1860",
+    "page": "257"
+  },
+  {
+    "author": [
+      {
+        "family": "Miadlikowska",
+        "given": "J."
+      },
+      {
+        "family": "McCune",
+        "given": "B."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Pseudocyphellaria perpetua, a new lichen from Western North America",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Bryologist",
+    "issued": "2002",
+    "page": "1–10",
+    "URL": "https://doi.org/10.1639/0007-2745(2002)105",
+    "DOI": "10.1639/0007-2745(2002)105"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES science gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "A."
+      },
+      {
+        "family": "James",
+        "given": "P.W."
+      },
+      {
+        "family": "White",
+        "given": "F.J."
+      }
+    ],
+    "title": "Microchemical methods for the identification of lichens",
+    "publisher": "British Lichen Society",
+    "type": "book",
+    "issued": "2010",
+    "page": "101",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Papong",
+        "given": "K.B."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Kraichak",
+        "given": "E."
+      },
+      {
+        "family": "Parnmen",
+        "given": "S."
+      },
+      {
+        "family": "Konrat",
+        "given": "M.",
+        "particle": "von"
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      }
+    ],
+    "title": "Twenty-three new species in the family Graphidaceae from new Caledonia (Ostropales, Ascomycota",
+    "volume": "189",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "204–231",
+    "URL": "https://doi.org/10.11646/phytotaxa.189.1.15",
+    "DOI": "10.11646/phytotaxa.189.1.15"
+  },
+  {
+    "author": [
+      {
+        "family": "Parnmen",
+        "given": "S."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      }
+    ],
+    "title": "Phylogenetic classification at generic level in the absence of distinct phylogenetic patterns of phenotypical variation: a case study in Graphidaceae (Ascomycota",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "PLoS ONE",
+    "issue": "12",
+    "issued": "2012",
+    "page": "1–13"
+  },
+  {
+    "author": [
+      {
+        "family": "Poengsungnoen",
+        "given": "V."
+      },
+      {
+        "family": "Manoch",
+        "given": "L."
+      },
+      {
+        "family": "Mongkolsuk",
+        "given": "P."
+      },
+      {
+        "family": "Boonpragob",
+        "given": "K."
+      },
+      {
+        "family": "Parnmen",
+        "given": "S."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Tehler",
+        "given": "A."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      }
+    ],
+    "title": "Phylogenetic analysis reveals two morphologically unique new species in the genera Astrochapsa and Nitidochapsa (lichenized Ascomycota: Graphidaceae",
+    "volume": "189",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "268–281",
+    "URL": "https://doi.org/10.11646/phytotaxa.189.1.19",
+    "DOI": "10.11646/phytotaxa.189.1.19"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "FigTree v1.4.2",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://tree.bio.ed.ac.uk/software/figtree/"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "title": "Tracer v1.4",
+    "note": "Available from",
+    "type": null,
+    "issued": "2007",
+    "URL": "http://beast.bio.ed.ac.uk/"
+  },
+  {
+    "author": [
+      {
+        "family": "Rivas-Plata",
+        "given": "E."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Sipman",
+        "given": "H.J.M."
+      },
+      {
+        "family": "Mangold",
+        "given": "A."
+      },
+      {
+        "family": "Kalb",
+        "given": "K."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "T."
+      }
+    ],
+    "title": "A world-wide key to the thelotremoid Graphidaceae, excluding the Ocellularia-Myriotrema-Stegobolus clade",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "The Lichenologist",
+    "issue": "2",
+    "issued": "2010",
+    "page": "139–185",
+    "URL": "https://doi.org/10.1017/S0024282909990491",
+    "DOI": "10.1017/S0024282909990491"
+  },
+  {
+    "author": [
+      {
+        "family": "Rivas-Plata",
+        "given": "E."
+      },
+      {
+        "family": "Parnmen",
+        "given": "S."
+      },
+      {
+        "family": "Staiger",
+        "given": "B."
+      },
+      {
+        "family": "Mangold",
+        "given": "A."
+      },
+      {
+        "family": "Frisch",
+        "given": "A."
+      },
+      {
+        "family": "Weerakoon",
+        "given": "G."
+      },
+      {
+        "family": "Hernandez",
+        "given": "J.E."
+      },
+      {
+        "family": "Cáceres",
+        "given": "M.E.S."
+      },
+      {
+        "family": "Kalb",
+        "given": "K."
+      },
+      {
+        "family": "Simpan",
+        "given": "H.J.M."
+      },
+      {
+        "family": "Common",
+        "given": "R.S."
+      },
+      {
+        "family": "Nelsen",
+        "given": "M.P."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      }
+    ],
+    "title": "A molecular phylogeny of Graphidaceae (Ascomycota, Lecanoromycetes, Ostropales) including 428 species",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "MycoKeys",
+    "issued": "2013",
+    "page": "55–94",
+    "URL": "https://doi.org/10.3897/mycokeys.6.3482",
+    "DOI": "10.3897/mycokeys.6.3482"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Salisbury",
+        "given": "G."
+      }
+    ],
+    "title": "Thelotrema sect. Thelotrema 2",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "The T. platycarpum group. Revue Bryologique et Lichénologique",
+    "issued": "1972",
+    "page": "281–290"
+  },
+  {
+    "author": [
+      {
+        "family": "Sipman",
+        "given": "H.J.M."
+      }
+    ],
+    "title": "New species of Graphidaceae from the Neotropics and Southeast Asia",
+    "volume": "189",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "289–311",
+    "URL": "https://doi.org/10.11646/phytotaxa.189.1.21",
+    "DOI": "10.11646/phytotaxa.189.1.21"
+  },
+  {
+    "author": [
+      {
+        "family": "Sipman",
+        "given": "H.J.M."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Aptroot",
+        "given": "A."
+      },
+      {
+        "family": "Chaves",
+        "given": "J.L."
+      },
+      {
+        "family": "Kalb",
+        "given": "K."
+      },
+      {
+        "family": "Tenorio",
+        "given": "L.U."
+      }
+    ],
+    "title": "A first assessment of the Ticolichen biodiversity inventory in Costa Rica and adjacent areas: the thelotremoid Graphidaceae (Ascomycota: Ostropales",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "1–214",
+    "URL": "https://doi.org/10.11646/phytotaxa.55.1.1",
+    "DOI": "10.11646/phytotaxa.55.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Vainio",
+        "given": "E.A."
+      }
+    ],
+    "title": "Lichenes novi rarioresque",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Hedwigia",
+    "issued": "1907",
+    "page": "168–181"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "https://doi.org/10.1128/jb.172.8.4238-4246.1990",
+    "DOI": "10.1128/jb.172.8.4238-4246.1990"
+  },
+  {
+    "author": [
+      {
+        "family": "Weerakoon",
+        "given": "G."
+      },
+      {
+        "family": "Rivas-Plata",
+        "given": "E."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      }
+    ],
+    "title": "Three new species of Chapsa (lichenized Ascomycota: Ostropales: Graphidaceae) from tropical Asia",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "The Lichenologist",
+    "issued": "2012",
+    "page": "373–379",
+    "URL": "https://doi.org/10.1017/S0024282911000892",
+    "DOI": "10.1017/S0024282911000892"
+  },
+  {
+    "author": [
+      {
+        "family": "Weerakoon",
+        "given": "G."
+      },
+      {
+        "family": "Ngo",
+        "given": "K.M."
+      },
+      {
+        "family": "Lum",
+        "given": "S."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      }
+    ],
+    "title": "On time or fashionably late for lichen discoveries in Singapore? Seven new species and nineteen new records of Graphidaceae from the Bukit Timah Nature Reserve, a highly urbanized tropical environment in South-East Asia",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "The Lichenologist",
+    "issued": "2015",
+    "page": "157–166",
+    "URL": "https://doi.org/10.1017/S0024282915000043",
+    "DOI": "10.1017/S0024282915000043"
+  }
+]

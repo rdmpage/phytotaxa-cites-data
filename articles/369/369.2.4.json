@@ -1,0 +1,1216 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "The botany of the voyage of HMS Sulphur, under command of Captain Sir Edward Belcher, during the years 1836–42",
+    "publisher": "Smith, Elder",
+    "type": "book",
+    "issued": "1844",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Britton",
+        "given": "N.L."
+      },
+      {
+        "family": "Rose",
+        "given": "J.N."
+      }
+    ],
+    "title": "The Cactaceae. Descriptions and illustrations of plants of the cactus family",
+    "volume": "4",
+    "publisher": "The Carnegie Institution of Washington",
+    "type": "book",
+    "issued": "1923",
+    "publisher-place": "Washington, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Calonje",
+        "given": "M."
+      },
+      {
+        "family": "Stevenson",
+        "given": "D.W."
+      },
+      {
+        "family": "Stanberg",
+        "given": "L."
+      }
+    ],
+    "title": "The World List of Cycads",
+    "edition": "online",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "http://www.cycadlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Chemnick",
+        "given": "J."
+      },
+      {
+        "family": "Gregory",
+        "given": "T."
+      }
+    ],
+    "title": "Dioon sonorense. The IUCN Red List of Threatened Species",
+    "type": null,
+    "issued": "2010",
+    "page": "42130 10661262",
+    "URL": "https://doi.org/10.2305/IUCN.UK.2010-3.RLTS.T42130A10661262.en",
+    "DOI": "10.2305/IUCN.UK.2010-3.RLTS.T42130A10661262.en"
+  },
+  {
+    "author": [
+      {
+        "family": "Chemnick",
+        "given": "J."
+      },
+      {
+        "family": "Gregory",
+        "given": "T.J."
+      },
+      {
+        "family": "Salas Morales",
+        "given": "S."
+      }
+    ],
+    "title": "A revision of Dioon tomasellii (Zamiaceae) from western Mexico, a range extension of D. merolae, and clarification of D. purpusii",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1997",
+    "page": "1–6"
+  },
+  {
+    "author": [
+      {
+        "family": "De Luca",
+        "given": "P."
+      },
+      {
+        "family": "Sabato",
+        "given": "S."
+      }
+    ],
+    "title": "Dioon califanoi (Zamiaceae), a new species from Mexico",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1979",
+    "page": "170–173",
+    "URL": "https://doi.org/10.2307/2806693",
+    "DOI": "10.2307/2806693"
+  },
+  {
+    "author": [
+      {
+        "family": "De Luca",
+        "given": "P."
+      },
+      {
+        "family": "Moretti",
+        "given": "A."
+      },
+      {
+        "family": "Sabato",
+        "given": "S."
+      },
+      {
+        "family": "Torres",
+        "given": "M.V."
+      }
+    ],
+    "title": "Dioon rzedowskii (Zamiaceae), a new species from Mexico",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1980",
+    "page": "225–229",
+    "URL": "https://doi.org/10.2307/2806794",
+    "DOI": "10.2307/2806794"
+  },
+  {
+    "author": [
+      {
+        "family": "De Luca",
+        "given": "P."
+      },
+      {
+        "family": "Sabato",
+        "given": "S."
+      },
+      {
+        "family": "Torres",
+        "given": "M.V."
+      }
+    ],
+    "title": "Dioon caputoi (Zamiaceae), a new species from Mexico",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1980",
+    "page": "43–46",
+    "URL": "https://doi.org/10.2307/2806216",
+    "DOI": "10.2307/2806216"
+  },
+  {
+    "author": [
+      {
+        "family": "De Luca",
+        "given": "P."
+      },
+      {
+        "family": "Sabato",
+        "given": "S."
+      },
+      {
+        "family": "Torres",
+        "given": "M.V."
+      }
+    ],
+    "title": "Dioon merolae (Zamiaceae), a new species from Mexico",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1981",
+    "page": "179–185",
+    "URL": "https://doi.org/10.2307/2806317",
+    "DOI": "10.2307/2806317"
+  },
+  {
+    "author": [
+      {
+        "family": "De Luca",
+        "given": "P."
+      },
+      {
+        "family": "Sabato",
+        "given": "S."
+      },
+      {
+        "family": "Torres",
+        "given": "M.V."
+      }
+    ],
+    "title": "Dioon holmgrenii (Zamiaceae), a new species from Mexico",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1981",
+    "page": "552–555",
+    "URL": "https://doi.org/10.2307/2806763",
+    "DOI": "10.2307/2806763"
+  },
+  {
+    "author": [
+      {
+        "family": "De Luca",
+        "given": "P."
+      },
+      {
+        "family": "Sabato",
+        "given": "S."
+      },
+      {
+        "family": "Torres",
+        "given": "M.V."
+      }
+    ],
+    "title": "Distribution and variation of Dion edule (Zamiaceae",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1982",
+    "page": "355–362",
+    "URL": "https://doi.org/10.2307/2806710",
+    "DOI": "10.2307/2806710"
+  },
+  {
+    "author": [
+      {
+        "family": "De Luca",
+        "given": "P."
+      },
+      {
+        "family": "Sabato",
+        "given": "S."
+      },
+      {
+        "family": "Torres",
+        "given": "M.V."
+      }
+    ],
+    "title": "Dion tomasellii (Zamiaceae), a new species with two varieties from western Mexico",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1984",
+    "page": "223–227",
+    "URL": "https://doi.org/10.2307/2806511",
+    "DOI": "10.2307/2806511"
+  },
+  {
+    "author": [
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      }
+    ],
+    "title": "Ein neues Dioon",
+    "publisher": "Gartenflora. Zeitung",
+    "type": "book",
+    "issued": "1883",
+    "page": "411–413, 438–439",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Diagnosen neuer Burseraceae und Anacardiaceae. Botanische Jahrbücher für Systematik",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1880",
+    "page": "41–47"
+  },
+  {
+    "author": [
+      {
+        "family": "García",
+        "given": "E."
+      }
+    ],
+    "title": "Modificaciones al sistema de clasificación climática de Köppen",
+    "publisher": "UNAM",
+    "type": "book",
+    "issued": "2004",
+    "page": "90",
+    "publisher-place": "Mexico, D.F"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "H.S."
+      }
+    ],
+    "title": "Rio Mayo plants, a study of the flora and vegetation of the valley of the Rio Mayo, Sonora",
+    "publisher": "Carnegie Institution of Washington",
+    "genre": "Publication 527.",
+    "type": null,
+    "issued": "1942",
+    "publisher-place": "Washington, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Astorga",
+        "given": "J."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Iglesias",
+        "given": "C."
+      }
+    ],
+    "title": "Morphological and geographic variation of the cycad Dioon edule Lindl. (Zamiaceae): ecological and evolutionary implications",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2003",
+    "page": "465–470",
+    "URL": "https://doi.org/10.1046/j.1095-8339.2003.00155.x",
+    "DOI": "10.1046/j.1095-8339.2003.00155.x"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Astorga",
+        "given": "J."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Ferrer",
+        "given": "M.M."
+      },
+      {
+        "family": "Iglesias",
+        "given": "C."
+      }
+    ],
+    "title": "Population genetics of Dioon edule Lindl. (Zamiaceae, Cycadales): biogeographical and evolutionary implications",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Biological Journal of the Linnean Society",
+    "issued": "2003",
+    "page": "457–467",
+    "URL": "https://doi.org/10.1046/j.1095-8312.2003.00257.x",
+    "DOI": "10.1046/j.1095-8312.2003.00257.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Plantae Novae Thurberianae: the characters of some new genera and species of plants in a collection made by George Thurber, Esq., of the late Mexican boundary commission, chiefly in New Mexico and Sonora",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Memoirs of the American Academy of Arts and Sciences",
+    "issued": "1855",
+    "page": "297–328",
+    "URL": "https://doi.org/10.2307/25058183",
+    "DOI": "10.2307/25058183"
+  },
+  {
+    "author": [
+      {
+        "family": "Greenman",
+        "given": "J.M."
+      }
+    ],
+    "title": "New and otherwise noteworthy angiosperms from Mexico and Central America",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "39",
+    "publisher": "Harvard University Press",
+    "issue": "5",
+    "type": "article-journal",
+    "issued": "1903",
+    "page": "69–120",
+    "publisher-place": "Cambridge, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Gregory",
+        "given": "T.J."
+      },
+      {
+        "family": "Chemnick",
+        "given": "J."
+      },
+      {
+        "family": "Salas-Morales",
+        "given": "S."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      }
+    ],
+    "title": "A new species in the genus Dioon (Zamiaceae) from north-central Oaxaca, Mexico",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2003",
+    "page": "471–476",
+    "URL": "https://doi.org/10.1046/j.1095-8339.2003.t01-1-00151.x",
+    "DOI": "10.1046/j.1095-8339.2003.t01-1-00151.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Gutiérrez-Ortega",
+        "given": "J.S."
+      },
+      {
+        "family": "Kajita",
+        "given": "T."
+      },
+      {
+        "family": "Molina-Freaner",
+        "given": "F.E."
+      }
+    ],
+    "title": "Conservation genetics of an endangered cycad, Dioon sonorense (Zamiaceae): implications from variation of chloroplast DNA",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Botanical Sciences",
+    "issued": "2014",
+    "page": "441–451",
+    "URL": "https://doi.org/10.17129/botsci.112",
+    "DOI": "10.17129/botsci.112"
+  },
+  {
+    "author": [
+      {
+        "family": "Gutiérrez-Ortega",
+        "given": "J.S."
+      },
+      {
+        "family": "Salinas-Rodríguez",
+        "given": "M.M."
+      },
+      {
+        "family": "Martínez",
+        "given": "J.F."
+      },
+      {
+        "family": "Molina-Freaner",
+        "given": "F."
+      },
+      {
+        "family": "Pérez-Farrera",
+        "given": "M.A."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Matsuki",
+        "given": "Y."
+      },
+      {
+        "family": "Suyama",
+        "given": "Y."
+      },
+      {
+        "family": "Ohsawa",
+        "given": "T.A."
+      },
+      {
+        "family": "Watano",
+        "given": "Y."
+      },
+      {
+        "family": "Kajita",
+        "given": "T."
+      }
+    ],
+    "title": "The phylogeography of the cycad genus Dioon (Zamiaceae) clarifies its Cenozoic expansion and diversification in the Mexican transition zone",
+    "volume": "121",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issue": "3",
+    "issued": "2018",
+    "page": "535–548",
+    "URL": "https://doi.org/10.1093/aob/mcx165",
+    "DOI": "10.1093/aob/mcx165"
+  },
+  {
+    "author": [
+      {
+        "family": "Gutiérrez-Ortega",
+        "given": "J.S."
+      },
+      {
+        "family": "Yamamoto",
+        "given": "T."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Pérez-Farrera",
+        "given": "M.A."
+      },
+      {
+        "family": "Martínez",
+        "given": "J.F."
+      },
+      {
+        "family": "Molina-Freaner",
+        "given": "F."
+      },
+      {
+        "family": "Watano",
+        "given": "Y."
+      },
+      {
+        "family": "Kajita",
+        "given": "T."
+      }
+    ],
+    "title": "Aridification as a driver of biodiversity: A case study for the cycad genus Dioon (Zamiaceae",
+    "volume": "121",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issue": "1",
+    "issued": "2018",
+    "page": "47–60",
+    "URL": "https://doi.org/10.1093/aob/mcx123",
+    "DOI": "10.1093/aob/mcx123"
+  },
+  {
+    "author": [
+      {
+        "family": "Gutiérrez-Ortega",
+        "given": "J.S."
+      },
+      {
+        "family": "Jiménez-Cedillo",
+        "given": "K."
+      },
+      {
+        "family": "Pérez-Farrera",
+        "given": "M.A."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Martínez",
+        "given": "J.F."
+      },
+      {
+        "family": "Molina-Freaner",
+        "given": "F."
+      },
+      {
+        "family": "Imai",
+        "given": "R."
+      },
+      {
+        "family": "Tsuda",
+        "given": "Y."
+      },
+      {
+        "family": "Matsuki",
+        "given": "Y."
+      },
+      {
+        "family": "Suyama",
+        "given": "Y."
+      },
+      {
+        "family": "Watano",
+        "given": "Y."
+      },
+      {
+        "family": "Kajita",
+        "given": "T."
+      }
+    ],
+    "title": "Considering evolutionary processes in cycad conservation: identification of evolutionarily significant units within Dioon sonorense (Zamiaceae) in northwestern Mexico",
+    "type": "article-journal",
+    "container-title": "Conservation Genetics",
+    "issued": "2018",
+    "URL": "https://doi.org/10.1007/s10592-018-1079-2",
+    "DOI": "10.1007/s10592-018-1079-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Haworth",
+        "given": "A.H."
+      }
+    ],
+    "title": "Synopsis plantarum succulentarum",
+    "publisher": "R. Taylor & Co",
+    "type": "book",
+    "issued": "1812",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Kearney",
+        "given": "THJr"
+      },
+      {
+        "family": "Wilcox",
+        "given": "Timothy E."
+      }
+    ],
+    "title": "Erythrina flabelliformis Kearney",
+    "editor": [
+      {
+        "family": "Britton",
+        "given": "N.L."
+      },
+      {
+        "family": "Kearney",
+        "given": "T.H."
+      }
+    ],
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Transactions of the New York Academy of Sciences",
+    "issued": "1894",
+    "page": "21–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Liebmann",
+        "given": "F.M."
+      }
+    ],
+    "title": "Overs. Danske Vidensk",
+    "type": "article-journal",
+    "container-title": "Selsk. Forhandl. Medlemmers Arbeider",
+    "issued": "1854"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Dion edule",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Edward’s botanical register",
+    "issued": "1843",
+    "page": "59–60",
+    "publisher-place": "James Ridgeway, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Lundell",
+        "given": "C.L."
+      }
+    ],
+    "title": "Studies of tropical American plants-I",
+    "container-title": "Contributions from the University of Michigan herbarium 4. Ann Arbor",
+    "publisher": "University of Michigan Press",
+    "type": "chapter",
+    "issued": "1940",
+    "publisher-place": "Michigan"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Tijdschr",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Wis-Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch",
+    "issued": "1847",
+    "page": "37–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Nash",
+        "given": "G.V."
+      }
+    ],
+    "title": "A revision of the family Fouquieriaceae",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1903",
+    "page": "449–459",
+    "URL": "https://doi.org/",
+    "DOI": "10.2307/2478732"
+  },
+  {
+    "author": [
+      {
+        "family": "Nicolalde-Morejón",
+        "given": "F."
+      },
+      {
+        "family": "Vergara-Silva",
+        "given": "F."
+      },
+      {
+        "family": "González-Astorga",
+        "given": "J."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Monteros",
+        "given": "A.E.",
+        "particle": "de los"
+      }
+    ],
+    "title": "Reciprocal illumination of morphological characters upon a molecular hypothesis supports the proposal of a new species of cycad from Mexico",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Systematics and Biodiversity",
+    "issued": "2009",
+    "page": "73–79",
+    "URL": "https://doi.org/10.1017/S1477200008002879",
+    "DOI": "10.1017/S1477200008002879"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Farrera",
+        "given": "M.A."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Ruiz-Castillejos",
+        "given": "C."
+      },
+      {
+        "family": "Galicia",
+        "given": "S."
+      },
+      {
+        "family": "Cibrián-Jaramillo",
+        "given": "A."
+      },
+      {
+        "family": "López",
+        "given": "S."
+      }
+    ],
+    "title": "Anatomy and morphology suggest a hybrid origin of Zamia katzeriana (Zamiaceae",
+    "volume": "270",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2016",
+    "page": "161–181",
+    "URL": "https://doi.org/10.11646/phytotaxa.270.3.1",
+    "DOI": "10.11646/phytotaxa.270.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Farrera",
+        "given": "M.A."
+      },
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "S",
+        "given": "Avendaño"
+      }
+    ],
+    "title": "Morphology and leaflet anatomy of the Ceratozamia norstogii (Zamiaceae, Cycadales) species complex in Mexico with comments on relationships and speciation",
+    "volume": "175",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issue": "1",
+    "issued": "2014",
+    "page": "110–121",
+    "URL": "https://doi.org/10.1086/673537",
+    "DOI": "10.1086/673537"
+  },
+  {
+    "author": [
+      {
+        "family": "Pritchard",
+        "given": "J.K."
+      },
+      {
+        "family": "Wen",
+        "given": "X."
+      },
+      {
+        "family": "Falush",
+        "given": "D."
+      }
+    ],
+    "title": "Documentation for structure software: Version 2.3",
+    "publisher": "University of Chicago",
+    "type": "book",
+    "issued": "2010",
+    "publisher-place": "Chicago, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Rose",
+        "given": "J.N."
+      }
+    ],
+    "title": "Studies of Mexican and Central American plants",
+    "volume": "8",
+    "issue": "4",
+    "type": null,
+    "issued": "1905",
+    "page": "281–339"
+  },
+  {
+    "author": [
+      {
+        "family": "Rose",
+        "given": "J.N."
+      }
+    ],
+    "title": "Studies of Mexican and Central American plants",
+    "volume": "12",
+    "issue": "6",
+    "type": null,
+    "issued": "1909",
+    "page": "260–261"
+  },
+  {
+    "author": [
+      {
+        "family": "Rzedowski",
+        "given": "J."
+      },
+      {
+        "family": "Huerta",
+        "given": "L."
+      }
+    ],
+    "title": "Vegetación de México",
+    "volume": "432",
+    "publisher": "Limusa",
+    "type": "book",
+    "issued": "1978",
+    "publisher-place": "Mexico"
+  },
+  {
+    "author": [
+      {
+        "family": "Sabato",
+        "given": "S."
+      },
+      {
+        "family": "De Luca",
+        "given": "P."
+      }
+    ],
+    "title": "Evolutionary trends in Dion (Zamiaceae",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1985",
+    "page": "1353–1363",
+    "URL": "https://doi.org/10.2307/2443507",
+    "DOI": "10.2307/2443507"
+  },
+  {
+    "author": [
+      {
+        "family": "Salas-Morales",
+        "given": "S.H."
+      },
+      {
+        "family": "Chemnick",
+        "given": "J."
+      },
+      {
+        "family": "Gregory",
+        "given": "T.J."
+      }
+    ],
+    "title": "A new cycad species in the genus Dioon (Zamiaceae) from the Mixteca Region of Oaxaca, Mexico",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Cactus and Succulent Journal",
+    "issued": "2016",
+    "page": "35–42",
+    "URL": "https://doi.org/10.2985/015.088.0104",
+    "DOI": "10.2985/015.088.0104"
+  },
+  {
+    "author": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      },
+      {
+        "family": "Williams",
+        "given": "L.O."
+      }
+    ],
+    "title": "Dioon mejiae, a new cycad from Honduras",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Ceiba",
+    "issued": "1951",
+    "page": "36–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Suyama",
+        "given": "Y."
+      },
+      {
+        "family": "Matsuki",
+        "given": "Y."
+      }
+    ],
+    "title": "MIG-seq: an effective PCR-based method for genome-wide single-nucleotide polymorphism genotyping using the next-generation sequencing platform",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Scientific Reports",
+    "issued": "2015",
+    "URL": "https://doi.org/10.1038/srep16963",
+    "DOI": "10.1038/srep16963"
+  },
+  {
+    "author": [
+      {
+        "family": "Torrey",
+        "given": "J."
+      }
+    ],
+    "title": "Botany",
+    "editor": [
+      {
+        "family": "Sitgreaves",
+        "given": "L."
+      }
+    ],
+    "publisher": "Robert Armstrong, Public Printer",
+    "type": "book",
+    "issued": "1853",
+    "publisher-place": "Washington, U.S.A"
+  },
+  {
+    "author": [
+      {
+        "family": "Trelease",
+        "given": "W."
+      }
+    ],
+    "title": "The American oaks",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Memoirs of the National Academy of Sciences",
+    "issued": "1924",
+    "page": "1–255",
+    "URL": "https://doi.org/10.5962/bhl.title.142965",
+    "DOI": "10.5962/bhl.title.142965"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "B.L."
+      },
+      {
+        "family": "Barkley",
+        "given": "T.M."
+      }
+    ],
+    "title": "New species, names and combinations in Senecio, sect",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Palmatinervii (Asteraceae). Phytologia",
+    "issued": "1989",
+    "page": "390–393",
+    "URL": "https://doi.org/10.5962/bhl.part.9106",
+    "DOI": "10.5962/bhl.part.9106"
+  },
+  {
+    "author": [
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Clugston",
+        "given": "J.A.R."
+      },
+      {
+        "family": "Gutiérrez-Ortega",
+        "given": "J.S."
+      },
+      {
+        "family": "Pérez-Farrera",
+        "given": "M.A."
+      },
+      {
+        "family": "Sánchez-Tinoco",
+        "given": "M.Y."
+      },
+      {
+        "family": "S",
+        "given": "Galicia"
+      }
+    ],
+    "title": "Epidermal morphology and leaflet anatomy of Dioon (Zamiaceae) with comments on climate and environment",
+    "volume": "239",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "2018",
+    "page": "20–44",
+    "URL": "https://doi.org/10.1016/j.flora.2017.11.002",
+    "DOI": "10.1016/j.flora.2017.11.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Stevenson",
+        "given": "DWm"
+      },
+      {
+        "family": "Pérez-Farrera",
+        "given": "M.A."
+      },
+      {
+        "family": "López",
+        "given": "S."
+      },
+      {
+        "family": "Avendaño",
+        "given": "S."
+      }
+    ],
+    "container-title": "What is Ceratozamia mexicana (Zamiaceae)? Botanical Sciences",
+    "volume": "94",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "2016",
+    "page": "419–429",
+    "URL": "https://doi.org/10.17129/botsci.449",
+    "DOI": "10.17129/botsci.449"
+  },
+  {
+    "author": [
+      {
+        "family": "Vovides",
+        "given": "A.P."
+      },
+      {
+        "family": "Avendaño",
+        "given": "S."
+      },
+      {
+        "family": "Pérez-Farrera",
+        "given": "M.A."
+      },
+      {
+        "family": "Stevenson",
+        "given": "DWm"
+      }
+    ],
+    "title": "What is Ceratozamia brevifrons (Zamiaceae)?",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "1",
+    "issued": "2012",
+    "page": "35–42",
+    "URL": "https://doi.org/10.1007/s12228-011-9199-8",
+    "DOI": "10.1007/s12228-011-9199-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Walters",
+        "given": "T."
+      },
+      {
+        "family": "Osborne",
+        "given": "R."
+      },
+      {
+        "family": "Decker",
+        "given": "D."
+      }
+    ],
+    "title": "We hold these truths",
+    "editor": [
+      {
+        "family": "Walters",
+        "given": "T."
+      },
+      {
+        "family": "Osborne",
+        "given": "R."
+      }
+    ],
+    "publisher": "CABI Publishing",
+    "type": "book",
+    "issued": "2004",
+    "page": "1–11",
+    "publisher-place": "Cambridge",
+    "URL": "https://doi.org/10.1079/9780851997414.0001",
+    "DOI": "10.1079/9780851997414.0001"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "S."
+      }
+    ],
+    "title": "Contributions to American botany: Revision of the North American Liliaceae; Descriptions of some new species of North American plants",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "14",
+    "type": "paper-conference",
+    "issued": "1879",
+    "page": "213–303",
+    "URL": "https://doi.org/",
+    "DOI": "10.2307/25138538"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "S."
+      }
+    ],
+    "title": "Contributions to American botany",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "24",
+    "type": "paper-conference",
+    "issued": "1889",
+    "page": "36–87",
+    "URL": "https://doi.org/10.2307/20021550",
+    "DOI": "10.2307/20021550"
+  },
+  {
+    "author": [
+      {
+        "family": "Whitelock",
+        "given": "L.M."
+      }
+    ],
+    "title": "The cycads",
+    "publisher": "Timber Press",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Portland, U.S.A"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "C.E."
+      }
+    ],
+    "title": "The American barbistyled species of Tephrosia (Leguminosae",
+    "volume": "170",
+    "type": "article-journal",
+    "container-title": "Contributions from the Gray Herbarium of Harvard University",
+    "issued": "1949",
+    "page": "193–384"
+  }
+]

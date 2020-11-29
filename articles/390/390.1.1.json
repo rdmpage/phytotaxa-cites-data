@@ -1,0 +1,2989 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adanson",
+        "given": "M."
+      }
+    ],
+    "title": "Familles des Plantes",
+    "genre": "Vincent,",
+    "publisher": "Paris",
+    "type": null,
+    "issued": "1763",
+    "page": "640"
+  },
+  {
+    "editor": [
+      {
+        "family": "Amakawa",
+        "given": "T."
+      }
+    ],
+    "title": "The Flora and Vegetation of Fukuoka Prefecture",
+    "publisher": "Hakuyôsha, Fukuoka",
+    "type": "book",
+    "issued": "1975",
+    "page": "339"
+  },
+  {
+    "author": [
+      {
+        "family": "Baillon",
+        "given": "H."
+      }
+    ],
+    "title": "Histoire des Plantes 12",
+    "publisher": "Librairie Hachette & Cie",
+    "type": "book",
+    "issued": "1894",
+    "page": "611",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.D."
+      }
+    ],
+    "title": "On a new species of Heloniopsis from Formosa",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Journal of Botany, British and Foreign",
+    "issued": "1874",
+    "page": "278"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.D."
+      }
+    ],
+    "title": "A synopsis of Colchicaceae and the aberrant tribes of Liliaceae",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1879",
+    "page": "405–510"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Liliaceae",
+    "editor": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "Genera Plantarum",
+    "volume": "3",
+    "publisher": "L. Reeve & Co., Williams & Norgate",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1883",
+    "page": "748–836",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Britton",
+        "given": "N.L."
+      },
+      {
+        "family": "Brown",
+        "given": "H.A."
+      }
+    ],
+    "title": "An Illustrated Flora of the Northern United States, Canada and the British Possessions 1",
+    "publisher": "Charles Scribner’s Sons",
+    "type": "book",
+    "issued": "1896",
+    "page": "612",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Britton",
+        "given": "N.L."
+      },
+      {
+        "family": "Brown",
+        "given": "H.A."
+      }
+    ],
+    "title": "An Illustrated Flora of the Northern United States, Canada and the British Possessions",
+    "edition": "Second ed., 1",
+    "publisher": "Charles Scribner’s Sons",
+    "type": "book",
+    "issued": "1913",
+    "page": "680",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Observatory",
+        "given": "Central Meteorological"
+      }
+    ],
+    "title": "Climatic Atlas of Japan and her Neighbouring Countries",
+    "type": "article-journal",
+    "container-title": "Tokyo",
+    "issued": "1929",
+    "page": "27 , 95"
+  },
+  {
+    "author": [
+      {
+        "family": "Chafin",
+        "given": "L.G."
+      }
+    ],
+    "title": "Swamp Pink (Helonias bullata), updated on Feburary 2010 by K. Owers by adding pictures",
+    "container-title": "Georgia Department of Natural Resources, Wildlife Resources Division, Species Fact Sheets",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2007",
+    "URL": "http://georgiawildlife.com/sites/default/files/wrd/pdf/fact-sheets/swamp_pink_2010.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Chaney",
+        "given": "R.W."
+      }
+    ],
+    "title": "Tertiary centers and migration routes",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Ecological Monographs",
+    "issued": "1947",
+    "page": "141–148"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.-C."
+      }
+    ],
+    "title": "Ypsilandra",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "F.T."
+      },
+      {
+        "family": "Tang",
+        "given": "T."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "14",
+    "note": "in Chinese",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "15–18"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "W.H."
+      },
+      {
+        "family": "Shui",
+        "given": "Y.M."
+      },
+      {
+        "family": "Yu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "A new species of Ypsilandra (Liliaceae) and its geographic implication of SE Yunnan province",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Research, Harbin",
+    "issue": "3",
+    "issued": "2003",
+    "page": "267–268"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "X.-Q."
+      },
+      {
+        "family": "Tamura",
+        "given": "M.N."
+      }
+    ],
+    "title": "Ypsilandra",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "article-journal",
+    "container-title": "& Missouri Bot. Garden, St. Louis",
+    "issued": "2000",
+    "page": "86–87",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chong",
+        "given": "T.H."
+      }
+    ],
+    "title": "Korean Flora 2 (Herbaceous plants",
+    "note": "in Korean",
+    "type": "article-journal",
+    "container-title": "Synji Sa, Seoul",
+    "issued": "1956",
+    "page": "129"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlgren",
+        "given": "R.M.T."
+      },
+      {
+        "family": "Clifford",
+        "given": "H.T."
+      },
+      {
+        "family": "Yeo",
+        "given": "F."
+      }
+    ],
+    "title": "The Families of the Monocotyledons",
+    "publisher": "Springer-Verlag",
+    "type": "book",
+    "issued": "1985",
+    "page": "520",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Doi",
+        "given": "Y."
+      }
+    ],
+    "title": "Hiroshima-ken Shokubutsu Mokuroku (Enumeratio Plantarum in Pref. Hiroshima (Provincia Aki et Bingo) Sponte Nascentium",
+    "publisher": "Hakushinkan Press",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1983",
+    "page": "148",
+    "publisher-place": "Hiroshima"
+  },
+  {
+    "author": [
+      {
+        "family": "Endlicher",
+        "given": "S.L."
+      }
+    ],
+    "title": "Genera Plantarum Secundum Ordines Naturales Disposita",
+    "publisher": "Fr. Beck Univ",
+    "note": "Bibl., Vindobonae (Wien), 1483",
+    "type": null,
+    "issued": "1836",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Liliaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien 2 (5",
+    "publisher": "Verlag von W. Engelmann",
+    "type": "chapter",
+    "issued": "1887",
+    "page": "10–91",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "editor": [
+      {
+        "family": "Japan",
+        "given": "Environment Agency",
+        "particle": "of"
+      }
+    ],
+    "title": "Threatened Wildlife of Japan",
+    "container-title": "Red Data Book",
+    "edition": "2nd ed. 8",
+    "publisher": "Vascular Plants. Japan Wildlife Research Center, Tokyo",
+    "note": "in Japanese",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "660"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernald",
+        "given": "M.L."
+      }
+    ],
+    "title": "Gray’s Manual of Botany",
+    "edition": "eighth",
+    "publisher": "American Book Company",
+    "type": "book",
+    "issued": "1950",
+    "page": null,
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A."
+      }
+    ],
+    "title": "Plantae Davidianae ex Sinarum imperio 2. Plantes du Thibet oriental. Nouvelles Archives du Muséum d’Histoire Naturelle",
+    "volume": "2, 10",
+    "type": "article-journal",
+    "container-title": "Paris Sér",
+    "issued": "1887",
+    "page": "33–198, 10–17"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A."
+      }
+    ],
+    "title": "Plantae Davidianae ex Sinarum Imperio 2. Plantes du Thibet Oriental",
+    "note": "Reprint of Franchet 1887–1888].",
+    "publisher": "G. Masson, Paris",
+    "type": null,
+    "issued": "1888",
+    "page": "234 , 2–17"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A."
+      },
+      {
+        "family": "Savatier",
+        "given": "L."
+      }
+    ],
+    "title": "Enumeratio Plantarum in Japonia Sponte Crescentium",
+    "volume": "2. F",
+    "note": "Part 2 ‘1878’].",
+    "type": null,
+    "issued": "1877",
+    "page": "1–256",
+    "publisher-place": "Savy, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Fuse",
+        "given": "S."
+      },
+      {
+        "family": "Tamura",
+        "given": "M.N."
+      }
+    ],
+    "title": "A phylogenetic analysis of the plastid matK gene with emphasis on Melanthiaceae sensu lato",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Plant Biology",
+    "issued": "2000",
+    "page": "415–427"
+  },
+  {
+    "author": [
+      {
+        "family": "Fuse",
+        "given": "S."
+      },
+      {
+        "family": "Tamura",
+        "given": "M.N."
+      }
+    ],
+    "title": "Investigation of maintaining mechanisms of species in case of the genus Heloniopsis (Melanthiaceae, Liliaceae sensu lato",
+    "volume": "3",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Bunrui",
+    "issued": "2003",
+    "page": "33–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Fuse",
+        "given": "S."
+      },
+      {
+        "family": "Tamura",
+        "given": "M.N."
+      }
+    ],
+    "title": "Biosystematic studies on the genus Heloniopsis (Melanthiaceae) I. Phylogeny inferred from plastid DNA sequences and taxonomic implications",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2016",
+    "page": "584–595",
+    "URL": "https://doi.org/10.1111/njb.01055",
+    "DOI": "10.1111/njb.01055"
+  },
+  {
+    "author": [
+      {
+        "family": "Fuse",
+        "given": "S."
+      },
+      {
+        "family": "Lee",
+        "given": "N.S."
+      },
+      {
+        "family": "Tamura",
+        "given": "M.N."
+      }
+    ],
+    "title": "Biosystematic studies on the genus Heloniopsis (Melanthiaceae) II. Two new species from Korea based on morphological and molecular evidence",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2004",
+    "page": "949–958"
+  },
+  {
+    "author": [
+      {
+        "family": "Gates",
+        "given": "R.R."
+      }
+    ],
+    "title": "A systematic study of the North American Melanthaceae from the genetic standpoint",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1918",
+    "page": "131–172"
+  },
+  {
+    "author": [
+      {
+        "family": "Givnish",
+        "given": "T.J."
+      },
+      {
+        "family": "Zuluaga",
+        "given": "A."
+      },
+      {
+        "family": "Marques",
+        "given": "I."
+      },
+      {
+        "family": "Lam",
+        "given": "V.K.Y."
+      },
+      {
+        "family": "Gomez",
+        "given": "M.S."
+      },
+      {
+        "family": "Iles",
+        "given": "W.J.D."
+      },
+      {
+        "family": "Ames",
+        "given": "M."
+      },
+      {
+        "family": "Spalink",
+        "given": "D."
+      },
+      {
+        "family": "Moeller",
+        "given": "J.K."
+      },
+      {
+        "family": "Briggs",
+        "given": "B.G."
+      },
+      {
+        "family": "Lyon",
+        "given": "S.P."
+      },
+      {
+        "family": "Stevenson",
+        "given": "D.W."
+      },
+      {
+        "family": "Zomlefer",
+        "given": "W."
+      },
+      {
+        "family": "Graham",
+        "given": "S.W."
+      }
+    ],
+    "title": "Phylogenomics and historical biogeography of the monocot order Liliales: out of Australia and through Antarctica",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "2016",
+    "page": "581–605",
+    "URL": "https://doi.org/10.1111/cla.12153",
+    "DOI": "10.1111/cla.12153"
+  },
+  {
+    "author": [
+      {
+        "family": "Gleason",
+        "given": "H.A."
+      }
+    ],
+    "title": "The New Britton and Brown Illustrated Flora of the Northeastern United States and Adjacent Canada",
+    "volume": "1",
+    "publisher": "Hafner Press",
+    "type": "book",
+    "issued": "1952",
+    "page": "482",
+    "publisher-place": "New York Bot. Gard"
+  },
+  {
+    "author": [
+      {
+        "family": "Godt",
+        "given": "M.J.W."
+      },
+      {
+        "family": "Hamrick",
+        "given": "J.L."
+      },
+      {
+        "family": "Bratton",
+        "given": "S."
+      }
+    ],
+    "title": "Genetic diversity in a threatened wetland species, Helonias bullata (Liliaceae",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Conservation Biology",
+    "issued": "1995",
+    "page": "596–604"
+  },
+  {
+    "author": [
+      {
+        "family": "Good",
+        "given": "R."
+      }
+    ],
+    "title": "The Geography of the Flowering Plants",
+    "edition": "Fourth",
+    "publisher": "Longman, London",
+    "type": "book",
+    "issued": "1974",
+    "page": "557"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Melanthacearum Americae septentrinalis revisio",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Annals of the Lyceum of Natural History of New York",
+    "issued": "1837",
+    "page": "105–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "A Manual of the Botany of the Northern United States",
+    "publisher": "James Munroe & Co., Boston & Cambridge",
+    "type": "book",
+    "issued": "1848",
+    "page": "710"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Diagnostic characters of new species of phaenogamous plants, collected in Japan by Charles Wright, botanist of the U",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "S. North Pacific Exploring Expedition. Memoirs of the American Academy of Arts and Sciences New series",
+    "issued": "1859",
+    "page": "377–454"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A."
+      }
+    ],
+    "title": "Manual of the Botany of the Northern United States",
+    "edition": "5th",
+    "volume": null,
+    "publisher": "Ivison, Blakeman, Taylor & Co",
+    "issue": "issue)",
+    "type": "book",
+    "issued": "1868",
+    "page": "703 20",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Handel-Mazzetti",
+        "given": "H.R.E."
+      }
+    ],
+    "title": "Plantae novae Sinenses, diagnosibus brevibus descriptae a Dre Heinr. Handel-Mazzetti. Anzeiger der Akademie der Wissenschaften in Wien",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Mathematische-naturwissenchaftliche Klasse",
+    "issued": "1923",
+    "page": "152–155"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "H."
+      }
+    ],
+    "title": "Annotationes miscellaneae ad plantas Asiae-Orientalis (III",
+    "volume": "21",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1947",
+    "page": "143–150"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "H."
+      },
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      },
+      {
+        "family": "Williams",
+        "given": "L.H.J."
+      }
+    ],
+    "title": "An Enumeration of the Flowering Plants of Nepal 1",
+    "container-title": "British Museum (Natural History",
+    "type": "chapter",
+    "issued": "1978",
+    "page": "154",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "J.G."
+      },
+      {
+        "family": "Harris",
+        "given": "M.W."
+      }
+    ],
+    "title": "Plant Identification Terminology: An Illustrated Glossary",
+    "publisher": "Spring Lake Publishing, Spring Lake",
+    "type": "book",
+    "issued": "1994",
+    "page": "197"
+  },
+  {
+    "author": [
+      {
+        "family": "Hatusima",
+        "given": "S."
+      }
+    ],
+    "title": "Flora of the Ryukyus. Okinawa Seibutsu Kyôikukai",
+    "publisher": "Naha",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1971",
+    "page": "940"
+  },
+  {
+    "author": [
+      {
+        "family": "Hatusima",
+        "given": "S."
+      }
+    ],
+    "title": "Flora of the Ryukyus. Added and corrected",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Okinawa Seibutsu Kyôikukai, Naha",
+    "issued": "1975",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hatusima",
+        "given": "S."
+      }
+    ],
+    "title": "Kaitei Kagoshima-ken Shokubutsu Mokuroku [Revised List of Plants of Kagoshima Prefecture",
+    "publisher": "Kagoshima-ken Shokubutsu Dôkôkai, Asahi Insatsu, Kagoshima",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1986",
+    "page": "290"
+  },
+  {
+    "author": [
+      {
+        "family": "Hatusima",
+        "given": "S."
+      },
+      {
+        "family": "Amano",
+        "given": "T."
+      }
+    ],
+    "title": "Flora of the Ryukyus, South of Amami Island",
+    "publisher": "Deigo Shuppansha, Naha",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1977",
+    "page": "282"
+  },
+  {
+    "author": [
+      {
+        "family": "Hayata",
+        "given": "B."
+      }
+    ],
+    "title": "General Index to the Flora of Formosa. Supplement to Icones Plantarum Formosanarum 6",
+    "publisher": "Bureau of Productive Industries, Government of Formosa, Taihoku",
+    "type": "book",
+    "issued": "1917",
+    "page": "155"
+  },
+  {
+    "author": [
+      {
+        "family": "Hayata",
+        "given": "B."
+      }
+    ],
+    "title": "Icones Plantarum Formosanarum 9. Bureau of Forestry Industries",
+    "publisher": "Government of Formosa, Taihoku",
+    "type": "book",
+    "issued": "1920",
+    "page": "155 , 7"
+  },
+  {
+    "author": [
+      {
+        "family": "Hennig",
+        "given": "W."
+      }
+    ],
+    "title": "Phylogenetic systematics",
+    "translator": [
+      {
+        "family": "Davis",
+        "given": "D.Dwight"
+      },
+      {
+        "family": "Zangerl)",
+        "given": "Rainer"
+      }
+    ],
+    "publisher": "University of Illinois Press, Urbana",
+    "type": "book",
+    "issued": "1966",
+    "page": "263"
+  },
+  {
+    "author": [
+      {
+        "family": "Hickey",
+        "given": "M."
+      },
+      {
+        "family": "King",
+        "given": "C."
+      }
+    ],
+    "title": "The Cambridge Ilustrated Glossary of Botanical Terms",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "2000",
+    "page": "208"
+  },
+  {
+    "author": [
+      {
+        "family": "Hiyama",
+        "given": "K."
+      }
+    ],
+    "title": "Shirobana-syôjyôbakama",
+    "volume": "5",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Yaso",
+    "issued": "1939",
+    "page": "77–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Honda",
+        "given": "M."
+      }
+    ],
+    "title": "Species of Heloniopsis. Shokubutsu oyobi Dôbutsu (Botany and Zoology",
+    "volume": "6",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1938",
+    "page": "1675–1680"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsu",
+        "given": "T.-W."
+      },
+      {
+        "family": "Kono",
+        "given": "Y."
+      },
+      {
+        "family": "Chiang",
+        "given": "T.-Y."
+      },
+      {
+        "family": "Peng",
+        "given": "C.-I."
+      }
+    ],
+    "title": "Ypsilandra (Melanthiaceae; Liliaceae sensu lato), a new generic record for Taiwan",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Botanical Studies",
+    "issued": "2011",
+    "page": "99–104"
+  },
+  {
+    "author": [
+      {
+        "family": "Hutchinson",
+        "given": "J."
+      }
+    ],
+    "title": "The Families of Flowering Plants 2. Monocotyledons",
+    "publisher": "Macmillan & Co., London",
+    "type": "book",
+    "issued": "1934",
+    "page": "243"
+  },
+  {
+    "author": [
+      {
+        "family": "Iinuma",
+        "given": "Y."
+      }
+    ],
+    "note": "Sômoku-dzusetsu [Illustrated flora of Japan], zenpen [part 1] 6, Ôgaki [in Gifu], 53",
+    "type": null,
+    "issued": "1861",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Iinuma",
+        "given": "Y."
+      },
+      {
+        "family": "Tanaka",
+        "given": "Y.",
+        "particle": "by"
+      },
+      {
+        "family": "Ono",
+        "given": "M."
+      }
+    ],
+    "edition": "revised",
+    "title": "Shintei sômoku-dzusetsu, zenpen [part 1] 6: Heirinsô",
+    "volume": "53",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Gifu",
+    "issued": "1875",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Itô",
+        "given": "K."
+      }
+    ],
+    "title": "Taisei Honzô-meiso, Ge-kan [second part",
+    "volume": "29",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Kajô-sho’oku, Nagoya",
+    "issued": "1829",
+    "page": null
+  },
+  {
+    "title": "IUCN [International Union for Conservation of Nature and Natural Resources",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1994",
+    "URL": "http://www.iucnredlist.org/technical-documents/categories-and-criteria/1994-categories-criteria#introduction"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "First",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Iwasaki",
+        "given": "T."
+      }
+    ],
+    "title": "Bukô-sanbutsu-shi. Bukô-ryakuzu",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1824",
+    "page": "18 , 1",
+    "publisher-place": "Edo (Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Agency",
+        "given": "Japan Meteorological"
+      }
+    ],
+    "title": "Climatic Atlas of Japan 1",
+    "publisher": "Chijin-shokan",
+    "type": "book",
+    "issued": "1971",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Agency",
+        "given": "Japan Meteorological"
+      }
+    ],
+    "title": "Climatic Atlas of Japan 2",
+    "publisher": "Chijin-shokan",
+    "type": "book",
+    "issued": "1972",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "C.E.",
+        "given": "Jarvis"
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Allan",
+        "given": "D.M."
+      },
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "title": "A List of Linnean Generic Names and their Types",
+    "genre": "[Regnum Vegetabile 127]",
+    "publisher": "Koeltz Scientific Books, Königstein",
+    "type": null,
+    "issued": "1993",
+    "page": "100"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawakami",
+        "given": "T."
+      }
+    ],
+    "title": "A List of Plants of Formosa",
+    "container-title": "Bureau of Productive Industry, Government of Formosa. Taihoku (Taipei",
+    "type": "chapter",
+    "issued": "1910",
+    "page": "165 119"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawano",
+        "given": "S."
+      }
+    ],
+    "title": "The productive and reproductive biology of flowering plants II. The concept of life history in plants",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Journal of the College of Liberal Arts, Toyama University",
+    "issued": "1975",
+    "page": "51–86"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawano",
+        "given": "S."
+      }
+    ],
+    "title": "Japanese flora, its natural history background (9): temperate forest elements (part 4",
+    "volume": "10",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Shokubutsu to shizen (Nature and Plants",
+    "issued": "1976",
+    "page": "6–11"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawano",
+        "given": "S."
+      },
+      {
+        "family": "Masuda",
+        "given": "J."
+      }
+    ],
+    "title": "The productive and reproductive biology of flowering plants VII. Resource allocation and reproductive capacity in wild populations of Heloniopsis orientalis (Thunb.) C",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Tanaka (Liliaceae). Oecologia",
+    "issued": "1980",
+    "page": "307–317"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawano",
+        "given": "S."
+      },
+      {
+        "family": "Masuda",
+        "given": "J."
+      }
+    ],
+    "title": "Life history characteristics of Helonias orientalis (Thunb.) N.Tanaka (Liliaceae",
+    "editor": [
+      {
+        "family": "Kawano",
+        "given": "S."
+      }
+    ],
+    "container-title": "Life-History Monographs of Japanese Plants 1, Spring Plants",
+    "volume": "1",
+    "publisher": "Hokkaido Univ. Press",
+    "note": "in Japanese with English summary",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "73–80",
+    "publisher-place": "Sapporo"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawano",
+        "given": "S."
+      },
+      {
+        "family": "Masuda",
+        "given": "J."
+      },
+      {
+        "family": "Utech",
+        "given": "F.H."
+      }
+    ],
+    "title": "Life-history monographs of Japanese plants 9: Helonias orientalis (Thunb.) N.Tanaka (Liliaceae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Plant Species Biology",
+    "issued": "2007",
+    "page": "231–237"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "S.C."
+      },
+      {
+        "family": "Kim",
+        "given": "J.S."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "M.F.",
+        "given": "Fay"
+      },
+      {
+        "family": "Kim",
+        "given": "J.H."
+      }
+    ],
+    "title": "Molecular phylogenetic relationships of Melanthiaceae (Liliales) based on plastid DNA sequences",
+    "volume": "181",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2016",
+    "page": "567–584",
+    "URL": "https://doi.org/10.1111/boj.12405",
+    "DOI": "10.1111/boj.12405"
+  },
+  {
+    "author": [
+      {
+        "family": "Kitamura",
+        "given": "S."
+      }
+    ],
+    "title": "Liliaceae",
+    "editor": [
+      {
+        "family": "Kitamura",
+        "given": "S."
+      },
+      {
+        "family": "Murata",
+        "given": "G."
+      },
+      {
+        "family": "Koyama",
+        "given": "T."
+      }
+    ],
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1964",
+    "page": "90–157",
+    "publisher-place": "Hoikusha, Osaka"
+  },
+  {
+    "author": [
+      {
+        "family": "Kitamura",
+        "given": "S."
+      },
+      {
+        "family": "Murata",
+        "given": "G."
+      }
+    ],
+    "title": "New names and new conceptions adopted in Kitamura, Murata, and Koyama, Coloured Illustrations of Herbaceous Plants of Japan III (Monocotyledoneae",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica & Geobotanica",
+    "issued": "1966",
+    "page": "65–74"
+  },
+  {
+    "author": [
+      {
+        "family": "Koidzumi",
+        "given": "G."
+      }
+    ],
+    "title": "Contributiones ad cognitionem florae Asiae orientalis",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1925-12",
+    "page": "299–318"
+  },
+  {
+    "author": [
+      {
+        "family": "Koidzumi",
+        "given": "G."
+      }
+    ],
+    "title": "Florae Symbolae Orientali-Asiaticae. Publisher not indicated",
+    "publisher": "Kyoto",
+    "type": "book",
+    "issued": "1930",
+    "page": "115"
+  },
+  {
+    "author": [
+      {
+        "family": "Koidzumi",
+        "given": "G."
+      }
+    ],
+    "title": "Shôjôbakama zoku ni tsuite [On the genus Heloniopsis",
+    "volume": "3",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica & Geobotanica",
+    "issued": "1934",
+    "page": "42–43"
+  },
+  {
+    "author": [
+      {
+        "family": "Koidzumi",
+        "given": "G."
+      }
+    ],
+    "title": "Ryûkyû san shôjôbakama shinpin [New species of Sugerokia",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxanomica & Geobotanica",
+    "issued": "1937",
+    "page": "46–47"
+  },
+  {
+    "author": [
+      {
+        "family": "Koidzumi",
+        "given": "G."
+      }
+    ],
+    "title": "Contributiones ad cognitionem florae Asiae orientalis",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxanomica & Geobotanica",
+    "issued": "1939",
+    "page": "50–61"
+  },
+  {
+    "author": [
+      {
+        "family": "Koidzumi",
+        "given": "H."
+      }
+    ],
+    "title": "Shinshû shokubutsu no kenkyû [Studies on the flora of Shinshû (Nagano prefecture)] 1",
+    "volume": "421",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Shinano Kyôiku",
+    "issued": "1921",
+    "page": "10–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Krause",
+        "given": "K."
+      }
+    ],
+    "title": "Liliaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien 15a",
+    "publisher": "W. Engelmann",
+    "type": "chapter",
+    "issued": "1930",
+    "page": "227–386",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "N.S."
+      }
+    ],
+    "title": "Heloniopsis",
+    "editor": [
+      {
+        "family": "Park",
+        "given": "C.-W."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Academy Publ. Co., Seoul",
+    "issued": "2007",
+    "page": "1308–1309"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Y.N."
+      }
+    ],
+    "title": "Flora of Korea",
+    "editor": [
+      {
+        "family": "revised",
+        "particle": "ed."
+      },
+      {
+        "family": "Kyohak Publ. Co. Ltd.",
+        "particle": "enlarged."
+      },
+      {
+        "given": "Seoul"
+      }
+    ],
+    "note": "in Korean",
+    "type": null,
+    "issued": "2002",
+    "page": "1269"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Y.N."
+      }
+    ],
+    "title": "New Flora of Korea 2. Kyohak Publ. Co",
+    "publisher": "Ltd., Seoul",
+    "note": "in Korean",
+    "type": null,
+    "issued": "2006",
+    "page": "885"
+  },
+  {
+    "author": [
+      {
+        "family": "Léveillé",
+        "given": "H."
+      }
+    ],
+    "title": "Liliacées, Amaryllidacées, Iridacées et Hémodoracées de Chine",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Memorie della Pontificia Accademia Romana dei nuovi Lincei",
+    "issued": "1905",
+    "page": "333–379"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "H.L."
+      }
+    ],
+    "title": "The phytogeographic divisions of China, with special reference to the Araliaceae",
+    "container-title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+    "volume": "96",
+    "type": "paper-conference",
+    "issued": "1944",
+    "page": "249–277"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "Y."
+      },
+      {
+        "family": "Yang",
+        "given": "Z."
+      },
+      {
+        "family": "Zhang",
+        "given": "X."
+      },
+      {
+        "family": "Sun",
+        "given": "Z."
+      },
+      {
+        "family": "Du",
+        "given": "Q."
+      },
+      {
+        "family": "Wu",
+        "given": "Z."
+      },
+      {
+        "family": "Mi",
+        "given": "S."
+      },
+      {
+        "family": "Li",
+        "given": "H."
+      }
+    ],
+    "title": "Lectotypifications of eighteen names in monocotyledons",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Boreal.-Occidentalis Sinica",
+    "issued": "2014",
+    "page": "411–415"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Impensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Genera Plantarum",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "Impensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1754",
+    "page": "5"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "title": "Nihon shokubutsu hôchi [Notes on Japanese plants] XII",
+    "volume": "5",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issue": "50",
+    "issued": "1891",
+    "page": "124–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Masamune",
+        "given": "G."
+      }
+    ],
+    "title": "Floristic and geobotanical studies on the island of Yakusima, province Ôsumi. Memoirs of the Faculty of Science and Agriculture",
+    "volume": "11, Botany 4",
+    "type": "article-journal",
+    "container-title": "Taihoku Imperial University",
+    "issued": "1934",
+    "page": "1–608"
+  },
+  {
+    "author": [
+      {
+        "family": "Masamune",
+        "given": "G."
+      }
+    ],
+    "title": "Enumeratio tracheophytarum Ryukyu insularum IX",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Science Reports of the Kanazawa University",
+    "issue": "2",
+    "issued": "1957",
+    "page": "85–121"
+  },
+  {
+    "author": [
+      {
+        "family": "Masamune",
+        "given": "G."
+      }
+    ],
+    "title": "Color illustrated flora of Nippon 8",
+    "publisher": "Koyo Shoin, Tokyo",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1969",
+    "page": "295"
+  },
+  {
+    "author": [
+      {
+        "family": "Matsumura",
+        "given": "J."
+      }
+    ],
+    "title": "Index Plantarum Japonicarum 2 (1",
+    "publisher": "Maruzen, Tokyo",
+    "type": "book",
+    "issued": "1905",
+    "page": "315"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Diagnoses breves plantarum novarum Japoniae et Mandshuriae 3. Bulletin de l’Académie Impériale des Sciences de Saint-Pétersbourg",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "St. Petersburg",
+    "issued": "1867",
+    "page": "433–439"
+  },
+  {
+    "author": [
+      {
+        "family": "Michaux",
+        "given": "A."
+      }
+    ],
+    "title": "Flora Boreali-Americana 1. Apud fratres Levrault",
+    "publisher": "Parisiis & Argentorati",
+    "type": "book",
+    "issued": "1803",
+    "page": "330"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "Figures of the Most Beautiful, Useful, and Uncommon Plants Described in the Gardeners Dictionary [etc.] 2",
+    "note": "Printed for the author, sold by John Rivington [etc.],",
+    "type": null,
+    "issued": "1760",
+    "page": "101–200, 151–300,",
+    "publisher-place": "index"
+  },
+  {
+    "editor": [
+      {
+        "family": "Minato",
+        "given": "M."
+      },
+      {
+        "family": "Gorai",
+        "given": "M."
+      },
+      {
+        "family": "Hunahashi",
+        "given": "M."
+      }
+    ],
+    "title": "The Geologic Development of the Japanese Islands",
+    "publisher": "Tsukiji Shokan",
+    "type": "book",
+    "issued": "1965",
+    "page": "442",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Over de verwantschap der flora van Japan met Azièn Noord-Amerika [reprint of Miquel 1867a",
+    "type": null,
+    "issued": "1866",
+    "page": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Prolusio Florae Iaponicae [mainly a reprint of Miquel 1867b",
+    "note": "Apud C.G. van der Post, Amstelodami, et apud C. van der Post Jm, Traiecti ad Rhenum,",
+    "type": null,
+    "issued": "1866",
+    "page": "392"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Over de verwantschap der flora van Japan met Azièn Noord-Amerika. Verslagen en Mededeelingen van de Afdeeling Natuurkunde",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Koninklijke Akademie van Wetenschappen Ser",
+    "issue": "1",
+    "issued": "1867",
+    "page": "65–89"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Prolusio florae iaponicae (pars 5 & 6",
+    "editor": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "container-title": "Annales Musei Botanic-Lugduno-Batavi",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1867",
+    "page": "91–209"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Contributions à la flore du Japon",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Archives Neerlandaises des Sciences Exactes et Naturelles",
+    "issued": "1870",
+    "page": "89–96"
+  },
+  {
+    "author": [
+      {
+        "family": "Miyabe",
+        "given": "K."
+      },
+      {
+        "family": "Kudo",
+        "given": "Y."
+      }
+    ],
+    "title": "Flora of Hokkaido and Saghalien III. Monocotyledoneae, Araceae to Orchidaceae",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Journal of the Faculty of Agriculture, Hokkaido Imperial University",
+    "issued": "1932",
+    "page": "279–387, 5"
+  },
+  {
+    "author": [
+      {
+        "family": "Mochizuki",
+        "given": "R."
+      }
+    ],
+    "title": "A supplement to list of plants in Akita Prefecture (2",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Journal of Geobotany",
+    "issued": "1978",
+    "page": "12–16"
+  },
+  {
+    "author": [
+      {
+        "family": "Mochizuki",
+        "given": "R."
+      }
+    ],
+    "title": "Shin-hinshu, Kibana-syôjôbakama [A new form Heloniopsis orientalis (Thunb.) C",
+    "volume": "10",
+    "note": "in Japanese",
+    "type": "article-journal",
+    "container-title": "Tanaka form. lutea R. Mochizuki]. Akita Shizenshi Kenkyû",
+    "issued": "1978",
+    "page": "11"
+  },
+  {
+    "author": [
+      {
+        "family": "Morison",
+        "given": "R."
+      }
+    ],
+    "title": "Plantarum Historiae Universalis Oxoniensis 3",
+    "volume": "Oxonii",
+    "note": "plus plates and index pages.",
+    "type": "article-journal",
+    "container-title": "E Theatro Sheldoniano",
+    "issued": "1699",
+    "page": "657 ,"
+  },
+  {
+    "author": [
+      {
+        "family": "Murray",
+        "given": "J.A."
+      }
+    ],
+    "title": "Systema Vegetabilium [etc",
+    "editor": [
+      {
+        "literal": "ed. 14, Jo. Christ. Dieterich, Gottingae"
+      }
+    ],
+    "note": "index).",
+    "type": null,
+    "issued": "1784",
+    "page": "987 988–1004"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakai",
+        "given": "T."
+      }
+    ],
+    "title": "Notulae ad plantas Japonicae & Koreae 43",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1933",
+    "page": "235–267"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakai",
+        "given": "T."
+      }
+    ],
+    "title": "A synoptical sketch of Korean flora",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Natural Science Museum",
+    "issued": "1952",
+    "page": "1–152"
+  },
+  {
+    "author": [
+      {
+        "family": "Nemoto",
+        "given": "K."
+      }
+    ],
+    "title": "Nippon Shokubutsu Soran Hoi (Flora of Japan, Supplement",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1936",
+    "page": null,
+    "publisher-place": "Shunyôdô, Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "K.",
+        "given": "Ogasawara"
+      },
+      {
+        "family": "Uemura",
+        "given": "K."
+      }
+    ],
+    "title": "Nihon rettô no oitachi to dô-shokubutsu-sô no yurai [Historical background of the Japanese Archipelago and the derivation of the Japanese fauna and flora",
+    "container-title": "National Science Museum",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "publisher": "Tokai University Press, Hadano",
+    "note": "in Japanese",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "339"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohba",
+        "given": "H."
+      },
+      {
+        "family": "Akiyama",
+        "given": "S."
+      },
+      {
+        "family": "Thijsse",
+        "given": "G."
+      }
+    ],
+    "title": "Miquel’s new taxa of the vascular plants described from Japan in Prolusio Florae Japonicae and some other works",
+    "editor": [
+      {
+        "family": "Ohba",
+        "given": "H."
+      },
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      }
+    ],
+    "container-title": "The Botanical Collections: Proceeding of the Symposium ‘Siebold in the 21st Century’ held at the University Museum, the University of Tokyo, in 2003",
+    "publisher": "University Museum, University of Tokyo",
+    "volume": "41",
+    "type": "article-journal",
+    "issued": "2005",
+    "page": "31–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohwi",
+        "given": "J."
+      }
+    ],
+    "title": "Symbolae ad floram Asiae orientalis",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1930",
+    "page": "565–573"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohwi",
+        "given": "J."
+      }
+    ],
+    "title": "Flora of Japan",
+    "note": "in Japanese;",
+    "type": null,
+    "issued": "1953",
+    "page": null,
+    "publisher-place": "Shibundo, Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohwi",
+        "given": "J."
+      }
+    ],
+    "title": "New names and new combinations adopted in my “Flora of Japan",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Natural Science Museum",
+    "issued": "1953",
+    "page": "66–90"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohwi",
+        "given": "J."
+      }
+    ],
+    "title": "Flora of Japan (in English",
+    "publisher": "Smithsonian Institution",
+    "type": "book",
+    "issued": "1965",
+    "page": null,
+    "publisher-place": "Washington, D.C"
+  },
+  {
+    "author": [
+      {
+        "family": "Plukenet",
+        "given": "L."
+      }
+    ],
+    "title": "Leonardi Plukenetii Phytographia 3",
+    "container-title": "Sumptibus autoris, Londini",
+    "type": "chapter",
+    "issued": "1692",
+    "page": "121–250"
+  },
+  {
+    "author": [
+      {
+        "family": "Plukenet",
+        "given": "L."
+      }
+    ],
+    "title": "Almagestum Botanicum",
+    "publisher": "Sumptibus Autoris, Londini",
+    "type": "book",
+    "issued": "1696",
+    "page": "402"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafinesque",
+        "given": "C.S."
+      }
+    ],
+    "title": "Flora Telluriana 2",
+    "publisher": "H. Probasco, Philadelphia",
+    "type": "book",
+    "issued": "1837",
+    "page": "112"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "title": "Conspectus Regni Vegetabilis per Gradus Naturales Evoluti. Pars 1",
+    "publisher": "Apud Carolum Cnobloch, Leipzig",
+    "type": "book",
+    "issued": "1828",
+    "page": "294"
+  },
+  {
+    "author": [
+      {
+        "family": "Sakaguchi",
+        "given": "S."
+      }
+    ],
+    "title": "General Index to the Flora of Okinawa",
+    "publisher": "Ishizuka Shoten, Syuri",
+    "type": "book",
+    "issued": "1924",
+    "page": "152"
+  },
+  {
+    "author": [
+      {
+        "given": "S.C.P.C.A."
+      }
+    ],
+    "title": "Helonias bullata. South Carolina Plant Conservation Alliance",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "https://scplantconservation.org/priority-species/helonias-bullata/"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J.M.H."
+      }
+    ],
+    "title": "Three new Crûg Farm introductions",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Plantsman New series",
+    "issued": "2008",
+    "page": "39–43"
+  },
+  {
+    "author": [
+      {
+        "family": "Shui",
+        "given": "Y.-M."
+      },
+      {
+        "family": "Chen",
+        "given": "W.-H."
+      }
+    ],
+    "title": "Seed Plants of the Karst Region in China 1 (Southeast Yunnan",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2006",
+    "page": "260",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "W.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "J.F."
+      }
+    ],
+    "title": "Ypsilandra yunnanensis W.W.Sm",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "& Jeffrey. Notes from the Royal Botanic Garden, Edinburgh",
+    "issued": "1916",
+    "page": "143–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Netherlands Botanist. Wentia",
+    "issued": "1966",
+    "page": "1–95"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature 3: Lh–O",
+    "editor": [
+      {
+        "literal": "Second ed. Bohn, Scheltema & Holkema, Utrecht; dr. W. Junk b.v."
+      }
+    ],
+    "publisher": "The Hague",
+    "type": "book",
+    "issued": "1981",
+    "page": "980"
+  },
+  {
+    "author": [
+      {
+        "family": "Sugawara",
+        "given": "S."
+      }
+    ],
+    "title": "Plants of Saghalien",
+    "publisher": "Saghalien",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1937",
+    "page": "490",
+    "publisher-place": "Toyohara"
+  },
+  {
+    "author": [
+      {
+        "family": "Sugawara",
+        "given": "S."
+      }
+    ],
+    "title": "Illustrated Flora of Saghalien II",
+    "publisher": "Araceae–Magnoliaceae. Gansyôdo, Tokyo",
+    "note": "in Japanese",
+    "type": null,
+    "issued": "1939",
+    "page": "969"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "R.D."
+      }
+    ],
+    "title": "The status of Helonias bullata L. (Liliaceae) in the southern Appalachians",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Castanea",
+    "issued": "1984",
+    "page": "1–16"
+  },
+  {
+    "author": [
+      {
+        "family": "Takahashi",
+        "given": "H."
+      }
+    ],
+    "title": "The pollination biology of Heloniopsis orientalis (Thunb.) C",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Tanaka (Liliaceae). Plant Species Biology",
+    "issued": "1988",
+    "page": "117–123"
+  },
+  {
+    "author": [
+      {
+        "family": "Takahashi",
+        "given": "H."
+      }
+    ],
+    "title": "Kakujitsuni shushi wo tsukuru shikumi [Mechanisms for securing seed production",
+    "editor": [
+      {
+        "family": "Kawano",
+        "given": "S."
+      }
+    ],
+    "note": "Newton special issue, Shokubutsu no Sekai [The world of plants] 4.",
+    "publisher": "Kyoikusha",
+    "type": null,
+    "issued": "1989",
+    "page": "104–107",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Takahashi",
+        "given": "M."
+      },
+      {
+        "family": "Kawano",
+        "given": "S."
+      }
+    ],
+    "title": "Pollen morphology of the Melanthiaceae and its systematic implications",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1989",
+    "page": "863–876"
+  },
+  {
+    "author": [
+      {
+        "family": "Takhtajan",
+        "given": "A."
+      }
+    ],
+    "title": "Systema Magnoliophytorum",
+    "volume": null,
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Nauka",
+    "issue": "poli",
+    "issued": "1987",
+    "page": "439"
+  },
+  {
+    "author": [
+      {
+        "family": "Takhtajan",
+        "given": "A."
+      }
+    ],
+    "title": "Diversity and Classification of Flowering Plants",
+    "publisher": "Columbia University Press",
+    "type": "book",
+    "issued": "1997",
+    "page": "643",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Takhtajan",
+        "given": "A."
+      }
+    ],
+    "title": "Flowering Plants",
+    "edition": "Second",
+    "publisher": "Springer Science & Buisiness Media B.V",
+    "type": "book",
+    "issued": "2009",
+    "page": "871"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "M.N."
+      }
+    ],
+    "title": "Melanthiaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "publisher": "Springer-Verlag",
+    "type": "book",
+    "issued": "1998",
+    "page": "369–380",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanai",
+        "given": "T."
+      }
+    ],
+    "title": "Tertiary floral changes of Japan",
+    "container-title": "Jubilee Publication of Commemoration Professor Sasa’s 60th Birthday",
+    "type": "chapter",
+    "issued": "1967",
+    "page": "317–333",
+    "publisher-place": "Sapporo"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanai",
+        "given": "T."
+      }
+    ],
+    "title": "Tertiary history of vegetation in Japan",
+    "editor": [
+      {
+        "family": "Graham",
+        "given": "A."
+      }
+    ],
+    "container-title": "Floristics and Paleofloristics of Asia and Eastern North America",
+    "publisher": "Elsevier",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "235–255",
+    "publisher-place": "Amsterdam"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanai",
+        "given": "T."
+      }
+    ],
+    "title": "Kaede-zoku no shinka [Evolution of the genus Acer",
+    "editor": [
+      {
+        "family": "Kawano",
+        "given": "S."
+      }
+    ],
+    "note": "Special Issue, Shokubutsu no Sekai [the world of plants] 3.",
+    "publisher": "Kyoikusha",
+    "type": null,
+    "issued": "1988",
+    "page": "106–111",
+    "publisher-place": "Newton"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanai",
+        "given": "T."
+      }
+    ],
+    "title": "Tertiary vegetational history of East Asia",
+    "volume": "19",
+    "note": "in Japanese with English abstract",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Mizunami Fossil Museum",
+    "issued": "1992",
+    "page": "125–163"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "What is a species?",
+    "volume": "47",
+    "note": "in Japanese with English summary",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxaxonomica & Geobotanica",
+    "issued": "1996",
+    "page": "239–252"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "Taxonomic significance of some floral characters in Helonias and Ypsilandra (Liliaceae",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1997",
+    "page": "110–116"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "Evolutionary significance of the variation of the floral structure of Heloniopsis",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1997",
+    "page": "131–138"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "Phylogenetic and taxonomic studies on Helonias, Ypsilandra and Heloniopsis I. Comparison of character states (1",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1997",
+    "page": "221–228"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "Phylogenetic and taxonomic studies on Helonias, Ypsilandra and Heloniopsis I. Comparison of character states (2",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1997",
+    "page": "286–292"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "Phylogenetic and taxonomic studies on Helonias, Ypsilandra and Heloniopsis II",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Evolution and geographical distribution. Journal of Japanese Botany",
+    "issued": "1997",
+    "page": "329–336"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "The logic and methodology of taxonomy",
+    "container-title": "Proceedings of the Japan Society of Plant Taxonomists",
+    "volume": "13",
+    "note": "in Japanese with English summary",
+    "type": "paper-conference",
+    "issued": "1997",
+    "page": "39–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "Phylogenetic and taxonomic studies on Helonias, Ypsilandra and Heloniopsis III",
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "Taxonomic revision. Journal of Japanese Botany",
+    "issued": "1998",
+    "page": "102–115"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "What is a species? (II",
+    "volume": "73",
+    "note": "in Japanese with English summary",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "1998",
+    "page": "236–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "Taxonomic treatments for two taxa of Ypsilandra (Melanthiaceae) from the Sino-Vietnamese border",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issued": "2009",
+    "page": "188–191"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "Diversity in fruit and seed characters of Chamaelirium and Chionographis (Melanthiaceae",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2017",
+    "page": "67–74"
+  },
+  {
+    "type": null,
+    "URL": "http://",
+    "DOI": "10.6165/tai.2017.62.67"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "N."
+      }
+    ],
+    "title": "A synopsis of the genus Chamaelirium (Melanthiaceae) with a new infrageneric classification including Chionographis",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Taiwania",
+    "issued": "2017",
+    "page": "157–167"
+  },
+  {
+    "type": null,
+    "URL": "http://",
+    "DOI": "10.6165/tai.2017.62.157"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "T."
+      }
+    ],
+    "title": "On certain Thunbergian plants from Japan. Bulteno Scienca de la Fakultato Terkultura, Kjusu Imperia Universitato",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Fukuoka",
+    "issued": "1925",
+    "page": "191–209"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Flora Japonica",
+    "editor": [
+      {
+        "family": "Mülleriano",
+        "given": "Bibliopolio J.G."
+      },
+      {
+        "given": "Lipsiae"
+      }
+    ],
+    "type": null,
+    "issued": "1784-08",
+    "page": "418"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Botanical observations on the Flora japonica",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean society. London",
+    "issued": "1794",
+    "page": "326–342"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "C.P."
+      }
+    ],
+    "title": "Icones Plantarum Japonicarum 4",
+    "translator": [
+      {
+        "family": "Edman",
+        "given": "Litteris Johann Fred"
+      },
+      {
+        "family": "Acad",
+        "given": "Reg"
+      }
+    ],
+    "note": "Typogr., Upsaliae, 10 plates.",
+    "type": null,
+    "issued": "1802"
+  },
+  {
+    "author": [
+      {
+        "family": "Trew",
+        "given": "C.J."
+      }
+    ],
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Plantae Selectae",
+    "issued": "1771",
+    "page": "36–43, 71–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Uemura",
+        "given": "K."
+      }
+    ],
+    "title": "Nihon no furora-shi [History of the Japanese flora",
+    "container-title": "Syûkan Asahi Hyakka [Weekly Asahi Encyclopedia], Shokubutsu no Sekai [The World of Plants] 87",
+    "publisher": "Asahi Shimbunsha Co",
+    "note": "in Japanese",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "94–95",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Uemura",
+        "given": "K."
+      }
+    ],
+    "title": "Koyû shokubutsu no rekishi [History of endemic species",
+    "editor": [
+      {
+        "family": "Kato",
+        "given": "M."
+      },
+      {
+        "family": "Ebihara",
+        "given": "A."
+      }
+    ],
+    "container-title": "Endemic Plants of Japan",
+    "publisher": "Tokai University Press",
+    "note": "Japanese).",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "24–28",
+    "publisher-place": "Hadano (Kanagawa"
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.F.W.S."
+      },
+      {
+        "given": "Fish"
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "title": "Endangered and threatened wildlife and plants; Determination of Helonias bullata (Swamp Pink) to be a threatened species",
+    "genre": "[U.S.",
+    "volume": "53",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Interior. Federal Register",
+    "issue": "175.",
+    "issued": "1988",
+    "page": null,
+    "publisher-place": "Newton Corner, Massachusetts",
+    "URL": "https://ecos.fws.gov/docs/federal_register/fr1468.pdf"
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.F.W.S."
+      },
+      {
+        "family": "Five",
+        "given": "U.S.Fish"
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      },
+      {
+        "family": "Corner",
+        "given": "Newton"
+      }
+    ],
+    "title": "Swamp Pink (Helonias bullata) Recovery Plan",
+    "genre": "Region",
+    "volume": "56",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Massachusetts",
+    "issued": "1991",
+    "page": null,
+    "URL": "https://ecos.fws.gov/docs/recovery_plan/910930c.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Utech",
+        "given": "F.H."
+      }
+    ],
+    "title": "Vascular floral anatomy of Helonias bullata (Liliaceae-Helonieae), with a comparison to the Asian Heloniopsis orientalis",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Annals of Carnegie Museum",
+    "issued": "1978",
+    "page": "169–191"
+  },
+  {
+    "author": [
+      {
+        "family": "Utech",
+        "given": "F.H."
+      }
+    ],
+    "title": "Somatic karyotype analysis of Helonias bullata L",
+    "editor": [
+      {
+        "given": "Liliaceae"
+      }
+    ],
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Tanaka. Annales of Carnegie Museum",
+    "issued": "1980",
+    "page": "153–160"
+  },
+  {
+    "author": [
+      {
+        "family": "Utech",
+        "given": "F.H."
+      }
+    ],
+    "title": "Helonias",
+    "container-title": "Flora of North America Editorial Committee",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "publisher": "Oxford Univ. Press",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "69–70",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Utech",
+        "given": "F.H."
+      },
+      {
+        "family": "Kawano",
+        "given": "S."
+      }
+    ],
+    "title": "Vascular floral anatomy of the East Asian Heloniopsis orientalis (Thunb.) C. Tanaka (Liliaceae-Helonieae",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine (Tokyo",
+    "issued": "1981",
+    "page": "295–311"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "F.T."
+      },
+      {
+        "family": "Tang",
+        "given": "T."
+      }
+    ],
+    "title": "Notes on Chinese Liliaceae 3",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Fan Memorial Institute of Biology, Botany",
+    "issued": "1936",
+    "page": "81–90"
+  },
+  {
+    "author": [
+      {
+        "family": "F.T.",
+        "given": "Wang"
+      },
+      {
+        "family": "Tang",
+        "given": "T."
+      }
+    ],
+    "title": "Notes on Chinese Liliaceae 6",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Fan Memorial Institurte of Biology New series",
+    "issued": "1943",
+    "page": "106–111"
+  },
+  {
+    "author": [
+      {
+        "family": "F.T.",
+        "given": "Wang"
+      },
+      {
+        "family": "Tang",
+        "given": "T."
+      }
+    ],
+    "title": "Notes on Chinese Liliaceae 8. Contributions from the Institute of Botany",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "National Academy of Peiping",
+    "issued": "1949",
+    "page": "105–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "S."
+      }
+    ],
+    "title": "Revision of the North American Liliaceae",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "14",
+    "type": "paper-conference",
+    "issued": "1879",
+    "page": "213–303"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiley",
+        "given": "E.O."
+      }
+    ],
+    "title": "Phylogenetics. The Theory and Practice of Phylogenetic Systematics",
+    "publisher": "Wiley-Liss",
+    "type": "book",
+    "issued": "1981",
+    "page": "439",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamaguchi",
+        "given": "T."
+      },
+      {
+        "family": "Kato",
+        "given": "N."
+      },
+      {
+        "family": "Fujii",
+        "given": "S."
+      },
+      {
+        "family": "Tamura",
+        "given": "M.N."
+      },
+      {
+        "family": "Nagamasu",
+        "given": "H."
+      },
+      {
+        "family": "Wada",
+        "given": "H."
+      },
+      {
+        "family": "Siebold",
+        "given": "F.",
+        "particle": "von"
+      },
+      {
+        "given": "H."
+      }
+    ],
+    "title": "The specimens of Japanese plants collected by Ph",
+    "container-title": "Angiospermae. Calanus (Bulletin of the Aitsu Marine Station",
+    "note": "Special Number",
+    "volume": "5",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "259–576",
+    "publisher-place": "Kumamoto University, Japan"
+  },
+  {
+    "editor": [
+      {
+        "family": "Yan",
+        "given": "H."
+      }
+    ],
+    "title": "Climatological Atlas of the People’s Republic of China",
+    "publisher": "China Meteorological Press",
+    "type": "book",
+    "issued": "2002",
+    "page": "250",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Ying",
+        "given": "S.S."
+      }
+    ],
+    "title": "Coloured illustrations of herbaceous plants of Taiwan 1",
+    "volume": "Taipei",
+    "type": "article-journal",
+    "container-title": "Published by the author",
+    "issued": "1980",
+    "page": "256"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "R.-N."
+      },
+      {
+        "family": "Peng",
+        "given": "Z.-X."
+      }
+    ],
+    "title": "A new species of Ypsilandra from Gansu province, China",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Boreali-Occidentalis, Sinica",
+    "issued": "1987",
+    "page": "57–59"
+  }
+]

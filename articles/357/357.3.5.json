@@ -1,0 +1,1042 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aiton",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus Kewensis",
+    "volume": "3",
+    "publisher": "G. Nicol, London",
+    "type": "book",
+    "issued": "1789",
+    "page": "547"
+  },
+  {
+    "author": [
+      {
+        "family": "Allioni",
+        "given": "C."
+      }
+    ],
+    "title": "Flora Pedemontana",
+    "volume": null,
+    "issue": "",
+    "type": null,
+    "issued": "1785",
+    "page": "344"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderberg",
+        "given": "A.A."
+      }
+    ],
+    "title": "Inuleae",
+    "editor": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T.F."
+      },
+      {
+        "family": "Bayer",
+        "given": "R.J."
+      }
+    ],
+    "container-title": "Systematics, Evolution and Biogeography of Compositae. IAPT, Vienna",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "667–679"
+  },
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "G."
+      }
+    ],
+    "title": "Inulae Europae. Denkschriften der Kaiserlichen Akademie der Wissenschaften, Wien",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Mathematisch-naturwissenschaftliche Klasse",
+    "issue": "2",
+    "issued": "1882",
+    "page": "283–339"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertoloni",
+        "given": "A."
+      }
+    ],
+    "title": "Flora Italica",
+    "volume": "9",
+    "publisher": "Haeredum R. Masii, Bologna",
+    "issue": "2",
+    "type": "book",
+    "issued": "1853",
+    "page": "670"
+  },
+  {
+    "author": [
+      {
+        "family": "Briquet",
+        "given": "J."
+      },
+      {
+        "family": "Cavillier",
+        "given": "F."
+      }
+    ],
+    "title": "Compositae (Suite",
+    "editor": [
+      {
+        "family": "Burnat",
+        "given": "E."
+      }
+    ],
+    "container-title": "Flore des Alpes maritimes",
+    "volume": "6",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1917",
+    "page": "171–344",
+    "publisher-place": "Georg & Cie, Genève, Bale, Lyon"
+  },
+  {
+    "author": [
+      {
+        "family": "Broughton",
+        "given": "D.A."
+      },
+      {
+        "family": "McAdam",
+        "given": "J.H."
+      }
+    ],
+    "title": "A checklist of the native vascular flora of the Falkland Islands (Islas Malvinas): New information on the species present, their ecology, status and distribution",
+    "volume": "132",
+    "type": "article-journal",
+    "container-title": "Journal of the Torrey Botanical Society",
+    "issued": "2005",
+    "page": "115–148",
+    "URL": "https://doi.org/10.3159/1095-5674(2005)132",
+    "DOI": "10.3159/1095-5674(2005)132"
+  },
+  {
+    "author": [
+      {
+        "family": "Brullo",
+        "given": "S."
+      },
+      {
+        "family": "Marco",
+        "given": "G."
+      }
+    ],
+    "title": "Taxonomical revision of the genus Dittrichia (Asteraceae). Portugaliae Acta Biologica",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Série B, sistemática, ecologia, biogeografia e paleontologia",
+    "issued": "2000",
+    "page": "341–354"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Correa",
+        "given": "M.N."
+      }
+    ],
+    "container-title": "Flora Patagónica, parte 7. INTA, Buenos Aires",
+    "type": "chapter",
+    "issued": "1971",
+    "page": "176–275"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      },
+      {
+        "family": "Iharlegui",
+        "given": "L."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Zuloaga",
+        "given": "F.O."
+      },
+      {
+        "family": "Morrone",
+        "given": "O."
+      }
+    ],
+    "container-title": "Catálogo de las Plantas Vasculares de la República Argentina II. Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "volume": "74",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "281–314"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "5",
+    "publisher": "Treuttel & Würtz, Parisiis",
+    "type": "book",
+    "issued": "1836",
+    "page": "706"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "6",
+    "publisher": "Treuttel & Würtz, Parisiis",
+    "type": "book",
+    "issued": "1838",
+    "page": "687"
+  },
+  {
+    "author": [
+      {
+        "family": "Dumortier",
+        "given": "B.C.J."
+      }
+    ],
+    "title": "Florula Belgica",
+    "type": "article-journal",
+    "container-title": "J. Casterman, Tornacum Nerviorum [Tournai",
+    "issued": "1827",
+    "page": "172"
+  },
+  {
+    "author": [
+      {
+        "family": "Quer",
+        "given": "P.",
+        "particle": "Font i"
+      }
+    ],
+    "title": "Plantas Medicinales. El Dioscórides renovado",
+    "publisher": "Labor",
+    "type": "book",
+    "issued": "1961",
+    "page": null,
+    "publisher-place": "Barcelona"
+  },
+  {
+    "author": [
+      {
+        "family": "Freire",
+        "given": "S.E."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Zuloaga",
+        "given": "F.O."
+      },
+      {
+        "family": "Morrone",
+        "given": "O."
+      },
+      {
+        "family": "Belgrano",
+        "given": "M.J."
+      }
+    ],
+    "container-title": "Catálogo de las Plantas Vasculares del Cono Sur",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "1449–1501"
+  },
+  {
+    "author": [
+      {
+        "family": "Freire",
+        "given": "S.E."
+      },
+      {
+        "family": "Ariza Espinar",
+        "given": "L."
+      },
+      {
+        "family": "Salomón",
+        "given": "L."
+      },
+      {
+        "family": "Hernández",
+        "given": "M.P."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Zuloaga",
+        "given": "F.O."
+      },
+      {
+        "family": "Belgrano",
+        "given": "M.J."
+      },
+      {
+        "family": "Anton",
+        "given": "A.M."
+      }
+    ],
+    "container-title": "Flora vascular de la República Argentina",
+    "volume": "7",
+    "issue": "3",
+    "type": "article-journal",
+    "issued": "2014",
+    "page": "27–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaudichaud-Beaupré",
+        "given": "M."
+      }
+    ],
+    "title": "Rapport sur la Flore des îles Malouines",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles (Paris",
+    "issued": "1825",
+    "page": "89–109"
+  },
+  {
+    "author": [
+      {
+        "family": "Godron",
+        "given": "D.A."
+      },
+      {
+        "family": "Grenier",
+        "given": "J.C.M."
+      }
+    ],
+    "title": "Cupularia Godr. et Gren",
+    "editor": [
+      {
+        "family": "Grenier",
+        "given": "J.C.M."
+      },
+      {
+        "family": "Godron",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flore de France",
+    "volume": "2",
+    "publisher": "J.-B. Baillière",
+    "type": "chapter",
+    "issued": "1850",
+    "page": "180–181",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Charpin",
+        "given": "A."
+      }
+    ],
+    "title": "Exsiccatorum Genavensium e Conservatorio Botanico Distributorum Fasciculus 4",
+    "type": "article-journal",
+    "container-title": "Conservatorium botanicum, Genève",
+    "issued": "1973",
+    "page": "53–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Flora Antarctica, part 2 (17",
+    "publisher": "Reeve Brothers",
+    "type": "book",
+    "issued": "1846",
+    "page": "301 –316",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "XXIII. Contributions towards a Flora of South America, and the Islands of the Pacific",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Journal of Botany, being a second series of the Botanical Miscellany",
+    "issued": "1841",
+    "page": "310–348"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Florae Austriaceae",
+    "volume": "L",
+    "issue": "J",
+    "type": null,
+    "issued": "1774",
+    "page": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "Typification of Linnaean specific and varietal names in the Compositae (Asteraceae",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1998",
+    "page": "347–370",
+    "URL": "https://doi.org/10.2307/1223764",
+    "DOI": "10.2307/1223764"
+  },
+  {
+    "author": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      }
+    ],
+    "title": "Senecio L",
+    "editor": [
+      {
+        "family": "Rottensteiner",
+        "given": "W.K."
+      }
+    ],
+    "container-title": "Exkursionsflora für Istrien",
+    "publisher": "Verlag des Naturwissenschaftlichen Vereins für Kärnten",
+    "type": "chapter",
+    "issued": "2014",
+    "page": "280–282",
+    "publisher-place": "Klagenfurt"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "W.D.J."
+      }
+    ],
+    "title": "Synopsis florae Germanicae et Helveticae",
+    "editor": [
+      {
+        "family": "Wilmans",
+        "given": "F."
+      },
+      {
+        "family": "Moenum",
+        "given": "Francofurti",
+        "particle": "ad"
+      }
+    ],
+    "type": null,
+    "issued": "1837",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "W.D.J."
+      }
+    ],
+    "title": "Synopsis florae Germanicae et Helveticae",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "2",
+    "publisher": "Gebhardt & Reisland, Lipsia [Leipzig",
+    "type": "book",
+    "issued": "1843",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamarck",
+        "given": "J.-B.P.A."
+      }
+    ],
+    "title": "Flore Françoise",
+    "volume": "2",
+    "type": null,
+    "issued": "1779",
+    "page": "684",
+    "publisher-place": "De L’Imprimerie Royale, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Systema Naturae",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "10), vol. 2. L",
+    "type": null,
+    "issued": "1759",
+    "page": "825–1384",
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code).",
+    "publisher": "I–XXX +",
+    "type": null,
+    "issued": "2012",
+    "page": "208"
+  },
+  {
+    "author": [
+      {
+        "family": "Merino",
+        "given": "B."
+      }
+    ],
+    "title": "Flora descriptiva é ilustrada de Galicia",
+    "volume": "2",
+    "publisher": "Tipografía Galaica",
+    "type": "book",
+    "issued": "1906",
+    "page": "634",
+    "publisher-place": "Santiago"
+  },
+  {
+    "author": [
+      {
+        "family": "Nyman",
+        "given": "C.F."
+      }
+    ],
+    "title": "Conspectus florae europaeae, part 2",
+    "type": "article-journal",
+    "container-title": "Typis officinae Bohlinianae, Örebro",
+    "issued": "1879",
+    "page": "241 –492"
+  },
+  {
+    "author": [
+      {
+        "family": "Porter",
+        "given": "D.M."
+      }
+    ],
+    "title": "Charles Darwin’s vascular plant specimens from the voyage of HMS Beagle",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1986",
+    "page": "1–172",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1986.tb01019.x",
+    "DOI": "10.1111/j.1095-8339.1986.tb01019.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "title": "Flora Germanica Excursoria",
+    "volume": "1",
+    "editor": [
+      {
+        "family": "Cnobloch",
+        "given": "C."
+      },
+      {
+        "given": "Lipsia"
+      }
+    ],
+    "issue": "3",
+    "type": null,
+    "issued": "1831",
+    "page": "185–438"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "title": "Icones florae Germanicae et Helveticae",
+    "volume": "16",
+    "editor": [
+      {
+        "family": "Abel",
+        "given": "A."
+      },
+      {
+        "given": "Lipsia"
+      }
+    ],
+    "issue": "1",
+    "type": null,
+    "issued": "1853",
+    "page": "1–100"
+  },
+  {
+    "author": [
+      {
+        "family": "Santos",
+        "given": "S.A.P."
+      },
+      {
+        "family": "Mota",
+        "given": "L."
+      },
+      {
+        "family": "Malheiro",
+        "given": "R."
+      },
+      {
+        "family": "Silva",
+        "given": "F."
+      },
+      {
+        "family": "Campos",
+        "given": "M."
+      },
+      {
+        "family": "Pinho",
+        "given": "P.",
+        "particle": "Guedes de"
+      },
+      {
+        "family": "Pereira",
+        "given": "J.A."
+      }
+    ],
+    "title": "Changes in volatile compounds of Dittrichia viscosa caused by the attack of the gall-forming dipteran Myopites stylatus",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "Industrial Crops and Products",
+    "issued": "2016",
+    "page": "71–77",
+    "URL": "https://doi.org/10.1016/j.indcrop.2016.04.002",
+    "DOI": "10.1016/j.indcrop.2016.04.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Scopoli",
+        "given": "J.A."
+      }
+    ],
+    "title": "Flora Carniolica",
+    "editor": [
+      {
+        "literal": "ed."
+      },
+      {
+        "family": "Krauss",
+        "given": "I.P."
+      },
+      {
+        "given": "Vindobona"
+      }
+    ],
+    "volume": "2), vol. 2",
+    "type": null,
+    "issued": "1771",
+    "page": "496"
+  },
+  {
+    "author": [
+      {
+        "family": "Skottsberg",
+        "given": "C.J.F."
+      }
+    ],
+    "title": "A Botanical Survey of the Falkland Islands",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Kongliga Svenska Vetenskaps Academiens Handlingar",
+    "issue": "3",
+    "issued": "1913",
+    "page": "1 –129"
+  },
+  {
+    "author": [
+      {
+        "family": "Soldano",
+        "given": "A."
+      }
+    ],
+    "title": "Nomenclator Scopolianus. I. I generi e le specie della flora italiana e slovena descritti per primo da Giovanni Antonio Scopoli; le combinazioni nuove ed i nomi nuovi ancora in uso (Phanerogamae",
+    "volume": "serie 7 7",
+    "type": "article-journal",
+    "container-title": "Atti del’Istituto Botanico e del Laboratorio Crittogamico dell’Università di Pavia",
+    "issued": "1988",
+    "page": "7–17"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature",
+    "volume": "II",
+    "editor": [
+      {
+        "family": "Bohn",
+        "given": "Scheltema"
+      },
+      {
+        "family": "Holkema",
+        "given": "Utrecht"
+      },
+      {
+        "family": "Junk",
+        "given": "W."
+      },
+      {
+        "given": "Hague"
+      }
+    ],
+    "note": "Regnum vegetabile 98",
+    "type": null,
+    "issued": "1979",
+    "page": "–"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      },
+      {
+        "family": "Bohn",
+        "given": "Sal–Ste"
+      },
+      {
+        "given": "Scheltema"
+      },
+      {
+        "family": "Holkema",
+        "given": "Utrecht"
+      },
+      {
+        "family": "Junk",
+        "given": "W."
+      },
+      {
+        "given": "Hague"
+      }
+    ],
+    "title": "Taxonomic literature",
+    "volume": "V",
+    "note": "Regnum vegetabile 112].",
+    "type": null,
+    "issued": "1985",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G."
+      }
+    ],
+    "title": "Nomenclator Botanicus",
+    "volume": "1), vol. 1",
+    "editor": [
+      {
+        "literal": "I. G. Cotta, Stuttgardt &t Tübingen"
+      }
+    ],
+    "type": null,
+    "issued": "1821",
+    "page": "900"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.G."
+      }
+    ],
+    "title": "Nomenclator Botanicus",
+    "volume": "2",
+    "editor": [
+      {
+        "family": "Cotta",
+        "given": "J.G."
+      },
+      {
+        "given": "Stuttgart"
+      },
+      {
+        "given": "Tübingen"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "pars",
+    "issue": "11–13",
+    "issued": "1841",
+    "page": "433–810"
+  },
+  {
+    "author": [
+      {
+        "family": "Tenore",
+        "given": "M."
+      }
+    ],
+    "title": "Flora Napolitana",
+    "volume": "2",
+    "publisher": "Nella Stamperia Francese, Napoli",
+    "type": "book",
+    "issued": "1820",
+    "page": "398"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicos"
+      }
+    ],
+    "title": "Tropicos.org. Missouri Botanical Garden",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.tropicos.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Visiani",
+        "given": "R."
+      }
+    ],
+    "title": "Flora Dalmatica",
+    "volume": "2",
+    "editor": [
+      {
+        "family": "Hofmeister",
+        "given": "F."
+      },
+      {
+        "given": "Lipsia"
+      }
+    ],
+    "type": null,
+    "issued": "1847",
+    "page": "268"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkes",
+        "given": "J."
+      }
+    ],
+    "volume": "23. G",
+    "type": "article-journal",
+    "container-title": "Encyclopaedia londinensis",
+    "issued": "1828",
+    "page": "978",
+    "publisher-place": "Jones, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Species Plantarum",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "3",
+    "publisher": "G.C. Nauk",
+    "issue": "3",
+    "type": "book",
+    "issued": "1803",
+    "page": "1477 –2409",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Willkomm",
+        "given": "H.M."
+      }
+    ],
+    "title": "Inula L",
+    "editor": [
+      {
+        "family": "Willkomm",
+        "given": "H.M."
+      },
+      {
+        "family": "Lange",
+        "given": "J.M.C."
+      },
+      {
+        "family": "Schweizerbart",
+        "given": "E."
+      }
+    ],
+    "container-title": "Prodromus Florae Hispanicae",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1865",
+    "page": "42–46",
+    "publisher-place": "Stuttgart, Germany"
+  }
+]

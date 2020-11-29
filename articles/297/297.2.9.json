@@ -1,0 +1,531 @@
+[
+  {
+    "author": [
+      {
+        "family": "Almeida",
+        "given": "M.R."
+      }
+    ],
+    "title": "Flora of Maharashtra",
+    "volume": "1",
+    "publisher": "Orient Press, Mumbai",
+    "type": "book",
+    "issued": "1996",
+    "page": "296"
+  },
+  {
+    "author": [
+      {
+        "family": "Beccari",
+        "given": "O."
+      }
+    ],
+    "title": "Palmeae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "Flora of British India",
+    "volume": "6",
+    "publisher": "L. Reeve",
+    "type": "chapter",
+    "issued": "1892",
+    "page": "441",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Blanco",
+        "given": "F.M."
+      }
+    ],
+    "title": "Flora de Filipinas: segun el sistema sexual de Linneo",
+    "editor": [
+      {
+        "family": "D. Miguel Sanchez",
+        "given": "Impienta",
+        "particle": "de"
+      },
+      {
+        "given": "Manila"
+      }
+    ],
+    "type": null,
+    "issued": "1845",
+    "page": "619",
+    "URL": "https://doi.org/10.5962/bhl.title.120031",
+    "DOI": "10.5962/bhl.title.120031"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indië",
+    "publisher": "Ter Lands Drukkeri, Batavia",
+    "type": "book",
+    "issued": "1825",
+    "page": "284"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooke",
+        "given": "T."
+      }
+    ],
+    "title": "Flora of the Presidency of Bombay",
+    "volume": "1",
+    "publisher": "and Francis, London",
+    "issue": "Taylor",
+    "type": "book",
+    "issued": "1903",
+    "page": "645",
+    "URL": "https://doi.org/10.5962/bhl.title.10884",
+    "DOI": "10.5962/bhl.title.10884"
+  },
+  {
+    "author": [
+      {
+        "family": "Coughenour",
+        "given": "J.M."
+      },
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Lombardi",
+        "given": "J.A."
+      },
+      {
+        "family": "Cappa",
+        "given": "J.J."
+      }
+    ],
+    "title": "Phylogeny of Celastraceae subfamily Salacioideae and tribe Lophopetaleae inferred from morphological characters and nuclear and plastid genes",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2010",
+    "page": "358–366",
+    "URL": "https://doi.org/10.1600/036364410791638289",
+    "DOI": "10.1600/036364410791638289"
+  },
+  {
+    "author": [
+      {
+        "family": "Coughenour",
+        "given": "J.M."
+      },
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Lombardi",
+        "given": "J.A."
+      },
+      {
+        "family": "Archer",
+        "given": "R.H."
+      }
+    ],
+    "title": "Phylogeny of Celastraceae subfamily Hippocrateoideae inferred from morphological characters and nuclear and plastid loci",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2011",
+    "page": "320–330",
+    "URL": "https://doi.org/10.1016/j.ympev.2011.02.017",
+    "DOI": "10.1016/j.ympev.2011.02.017"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "Flora of the Presidency of Madras",
+    "volume": "1",
+    "publisher": "Adlard & Son, London",
+    "type": "book",
+    "issued": "1915",
+    "page": "213",
+    "URL": "https://doi.org/10.5962/bhl.title.21628",
+    "DOI": "10.5962/bhl.title.21628"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallé",
+        "given": "N."
+      }
+    ],
+    "title": "Hippocrateacées nouvelles d’Afrique occidentale",
+    "volume": "Series 2–30",
+    "type": "article-journal",
+    "container-title": "Bulletin du Muséum National d’Histoire Naturelle. Imprimerie nationale, Paris",
+    "issued": "1958",
+    "page": "464–471"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallé",
+        "given": "N."
+      }
+    ],
+    "title": "Révision des Hippocrateae (Celastraceae): 4. Les genres Simirestis et Arnicratea (gen. nov",
+    "volume": "4–6(1",
+    "type": "article-journal",
+    "container-title": "Bulletin du Muséum National d’Histoire Naturelle, B, Adansonia Series",
+    "issued": "1984",
+    "page": "3–17"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "H."
+      }
+    ],
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Journal of Japanese Botany",
+    "issue": "11",
+    "issued": "1965",
+    "page": "327"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "The flora of British India",
+    "volume": "1",
+    "publisher": "Reeve & Co., London",
+    "type": "book",
+    "issued": "1872",
+    "page": "740"
+  },
+  {
+    "author": [
+      {
+        "family": "Hou",
+        "given": "D."
+      }
+    ],
+    "title": "Florae Malesianae precursores XXXIV notes on some genera of Celastraceae in Malaysia",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1963",
+    "page": "31–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Matthew",
+        "given": "K.M."
+      }
+    ],
+    "title": "Illustrations on the flora of the Tamilnadu Carnatic",
+    "container-title": "Rapinat Herbarium, St",
+    "publisher": "Joseph’s College",
+    "type": "chapter",
+    "issued": "1982",
+    "page": null,
+    "publisher-place": "Bangalore"
+  },
+  {
+    "author": [
+      {
+        "family": "Matthew",
+        "given": "K.M."
+      }
+    ],
+    "title": "Flora of the Palni Hills",
+    "volume": null,
+    "publisher": "Rapinat Herbarium, St. Joseph’s College",
+    "type": "article-journal",
+    "container-title": "South India",
+    "issue": "irapalli",
+    "issued": "1999",
+    "page": "575"
+  },
+  {
+    "author": [
+      {
+        "family": "Miers",
+        "given": "J."
+      }
+    ],
+    "title": "On the Hippocrateaceae of South America",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issue": "2",
+    "issued": "1872",
+    "URL": "https://doi.org/10.1111/j.1096-3642.1872.tb00224.x",
+    "DOI": "10.1111/j.1096-3642.1872.tb00224.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ramamurthy",
+        "given": "K."
+      },
+      {
+        "family": "Naithani",
+        "given": "B.D."
+      }
+    ],
+    "title": "Hippocrateaceae",
+    "editor": [
+      {
+        "family": "Singh",
+        "given": "N.P."
+      },
+      {
+        "family": "Vohra",
+        "given": "J.N."
+      },
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      },
+      {
+        "family": "Singh",
+        "given": "D.K."
+      }
+    ],
+    "container-title": "Flora of India",
+    "volume": "5",
+    "publisher": "Botanical Survey of India",
+    "type": "chapter",
+    "issued": "2000",
+    "page": "146–150",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "N."
+      },
+      {
+        "family": "Hallé",
+        "given": "N."
+      },
+      {
+        "family": "Matthew",
+        "given": "B."
+      },
+      {
+        "family": "Blakelock",
+        "given": "R."
+      }
+    ],
+    "title": "Celastraceae. In: Polhill, R.M.(Ed.) Flora of Tropical East Africa",
+    "publisher": "A.A. Balkema",
+    "type": "book",
+    "issued": "1994",
+    "page": "1–78",
+    "publisher-place": "Rotterdam"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Plants of the Coast of Coromandel",
+    "volume": "3",
+    "publisher": "Bulmer and Co",
+    "type": "book",
+    "issued": "1811",
+    "page": "96",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Savolainen",
+        "given": "V."
+      },
+      {
+        "family": "Spichiger",
+        "given": "R."
+      },
+      {
+        "family": "Manen",
+        "given": "J.F."
+      }
+    ],
+    "title": "Polyphyletism of Celastrales deduced from a chloroplast noncoding DNA region",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "1997",
+    "page": "145–157",
+    "URL": "https://doi.org/10.1006/mpev.1996.0380",
+    "DOI": "10.1006/mpev.1996.0380"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Clevinger",
+        "given": "C.C."
+      },
+      {
+        "family": "Savolainen",
+        "given": "V."
+      },
+      {
+        "family": "Archer",
+        "given": "R.H."
+      },
+      {
+        "family": "Mathews",
+        "given": "S."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      }
+    ],
+    "title": "Phylogeny of the Celastraceae inferred from phytochrome B and morphology",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2001",
+    "page": "313–325",
+    "URL": "https://doi.org/10.2307/2657021",
+    "DOI": "10.2307/2657021"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Savolainen",
+        "given": "V."
+      },
+      {
+        "family": "Clevinger",
+        "given": "C.C."
+      },
+      {
+        "family": "Archer",
+        "given": "R.H."
+      },
+      {
+        "family": "Davis",
+        "given": "J.I."
+      }
+    ],
+    "title": "Phylogeny of the Celastraceae inferred from 26S nrDNA, phytochrome B, atpB, rbcL, and morphology",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2001",
+    "page": "353–366",
+    "URL": "https://doi.org/10.1006/mpev.2001.0937",
+    "DOI": "10.1006/mpev.2001.0937"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.C."
+      }
+    ],
+    "title": "Hippocrateacea",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "3",
+    "issued": "1940",
+    "page": "367–383",
+    "URL": "https://doi.org/10.2307/2804626",
+    "DOI": "10.2307/2804626"
+  },
+  {
+    "author": [
+      {
+        "family": "Takhtajan",
+        "given": "A."
+      }
+    ],
+    "title": "Diversity and Classification of Flowering Plants",
+    "publisher": "Columbia University Press",
+    "type": "book",
+    "issued": "1997",
+    "page": "643",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Thwaites",
+        "given": "G.H.K."
+      }
+    ],
+    "title": "Enumeratio Plantarum Zeylaniae",
+    "publisher": "Dulau & Co., London",
+    "type": "book",
+    "issued": "1860",
+    "page": "483"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "R."
+      }
+    ],
+    "title": "Illustrations of Indian Botany",
+    "volume": "Madras",
+    "type": "article-journal",
+    "container-title": "J. B. Pharoah",
+    "issued": "1839",
+    "page": "218"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Triandria Monogynia",
+    "editor": [
+      {
+        "family": "Linnaeus",
+        "given": "Carl"
+      }
+    ],
+    "container-title": "Species Plantarum ed. 4",
+    "publisher": "Impensis G.C. Nauk",
+    "type": "chapter",
+    "issued": "1797",
+    "page": "193",
+    "publisher-place": "Berlin"
+  }
+]

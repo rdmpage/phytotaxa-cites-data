@@ -1,0 +1,193 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax Theatri Botanici",
+    "publisher": "Ludovici Regis, Basel",
+    "type": "book",
+    "issued": "1623",
+    "page": "522"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodoens",
+        "given": "R."
+      }
+    ],
+    "title": "Stirpium Historiae Pempdates Sex",
+    "genre": "Durand & Pissot,",
+    "publisher": "Antwerpen",
+    "type": null,
+    "issued": "1616",
+    "page": "872"
+  },
+  {
+    "author": [
+      {
+        "family": "Heywood",
+        "given": "V.H."
+      },
+      {
+        "family": "Richardson",
+        "given": "I.B.K."
+      }
+    ],
+    "title": "Acanthus L",
+    "editor": [
+      {
+        "given": "In"
+      },
+      {
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea 2",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1968",
+    "page": "283–284",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H., Walters"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Order out of Chaos: Linnaean plant names and their types",
+    "container-title": "The Linnean Society of London and the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L."
+      }
+    ],
+    "title": "Genera Plantarum secundum ordines naturales disposita, juxta methodum in horto region parisiensi exaratam",
+    "genre": "Herissant,",
+    "publisher": "Paris",
+    "type": null,
+    "issued": "1789",
+    "page": "498"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Hortus Cliffortianus",
+    "publisher": "Salomon Schouten, Amsterdam",
+    "type": "book",
+    "issued": "1738",
+    "page": "518"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Centuria II Plantarum",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Regia Academia Typographea, Uppsala",
+    "issued": "1756",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Marhold",
+        "given": "K."
+      }
+    ],
+    "title": "Acanthaceae. Euro+Med Plantbase—the information resource for Euro-Mediterranean plant diversity",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/PTaxonDetail.asp?NameId=839&PTRefFk=7200000"
+  },
+  {
+    "author": [
+      {
+        "family": "McDade",
+        "given": "L.A."
+      },
+      {
+        "family": "Daniel",
+        "given": "T.F."
+      },
+      {
+        "family": "Kiel",
+        "given": "C.A."
+      },
+      {
+        "family": "Vollesen",
+        "given": "K."
+      }
+    ],
+    "title": "Phylogenetic relationships among Acantheae (Acanthaceae): major lineages present contrasting patterns of molecular evolution and morphological differentiation",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2005",
+    "page": "834–862"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "A.W."
+      }
+    ],
+    "title": "Novae plantarum species praesertim Indiae orientalis",
+    "publisher": "H. Vogler, Halberstadt",
+    "type": "book",
+    "issued": "1820",
+    "page": "412"
+  },
+  {
+    "author": [
+      {
+        "family": "Royen",
+        "given": "A.von"
+      }
+    ],
+    "title": "Florae Leydensis prodromus",
+    "publisher": "Samuel Luchtmans, Leiden",
+    "type": "book",
+    "issued": "1740",
+    "page": "538"
+  }
+]

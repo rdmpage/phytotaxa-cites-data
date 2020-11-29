@@ -1,0 +1,587 @@
+[
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "E.F."
+      }
+    ],
+    "title": "The Cactus Family",
+    "publisher": "Timber Press, Portland",
+    "type": "book",
+    "issued": "2001",
+    "page": "776"
+  },
+  {
+    "author": [
+      {
+        "family": "Backeberg",
+        "given": "C."
+      }
+    ],
+    "title": "Das Kakteenlexikon",
+    "publisher": "Gustav Fischer Verlag, Jena",
+    "type": "book",
+    "issued": "1966",
+    "page": "822"
+  },
+  {
+    "author": [
+      {
+        "family": "Bois",
+        "given": "D."
+      }
+    ],
+    "title": "Dictionnaire d’horticulture",
+    "editor": [
+      {
+        "family": "Gillet",
+        "given": "H."
+      },
+      {
+        "family": "L. Planet",
+        "given": "A.Jobin",
+        "particle": "et"
+      }
+    ],
+    "type": null,
+    "issued": "1898",
+    "page": "2",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Bravo-Hollis",
+        "given": "H."
+      },
+      {
+        "family": "Sánchez-Mejorada",
+        "given": "H."
+      }
+    ],
+    "title": "Las Cactáceas de México",
+    "volume": "3",
+    "publisher": "Universidad Nacional Autónoma de México, Ciudad de Mexico",
+    "type": "book",
+    "issued": "1991",
+    "page": "643"
+  },
+  {
+    "author": [
+      {
+        "family": "Butterworth",
+        "given": "C.A."
+      },
+      {
+        "family": "Wallace",
+        "given": "R.S."
+      }
+    ],
+    "title": "Phylogenetic studies of Mammillaria (Cactaceae) - insights from chloroplast sequence variation and hypothesis testing using the parametric bootstrap",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2004",
+    "page": "1086–1098",
+    "URL": "https://doi.org/10.3732/ajb.91.7.1086",
+    "DOI": "10.3732/ajb.91.7.1086"
+  },
+  {
+    "author": [
+      {
+        "family": "Butterworth",
+        "given": "C.A."
+      },
+      {
+        "family": "Cota-Sánchez",
+        "given": "H."
+      },
+      {
+        "family": "Wallace",
+        "given": "R.S."
+      }
+    ],
+    "title": "Molecular Systematics of Tribe Cacteae (Cactaceae: Cactoideae): A Phylogeny Based on rpl16 Intron Sequence Variation",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "2",
+    "issued": "2002",
+    "page": "257–270"
+  },
+  {
+    "author": [
+      {
+        "family": "Craig",
+        "given": "R.T."
+      }
+    ],
+    "title": "The Mammillaria Handbook",
+    "publisher": "Abbey Garden Press, Pontefract",
+    "type": "book",
+    "issued": "1945",
+    "page": "400"
+  },
+  {
+    "author": [
+      {
+        "family": "Engelmann",
+        "given": "G."
+      }
+    ],
+    "title": "Synopsis of the Cactaceae of the Territory of the United States and Adjacent Regions",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "3",
+    "type": "paper-conference",
+    "issued": "1856",
+    "page": "259–311",
+    "URL": "https://doi.org/10.5962/bhl.title.46890",
+    "DOI": "10.5962/bhl.title.46890"
+  },
+  {
+    "author": [
+      {
+        "family": "García-Morales",
+        "given": "L.J."
+      },
+      {
+        "family": "Martínez-Avalos",
+        "given": "J.G."
+      },
+      {
+        "family": "Bergmann",
+        "given": "K."
+      }
+    ],
+    "title": "Una nueva especie de Turbinicarpus (Cactaceae) para el noreste de México",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Turbi-Now",
+    "issue": "2",
+    "issued": "2004",
+    "page": "42–51"
+  },
+  {
+    "author": [
+      {
+        "family": "García-Morales",
+        "given": "L.J."
+      },
+      {
+        "family": "Eduardo Estrada",
+        "given": "A."
+      },
+      {
+        "family": "González-Botello",
+        "given": "M.A."
+      },
+      {
+        "family": "Vargas Vázquez",
+        "given": "V.A."
+      }
+    ],
+    "title": "Mammillaria huntiana, a new species, endemic to the natural protected area Altas Cumbres, Tamaulipas, México",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal of the Mammillaria Society",
+    "issued": "2014",
+    "page": "42–55"
+  },
+  {
+    "author": [
+      {
+        "family": "García-Morales",
+        "given": "L.J."
+      },
+      {
+        "family": "González-Botello",
+        "given": "M.A."
+      },
+      {
+        "family": "González-González",
+        "given": "R.H."
+      }
+    ],
+    "title": "Ancistrocactus pinkavanus, a new species from Northern Mexico, with notes on the taxonomy and nomenclature of the genus Ancistrocactus",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Acta Succulenta",
+    "issue": "1",
+    "issued": "2014",
+    "page": "27–44"
+  },
+  {
+    "author": [
+      {
+        "family": "García-Morales",
+        "given": "L.J."
+      },
+      {
+        "family": "González-Botello",
+        "given": "M.A."
+      },
+      {
+        "family": "Vargas Vázquez",
+        "given": "V.A."
+      }
+    ],
+    "title": "A new species of Turbinicarpus (Cactaceae) from Tamaulipas, México",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Xerophilia Special Issue",
+    "issued": "2014",
+    "page": "2–17"
+  },
+  {
+    "author": [
+      {
+        "family": "García-Morales",
+        "given": "L.J."
+      },
+      {
+        "family": "Diáz-Salim",
+        "given": "J.F."
+      },
+      {
+        "family": "González-Botello",
+        "given": "M.A."
+      },
+      {
+        "family": "Pérez-Badillo",
+        "given": "C."
+      },
+      {
+        "family": "Flores Lince",
+        "given": "C.A."
+      }
+    ],
+    "title": "Turbinicarpus heliae (Cactaceae), a new species from Central Mexico",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Xerophilia Special Issue",
+    "issued": "2015",
+    "page": "1–8"
+  },
+  {
+    "author": [
+      {
+        "family": "García-Morales",
+        "given": "L.J."
+      },
+      {
+        "family": "González-Botello",
+        "given": "M.A."
+      },
+      {
+        "family": "Matuszewski",
+        "given": "G."
+      },
+      {
+        "family": "Nitzschke",
+        "given": "S."
+      },
+      {
+        "family": "Iamonico",
+        "given": "D."
+      }
+    ],
+    "title": "Turbinicarpus boedekerianus sp. nov. (Cactaceae) a new species from Nuevo León, Mexico",
+    "volume": "391",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2019",
+    "page": "159–162",
+    "URL": "https://doi.org/10.11646/phytotaxa.391.2.12",
+    "DOI": "10.11646/phytotaxa.391.2.12"
+  },
+  {
+    "author": [
+      {
+        "family": "González-González",
+        "given": "R."
+      }
+    ],
+    "title": "Mammillaria sanchez-mejoradae, una nueva especie de la familia Cactaceae",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Cactaceas y Suculentas Mexicanas",
+    "issue": "3",
+    "issued": "1992",
+    "page": "55–59"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Elizondo",
+        "given": "M."
+      },
+      {
+        "family": "González-Elizondo",
+        "given": "M.S."
+      },
+      {
+        "family": "González-Gallegos",
+        "given": "J.G."
+      },
+      {
+        "family": "Tena-Flores",
+        "given": "J.A."
+      },
+      {
+        "family": "Lorena López Enríquez",
+        "given": "I."
+      },
+      {
+        "family": "Rucho González",
+        "given": "L."
+      },
+      {
+        "family": "Isela Retana-Rentería",
+        "given": "F."
+      }
+    ],
+    "title": "Updated checklist and conservation status of Cactaceae in the state of Durango, Mexico",
+    "volume": "327",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2017",
+    "page": "103–129",
+    "URL": "https://doi.org/10.11646/phytotaxa.327.2.1",
+    "DOI": "10.11646/phytotaxa.327.2.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Guzmán",
+        "given": "U."
+      },
+      {
+        "family": "Arias",
+        "given": "S."
+      },
+      {
+        "family": "Dávila",
+        "given": "P."
+      }
+    ],
+    "title": "Catálogo de Cactáceas Mexicanas",
+    "container-title": "Universidad Nacional Autónoma de México y Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, Ciudad de Mexico",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "315"
+  },
+  {
+    "author": [
+      {
+        "family": "Haworth",
+        "given": "A.H."
+      }
+    ],
+    "title": "Synopsis plantarum succulentarum",
+    "publisher": "Richard Taylor, London",
+    "type": "book",
+    "issued": "1812",
+    "page": "208"
+  },
+  {
+    "author": [
+      {
+        "family": "Hernández",
+        "given": "H.M."
+      },
+      {
+        "family": "Gómez-Hinostrosa",
+        "given": "C."
+      }
+    ],
+    "title": "Mapping the cacti of Mexico 2",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Succulent Plant Research",
+    "issued": "2015",
+    "page": "1–186"
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "D.R."
+      }
+    ],
+    "title": "Schumann and Buxbaum reconciled",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Cactus and Succulent Journal of Great Britain",
+    "issued": "1971",
+    "page": "53–72"
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "D.R."
+      }
+    ],
+    "title": "A new review of Mammillaria names S–Z",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bradleya",
+    "issued": "1987",
+    "page": "17–48",
+    "URL": "https://doi.org/10.25223/brad.n5.1987.a2",
+    "DOI": "10.25223/brad.n5.1987.a2"
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "D.R."
+      }
+    ],
+    "title": "The New Cactus Lexicon: Descriptions and Illustrations of the Cactus Family",
+    "publisher": "DH Books, Milborne Port",
+    "type": "book",
+    "issued": "2006",
+    "page": "527"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List categories and criteria, version 14. Prepared by the Standards and Petitions Subcommittee of th IUCN Species Survival Commission",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://cmsdocs.s3.amazonaws.com/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Ktüger",
+        "given": "W."
+      },
+      {
+        "family": "Rischer",
+        "given": "W."
+      }
+    ],
+    "title": "Mammillaria roemeri Krüger & Rischer spec.nov",
+    "container-title": "Mitteilungsblatt des Arbeitskreises für Mammillarienfreunde",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "96–102"
+  },
+  {
+    "author": [
+      {
+        "family": "Linzen",
+        "given": "T."
+      }
+    ],
+    "title": "Mammillaria hermosana spec. nov., a new member of series Herrerae Lüthy",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Mitteilungsblatt AƒM",
+    "issue": "1",
+    "issued": "2014",
+    "page": "2–9"
+  },
+  {
+    "author": [
+      {
+        "family": "Lüthy",
+        "given": "J.M."
+      }
+    ],
+    "title": "Taxonomische Untersuchung der Gattung Mammillaria Haw",
+    "genre": "Ph.D. thesis.",
+    "publisher": "University of Bern, Bern",
+    "type": "thesis",
+    "issued": "1995",
+    "page": "230"
+  },
+  {
+    "author": [
+      {
+        "family": "Pilbeam",
+        "given": "J."
+      }
+    ],
+    "title": "Mammillaria. The Cactus File Handbook",
+    "volume": "6",
+    "publisher": "Cirio Publishing, Southampton",
+    "type": "book",
+    "issued": "1999",
+    "page": "376"
+  },
+  {
+    "author": [
+      {
+        "family": "Sánchez-Salas",
+        "given": "J."
+      },
+      {
+        "family": "Estrada-Castillón",
+        "given": "A.E."
+      },
+      {
+        "family": "Arias-Montes",
+        "given": "A."
+      },
+      {
+        "family": "Muro Pérez",
+        "given": "G."
+      },
+      {
+        "family": "García-Aranda",
+        "given": "M."
+      },
+      {
+        "family": "García-Morales",
+        "given": "L.J."
+      }
+    ],
+    "title": "Diversidad cactoflorística de la zona árida y semiárida de Durango, México",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Interciencia",
+    "issue": "11",
+    "issued": "2014",
+    "page": "794–802"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available at",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2020",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Villaseñor",
+        "given": "J.L."
+      }
+    ],
+    "title": "Checklist of native vascular plants of Mexico",
+    "volume": "87",
+    "type": "article-journal",
+    "container-title": "Revista Mexicana de Biodiversidad",
+    "issue": "3",
+    "issued": "2016",
+    "page": "459–902",
+    "URL": "https://doi.org/10.1016/j.rmb.2016.06.017",
+    "DOI": "10.1016/j.rmb.2016.06.017"
+  }
+]

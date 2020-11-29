@@ -1,0 +1,980 @@
+[
+  {
+    "author": [
+      {
+        "family": "Audet",
+        "given": "S."
+      }
+    ],
+    "title": "Essai de découpage systématique du genre Scutiger (Basidiomycota): Albatrellopsis, Albatrellus, Polyporoletus, Scutiger et description de six nouveaux genres",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2010",
+    "page": "431–464",
+    "URL": "http://doi.org/10.5248/111.431",
+    "DOI": "10.5248/111.431"
+  },
+  {
+    "author": [
+      {
+        "family": "Audet",
+        "given": "S."
+      },
+      {
+        "family": "Luther",
+        "given": "B.S."
+      }
+    ],
+    "title": "Neoalbatrellus subcaeruleoporus (Scutigeraceae): a new species from western North America",
+    "volume": "130",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2015",
+    "page": "1191–1202",
+    "URL": "http://doi.org/10.5248/130.1191",
+    "DOI": "10.5248/130.1191"
+  },
+  {
+    "author": [
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      },
+      {
+        "family": "Szaro",
+        "given": "T.M."
+      },
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Cullings",
+        "given": "K.W."
+      },
+      {
+        "family": "Pan",
+        "given": "J.J."
+      },
+      {
+        "family": "Taylor",
+        "given": "D.L."
+      },
+      {
+        "family": "Horton",
+        "given": "T.R."
+      },
+      {
+        "family": "Kretzer",
+        "given": "A."
+      },
+      {
+        "family": "Garbelotto",
+        "given": "M."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      }
+    ],
+    "title": "A sequence database for the identification of ectomycorrhizal Basidiomycetes by phylogenetic analysis",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1998",
+    "page": "257–272",
+    "URL": "https://doi.org/10.1046/j.1365-294X.1998.00337.x",
+    "DOI": "10.1046/j.1365-294X.1998.00337.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Zhou",
+        "given": "L.W."
+      },
+      {
+        "family": "Korhonen",
+        "given": "K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Phylogeny, divergence time estimation, and biogeography of the genus Heterobasidion (Basidiomycota, Russulales",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "185–200",
+    "URL": "https://doi.org/10.1007/s13225-014-0317-2",
+    "DOI": "10.1007/s13225-014-0317-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Global diversity and molecular systematics of Wrightoporia s. l",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Russulales, Basidiomycota). Persoonia",
+    "issued": "2016",
+    "page": "21–36",
+    "URL": "https://doi.org/10.3767/003158516X689666",
+    "DOI": "10.3767/003158516X689666"
+  },
+  {
+    "author": [
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Wang",
+        "given": "Z."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Albatrellus piceiphilus sp. nova on the basis of morphological and molecular characters",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2008",
+    "page": "41–48"
+  },
+  {
+    "author": [
+      {
+        "family": "Falandysz",
+        "given": "J."
+      }
+    ],
+    "title": "Selenium in Edible Mushrooms",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Journal of Environmental Science & Health Part C Environmental Carcinogenesis & Ecotoxicology Reviews",
+    "issued": "2008",
+    "page": "256–299",
+    "URL": "http://doi.org/10.1080/10590500802350086",
+    "DOI": "10.1080/10590500802350086"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence intervals on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "Community structure of ectomycorrhizal fungi in a Pinus muricata forest: above- and below-ground views",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issued": "1996",
+    "page": "1572–1583",
+    "URL": "https://doi.org/10.1139/b96-190",
+    "DOI": "10.1139/b96-190"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "S.F."
+      }
+    ],
+    "title": "A natural arrangement of British plants",
+    "volume": "1",
+    "publisher": "London",
+    "type": "book",
+    "issued": "1821",
+    "page": "824"
+  },
+  {
+    "author": [
+      {
+        "family": "Greslebin",
+        "given": "A."
+      },
+      {
+        "family": "Nakasone",
+        "given": "K.K."
+      },
+      {
+        "family": "Rajchenberg",
+        "given": "M."
+      }
+    ],
+    "title": "Rhizochaete, a new genus of phanerochaetoid fungi",
+    "volume": "96",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2004",
+    "page": "260–271",
+    "URL": "https://doi.org/10.1080/15572536.2005.11832976",
+    "DOI": "10.1080/15572536.2005.11832976"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilbertson",
+        "given": "R.L."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "North American polypores 1",
+    "publisher": "Abortiporus–Lindtneria, Fungiflora",
+    "type": "book",
+    "issued": "1986"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "Bioedit: a user-friendly biological sequence alignment editor and analysis program for windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Han",
+        "given": "M.L."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Shen",
+        "given": "L.L."
+      },
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "Vlasák",
+        "given": "J."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      }
+    ],
+    "title": "Taxonomy and phylogeny of the brown-rot fungi: Fomitopsis and its related genera",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2016",
+    "page": "343–373",
+    "URL": "https://doi.org/10.1007/s13225-016-0364-y",
+    "DOI": "10.1007/s13225-016-0364-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "T."
+      },
+      {
+        "family": "Hirasawa",
+        "given": "A."
+      },
+      {
+        "family": "Sun",
+        "given": "Q."
+      },
+      {
+        "family": "Sadakane",
+        "given": "K."
+      },
+      {
+        "family": "Itsubo",
+        "given": "C."
+      },
+      {
+        "family": "Iga",
+        "given": "T."
+      },
+      {
+        "family": "Adachi",
+        "given": "T."
+      },
+      {
+        "family": "Koshimizu",
+        "given": "T."
+      },
+      {
+        "family": "Hashimoto",
+        "given": "T."
+      },
+      {
+        "family": "Asakawa",
+        "given": "Y."
+      },
+      {
+        "family": "Tsujimoto",
+        "given": "G."
+      }
+    ],
+    "title": "Novel selective ligands for free fatty acid receptors GPR120 and GPR40",
+    "volume": "380",
+    "type": "article-journal",
+    "container-title": "Naunyn-Schmied Arch Pharmacol",
+    "issued": "2009",
+    "page": "247–255",
+    "URL": "https://doi.org/10.1007/s00210-009-0425-9",
+    "DOI": "10.1007/s00210-009-0425-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      },
+      {
+        "family": "Pine",
+        "given": "E.M."
+      },
+      {
+        "family": "Langer",
+        "given": "E."
+      },
+      {
+        "family": "Langer",
+        "given": "G."
+      },
+      {
+        "family": "Donoghue",
+        "given": "M.J."
+      }
+    ],
+    "title": "Evolution of gilled mushrooms and puffballs inferred from ribosomal DNA sequences",
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "volume": "94",
+    "type": "paper-conference",
+    "issued": "1997",
+    "page": "12002–12006",
+    "URL": "https://doi.org/10.1073/pnas.94.22.12002",
+    "DOI": "10.1073/pnas.94.22.12002"
+  },
+  {
+    "author": [
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      },
+      {
+        "family": "Thorn",
+        "given": "R.G."
+      },
+      {
+        "family": "Part",
+        "given": "B."
+      }
+    ],
+    "title": "Basidiomycota: Homobasidiomycetes",
+    "editor": [
+      {
+        "family": "Mclaughlin",
+        "given": "D.J."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "E.G."
+      },
+      {
+        "family": "Lemke",
+        "given": "P.A."
+      }
+    ],
+    "container-title": "The Mycota",
+    "volume": "VII",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "121–168",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-662-10189-6_5",
+    "DOI": "10.1007/978-3-662-10189-6_5"
+  },
+  {
+    "author": [
+      {
+        "family": "Hillis",
+        "given": "D.M."
+      },
+      {
+        "family": "Bull",
+        "given": "J.J."
+      }
+    ],
+    "title": "An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analysis",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1993",
+    "page": "182–192",
+    "URL": "https://doi.org/10.1093/sysbio/42.2.182",
+    "DOI": "10.1093/sysbio/42.2.182"
+  },
+  {
+    "author": [
+      {
+        "family": "Jin",
+        "given": "S."
+      },
+      {
+        "family": "Pang",
+        "given": "R.P."
+      },
+      {
+        "family": "Shen",
+        "given": "J.N."
+      },
+      {
+        "family": "Huang",
+        "given": "G."
+      },
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Zhou",
+        "given": "J.G."
+      }
+    ],
+    "title": "Grifolin induces apoptosis via inhibition of PI3K/AKT signalling pathway in human osteosarcoma cells",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Apoptosis",
+    "issued": "2007",
+    "page": "1317–1326",
+    "URL": "https://doi.org/10.1007/s10495-007-0062-z",
+    "DOI": "10.1007/s10495-007-0062-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of colour",
+    "edition": "3rd",
+    "publisher": "Eyre Methuen",
+    "type": "book",
+    "issued": "1978",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Laferrière",
+        "given": "J.E."
+      },
+      {
+        "family": "Gilbertson",
+        "given": "R.L."
+      }
+    ],
+    "title": "A new species of Albatrellus (Aphyllophorales: Albatrellaceae) from Mexico",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1990",
+    "page": "183–186"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      }
+    ],
+    "title": "Phylogenetic relationships of russuloid basidiomycetes with emphasis on aphyllophoralean taxa",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2003",
+    "page": "1037–1065",
+    "URL": "https://doi.org/10.1080/15572536.2004.11833020",
+    "DOI": "10.1080/15572536.2004.11833020"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "H.J."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Taxonomy and multi-gene phylogeny of Datronia (Polyporales, Basidiomycota",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2014",
+    "page": "170–182",
+    "URL": "https://doi.org/10.3767/003158514X681828",
+    "DOI": "10.3767/003158514X681828"
+  },
+  {
+    "author": [
+      {
+        "family": "Niemelä",
+        "given": "T."
+      }
+    ],
+    "title": "New data on Albatrellus syringae (Parmasto) Pouzar and A. peckianus (Cooke) Niemelä, n. comb",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "1970",
+    "page": "52–57"
+  },
+  {
+    "author": [
+      {
+        "family": "Núñez",
+        "given": "M."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "East Asian polypores 2",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2001",
+    "page": "165–522"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J."
+      }
+    ],
+    "title": "MrModeltest v2. program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.M.D."
+      }
+    ],
+    "title": "Treeview: an application to display phylogenetic trees on personal computers",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Computer Applications in the Biosciences Cabios",
+    "issued": "1996",
+    "page": "357–358"
+  },
+  {
+    "author": [
+      {
+        "family": "Paulet",
+        "given": "J.J."
+      }
+    ],
+    "title": "published in 1808] Traité des champignons",
+    "volume": "Vols. I–II",
+    "container-title": "Imprimerie nationale exécutive du Louvre",
+    "type": "chapter",
+    "issued": "1793",
+    "page": null,
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Pérez-Moreno",
+        "given": "J."
+      },
+      {
+        "family": "Martínez-Reyes",
+        "given": "M."
+      }
+    ],
+    "title": "Edible Ectomycorrhizal Mushrooms: Biofactories for Sustainable Development",
+    "container-title": "Biosystems Engineering: Biofactories for Food Production in the Century XXI",
+    "type": "chapter",
+    "issued": "2014",
+    "page": "151–233",
+    "URL": "https://doi.org/10.1007/978-3-319-03880-3_6",
+    "DOI": "10.1007/978-3-319-03880-3_6"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "Modeltest: testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818",
+    "URL": "https://doi.org/10.1093/bioinformatics/14.9.817",
+    "DOI": "10.1093/bioinformatics/14.9.817"
+  },
+  {
+    "author": [
+      {
+        "family": "Pouzar",
+        "given": "Z."
+      }
+    ],
+    "title": "A new species of the genus Albatrellus (Polyporaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Folia Geobotanica et Phytotaxonomica",
+    "issued": "1966",
+    "page": "274–276"
+  },
+  {
+    "author": [
+      {
+        "family": "Pouzar",
+        "given": "Z."
+      }
+    ],
+    "title": "Contribution to the knowledge of the genus Albatrellus (Polyporaceae) I. A conspectus of species of the North Temperate Zone",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Ceská Mykologie",
+    "issued": "1972",
+    "page": "194–200"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      },
+      {
+        "family": "Gilbertson",
+        "given": "R.L."
+      }
+    ],
+    "title": "European polypores. Part 1",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "1993",
+    "page": "1–387"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analysis with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: phylogenetic analysis using parsimony (*and other methods). version 4.0b10",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Theobald",
+        "given": "W."
+      }
+    ],
+    "title": "Catalogue of reptiles in the Museum of the Asiatic Society of Bengal",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Journal of the Asiatic Society of Bengal",
+    "issued": "1868",
+    "page": "7–88"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The Clustal_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "https://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/b978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/b978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "C.L."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "New species and phylogeny of Perenniporia based on morphological and molecular characters",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2013",
+    "page": "47–60",
+    "URL": "http://doi.org/10.1007/s13225-012-0177-6",
+    "DOI": "10.1007/s13225-012-0177-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "C.L."
+      },
+      {
+        "family": "Cui",
+        "given": "B.K."
+      },
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Fragiliporiaceae, a new family of Polyporales (Basidiomycota",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "115–126",
+    "URL": "https://doi.org/10.1007/s13225-014-0299-0",
+    "DOI": "10.1007/s13225-014-0299-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Zheng",
+        "given": "H.D."
+      },
+      {
+        "family": "Liu",
+        "given": "P.G."
+      }
+    ],
+    "title": "Albatrellus yunnanensis, a new species from China",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2006",
+    "page": "145–151"
+  },
+  {
+    "author": [
+      {
+        "family": "Zheng",
+        "given": "H.D."
+      },
+      {
+        "family": "Liu",
+        "given": "P.G."
+      }
+    ],
+    "title": "Additions to our knowledge of the genus Albatrellus (Basidiomycota) in China",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2008",
+    "page": "157–170"
+  }
+]

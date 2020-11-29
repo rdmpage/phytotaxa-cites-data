@@ -1,0 +1,119 @@
+[
+  {
+    "author": [
+      {
+        "family": "De Wildeman",
+        "given": "E."
+      },
+      {
+        "family": "Durand",
+        "given": "T."
+      }
+    ],
+    "title": "Littonia grandiflora",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Royale de Botanique de Belgique",
+    "issued": "1901",
+    "page": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "Littonia modesta",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine",
+    "issued": "1853",
+    "page": "4723"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "Methonica grandiflora",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine",
+    "issued": "1860",
+    "page": "5216"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Mantissa Plantarum Altera",
+    "publisher": "Stockholm",
+    "type": "book",
+    "issued": "1767",
+    "page": "588"
+  },
+  {
+    "author": [
+      {
+        "family": "Maroyi",
+        "given": "A."
+      }
+    ],
+    "title": "The genus Gloriosa (Colchicaceae): Ethnobotany, phylogeny and taxonomy",
+    "publisher": "Wageningen University, Wageningen",
+    "type": "book",
+    "issued": "2012",
+    "page": "194"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Brien",
+        "given": "J."
+      }
+    ],
+    "title": "Gloriosa grandiflora",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Gardeners’ Chronicle",
+    "issued": "1904",
+    "page": "127–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Vinnersten",
+        "given": "A."
+      },
+      {
+        "family": "Manning",
+        "given": "J."
+      }
+    ],
+    "title": "A new classification of Colchicaceae",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2007",
+    "page": "171–178"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ducke",
+        "given": "A."
+      }
+    ],
+    "title": "Plantes nouvelles ou peu connues de la région amazonienne",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Arquivos do Instituto de Biologia Vegetal do Rio de Janeiro",
+    "issued": "1938",
+    "page": "1–64"
+  },
+  {
+    "author": [
+      {
+        "family": "García-Barriga",
+        "given": "H."
+      },
+      {
+        "family": "Mora",
+        "given": "L.E."
+      }
+    ],
+    "title": "Contribución al estudio de las Rapateaceas de Colombia",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Mutisia",
+    "issued": "1954",
+    "page": "1–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Körnicke",
+        "given": "F."
+      }
+    ],
+    "title": "Monographie der Rapateaceen",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1872",
+    "page": "417–494"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria",
+    "edition": "Version 3.1. Second",
+    "container-title": "IUCN Species Survival Commission, IUCN",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland & Cambridge, iv"
+  },
+  {
+    "author": [
+      {
+        "family": "Maguire",
+        "given": "B."
+      }
+    ],
+    "title": "Rapateaceae",
+    "editor": [
+      {
+        "family": "Maguire",
+        "given": "B."
+      },
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1958",
+    "page": "19–49"
+  },
+  {
+    "author": [
+      {
+        "family": "Schomburgk",
+        "given": "R.H."
+      }
+    ],
+    "title": "Die Rapatea Friderici Angusti und Saxo-Fridericia regalis",
+    "publisher": "Friedrich Vieweg und Sohn",
+    "type": "book",
+    "issued": "1845",
+    "page": "14 , 2",
+    "publisher-place": "Braunschweig"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

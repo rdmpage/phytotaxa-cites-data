@@ -1,0 +1,1060 @@
+[
+  {
+    "author": [
+      {
+        "family": "Afonina",
+        "given": "O.M."
+      }
+    ],
+    "title": "Bryophytes",
+    "editor": [
+      {
+        "family": "Korneeva",
+        "given": "T.M."
+      }
+    ],
+    "publisher": "Grif & Co",
+    "type": "book",
+    "issued": "2000",
+    "page": "6–46",
+    "publisher-place": "Moscow"
+  },
+  {
+    "author": [
+      {
+        "family": "Bakalin",
+        "given": "V.A."
+      }
+    ],
+    "title": "A small collection of hepatics from Oregon and California",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Arctoa",
+    "issued": "2012",
+    "page": "201–205"
+  },
+  {
+    "author": [
+      {
+        "family": "Bakalin",
+        "given": "V.A."
+      },
+      {
+        "family": "Vilnet",
+        "given": "A.A."
+      }
+    ],
+    "title": "Two new species of Jungermanniaceae from Asian Russia",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Arctoa",
+    "issued": "2009",
+    "page": "151–162"
+  },
+  {
+    "author": [
+      {
+        "family": "Bakalin",
+        "given": "V.A."
+      },
+      {
+        "family": "Vilnet",
+        "given": "A.A."
+      }
+    ],
+    "title": "New combinations and new species of Solenostoma and Plectocolea (Solenostomataceae) from the Russian Far East",
+    "volume": "115",
+    "type": "article-journal",
+    "container-title": "Bryologist",
+    "issued": "2012",
+    "page": "566–584",
+    "URL": "http://dx.doi.org/10.1639/0007-2745-115.4.566",
+    "DOI": "10.1639/0007-2745-115.4.566"
+  },
+  {
+    "author": [
+      {
+        "family": "Crandall-Stotler",
+        "given": "B."
+      },
+      {
+        "family": "Stotler",
+        "given": "R.E."
+      },
+      {
+        "family": "Geissler",
+        "given": "P."
+      }
+    ],
+    "title": "A biosystematic study of the subspecies of Frullania tamarisci (L",
+    "volume": "90",
+    "type": "article-journal",
+    "container-title": "Bryologist",
+    "issued": "1987",
+    "page": "287–308",
+    "URL": "http://dx.doi.org/10.2307/3243091",
+    "DOI": "10.2307/3243091"
+  },
+  {
+    "author": [
+      {
+        "family": "Dumortier",
+        "given": "B.C."
+      }
+    ],
+    "title": "Recueil d’Observations sur les Jungermanniacées. I. Révision des genres",
+    "publisher": "J.-A. Blanquart, Tournay",
+    "type": "book",
+    "issued": "1835",
+    "page": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "A.W."
+      }
+    ],
+    "title": "A revision of the North American species of Frullania, a new genus of Hepaticae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Transactions of the Connecticut Academy of Arts and Sciences",
+    "issued": "1897",
+    "page": "1–39"
+  },
+  {
+    "author": [
+      {
+        "family": "Frahm",
+        "given": "J.-P."
+      }
+    ],
+    "title": "Frullania tamarisci var. azorica (Jubulaceae, Marchantiopsida), a new taxon from the Azores",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Tropical Bryology",
+    "issued": "2006",
+    "page": "101–105"
+  },
+  {
+    "author": [
+      {
+        "family": "Goloboff",
+        "given": "P."
+      },
+      {
+        "family": "Farris",
+        "given": "S."
+      },
+      {
+        "family": "Nixon",
+        "given": "K."
+      }
+    ],
+    "title": "T.N.T.: Tree analysis using New Technology",
+    "note": "available from the authors, and at www.zmuc.dk/public/phylogeny.",
+    "type": "article-journal",
+    "container-title": "Progarm and documentation",
+    "issued": "2000"
+  },
+  {
+    "author": [
+      {
+        "family": "Gottsche",
+        "given": "C.M."
+      },
+      {
+        "family": "Lindenberg",
+        "given": "J.B.G."
+      },
+      {
+        "family": "Esenbeck C.G",
+        "given": "Nees",
+        "particle": "von"
+      }
+    ],
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Synopsis Hepaticarum",
+    "issue": "3",
+    "issued": "1845",
+    "page": "305–464",
+    "publisher-place": "Meissner, Hamburg"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.F."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Anisimova",
+        "given": "M."
+      },
+      {
+        "family": "Hordijk",
+        "given": "W."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2010",
+    "page": "307–321",
+    "URL": "http://dx.doi.org/10.1093/sysbio/syq010",
+    "DOI": "10.1093/sysbio/syq010"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hattori",
+        "given": "S."
+      }
+    ],
+    "title": "Frullania tamarisci-complex and the species concept",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Journal of the Hattori Botanical Laboratory",
+    "issued": "1972",
+    "page": "202–251"
+  },
+  {
+    "author": [
+      {
+        "family": "Hattori",
+        "given": "S."
+      }
+    ],
+    "title": "Frullania tamarisci from Lena, Siberia",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Miscellanea Bryologica et Lichenologica",
+    "issued": "1973",
+    "page": "72–73"
+  },
+  {
+    "author": [
+      {
+        "family": "Hattori",
+        "given": "S."
+      }
+    ],
+    "title": "Anthocerotae and Hepaticae",
+    "editor": [
+      {
+        "family": "Hara",
+        "given": "H."
+      }
+    ],
+    "container-title": "Flora of Eastern Himalaya, I",
+    "publisher": "University of Tokyo Press",
+    "type": "chapter",
+    "issued": "1966",
+    "page": "501–536",
+    "publisher-place": "Tokyo"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinrichs",
+        "given": "J."
+      },
+      {
+        "family": "Hentschel",
+        "given": "J."
+      },
+      {
+        "family": "Bombosch",
+        "given": "A."
+      },
+      {
+        "family": "Fiebig",
+        "given": "A."
+      },
+      {
+        "family": "Reise",
+        "given": "J."
+      },
+      {
+        "family": "Edelmann",
+        "given": "M."
+      },
+      {
+        "family": "Kreier",
+        "given": "H.-P."
+      },
+      {
+        "family": "Schäfer-Verwimp",
+        "given": "A."
+      },
+      {
+        "family": "Caspari",
+        "given": "S."
+      },
+      {
+        "family": "Schmidt",
+        "given": "A."
+      },
+      {
+        "family": "Zhu",
+        "given": "R.-L."
+      },
+      {
+        "family": "Konrat",
+        "given": "M.",
+        "particle": "von"
+      },
+      {
+        "family": "Shaw",
+        "given": "B."
+      },
+      {
+        "family": "Shaw",
+        "given": "A.J."
+      }
+    ],
+    "title": "One species or at least eight? Delimination and distribution of Frullania tamarisci (L.) Dumort. s.l. (Jungermanniopsida, Porellales) inferred from nuclear and chloroplast DNA markers",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2010",
+    "page": "1105–1114",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2010.05.004",
+    "DOI": "10.1016/j.ympev.2010.05.004"
+  },
+  {
+    "author": [
+      {
+        "literal": "Hentschel, J., von Konrat, M., Pócs T., Schäfer-Verwimp, A., Shaw, A.J., Schneider, H. & Heinrichs, J."
+      }
+    ],
+    "title": "Molecular insights into the phylogeny and subgeneric classification of Frullania Raddii (Frullaniaceae, Porellales",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2009",
+    "page": "142–156",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2008.12.021",
+    "DOI": "10.1016/j.ympev.2008.12.021"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Taylor",
+        "given": "T."
+      }
+    ],
+    "title": "Hepaticae Antarcticae, supplementum; or specific characters, with brief descriptions. of some additional species of the Hepaticae of the Antarctic regions, New Zealand, and Tasmania, together with a few from the Atlantic Islands and New Holland",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "London Journal of Botany",
+    "issued": "1845",
+    "page": "79–97"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "British Jungermanniae being a history and description, with figures, of each species of the genus, and microscopical analysis of the parts",
+    "publisher": "Longmans",
+    "type": "book",
+    "issued": "1816",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Howe",
+        "given": "M.A."
+      }
+    ],
+    "title": "Notes on Californian bryophytes. 1",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Erythea",
+    "issued": "1894",
+    "page": "97–101"
+  },
+  {
+    "author": [
+      {
+        "family": "Kamimura",
+        "given": "M."
+      }
+    ],
+    "title": "A monograph of Japanese Frullaniaceae",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Journal of the Hattori Botanical Laboratory",
+    "issued": "1961",
+    "page": "1–109"
+  },
+  {
+    "author": [
+      {
+        "family": "Katagiri",
+        "given": "T."
+      },
+      {
+        "family": "Furuki",
+        "given": "T."
+      }
+    ],
+    "title": "Checklist of Japanese liverworts and hornworts",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Bryological Research",
+    "issued": "2012",
+    "page": "193–210"
+  },
+  {
+    "author": [
+      {
+        "family": "Keane",
+        "given": "T.M."
+      },
+      {
+        "family": "Naughton",
+        "given": "T.J."
+      },
+      {
+        "family": "McInerney",
+        "given": "J.O."
+      }
+    ],
+    "title": "ModelGenerator: amino acid and nucleotide substitution model selection",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "URL": "http://bioinf.may.ie/software/modelgenerator/"
+  },
+  {
+    "author": [
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Bakalin",
+        "given": "V.A."
+      },
+      {
+        "family": "Andreeva",
+        "given": "E.N."
+      },
+      {
+        "family": "Bezgodov",
+        "given": "A.G."
+      },
+      {
+        "family": "Borovichev",
+        "given": "E.A."
+      },
+      {
+        "family": "Dulin",
+        "given": "M.A."
+      },
+      {
+        "family": "Mamontov",
+        "given": "Y.S."
+      }
+    ],
+    "title": "Checklist of liverworts (Marchantiophyta) of Russia",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Arctoa",
+    "issued": "2010",
+    "page": "1–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Vilnet",
+        "given": "A.A."
+      }
+    ],
+    "title": "Jubula hutchinsiae ssp. caucasica subsp. nov",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Jubulaceae",
+    "issued": "2011",
+    "page": "227–238"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "note": "Holmiae [Stockholm], 1200",
+    "type": null,
+    "issued": "1753",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "K."
+      },
+      {
+        "family": "Warnow",
+        "given": "T.J."
+      },
+      {
+        "family": "Holder",
+        "given": "M.T."
+      },
+      {
+        "family": "Nelesen",
+        "given": "S.M."
+      },
+      {
+        "family": "Yu",
+        "given": "J."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A.P."
+      },
+      {
+        "family": "Linder",
+        "given": "C.R."
+      }
+    ],
+    "title": "SATé-II: Very Fast and Accurate Simultaneous Estimation of Multiple Sequence Alignments and Phylogenetic Trees",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "90–106",
+    "URL": "http://dx.doi.org/10.1093/sysbio/syr095",
+    "DOI": "10.1093/sysbio/syr095"
+  },
+  {
+    "author": [
+      {
+        "family": "Montagne",
+        "given": "J.P."
+      }
+    ],
+    "title": "Cryptogamae Nilgherienses seu plantarum cellularium in montibus peninsulae indicae Neel-Gherries dictis à cl. Perrottet collectarum enumeratio",
+    "volume": "2. 18",
+    "type": "article-journal",
+    "container-title": "Annales des Sciences Naturelles, Botanique, Sér",
+    "issued": "1842",
+    "page": "12–23"
+  },
+  {
+    "author": [
+      {
+        "family": "Pattengale",
+        "given": "N.D."
+      },
+      {
+        "family": "Alipour",
+        "given": "M."
+      },
+      {
+        "family": "Bininda-Emonds",
+        "given": "O.R.P."
+      },
+      {
+        "family": "Moret",
+        "given": "B.M.E."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "How many bootstrap replicates are necessary?",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "– Journal of Computational Biology",
+    "issued": "2010",
+    "page": "337–354",
+    "URL": "http://dx.doi.org/10.1089/cmb.2009.0179",
+    "DOI": "10.1089/cmb.2009.0179"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearson",
+        "given": "W.H."
+      }
+    ],
+    "title": "Frullania microphylla",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Journal of Botany, British and Foreign",
+    "issued": "1894",
+    "page": "328–330"
+  },
+  {
+    "author": [
+      {
+        "family": "Raddi",
+        "given": "G."
+      }
+    ],
+    "title": "Jungermanniografia Etrusca",
+    "volume": "Modena",
+    "type": "article-journal",
+    "container-title": "La Società tipografica",
+    "issued": "1818",
+    "page": "45"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "title": "Tracer v1.4",
+    "note": "Available from",
+    "type": null,
+    "issued": "2007",
+    "URL": "http://beast.bio.ed.ac.uk/Tracer."
+  },
+  {
+    "author": [
+      {
+        "family": "Reinwardt",
+        "given": "C.G.C."
+      },
+      {
+        "family": "Blume",
+        "given": "C."
+      },
+      {
+        "family": "Esenbeck",
+        "given": "C.G.",
+        "particle": "Nees von"
+      }
+    ],
+    "title": "Hepaticae javanicae",
+    "container-title": "Nova Acta Physico-medica Academiae Caesareae Leopoldino-Carolinae Naturae Curiosorum Exhibentia Ephemerides sive Observationes Historias et Experimenta",
+    "volume": "12",
+    "type": "chapter",
+    "issued": "1825",
+    "page": "181–238"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Hülsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Schljakov",
+        "given": "R.N."
+      }
+    ],
+    "title": "Pechenochnye Mchi Severa SSSR. 5",
+    "publisher": "Nauka, Leningrad",
+    "type": "book",
+    "issued": "1982",
+    "page": "196"
+  },
+  {
+    "author": [
+      {
+        "family": "Sim-Sim",
+        "given": "M."
+      },
+      {
+        "family": "Fontinha",
+        "given": "S."
+      },
+      {
+        "family": "Mues",
+        "given": "R."
+      },
+      {
+        "family": "Lion",
+        "given": "U."
+      }
+    ],
+    "title": "A new Frullania species (subg. Frullania) from Deserta Grande, Madeira archipelago, Frullania sergiae sp",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "nov. Nova Hedwigia",
+    "issued": "2000",
+    "page": "185–193"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: Maximum Likelihood-based Phylogenetic Analyses with Thousands of Taxa and Mixed Models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Steere",
+        "given": "W.C."
+      },
+      {
+        "family": "Inoue",
+        "given": "H."
+      }
+    ],
+    "title": "The Hepaticae of Arctic Alaska",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Journal of the Hattori Botanical Laboratory",
+    "issued": "1978",
+    "page": "251–345"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephani",
+        "given": "F."
+      }
+    ],
+    "title": "Hepaticae Japonicarum",
+    "volume": "série 2 5",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Herbier Boissier",
+    "issued": "1897",
+    "page": "76–108"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephani",
+        "given": "F."
+      }
+    ],
+    "title": "Hepaticae d’Africa",
+    "editor": [
+      {
+        "family": "Henriques",
+        "given": "J.A."
+      }
+    ],
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Coimbra",
+    "issued": "1887",
+    "page": "1–258"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephani",
+        "given": "F."
+      }
+    ],
+    "title": "Species Hepaticarum IV",
+    "publisher": "Georg & Cie, Genève & Bale",
+    "type": "book",
+    "issued": "1912",
+    "page": "824"
+  },
+  {
+    "author": [
+      {
+        "family": "Sullivant",
+        "given": "W.S."
+      }
+    ],
+    "title": "Contributions to the bryology and hepaticology of North America. II",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Memoirs of the American Academy of Arts and Science",
+    "issued": "1849",
+    "page": "169–176",
+    "URL": "http://dx.doi.org/10.2307/25058157",
+    "DOI": "10.2307/25058157"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non–coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "http://dx.doi.org/10.1007/bf00037152",
+    "DOI": "10.1007/bf00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Peterson",
+        "given": "N."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Nei",
+        "given": "M."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA 5: Molecular Evolutionary Genetics Analysis Using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Method",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2011",
+    "page": "2731–2739",
+    "URL": "http://dx.doi.org/10.1093/molbev/msr121",
+    "DOI": "10.1093/molbev/msr121"
+  },
+  {
+    "author": [
+      {
+        "family": "Verdoorn",
+        "given": "F."
+      }
+    ],
+    "title": "Die Frullaniaceae der Indomalesischen Inseln (De Frullaniaceis VII",
+    "volume": "suppl. 1",
+    "type": "article-journal",
+    "container-title": "Annales Bryologici",
+    "issued": "1930",
+    "page": "1–187"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Snisky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego"
+  },
+  {
+    "author": [
+      {
+        "family": "Konrat",
+        "given": "M.",
+        "particle": "von"
+      },
+      {
+        "family": "Lange",
+        "given": "P.",
+        "particle": "de"
+      },
+      {
+        "family": "Greif",
+        "given": "M."
+      },
+      {
+        "family": "Strozier",
+        "given": "L."
+      },
+      {
+        "family": "Hentschel",
+        "given": "J."
+      },
+      {
+        "family": "Heinrichs",
+        "given": "J."
+      }
+    ],
+    "title": "Frullania knightbridgei, a new liverwort (Frullaniaceae, Marchantiophyta) species from the deep south of Aotearoa-New Zealand based on integrated evidence-based approach",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2012",
+    "page": "13–36",
+    "URL": "http://dx.doi.org/10.3897/phytokeys.8.2496",
+    "DOI": "10.3897/phytokeys.8.2496"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamada",
+        "given": "K."
+      },
+      {
+        "family": "Iwatsuki",
+        "given": "Z."
+      }
+    ],
+    "title": "Catalogue of the hepatics of Japan",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Journal of the Hattori Botanical Laboratory",
+    "issued": "2006",
+    "page": "1–106"
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aitchison",
+        "given": "J.E.T."
+      }
+    ],
+    "title": "I. The Botany of the Afghan Delimitation Commission",
+    "container-title": "Transactions of the Linnean Society of London. 2nd Series: Botany",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1888",
+    "page": "1–150",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1888.tb00623.x",
+    "DOI": "10.1111/j.1095-8339.1888.tb00623.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Blattner",
+        "given": "F.R."
+      }
+    ],
+    "title": "Direct amplification of the entire ITS region from poorly preserved plant material using recombinant PCR",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Biotechnology",
+    "issued": "1999",
+    "page": "1180–1185",
+    "URL": "https://doi.org/10.2144/99276st04",
+    "DOI": "10.2144/99276st04"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Grossheim",
+        "given": "A.A."
+      }
+    ],
+    "title": "Flora Kavkaza 1",
+    "publisher": "Tiflis",
+    "note": "In Russian",
+    "type": null,
+    "issued": "1928",
+    "page": "296"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "https://doi.org/10.1111/j.1558-5646.1985.tb00420.x",
+    "DOI": "10.1111/j.1558-5646.1985.tb00420.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Filipowicz",
+        "given": "N."
+      },
+      {
+        "family": "Nee",
+        "given": "M.H."
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      }
+    ],
+    "title": "Description and molecular diagnosis of a new species of Brunfelsia (Solanaceae) from the Bolivian and Argentinean Andes",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2012",
+    "page": "83–94",
+    "URL": "https://doi.org/10.3897/phytokeys.10.2558",
+    "DOI": "10.3897/phytokeys.10.2558"
+  },
+  {
+    "author": [
+      {
+        "family": "Friesen",
+        "given": "N."
+      },
+      {
+        "family": "Fritsch",
+        "given": "R.M."
+      },
+      {
+        "family": "Blattner",
+        "given": "F.R."
+      }
+    ],
+    "title": "Phylogeny and new intrageneric classification of Allium L. (Alliaceae) based on nuclear ribosomal DNA ITS sequences",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Aliso",
+    "issued": "2006",
+    "page": "372–395",
+    "URL": "https://doi.org/10.5642/aliso.20062201.31",
+    "DOI": "10.5642/aliso.20062201.31"
+  },
+  {
+    "author": [
+      {
+        "family": "Hermann",
+        "given": "F."
+      }
+    ],
+    "title": "Sectiones et subsectiones nonnulae europaeae generis Allium",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1939",
+    "page": "57–58"
+  },
+  {
+    "author": [
+      {
+        "family": "Kluge",
+        "given": "A.G."
+      },
+      {
+        "family": "Farris",
+        "given": "J.S."
+      }
+    ],
+    "title": "Quantitative phyletics and the evolution of anurans",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Systematic Zoology",
+    "issued": "1969",
+    "page": "–32",
+    "URL": "https://doi.org/10.1093/sysbio/18.1.1",
+    "DOI": "10.1093/sysbio/18.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "Mega 7: Molecular Evolutionary Genetics Analysis version 7.0 for bigger datasets",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2016",
+    "page": "1870–1874",
+    "URL": "https://doi.org/10.1093/molbev/msw054",
+    "DOI": "10.1093/molbev/msw054"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J.von"
+      }
+    ],
+    "title": "Collectanea ad botanicam, chemiam et historiam naturalem spectantia, cum figuris 2",
+    "publisher": "Ex Officina Wappleriana, Vindobonae [Wien",
+    "type": "book",
+    "issued": "1789",
+    "page": "374"
+  },
+  {
+    "author": [
+      {
+        "family": "Ledebour",
+        "given": "C.F.von"
+      },
+      {
+        "family": "Meyer",
+        "given": "C.A."
+      },
+      {
+        "family": "Bunge",
+        "given": "A."
+      }
+    ],
+    "title": "Flora altaica 2",
+    "publisher": "G. Reimeri",
+    "type": "book",
+    "issued": "1830",
+    "page": "464",
+    "publisher-place": "Berolini [Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Q.Q."
+      },
+      {
+        "family": "Zhou",
+        "given": "S.D."
+      },
+      {
+        "family": "He",
+        "given": "Y.J."
+      },
+      {
+        "family": "Yu",
+        "given": "Yan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Y.C."
+      },
+      {
+        "family": "Wei",
+        "given": "X.Q."
+      }
+    ],
+    "title": "Phylogeny and biogeography of Allium (Amaryllidaceae: Allieae) based on nuclear ribosomal internal transcribed spacer and chloroplast rps16 sequences, focusing on the inclusion of species endemic to China",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2010",
+    "page": "709–733",
+    "URL": "https://doi.org/10.1093/aob/mcq177",
+    "DOI": "10.1093/aob/mcq177"
+  },
+  {
+    "author": [
+      {
+        "family": "Losa",
+        "given": "E.M."
+      },
+      {
+        "family": "Montserrat",
+        "given": "P."
+      }
+    ],
+    "title": "Nueva aportation al estudio de la flora de los montes cantabro-leoneses. Anales del Instituto Botanico A.J",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Cavanilles",
+    "issued": "1953",
+    "page": "385–462"
+  },
+  {
+    "author": [
+      {
+        "family": "Radić",
+        "given": "J."
+      }
+    ],
+    "title": "Contribution to the knowledge of reproductive peculiarity of genus Allium L. in the area Podbiokovlje",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Razprave Slovenska Akademija Znanosti in Umetnosti. Razred za Naravoslovne Vede",
+    "issued": "1990",
+    "page": "247–269"
+  },
+  {
+    "author": [
+      {
+        "family": "Redouté",
+        "given": "P.J."
+      }
+    ],
+    "title": "Les Liliacées 2. Didot Jeune",
+    "type": null,
+    "issued": "1804",
+    "page": "61–120",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Regel",
+        "given": "E."
+      }
+    ],
+    "title": "Alliorum adhuc cognitorum monographia. Trudy Imperatorskago S.-Peterburgskago Botaniceskago Sada",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Acta Horti Petropolitani. St. Petersburg",
+    "issue": "2",
+    "issued": "1875",
+    "page": "1–266",
+    "URL": "https://doi.org/10.5962/bhl.title.15473",
+    "DOI": "10.5962/bhl.title.15473"
+  },
+  {
+    "author": [
+      {
+        "family": "Regel",
+        "given": "E."
+      }
+    ],
+    "title": "Allii species Asiae Centralis in Asia Media a Turcomania desertisque Araliensibus et Caspicis usque ad Mongoliam crescentes. Trudy Imperatorskago S.-Peterburgskago Botaniceskago Sada",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Acta Horti Petropolitani. St. Petersburg",
+    "issued": "1887",
+    "page": "278–362"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "title": "Smilaceae et Liliaceae in Flora Germanica. Icones Florae germanicae et helveticae 10",
+    "publisher": "A. F. Hofmeister",
+    "type": "book",
+    "issued": "1848",
+    "page": "34",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "R."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J.E.B."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.E."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      }
+    ],
+    "title": "Comparison of whole chloroplast genome sequences to choose noncoding regions for phylogenetic studies in angiosperms: the tortoise and the hare III",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2007",
+    "page": "275–288",
+    "URL": "https://doi.org/10.3732/ajb.94.3.275",
+    "DOI": "10.3732/ajb.94.3.275"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.-L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic Analysis using Parsimony (* and Other Methods). Version 4",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2002",
+    "publisher-place": "Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Taberlet",
+        "given": "P."
+      },
+      {
+        "family": "Gielly",
+        "given": "L."
+      },
+      {
+        "family": "Pautou",
+        "given": "G."
+      },
+      {
+        "family": "Bouvet",
+        "given": "J."
+      }
+    ],
+    "title": "Universal primers for amplification of three non-coding regions of chloroplast DNA",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Plant Molecular Biology",
+    "issued": "1991",
+    "page": "1105–1109",
+    "URL": "https://doi.org/10.1007/BF00037152",
+    "DOI": "10.1007/BF00037152"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The Clustal X window interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "https://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Thore",
+        "given": "J."
+      }
+    ],
+    "title": "Essai d’une Chloris du Département des Landes",
+    "publisher": "Seize, Dax",
+    "type": "book",
+    "issued": "1803",
+    "page": "516"
+  },
+  {
+    "author": [
+      {
+        "family": "Tscholokashvili",
+        "given": "N.B."
+      }
+    ],
+    "title": "New series Daghestanica Tscholok. from section Rhizirideum Don of genus Allium. Zametki po sistematike i geografii rastenij AN",
+    "volume": "25",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "GSSR",
+    "issued": "1965",
+    "page": "83–102"
+  },
+  {
+    "author": [
+      {
+        "family": "Waldstein",
+        "given": "F.P.A.von"
+      },
+      {
+        "family": "Kitaibel",
+        "given": "P."
+      }
+    ],
+    "title": "Descriptiones et icones plantarum rariorum Hungariae 2",
+    "publisher": "Typis Matthiae Andreae Schmidt, Viennae",
+    "type": "book",
+    "issued": "1805",
+    "page": "105–220"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Birns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: A Guide to Methods and Applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Xie",
+        "given": "D.-F."
+      },
+      {
+        "family": "Yu",
+        "given": "H.-X."
+      },
+      {
+        "family": "Price",
+        "given": "M.L."
+      },
+      {
+        "family": "Xie",
+        "given": "C."
+      },
+      {
+        "family": "Deng",
+        "given": "Y.-Q."
+      },
+      {
+        "family": "Chen",
+        "given": "Ju-P."
+      },
+      {
+        "family": "Zhou",
+        "given": "S.-D."
+      },
+      {
+        "family": "He",
+        "given": "X.-J."
+      }
+    ],
+    "title": "Phylogeny of Chinese Allium species in section Daghestanica and adaptive evolution of Allium (Amaryllidaceae, Allioideae) species revealed by the chloroplast complete genome",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Frontiers in Plant Science",
+    "issued": "2019",
+    "page": "460",
+    "URL": "https://doi.org/10.3389/fpls.2019.00460",
+    "DOI": "10.3389/fpls.2019.00460"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "J.-M."
+      }
+    ],
+    "title": "Monocotyledoneae - Liliaceae Allium L",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "F.T."
+      },
+      {
+        "family": "Tang",
+        "given": "T."
+      }
+    ],
+    "container-title": "Flora reipublicae popularis Sinicae",
+    "volume": "14",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "170–272, 283–285"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "J.-M."
+      },
+      {
+        "family": "Xue",
+        "given": "P.-F."
+      },
+      {
+        "family": "Zhu",
+        "given": "S.-M."
+      },
+      {
+        "family": "Jing",
+        "given": "W.-C."
+      }
+    ],
+    "title": "A new species of Allium L. from Sichuan and its karyotype",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issue": "4",
+    "issued": "1994",
+    "page": "356–358"
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Fimbristylis",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "publisher": "L. Reeve & Co",
+    "type": "book",
+    "issued": "1893",
+    "page": "630–651",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Forman",
+        "given": "L.L."
+      }
+    ],
+    "title": "Notes concerning the Typification of Names of William Roxburgh’s Species of Phanerogams",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Kew Bull",
+    "issue": "3",
+    "issued": "1997",
+    "page": "513–534",
+    "URL": "http://dx.doi.org/10.2307/4110285",
+    "DOI": "10.2307/4110285"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Dransfield",
+        "given": "J."
+      },
+      {
+        "family": "Zona",
+        "given": "S.F."
+      },
+      {
+        "family": "Hodel",
+        "given": "D.R."
+      },
+      {
+        "family": "Henderson",
+        "given": "A."
+      }
+    ],
+    "title": "World Checklist of Cyperaceae",
+    "note": "Facilitated by the Royal Botanic Gardens, Kew. Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "given": "Link"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Sprengel",
+        "given": "K.A.H.Schrader"
+      },
+      {
+        "given": "H.F."
+      }
+    ],
+    "title": "Link",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Jahrubucher der Gewachskunde",
+    "issue": "3",
+    "issued": "1820",
+    "page": "80"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J.M."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buch",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "International Code of Nomenclature for algae, fungi, and plants",
+    "publisher": "Adopted by the Eighteenth International Botanical Congress Melbourne",
+    "type": "book",
+    "issued": "2012",
+    "publisher-place": "Melbourne Code"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "T."
+      }
+    ],
+    "title": "William Roxburgh: the Founding Father of Indian Botany",
+    "publisher": "Philimore and Royal Botanic Garden Edinburgh",
+    "type": "book",
+    "issued": "2008"
+  },
+  {
+    "author": [
+      {
+        "family": "Roemer",
+        "given": "J.J."
+      },
+      {
+        "family": "Schultes",
+        "given": "J.A."
+      }
+    ],
+    "title": "Mantissa in Volumen Secundum: Systematis vegetabilium Caroli a Linné",
+    "publisher": "Sumtibus J.G. Cottae",
+    "type": "book",
+    "issued": "1824",
+    "page": "386",
+    "publisher-place": "Stuttgardtiae",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.552",
+    "DOI": "10.5962/bhl.title.552"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus Bengalensis or, a Catalogue of the Plants Growing in the Honourable East India Company’s Botanic Garden at Calcutta",
+    "publisher": "The Mission Press, Serampore",
+    "type": "book",
+    "issued": "1814"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora Indica",
+    "publisher": "The Mission Press, Serampore",
+    "type": "book",
+    "issued": "1820",
+    "page": "741"
+  },
+  {
+    "author": [
+      {
+        "family": "Sealy",
+        "given": "J.R."
+      }
+    ],
+    "title": "The Roxburgh Flora Indica Drawings at Kew",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1956",
+    "page": "349–399",
+    "URL": "http://dx.doi.org/10.2307/4109123",
+    "DOI": "10.2307/4109123"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature (ed.2",
+    "editor": [
+      {
+        "family": "Bohn",
+        "given": "Scheltema"
+      },
+      {
+        "given": "Holkema"
+      }
+    ],
+    "container-title": "Utrecht",
+    "type": "chapter",
+    "issued": "1983",
+    "page": "954–958"
+  },
+  {
+    "author": [
+      {
+        "family": "Steinberg",
+        "given": "C.H."
+      }
+    ],
+    "title": "The Collectors and Collection in the Herbarium Webb",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Webbia",
+    "issue": "1",
+    "issued": "1977",
+    "page": "14",
+    "URL": "http://dx.doi.org/10.1080/00837792.1977.10670081",
+    "DOI": "10.1080/00837792.1977.10670081"
+  }
+]

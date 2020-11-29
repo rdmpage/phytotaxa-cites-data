@@ -1,0 +1,173 @@
+[
+  {
+    "author": [
+      {
+        "family": "Christensen",
+        "given": "C."
+      }
+    ],
+    "title": "Index filicum",
+    "publisher": "H. Hagerup, Copenhagen",
+    "type": "book",
+    "issued": "1906",
+    "page": "744"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      },
+      {
+        "family": "Greville",
+        "given": "R.K."
+      }
+    ],
+    "title": "Icones filicum",
+    "volume": "2",
+    "editor": [
+      {
+        "given": "Treuttel"
+      },
+      {
+        "family": "Würtz",
+        "given": "Treuttel Fil"
+      },
+      {
+        "family": "etc",
+        "given": "Richter"
+      }
+    ],
+    "type": null,
+    "issued": "1830",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth International Botanical Congress",
+    "volume": "154",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "1–274",
+    "publisher-place": "Melbourne, Australia"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "T."
+      }
+    ],
+    "title": "Index filicum",
+    "publisher": "W. Pamplin, London",
+    "type": "book",
+    "issued": "1857",
+    "page": "396"
+  },
+  {
+    "author": [
+      {
+        "family": "Seward",
+        "given": "A.C."
+      },
+      {
+        "family": "Dale",
+        "given": "E."
+      }
+    ],
+    "title": "On the structure and affinities of Dipteris with notes on the geological history of the Dipteridinae",
+    "volume": "194",
+    "type": "article-journal",
+    "container-title": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+    "issued": "1901",
+    "page": "487–513",
+    "URL": "http://dx.doi.org/10.1098/rstb.1901.0011",
+    "DOI": "10.1098/rstb.1901.0011"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J."
+      }
+    ],
+    "title": "Arrangement and definition of the genera of ferns with observations on the affinities of each genus",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Hooker’s Journal of Botany",
+    "issued": "1841",
+    "page": "38–70"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Numerical list of dried specimens of plants etc",
+    "volume": "London",
+    "type": "article-journal",
+    "container-title": "Published by the author",
+    "issued": "1829",
+    "page": "306"
+  }
+]

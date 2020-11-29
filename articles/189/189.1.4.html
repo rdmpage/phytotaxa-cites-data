@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+	<title> One hundred and seventy-five new species of Graphidaceae: closing the gap or a drop in the bucket?  | LÜCKING | Phytotaxa</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMHUldUABAEVVdWAAADUlE=",licenseKey:"4f72ad4ec1",applicationID:"416471445"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(23),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(24),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script>
+	<meta name="description" content=" One hundred and seventy-five new species of Graphidaceae: closing the gap or a drop in the bucket? " />
+			<meta name="keywords" content="Gomphillaceae, Graphis, Ocellularia, Thelotremataceae" />
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Contributor.Sponsor" xml:lang="en" content=""/>
+	<meta name="DC.Creator.PersonalName" content="ROBERT LÜCKING"/>
+	<meta name="DC.Creator.PersonalName" content="MARK K. JOHNSTON"/>
+	<meta name="DC.Creator.PersonalName" content="ANDRÉ APTROOT"/>
+	<meta name="DC.Creator.PersonalName" content="EKAPHAN KRAICHAK"/>
+	<meta name="DC.Creator.PersonalName" content="JAMES C. LENDEMER"/>
+	<meta name="DC.Creator.PersonalName" content="KANSRI BOONPRAGOB"/>
+	<meta name="DC.Creator.PersonalName" content="MARCELA E. S. CÁCERES"/>
+	<meta name="DC.Creator.PersonalName" content="DAMIEN ERTZ"/>
+	<meta name="DC.Creator.PersonalName" content="LIDIA ITATI FERRARO"/>
+	<meta name="DC.Creator.PersonalName" content="ZE-FENG JIA"/>
+	<meta name="DC.Creator.PersonalName" content="KLAUS KALB"/>
+	<meta name="DC.Creator.PersonalName" content="ARMIN MANGOLD"/>
+	<meta name="DC.Creator.PersonalName" content="LEKA MANOCH"/>
+	<meta name="DC.Creator.PersonalName" content="JOEL A. MERCADO-DÍAZ"/>
+	<meta name="DC.Creator.PersonalName" content="BIBIANA MONCADA"/>
+	<meta name="DC.Creator.PersonalName" content="PACHARA MONGKOLSUK"/>
+	<meta name="DC.Creator.PersonalName" content="KHWANRUAN BUTSATORN PAPONG"/>
+	<meta name="DC.Creator.PersonalName" content="SITTIPORN PARNMEN"/>
+	<meta name="DC.Creator.PersonalName" content="ROUCHI N. PELÁEZ"/>
+	<meta name="DC.Creator.PersonalName" content="VASUN POENGSUNGNOEN"/>
+	<meta name="DC.Creator.PersonalName" content="EIMY RIVAS PLATA"/>
+	<meta name="DC.Creator.PersonalName" content="WANARUK SAIPUNKAEW"/>
+	<meta name="DC.Creator.PersonalName" content="HARRIE J. M. SIPMAN"/>
+	<meta name="DC.Creator.PersonalName" content="JUTARAT SUTJARITTURAKAN"/>
+	<meta name="DC.Creator.PersonalName" content="DRIES VAN DEN BROECK"/>
+	<meta name="DC.Creator.PersonalName" content="MATT VON KONRAT"/>
+	<meta name="DC.Creator.PersonalName" content="GOTHAMIE WEERAKOON"/>
+	<meta name="DC.Creator.PersonalName" content="H. THORSTEN LUMBSCH"/>
+	<meta name="DC.Date.created" scheme="ISO8601" content="2014-12-19"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2014-12-19"/>
+	<meta name="DC.Date.issued" scheme="ISO8601" content="2014-12-19"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2014-12-19"/>
+	<meta name="DC.Description" xml:lang="en" content=" Recent studies of the global diversity of the lichenized fungal family Graphidaceae suggest that there are a large number of species remaining to be discovered. No less than 640 species have been described since 2002, including 175 new species introduced in a collaborative global effort in a single issue in this journal. These findings suggest that the largest family of tropical crustose lichens may have an even higher number of species than Parmeliaceae. To estimate whether the discovery of 175 new species is a significant step forward in cataloguing extant diversity in this family, we employed a parametric method to predict global species richness of Graphidaceae using a GIS-based grid map approach. The model employs linear regression between observed species richness and sample score and vegetation composition per grid to predict individual grid species richness, and interpolation of species grid distributions to predict global species richness. We also applied a non-parametric species-area curve approach and non-parametric species richness estimators (Chao, Jackknife, Bootstrap) to compare the results from the different methods. Our approach resulted in a prediction of 4,330 species of Graphidaceae, including approximately 3,500 (sub-)tropical species in the core subfamilies Fissurinoideae, Graphidoideae, Redonographoideae, plus 125 species restricted to extratropical regions (outside the zone between 30° northern and 30° southern latitude) and 700 species in subfamily Gomphilloideae. Currently, nearly 2,500 species are known in the family, including species not yet formally described. Thus, our model suggests that even after describing 175 species in this issue and with another approximately 140 awaiting publication, the number of species still to be discovered and described is more than 1,800, and much work remains to be done to close this substantial gap. Based on our approach, we predict that most of this undiscovered diversity is to be found in Mexico, the northern Andean region, the eastern Amazon and central and southern Brazil, tropical West Africa, continental Southeast Asia, Indonesia, and Papua New Guinea. "/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Identifier" content="phytotaxa.189.1.4"/>
+	<meta name="DC.Identifier.pageNumber" content="7–38"/>
+							<meta name="DC.Identifier.DOI" content="10.11646/phytotaxa.189.1.4"/>
+		<meta name="DC.Identifier.URI" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.189.1.4"/>
+	<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+	<meta name="DC.Rights" content="Copyright (c) 2016 Phytotaxa" />
+	<meta name="DC.Rights" content=""/>
+	<meta name="DC.Source" content="Phytotaxa"/>
+	<meta name="DC.Source.ISSN" content="1179-3163"/>
+	<meta name="DC.Source.Issue" content="1"/>	<meta name="DC.Source.URI" content="https://www.biotaxa.org/Phytotaxa"/>
+	<meta name="DC.Source.Volume" content="189"/>						<meta name="DC.Subject" xml:lang="en" content="Gomphillaceae, Graphis, Ocellularia, Thelotremataceae"/>
+				<meta name="DC.Title" content=" One hundred and seventy-five new species of Graphidaceae: closing the gap or a drop in the bucket? "/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Article"/>
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="Phytotaxa"/>
+	<meta name="citation_issn" content="1179-3163"/>
+        <meta name="citation_author" content="ROBERT LÜCKING"/>
+        <meta name="citation_author_institution" content="Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A."/>
+        <meta name="citation_author" content="MARK K. JOHNSTON"/>
+        <meta name="citation_author_institution" content="Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A."/>
+        <meta name="citation_author" content="ANDRÉ APTROOT"/>
+        <meta name="citation_author_institution" content="ABL Herbarium, G.v.d.Veenstraat 107, NL-3762 XK Soest, The Netherlands"/>
+        <meta name="citation_author" content="EKAPHAN KRAICHAK"/>
+        <meta name="citation_author_institution" content="Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A."/>
+        <meta name="citation_author" content="JAMES C. LENDEMER"/>
+        <meta name="citation_author_institution" content="Institute of Systematic Botany, The New York Botanical Garden, Bronx, NY 10458-5126, U.S.A."/>
+        <meta name="citation_author" content="KANSRI BOONPRAGOB"/>
+        <meta name="citation_author_institution" content="Lichen Research Unit, Department of Biology, Faculty of Science, Ramkhamhaeng University, Ramkhamhaeng 24 road, Bangkok, 10240 Thailand"/>
+        <meta name="citation_author" content="MARCELA E. S. CÁCERES"/>
+        <meta name="citation_author_institution" content="Departamento de Biociências, Universidade Federal de Sergipe, CEP: 49500-000, Itabaiana, Sergipe, Brazil"/>
+        <meta name="citation_author" content="DAMIEN ERTZ"/>
+        <meta name="citation_author_institution" content="Department of Bryophytes-Thallophytes, Botanic Garden Meise, Nieuwelaan 38, 1860 Meise, Belgium"/>
+        <meta name="citation_author" content="LIDIA ITATI FERRARO"/>
+        <meta name="citation_author_institution" content="Instituto de Botanica del Nordeste, Casilla de Correo 209, 3400 Corrientes, Argentina"/>
+        <meta name="citation_author" content="ZE-FENG JIA"/>
+        <meta name="citation_author_institution" content="College of Life Sciences, Liaocheng University, Liaocheng 252059, China"/>
+        <meta name="citation_author" content="KLAUS KALB"/>
+        <meta name="citation_author_institution" content="Lichenologisches Institut Neumarkt, Im Tal 12, D-92318 Neumarkt, Germany
+University of Regensburg, Institute of Botany, Universitätsstraβe 31, D-93040 Regensburg, Germany"/>
+        <meta name="citation_author" content="ARMIN MANGOLD"/>
+        <meta name="citation_author_institution" content="Ossastrasse 6, D-12045 Berlin, Germany"/>
+        <meta name="citation_author" content="LEKA MANOCH"/>
+        <meta name="citation_author_institution" content="Department of Plant Pathology, Faculty of Agriculture, Kasetsart University, Bangkhen, Bangkok, 10900 Thailand"/>
+        <meta name="citation_author" content="JOEL A. MERCADO-DÍAZ"/>
+        <meta name="citation_author_institution" content="International Institute of Tropical Forestry, USDA Forest Service, Ceiba St. 1201, Jardín Botánico Sur, Río Piedras"/>
+        <meta name="citation_author" content="BIBIANA MONCADA"/>
+        <meta name="citation_author_institution" content="Licenciatura en Biología, Universidad Distrital Francisco José de Caldas, Cra. 4 No. 26B-54, Torre de Laboratorios, Herbario, Bogotá, Colombia"/>
+        <meta name="citation_author" content="PACHARA MONGKOLSUK"/>
+        <meta name="citation_author_institution" content="Department of Bryophytes-Thallophytes, Botanic Garden Meise, Nieuwelaan 38, 1860 Meise, Belgium"/>
+        <meta name="citation_author" content="KHWANRUAN BUTSATORN PAPONG"/>
+        <meta name="citation_author_institution" content="Department of Biology, Faculty of Science, Mahsarakham University, Kantarawichai, Maha Sarakham Province 44150, Thailand"/>
+        <meta name="citation_author" content="SITTIPORN PARNMEN"/>
+        <meta name="citation_author_institution" content="Toxicology and Biochemistry Section, Department of Medical Sciences, Ministry of Public Health, Nonthaburi 11000 Thailand"/>
+        <meta name="citation_author" content="ROUCHI N. PELÁEZ"/>
+        <meta name="citation_author_institution" content="Licenciatura en Biología, Universidad Distrital Francisco José de Caldas, Cra. 4 No. 26B-54, Torre de Laboratorios, Herbario, Bogotá, Colombia"/>
+        <meta name="citation_author" content="VASUN POENGSUNGNOEN"/>
+        <meta name="citation_author_institution" content="Tropical Agriculture, Faculty of Agriculture, Kasetsart University, Bangkhen, Bangkok, 10900 Thailand"/>
+        <meta name="citation_author" content="EIMY RIVAS PLATA"/>
+        <meta name="citation_author_institution" content="Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A."/>
+        <meta name="citation_author" content="WANARUK SAIPUNKAEW"/>
+        <meta name="citation_author_institution" content="Department of Biology, Faculty of Science, Chiang Mai University, 239 Huay Kaew Rd., Suthep, Mueang, Chiang Mai, 50200 Thailand"/>
+        <meta name="citation_author" content="HARRIE J. M. SIPMAN"/>
+        <meta name="citation_author_institution" content="Botanischer Garten and Botanisches Museum Berlin Dahlem, Königin-Luise-Strasse 6–8, D-14195 Berlin, Germany"/>
+        <meta name="citation_author" content="JUTARAT SUTJARITTURAKAN"/>
+        <meta name="citation_author_institution" content="University of Regensburg, Institute of Botany, Universitätsstraβe 31, D-93040 Regensburg, Germany"/>
+        <meta name="citation_author" content="DRIES VAN DEN BROECK"/>
+        <meta name="citation_author_institution" content="Department of Bryophytes-Thallophytes, Botanic Garden Meise, Nieuwelaan 38, 1860 Meise, Belgium"/>
+        <meta name="citation_author" content="MATT VON KONRAT"/>
+        <meta name="citation_author_institution" content="Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A."/>
+        <meta name="citation_author" content="GOTHAMIE WEERAKOON"/>
+        <meta name="citation_author_institution" content="Department of Botany, University of Sri Jayawardenepura, Sri Lanka"/>
+        <meta name="citation_author" content="H. THORSTEN LUMBSCH"/>
+        <meta name="citation_author_institution" content="Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A."/>
+<meta name="citation_title" content=" One hundred and seventy-five new species of Graphidaceae: closing the gap or a drop in the bucket? "/>
+
+	<meta name="citation_date" content="2014/12/19"/>
+
+	<meta name="citation_volume" content="189"/>
+	<meta name="citation_issue" content="1"/>
+
+			<meta name="citation_firstpage" content="7"/>
+				<meta name="citation_lastpage" content="38"/>
+								<meta name="citation_doi" content="10.11646/phytotaxa.189.1.4"/>
+		<meta name="citation_abstract_html_url" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.189.1.4"/>
+	<meta name="citation_language" content="en"/>
+						<meta name="citation_keywords" xml:lang="en" content="Gomphillaceae, Graphis, Ocellularia, Thelotremataceae"/>
+									<meta name="citation_pdf_url" content="https://www.biotaxa.org/Phytotaxa/article/download/phytotaxa.189.1.4/18040"/>
+				
+
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/compiled.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/articleView.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/rtEmbedded.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://www.biotaxa.org/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://www.biotaxa.org/public/site/sitestyle.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+	</script>
+	
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	
+	<script type="text/javascript" src="https://www.biotaxa.org/js/relatedItems.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/inlinePdf.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/pdfobject.js"></script>
+
+</head>
+<body id="pkp-common-openJournalSystems">
+
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	<img src="https://www.biotaxa.org/public/journals/2/pageHeaderTitleImage_en_US.jpg" width="1101" height="98" alt="Page Header" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://www.biotaxa.org/Phytotaxa/help')">Journal Help</a>
+</div><div class="block" id="sidebarSubscription">
+	<span class="blockTitle">Subscription</span>
+							Login to verify subscription
+			</div><div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+												<form method="post" action="https://www.biotaxa.org/Phytotaxa/login/signIn">
+					<table>
+						<tr>
+							<td><label for="sidebar-username">Username</label></td>
+							<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+						</tr>
+						<tr>
+							<td><label for="sidebar-password">Password</label></td>
+							<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+						</tr>
+					</table>
+				</form>
+						</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://www.biotaxa.org/Phytotaxa/notification">View</a></li>
+			<li><a href="https://www.biotaxa.org/Phytotaxa/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://www.biotaxa.org/Phytotaxa/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">By Issue</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/authors">By Author</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/titles">By Title</a></li>
+		
+					<li><a href="https://www.biotaxa.org/index">Other Journals</a></li>
+						</ul>
+	</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Algae"><span style="font-size: 92%;">Algae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Andes"><span style="font-size: 78%;">Andes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Asteraceae"><span style="font-size: 79%;">Asteraceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Atlantic%20Forest"><span style="font-size: 78%;">Atlantic Forest</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Basidiomycota"><span style="font-size: 78%;">Basidiomycota</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Brazil"><span style="font-size: 85%;">Brazil</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Bryophytes"><span style="font-size: 81%;">Bryophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Cerrado"><span style="font-size: 77%;">Cerrado</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=China"><span style="font-size: 89%;">China</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Compositae"><span style="font-size: 82%;">Compositae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Eudicots"><span style="font-size: 175%;">Eudicots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fabaceae"><span style="font-size: 78%;">Fabaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fungi"><span style="font-size: 105%;">Fungi</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=General"><span style="font-size: 78%;">General</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=ITS"><span style="font-size: 80%;">ITS</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=IUCN"><span style="font-size: 78%;">IUCN</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=India"><span style="font-size: 82%;">India</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Iran"><span style="font-size: 77%;">Iran</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Magnoliids"><span style="font-size: 80%;">Magnoliids</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Mexico"><span style="font-size: 78%;">Mexico</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Monocots"><span style="font-size: 118%;">Monocots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Morphology"><span style="font-size: 77%;">Morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Neotropics"><span style="font-size: 81%;">Neotropics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Nomenclature"><span style="font-size: 79%;">Nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Orchidaceae"><span style="font-size: 79%;">Orchidaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Phylogeny"><span style="font-size: 79%;">Phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Pteridophytes"><span style="font-size: 83%;">Pteridophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=SEM"><span style="font-size: 78%;">SEM</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=South%20America"><span style="font-size: 80%;">South America</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Taxonomy"><span style="font-size: 92%;">Taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Turkey"><span style="font-size: 79%;">Turkey</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Vietnam"><span style="font-size: 78%;">Vietnam</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=biodiversity"><span style="font-size: 79%;">biodiversity</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=conservation"><span style="font-size: 79%;">conservation</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=diatoms"><span style="font-size: 78%;">diatoms</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=distribution"><span style="font-size: 78%;">distribution</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemic"><span style="font-size: 81%;">endemic</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemism"><span style="font-size: 83%;">endemism</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=flora"><span style="font-size: 78%;">flora</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotype"><span style="font-size: 81%;">lectotype</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotypification"><span style="font-size: 80%;">lectotypification</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=molecular%20phylogeny"><span style="font-size: 80%;">molecular phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=morphology"><span style="font-size: 92%;">morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20combination"><span style="font-size: 78%;">new combination</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20species"><span style="font-size: 101%;">new species</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20taxon"><span style="font-size: 78%;">new taxon</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=nomenclature"><span style="font-size: 91%;">nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=phylogeny"><span style="font-size: 91%;">phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=systematics"><span style="font-size: 79%;">systematics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=taxonomy"><span style="font-size: 162%;">taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=typification"><span style="font-size: 83%;">typification</span></a>
+	</div>
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/information/readers">For Readers</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/authors">For Authors</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/librarians">For Librarians</a></li>	</ul>
+</div>
+
+
+<div class="block" id="sidebarRTArticleTools">
+
+	<span class="blockTitle">Article Tools</span>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/printArticle.png" class="articleToolIcon" alt="" /> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/printerFriendly/phytotaxa.189.1.4/0');">Print this article</a>
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/metadata.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/metadata/phytotaxa.189.1.4/0');">Indexing metadata</a><br />
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/citeArticle.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/captureCite/phytotaxa.189.1.4/0');">How to cite item</a><br />
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/findingReferences.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/findingReferences/9277/0');">Finding References</a>
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email this article <span style="font-size: 0.8em">(Login required)</span>		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email the author <span style="font-size: 0.8em">(Login required)</span>		</div>
+		</div>
+
+
+<script type="text/javascript">
+	initRelatedItems();
+</script>
+
+
+<div class="block" id="sidebarRTRelatedItems">
+	<span class="blockTitle">Related Items</span>
+		<table width="100%">
+			<tr>
+				<td valign="top" style="width:26px;">
+					<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/lookupTerms.png" class="articleToolIcon" alt=""/>
+				</td>
+				<td valign="top">
+					<div id="relatedItems">
+						<ul class="plain">
+																					<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/445');">Author&#039;s work</a></li>
+																																									<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/447');">Related studies</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/448');">Book searches</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/449');">Pay-per-view</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/450');">Relevant portals</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/451');">Online forums</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/452');">Teaching files</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/453');">Government policy</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/454');">Media reports</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/455');">Web search</a></li>
+																			</ul>
+					</div>
+					<div id="toggleRelatedItems">
+						<a id="hideRelatedItems" style="display:none;" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_out.png" alt=""/> 
+							Hide
+						</a>
+						<a id="showRelatedItems" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_in.png" alt=""/>
+							Show all
+						</a>
+					</div>
+				</td>
+			</tr>
+		</table>
+</div>
+
+
+<div class="block" id="sidebarRTAuthorBios">
+	<span class="blockTitle">
+					About The Authors
+			</span>
+		<div class="authorBio">
+	<p>
+		<em>ROBERT LÜCKING</em>
+								<br />Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A.		<br />United States	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>MARK K. JOHNSTON</em>
+								<br />Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A.		<br />United States	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ANDRÉ APTROOT</em>
+								<br />ABL Herbarium, G.v.d.Veenstraat 107, NL-3762 XK Soest, The Netherlands		<br />Netherlands	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>EKAPHAN KRAICHAK</em>
+								<br />Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A.		<br />United States	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>JAMES C. LENDEMER</em>
+								<br />Institute of Systematic Botany, The New York Botanical Garden, Bronx, NY 10458-5126, U.S.A.		<br />United States	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>KANSRI BOONPRAGOB</em>
+								<br />Lichen Research Unit, Department of Biology, Faculty of Science, Ramkhamhaeng University, Ramkhamhaeng 24 road, Bangkok, 10240 Thailand		<br />Thailand	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>MARCELA E. S. CÁCERES</em>
+								<br />Departamento de Biociências, Universidade Federal de Sergipe, CEP: 49500-000, Itabaiana, Sergipe, Brazil		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>DAMIEN ERTZ</em>
+								<br />Department of Bryophytes-Thallophytes, Botanic Garden Meise, Nieuwelaan 38, 1860 Meise, Belgium		<br />Belgium	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>LIDIA ITATI FERRARO</em>
+								<br />Instituto de Botanica del Nordeste, Casilla de Correo 209, 3400 Corrientes, Argentina		<br />Argentina	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ZE-FENG JIA</em>
+								<br />College of Life Sciences, Liaocheng University, Liaocheng 252059, China		<br />China	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>KLAUS KALB</em>
+								<br />Lichenologisches Institut Neumarkt, Im Tal 12, D-92318 Neumarkt, Germany
+University of Regensburg, Institute of Botany, Universitätsstraβe 31, D-93040 Regensburg, Germany		<br />Germany	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ARMIN MANGOLD</em>
+								<br />Ossastrasse 6, D-12045 Berlin, Germany		<br />Germany	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>LEKA MANOCH</em>
+								<br />Department of Plant Pathology, Faculty of Agriculture, Kasetsart University, Bangkhen, Bangkok, 10900 Thailand		<br />Thailand	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>JOEL A. MERCADO-DÍAZ</em>
+								<br />International Institute of Tropical Forestry, USDA Forest Service, Ceiba St. 1201, Jardín Botánico Sur, Río Piedras		<br />Romania	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>BIBIANA MONCADA</em>
+								<br />Licenciatura en Biología, Universidad Distrital Francisco José de Caldas, Cra. 4 No. 26B-54, Torre de Laboratorios, Herbario, Bogotá, Colombia		<br />Colombia	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>PACHARA MONGKOLSUK</em>
+								<br />Department of Bryophytes-Thallophytes, Botanic Garden Meise, Nieuwelaan 38, 1860 Meise, Belgium		<br />Belgium	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>KHWANRUAN BUTSATORN PAPONG</em>
+								<br />Department of Biology, Faculty of Science, Mahsarakham University, Kantarawichai, Maha Sarakham Province 44150, Thailand		<br />Thailand	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>SITTIPORN PARNMEN</em>
+								<br />Toxicology and Biochemistry Section, Department of Medical Sciences, Ministry of Public Health, Nonthaburi 11000 Thailand		<br />Thailand	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ROUCHI N. PELÁEZ</em>
+								<br />Licenciatura en Biología, Universidad Distrital Francisco José de Caldas, Cra. 4 No. 26B-54, Torre de Laboratorios, Herbario, Bogotá, Colombia		<br />Colombia	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>VASUN POENGSUNGNOEN</em>
+								<br />Tropical Agriculture, Faculty of Agriculture, Kasetsart University, Bangkhen, Bangkok, 10900 Thailand		<br />Thailand	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>EIMY RIVAS PLATA</em>
+								<br />Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A.		<br />United States	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>WANARUK SAIPUNKAEW</em>
+								<br />Department of Biology, Faculty of Science, Chiang Mai University, 239 Huay Kaew Rd., Suthep, Mueang, Chiang Mai, 50200 Thailand		<br />Thailand	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>HARRIE J. M. SIPMAN</em>
+								<br />Botanischer Garten and Botanisches Museum Berlin Dahlem, Königin-Luise-Strasse 6–8, D-14195 Berlin, Germany		<br />Germany	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>JUTARAT SUTJARITTURAKAN</em>
+								<br />University of Regensburg, Institute of Botany, Universitätsstraβe 31, D-93040 Regensburg, Germany		<br />Germany	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>DRIES VAN DEN BROECK</em>
+								<br />Department of Bryophytes-Thallophytes, Botanic Garden Meise, Nieuwelaan 38, 1860 Meise, Belgium		<br />Belgium	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>MATT VON KONRAT</em>
+								<br />Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A.		<br />United States	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>GOTHAMIE WEERAKOON</em>
+								<br />Department of Botany, University of Sri Jayawardenepura, Sri Lanka		<br />Sri Lanka	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>H. THORSTEN LUMBSCH</em>
+								<br />Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496, U.S.A.		<br />United States	</p>
+
+	<p></p>
+	</div>
+	
+	</div>
+			</div>
+			</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="https://www.biotaxa.org/Phytotaxa/index">Home</a></li>
+		<li id="about"><a href="https://www.biotaxa.org/Phytotaxa/about">About</a></li>
+
+					<li id="login"><a href="https://www.biotaxa.org/Phytotaxa/login">Login</a></li>
+							<li id="register"><a href="https://www.biotaxa.org/Phytotaxa/user/register">Register</a></li>
+												<li id="search"><a href="https://www.biotaxa.org/Phytotaxa/search">Search</a></li>
+		
+					<li id="current"><a href="https://www.biotaxa.org/Phytotaxa/issue/current">Current</a></li>
+			<li id="archives"><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">Archives</a></li>
+		
+					<li id="announcements"><a href="https://www.biotaxa.org/Phytotaxa/announcement">Announcements</a></li>
+				
+
+									<li class="navItem" id="navItem-0"><a href="http://www.mapress.com/phytotaxa/">Publisher</a></li>
+												<li class="navItem" id="navItem-1"><a href="http://www.biotaxa.org">Biotaxa</a></li>
+						</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://www.biotaxa.org/Phytotaxa/index" target="_parent">Home</a> &gt;
+	<a href="https://www.biotaxa.org/Phytotaxa/issue/view/phytotaxa.189.1" target="_parent">Vol 189, No 1</a> &gt;	<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.189.1.4/0" class="current" target="_parent">LÜCKING</a>
+</div>
+
+<div id="content">
+
+
+	<div id="topBar">
+							<div id="accessKey">
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_open_medium.gif" alt="Open Access" />
+				Open Access&nbsp;
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+									Subscription Access
+							</div>
+			</div>
+		
+	<div id="articleTitle"><h3><strong>One hundred and seventy-five new species of Graphidaceae: closing the gap or a drop in the bucket?</strong></h3></div>
+	<div id="authorString"><em>ROBERT LÜCKING, MARK K. JOHNSTON, ANDRÉ APTROOT, EKAPHAN KRAICHAK, JAMES C. LENDEMER, KANSRI BOONPRAGOB, MARCELA E. S. CÁCERES, DAMIEN ERTZ, LIDIA ITATI FERRARO, ZE-FENG JIA, KLAUS KALB, ARMIN MANGOLD, LEKA MANOCH, JOEL A. MERCADO-DÍAZ, BIBIANA MONCADA, PACHARA MONGKOLSUK, KHWANRUAN BUTSATORN PAPONG, SITTIPORN PARNMEN, ROUCHI N. PELÁEZ, VASUN POENGSUNGNOEN, EIMY RIVAS PLATA, WANARUK SAIPUNKAEW, HARRIE J. M. SIPMAN, JUTARAT SUTJARITTURAKAN, DRIES VAN DEN BROECK, MATT VON KONRAT, GOTHAMIE WEERAKOON, H. THORSTEN LUMBSCH</em></div>
+	<br />
+			<div id="articleAbstract">
+		<h4>Abstract</h4>
+		<br />
+		<div><p>Recent studies of the global diversity of the lichenized fungal family Graphidaceae suggest that there are a large number of species remaining to be discovered. No less than 640 species have been described since 2002, including 175 new species introduced in a collaborative global effort in a single issue in this journal. These findings suggest that the largest family of tropical crustose lichens may have an even higher number of species than Parmeliaceae. To estimate whether the discovery of 175 new species is a significant step forward in cataloguing extant diversity in this family, we employed a parametric method to predict global species richness of Graphidaceae using a GIS-based grid map approach. The model employs linear regression between observed species richness and sample score and vegetation composition per grid to predict individual grid species richness, and interpolation of species grid distributions to predict global species richness. We also applied a non-parametric species-area curve approach and non-parametric species richness estimators (Chao, Jackknife, Bootstrap) to compare the results from the different methods. Our approach resulted in a prediction of 4,330 species of Graphidaceae, including approximately 3,500 (sub-)tropical species in the core subfamilies Fissurinoideae, Graphidoideae, Redonographoideae, plus 125 species restricted to extratropical regions (outside the zone between 30° northern and 30° southern latitude) and 700 species in subfamily Gomphilloideae. Currently, nearly 2,500 species are known in the family, including species not yet formally described. Thus, our model suggests that even after describing 175 species in this issue and with another approximately 140 awaiting publication, the number of species still to be discovered and described is more than 1,800, and much work remains to be done to close this substantial gap. Based on our approach, we predict that most of this undiscovered diversity is to be found in Mexico, the northern Andean region, the eastern Amazon and central and southern Brazil, tropical West Africa, continental Southeast Asia, Indonesia, and Papua New Guinea.</p></div>
+		<br />
+		</div>
+	
+			<div id="articleSubject">
+		<h4>Keywords</h4>
+		<br />
+		<div>Gomphillaceae, Graphis, Ocellularia, Thelotremataceae</div>
+		<br />
+		</div>
+	
+				
+			<div id="articleFullText">
+		<h4>Full Text:</h4>
+									<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.189.1.4/18040" class="file" target="_parent">PDF/A (2.82 MB)</a>
+																			<img class="accessLogo" src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+											</div>
+	
+			<div id="articleCitations">
+		<h4>References</h4>
+		<br />
+		<div>
+							<p><p>Acharius, E. (1803) <em>Methodus qua omnes detectos lichenes secundum organa carpomorpha ad genera, species et varietates redigere atque observationibus illustrare tentavit</em>. F. D. D. Ulrich, Stockholm.</p><p> http://dx.doi.org/10.5962/bhl.title.79411</p><p>Acharius, E. (1809) Förteckning pa de i Sverige växande arter af Lafvarnes famille. <em>Kongliga Vetenskaps Academiens Nya Handlingar</em> 30: 145–169.</p><p>Acharius, E. (1814) <em>Synopsis methodica lichenum, sistens omnes hujus ordinis naturalis detectas plantas, quas, secundum genera, species et varietates disposuit, characteribus et differentiis emendatis definivit, nec non synonymis et observationibus selectis illustravit auctor</em>. Lund. 392 pp.</p><p>Adanson, M. (1763) <em>Familles des Plantes</em>. Vol. II. Paris.</p><p> http://dx.doi.org/10.5962/bhl.title.271</p><p>Adawadkar, B. &amp; Makhija, U. (2004) A new isidiate species of <em>Graphis</em> from India. <em>Lichenologist</em> 36: 361–363.</p><p> http://dx.doi.org/10.1017/s0024282904014409</p><p>Adawadkar, B. &amp; Makhija, U. (2005) Some trans-septate species of the genera <em>Hemithecium</em> and <em>Platythecium</em> from India. Mycotaxon 92: 387–394.</p><p>Adawadkar, B. &amp; Makhija, U. (2006) New species and new records of <em>Graphis</em> from India: transseptate species with completely carbonized exciples and norstictic acid. <em>Mycotaxon</em> 96: 51–60.</p><p>Adawadkar, B. &amp; Makhija, U. (2007) New species and new records of <em>Graphis</em> from India with partially carbonized exciples and transseptate ascospores. <em>Mycotaxon</em> 99: 303–326.</p><p>Aptroot, A. (2014) New fertile isidiate Graphidaceae from the Solomon Islands. <em>Phytotaxa</em> 189(1): 82–86.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.7</p><p>Aptroot, A. &amp; Sipman, H.J.M. (2007) A new <em>Schistophoron</em> (Graphidaceae) from Costa Rica. <em>Bibliotheca Lichenologica</em> 96: 21–24.</p><p>Aptroot, A., Diederich, P., Sérusiaux, E. &amp; Sipman, H.J.M. (1997) Lichens and lichenicolous fungi from New Guinea. <em>Bibliotheca Lichenologica</em> 64: 1–220.</p><p>Aptroot, A., Saipunkaew, W., Sipman, H.J.M., Sparrius, L.B. &amp; Wolseley, P. (2007) New lichens from Thailand, mainly microlichens from Chiang Mai. <em>Fungal Diversity</em> 24: 75–134.</p><p>Aragón, G., Belinchón, R., Martínez, I. &amp; Prieto, M. (2013) Estimating epiphytic lichen richness by single families in Mediterranean forests. <em>Forest Ecology and Management</em> 310: 187–193.</p><p> http://dx.doi.org/10.1016/j.foreco.2013.08.012</p><p>Archer, A.W. (2004) Additions to the lichen flora of Fiji and Vanuatu based on Graphidaceae in the F.R.M. Wilson collection at the National Herbarium of New South Wales. <em>Telopea</em> 10: 771–776.</p><p>Archer, A.W. (2006) The lichen family Graphidaceae in Australia. <em>Bibliotheca Lichenologica</em> 94: 1–191.</p><p>Archer, A.W. (2007) Key and checklist for the lichen family Graphidaceae (lichenised Ascomycota) in the Solomon Islands. <em>Systematics and Biodiversity</em> 5: 9–22.</p><p> http://dx.doi.org/10.1017/s1477200006002040</p><p>Archer, A.W. (2009) Graphidaceae. <em>Flora of Australia </em>57(Lichens 5): 84–194.</p><p>Archer, A.W. &amp; Elix, J.A. (2009) A new species, new combination, and new report in the Australian Graphidaceae. <em>Australasian Lichenology</em> 65: 24–29.</p><p>Archer, A.W. &amp; Elix, J.A. (2013) <em>Anomalographis tulliensis</em>, a new species in the Australian Graphidaceae. <em>Australasian Lichenology</em> 73: 10–11.</p><p>Bailey, R.G. (1989) Explanatory supplement to Ecoregions Map of the Continents. <em>Environmental Conservation</em> 16: 307–309.</p><p> http://dx.doi.org/10.1017/s0376892900009711</p><p>Bailey, R.G. &amp; Hogg, H.C. (1986) A world ecoregions map for resource reporting. <em>Environmental Conservation</em> 13: 195–202.</p><p> http://dx.doi.org/10.1017/s0376892900036237</p><p>Bárcenas-Peña, A., Lücking, R., Miranda-González, R. &amp; Herrera-Campos, M.A. (2014) Three new species of <em>Graphis </em>(Ascomycota: Ostropales: <em>Graphidaceae</em>) from Mexico, with updates to taxonomic key entries for 41 species described between 2009 and 2013. <em>The Lichenologist</em> 46: 69–82.</p><p> http://dx.doi.org/10.1017/s0024282913000637</p><p>Berger, S.A., Stamatakis, A. &amp; Lücking, R. (2011) Morphology-based phylogenetic binning of the lichen genera <em>Graphis</em> and <em>Allographa</em> (Ascomycota: Graphidaceae) using molecular site weight calibration. <em>Taxon</em> 60: 1450–1457.</p><p>Boonpragob, K., Homchantara, N., Coppins, B.J., McCarthy, P.M. &amp; Wolseley, P.A. (1998) An introduction to the lichen flora of Khao Yai National Park, Thailand. <em>Botanical Journal of Scotland</em> 50: 209–219.</p><p> http://dx.doi.org/10.1080/03746609808684918</p><p>Breuss, O. (2000) Flechten aus Costa Rica. I. Regenwald der Österreicher (Bosque Esquinas). <em>Linzer Biologische Beitrage</em> 32: 1043–1051.</p><p>Breuss, O. (2001) Flechten aus Costa Rica II. <em>Linzer Biologische Beitrage</em> 33: 1025–1034.</p><p>Breuss, O. (2002) Flechten aus Nicaragua. <em>Linzer Biologische Beitrage</em> 34: 1053–1069.</p><p>Breuss, O. (2004) Flechten aus Costa Rica III. <em>Linzer Biologische Beitrage</em> 36: 77–80.</p><p>Breuss, O. (2006) Flechten aus Costa Rica IV. Bosque Esquinas (2). <em>Linzer Biologische Beiträge</em> 38: 1061–1069.</p><p>Breuss, O. (2008) The lichens of the Golfo Dulce region. Líquenes de la región de Golfo Dulce. <em>Stapfia</em> 88: 193–208.</p><p>Breuss, O. (2011) Weitere Flechtenfunde aus Nicaragua. <em>Stapfia</em> 95: 106–109.</p><p>Breuss, O. &amp; Neuwirth, G. (2007) Flechtenfunde im Bosque Esquinas, Costa Rica. <em>Linzer Biologische Beiträge</em> 39: 557–569.</p><p>Brose, U., Martinez, N.D. &amp; Williams, R.J. (2003) Estimating species richness: sensitivity to sample coverage and insensitivity to spatial patterns. <em>Ecology</em> 84: 2364–2377.</p><p> http://dx.doi.org/10.1890/02-0558</p><p>Burnham, K.P. &amp; Overton, W.S. (1978) Estimation of the size of a closed population when capture probabilities vary among animals. <em>Biometrika</em> 65: 625–633.</p><p> http://dx.doi.org/10.1093/biomet/65.3.625</p><p>Burnham, K.P. &amp; Overton, W.S. (1979) Robust estimation of population size when capture probabilities vary among animals. <em>Ecology</em> 60: 927–936.</p><p> http://dx.doi.org/10.2307/1936861</p><p>Cáceres, M.E.S. (2007) Corticolous crustose and microfoliose lichens of northeastern Brazil. <em>Libri Botanici</em> 22: 1–168.</p><p>Cáceres, M.E.S., Lücking, R. &amp; Rambold, G. (2008) Corticolous microlichens in northeastern Brazil: habitat differentiation between coastal Mata Atlântica, Caatinga and Brejos de Altitude. <em>The Bryologist</em> 111: 98–117.</p><p> http://dx.doi.org/10.1639/0007-2745(2008)111[98:cminbh]2.0.co;2</p><p>Cáceres, M.E.S., Santos Viera, T., Santos De Jesus, L. &amp; Lücking, R. (2012a). New and interesting lichens from the Caxiuanã National Forest in the Brazilian Amazon. <em>The Lichenologist</em> 44: 807–812.</p><p> http://dx.doi.org/10.1017/s0024282912000412</p><p>Cáceres, M.E.S., Rivas Plata, E. &amp; Lücking, R. (2012b) <em>Malmographina</em>, a new genus for <em>Graphina malmei</em> (Ascomycota: Ostropales: Graphidaceae). <em>Lichenologist</em> 44: 115–120.</p><p> http://dx.doi.org/10.1017/s0024282911000697</p><p>Cáceres, M.E.S., Santos Viera, T., Santos De Jesus, L. &amp; Lücking, R. (2013). Liquens corticícolas crostosos (Ascomycota liquenizados) da Floresta Nacional de Caxiuanã. In Lisboa, P. L. B., Bezerra, M. G. F. &amp; Cardoso, A. L. R. (Eds). <em>Caxiuanã: História Natural e Ecologia de uma Floresta Nacional da Amazônia.</em><em> Museo Goeldi, Belém, Pará, Brazil.</em></p><p>Cáceres, M.E.S., Aptroot, A., Parnmen, S. &amp; Lücking, R. (2014)Remarkable diversity of the lichen family Graphidaceae in the Amazon rain forest of Rondônia, Brazil. <em>Phytotaxa</em> 189(1): 87–136.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.8</p><p>Chao, A. (1984) Non-parametric estimation of the number of classes in a population. <em>Scandinavian Journal of Statistics</em> 11: 265–270.</p><p>Chao, A. (1987) Estimating the population size for capture-recapture data with unequal catchability. <em>Biometrics</em> 43: 783–791.</p><p> http://dx.doi.org/10.2307/2531532</p><p>Chazdon, R., Colwell, R., Denslow, J. &amp; Guariguata, M. (1998) Statistical methods for estimating species richness of woody regeneration in primary and secondary rain forests of NE Costa Rica. pp. 285–309. In Dallmeier, F. &amp; Comiskey, J. (Eds.) <em>Forest Biodiversity Research, Monitoring and Modeling: Conceptual Background and Old World Case Studies</em>. Parthenon Publishing, Paris.</p><p>Chitale, G., Makhija, U. &amp; Sharma, B.O. (2009) New combinations and new species in the lichen genera <em>Hemithecium</em> and <em>Pallidogramme</em>. <em>Mycotaxon</em> 108: 83–92.</p><p> http://dx.doi.org/10.5248/108.83</p><p>Chitale, G., Makhija, U. &amp; Sharma, B.O. (2011) Additional species of <em>Graphis</em> from Maharashtra, India. <em>Mycotaxon</em> 115: 469–480.</p><p> http://dx.doi.org/10.5248/115.469</p><p>Coleman, B.D. (1981) On random placement and species-area relations. <em>Mathematical Biosciences </em>54: 191–215.</p><p> http://dx.doi.org/10.1016/0025-5564(81)90086-9</p><p>Coleman, B.D., Mares, M.A., Willig, M.R. &amp; Hsieh, Y.H. (1982) Randomness, area, and species richness. <em>Ecology</em> 63: 1121–1133.</p><p> http://dx.doi.org/10.2307/1937249</p><p>Colwell, R.K. &amp; Coddington, J.A. (1994) Estimating terrestrial biodiversity through extrapolation. <em>Phil. Trans. Roy. Soc. London</em> B 345: 101–118.</p><p>Conti, E., Eriksson, T., Schönenberger, J., Sytsma, K.T. &amp; Baum, D.A. (2002) Early Tertiary out-of-India dispersal of Crypteroniacerae: evidence from the chloroplast and nuclear genomes. <em>Evolution</em> 56: 19311942.</p><p>Costello, M.J., Wilson, S. &amp; Houlding, B. (2011) Predicting total global species richness using rates of species description and estimates of taxonomic effort. <em>Systematic Biology</em> 61: 871–883.</p><p> http://dx.doi.org/10.1093/sysbio/syr080</p><p>Dal-Forno, M. (2009) A família Graphidaceae (Ascomycota Liquenizados) em Restinga em Pontal Do Sul, Pontal Do Paraná, Paraná. Masters Thesis, Universidade Federal de Paraná, Curitiba.</p><p>Dal-Forno, M. &amp; Eliasaro, S. (2010) Four new species of <em>Graphis</em> (Ostropales: Graphidaceae) from Brazil. <em>Lichenologist</em> 42: 77–81.</p><p> http://dx.doi.org/10.1017/s002428290999034x</p><p>Dolphin, K. &amp; Quicke, D. (2001) Estimating the global species richness of an incompletely described taxon: an example using parasitoid wasps (Hymenoptera: Braconidae). <em>Biological Journal of the Linnean Society</em> 73: 279–286.</p><p> http://dx.doi.org/10.1111/j.1095-8312.2001.tb01363.x</p><p>Dubey, U., Upreti, D.K. &amp; Nayaka, S. (2010) A new species of <em>Leiorreuma</em> Eschw. from India. <em>Lichenologist</em> 42: 711–713.</p><p> http://dx.doi.org/10.1017/s002428291000040x</p><p>Edwards, T.C. Jr., Cutler, D.R., Zimmermann, N.E., Geiser, L. &amp; Moisen, G.G. (2006) Effects of sample survey design on the accuracy of classification tree models in species distribution models. <em>Ecological Modelling</em> 199: 132–141.</p><p> http://dx.doi.org/10.1016/j.ecolmodel.2006.05.016</p><p>Erwin, T.L. (1982) Tropical forests: Their richness in Coleoptera and other arthropod species. <em>The Coleopterists Bulletin</em> 36: 74–75.</p><p>Eschweiler, F.G. (1824)<em> Systema lichenum, genera exhibens rite distincta, pluribus novis adaucta</em>. Nürnberg.</p><p>Fée, A.L.A. (1825) <em>Essai sur les Cryptogames des Écorces Exotiques Officinales</em>. Paris.</p><p>Ferraro, L.I., Lücking, R. Aptroot, A. &amp; Caceres, M.E.S. (2014) New Graphidaceae from northern Argentina.<em> Phytotaxa </em>189(1): 137–146.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.9</p><p>Feuerer, T. &amp; Hawksworth, D.L. (2007) Biodiversity of lichens, including a world-wide analysis of checklist data based on Takhtajan's floristic regions. <em>Biodiversity and Conservation</em> 16: 85–98.</p><p> http://dx.doi.org/10.1007/s10531-006-9142-6</p><p>Foote, M. (1992) Rarefaction analysis of morphological and taxonomic diversity. <em>Paleobiology</em> 18: 1–16.</p><p>Frisch, A. (2006) Contributions towards a new systematics of the lichen family Thelotremataceae I. The lichen family Thelotremataceae in Africa. <em>Bibliotheca Lichenologica</em> 92: 3–370.</p><p>Frisch, A. &amp; Kalb, K. (2006a) Contributions towards a new systematics of the lichen family Thelotremataceae II. A monograph of Thelotremataceae with a complex structure of the columella. <em>Bibliotheca Lichenologica</em> 92: 371–516.</p><p>Frisch, A. &amp; Kalb, K. (2006b) The lichen <em>Topeliopsis</em>, additions and corrections. <em>Lichenologist</em> 38: 37–45.</p><p> http://dx.doi.org/10.1017/s0024282905005530</p><p>Frisch, A., Kalb, K. &amp; Grube, M. (2006a) Contributions towards a new systematics of the lichen family Thelotremataceae. <em>Bibliotheca Lichenologica</em> 92: 1–556.</p><p>Frisch, A., Kalb, K. &amp; Grube, M. (2006b) Contributions towards a new systematics of the lichen family Thelotremataceae III. Molecular phylogeny of the Thelotremataceae. <em>Bibliotheca Lichenologica</em> 92: 517–539.</p><p>Galloway, D.J. (2007) <em>Flora of New Zealand Lichens. Revised Second Edition Including Lichen-Forming and Lichenicolous Fungi. </em>Volumes 1 and 2. Manaaki Whenua Press, Lincoln, New Zealand. i-cxxx + 2,261 pp.</p><p>Gaston, K.J. (1991) The magnitude of global insect species richness. <em>Conservation Biology</em> 5: 283–296.</p><p> http://dx.doi.org/10.1111/j.1523-1739.1991.tb00140.x</p><p>Gaswick, W. &amp; Lücking, R. (2012) <em>Key to the thelotremoid Graphidaceae, Version 1.0 (May 2012, 673 species)</em>. Available from: http://discern.uits.iu.edu:8780/admin/temp/key_test5c_linear.html.</p><p>Gotelli, N.J. &amp; Colwell, R.K. (2001) Quantifying biodiversity: procedures and pitfalls in the measurement and comparison of species richness. <em>Ecology Letters</em> 4: 379–391.</p><p> http://dx.doi.org/10.1046/j.1461-0248.2001.00230.x</p><p>Guderley, R. &amp; Lumbsch, H.T. (1996) The lichen genus <em>Diploschistes</em> in South Africa (Thelotremataceae). <em>Mycotaxon</em> 58: 269–292.</p><p>Hale, M.E. (1973) Studies on the lichen family Thelotremataceae. 1. <em>Phytologia</em> 26: 413–420.</p><p>Hale, M.E. (1974a) Studies on the lichen family Thelotremataceae. 2. <em>Phytologia</em> 27: 490–501.</p><p>Hale, M.E. (1974b) Morden-Smithsonian Expedition to Dominica: The lichens (Thelotremataceae). <em>Smithsonian Contributions to Botany</em> 16: 1–46.</p><p> http://dx.doi.org/10.5479/si.0081024x.16</p><p>Hale, M.E. (1975) Studies on the lichen family Thelotremataceae. 3. <em>Mycotaxon</em> 3: 173–181.</p><p>Hale, M.E. (1978) A revision of the lichen family Thelotremataceae in Panama. <em>Smithsonian Contributions to Botany</em> 38: 1–60.</p><p> http://dx.doi.org/10.5479/si.0081024x.38</p><p>Hale, M.E. (1980) Generic delimitation in the lichen family Thelotremataceae. <em>Mycotaxon </em>11: 130–138.</p><p>Hale, M.E. (1981) A revision of the lichen family Thelotremataceae in Sri Lanka. <em>Bulletin of the British Museum (Natural History), Botany Series</em> 8: 227–332.</p><p>Harris, R.C. (1989) <em>Working Keys to the Lichen-Forming Fungi of Puerto Rico</em>. Published by the author, Bronx, NY.</p><p>Harris, R.C. (1990) <em>Some Florida Lichens</em>. Published by the Author, Bronx, N.Y.</p><p>Harris, R.C. (1995) <em>More Florida Lichens. Including the 10ø Tour of the Pyrenolichens</em>. Published by the Author, Bronx, N.Y.</p><p>Hawksworth, D.L. (1991) The fungal dimension of biodiversity: magnitude, significance, and conservation. <em>Mycological Research</em> 95: 641–655.</p><p> http://dx.doi.org/10.1016/s0953-7562(09)80810-1</p><p>Hawksworth, D.L. (1997) Orphans in 'Botanical' diversity. <em>Muelleria</em> 10: 111–123.</p><p>Hawksworth, D.L. (2001) The magnitude of fungal diversity: the 1.5 million species estimate revisited. <em>Mycological Research</em> 105: 1422–1432.</p><p> http://dx.doi.org/10.1017/s0953756201004725</p><p>Heck, K.L., Van Belle, G. &amp; Simberloff, D. (1975) Explicit calculation of the rarefaction diversity measurement and the determination of sufficient sample size. <em>Ecology</em> 56: 1459–1461.</p><p> http://dx.doi.org/10.2307/1934716</p><p>Hedges, S.B. (2003) The coelacanth of frogs. <em>Nature</em> 425: 669–670.</p><p> http://dx.doi.org/10.1038/425669a</p><p>Hodkinson, B.P. (2012) An evolving phylogenetically based taxonomy of lichens and allied fungi. <em>Opuscula Philolichenum</em> 11: 4–10.</p><p>Hortal, J., Borges, P. &amp; Gaspar, C. (2006) Evaluating the performance of species richness estimators: sensitivity to sample grain size. <em>Journal of Animal Ecology</em> 75: 274–287.</p><p> http://dx.doi.org/10.1111/j.1365-2656.2006.01048.x</p><p>Jagadeesh Ram, T.A.M., Sinha, G.P. &amp; Singh, K.P. (2007) A new species of <em>Graphis</em> (Graphidaceae) from India. <em>Lichenologist</em> 39: 231–233.</p><p> http://dx.doi.org/10.1017/s0024282907006482</p><p>Jia, Z.-F. (2011) <em>Graphis paradussii</em> (Graphidaceae, Ostropales), a new lichen species to science. <em>The Bryologist</em> 114: 389–391.</p><p> http://dx.doi.org/10.1639/0007-2745-114.2.389</p><p>Jia, Z.-F. &amp; Kalb, K. (2013) Taxonomical studies on the lichen genus <em>Platygramme</em> (Graphidaceae) in China. <em>Lichenologist</em> 45: 145–151.</p><p> http://dx.doi.org/10.1017/s0024282912000709</p><p>Jia, Z.-F. &amp; Wei, J.-C. (2007) Two species new to China of <em>Graphis</em> (Graphidaceae, Ostropales, Ascomycota). <em>Mycosystema</em> 26: 186–189.</p><p>Jia, Z.-F. &amp; Wei, J.-C. (2008) <em>Graphis fujianensis</em>, a new species of Graphidaceae from China. <em>Mycotaxon</em> 104: 107–109.</p><p>Jia, Z.-F. &amp; Wei, J.-C. (2009a) A new isidiate species of <em>Graphis</em> (lichenised Ascomycotina) from China. <em>Mycotaxon</em> 110: 27–30.</p><p> http://dx.doi.org/10.5248/110.27</p><p>Jia, Z.-F. &amp; Wei, J.-C. (2009b) A new species, <em>Thalloloma microsporum</em> (Graphidaceae, Ostropales, Ascomycota). <em>Mycotaxon</em> 107: 197–199.</p><p> http://dx.doi.org/10.5248/107.197</p><p>Jia, Z.-F., Wang, R.-F. &amp; Wei, J.-C. (2012) Two new species in the Graphidaceae (Ostropales, Ascomycota) from China. <em>Mycotaxon</em> 121: 75–79.</p><p> http://dx.doi.org/10.5248/121.75</p><p>Joppa, L.N., Roberts, D.L. &amp; Pimm, S.L (2011) How many species of flowering plants are there? <em>Proceedings of the Royal Society</em> B, 278: 554–559.</p><p>Joshi, Y., Lee, Y.M., Wang, X.Y., Koh, Y.J. &amp; Hur, J.-S. (2009) New record of the existence of <em>Sarcographa tricosa</em> (lichenized Ascomycota, Graphidaceae) in Korea. <em>Mycobiology</em> 37: 152–154.</p><p> http://dx.doi.org/10.4489/myco.2009.37.2.152</p><p>Joshi, Y., Lücking, R., Yamamoto, Y., Wang, X.Y., Koh Y.J. &amp; Hur, J.-S. (2010a) A new species of <em>Graphis</em> (lichenized Ascomycetes) from South Korea. <em>Mycotaxon</em> 113: 305–309.</p><p> http://dx.doi.org/10.4489/myco.2010.38.2.149</p><p>Joshi, Y., Wang, X.Y., Nguyen, T.T., Koh, Y.J. &amp; Hur, J.-S. (2010b) Notes on the existence of <em>Leucodecton desquamescens</em> (thelotremoid Graphidaceae) in South Korea. <em>Mycobiology</em> 38: 149–152.</p><p>Joshi, S., Upreti, D.K. &amp; Nayaka, S. (2012a) The lichen genus <em>Chapsa</em> (Graphidaceae) in India. <em>Mycotaxon</em> 120: 23–33.</p><p> http://dx.doi.org/10.5248/120.23</p><p>Joshi, S., Upreti, D.K. &amp; Haridas, B. (2012b) Nomenclatural notes on the lichen genera <em>Leucodecton</em> and <em>Myriotrema</em> (Graphidaceae) in India. <em>Mycotaxon</em> 122: 467–482.</p><p> http://dx.doi.org/10.5248/122.467</p><p>Joshi, S., Jayalal, U., Oh, S.-O., Park, J.-S. &amp; Hur J.-S. (2012c) New records of lichen genus <em>Thelotrema</em> Ach. (thelotremoid Graphidaceae) from South Korea. <em>Mycobiology</em> 40: 225–230.</p><p> http://dx.doi.org/10.5941/myco.2012.40.4.225</p><p>Joshi, S., Nguyen, T.T., Dzung, N.A., Jayalal, U., Oh S.-O., &amp; Hur, J.-S. (2013a) New records of corticolous lichens from Vietnam. <em>Mycotaxon</em> 123: 479–489.</p><p> http://dx.doi.org/10.5248/123.479</p><p>Joshi, S., Jayalal, U., Oh S.-O., Koh, Y.J., Nguyen, T.T., Dzung, N.A. &amp; Hur, J.-S. (2013b) New species and new records in the family Graphidaceae (Ascomycota: Ostropales) from Vietnam. <em>Lichenologist</em> 45: 599–609.</p><p> http://dx.doi.org/10.1017/s002428291300025x</p><p>Joshi, S., Koh, Y.J., Lökös, L., Jayalal, U. &amp; Hur, J.-S. (2013c) <em>Graphis koreana</em> (Graphidaceae, Ostropales), a new species from South Korea. <em>Lichenologist</em> 45: 593–597.</p><p> http://dx.doi.org/10.1017/s0024282913000224</p><p>Kocourková, J., Fryday, A.M., Knudsen, K. &amp; Lendemer J.C. (2010) Studies in lichens and lichenicolous fungi: more notes on taxa from North America 6. <em>Mycotaxon</em> 111: 423–429.</p><p> http://dx.doi.org/10.5248/111.423</p><p>Kalb, K. (2004) New or otherwise interesting lichens II. <em>Bibliotheca Lichenologica</em> 88: 301–329.</p><p>Kalb, K. (2008) New or otherwise interesting lichens. IV. Neue oder anderweitig interessante Flechten. IV. <em>Sauteria</em> 15: 239–248.</p><p>Kalb, K. (2009) New taxa and new records of thelotremoid Graphidaceae. <em>Herzogia</em> 22: 17–42.</p><p>Kalb, K. &amp; Jia, Z.-F. (2014) New species of Graphidaceae from Zhejiang Province, China. <em>Phytotaxa</em> 189(1): 147–152.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.10</p><p>Kalb, K. &amp; Staiger, B. (2000) <em>Dyplolabia</em> Massalongo – Monographie einer vergessenen Flechtengattung. <em>Hoppea</em> 61: 409–422.</p><p>Kalb, K., Staiger, B. &amp; Elix, J.A. (2004) A monograph of the lichen genus <em>Diorygma</em> – a first attempt. <em>Symbolae Botanicae Upsalienses</em> 34(1): 133–181.</p><p>Kalb, K., Buaruang, K., Papong, K. &amp; Boonpragob, K. (2009a) New or interesting lichens from the tropics, including the lichen genus <em>Ramboldia</em> in Thailand. <em>Mycotaxon</em> 110: 109–123.</p><p> http://dx.doi.org/10.5248/110.109</p><p>Kalb, K., Archer, A.W., Sutjaritturakan, J. &amp; Boonpragob, K. (2009b) New or otherwise interesting lichens V. <em>Bibliotheca Lichenologica</em> 99: 225–246.</p><p>Kirk, P.M., Cannon, P.F., Minter, D.W. &amp; Stalpers, J.A. (2008) <em>Dictionary of the Fungi</em>. 10th ed. CAB International, Wallingford.</p><p>Komposch, H. &amp; Hafellner, J. (1999) List of lichenized fungi so far observed in the tropical lowland rain forest plot Surumoni (Venezuela, Estado Amazonas). <em>Fritschiana</em> 19: 1–10.</p><p>Komposch, H. &amp; Hafellner, J. (2000) Diversity and vertical distribution of lichens in a Venezuelan tropical lowland rain forest. <em>Selbyana</em> 21: 11–24.</p><p>Komposch, H. &amp; Hafellner, J. (2003) Species composition of lichen dominated corticolous communities: a lowland rain forest canopy compared to an adjacent shrubland in Venezuela. Bibliotheca Lichenologica 86: 351–367.</p><p>Kraichak, E., Parnmen, S., Lücking, R., Rivas Plata, E., Aptroot, A., Cáceres, M.E.S., Ertz, D., Mangold, A., Mercado-Díaz, J.A., Papong, K., Van den Broeck, D., Weerakoon, G. &amp; Lumbsch, H.T. (2014a) Revisiting the phylogeny of Ocellularieae, the second largest tribe within Graphidaceae (lichenized Ascomycota: Ostropales). <em>Phytotaxa</em> 189(1): 52–81.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.6</p><p>Kraichak, E., Parnmen, S., Lücking, R. &amp; Lumbsch, H.T. (2014a) <em>Gintarasia</em> and <em>Xalocoa</em>, two new genera to accommodate temperate to subtropical species in the predominantly tropical Graphidaceae (Ostropales, Ascomycota). <em>Australasian Systematic Botany </em>26: 466–474.</p><p> http://dx.doi.org/10.1071/SB13038</p><p>Lendemer, J.C. (2010) Notes on the genus <em>Graphis</em> (Graphidaceae: lichenized Ascomycetes) in the coastal plain of southeastern North America. <em>Journal of the Torrey Botanical Society</em> 137: 312–317.</p><p> http://dx.doi.org/10.3159/10-ra-019r.1</p><p>Lendemer, J.C. &amp; Harris, R.C. (2014) Seven new species of Graphidaceae (Lichenized Ascomycetes) from the Coastal Plain of southeastern North America. <em>Phytotaxa</em> 189(1): 153–175.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.11</p><p>Lendemer, J.C., Harris, R.C. &amp; Tripp, E.A. (2013) The Lichens and allied fungi of Great Smoky Mountains National Park: an annotated checklist with comprehensive keys. <em>Memoirs of the New York Botanical Garden</em> 104: 1–152.</p><p>López de Silanes, M.E. &amp; Alvarez, J. (2003) The genus <em>Phaeographis</em> Müll. Arg. (Graphidaceae, Ascomycotina) in the Iberian Peninsula. <em>Nova Hedwigia</em> 77: 147–160.</p><p> http://dx.doi.org/10.1127/0029-5035/2003/0077-0147</p><p>Lücking, R. (2003) Takhtajan's floristic regions and foliicolous lichen biogeography: a compatibility analysis. <em>Lichenologist</em> 35: 33–54.</p><p> http://dx.doi.org/10.1006/lich.2002.0430</p><p>Lücking, R. (2007) <em>Kalbographa</em>: Monografie einer unerkannten Flechtengattung. <em>Bibliotheca Lichenologica</em> 96: 185–192.</p><p>Lücking, R. (2008) Foliicolous lichenized fungi. <em>Flora Neotropica Monograph</em> 103: 1–866.</p><p>Lücking, R. (2012) Predicting species richness in tropical lichenized fungi with 'modular' combinations of character states. <em>Biodiversity and Conservation</em> 21: 2341–2360.</p><p> http://dx.doi.org/10.1007/s10531-011-0217-7</p><p>Lücking, R. (2014) Three new species of thelotremoid Graphidaceae (lichenized Ascomycota: Ostropales) from tropical Africa. <em>Phytotaxa</em> 189(1): 176–179.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.12</p><p>Lücking, R. &amp; Breuss, O. (2012) A new species of <em>Thelotrema</em>, a new combination, <em>Leucodecton isidioides</em>, and a key to thelotremoid lichens of Macaronesia (lichenised Ascomycota: Graphidaceae). <em>Österreichische Zeitschrift für Pilzkunde</em> 21: 127–133.</p><p>Lücking, R. &amp; McCune, B. (2012) <em>Graphis pergracilis</em> new to North America, and a new name for <em>Graphis britannica</em> sensu Staiger auct. <em>Evansia</em> 29: 77–84.</p><p> http://dx.doi.org/10.1639/079.029.0303</p><p>Lücking, R., Kalb, K., Staiger, B. &amp; McNeill, J. (2007) Proposal to conserve the name <em>Phaeographis</em>, with a conserved type, against <em>Creographa</em>, <em>Ectographis</em>, <em>Flegographa</em>, <em>Hymenodecton</em>, <em>Platygramma</em>, and <em>Pyrographa</em> (Ascomycota: Ostropales: Graphidaceae), along with notes on the names <em>Graphina</em> and <em>Phaeographina</em>. <em>Taxon</em> 56: 1296–1299.</p><p> http://dx.doi.org/10.2307/25065924</p><p>Lücking, R., Chaves, J.L., Sipman, H.J.M., Umaña, L. &amp; Aptroot, A. (2008) A first assessment of the Ticolichen Biodiversity Inventory in Costa Rica: the genus <em>Graphis</em>, with notes on the genus <em>Hemithecium</em> (Ascomycota: Ostropales: Graphidaceae). <em>Fieldiana Botany, New Series</em> 46: 1–126.</p><p> http://dx.doi.org/10.3158/0015-0746(2008)46[1:afaott]2.0.co;2</p><p>Lücking, R., Archer, A.W. &amp; Aptroot, A. (2009a) A world-wide key to the genus <em>Graphis</em> (Ostropales: Graphidaceae). <em>Lichenologist</em> 41: 363–452.</p><p> http://dx.doi.org/10.1017/s0024282909008305</p><p>Lücking, R., Rivas-Plata, E., Chavez, J.L., Umaña, L. &amp; Sipman, H.J.M. (2009b) How many tropical lichens there are… really? <em>Bibliotheca Lichenologica</em> 100: 399–418.</p><p>Lücking, R., Lumbsch, H.T., Von Konrat, M. &amp; Naikatini, A. (2010) <em>Graphis collinsiae</em> (Ascomycota: Graphidaceae), a new lichen species from the Fiji Islands. <em>The Bryologist</em> 113: 356–359.</p><p> http://dx.doi.org/10.1639/0007-2745-113.2.356</p><p>Lücking, R., Seavey, F., Common, R.S., Beeching, S.Q., Breuss, O., Buck, W.R., Crane, L., Hodges, M., Hodkinson, B.P., Lay, E., Lendemer, J.C., McMullin, R.T., Mercado-Díaz, J.A., Nelsen, M.P., Rivas Plata, E., Safranek, W., Sanders, W. B., Schaefer, H.P. Jr. &amp; Seavey, J. (2011a) The lichens of Fakahatchee Strand Preserve State Park, Florida: Proceedings from the 18<sup>th</sup> Tuckerman Workshop. <em>Bulletin of the Florida Museum of Natural History, Biological Sciences</em> 49: 127–186.</p><p>Lücking, R., Rivas Plata, E., Kalb, K., Common, R.S., Bárcenas-Peña, A. &amp; Duya, M.V. (2011b) <em>Halegrapha</em> (Ascomycota: Graphidaceae), an enigmatic new genus of tropical lichenized fungi dedicated to Mason E. Hale Jr. <em>Lichenologist </em>43: 331–343.</p><p> http://dx.doi.org/10.1017/s0024282911000302</p><p>Lücking, R., Sutjaritturakan, J. &amp; Kalb, K. (2012a) Validation of three species names and description of a new species in the genus <em>Graphis</em> (Ascomycota: Ostropales: Graphidaceae). <em>Lichenologist</em> 44: 391–394.</p><p> http://dx.doi.org/10.1017/s0024282911000855</p><p>Lücking, R., Parnmen, S. &amp; Lumbsch, H.T. (2012b) <em>Mangoldia</em>, a new lichen genus in the family Graphidaceae (Ascomycota: Ostropales). <em>Phytotaxa</em> 69: 1–5.</p><p>Lücking, R., Hernández, J.E.M., Kalb, K. &amp; Rivas Plata, E. (2012c) Tres nuevas especies de Graphidaceae de Venezuela (Three new species of Graphidaceae from Venezuela). <em>Glalia</em> 4(2): 1–7.</p><p>Lücking, R., Tehler, A., Bungartz, F., Rivas Plata, E. &amp; Lumbsch, H.T. (2013) Journey from the West: Did tropical Graphidaceae (lichenized Ascomycota: Ostropales) evolve from a saxicolous ancestor along the American Pacific coast? <em>American Journal of Botany</em> 100: 844–856.</p><p> http://dx.doi.org/10.3732/ajb.1200548</p><p>Lücking, R., Dal-Forno, M., Sikaroodi, M., Gillevet, P.M., Bungartz, F., Moncada, B., Yánez-Ayabaca, A., Chaves, J.L., Coca, L.F. &amp; Lawrey, J.D. (2014) A single macrolichen constitutes hundreds of unrecognized species. <em>Proceedings of the National Academy of Science</em> 111(30):11091-6.</p><p> http://dx.doi.org/10.1073/pnas.1403517111</p><p>Lumbsch, H.T. (1989) Die holarktischen Vertreter der Flechtengattung <em>Diploschistes</em> (Thelotremataceae). <em>Journal of the Hattori Botanical Laboratory</em> 66: 133–196.</p><p>Lumbsch, H.T. (1993) Studien über die Flechtengattung <em>Diploschistes</em> I. <em>Nova Hedwigia</em> 56: 227–236.</p><p>Lumbsch, H.T. &amp; Aptroot, A. (1993) Studien über die Flechtengattung <em>Diploschistes</em> II. <em>Nova Hedwigia</em> 56: 237–239.</p><p>Lumbsch, H.T. &amp; Mangold, A. (2007) <em>Diploschistes elixii</em> (Ostropales: Thelotremataceae), an overlooked terricolous species from Western Australia. <em>Lichenologist</em> 39: 459–462.</p><p> http://dx.doi.org/10.1017/s0024282907007049</p><p>Lumbsch, H.T., Divakar, P.K., Messuti, M.I., Mangold, A. &amp; Lücking, R. (2010) A survey of thelotremoid lichens (Ascomycota: Ostropales) in subantarctic regions excluding Tasmania. <em>Lichenologist</em> 42: 203–224.</p><p> http://dx.doi.org/10.1017/s002428290999048x</p><p>Lumbsch, H.T., Lücking, R., Divakar, P., Von Konrat, M. &amp; Naikatini, A. (2011a) New records of lichen-forming fungi from Fiji. <em>Telopea</em> 13: 375–404.</p><p>Lumbsch, H.T., Ahti, T., Altermann, S., Amo De Paz, G., Aptroot, A., Arup, U., Bárcenas Peña, A., Bawingan, P.A., Benatti, M.N., Betancourt, L., Björk, C.R., Boonpragob, K., Brand, M., Bungartz, F., Cáceres, M.E.S., Candan, M, Chaves, J.L., Clerc, P., Common, R., Coppins, B.J., Crespo, A., Dal Forno, M., Divakar, P.K., Duya, M. V., Elix, J.A., Elvebakk, A., Fankhauser, J.D., Farkas, E., Ferraro, L.I., Fischer, E., Galloway, D.J., Gaya, E., Giralt, M., Goward, T., Grube, M., Hafellner, J., Hernández M., J.E., Herrera Campos, M.A., Kalb, K., Kärnefelt, I., Kantvilas, G., Killmann, D., Kirika, P., Knudsen, K., Komposch, H., Kondratyuk, S., Lawrey, J.D., Mangold, A., Marcelli, M.P., Mccune, B., Ines Messuti, M., Michlig, A., Miranda González, R., Moncada, B., Naikatini, A., Nelsen, M.P., Øvstedal, D.O., Palice, Z., Papong, K., Parnmen, S., Pérez-Ortega, S., Printzen, C., Rico, V.J., Rivas Plata, E., Robayo, J., Rosabal, D., Ruprecht, U., Salazar Allen, N., Sancho, L., Santos De Jesus, L., Santos Vieira, T., Schultz, M., Seaward, M.R.D., Sérusiaux, E., Schmitt, I., Sipman, H.J.M., Sohrabi, M., Søchting, U., Zeuthen Søgaard, M., Sparrius, L.B., Spielmann, A., Spribille, T., Sutjaritturakan, J., Thammathaworn, A., Thell, A., Thor, G., Thüs, H., Timdal, E., Truong, C., Türk, R., Umaña Tenorio, L., Upreti, D.K., Van Den Boom, P., Vivas Rebuelta, M., Wedin, M., Will-Wolf, S., Wirth, V., Wirtz, N., Yahr, R., Yeshitela, K., Ziemmeck, F., Wheeler, T. &amp; Lücking, R. (2011) One hundred new species of lichenized fungi: a signature of undiscovered global diversity. <em>Phytotaxa</em> 18: 1–127.</p><p>Lumbsch, H.T., Kraichak, E., Parnmen, S., Rivas Plata, E., Aptroot, A., Cáceres, M.E.S., Ertz, S., Feuerstein, S.C., Mercado-Díaz, J.A., Staiger, B., Van den Broeck, D. &amp; Lücking, R. (2014) New higher taxa in the lichen family Graphidaceae (lichenized Ascomycota: Ostropales) based on a three-gene skeleton phylogeny. <em>Phytotaxa</em> 189(1):39–51.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.5</p><p>MacDougall, A.S. &amp; Loo, J.A. (2002) Predicting occurrences of geographically restricted rare floral elements with qualitative habitat data. <em>Environmental Reviews</em> 10: 167–190.</p><p> http://dx.doi.org/10.1139/a02-005</p><p>Magurran, A.E. (2004) <em>Measuring Biological Diversity</em>. Blackwell, Oxford.</p><p>Makhija, U. &amp; Adawadkar, B. (2005a) Some new species of <em>Graphis</em> (lichenised Ascomycota) from the Andaman and Nicobar Islands of India. <em>Mycotaxon</em> 91: 369–379.</p><p>Makhija, U. &amp; Adawadkar, B. (2005b) Some additions to the Graphidaceae in the Andaman Islands, India. <em>Mycotaxon</em> 91: 347–352.</p><p>Makhija, U. &amp; Adawadkar, B. (2007) Trans-septate species of <em>Acanthothecis</em> and <em>Fissurina</em> from India. <em>Lichenologist</em> 39: 165–185.</p><p> http://dx.doi.org/10.1017/s0024282907004756</p><p>Makhija, U., Dube, A., Adawadkar, B. &amp; Chitale, G. (2005) Five trans-septate species of <em>Hemithecium</em> from India. <em>Mycotaxon</em> 93: 365–372.</p><p>Makhija, U., Dube, A., Adawadkar, B. &amp; Chitale, G. (2006) Some species of lichen genera <em>Dyplolabia</em> and <em>Graphis</em> from Maharashtra, India. <em>Geophytology</em> 36: 61–68.</p><p>Makhija, U., Chitale, G. &amp; Sharma, B.O. (2009) New species and new records of <em>Diorygma</em> (Graphidaceae) from India: species with convergent exciples. <em>Mycotaxon</em> 109: 379–392.</p><p> http://dx.doi.org/10.5248/109.379</p><p>Mangold, A., Elix, J.A. and Lumbsch, H.T. (2009) Thelotremataceae. pp. 195–420 in: P. M. McCarthy (Ed.): <em>Flora of Australia Volume</em> 57. Lichens 5. ABRS and CSIRO Publishing, Canberra and Melbourne. xx + 687 pages.</p><p>Mangold, A., Lücking, R. &amp; Lumbsch, H.T. (2014) New species of graphidoid and thelotremoid Graphidaceae from Australia. <em>Phytotaxa</em> 189(1): 180–185.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.13</p><p>Marcano, V., Morales Méndez, A., Sipman, H.J.M. &amp; Calderón, L. (1996) A first checklist of the lichen-forming fungi of the Venezuelan Andes. <em>Tropical Bryology</em> 12: 193–235.</p><p>Massalongo, A. B. (1854) <em>Neagenea Lichenum</em>. Ramanzini, Verona. 10 pp.</p><p>Massalongo, A.B. (1860) Esame comparativo di alcuni generi di licheni. [Ser. 3] <em>Atti dell'Istituto Veneto di Scienze, Lettere ed Arti</em> 5: 247–267, 313–337.</p><p>McCune, B. &amp; Grace, J.B. (2002) <em>Analysis of ecological communities</em>. MjM Software, Gleneden Beach, Oregon.</p><p>McCune, B. &amp; Mefford, M.J. (1999) <em>PC-ORD. Multivariate analysis of ecological data, Version 4.0. </em>MjM Software, Gleneden Beach, Oregon, USA.</p><p>McKenna, M.C.C. (1973) Sweepstakes, filters, corridors, Noah’s Arks, and beached Viking funeral ships in palaeogeography. In Tarling, D.H. &amp; Runcorn, S.K. (Eds) <em>Implications of Continental Drift to the Earth Science</em>. Academic Press, London, pp. 291–304.</p><p>Mercado-Díaz, J.A. (2009) <em>Checklist of lichens and lichenicolous fungi of Puerto Rico</em>. Available from: http://lichensofpuertorico.herbario.upr.edu (accessed 17 December 2013).</p><p>Mercado-Díaz, J.A., Lücking, R. &amp; Parnmen, S. (2014) Two new genera and twelve new species of Graphidaceae from Puerto Rico: a case for higher endemism of lichenized fungi in islands of the Caribbean?. <em>Phytotaxa</em> 189(1): 186–203.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.14</p><p>Messuti, M.I. &amp; Archer, A.W. (2009) Cuántos taxones pueden incluirse teóricamente en el género <em>Pertusaria</em>? <em>Glalia</em> 2(3): 1–9.</p><p>Messuti, M.I., Lumbsch, H.T. &amp; Vězda, A. (2003) A new corticolous species of <em>Chroodiscus</em> (Thelotremataceae) from Argentina. <em>Lichenologist</em> 35: 241–244.</p><p> http://dx.doi.org/10.1016/s0024-2829(03)00024-0</p><p>Meyer, G.F.W. (1825) <em>Nebenstunden meiner Beschaeftigungen im Gebiete der Pflanzenkunde. </em>Erster Theil. Göttingen.</p><p>Miao, X.-L., Jia, Z.-F., Meng, Q.-F. &amp; Wei, J.-C. (2007) Some species of Graphidaceae (Ostropales, Ascomycota) rare and new to China. <em>Mycosystema</em> 26: 493–506.</p><p>Mies, B.A. (1994a) Die Flechten von Sokotra (Jemen, Indischer Ozean). <em>Aktuelle Lichenologische Mitteilungen</em> 6: 8–11.</p><p>Mies, B.A. (1994b) Checkliste der Gefässpflanzen, Moose und Flechten und botanische Bibliographie der Insel Sokotra und des Sokotrinischen Archipels (Jemen, Indischer Ozean). <em>Senckenbergiana Biologica</em> 74: 213–258.</p><p>Mies, B.A. &amp; Lumbsch, H.T. (1990) Beitrage zur Flechtenflora der Kapverdischen Inseln I. Die Gattung <em>Diploschistes</em>. <em>Nova Hedwigia</em> 51: 483–488.</p><p>Mongkolsuk, P., Buaruang, K., Polyiam, W., Vongshewarat, K., Phokaeo, S., Seeiam, D., Nirongbutr, P., Sangwisut, T. &amp; Sodamuk, M. (2011) Lichen in Mangrove forest at Ban Pak Klong Num Chiew Mueng district, and Black Sand Beach Laem Ngob District, Trat Province. <em>In:</em> <em>37th Congress of Science and Technology of Thailand (STT. 37th: 2011).</em> Centara Grand &amp; Bangkok Convention Centre at CentralWorld, Bangkok.</p><p>Moncada, B., Lücking, R. &amp; Betancourt-Macuase, L. (2013a) Phylogeny of the Lobariaceae (lichenized Ascomycota: Peltigerales), with a reappraisal of the genus <em>Lobariella</em>. <em>The Lichenologist</em> 45: 203–263.</p><p> http://dx.doi.org/10.1017/s0024282912000825</p><p>Moncada, B., Lücking, R. &amp; Suárez, A. (2013b) Molecular phylogeny of the genus <em>Sticta</em> (lichenized Ascomycota: Lobariaceae) in Colombia. <em>Fungal Diversity </em>DOI 10.1007/s13225-013-0230-0 (online first).</p><p>Moon, K.H., Nakanishi, M. &amp; Kashiwadani, H. (2008) Notes on species of Graphidaceae (Ascomycotina) from Eastern Asia with three new species. <em>Memoirs of the National Science Museum, Tokyo</em> 45: 85–91.</p><p>Moon, K.H., Nakanishi, M., Futagami, Y. &amp; Kashiwadani, H. (2011) Studies on Cambodian species of Graphidaceae (Ostropales, Ascomycota) (I). <em>Journal of Japanese Botany</em> 86: 273–278.</p><p>Moon, K.H., Nakanishi, M. &amp; Kashiwandani, H. (2012) New or noteworthy species of Graphidaceae (Ostropales, Ascomycota) in Korea. <em>Japanese Journal of Botany</em> 87: 320–325.</p><p>Mora, C., Tittensor, D.P., Adl, S., Simpson, A.G.B. &amp; Worm, B. (2011) How many species are there on Earth and in the Ocean? <em>PLoS Biol</em> 9(8): e1001127. doi:10.1371/journal.pbio.1001127.</p><p>Nakanishi, M., Kashiwadani, H. &amp; Moon, K.H. (2001) Notes on the genera <em>Graphina</em> and <em>Graphis</em> (Graphidaceae) in Thailand. <em>Bulletin of the National Science Museum (Tokyo), Series B (Botany)</em> 27: 47–55.</p><p>Nakanishi, M., Kashiwadani, H. &amp; Moon, K.H. (2003) Taxonomical notes on Japanese Graphidaceae (Ascomycotina), including some new combinations. <em>Bulletin of the National Science Museum (Tokyo), Series B (Botany)</em> 29: 83–90.</p><p>Nakanishi, M., Kashiwadani, H., Futagami, Y. &amp; Moon, K.H. (2010) Nine species of Graphidaceae (Ostropales, Ascomycota) collected in Siem Reap, Cambodia. <em>Journal of Japanese Botany</em> 85: 313–321.</p><p> Nagarkar, M.B. &amp; Hale, M.E. (1989) New species in the lichen family Thelotremataceae from Asia (Ascomycotina). <em>Mycotaxon </em>35: 437–447.</p><p>Nally, R.M. &amp; Fleishman, E. (2004) A successful predictive model of species richness based on indicator species. <em>Conservation Biology</em> 18: 646–654.</p><p> http://dx.doi.org/10.1111/j.1523-1739.2004.00328_18_3.x</p><p>Nash, T.H. III, Ryan, B.D., Gries, C. &amp; Bungartz, F. (Eds) (2002) <em>Lichen Flora of the Greater Sonoran Desert Region</em>. Volume 1. Lichens Unlimited, Arizona State University, Tempe, Arizona. 532 pp.</p><p>Nash, T.H. III, Ryan, B.D., Diederich, P., Gries, C. &amp; Bungartz, F. (Eds) (2004) <em>Lichen Flora of the Greater Sonoran Desert Region</em>. Volume 2. Lichens Unlimited, Arizona State University, Tempe, Arizona. 742 pp.</p><p>Nash, T.H. III, Gries, C. &amp; Bungartz, F. (Eds) (2007) <em>Lichen Flora of the Greater Sonoran Desert Region.</em> Volume 3. Lichens Unlimited, Arizona State University, Tempe, Arizona. 567 pp.</p><p>Nayaka, S., Upreti, D.K., Phatak, S. &amp; Samuel, C. (2004) Lichens of Bondla and Bhagwan Mahavir Wildlife Sanctuaries, Goa. <em>Biological Memoirs</em> 30: 115–119.</p><p>Nelsen, M., Lücking, R., Rivas Plata, E. &amp; Mbatchou, J.S. (2010) <em>Heiomasia</em>, a new genus in the lichen-forming family Graphidaceae (Ascomycota: Lecanoromycetes: Ostropales) with disjunct distribution in Southeastern North America and Southeast Asia. <em>The Bryologist</em> 113: 742–751.</p><p> http://dx.doi.org/10.1639/0007-2745-113.4.742</p><p>Nelsen, M.P., Lücking, R., Andrew, C.J., Rivas Plata, E., Chaves, J.L., Cáceres, M.E.S. &amp; Ventura, N. (2012) Dismantling <em>Herpothallon</em>: <em>Herpothallon antillarum</em> (Arthoniomycetes: Arthoniaceae) is a member of the genus <em>Diorygma</em> (Lecanoromycetes: Graphidaceae). <em>The Bryologist</em> 115: 313–321.</p><p> http://dx.doi.org/10.1639/0007-2745-115.2.313</p><p>Neuwirth, G. &amp; Lücking, R. (2009) A new species of <em>Graphis</em> (Graphidaceae) from Venezuela. <em>Lichenologist</em> 41: 271–274.</p><p> http://dx.doi.org/10.1017/s0024282909008354</p><p>Nilsson-Örtman, V. &amp; Nilsson, A. (2010) Using taxonomic revision data to estimate the global species richness and characteristics of undescribed species of diving beetles (Coleoptera: Dytiscidae). <em>Biodiversity Informatics</em> 7: 1–16.</p><p>Norman, J. M. (1852) Conatus praemissus redactionis novae generum nunnullorum Lichenum. <em>Nytt Magazin for Naturvidenskapene</em> 7: 213–252.</p><p>Oksanen, J., Blanchet, F.G., Kindt, R., Legendre, P., Minchin, P.R., O'Hara, R.B., Simpson, G.L., Solymos, P., Stevens, M.H.H. &amp; Wagner, H. (2013) <em>VEGAN: Community Ecology Package</em>, Version 2.0-10. http://cran.r-project.org/web/packages/vegan/index.html</p><p>Palmer, M.W. (1990). The estimation of species richness by extrapolation. <em>Ecology</em> 71: 1195–1198.</p><p> http://dx.doi.org/10.2307/1937387</p><p>Papong, K., Lücking, R., Thammathaworn, A. &amp; Boonpragob, K. (2009) Four new taxa of <em>Chroodiscus</em> (thelotremoid Graphidaceae) from Southeast Asia. <em>The Bryologist</em> 112: 152–163.</p><p> http://dx.doi.org/10.1639/0007-2745-112.1.152</p><p>Papong, K.B., Boonpragob, K., Mangold, A., Divakar, P.K. &amp; Lumbsch, H.T. (2010) Thelotremoid lichen species recently described from Thailand: a re-evaluation. <em>Lichenologist</em> 42: 131–137.</p><p> http://dx.doi.org/10.1017/s0024282909990405</p><p>Papong, K., Lücking, R., Kraichak, E., Parnmen, S., von Konrat, M. &amp; Lumbsch, H.T. (2014a) Twenty-three new species in the lichen family Graphidaceae from New Caledonia (Ostropales, Ascomycota). <em>Phytotaxa </em>189(1): 204–231.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.15</p><p>Papong, K., Mangold, A., Lücking, R. &amp; Lumbsch, H.T. (2014b) New species and new records of thelotremoid Graphidaceae (Ascomycota: Ostropales) from Thailand. <em>Phytotaxa </em>189(1): 232–244.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.16</p><p>Parnmen, S., Lücking, R. &amp; Lumbsch, H.T. (2012a) Phylogenetic classification at generic level in the absence of distinct phylogenetic patterns of phenotypical variation: A case study in Graphidaceae (Ascomycota). <em>PLoS ONE</em> 7(12): e51392.</p><p> http://dx.doi.org/10.1371/journal.pone.0051392</p><p>Parmnen, S., Rivas Plata, E., Lücking, R., Bawingan, P.A., Lisangan-Tabaquero, A., Kalb, K., Sipman, H.J.M. &amp; Lumbsch, H.T. (2012b) The lichen family Graphidaceae in the Philippines. The 7th IAL Symposium 2012 "Lichens: from genome to ecosystems in a changing world", 9th – 13th January 2012, Chaophya Park Hotel, Bangkok, Thailand. Book of Abstracts, The 7th Symposium of the International Association for Lichenology: 99.</p><p>Parnmen, S., Cáceres, M.E.S., Lücking, R. &amp; Lumbsch, H.T. (2013) <em>Myriochapsa</em> and <em>Nitidochapsa</em>, two new genera in Graphidaceae (Ascomycota: Ostropales) for chroodiscoid species in the <em>Ocellularia</em> clade. <em>The</em> <em>Bryologist</em> 116: 127–133.</p><p> http://dx.doi.org/10.1639/0007-2745-116.2.127</p><p>Pelaez, R.N., Moncada, B. &amp; Lücking, R. (2014) High diversity of <em>Ocellularia</em> (Ascomycota: Graphidaceae) in the Colombian Llanos, including two species new to science. <em>Phytotaxa </em>189(1): 245–254.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.17</p><p>Perlmutter, G.P., Lendemer, J.C., Guccion, J.C., Harris, R.C., Hodkinson, B.P., Kubilius, W.P., Lay, E. &amp; Schaefer, H.P. (2012) A provisional survey of lichen diversity in south-central South Carolina, U.S.A., from the 19th Tuckerman Lichen Workshop. <em>Opuscula Philolichenum</em> 11: 104–119.</p><p>Poengsungnoen, V., Manoch, L., Mongkolsuk, P. &amp; Kalb, K. (2014a) New species of Graphidaceae from Loei Province, Thailand. <em>Phytotaxa </em>189(1): 255–267.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.18</p><p>Poengsungnoen, V., Manoch, L., Mongkolsuk, P. Boonpragob, K., Parnmen, S., Lücking, R., Tehler, A. &amp; Lumbsch, H.T. (2014b) Phylogenetic analysis reveals two morphologically unique new species in the genera <em>Astrochapsa</em> and <em>Nitidochapsa</em> (lichenized Ascomycota: Graphidaceae). <em>Phytotaxa </em>189(1): 268–281.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.19</p><p>Radies, D., Coxson, D., Johnson, C. &amp; Konwicki, K. (2009) Predicting canopy macrolichen diversity and abundance within old-growth inland temperate rainforests. <em>Forest Ecology and Management</em> 259: 86–97.</p><p> http://dx.doi.org/10.1016/j.foreco.2009.09.046</p><p>Rincón-Espitia, A. &amp; Lücking, R. (2011) New records of the genus <em>Graphis</em> (Graphidaceae) in Colombia. <em>Tropical Bryology</em> 33: 54–62.</p><p>Rincón-Espitia, A., Aguirre-C.. J. &amp; Lücking, R. (2011) Líquenes corticícolas en el caribe Colombiano. <em>Caldasia</em> 33: 311–327.</p><p>Rivas Plata, E. &amp; Lücking, R. (2013) High diversity of Graphidaceae (Ascomycota: Ostropales) in Amazonian Peru. <em>Fungal Diversity</em> 58: 13–32.</p><p> http://dx.doi.org/10.1007/s13225-012-0172-y</p><p>Rivas Plata, E., Lücking, R. &amp; Lumbsch, H.T. (2008) When family matters: an analysis of Thelotremataceae (lichenized Ascomycota: Ostropales) as bioindicators of ecological continuity in tropical forests. <em>Biodiversity and Conservation </em>17: 1319–1351.</p><p> http://dx.doi.org/10.1007/s10531-007-9289-9</p><p>Rivas Plata, E., Lücking, R., Sipman, H.J.M., Mangold, A., Kalb, K. &amp; Lumbsch, H.T. (2010a) A world-wide key to the thelotremoid Graphidaceae, excluding the <em>Ocellularia</em>-<em>Myriotrema</em>-<em>Stegobolus</em> clade. <em>Lichenologist</em> 42: 139–185.</p><p> http://dx.doi.org/10.1017/s0024282909990491</p><p>Rivas Plata, E., Kalb, K. &amp; Frisch, A. (2010b) <em>Wirthiotrema</em>: a new genus for the <em>Thelotrema glaucopallens</em> group (Ascomycota: Ostropales: thelotremoid Graphidaceae). <em>Lichenologist</em> 42: 187–202.</p><p> http://dx.doi.org/10.1017/s0024282909990454</p><p>Rivas Plata, E., Lücking, R. &amp; Lumbsch, H.T. (2012a) A new classification for the family Graphidaceae (Ascomycota: Lecanoromycetes: Ostropales). <em>Fungal Diversity</em> 52: 107–121.</p><p> http://dx.doi.org/10.1007/s13225-011-0135-8</p><p>Rivas Plata, E., Lücking, R. &amp; Lumbsch, H.T. (2012b) Molecular phylogeny and systematics of the <em>Ocellularia</em>-clade (Ascomycota: Ostropales: Graphidaceae). <em>Taxon</em> 61: 1161–1179.</p><p>Rivas Plata E., Parnmen, S., Staiger, B., Mangold, A., Frisch, A., Weerakoon, G., Hernández M., J.E., Cáceres, M.E.S., Kalb, K., Sipman, H.J.M., Common, R.S., Nelsen, M.P., Lücking, R. &amp; Lumbsch, H.T. (2013) A molecular phylogeny of Graphidaceae (Ascomycota, Lecanoromycetes, Ostropales) including 428 species. <em>MycoKeys</em> 6: 55–94.</p><p> http://dx.doi.org/10.3897/mycokeys.6.3482</p><p>Rivas Plata, E., Sipman, H.J.M. &amp; Lücking, R. (2014) Five new thelotremoid Graphidaceae from the Philippines. <em>Phytotaxa </em>189(1): 282–288.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.20</p><p>Rosabal, D., Burgaz, A.R. &amp; Reyes, O.J. (2012) Diversidad y distribución vertical de líquenes corticícolas en la pluvisilva montana de la Gran Piedra, Cuba. <em>Botanica Complutensis</em> 36: 19–30.</p><p> http://dx.doi.org/10.5209/rev_bocm.2012.v36.39439</p><p>Sanders, H.L. (1968) Marine benthic diversity: A comparative study. <em>The American Naturalist</em> 102: 243–282.</p><p> http://dx.doi.org/10.1086/282541</p><p>Schumm, F. &amp; Aptroot, A. (2012a) <em>A microscopical atlas of some tropical lichens from SE-Asia: Thailand, Cambodia, Philippines, Vietnam. </em>Volume 1. Herstellung und Verlag, Norderstedt. 460 pp.</p><p>Schumm, F. &amp; Aptroot, A. (2012b) <em>A microscopical atlas of some tropical lichens from SE-Asia: Thailand, Cambodia, Philippines, Vietnam. </em>Volume 2. Herstellung und Verlag, Norderstedt. 432 pp.</p><p>Scotese, C.R. (2001) <em>Atlas of Earth History</em>. PALAEOMAP Project, Arlington.</p><p>Seavey, F. &amp; Seavey, J. (2011) The lichen genus <em>Graphis</em> (Graphidaceae) in Everglades National Park (Florida). <em>The Bryologist</em> 114: 764–784.</p><p> http://dx.doi.org/10.1639/0007-2745-114.4.764</p><p>Sérusiaux, E., Brand, A.M., Fischer, E., Killmann, D., van den Boom, P.P.G. &amp; Ertz, D. (2009) A new species of <em>Melanotopelia</em> (Graphidaceae) from Africa. <em>Lichenologist</em> 41: 243–247.</p><p> http://dx.doi.org/10.1017/s0024282909008718</p><p>Sharma, B.O. &amp; Khadilkar, P. (2011) Two new species in the lichen family Graphidaceae from India. <em>Lichenologist</em> 43: 487–490.</p><p> http://dx.doi.org/10.1017/s0024282911000442</p><p>Sharma, B.O. &amp; Khadilkar, P. (2012) Four new species of <em>Diorygma</em> from India. <em>Mycotaxon</em> 119: 1–10.</p><p> http://dx.doi.org/10.5248/119.1</p><p>Sharma, B.O. &amp; Makhija, U. (2009a) Four new species in the lichen genus <em>Diorygma</em>. <em>Mycotaxon</em> 108: 87–94.</p><p>Sharma, B.O. &amp; Makhija, U. (2009b) New species and new reports of <em>Diorygma</em> (lichenized Ascomycotina, Graphidaceae) from India. <em>Mycotaxon</em> 109: 209–217.</p><p> http://dx.doi.org/10.5248/109.209</p><p>Sharma, B.O., Makhija, U. &amp; Khadilkar, P. (2010a) A new species of <em>Anomomorpha</em> (Graphidaceae) from India. <em>Lichenologist</em> 42: 281–283.</p><p> http://dx.doi.org/10.1017/s0024282909990545</p><p>Sharma, B.O., Makhija, U. &amp; Khadilkar, P. (2010b) New species and records of the lichen genus <em>Acanthothecis</em> (Graphidaceae) from India. <em>Lichenologist</em> 42: 547–555.</p><p> http://dx.doi.org/10.1017/s0024282910000253</p><p>Sharma, B.O., Khadilkar, P. &amp; Makhija, U. (2012) New species and new combinations in the lichen genera <em>Fissurina</em> and <em>Hemithecium</em> from India. <em>Lichenologist</em> 44: 339–362.</p><p> http://dx.doi.org/10.1017/s0024282911000752</p><p>Singh, K.P. &amp; Sinha, G.P. (2010) <em>Indian Lichens. An Annotated Checklist</em>. Botanical Survey of India, Ministry of Environment and Forests, M/S Bishen Singh Mahendra pal Singh, Uttarakhand.</p><p>Sipman, H.J.M. (2001) Listado básico de la flora Salvadorensis. Lichenes. <em>Cuscatlania</em> 1(11): 1–34.</p><p>Sipman, H.J.M. (2014) New species of Graphidaceae from the Neotropics and Southeast Asia. <em>Phytotaxa </em>189(1): 289–311.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.21</p><p>Sipman, H.J.M. &amp; Aptroot, A. (2001) Where are the missing lichens? <em>Mycological Research</em> 105: 1433–1439.</p><p> http://dx.doi.org/10.1017/s0953756201004932</p><p>Sipman, H.J.M., Lücking, R., Aptroot, A., Kalb, K., Chaves, J.L. &amp; Umaña, L. (2012) A first assessment of the Ticolichen biodiversity inventory in Costa Rica and adjacent areas: the thelotremoid Graphidaceae (Ascomycota: Ostropales). <em>Phytotaxa</em> 55: 1–214.</p><p>Smith, E.P &amp; Van Belle, G. (1984) Nonparametric estimation of species richness. <em>Biometrics</em> 40: 119–129.</p><p> http://dx.doi.org/10.2307/2530750</p><p>Soto-Medina, E., Lücking, R. &amp; Bolaños Rojas, A. (2012) Especificidad de forófito y preferencias micro-ambientales de los líquenes cortícolas en el bosque premontano de la finca Zíngara, Cali, Colombia. <em>Revista de Biología Tropical</em> 60: 843–856.</p><p>Staiger, B. (2002) Die Flechtenfamilie Graphidaceae. Studien in Richtung einer natürlicheren Gliederung. <em>Bibliotheca Lichenologica</em> 85: 1–526.</p><p>Staiger, B. &amp; Kalb, K. (1999) <em>Acanthothecis</em> and other graphidioid lichens with warty periphysoids or paraphysis-tips. <em>Mycotaxon</em> 73: 69–134.</p><p>Staiger, B., Kalb, K. &amp; Grube, M. (2006). Phylogeny and phenotypic variation in the lichen family Graphidaceae (Ostropomycetidae, Ascomycota). <em>Mycological Research</em> 110: 765–772.</p><p> http://dx.doi.org/10.1016/j.mycres.2006.05.003</p><p>Sutjaritturakan, J., Saipunkaew, W., Boonpragob, K. &amp; Kalb, K. (2014) New species of Graphidaceae (Ostropales, Lecanoromycetes) from southern Thailand. <em>Phytotaxa </em>189(1): 312–324.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.22</p><p>Tehler, A., Baloch, E., Tibell, L. &amp; Wedin, M. (2009) The systematic position of <em>Schistophoron</em>. <em>Bibliotheca Lichenologica</em> 99: 383–392.</p><p>Tewari, V. &amp; Upreti, D.K. (2007a) Some additions to the graphidaceous lichen flora of India. <em>Annals of Forestry</em> 15: 91–96.</p><p>Tewari, V. &amp; Upreti, D.K. (2007b) A new record of lichen genus <em>Hemithecium</em> Trevis. (Graphidaceae) from India. <em>Annals of Forestry</em> 15: 145–147.</p><p>Tripp, E.A., Lendemer, J.C. &amp; Harris, R.C. (2010) Resolving the genus <em>Graphina</em> Müll. Arg. in North America: new species, new combinations, and treatments for <em>Acanthothecis</em>, <em>Carbacanthographis</em>, and <em>Diorygma</em>. <em>Lichenologist</em> 42: 55–71.</p><p> http://dx.doi.org/10.1017/s0024282909990296</p><p>Upreti, D.K., Dubey, U. &amp; Nayaka, S. (2011) A new isidiate species of <em>Hemithecium</em> Trevis. (Ascomycota, Graphidaceae) from India. <em>Lichenologist</em> 43: 483–485.</p><p> http://dx.doi.org/10.1017/s0024282911000430</p><p>Vainio, E.A. (1921) Lichenes insularum Philippinarum III. [Ser. A] <em>Annales Academia Scientia Fennica,</em> 15(6): 1–368.</p><p>van den Boom, P.P.G., Elix, J.A. &amp; Sipman, H.J.M. (2007) New or interesting lichen records from Guatemala I. <em>Willdenowia</em> 37: 363–375.</p><p>van Den Boom, P.P.G. &amp; Sipman, H.J.M. (2013) Sixty-two species of lirelliform Graphidaceae (Ascomycota) new to Panama, including four species new to science. <em>Herzogia</em> 26: 9–20.</p><p> http://dx.doi.org/10.13158/heia.26.1.2013.9</p><p>Van den Broeck, D., Lücking, R. &amp; Ertz, D. (2014) Three new species of Graphidaceae from tropical Africa.<em> Phytotaxa </em>189(1): 325–330.</p><p> http://dx.doi.org/10.11646/phytotaxa.189.1.23</p><p>Velázquez, A., Cué-Bär, E. M., Larrazábal, A., Sosa, N., Villaseñor, J.L., McCall, M., &amp; Ibarra-Manríquez, G. (2009) Building participatory landscape-based conservation alternatives: A case study of Michoacán, Mexico. <em>Applied Geography</em> 29: 513–526.</p><p> http://dx.doi.org/10.1016/j.apgeog.2008.11.001</p><p>Villaseñor, J.L., Delgadillo, C. &amp; Ortiz, E. (2006) Biodiversity hotspots from a multigroup perspective: mosses and senecios in the transmexican volcanic belt. <em>Biodiversity and Conservation</em> 15: 4045–4058.</p><p> http://dx.doi.org/10.1007/s10531-005-3056-6</p><p>Walther, B.A.</p></p>
+					</div>
+		<br />
+		</div>
+	
+							<br />
+		<br />
+		DOI: <a id="pub-id::doi" href="https://doi.org/10.11646/phytotaxa.189.1.4">https://doi.org/10.11646/phytotaxa.189.1.4</a>																				
+
+<div class="separator"></div>
+
+<h3>Refbacks</h3>
+
+<ul>
+				<li>There are currently no refbacks.</li>
+	</ul>
+
+
+		
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_id=https%3A%2F%2Fwww.biotaxa.org%2FPhytotaxa%2Farticle%2Fview%2F9277&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.title=Phytotaxa&amp;rft.jtitle=Phytotaxa&amp;rft.atitle=%3Cstrong%3EOne+hundred+and+seventy-five+new+species+of+Graphidaceae%3A+closing+the+gap+or+a+drop+in+the+bucket%3F%3C%2Fstrong%3E&amp;rft.artnum=phytotaxa.189.1.4&amp;rft.stitle=Phytotaxa&amp;rft.volume=189&amp;rft.issue=1&amp;rft.aulast=L%C3%9CCKING&amp;rft.aufirst=ROBERT&amp;rft.auinit=&amp;rft.date=2014-12-19&amp;rft.au=ROBERT+L%C3%9CCKING&amp;rft.au=MARK+K.+JOHNSTON&amp;rft.au=ANDR%C3%89+APTROOT&amp;rft.au=EKAPHAN+KRAICHAK&amp;rft.au=JAMES+C.+LENDEMER&amp;rft.au=KANSRI+BOONPRAGOB&amp;rft.au=MARCELA+E.+S.+C%C3%81CERES&amp;rft.au=DAMIEN+ERTZ&amp;rft.au=LIDIA+ITATI+FERRARO&amp;rft.au=ZE-FENG+JIA&amp;rft.au=KLAUS+KALB&amp;rft.au=ARMIN+MANGOLD&amp;rft.au=LEKA+MANOCH&amp;rft.au=JOEL+A.+MERCADO-D%C3%8DAZ&amp;rft.au=BIBIANA+MONCADA&amp;rft.au=PACHARA+MONGKOLSUK&amp;rft.au=KHWANRUAN+BUTSATORN+PAPONG&amp;rft.au=SITTIPORN+PARNMEN&amp;rft.au=ROUCHI+N.+PEL%C3%81EZ&amp;rft.au=VASUN+POENGSUNGNOEN&amp;rft.au=EIMY+RIVAS+PLATA&amp;rft.au=WANARUK+SAIPUNKAEW&amp;rft.au=HARRIE+J.+M.+SIPMAN&amp;rft.au=JUTARAT+SUTJARITTURAKAN&amp;rft.au=DRIES+VAN+DEN+BROECK&amp;rft.au=MATT+VON+KONRAT&amp;rft.au=GOTHAMIE+WEERAKOON&amp;rft.au=H.+THORSTEN+LUMBSCH&amp;rft_id=info%3Adoi%2F10.11646%2Fphytotaxa.189.1.4&amp;rft.pages=7%E2%80%9338&amp;rft.issn=1179-3155&amp;rft.eissn=1179-3163"></span>
+<!-- Google Analytics -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89286081-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<!-- End Google Analytics -->
+<br /><br />
+<p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;"><img src="/public/site/images/mapress/mpicon.gif" alt="" /></span></p><p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN <span lang="EN-AU">1179-3155 (print); </span></span><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN 1179-3163 (online)</span></p><p>Published by <a title="Magnolia Press" href="http://www.mapress.com/phytotaxa/index.htm" target="_blank">Magnolia Press</a>, Auckland, New Zealand</p><div> </div>
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+<script type="text/javascript">
+
+<!--
+	// Open "Define Terms" context when double-clicking any text
+	function openSearchTermWindow(url) {
+		var term;
+		if (window.getSelection) {
+			term = window.getSelection();
+		} else if (document.getSelection) {
+			term = document.getSelection();
+		} else if(document.selection && document.selection.createRange && document.selection.type.toLowerCase() == 'text') {
+			var range = document.selection.createRange();
+			term = range.text;
+		}
+		if (term != ""){
+			if (url.indexOf('?') > -1) openRTWindowWithToolbar(url + '&defineTerm=' + term);
+			else openRTWindowWithToolbar(url + '?defineTerm=' + term);
+		}
+	}
+
+	if(document.captureEvents) {
+		document.captureEvents(Event.DBLCLICK);
+	}
+
+	// Make sure to only open the reading tools when double clicking within the galley
+	if (document.getElementById('inlinePdfResizer')) {
+		context = document.getElementById('inlinePdfResizer');
+	}
+	else if (document.getElementById('content')) {
+		context = document.getElementById('content');
+	}
+	else {
+		context = document;
+	}
+
+	context.ondblclick = new Function("openSearchTermWindow('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.189.1.4/0/446')");
+// -->
+
+</script>
+
+
+</div> <!-- container -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"4f72ad4ec1","applicationID":"416471445","transactionName":"ZF0AZkZRWRVUVEINDF0XN0BdH14IUVJOShNbSA==","queueTime":0,"applicationTime":508,"atts":"SBoDEA5LShs=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

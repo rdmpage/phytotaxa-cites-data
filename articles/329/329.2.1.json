@@ -1,0 +1,844 @@
+[
+  {
+    "author": [
+      {
+        "family": "Amano",
+        "given": "T."
+      },
+      {
+        "family": "Lamming",
+        "given": "J.D.L."
+      },
+      {
+        "family": "Sutherland",
+        "given": "W.J."
+      }
+    ],
+    "title": "Spatial gaps in Global Biodiversity Information and the role of Citizen Science",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "BioScience",
+    "issued": "2016",
+    "page": "393–400",
+    "URL": "https://doi.org/10.1093/biosci/biw022",
+    "DOI": "10.1093/biosci/biw022"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Angiosperm Phylogeny"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV",
+    "volume": "181",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2016",
+    "page": "1–20",
+    "URL": "http://doi.org/10.1111/boj.12385",
+    "DOI": "10.1111/boj.12385"
+  },
+  {
+    "author": [
+      {
+        "family": "Bebber",
+        "given": "D.P."
+      },
+      {
+        "family": "Carine",
+        "given": "M.A."
+      },
+      {
+        "family": "Wood",
+        "given": "J.R."
+      },
+      {
+        "family": "Wortley",
+        "given": "A.H."
+      },
+      {
+        "family": "Harris",
+        "given": "D.J."
+      },
+      {
+        "family": "Prance",
+        "given": "G.T."
+      },
+      {
+        "family": "Davidse",
+        "given": "G."
+      },
+      {
+        "family": "Paige",
+        "given": "J."
+      },
+      {
+        "family": "Pennington",
+        "given": "T.D."
+      },
+      {
+        "family": "Robson",
+        "given": "N.K."
+      },
+      {
+        "family": "Scotland",
+        "given": "R.W."
+      }
+    ],
+    "title": "Herbaria are a major frontier for species discovery",
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "volume": "107",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "22169–22171",
+    "URL": "http://doi.org/10.1073/pnas.1011841108",
+    "DOI": "10.1073/pnas.1011841108"
+  },
+  {
+    "author": [
+      {
+        "family": "Becker",
+        "given": "R.A."
+      },
+      {
+        "family": "Wilks",
+        "given": "A.R."
+      },
+      {
+        "family": "Brownrigg",
+        "given": "R."
+      }
+    ],
+    "title": "mapdata: Extra Map Databases",
+    "genre": "R package version 2.2-6.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "https://CRAN.R-project.org/package=mapdata"
+  },
+  {
+    "author": [
+      {
+        "family": "Becker",
+        "given": "R.A."
+      },
+      {
+        "family": "Wilks",
+        "given": "A.R."
+      },
+      {
+        "family": "Brownrigg",
+        "given": "Minka"
+      },
+      {
+        "given": "R.T."
+      },
+      {
+        "family": "Deckmyn",
+        "given": "A."
+      }
+    ],
+    "title": "maps: Draw Geographical Maps",
+    "genre": "R package version 3.1.0.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "https://CRAN.R-project.org/package=maps"
+  },
+  {
+    "author": [
+      {
+        "family": "Bradford",
+        "given": "J.C."
+      },
+      {
+        "family": "Barnes",
+        "given": "R.W."
+      }
+    ],
+    "title": "Phylogenetics and classification of Cunoniaceae (Oxalidales) using chloroplast DNA sequences and morphology",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2001",
+    "page": "354–385"
+  },
+  {
+    "author": [
+      {
+        "family": "Brako",
+        "given": "L."
+      },
+      {
+        "family": "Zarucchi",
+        "given": "J.L."
+      }
+    ],
+    "title": "Catalogue of the flowering plants and gymnosperms of Peru",
+    "type": "article-journal",
+    "container-title": "Missouri Botanical Garden Press, St. Louis, Mo",
+    "issued": "1993",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Britton",
+        "given": "N.L."
+      },
+      {
+        "family": "South America",
+        "given": "H.H.Rusby",
+        "particle": "in"
+      }
+    ],
+    "title": "An enumeration of the plants collected by Dr",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1889",
+    "page": "153–160",
+    "URL": "https://doi.org/10.2307/2475767",
+    "DOI": "10.2307/2475767"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuatrecasas",
+        "given": "J."
+      }
+    ],
+    "title": "Notas a la Flora de Columbia V",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturale",
+    "issued": "1942",
+    "page": "16–39"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuatrecasas",
+        "given": "J."
+      }
+    ],
+    "title": "Brunelliaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica",
+    "issued": "1970",
+    "page": "1–188"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuatrecasas",
+        "given": "J."
+      }
+    ],
+    "title": "Brunelliaceae (Supplement",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica",
+    "issued": "1985",
+    "page": "28–103"
+  },
+  {
+    "author": [
+      {
+        "family": "Diels",
+        "given": "F.L."
+      }
+    ],
+    "title": "Neue Arten aus Ecuador–III",
+    "container-title": "Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem",
+    "volume": "15",
+    "type": "chapter",
+    "issued": "1940",
+    "page": "23–58",
+    "URL": "https://doi.org/10.2307/3995090",
+    "DOI": "10.2307/3995090"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "title": "Brunelliaceae",
+    "editor": [
+      {
+        "family": "A.",
+        "given": "Engler"
+      },
+      {
+        "given": "Prantl"
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien 1",
+    "type": "chapter",
+    "issued": "1897",
+    "page": "182–184",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Goodwin",
+        "given": "Z.A."
+      },
+      {
+        "family": "Harris",
+        "given": "D.J."
+      },
+      {
+        "family": "Filer",
+        "given": "D."
+      },
+      {
+        "family": "Wood",
+        "given": "J.R."
+      },
+      {
+        "family": "Scotland",
+        "given": "R.W."
+      }
+    ],
+    "title": "Widespread mistaken identity in tropical plant collections",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Current Biology",
+    "issued": "2015",
+    "page": "1066– 1067",
+    "URL": "https://doi.org/10.1016/j.cub.2015.10.002",
+    "DOI": "10.1016/j.cub.2015.10.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Heibl",
+        "given": "C."
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      }
+    ],
+    "title": "Distribution models and a dated phylogeny for Chilean Oxalis species reveal occupation of new habitats by different lineages, not rapid adaptive radiation",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "823–834",
+    "URL": "http://doi.org/10.1093/sysbio/sys034",
+    "DOI": "10.1093/sysbio/sys034"
+  },
+  {
+    "author": [
+      {
+        "family": "Humboldt",
+        "given": "A."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A."
+      }
+    ],
+    "title": "Brunellia",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Plantae Equinotiales",
+    "issued": "1808",
+    "page": "210–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Jørgensen",
+        "given": "P.M."
+      },
+      {
+        "family": "Nee",
+        "given": "M.H."
+      },
+      {
+        "family": "Beck",
+        "given": "S.G."
+      }
+    ],
+    "title": "Catálogo de las plantas vasculares de Bolivia",
+    "volume": "Mo",
+    "type": "article-journal",
+    "container-title": "Missouri Botanical Garden Press, St. Louis",
+    "issued": "2014",
+    "page": "880"
+  },
+  {
+    "author": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "title": "Brunelliaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "publisher": "Springer",
+    "type": "book",
+    "issued": "2004",
+    "page": "26–28",
+    "publisher-place": "Berlin, Heidelberg",
+    "URL": "https://doi.org/10.1007/978-3-662-07257-8_5",
+    "DOI": "10.1007/978-3-662-07257-8_5"
+  },
+  {
+    "author": [
+      {
+        "family": "León",
+        "given": "B."
+      }
+    ],
+    "title": "Brunelliaceae endémicas del Perú",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Revista Peruana de Biología",
+    "issue": "2",
+    "issued": "2006",
+    "page": "188– 189"
+  },
+  {
+    "author": [
+      {
+        "family": "Loesener",
+        "given": "T."
+      }
+    ],
+    "title": "Brunelliaceae andinae. Botanische Jahrbücher für Systematik",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1906",
+    "page": "531–534"
+  },
+  {
+    "author": [
+      {
+        "family": "Macbride",
+        "given": "J.F."
+      }
+    ],
+    "title": "New or renamed Spermatophytes mostly Peruvian",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Candollea",
+    "issued": "1934",
+    "page": "346–402"
+  },
+  {
+    "author": [
+      {
+        "family": "Macbride",
+        "given": "J.F."
+      }
+    ],
+    "title": "Cunoniaceae",
+    "editor": [
+      {
+        "family": "Macbride",
+        "given": "J.F."
+      }
+    ],
+    "container-title": "Flora of Peru. Publications of the Field Museum of Natural History, Botanical Series",
+    "volume": "13",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1938",
+    "page": "1039–1043"
+  },
+  {
+    "author": [
+      {
+        "family": "Mutke",
+        "given": "J."
+      },
+      {
+        "family": "Jacobs",
+        "given": "R."
+      },
+      {
+        "family": "Meyers",
+        "given": "K."
+      },
+      {
+        "family": "Henning",
+        "given": "T."
+      },
+      {
+        "family": "Weigend",
+        "given": "M."
+      }
+    ],
+    "title": "Diversity patterns of selected Andean plant groups correspond to topography and habitat dynamics, not orogeny",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Frontiers in Genetics",
+    "issued": "2014",
+    "URL": "https://doi.org/10.3389/fgene.2014.00351",
+    "DOI": "10.3389/fgene.2014.00351"
+  },
+  {
+    "author": [
+      {
+        "family": "Mutke",
+        "given": "J."
+      },
+      {
+        "family": "Böhnert",
+        "given": "T."
+      },
+      {
+        "family": "Weigend",
+        "given": "M."
+      }
+    ],
+    "title": "Save last cloud forests in western Andes",
+    "volume": "541",
+    "type": "article-journal",
+    "container-title": "Nature",
+    "issued": "2017",
+    "page": "157",
+    "URL": "https://doi.org/10.1038/541157e",
+    "DOI": "10.1038/541157e"
+  },
+  {
+    "author": [
+      {
+        "family": "Orozco Pardo",
+        "given": "C.I."
+      }
+    ],
+    "title": "Pollen morphology of Brunellia (Brunelliaceae) and related taxa in the Cunoniaceae",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Grana",
+    "issued": "2001",
+    "page": "245–255",
+    "URL": "http://doi.org/10.1080/00173130152987490",
+    "DOI": "10.1080/00173130152987490"
+  },
+  {
+    "author": [
+      {
+        "family": "Orozco Pardo",
+        "given": "C.I."
+      }
+    ],
+    "title": "Evolutionary biology of Brunellia Ruiz & Pavón (Brunelliaceae, Oxalidales",
+    "container-title": "Academia Colombiana de Ciencias Exactas, Físicas y Naturales",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "194",
+    "publisher-place": "Bogotá, D.C., Colombia"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "R.Core"
+      }
+    ],
+    "title": "R: A language and environment for statistical computing. R Foundation for Statistical Computing",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "publisher-place": "Vienna, Austria",
+    "URL": "http://www.R-project.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "RStudio"
+      }
+    ],
+    "title": "RStudio: Integrated Development Environment for R",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "publisher-place": "Boston, MA",
+    "URL": "http://www.rstudio.com/"
+  },
+  {
+    "author": [
+      {
+        "family": "L.H.",
+        "given": "Ruiz"
+      },
+      {
+        "family": "J.A",
+        "given": "Pavón"
+      }
+    ],
+    "title": "Brunellia. Florae peruvianae et chilensis prodromus",
+    "type": null,
+    "issued": "1794",
+    "page": "71 , 12"
+  },
+  {
+    "author": [
+      {
+        "family": "L.H.",
+        "given": "Ruiz"
+      },
+      {
+        "family": "J.A",
+        "given": "Pavón"
+      }
+    ],
+    "title": "Virgularia",
+    "editor": [
+      {
+        "family": "Ruiz",
+        "given": "L.H."
+      },
+      {
+        "family": "Pavón",
+        "given": "J.A."
+      }
+    ],
+    "container-title": "Systema Vegetabilium Florae Peruvianae et Chilensis, Typis Gabrielis de Sancha",
+    "type": "chapter",
+    "issued": "1798",
+    "page": "126–127"
+  },
+  {
+    "author": [
+      {
+        "family": "Swenson",
+        "given": "J.J."
+      },
+      {
+        "family": "Young",
+        "given": "B.E."
+      },
+      {
+        "family": "Beck",
+        "given": "S."
+      },
+      {
+        "family": "Comer",
+        "given": "P."
+      },
+      {
+        "family": "Córdova",
+        "given": "J.H."
+      },
+      {
+        "family": "Dyson",
+        "given": "J."
+      },
+      {
+        "family": "Embert",
+        "given": "D."
+      },
+      {
+        "family": "Encarnación",
+        "given": "F."
+      },
+      {
+        "family": "Ferreira",
+        "given": "W."
+      },
+      {
+        "family": "Franke",
+        "given": "I."
+      },
+      {
+        "family": "Grossman",
+        "given": "D."
+      },
+      {
+        "family": "Hernandez",
+        "given": "P."
+      },
+      {
+        "family": "Herzog",
+        "given": "S.K."
+      },
+      {
+        "family": "Josse",
+        "given": "C."
+      },
+      {
+        "family": "Navarro",
+        "given": "G."
+      },
+      {
+        "family": "Pacheco",
+        "given": "V."
+      },
+      {
+        "family": "Stein",
+        "given": "B.A."
+      },
+      {
+        "family": "Timaná",
+        "given": "M."
+      },
+      {
+        "family": "Tovar",
+        "given": "A."
+      },
+      {
+        "family": "Tovar",
+        "given": "C."
+      },
+      {
+        "family": "Vargas",
+        "given": "J."
+      },
+      {
+        "family": "Zambrana-Torrelio",
+        "given": "C.M."
+      }
+    ],
+    "title": "Plant and animal endemism in the eastern Andean slope: challenges to conservation",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "BMC Ecology",
+    "issued": "2012",
+    "page": "1",
+    "URL": "http://doi.org/10.1186/1472-6785-12-1",
+    "DOI": "10.1186/1472-6785-12-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Tobler",
+        "given": "M."
+      },
+      {
+        "family": "Honorio",
+        "given": "E."
+      },
+      {
+        "family": "Janovec",
+        "given": "J."
+      },
+      {
+        "family": "Reynel",
+        "given": "C."
+      }
+    ],
+    "title": "Implications of collection patterns of botanical specimens on their usefulness for conservation planning. An example of two neotropical plant families (Moraceae and Myristicaceae) in Peru",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Biodiversity and Conservation",
+    "issued": "2007",
+    "page": "659–677",
+    "URL": "http://doi.org/10.1007/s10531-005-3373-9",
+    "DOI": "10.1007/s10531-005-3373-9"
+  },
+  {
+    "author": [
+      {
+        "family": "Tulasne",
+        "given": "L.R."
+      }
+    ],
+    "title": "Flore de la Colombie",
+    "volume": "3 7",
+    "type": "article-journal",
+    "container-title": "Plantes Nouvelles. Annales des Sciences Naturelles; Botanique, sér",
+    "issued": "1847",
+    "page": "257–296"
+  },
+  {
+    "author": [
+      {
+        "family": "Weigend",
+        "given": "M."
+      }
+    ],
+    "title": "Observations on the biogeography of the Amotape-Huancabamba Zone in northern Peru",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Botanical Review",
+    "issued": "2002",
+    "page": "38–54",
+    "URL": "http://doi.org/10.1663/0006-8101(2002)068",
+    "DOI": "10.1663/0006-8101(2002)068"
+  },
+  {
+    "author": [
+      {
+        "family": "Weigend",
+        "given": "M."
+      }
+    ],
+    "title": "Additional observations on the biogeography of the Amotape Huancabamba zone in Northern Peru: Defining the South-Eastern limits",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Revista Peruana de Biología",
+    "issued": "2004",
+    "page": "127–134"
+  },
+  {
+    "author": [
+      {
+        "family": "Wickham",
+        "given": "H."
+      }
+    ],
+    "title": "scales: Scale Functions for Visualization",
+    "genre": "R package version 0.4.0.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "https://CRAN.R-project.org/package=scales"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "W."
+      },
+      {
+        "family": "Ma",
+        "given": "K."
+      },
+      {
+        "family": "Kreft",
+        "given": "H."
+      }
+    ],
+    "title": "Geographical sampling bias in a large distributional database and its effects on species richness-environment models",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2013",
+    "page": "1415–1426",
+    "URL": "http://doi.org/10.1111/jbi.12108",
+    "DOI": "10.1111/jbi.12108"
+  }
+]

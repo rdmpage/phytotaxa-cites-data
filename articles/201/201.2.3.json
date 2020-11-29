@@ -1,0 +1,663 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ball",
+        "given": "P.W."
+      },
+      {
+        "family": "Getliffe",
+        "given": "F.M."
+      }
+    ],
+    "title": "Satureja, Acinos, Clinopodium, Calamintha",
+    "publisher": "In",
+    "editor": [
+      {
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "163–167",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H., Walters"
+  },
+  {
+    "author": [
+      {
+        "family": "F.M",
+        "given": "Bieberstein"
+      }
+    ],
+    "title": "Flora Taurico-Caucasica",
+    "publisher": "Typis Academicis, Kharkiv",
+    "type": "book",
+    "issued": "1808",
+    "page": "477"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "P.E."
+      }
+    ],
+    "title": "Flora Orientalis",
+    "volume": "4",
+    "editor": [
+      {
+        "family": "Georg",
+        "given": "H."
+      },
+      {
+        "family": "Basel",
+        "given": "Genève"
+      }
+    ],
+    "type": null,
+    "issued": "1879",
+    "page": "568–575"
+  },
+  {
+    "author": [
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      },
+      {
+        "family": "Meimberg",
+        "given": "H."
+      },
+      {
+        "family": "Abele",
+        "given": "T."
+      },
+      {
+        "family": "Heubl",
+        "given": "G."
+      }
+    ],
+    "title": "Polyphyly of the genus Micromeria Benth. (Lamiaceae) evidence from cpDNA sequence data",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2005",
+    "page": "639–650",
+    "URL": "http://dx.doi.org/10.2307/25065421",
+    "DOI": "10.2307/25065421"
+  },
+  {
+    "author": [
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      },
+      {
+        "family": "Meimberg",
+        "given": "H."
+      },
+      {
+        "family": "Heubl",
+        "given": "G."
+      }
+    ],
+    "title": "New names in Old World Clinopodium: the transfer of the species of Micromeria sect",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Pseudomelissa to Clinopodium. Taxon",
+    "issued": "2006",
+    "page": "977–981",
+    "URL": "http://dx.doi.org/10.2307/25065692",
+    "DOI": "10.2307/25065692"
+  },
+  {
+    "author": [
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      },
+      {
+        "family": "Meimberg",
+        "given": "H."
+      },
+      {
+        "family": "Heubl",
+        "given": "G."
+      }
+    ],
+    "title": "Molecular phylogeny of Menthinae (Lamiaceae, Nepetoideae, Mentheae) taxonomy, biogeography and conflicts",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2010",
+    "page": "501–523",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2010.01.016",
+    "DOI": "10.1016/j.ympev.2010.01.016"
+  },
+  {
+    "author": [
+      {
+        "family": "Bräuchler",
+        "given": "C."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      },
+      {
+        "family": "Heubl",
+        "given": "G."
+      }
+    ],
+    "title": "The genus Micromeria (Lamiaceae), a synoptical update",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2008",
+    "page": "363–410",
+    "URL": "http://dx.doi.org/10.3372/wi.38.38202",
+    "DOI": "10.3372/wi.38.38202"
+  },
+  {
+    "author": [
+      {
+        "family": "Dirmenci",
+        "given": "T."
+      }
+    ],
+    "title": "Clinopodium L",
+    "editor": [
+      {
+        "family": "Güner",
+        "given": "A."
+      },
+      {
+        "family": "Aslan",
+        "given": "S."
+      },
+      {
+        "family": "Ekim",
+        "given": "T."
+      },
+      {
+        "family": "Vural",
+        "given": "M."
+      },
+      {
+        "family": "Babaç",
+        "given": "M.T."
+      }
+    ],
+    "container-title": "Türkiye Bitkileri Listesi (Damarlı Bitkiler), İstanbul: Nezahat Gökyiğit Botanik Bahçesi ve Flora Araştırmaları Derneği Yayını",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "550–553"
+  },
+  {
+    "author": [
+      {
+        "family": "Dirmenci",
+        "given": "T."
+      },
+      {
+        "family": "Dundar",
+        "given": "E."
+      },
+      {
+        "family": "Deniz",
+        "given": "G."
+      },
+      {
+        "family": "Arabacı",
+        "given": "T."
+      },
+      {
+        "family": "Martin",
+        "given": "E."
+      },
+      {
+        "family": "Jamzad",
+        "given": "Z."
+      }
+    ],
+    "title": "Morphological, karyological and phylogenetic evaluation of Cyclotrichium: a piece in the tribe Mentheae puzzle",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Turkish Journal of Botany",
+    "issued": "2010",
+    "page": "159–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Fırat",
+        "given": "M."
+      }
+    ],
+    "title": "Ferhenga Navên Riwekên Bi Kurdî/Kürtçe Bitki Adları Sözlüğü / Dictionary of Plant Names in Kurdish",
+    "genre": "Kalkan Ofset,",
+    "publisher": "Ankara",
+    "type": null,
+    "issued": "2013",
+    "page": "652"
+  },
+  {
+    "author": [
+      {
+        "family": "Fırat",
+        "given": "M."
+      },
+      {
+        "family": "Dirmenci",
+        "given": "T."
+      }
+    ],
+    "title": "Clinopodium hakkaricum (Lamiacee), a new species from Turkey",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Annales Botanici Fennici",
+    "issued": "2009",
+    "page": "451–455",
+    "URL": "http://dx.doi.org/10.5735/085.046.0514",
+    "DOI": "10.5735/085.046.0514"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R.H.A."
+      }
+    ],
+    "title": "World checklist of selected plant families published update. Facilitated by the Trustees of the Royal Botanic Gardens, Kew",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://apps.kew.org/wcsp/prepareChecklist.do;jsessionid=5B0914DAE8D7B6455E044FBBDE534973?checklist=selected_families%40%40352181220142014988"
+  },
+  {
+    "author": [
+      {
+        "family": "Güner",
+        "given": "A."
+      },
+      {
+        "family": "Özhatay",
+        "given": "N."
+      },
+      {
+        "family": "Ekim",
+        "given": "T."
+      },
+      {
+        "family": "Başer",
+        "given": "K.H.C."
+      }
+    ],
+    "title": "Flora of Turkey and the East Aegean Islands",
+    "volume": "11",
+    "publisher": "Edinburgh University Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "197–210",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Harley",
+        "given": "R.M."
+      },
+      {
+        "family": "Granda",
+        "given": "A.P."
+      }
+    ],
+    "title": "List of species of Tropical American Clinopodium (Labiatae), with new combinations",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2000",
+    "page": "917–927",
+    "URL": "http://dx.doi.org/10.2307/4113638",
+    "DOI": "10.2307/4113638"
+  },
+  {
+    "author": [
+      {
+        "family": "Harley",
+        "given": "R.M."
+      },
+      {
+        "family": "Atkins",
+        "given": "S."
+      },
+      {
+        "family": "Budantsev",
+        "given": "A.L."
+      },
+      {
+        "family": "Cantino",
+        "given": "P.D."
+      },
+      {
+        "family": "Conn",
+        "given": "B.J."
+      },
+      {
+        "family": "Grayer",
+        "given": "R."
+      },
+      {
+        "family": "Harley",
+        "given": "M.M."
+      },
+      {
+        "family": "Kok",
+        "given": "R."
+      },
+      {
+        "family": "Krestovskaja",
+        "given": "T."
+      },
+      {
+        "family": "Morales",
+        "given": "R."
+      },
+      {
+        "family": "Paton",
+        "given": "A.J."
+      },
+      {
+        "family": "Ryding",
+        "given": "O."
+      },
+      {
+        "family": "Upson",
+        "given": "T."
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "J.W",
+        "given": "Kaderit"
+      }
+    ],
+    "container-title": "The families and genera of vascular plants",
+    "volume": "7",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "238–242",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaya",
+        "given": "A."
+      },
+      {
+        "family": "Kutluk",
+        "given": "H."
+      }
+    ],
+    "title": "Pollen Morphology of Acinos Miller Species Growing in Turkey",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Journal of Integrative Plant Biology",
+    "issued": "2007",
+    "page": "1386–1392",
+    "URL": "http://dx.doi.org/10.1111/j.1744-7909.2007.00453.x",
+    "DOI": "10.1111/j.1744-7909.2007.00453.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Generum Plantarum 2",
+    "editor": [
+      {
+        "family": "Felix",
+        "given": "A."
+      },
+      {
+        "given": "Dulau"
+      },
+      {
+        "family": "Co.",
+        "given": "U.Hoepli"
+      },
+      {
+        "family": "Stechert",
+        "given": "G.E."
+      },
+      {
+        "family": "Klineksieck",
+        "given": "C."
+      }
+    ],
+    "type": null,
+    "issued": "1891",
+    "page": null,
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Leblebici",
+        "given": "E."
+      }
+    ],
+    "title": "Clinopodium L",
+    "editor": [
+      {
+        "family": "P.H",
+        "given": "Davis"
+      }
+    ],
+    "container-title": "Flora of Turkey and the East Aegean Islands",
+    "volume": "7",
+    "publisher": "Edinburgh University Press",
+    "type": "chapter",
+    "issued": "1982",
+    "page": "329–331",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "edition": "1st",
+    "publisher": "The Ray Society",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastor",
+        "given": "J."
+      },
+      {
+        "family": "Juan",
+        "given": "R."
+      },
+      {
+        "family": "Martín-Mosquero",
+        "given": "M.M."
+      }
+    ],
+    "title": "Estudio de las núculas de Acinos Mill",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Micromeria Benth. (Lamiaceae) del SW de España. Botanica Complutensis",
+    "issued": "2005",
+    "page": "49–55"
+  },
+  {
+    "author": [
+      {
+        "family": "Oh",
+        "given": "I.C."
+      },
+      {
+        "family": "Anderberg",
+        "given": "A.L."
+      },
+      {
+        "family": "Schönenberger",
+        "given": "J."
+      },
+      {
+        "family": "Anderberg",
+        "given": "A.A."
+      }
+    ],
+    "title": "Comparative seed morphology and character evolution in the genuz Lyscimachia (Myrsinaceae) and related taxa",
+    "volume": "271",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2008",
+    "page": "177–197",
+    "URL": "http://dx.doi.org/10.1007/s00606-007-0625-z",
+    "DOI": "10.1007/s00606-007-0625-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Özhatay",
+        "given": "F.N."
+      },
+      {
+        "family": "Kültür",
+        "given": "Ş."
+      },
+      {
+        "family": "Gurdal",
+        "given": "M.B."
+      }
+    ],
+    "title": "Check-list additional taxa to the supplement Flora of Turkey V",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Turkish Journal of Botany",
+    "issued": "2011",
+    "page": "589–624"
+  },
+  {
+    "author": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "title": "Flora Iranica",
+    "volume": "150",
+    "publisher": "Akademische Druck-u. Verlagsanstalt, Graz-Austria",
+    "type": "book",
+    "issued": "1982",
+    "page": "505–509"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "L."
+      }
+    ],
+    "title": "Flora germanica excursoria 1",
+    "publisher": "Carolum Cnoblcoh, Leipzing",
+    "type": "book",
+    "issued": "1831",
+    "page": "438"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryding",
+        "given": "O."
+      }
+    ],
+    "title": "Revision of the Clinopodium abyssinicum group (Labiatae",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2006",
+    "page": "391–408",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2006.00475.x",
+    "DOI": "10.1111/j.1095-8339.2006.00475.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryding",
+        "given": "O."
+      }
+    ],
+    "title": "Revision of the Clinopodium simense group (Labiatae",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2006",
+    "page": "419–432"
+  },
+  {
+    "author": [
+      {
+        "family": "Satıl",
+        "given": "F."
+      },
+      {
+        "family": "Kaya",
+        "given": "A."
+      },
+      {
+        "family": "Akçiçek",
+        "given": "E."
+      },
+      {
+        "family": "Dirmenci",
+        "given": "T."
+      }
+    ],
+    "title": "Nutlet micromorphology of Turkish Stachys sect. Eriostomum (Lamiaceae) and its systematic implications",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2012",
+    "page": "352–364",
+    "URL": "http://dx.doi.org/10.1111/j.1756-1051.2011.01306.x",
+    "DOI": "10.1111/j.1756-1051.2011.01306.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Valdés",
+        "given": "B."
+      }
+    ],
+    "title": "A new species of Pelletiera (Primulaceae) from Macaronesia",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Candollea",
+    "issued": "1980",
+    "page": "645"
+  }
+]

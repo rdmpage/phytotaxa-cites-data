@@ -1,0 +1,389 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "Zookeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Dilley",
+        "given": "J.D."
+      },
+      {
+        "family": "Wilson",
+        "given": "P."
+      },
+      {
+        "family": "Masler",
+        "given": "M.R."
+      }
+    ],
+    "title": "The radiation of Calochortus: generalist flower moving through a mosaic of potential pollinators",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Oikos",
+    "issued": "2000",
+    "page": "209–222",
+    "URL": "https://doi.org/10.1034/j.1600-0706.2000.890201.x",
+    "DOI": "10.1034/j.1600-0706.2000.890201.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Fiedler",
+        "given": "P.L."
+      },
+      {
+        "family": "Zebell",
+        "given": "R.K."
+      }
+    ],
+    "title": "Calochortus",
+    "container-title": "Flora of North America Editorial Committee",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "119–141",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Fiedler",
+        "given": "P.L."
+      }
+    ],
+    "title": "Concepts of rarity in vascular plant species, with special reference to the genus Calochortus Pursh (Liliaceae",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1986",
+    "page": "502–518",
+    "URL": "https://doi.org/10.2307/1221904",
+    "DOI": "10.2307/1221904"
+  },
+  {
+    "author": [
+      {
+        "family": "Fishbein",
+        "given": "M."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Calochortaceae"
+      },
+      {
+        "family": "Martin",
+        "given": "P.S."
+      },
+      {
+        "family": "Yetman",
+        "given": "D.A."
+      },
+      {
+        "family": "M.",
+        "given": "Fishbein"
+      },
+      {
+        "family": "P.D.",
+        "given": "Jenkins"
+      },
+      {
+        "family": "T.R.",
+        "given": "Van Devender"
+      },
+      {
+        "family": "R.K",
+        "given": "Wilson"
+      }
+    ],
+    "title": "Gentry’s Rio Mayo plants: the tropical deciduous forest and environs of northwest Mexico",
+    "publisher": "University of Arizona Press, Tucson",
+    "type": "book",
+    "issued": "1998",
+    "page": "477"
+  },
+  {
+    "author": [
+      {
+        "family": "Greene",
+        "given": "E.L."
+      }
+    ],
+    "title": "New species from Mexico",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Pittonia",
+    "issued": "1888",
+    "page": "153–159"
+  },
+  {
+    "author": [
+      {
+        "family": "Hijmans",
+        "given": "R.J."
+      },
+      {
+        "family": "Schreuder",
+        "given": "M."
+      },
+      {
+        "family": "Cruz",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Guarino",
+        "given": "L."
+      }
+    ],
+    "title": "Using GIS to check co-ordinates of GenBank accessions",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Genetic resources and Crop Evolution",
+    "issued": "1999",
+    "page": "291–296",
+    "URL": "https://doi.org/10.1023/A:1008628005016",
+    "DOI": "10.1023/A:1008628005016"
+  },
+  {
+    "author": [
+      {
+        "given": "I.N.E.G.I."
+      }
+    ],
+    "title": "División Política Estatal, Escala 1:250,000",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.conabio.gob.mx/informacion/metadata/gis/dest_2015gw.xml?_httpcache=yes&_xsl=/db/metadata/xsl/fgdc_html.xsl&_indent=no"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for using the IUCN Red List categories and criteria",
+    "volume": "version 12",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "page": "101",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Lemaire",
+        "given": "C."
+      }
+    ],
+    "title": "Calochortus splendens",
+    "editor": [
+      {
+        "family": "venustus",
+        "given": "C."
+      },
+      {
+        "family": "luteus",
+        "given": "C."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "I",
+    "issued": "1846"
+  },
+  {
+    "author": [
+      {
+        "family": "McDonald",
+        "given": "H.P."
+      }
+    ],
+    "title": "A review of Calochortus section Cyclobothra (Calochortaceae",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Herbertia",
+    "issued": "2000",
+    "page": "34–83"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Bromeliaceae to Dioscoreaceae",
+    "editor": [
+      {
+        "family": "Anderson",
+        "given": "W.R."
+      }
+    ],
+    "container-title": "Flora Novo-Galiciana 15",
+    "publisher": "University of Michigan Press, Ann Arbor",
+    "type": "chapter",
+    "issued": "1989",
+    "page": "398"
+  },
+  {
+    "author": [
+      {
+        "family": "Morrone",
+        "given": "J.J."
+      },
+      {
+        "family": "Espinosa-Organista",
+        "given": "D."
+      },
+      {
+        "family": "Llorente-Bousquets",
+        "given": "J."
+      }
+    ],
+    "title": "Mexican biogeographic provinces: preliminary scheme, general characterizations, and synonymies",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Acta Zoológica Mexicana",
+    "issued": "2002",
+    "page": "83–108"
+  },
+  {
+    "author": [
+      {
+        "family": "Ownbey",
+        "given": "M."
+      }
+    ],
+    "title": "A monograph of the genus Calochortus",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1940",
+    "page": "371–560",
+    "URL": "https://doi.org/10.2307/2394384",
+    "DOI": "10.2307/2394384"
+  },
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "T.B."
+      },
+      {
+        "family": "Givnish",
+        "given": "T.J."
+      }
+    ],
+    "title": "Geographic cohesion, chromosomal evolution, parallel adaptive radiations, and consequent floral adaptations in Calochortus (Calochortaceae): evidence from a cpDNA phylogeny",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "New Phytologist",
+    "issued": "2003",
+    "page": "253–264",
+    "URL": "https://doi.org/10.1046/j.1469-8137.2003.00951.x",
+    "DOI": "10.1046/j.1469-8137.2003.00951.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Pursh",
+        "given": "F.T."
+      }
+    ],
+    "title": "Flora Americae Septentrionalis; or, a systematic arrangement and description of the plants of North America 2",
+    "publisher": "White & Cochrane",
+    "type": "book",
+    "issued": "1814",
+    "page": "751",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "given": "Q.G.I.S."
+      }
+    ],
+    "title": "Quantum GIS development team, version 2.10.1 Available from",
+    "note": "accessed 4 December 2015",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://qgis.osgeo.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Sweet",
+        "given": "R."
+      }
+    ],
+    "title": "The British flowering garden 3: t.273",
+    "type": null,
+    "issued": "1828"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "New York Botanical Garden’s Virtual Herbarium, Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "A."
+      }
+    ],
+    "title": "A sketch of the natural order Liliaceae (as represented in the flora of the states of Oregon and California",
+    "container-title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+    "volume": "20",
+    "type": "paper-conference",
+    "issued": "1868",
+    "page": "165–174"
+  }
+]

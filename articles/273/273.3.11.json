@@ -1,0 +1,787 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aguilella",
+        "given": "A."
+      },
+      {
+        "family": "Fos",
+        "given": "S."
+      },
+      {
+        "family": "Laguna",
+        "given": "E."
+      }
+    ],
+    "title": "Catálogo Valenciano de Especies de Flora Amenazadas",
+    "volume": "Valencia",
+    "container-title": "Conselleria de Medi Ambient, Aigua, Urbanisme i Habitatge, Generalitat Valenciana",
+    "type": "article-journal",
+    "issued": "2009",
+    "page": "358"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax theatri botanici",
+    "publisher": "Ludovici Regis, Basileae",
+    "type": "book",
+    "issued": "1623",
+    "page": "522"
+  },
+  {
+    "author": [
+      {
+        "family": "Boratyński",
+        "given": "A."
+      },
+      {
+        "family": "Puente",
+        "given": "M.L.",
+        "particle": "Vera de la"
+      }
+    ],
+    "title": "The Empetraceae on the Iberian Peninsula",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issue": "1",
+    "issued": "1994",
+    "page": "29–53"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliveira",
+        "given": "P.",
+        "particle": "Bras de"
+      },
+      {
+        "family": "Dale",
+        "given": "A."
+      }
+    ],
+    "title": "Corema album (L.) D. Don, the white crowberry – a new crop",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Journal of Berry Research",
+    "issued": "2012",
+    "page": "123–133"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabezudo",
+        "given": "B."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Corema D.Don"
+      },
+      {
+        "family": "Valdés",
+        "given": "B."
+      },
+      {
+        "family": "Talavera",
+        "given": "S."
+      },
+      {
+        "family": "Fernández-Galiano",
+        "given": "E."
+      }
+    ],
+    "container-title": "Flora Vascular de Andalucía Occidental",
+    "volume": "1",
+    "publisher": "Ketres Editora S.A., Barcelona",
+    "type": "chapter",
+    "issued": "1987",
+    "page": "453"
+  },
+  {
+    "author": [
+      {
+        "family": "Calvino-Cancela",
+        "given": "M."
+      }
+    ],
+    "title": "Spatial patterns of seed dispersal and seedling recruitment in Corema album (Empetraceae): The importance of unspecialized dispersers for regeneration",
+    "volume": "90",
+    "type": "article-journal",
+    "container-title": "Journal of Ecology",
+    "issued": "2002",
+    "page": "775–784",
+    "URL": "http://dx.doi.org/10.1046/j.1365-2745.2002.00711.x",
+    "DOI": "10.1046/j.1365-2745.2002.00711.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Calvino-Cancela",
+        "given": "M."
+      }
+    ],
+    "title": "Ingestion and dispersal: Direct and indirect effects of frugivores on seed viability and germination of Corema album (Empetraceae",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Acta Oecologica",
+    "issued": "2004",
+    "page": "55–64",
+    "URL": "http://dx.doi.org/10.1016/j.actao.2004.03.006",
+    "DOI": "10.1016/j.actao.2004.03.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Clusius",
+        "given": "C."
+      }
+    ],
+    "title": "Rariorum plantarum Historia, et Appendix ad Historiam plantarum",
+    "volume": "Antwerpen",
+    "type": "article-journal",
+    "container-title": "Christophoro Plantini",
+    "issued": "1601",
+    "page": "364"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "On the Affinities of the Empetreae, a natural Group of Plants",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Edinburgh New Philosophical Journal",
+    "issued": "1826",
+    "page": "59–63"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Corema album G",
+    "editor": [
+      {
+        "family": "In",
+        "given": "Don"
+      },
+      {
+        "family": "Sweet",
+        "given": "R."
+      }
+    ],
+    "edition": "Hortus britannicus. ed. 4",
+    "type": null,
+    "issued": "1830",
+    "page": "460",
+    "publisher-place": "Ridgway, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Elisens",
+        "given": "W.J."
+      }
+    ],
+    "title": "Ericaceae subfam",
+    "container-title": "Ericoideae, Corema, Ceratiola. in Flora of North America Editorial Committee (Org.) Flora of North America North of Mexico",
+    "volume": "8",
+    "publisher": "Oxford University Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "449, 489–491",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Franco",
+        "given": "J.A."
+      }
+    ],
+    "title": "Nova Flora de Portugal (Continente e Açores",
+    "type": null,
+    "issued": "1984",
+    "publisher-place": "Sociedade Astoria, Lda, Lisboa, Portugal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gil-López",
+        "given": "M.J."
+      }
+    ],
+    "title": "Etnobotánica de la camarina (Corema album, Empetraceae) en Cádiz",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Malacitana",
+    "issued": "2011",
+    "page": "137–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Good",
+        "given": "R.D.O."
+      }
+    ],
+    "title": "The genus Empetrum L",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "1927",
+    "page": "489–523",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1927.tb00520.x",
+    "DOI": "10.1111/j.1095-8339.1927.tb00520.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Guitian",
+        "given": "P.Medrano"
+      },
+      {
+        "given": "M."
+      },
+      {
+        "family": "Rodríguez",
+        "given": "M."
+      }
+    ],
+    "title": "Reproductive biology of Corema album (L.) D. Don (Empetraceae) in the northwest Iberian Peninsula",
+    "volume": "144",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Gallica",
+    "issue": "1",
+    "issued": "1998",
+    "page": "119–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Order out of chaos: Linnaean plant names and their types",
+    "container-title": "Linnean Society of London and the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L."
+      }
+    ],
+    "title": "Genera Plantarum secundum ordines naturales disposita, juxta methodum in horto region parisiensi exaratam",
+    "genre": "Herissant,",
+    "publisher": "Paris",
+    "type": null,
+    "issued": "1789",
+    "page": "498"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "J."
+      },
+      {
+        "family": "Alexander",
+        "given": "J."
+      },
+      {
+        "family": "Ward",
+        "given": "T."
+      },
+      {
+        "family": "Tredici",
+        "given": "P.",
+        "particle": "del"
+      },
+      {
+        "family": "Nicholsin",
+        "given": "R."
+      }
+    ],
+    "title": "Phylogenetic relationship of Empetraceae inferred from sequences of chloroplast gene matK and nuclear ribosomal DNA ITS region",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2002",
+    "page": "306–315",
+    "URL": "http://dx.doi.org/10.1016/S1055-7903(02)00241-5",
+    "DOI": "10.1016/S1055-7903(02)00241-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Hortus Cliffortianus",
+    "publisher": "Salomon Schouten, Amsterdam",
+    "type": "book",
+    "issued": "1738",
+    "page": "518"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "López González",
+        "given": "G."
+      }
+    ],
+    "title": "Los árboles y arbustos de la Península Ibérica e Islas Baleares",
+    "publisher": "Ediciones Mundi-Prensa, Madrid-Barcelona-México",
+    "type": "book",
+    "issued": "2001",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Martine",
+        "given": "C.T."
+      },
+      {
+        "family": "Lubertazzi",
+        "given": "D."
+      },
+      {
+        "family": "Dubrul",
+        "given": "A."
+      }
+    ],
+    "title": "The biology of Corema conradii: Natural history, reproduction, and observations of a post–fire seedling recruitment",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Northeastern Naturalist",
+    "issued": "2005",
+    "page": "267–86"
+  },
+  {
+    "author": [
+      {
+        "family": "McEwen",
+        "given": "M."
+      }
+    ],
+    "title": "The comparative anatomy of Corema alba and Corema conradii",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1894",
+    "page": "277–285",
+    "URL": "http://dx.doi.org/10.2307/2477916",
+    "DOI": "10.2307/2477916"
+  },
+  {
+    "editor": [
+      {
+        "family": "Silva",
+        "given": "A.R.",
+        "particle": "Pinto da"
+      }
+    ],
+    "title": "Catalogo das plantas vasculares dos Açores",
+    "container-title": "Sociedade de Estudos Acorianos",
+    "type": "chapter",
+    "issued": "1966",
+    "page": "186",
+    "publisher-place": "Alfonso Chaves, Lisboa"
+  },
+  {
+    "author": [
+      {
+        "family": "Redfield",
+        "given": "J."
+      }
+    ],
+    "title": "Corema conradii and its localities",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1884",
+    "page": "97–101",
+    "URL": "http://dx.doi.org/10.2307/2477643",
+    "DOI": "10.2307/2477643"
+  },
+  {
+    "author": [
+      {
+        "family": "Rivas-Martínez",
+        "given": "S."
+      },
+      {
+        "family": "Fernández-González",
+        "given": "F."
+      },
+      {
+        "family": "Loidi",
+        "given": "J."
+      },
+      {
+        "family": "Lousã",
+        "given": "M."
+      },
+      {
+        "family": "Penas",
+        "given": "A."
+      }
+    ],
+    "title": "Vascular plant communities of Spain and Portugal: addenda to the syntaxonomical checklist of 2001. Part 2",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Itinera Geobotanica",
+    "issued": "2002",
+    "page": "433–922"
+  },
+  {
+    "author": [
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "Ruiz de la"
+      }
+    ],
+    "title": "Flora Mayor",
+    "type": "article-journal",
+    "container-title": "Organismo Autónomo de Parques Nacionales",
+    "issued": "2006",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Serra",
+        "given": "L."
+      }
+    ],
+    "title": "Estudio crítico de la Flora Vascular de la provincia de Alicante. Aspectos nomenclaturales, biogeográficos y de conservación",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Ruizia",
+    "issued": "2007",
+    "page": "1–1415"
+  },
+  {
+    "author": [
+      {
+        "family": "Solanas",
+        "given": "J.L."
+      }
+    ],
+    "title": "Flora, vegetació y fitogeografía de la Marina Baixa, Alacant",
+    "genre": "Tesis Doctoral,",
+    "publisher": "Universidad de Alicante, Ined",
+    "type": null,
+    "issued": "1996"
+  },
+  {
+    "author": [
+      {
+        "family": "Solanas",
+        "given": "J.L."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      }
+    ],
+    "title": "Medi físic i flora de la marina Baixa. Col·lecció “Juan Fuster” 8",
+    "publisher": "Secretariat de Promoció del Valencià",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Universitat d’Alacant, Alacant"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      }
+    ],
+    "title": "An Introduction to the Species Plantarum and cognate botanical works of Carl Linnaeus",
+    "editor": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "container-title": "Species Plantarum, A facsimile of the first edition",
+    "volume": "1",
+    "publisher": "Ray Society",
+    "type": "chapter",
+    "issued": "1957",
+    "page": "176",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Torrey",
+        "given": "J."
+      }
+    ],
+    "title": "An Account of several new Genera and Species of North American Plants",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Annales of the Lyceum of Natural History New York",
+    "issued": "1837",
+    "page": "80–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Torrey",
+        "given": "J."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Corema D.Don"
+      },
+      {
+        "family": "Loudon",
+        "given": "J.C."
+      }
+    ],
+    "title": "Encyclopaedia of Trees and Shrubs: Being the Arboretum et Fruticetum Britannicum abridged",
+    "publisher": "Longmans",
+    "type": "book",
+    "issued": "1842",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Tournefort",
+        "given": "J.P."
+      }
+    ],
+    "title": "Institutiones Rei Herbariae",
+    "volume": "1",
+    "publisher": "E Typographia Regia, Paris",
+    "type": "book",
+    "issued": "1700",
+    "page": "697"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "title": "Lectotypification of Campanula saxatilis, Phyteuma pinnatum and Verbascum arcturus, Linnaean names of three taxa endemic to Crete",
+    "volume": "36",
+    "note": "Special Issue): 303–309.",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "2006",
+    "URL": "http://dx.doi.org/10.3372/wi.36.36124",
+    "DOI": "10.3372/wi.36.36124"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Typification of Linnaean specific and varietal names in the Leguminosae (Fabaceae",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1997",
+    "page": "457–485",
+    "URL": "http://dx.doi.org/10.2307/1224388",
+    "DOI": "10.2307/1224388"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Royen",
+        "given": "A."
+      }
+    ],
+    "title": "Florae leydensis prodromus",
+    "volume": "Leiden",
+    "type": "article-journal",
+    "container-title": "Apud Samuelem Luchtmans",
+    "issued": "1740",
+    "page": "538",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.693",
+    "DOI": "10.5962/bhl.title.693"
+  },
+  {
+    "author": [
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Corema D.Don"
+      },
+      {
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "3",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H., Walters"
+  },
+  {
+    "author": [
+      {
+        "family": "Villar",
+        "given": "L."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Corema D.Don"
+      },
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      },
+      {
+        "family": "Aedo",
+        "given": "C."
+      },
+      {
+        "family": "Gómez Campo",
+        "given": "C."
+      },
+      {
+        "family": "Laínz",
+        "given": "M."
+      },
+      {
+        "family": "Montserrat",
+        "given": "P."
+      },
+      {
+        "family": "Morales",
+        "given": "R."
+      },
+      {
+        "family": "Muñoz Garmendia",
+        "given": "F."
+      },
+      {
+        "family": "Nieto Feliner",
+        "given": "G."
+      },
+      {
+        "family": "Rico",
+        "given": "E."
+      },
+      {
+        "family": "Talavera",
+        "given": "S."
+      },
+      {
+        "family": "Villar",
+        "given": "L."
+      }
+    ],
+    "container-title": "Flora iberica",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "4",
+    "publisher-place": "Real Jardín Botánico, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Willkomm",
+        "given": "H.M."
+      },
+      {
+        "family": "Lange",
+        "given": "JMCh"
+      }
+    ],
+    "title": "Prodromus florae hispanicae 3",
+    "editor": [
+      {
+        "family": "Schweizerbart",
+        "given": "E."
+      },
+      {
+        "given": "Stuttgartiae"
+      }
+    ],
+    "type": null,
+    "issued": "1877",
+    "page": "705–746"
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      },
+      {
+        "family": "Brouillet",
+        "given": "L."
+      },
+      {
+        "family": "Semple",
+        "given": "J.C."
+      }
+    ],
+    "title": "Aster",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2011",
+    "page": "574–632",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "M.A."
+      }
+    ],
+    "title": "Compositae Novae e Flora Sinensi (suite",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique",
+    "issued": "1896",
+    "page": "377–386"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "S.Y."
+      }
+    ],
+    "title": "The Compositae of China (II",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Quarterly Journal of the Taiwan Museum",
+    "issued": "1965",
+    "page": "233–333"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Shi",
+        "given": "L."
+      }
+    ],
+    "title": "Plants of Mount Emei",
+    "publisher": "Beijing Science and Technology Press",
+    "type": "book",
+    "issued": "2007",
+    "page": "417",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "E.W."
+      },
+      {
+        "family": "Gao",
+        "given": "X."
+      },
+      {
+        "family": "Gao",
+        "given": "K."
+      },
+      {
+        "family": "Jia",
+        "given": "Z.J."
+      }
+    ],
+    "title": "Labdane Diterpenoid Glycosides from Aster veitchianus",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Chemistry & Biodiversity",
+    "issued": "2007",
+    "page": "531–538"
+  },
+  {
+    "type": null,
+    "URL": "http://dx.doi.org/10.1002/cbdv.200790046",
+    "DOI": "10.1002/cbdv.200790046"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      }
+    ],
+    "title": "Les Composées Chinoises de l’Herbier de l’Academie de Peiping (suite). Contributions from the Institute of Botany",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "National Academy of Peiping",
+    "issued": "1935",
+    "page": "123–220"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      }
+    ],
+    "title": "Aster",
+    "editor": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      },
+      {
+        "family": "Chen",
+        "given": "Y.L."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1985",
+    "page": "133–254",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud'homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "eds."
+      }
+    ],
+    "note": "Regnum Vegetabile 154].",
+    "publisher": "Gantner",
+    "type": null,
+    "issued": "2012",
+    "page": "208",
+    "publisher-place": "Australia"
+  }
+]

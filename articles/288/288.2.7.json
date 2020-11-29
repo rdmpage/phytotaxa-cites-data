@@ -1,0 +1,160 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "M.F."
+      }
+    ],
+    "title": "Histoire des Plantes de la Guiane Françoise",
+    "volume": "1",
+    "type": null,
+    "issued": "1775",
+    "page": "277–280"
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Esri"
+      }
+    ],
+    "title": "ArcGIS 9·3",
+    "publisher": "Environmental Systems Research Institute",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2009",
+    "publisher-place": "Redlands, CA",
+    "URL": "http://www.esri.com"
+  },
+  {
+    "author": [
+      {
+        "family": "Hickey",
+        "given": "L.J."
+      }
+    ],
+    "title": "Classification of the architecture of dicotyledonous leaves",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "1",
+    "issued": "1973",
+    "page": "17–33",
+    "URL": "https://doi.org/10.2307/2441319",
+    "DOI": "10.2307/2441319"
+  },
+  {
+    "author": [
+      {
+        "family": "Krings",
+        "given": "A."
+      }
+    ],
+    "title": "Synopsis of Matelea s.l. (Apocynaceae: Asclepiadoideae) in Trinidad, Tobago, and the ABC Islands",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Journal of the Botanical Research Institute of Texas",
+    "issue": "2",
+    "issued": "2011",
+    "page": "475–483"
+  },
+  {
+    "author": [
+      {
+        "family": "Krings",
+        "given": "A."
+      }
+    ],
+    "title": "Matelea gilbertoana (Apocynaceae), a New Species from Venezuela",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "4",
+    "issued": "2012",
+    "page": "989–991",
+    "URL": "https://doi.org/10.1600/036364412X656473",
+    "DOI": "10.1600/036364412X656473"
+  },
+  {
+    "author": [
+      {
+        "family": "Morillo",
+        "given": "G."
+      }
+    ],
+    "title": "Contributions to the knowledge of the Gonolobinae (Apocynaceae, Asclepiadoideae) Part III",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Pittieria",
+    "issued": "2015",
+    "page": "191–258"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.D."
+      }
+    ],
+    "title": "Asclepiadaceae (s.s",
+    "editor": [
+      {
+        "family": "Davidse",
+        "given": "G."
+      },
+      {
+        "family": "Sousa",
+        "given": "M."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Chiang",
+        "given": "F."
+      }
+    ],
+    "container-title": "Flora Mesoamericana",
+    "volume": "4",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "1",
+    "publisher-place": "Mexico, D.F"
+  },
+  {
+    "author": [
+      {
+        "family": "Vail",
+        "given": "A.M."
+      }
+    ],
+    "title": "Studies in the Asclepiadaceae lV",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issue": "8",
+    "issued": "1899",
+    "page": "423–431",
+    "URL": "https://doi.org/10.2307/2478233",
+    "DOI": "10.2307/2478233"
+  },
+  {
+    "author": [
+      {
+        "family": "Woodson",
+        "given": "R.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "The North American Asclepiadaceae",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1941",
+    "page": "217–237",
+    "URL": "https://doi.org/10.2307/2394270",
+    "DOI": "10.2307/2394270"
+  }
+]

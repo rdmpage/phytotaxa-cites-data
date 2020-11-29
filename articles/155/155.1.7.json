@@ -1,0 +1,88 @@
+[
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum, exhibentes plantas rite cognitas, ad genera relatas, cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas",
+    "type": "article-journal",
+    "container-title": "Holmiae, Impensis Laurentii Salvii",
+    "issued": "1753",
+    "page": null,
+    "URL": "http://dx.doi.org/10.5962/bhl.title.11179",
+    "DOI": "10.5962/bhl.title.11179"
+  },
+  {
+    "author": [
+      {
+        "family": "Maassoumi",
+        "given": "A.A.R."
+      },
+      {
+        "family": "Podlech",
+        "given": "D."
+      }
+    ],
+    "title": "Eleven new species and a new section from the genus Astragalus (Leguminosae) in Iran",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "The Iranian Journal of Botany",
+    "issued": "1988",
+    "page": "71–90"
+  },
+  {
+    "author": [
+      {
+        "family": "Podlech",
+        "given": "D."
+      }
+    ],
+    "title": "New species of Astragalus L",
+    "container-title": "Leguminosae), mainly from Iran. Annalen des Naturhistorischen Museums in Wien",
+    "volume": "105B",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "565–596"
+  },
+  {
+    "author": [
+      {
+        "family": "Podlech",
+        "given": "D."
+      },
+      {
+        "family": "Zarre",
+        "given": "S."
+      }
+    ],
+    "title": "A taxonomic revision of the genus Astragalus L",
+    "volume": "vols",
+    "publisher": "Naturhistorisches Museum",
+    "type": "article-journal",
+    "container-title": "Leguminosae) in the Old World",
+    "issued": "2013",
+    "page": "1–3",
+    "publisher-place": "Wien"
+  },
+  {
+    "author": [
+      {
+        "family": "Rao",
+        "given": "R.R."
+      },
+      {
+        "family": "Balodi",
+        "given": "B."
+      }
+    ],
+    "title": "Two new species of Astragalus L. from Western Himalaya",
+    "container-title": "Proceedings of the Indian National Science Academy, Part B, Biological Sciences",
+    "volume": "59",
+    "issue": "4",
+    "type": "article-journal",
+    "issued": "1989",
+    "page": "475–478"
+  }
+]

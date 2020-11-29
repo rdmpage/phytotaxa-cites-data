@@ -1,0 +1,162 @@
+[
+  {
+    "author": [
+      {
+        "given": "A.P.G."
+      }
+    ],
+    "volume": "181",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2016",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1111/boj.12385",
+    "DOI": "10.1111/boj.12385"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J.R."
+      },
+      {
+        "family": "Ding",
+        "given": "B.Y."
+      },
+      {
+        "family": "Funston",
+        "given": "A.M."
+      }
+    ],
+    "title": "Trapaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "13",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "274 290",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      },
+      {
+        "family": "Savatier",
+        "given": "P.A.L."
+      }
+    ],
+    "title": "Enumeratio Plantarum in Japonia Sponte Crescentium",
+    "type": null,
+    "issued": "1875",
+    "page": "171"
+  },
+  {
+    "author": [
+      {
+        "family": "Glück",
+        "given": "C.M.H."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Handel-Mazzetti",
+        "given": "HRvon"
+      }
+    ],
+    "container-title": "Symbolae Sinicae",
+    "volume": "7",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1929",
+    "page": "605"
+  },
+  {
+    "title": "IUCN [International Union for the Conservation of Nature and Natural Resources",
+    "volume": "13",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "Gland",
+    "issued": "2017",
+    "page": "108",
+    "URL": "http:www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "type": null,
+    "issued": "1753",
+    "page": "120"
+  },
+  {
+    "author": [
+      {
+        "family": "Makino",
+        "given": "T."
+      }
+    ],
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine",
+    "issued": "1908",
+    "page": "172"
+  },
+  {
+    "author": [
+      {
+        "family": "Siebold",
+        "given": "P.F."
+      },
+      {
+        "family": "Zuccarini",
+        "given": "J.G."
+      }
+    ],
+    "container-title": "Abhandlungen der Mathematisch-Physikalischen Classe der Königlich Bayerischen Akademie der Wissenschaften",
+    "volume": "4",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1845",
+    "page": "1–134"
+  },
+  {
+    "author": [
+      {
+        "family": "Wan",
+        "given": "W.H."
+      }
+    ],
+    "title": "Trapaceae",
+    "editor": [
+      {
+        "family": "Chen",
+        "given": "J.R."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "53",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "2000",
+    "page": "1–26"
+  }
+]

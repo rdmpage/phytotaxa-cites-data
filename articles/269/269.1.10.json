@@ -1,0 +1,452 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "P.F."
+      }
+    ],
+    "title": "Histoire des Plantes de la Guiane Françoise",
+    "volume": "1",
+    "publisher": "P.F. Didot",
+    "type": "book",
+    "issued": "1775",
+    "page": "621",
+    "publisher-place": "London, Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.48831",
+    "DOI": "10.5962/bhl.title.48831"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "3",
+    "publisher": "Treuttel et Würz",
+    "type": "book",
+    "issued": "1828",
+    "page": "746",
+    "publisher-place": "Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "A."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.",
+        "particle": "de"
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "14",
+    "type": "article-journal",
+    "issued": "1886",
+    "page": "1–656"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogniaux",
+        "given": "A."
+      }
+    ],
+    "title": "Mélastomacées",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.L.P.P.de"
+      },
+      {
+        "family": "Candolle",
+        "given": "A.C.P.de"
+      }
+    ],
+    "container-title": "Monographiae Phanerogamarum",
+    "volume": "7",
+    "publisher": "Masson",
+    "type": "chapter",
+    "issued": "1891",
+    "page": "1–1256",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Gleason",
+        "given": "H.A."
+      }
+    ],
+    "title": "A Synopsis of the Melastomataceae of British Guiana",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1932",
+    "page": "127–184",
+    "URL": "http://dx.doi.org/10.2307/2804765",
+    "DOI": "10.2307/2804765"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Flora of the British West Indian Islands",
+    "publisher": "Verlag der Dieterichschen Buchhandlung, Gttingen",
+    "type": "book",
+    "issued": "1860",
+    "page": "860"
+  },
+  {
+    "author": [
+      {
+        "family": "Macbride",
+        "given": "J.F."
+      }
+    ],
+    "title": "Flora of Peru. Publications of the Field Museum of Natural History",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Botany",
+    "issue": "1",
+    "issued": "1941",
+    "page": "1–521"
+  },
+  {
+    "author": [
+      {
+        "family": "Macfadyen",
+        "given": "J."
+      }
+    ],
+    "title": "Flora of Jamaica: a description of the plants of that Island",
+    "volume": "2",
+    "publisher": "Longman, Orme, Brown, Green & Longman, London",
+    "type": "book",
+    "issued": "1850",
+    "page": "104"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "C.V."
+      },
+      {
+        "family": "Cremers",
+        "given": "G."
+      }
+    ],
+    "title": "Les Melastomataceae américaines décrites par C",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Naudin. Le Journal de Botanique de la Société Botanique de France",
+    "issued": "2007",
+    "page": "3–111"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code).",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": null,
+    "issued": "2012",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "family": "Naudin",
+        "given": "C."
+      }
+    ],
+    "title": "Melastomacearum Monographicae Descriptionis",
+    "container-title": "Annales des Sciences Naturelles, Botanique, série III",
+    "volume": "18",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1852",
+    "page": "1–790"
+  },
+  {
+    "author": [
+      {
+        "family": "Pilger",
+        "given": "R."
+      }
+    ],
+    "title": "Beiträge zur Flora der Hylaea nach den Sammlungen von E",
+    "container-title": "Ule. Verhandlungen des Botanischen Vereins für die Provinz Brandenburg und die Angrenzenden Länder",
+    "volume": "47",
+    "type": "chapter",
+    "issued": "1905",
+    "page": "100–191"
+  },
+  {
+    "author": [
+      {
+        "family": "Schulman",
+        "given": "L."
+      },
+      {
+        "family": "Hyvönen",
+        "given": "J."
+      }
+    ],
+    "title": "Cladistic Analysis of Adelobotrys (Melastomataceae) based on morphology, with notes on generic limits within the tribe Merianieae",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "4",
+    "issued": "2003",
+    "page": "738–756"
+  },
+  {
+    "author": [
+      {
+        "family": "Schulman",
+        "given": "L."
+      },
+      {
+        "family": "Ruokolainen",
+        "given": "K."
+      }
+    ],
+    "title": "Adelobotrys tessmannii (Merianieae, Melastomataceae) and allies: a refined circumscription and description of two new Amazonian species with notes on their ecology",
+    "volume": "234",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2015",
+    "page": "101–120",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.234.2.1",
+    "DOI": "10.11646/phytotaxa.234.2.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Suessenguth",
+        "given": "K."
+      }
+    ],
+    "title": "Bemerkeiiswerte Pflanzen des Aliincliner Staatsherhars",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1937",
+    "page": "43–49",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.6152",
+    "DOI": "10.5962/bhl.title.6152"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera & Species Plantarum seu Prodromus",
+    "editor": [
+      {
+        "family": "Swederi",
+        "given": "Bibliopoliis Acad M."
+      }
+    ],
+    "type": null,
+    "issued": "1788",
+    "page": "158",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.433",
+    "DOI": "10.5962/bhl.title.433"
+  },
+  {
+    "author": [
+      {
+        "family": "Triana",
+        "given": "J."
+      }
+    ],
+    "title": "Les Melastomacées",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London, Botany",
+    "issue": "1",
+    "issued": "1871",
+    "page": "1–188"
+  },
+  {
+    "author": [
+      {
+        "family": "Triana",
+        "given": "J."
+      }
+    ],
+    "title": "Enumeracion de Las Melastomaceas de Chontales en Nicaragua recogidas por el Sr",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Dr. B. Seemann. Journal of Botany, British and foreign",
+    "issued": "1867",
+    "page": "209–211"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B.M."
+      }
+    ],
+    "title": "continuously updated) Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Lasser",
+        "given": "T."
+      }
+    ],
+    "container-title": "Flora de Venezuela",
+    "volume": "8",
+    "publisher": "Instituto Botánico",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "1–819",
+    "publisher-place": "Caracas, Venezuela"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Harling",
+        "given": "G."
+      },
+      {
+        "family": "Sparre",
+        "given": "B."
+      }
+    ],
+    "container-title": "Flora of Ecuador",
+    "volume": "13",
+    "publisher": "University of Göteborg & Swedish Museum of Natural History",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "406",
+    "publisher-place": "Göteborg & Stockholm, Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      },
+      {
+        "family": "Renner",
+        "given": "S.S."
+      }
+    ],
+    "title": "Melastomatoideae",
+    "editor": [
+      {
+        "family": "Gorts-van Rijn.",
+        "given": "R.A."
+      }
+    ],
+    "container-title": "Flora of the Guianas, series A: Phanerogams",
+    "volume": null,
+    "publisher": "Koeltz Scientific Books",
+    "issue": "icle 13. A",
+    "type": "article-journal",
+    "issued": "1993",
+    "page": "3–301",
+    "publisher-place": "Koenigstein"
+  }
+]

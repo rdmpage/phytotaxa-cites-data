@@ -1,0 +1,248 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ali",
+        "given": "S.I."
+      },
+      {
+        "family": "Khatoon",
+        "given": "S."
+      }
+    ],
+    "title": "Genus Vincetoxicum von Wolf (Asclepiadaceae) in Pakistan",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Pakistan Journal of Botany",
+    "issued": "1982",
+    "page": "61–68"
+  },
+  {
+    "author": [
+      {
+        "family": "Ali",
+        "given": "S.I."
+      }
+    ],
+    "title": "Asclepiadaceae",
+    "editor": [
+      {
+        "family": "Nasir",
+        "given": "E."
+      },
+      {
+        "family": "Ali",
+        "given": "S.I."
+      }
+    ],
+    "publisher": "Shamim Printing Press",
+    "type": "book",
+    "issued": "1983",
+    "page": "1–65",
+    "publisher-place": "Karachi, Pakistan"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "D."
+      }
+    ],
+    "title": "Flora Orientalis",
+    "volume": "4",
+    "publisher": "H. Basileae",
+    "type": "book",
+    "issued": "1879",
+    "page": "51",
+    "publisher-place": "Georg"
+  },
+  {
+    "author": [
+      {
+        "family": "Decaisne",
+        "given": "J."
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetablilis",
+    "volume": "8",
+    "publisher": "De Condolle. Paris",
+    "type": "book",
+    "issued": "1844",
+    "page": "523"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "The Flora of British India",
+    "volume": "4",
+    "editor": [
+      {
+        "family": "Reeve",
+        "given": "L."
+      },
+      {
+        "family": "Ltd",
+        "given": "Co"
+      }
+    ],
+    "type": null,
+    "issued": "1883",
+    "page": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Liede-Schumann",
+        "given": "S."
+      },
+      {
+        "family": "Kong",
+        "given": "H."
+      },
+      {
+        "family": "Meve",
+        "given": "U."
+      },
+      {
+        "family": "Thiv",
+        "given": "M."
+      }
+    ],
+    "title": "Vincetoxicum and Tylophora (Apocynaceae: Asclepiadoideae: Asclepiadeae)—two sides of the same medal: Independent shifts from tropical to temperate habitats",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2012",
+    "page": "803–825"
+  },
+  {
+    "author": [
+      {
+        "family": "Liede-Schumann",
+        "given": "S."
+      },
+      {
+        "family": "Khanum",
+        "given": "R."
+      },
+      {
+        "family": "Mumtaz",
+        "given": "A.S."
+      },
+      {
+        "family": "Gherghel",
+        "given": "I."
+      },
+      {
+        "family": "Pahlevani",
+        "given": "A."
+      }
+    ],
+    "title": "Going west–A subtropical lineage (Vincetoxicum, Apocynaceae: Asclepiadoideae) expanding into Europe",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2016",
+    "page": "436–446",
+    "URL": "https://doi.org/10.1016/j.ympev.2015.09.021",
+    "DOI": "10.1016/j.ympev.2015.09.021"
+  },
+  {
+    "author": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "title": "Flora Iranica",
+    "volume": "73",
+    "publisher": "Akad, Druck-Verlags. Graz.-Austria",
+    "type": "book",
+    "issued": "1970",
+    "page": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "Takhtajan",
+        "given": "A."
+      },
+      {
+        "given": "Crovello"
+      },
+      {
+        "family": "Cronquist",
+        "given": "A."
+      }
+    ],
+    "title": "Floristic Regions of the World",
+    "translator": [
+      {
+        "given": "T.J."
+      }
+    ],
+    "publisher": "California Press",
+    "type": "book",
+    "issued": "1986",
+    "publisher-place": "Berkeley"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/ih"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Contributions to the Botany of India",
+    "publisher": "Parbury, Allen & Company",
+    "type": "book",
+    "issued": "1834",
+    "page": "136",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Icones Plantarum Indiae Orientalis: or figures of Indian plants",
+    "volume": "4",
+    "type": null,
+    "issued": "1850",
+    "page": "1614",
+    "publisher-place": "Pharoah, J.B., Madras"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "N.M."
+      }
+    ],
+    "title": "Genera plantarum: vocabulis characteristicis definita",
+    "publisher": "Müller, Dantisci",
+    "type": "book",
+    "issued": "1776",
+    "page": "178"
+  }
+]

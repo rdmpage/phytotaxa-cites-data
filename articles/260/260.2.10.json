@@ -1,0 +1,135 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      }
+    ],
+    "title": "Histoire des plantes de la Guiane Françoise",
+    "volume": "1",
+    "publisher": "Pierre-François Didot jeune",
+    "type": "article-journal",
+    "container-title": "Tome",
+    "issued": "1775",
+    "page": "976",
+    "publisher-place": "London, Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.674",
+    "DOI": "10.5962/bhl.title.674"
+  },
+  {
+    "author": [
+      {
+        "family": "Delprete",
+        "given": "P.G."
+      }
+    ],
+    "title": "Typification and etymology of Aublet’s Rubiaceae names",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2015",
+    "page": "595–624",
+    "URL": "http://dx.doi.org/10.12705/643.13",
+    "DOI": "10.12705/643.13"
+  },
+  {
+    "author": [
+      {
+        "family": "Kawasaki",
+        "given": "M.L."
+      }
+    ],
+    "title": "Vochysiaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "volume": "9",
+    "publisher": "Springer",
+    "type": "book",
+    "issued": "2007",
+    "page": "480–487",
+    "publisher-place": "Berlin",
+    "URL": "http://dx.doi.org/10.1007/978-3-540-32219-1_55",
+    "DOI": "10.1007/978-3-540-32219-1_55"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanjouw",
+        "given": "J."
+      },
+      {
+        "family": "Uittien",
+        "given": "H."
+      }
+    ],
+    "title": "Un nouvel herbier de Fusée Aublet découvert en France",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Recueil des Travaux Botaniques Néerlandais",
+    "issued": "1940",
+    "page": "133–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Marcano-Berti",
+        "given": "L."
+      }
+    ],
+    "title": "123. Vochysiaceae",
+    "editor": [
+      {
+        "family": "Görts-van Rijn",
+        "given": "A.R.A."
+      },
+      {
+        "family": "Jansen-Jacobs",
+        "given": "M.J."
+      }
+    ],
+    "container-title": "Flora of the Guianas. Series A: Phanerogams",
+    "volume": null,
+    "publisher": "Royal Botanic Gardens",
+    "issue": "icle 21",
+    "type": "article-journal",
+    "issued": "1998",
+    "page": "1–44",
+    "publisher-place": "Kew, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Poiret",
+        "given": "J.L.M."
+      }
+    ],
+    "title": "Encyclopédie méthodique",
+    "genre": "Botanique. Tome 8.",
+    "publisher": "Chez H. Agasse",
+    "type": null,
+    "issued": "1808",
+    "page": "879",
+    "publisher-place": "Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.824",
+    "DOI": "10.5962/bhl.title.824"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      }
+    ],
+    "title": "A monograph of Vochysiaceae. I. Salvertia and Vochysia",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Recueil des Travaux Botaniques Néerlandais",
+    "issued": "1948",
+    "page": "397–540"
+  }
+]

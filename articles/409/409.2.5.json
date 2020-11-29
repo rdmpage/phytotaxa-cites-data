@@ -1,0 +1,625 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aime",
+        "given": "M.C."
+      },
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Miller",
+        "given": "O.K."
+      }
+    ],
+    "title": "The Crepidotaceae (Basidiomycota, Agaricales): phylogeny and taxonomy of the genera and revision of the family based on molecular evidence",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "1",
+    "issued": "2005",
+    "page": "74–82",
+    "URL": "https://doi.org/10.3732/ajb.92.1.74",
+    "DOI": "10.3732/ajb.92.1.74"
+  },
+  {
+    "author": [
+      {
+        "family": "Earle",
+        "given": "F.S."
+      }
+    ],
+    "title": "The genera of North American gill fungi",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bulletin of the New York Botanical Garden",
+    "issued": "1909",
+    "page": "373–451"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillet",
+        "given": "C.C."
+      }
+    ],
+    "title": "Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France",
+    "volume": "1",
+    "type": null,
+    "issued": "1876",
+    "page": "177–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic acids symposium series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Harmaja",
+        "given": "H."
+      }
+    ],
+    "title": "Phaeomarasmius confragosus - an agaric to be transferred to Tubaria",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Karstenia",
+    "issued": "1978",
+    "page": "55–56",
+    "URL": "https://doi.org/10.29203/ka.1978.138",
+    "DOI": "10.29203/ka.1978.138"
+  },
+  {
+    "author": [
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "Fungi Agaricini Novazelandiae VIII. Phaeomarasmius Scherffel and Flammulaster Earle",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Botany",
+    "issued": "1980",
+    "page": "173–182",
+    "URL": "https://doi.org/10.1080/0028825X.1980.10426914",
+    "DOI": "10.1080/0028825X.1980.10426914"
+  },
+  {
+    "author": [
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "Röhrlinge und Blätterpilze in Europa",
+    "publisher": "Elsevier Spektrum Akademischer V erlag",
+    "type": "book",
+    "issued": "2005",
+    "page": "555",
+    "publisher-place": "Heidelberg, Germany"
+  },
+  {
+    "author": [
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "Fungi of New Zealand. Volume 6 Agaricales (Basidiomycota) of New Zealand 2 Brown spored genera",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Westerdijk fungal biodiversity institute",
+    "issue": "t",
+    "issued": "2018",
+    "page": "205"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of color (3rd) Methuen",
+    "type": null,
+    "issued": "1967",
+    "page": "252",
+    "publisher-place": "London Eyre Methuen, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Kühner",
+        "given": "R."
+      },
+      {
+        "family": "Romagnesi",
+        "given": "H."
+      }
+    ],
+    "title": "Flore analytique des champignons supe rieurs (agarics, bolets, chanterelles",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Masson",
+    "issue": "",
+    "issued": "1953",
+    "page": "557"
+  },
+  {
+    "author": [
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      },
+      {
+        "family": "Bougher",
+        "given": "N.L."
+      },
+      {
+        "family": "Ceska",
+        "given": "O."
+      },
+      {
+        "family": "Moreau",
+        "given": "P.A."
+      },
+      {
+        "family": "Ammirati",
+        "given": "N.J.F."
+      }
+    ],
+    "title": "Taxonomy of displaced species of Tubaria",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "4",
+    "issued": "2007",
+    "page": "569–585",
+    "URL": "https://doi.org/10.1080/15572536.2007.11832551",
+    "DOI": "10.1080/15572536.2007.11832551"
+  },
+  {
+    "author": [
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      }
+    ],
+    "title": "Improving phylogenetic inference of mushrooms with rpb1 and rpb2 nucleotide sequences (Inocybe; Agaricales",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics & Evolution",
+    "issue": "1",
+    "issued": "2005",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1016/j.ympev.2004.11.014",
+    "DOI": "10.1016/j.ympev.2004.11.014"
+  },
+  {
+    "author": [
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "Moreau",
+        "given": "P.A."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Harrower",
+        "given": "E."
+      },
+      {
+        "family": "Haan",
+        "given": "A."
+      },
+      {
+        "family": "Contu",
+        "given": "M."
+      },
+      {
+        "family": "Curti",
+        "given": "M."
+      }
+    ],
+    "title": "Crassisporium and Romagnesiella: two new genera of dark-spored Agaricales",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Systematics and Biodiversity",
+    "issue": "1",
+    "issued": "2014",
+    "page": "28–41",
+    "URL": "https://doi.org/10.1080/14772000.2014.967823",
+    "DOI": "10.1080/14772000.2014.967823"
+  },
+  {
+    "author": [
+      {
+        "family": "Mu",
+        "given": "Z."
+      }
+    ],
+    "title": "New contribution to the knowledge of tropical Basidiomycota from China",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issued": "2001",
+    "page": "8–12"
+  },
+  {
+    "author": [
+      {
+        "family": "Murrill",
+        "given": "W.A."
+      }
+    ],
+    "title": "North American Flora V10. The New York Botanical Garden",
+    "type": null,
+    "issued": "1917",
+    "page": "226",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "A preliminary agaric flora of east Africa",
+    "volume": "512–515",
+    "type": "article-journal",
+    "container-title": "Key Engineering Materials",
+    "issued": "1977",
+    "page": "1555–1558",
+    "URL": "https://doi.org/10.4028/www.scientific.net/KEM.512-515.1555",
+    "DOI": "10.4028/www.scientific.net/KEM.512-515.1555"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Buckley",
+        "given": "T.R."
+      }
+    ],
+    "title": "Model selection and model averaging in phylogenetics: Advantages of Akaike Information Criterion and Bayesian approaches over likelihood ratio tests",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issue": "5",
+    "issued": "2004",
+    "page": "793–808",
+    "URL": "https://doi.org/10.1080/10635150490522304",
+    "DOI": "10.1080/10635150490522304"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridgway",
+        "given": "R."
+      }
+    ],
+    "title": "Colour standards and colour nomenclature",
+    "volume": "C",
+    "type": "article-journal",
+    "container-title": "Nabu Press,Washington D",
+    "issue": "",
+    "issued": "1912",
+    "page": "278",
+    "URL": "https://doi.org/10.5962/bhl.title.62375",
+    "DOI": "10.5962/bhl.title.62375"
+  },
+  {
+    "author": [
+      {
+        "family": "Romagnesi",
+        "given": "H."
+      }
+    ],
+    "title": "Essai sur le genre Tubaria W",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Sm. Revue de Mycologie",
+    "issued": "1940",
+    "page": "29–43"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic biology",
+    "issue": "3",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The “Agaricales” (mushroom) in modern taxonomy",
+    "publisher": "Universidad de Tucuman, Tucuman",
+    "type": "book",
+    "issued": "1951",
+    "page": "832"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "New and Interesting Species of Basidiomycetes",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "VI. Mycologia",
+    "issue": "3",
+    "issued": "1959",
+    "page": "375–400",
+    "URL": "https://doi.org/10.1080/00275514.1959.12024826",
+    "DOI": "10.1080/00275514.1959.12024826"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "Type studies on Basidiomycetes",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "X. Persoonia",
+    "issue": "1",
+    "issued": "1961",
+    "page": "1–62"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The Agaricales in modern taxonomy",
+    "edition": "2nd",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": "book",
+    "issued": "1962",
+    "page": "916"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The Agaricales in modern taxonomy",
+    "edition": "4th",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": "book",
+    "issued": "1986",
+    "page": "981"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Ludwig",
+        "given": "T."
+      },
+      {
+        "family": "Meier",
+        "given": "H."
+      }
+    ],
+    "title": "RAxML-III: a fast program for maximum likelihood-based inference of large phylogenetictrees",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issue": "4",
+    "issued": "2005",
+    "page": "456–463",
+    "URL": "https://doi.org/10.1093/bioinformatics/bti191",
+    "DOI": "10.1093/bioinformatics/bti191"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Peterson",
+        "given": "N."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Nei",
+        "given": "M."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA5: molecular evolutionary genetics analysisusing maximum likelihood, evolutionary distance, and maximum parsimony methods",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Molecular biology and evolution",
+    "issue": "10",
+    "issued": "2011",
+    "page": "2731–2739",
+    "URL": "https://doi.org/10.1093/molbev/msr121",
+    "DOI": "10.1093/molbev/msr121"
+  },
+  {
+    "author": [
+      {
+        "family": "Vizzini",
+        "given": "A."
+      }
+    ],
+    "title": "Novitates: Tubariaceae fam. nov",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Rivista di Micologia",
+    "issue": "2",
+    "issued": "2008",
+    "page": "174"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      },
+      {
+        "family": "Lee",
+        "given": "S.B."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Amplification and Direct Sequencing of Fungal Ribosomal RNA Genes for Phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: A Guide to Methods and Applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "H.Tolgor"
+      },
+      {
+        "given": "B."
+      }
+    ],
+    "title": "Two species of Tubaria (Agaricales) new to China",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issue": "4",
+    "issued": "2010",
+    "page": "588–591",
+    "URL": "https://doi.org/10.13346/j.mycosystema.2010.04.00",
+    "DOI": "10.13346/j.mycosystema.2010.04.00"
+  }
+]

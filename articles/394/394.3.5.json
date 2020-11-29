@@ -1,0 +1,66 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Asclepiadeae. In: Prodromus Florae Novae Hollandiae",
+    "volume": "London",
+    "type": "article-journal",
+    "container-title": "J. Johnson & Co",
+    "issued": "1810",
+    "page": "463"
+  },
+  {
+    "author": [
+      {
+        "family": "Kloppenburg",
+        "given": "R.D."
+      }
+    ],
+    "title": "Sarcostemma malampayae Kloppenb., Cajano, & Hadsall",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Hoya New",
+    "issue": "2",
+    "issued": "2015",
+    "page": "34–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "publisher": "Laurentius Salvius, Holmiae [Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "212"
+  },
+  {
+    "author": [
+      {
+        "family": "Meve",
+        "given": "U."
+      },
+      {
+        "family": "Liede-Schumann",
+        "given": "S."
+      }
+    ],
+    "title": "Taxonomic dissolution of Sarcostemma (Apocynaceae: Asclepiadoideae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "4",
+    "issued": "2012",
+    "page": "751–758",
+    "URL": "https://doi.org/10.1007/s12225-012-9384-2",
+    "DOI": "10.1007/s12225-012-9384-2"
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "author": [
+      {
+        "given": "Anonymous"
+      }
+    ],
+    "title": "Flora of British fungi: colour identification chart",
+    "publisher": "Royal Botanic Garden",
+    "type": "book",
+    "issued": "1969",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Emoto",
+        "given": "Y."
+      }
+    ],
+    "title": "Zwei neun Arten von Myxomyceten",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Proceeding of the Imperial Academy",
+    "issued": "1935",
+    "page": "444–446"
+  },
+  {
+    "author": [
+      {
+        "family": "Hagelstein",
+        "given": "R."
+      }
+    ],
+    "title": "A New Species of Myetozoa",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1942",
+    "page": "116–118",
+    "URL": "https://doi.org/10.2307/3754949",
+    "DOI": "10.2307/3754949"
+  },
+  {
+    "author": [
+      {
+        "family": "Jahn",
+        "given": "E."
+      }
+    ],
+    "title": "Verläufige Übersicht über die bisher in der Mark beobachteten Myxomyceten",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Verh. Bot. Ver. Brand",
+    "issued": "1904",
+    "page": "162–167"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Minter",
+        "given": "D.W."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Dictionary of the fungi",
+    "edition": "10th",
+    "publisher": "CAB International",
+    "type": "book",
+    "issued": "2008",
+    "page": "759–771",
+    "publisher-place": "Wallingford"
+  },
+  {
+    "author": [
+      {
+        "family": "Lado",
+        "given": "C."
+      }
+    ],
+    "title": "Nomenmyx: a nomenclatural taxabase of myxomycetes",
+    "publisher": "Editorial CSIC-CSIC Press",
+    "type": "book",
+    "issued": "2001",
+    "page": "20–21"
+  },
+  {
+    "author": [
+      {
+        "family": "Lado",
+        "given": "C."
+      }
+    ],
+    "title": "An online nomenclatural information system of Eumycetozoa",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2005",
+    "publisher-place": "Real Jardín Botánico, CSIC, Madrid, Spain",
+    "URL": "http://www.nomen.eumycetozoa.com"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y."
+      }
+    ],
+    "title": "Flora fungorum sinicorum Myxomycetes II: Physarales Stemonitales",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2007",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Li",
+        "given": "H.Z."
+      }
+    ],
+    "title": "Myxomycetes from China I: a checklist of Myxomycetes from China",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issue": "2",
+    "issued": "1989",
+    "page": "429–436"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "G.M."
+      },
+      {
+        "family": "Alexopoulos",
+        "given": "C.J."
+      }
+    ],
+    "title": "The Myxomycetes",
+    "publisher": "University of Iowa Press, Iowa City",
+    "type": "book",
+    "issued": "1969",
+    "page": "154–168",
+    "URL": "https://doi.org/10.2307/1218569",
+    "DOI": "10.2307/1218569"
+  },
+  {
+    "author": [
+      {
+        "family": "Moreno",
+        "given": "G.H."
+      },
+      {
+        "family": "Singer",
+        "given": "H."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      }
+    ],
+    "title": "A Study on Lamproderma australiensis and L",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "reticulosporum",
+    "issued": "2008",
+    "page": "113–120"
+  },
+  {
+    "author": [
+      {
+        "family": "Robbrecht",
+        "given": "E."
+      }
+    ],
+    "title": "The genus Arcyria Wiggers in Belgium",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique National de Belgique",
+    "issued": "1974",
+    "page": "303–353",
+    "URL": "https://doi.org/10.2307/3667676",
+    "DOI": "10.2307/3667676"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Schnittler",
+        "given": "M."
+      },
+      {
+        "family": "Mitchell",
+        "given": "D.W."
+      },
+      {
+        "family": "Novozhilov",
+        "given": "Y.K."
+      }
+    ],
+    "title": "Myxomycetes of the Great Smoky Mountains National Park",
+    "volume": "78",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2001",
+    "page": "1–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "B."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      }
+    ],
+    "title": "2012’) Myxomycetes from China 16: Arcyodes incarnata and Licea retiformis, newly recorded for China",
+    "volume": "122",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2013",
+    "page": "157–160",
+    "URL": "https://doi.org/10.5248/122.157",
+    "DOI": "10.5248/122.157"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "B."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      }
+    ],
+    "title": "A new species, Stemonitis sichuanensis, and a newly recorded species, Stemonitis marjana (Myxogastria) from China",
+    "volume": "258",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2016",
+    "page": "195–199",
+    "URL": "https://doi.org/10.11646/phytotaxa.258.2.10",
+    "DOI": "10.11646/phytotaxa.258.2.10"
+  }
+]

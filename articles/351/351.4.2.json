@@ -1,0 +1,841 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bernicchia",
+        "given": "A."
+      },
+      {
+        "family": "Gorjón",
+        "given": "S.P."
+      }
+    ],
+    "title": "Fungi Europaei 12. Corticiaceae s.l",
+    "type": "article-journal",
+    "container-title": "Edizioni Candusso, Alassio. Italia",
+    "issued": "2010",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boidin",
+        "given": "J."
+      },
+      {
+        "family": "Beller",
+        "given": "J."
+      }
+    ],
+    "title": "Aleurodiscus wakefieldiae nov. sp",
+    "volume": "82",
+    "type": "article-journal",
+    "container-title": "Basidiomycete). Bulletin de la Société Mycologique de France",
+    "issued": "1967",
+    "page": "561–568"
+  },
+  {
+    "author": [
+      {
+        "family": "Castresana",
+        "given": "J."
+      }
+    ],
+    "title": "Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2000",
+    "page": "540–552",
+    "URL": "https://doi.org/10.1093/oxfordjournals.molbev.a026334",
+    "DOI": "10.1093/oxfordjournals.molbev.a026334"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "L.D."
+      },
+      {
+        "family": "He",
+        "given": "S.H."
+      }
+    ],
+    "title": "New species and new records of Aleurodiscus s.l. (Basidiomycota) in China",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2016",
+    "page": "717–730",
+    "URL": "https://doi.org/10.1007/s11557-016-1202-z",
+    "DOI": "10.1007/s11557-016-1202-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "L.D."
+      },
+      {
+        "family": "He",
+        "given": "S.H."
+      }
+    ],
+    "title": "A new species and a new combination of Aleurodiscus s.l",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Russulales, Basidiomycota). Mycosphere",
+    "issued": "2017",
+    "page": "908–916",
+    "URL": "https://doi.org/10.5943/mycosphere/8/7/7",
+    "DOI": "10.5943/mycosphere/8/7/7"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "L.D."
+      },
+      {
+        "family": "Wu",
+        "given": "S.H."
+      },
+      {
+        "family": "Nakasone",
+        "given": "K.K."
+      },
+      {
+        "family": "Burdsall",
+        "given": "H.H.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "He",
+        "given": "S.H."
+      }
+    ],
+    "title": "Two new species of Aleurodiscus s.l",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Russulales, Basidiomycota) on bamboo from tropics. Mycoscience",
+    "issued": "2017",
+    "page": "213–220",
+    "URL": "https://doi.org/10.1016/j.myc.2017.02.001",
+    "DOI": "10.1016/j.myc.2017.02.001"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "L.D."
+      },
+      {
+        "family": "Zhao",
+        "given": "Y."
+      },
+      {
+        "family": "He",
+        "given": "S.H."
+      }
+    ],
+    "title": "Three new species of Aleurodiscus s.l. (Russulales, Basidiomycota) on bamboos from East Asia",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Cryptogamie Mycologie",
+    "issued": "2017",
+    "page": "227–239",
+    "URL": "https://doi.org/10.7872/crym/v38.iss2.2017.227",
+    "DOI": "10.7872/crym/v38.iss2.2017.227"
+  },
+  {
+    "author": [
+      {
+        "family": "Doğan",
+        "given": "H.H."
+      },
+      {
+        "family": "Karadelev",
+        "given": "M."
+      },
+      {
+        "family": "Rusevska",
+        "given": "K."
+      },
+      {
+        "family": "Aktaþ",
+        "given": "S."
+      }
+    ],
+    "title": "New records of corticioid fungi from Turkey",
+    "volume": "116",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2011",
+    "page": "421–430",
+    "URL": "https://doi.org/10.5248/116.421",
+    "DOI": "10.5248/116.421"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2004",
+    "page": "1792–1797",
+    "URL": "https://doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "J.B."
+      },
+      {
+        "family": "Everhart",
+        "given": "B.M."
+      }
+    ],
+    "title": "New species of fungi from various localities with notes on some published species",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1900",
+    "page": "49–64",
+    "URL": "https://doi.org/10.2307/2478343",
+    "DOI": "10.2307/2478343"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes – application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Langer",
+        "given": "E."
+      }
+    ],
+    "title": "First inventory of aphyllophoroid basidiomycetes of Zagros forests, W Iran",
+    "volume": "151",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issued": "2017",
+    "page": "844–854",
+    "URL": "https://doi.org/10.1080/11263504.2016.1211199",
+    "DOI": "10.1080/11263504.2016.1211199"
+  },
+  {
+    "author": [
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Hallenberg",
+        "given": "N."
+      },
+      {
+        "family": "Kotiranta",
+        "given": "H."
+      }
+    ],
+    "title": "Additions to the corticioids of the Caucasus from NW Iran",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2008",
+    "page": "269–293"
+  },
+  {
+    "author": [
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Hallenberg",
+        "given": "N."
+      },
+      {
+        "family": "Parmasto",
+        "given": "E."
+      },
+      {
+        "family": "Kotiranta",
+        "given": "H."
+      }
+    ],
+    "title": "A first annotated checklist of corticioid and polypore basidiomycetes of the Caucasus region",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Mycologia Balcanica",
+    "issued": "2009",
+    "page": "123–168"
+  },
+  {
+    "author": [
+      {
+        "family": "Ginns",
+        "given": "J.H."
+      },
+      {
+        "family": "Bandoni",
+        "given": "R.J."
+      }
+    ],
+    "title": "Aleurodiscus gigasporus sp.nov. from China and A. subglobosporus sp.nov. from Japan",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "5",
+    "issued": "1991",
+    "page": "548–552",
+    "URL": "https://doi.org/10.2307/3760209",
+    "DOI": "10.2307/3760209"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallenberg",
+        "given": "N."
+      },
+      {
+        "family": "Parmasto",
+        "given": "E."
+      }
+    ],
+    "title": "Phylogenetic studies in species of Corticiaceae growing on branches",
+    "volume": "90",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1998",
+    "page": "640–654",
+    "URL": "https://doi.org/10.2307/3761223",
+    "DOI": "10.2307/3761223"
+  },
+  {
+    "author": [
+      {
+        "family": "Höhnel",
+        "given": "F.von"
+      },
+      {
+        "family": "Litschauer",
+        "given": "V."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der Corticieen: II. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften Math.-naturw",
+    "volume": "I. 116",
+    "type": "article-journal",
+    "container-title": "Klasse Abt",
+    "issued": "1907",
+    "page": "739–852"
+  },
+  {
+    "author": [
+      {
+        "family": "Hopple",
+        "given": "J.S.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      }
+    ],
+    "title": "Phylogenetic relationships in the mushroom genus Coprinus and dark-spored allies based on sequence data from the nuclear gene coding for the large ribosomal subunit RNA: Divergent domains, outgroups, and monophyly",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "1999",
+    "page": "1–19",
+    "URL": "https://doi.org/10.1006/mpev.1999.0634",
+    "DOI": "10.1006/mpev.1999.0634"
+  },
+  {
+    "author": [
+      {
+        "family": "Izumitsu",
+        "given": "K."
+      },
+      {
+        "family": "Hatoh",
+        "given": "K."
+      },
+      {
+        "family": "Sumita",
+        "given": "T."
+      },
+      {
+        "family": "Kitade",
+        "given": "Y."
+      },
+      {
+        "family": "Morita",
+        "given": "A."
+      },
+      {
+        "family": "Gafur",
+        "given": "A."
+      },
+      {
+        "family": "Ohta",
+        "given": "A."
+      },
+      {
+        "family": "Kawai",
+        "given": "M."
+      },
+      {
+        "family": "Yamanaka",
+        "given": "T."
+      },
+      {
+        "family": "Neda",
+        "given": "H."
+      },
+      {
+        "family": "Ota",
+        "given": "Y."
+      },
+      {
+        "family": "Tanaka",
+        "given": "C."
+      }
+    ],
+    "title": "Rapid and simple preparation of mushroom DNA directly from colonies and fruiting bodies for PCR",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2011",
+    "page": "396–401",
+    "URL": "https://doi.org/10.1007/S10267-012-0182-3",
+    "DOI": "10.1007/S10267-012-0182-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Jülich",
+        "given": "W."
+      }
+    ],
+    "title": "Studies in resupinate Basidiomycetes - V. Some new genera and species",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "1979",
+    "page": "137–140"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "K.H",
+        "given": "Larsson"
+      }
+    ],
+    "title": "Phylogenetic relationships of russuloid basidiomycetes with emphasis on aphyllophoralean taxa",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2003",
+    "page": "1037–1065",
+    "URL": "https://doi.org/10.1080/15572536.2004.11833020",
+    "DOI": "10.1080/15572536.2004.11833020"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      }
+    ],
+    "title": "Re-thinking the classification of corticioid fungi",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2007",
+    "page": "1040–1063"
+  },
+  {
+    "author": [
+      {
+        "family": "Litschauer",
+        "given": "V."
+      }
+    ],
+    "title": "Beitrag zur Kenntnis der Gattung Aleurodiscus",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Annales Mycologici",
+    "issued": "1944",
+    "page": "1–23"
+  },
+  {
+    "author": [
+      {
+        "family": "Maekawa",
+        "given": "N."
+      }
+    ],
+    "title": "Taxonomic study of Japanese Corticiaceae (Aphyllophoraceae) II",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Reports of the Tottori Mycological Institute",
+    "issued": "1994",
+    "page": "1–123"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "S.L."
+      },
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      },
+      {
+        "family": "Verbeken",
+        "given": "A."
+      },
+      {
+        "family": "Nuytinck",
+        "given": "J."
+      }
+    ],
+    "title": "Perspectives in the new Russulales",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2006",
+    "page": "960–970",
+    "URL": "https://doi.org/10.1080/15572536.2006.11832625",
+    "DOI": "10.1080/15572536.2006.11832625"
+  },
+  {
+    "author": [
+      {
+        "family": "Moreno",
+        "given": "G."
+      },
+      {
+        "family": "Blanco",
+        "given": "M.N."
+      },
+      {
+        "family": "Manjón",
+        "given": "J.L."
+      }
+    ],
+    "title": "Mycological studies from the Natural Park of Monfragüe (Extremadura, Spain",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "VI. Aphyllophorales. Mycotaxon",
+    "issued": "1990",
+    "page": "351–360"
+  },
+  {
+    "author": [
+      {
+        "family": "Núñez",
+        "given": "M."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "The genus Aleurodiscus (Basidiomycotina",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "1997",
+    "page": "1–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Parmasto",
+        "given": "E."
+      },
+      {
+        "literal": "IV."
+      }
+    ],
+    "title": "Corticiaceae U.R.S.S",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Eesti NSV Teaduste Akadeemia Toimetised",
+    "issued": "1967",
+    "page": "377–394"
+  },
+  {
+    "author": [
+      {
+        "family": "Pecoraro",
+        "given": "L."
+      },
+      {
+        "family": "Angelini",
+        "given": "P."
+      },
+      {
+        "family": "Arcangeli",
+        "given": "A."
+      },
+      {
+        "family": "Biostocchi",
+        "given": "G."
+      },
+      {
+        "family": "Gargano",
+        "given": "M.L."
+      },
+      {
+        "family": "La Rosa",
+        "given": "A."
+      }
+    ],
+    "title": "Macrofungi in Mediterranean maquis along seashore and altitudinal transects",
+    "volume": "148",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issued": "2014",
+    "page": "367–376",
+    "URL": "https://doi.org/10.1080/11263504.2013.877535",
+    "DOI": "10.1080/11263504.2013.877535"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Schröter",
+        "given": "J."
+      }
+    ],
+    "title": "Kryptogamen-Flora von Schlesien 3-1",
+    "volume": "4",
+    "type": null,
+    "issued": "1888",
+    "page": "385–512"
+  },
+  {
+    "author": [
+      {
+        "family": "Skolko",
+        "given": "A.J."
+      }
+    ],
+    "title": "A cultural and cytological investigation of a two-spored Basidiomycete, Aleurodiscus canadensis n. sp",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Research",
+    "issued": "1944",
+    "page": "251–271",
+    "URL": "https://doi.org/10.1139/cjr44c-021",
+    "DOI": "10.1139/cjr44c-021"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      },
+      {
+        "family": "S.",
+        "given": "Lee"
+      },
+      {
+        "family": "J",
+        "given": "Taylor"
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      }
+    ],
+    "container-title": "PCR protocols: A guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.H."
+      }
+    ],
+    "title": "Studies on Gloeocystidiellum sensu lato (Basidiomycotina) in Taiwan",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1996",
+    "page": "1–68"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.H."
+      }
+    ],
+    "title": "Two new combinations: Amylofungus globosporus and Gloeomyces moniliformis",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1997",
+    "page": "361–364"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.H."
+      },
+      {
+        "family": "Boidin",
+        "given": "J."
+      },
+      {
+        "family": "Chien",
+        "given": "C.Y."
+      }
+    ],
+    "title": "Acanthofungus rimosus gen. et sp. nov., with reevaluation of the related genera",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2000",
+    "page": "153–161"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.H."
+      },
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      }
+    ],
+    "title": "Phylogenetic analyses of Aleurodiscus s.l. and allied genera",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2001",
+    "page": "720–731",
+    "URL": "https://doi.org/10.2307/3761826",
+    "DOI": "10.2307/3761826"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.H."
+      },
+      {
+        "family": "Wang",
+        "given": "D.M."
+      },
+      {
+        "family": "Yu",
+        "given": "S.Y."
+      }
+    ],
+    "title": "Neoaleurodiscus fujii, a new genus and new species found at the timberline in Japan",
+    "volume": "102",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2010",
+    "page": "217–223",
+    "URL": "https://doi.org/10.3852/09-052",
+    "DOI": "10.3852/09-052"
+  }
+]

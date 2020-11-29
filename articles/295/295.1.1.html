@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+	<title>  USING Next-Generation Sequencing (NGS) TO UNCOVER DIVERSITY OF WOOD-DECAYING FUNGI IN NEOTROPICAL ATLANTIC FORESTS   | VAZ | Phytotaxa</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMHUldUABAEVVdWAAADUlE=",licenseKey:"4f72ad4ec1",applicationID:"416471445"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(23),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(24),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script>
+	<meta name="description" content="  USING Next-Generation Sequencing (NGS) TO UNCOVER DIVERSITY OF WOOD-DECAYING FUNGI IN NEOTROPICAL ATLANTIC FORESTS  " />
+			<meta name="keywords" content="fungal metabarcoding, rainforest, seasonal tropical forest, lignocellulosic residues, Fungi" />
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Contributor.Sponsor" xml:lang="en" content=""/>
+	<meta name="DC.Creator.PersonalName" content="ALINE B.M. VAZ"/>
+	<meta name="DC.Creator.PersonalName" content="PAULA L.C. FONSECA"/>
+	<meta name="DC.Creator.PersonalName" content="LAURA R. LEITE"/>
+	<meta name="DC.Creator.PersonalName" content="FERNANDA BADOTTI"/>
+	<meta name="DC.Creator.PersonalName" content="ANNA C.M. SALIM"/>
+	<meta name="DC.Creator.PersonalName" content="FLAVIO M.G. ARAUJO"/>
+	<meta name="DC.Creator.PersonalName" content="SARA CUADROS-ORELLANA"/>
+	<meta name="DC.Creator.PersonalName" content="ÂNGELO A. DUARTE"/>
+	<meta name="DC.Creator.PersonalName" content="CARLOS A. ROSA"/>
+	<meta name="DC.Creator.PersonalName" content="GUILHERME OLIVEIRA"/>
+	<meta name="DC.Creator.PersonalName" content="ARISTÓTELES GÓES-NETO"/>
+	<meta name="DC.Date.created" scheme="ISO8601" content="2017-02-03"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2016-08-29"/>
+	<meta name="DC.Date.issued" scheme="ISO8601" content="2017-02-03"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2017-02-03"/>
+	<meta name="DC.Description" xml:lang="en" content=" A targeted amplicon-based metagenomics approach (metabarcoding) provides detailed access to the diversity of the mycobiome in any substrate in distinct environments on Earth. Fungi are the main decomposers of lignocellulosic woody debris in terrestrial forested ecosystems, contributing significantly to the global carbon cycle. The main objectives of this study were to assess the fungal taxonomic diversity in fallen woody debris samples from two Neotropical forest fragments (rainforest and seasonal forest), to analyze the qualitative and quantitative components of the taxonomic diversity, and to investigate the functional diversity of the ecological groups detected. Our study comprised three main methodological steps: (i) sampling in the field; (ii) extraction of DNA, amplification of targeted segments and massively parallel sequencing; and (iii) data analysis and interpretation. A total of 110 molecular operational taxonomic units showing sequence similarity of 95% or more across the two collection sites using two DNA metabarcoding markers ( ITS1  and  ITS2 ) were assigned to putative fungal genera in 59 families, 27 orders, and 3 phyla. The number of putative fungal genera and the relative abundance of reads for each genus are higher in the tropical rainforest site than in the tropical seasonal forest site. Most of the identified genera are ligninolytic and cellulolytic and/or hemicellulolytic Basidiomycota (Agaricomycetes) and Ascomycota (Sordariomycetes), but “sugar fungi” and fungi associated with plants and detritivorous insects were also detected. This is the first study using NGS as a rapid and large-scale useful strategy to uncover the diversity of wood-decaying fungi in tropical forests. "/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Identifier" content="phytotaxa.295.1.1"/>
+	<meta name="DC.Identifier.pageNumber" content="1–21"/>
+							<meta name="DC.Identifier.DOI" content="10.11646/phytotaxa.295.1.1"/>
+		<meta name="DC.Identifier.URI" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.295.1.1"/>
+	<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+	<meta name="DC.Rights" content="Copyright (c) 2017 Phytotaxa" />
+	<meta name="DC.Rights" content=""/>
+	<meta name="DC.Source" content="Phytotaxa"/>
+	<meta name="DC.Source.ISSN" content="1179-3163"/>
+	<meta name="DC.Source.Issue" content="1"/>	<meta name="DC.Source.URI" content="https://www.biotaxa.org/Phytotaxa"/>
+	<meta name="DC.Source.Volume" content="295"/>						<meta name="DC.Subject" xml:lang="en" content="fungal metabarcoding, rainforest, seasonal tropical forest, lignocellulosic residues, Fungi"/>
+				<meta name="DC.Title" content="  USING Next-Generation Sequencing (NGS) TO UNCOVER DIVERSITY OF WOOD-DECAYING FUNGI IN NEOTROPICAL ATLANTIC FORESTS  "/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Article"/>
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="Phytotaxa"/>
+	<meta name="citation_issn" content="1179-3163"/>
+        <meta name="citation_author" content="ALINE B.M. VAZ"/>
+        <meta name="citation_author_institution" content="Department of Microbiology, Federal University of Minas Gerais (UFMG), Belo Horizonte, MG, 31270-901, Brazil.
+Faculdade de Minas (FAMINAS), Belo Horizonte, MG, 31744-007, Brazil."/>
+        <meta name="citation_author" content="PAULA L.C. FONSECA"/>
+        <meta name="citation_author_institution" content="Department of Microbiology, Federal University of Minas Gerais (UFMG), Belo Horizonte, MG, 31270-901, Brazil."/>
+        <meta name="citation_author" content="LAURA R. LEITE"/>
+        <meta name="citation_author_institution" content="Oswaldo Cruz Foundation (FIOCRUZ-MG), Belo Horizonte, MG, 30.190-002, Brazil."/>
+        <meta name="citation_author" content="FERNANDA BADOTTI"/>
+        <meta name="citation_author_institution" content="Department of Chemistry, Federal Center of Technological Education of Minas Gerais (CEFET-MG), Belo Horizonte, MG, 30480-000, Brazil."/>
+        <meta name="citation_author" content="ANNA C.M. SALIM"/>
+        <meta name="citation_author_institution" content="Oswaldo Cruz Foundation (FIOCRUZ-MG), Belo Horizonte, MG, 30.190-002, Brazil."/>
+        <meta name="citation_author" content="FLAVIO M.G. ARAUJO"/>
+        <meta name="citation_author_institution" content="Oswaldo Cruz Foundation (FIOCRUZ-MG), Belo Horizonte, MG, 30.190-002, Brazil."/>
+        <meta name="citation_author" content="SARA CUADROS-ORELLANA"/>
+        <meta name="citation_author_institution" content="Oswaldo Cruz Foundation (FIOCRUZ-MG), Belo Horizonte, MG, 30.190-002, Brazil."/>
+        <meta name="citation_author" content="ÂNGELO A. DUARTE"/>
+        <meta name="citation_author_institution" content="Department of Technology, State University of Feira de Santana (UEFS), Feira de Santana, BA, 44036900, Brazil."/>
+        <meta name="citation_author" content="CARLOS A. ROSA"/>
+        <meta name="citation_author_institution" content="Department of Microbiology, Federal University of Minas Gerais (UFMG), Belo Horizonte, MG, 31270-901, Brazil."/>
+        <meta name="citation_author" content="GUILHERME OLIVEIRA"/>
+        <meta name="citation_author_institution" content="Vale Institute of Technology - Sustainable Development Belém, PA, 66055-090, Brazil."/>
+        <meta name="citation_author" content="ARISTÓTELES GÓES-NETO"/>
+        <meta name="citation_author_institution" content="Department of Microbiology, Federal University of Minas Gerais (UFMG), Belo Horizonte, MG, 31270-901, Brazil."/>
+<meta name="citation_title" content="  USING Next-Generation Sequencing (NGS) TO UNCOVER DIVERSITY OF WOOD-DECAYING FUNGI IN NEOTROPICAL ATLANTIC FORESTS  "/>
+
+	<meta name="citation_date" content="2017/02/03"/>
+
+	<meta name="citation_volume" content="295"/>
+	<meta name="citation_issue" content="1"/>
+
+			<meta name="citation_firstpage" content="1"/>
+				<meta name="citation_lastpage" content="21"/>
+								<meta name="citation_doi" content="10.11646/phytotaxa.295.1.1"/>
+		<meta name="citation_abstract_html_url" content="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.295.1.1"/>
+	<meta name="citation_language" content="en"/>
+						<meta name="citation_keywords" xml:lang="en" content="fungal metabarcoding, rainforest, seasonal tropical forest, lignocellulosic residues, Fungi"/>
+									<meta name="citation_pdf_url" content="https://www.biotaxa.org/Phytotaxa/article/download/phytotaxa.295.1.1/25987"/>
+				
+
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/compiled.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/articleView.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/lib/pkp/styles/rtEmbedded.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="https://www.biotaxa.org/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://www.biotaxa.org/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://www.biotaxa.org/public/site/sitestyle.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.biotaxa.org/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+	</script>
+	
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://www.biotaxa.org/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://www.biotaxa.org/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	
+	<script type="text/javascript" src="https://www.biotaxa.org/js/relatedItems.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/inlinePdf.js"></script>
+	<script type="text/javascript" src="https://www.biotaxa.org/js/pdfobject.js"></script>
+
+</head>
+<body id="pkp-common-openJournalSystems">
+
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	<img src="https://www.biotaxa.org/public/journals/2/pageHeaderTitleImage_en_US.jpg" width="1101" height="98" alt="Page Header" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://www.biotaxa.org/Phytotaxa/help')">Journal Help</a>
+</div><div class="block" id="sidebarSubscription">
+	<span class="blockTitle">Subscription</span>
+							Login to verify subscription
+			</div><div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+												<form method="post" action="https://www.biotaxa.org/Phytotaxa/login/signIn">
+					<table>
+						<tr>
+							<td><label for="sidebar-username">Username</label></td>
+							<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+						</tr>
+						<tr>
+							<td><label for="sidebar-password">Password</label></td>
+							<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+						</tr>
+						<tr>
+							<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+						</tr>
+					</table>
+				</form>
+						</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://www.biotaxa.org/Phytotaxa/notification">View</a></li>
+			<li><a href="https://www.biotaxa.org/Phytotaxa/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://www.biotaxa.org/Phytotaxa/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">By Issue</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/authors">By Author</a></li>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/search/titles">By Title</a></li>
+		
+					<li><a href="https://www.biotaxa.org/index">Other Journals</a></li>
+						</ul>
+	</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Algae"><span style="font-size: 92%;">Algae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Andes"><span style="font-size: 78%;">Andes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Asteraceae"><span style="font-size: 79%;">Asteraceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Atlantic%20Forest"><span style="font-size: 78%;">Atlantic Forest</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Basidiomycota"><span style="font-size: 78%;">Basidiomycota</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Brazil"><span style="font-size: 85%;">Brazil</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Bryophytes"><span style="font-size: 81%;">Bryophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Cerrado"><span style="font-size: 77%;">Cerrado</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=China"><span style="font-size: 89%;">China</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Compositae"><span style="font-size: 82%;">Compositae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Eudicots"><span style="font-size: 175%;">Eudicots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fabaceae"><span style="font-size: 78%;">Fabaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Fungi"><span style="font-size: 105%;">Fungi</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=General"><span style="font-size: 78%;">General</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=ITS"><span style="font-size: 80%;">ITS</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=IUCN"><span style="font-size: 78%;">IUCN</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=India"><span style="font-size: 82%;">India</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Iran"><span style="font-size: 77%;">Iran</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Magnoliids"><span style="font-size: 80%;">Magnoliids</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Mexico"><span style="font-size: 78%;">Mexico</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Monocots"><span style="font-size: 118%;">Monocots</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Morphology"><span style="font-size: 77%;">Morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Neotropics"><span style="font-size: 81%;">Neotropics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Nomenclature"><span style="font-size: 79%;">Nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Orchidaceae"><span style="font-size: 79%;">Orchidaceae</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Phylogeny"><span style="font-size: 79%;">Phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Pteridophytes"><span style="font-size: 83%;">Pteridophytes</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=SEM"><span style="font-size: 78%;">SEM</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=South%20America"><span style="font-size: 80%;">South America</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Taxonomy"><span style="font-size: 92%;">Taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Turkey"><span style="font-size: 79%;">Turkey</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=Vietnam"><span style="font-size: 78%;">Vietnam</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=biodiversity"><span style="font-size: 79%;">biodiversity</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=conservation"><span style="font-size: 79%;">conservation</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=diatoms"><span style="font-size: 78%;">diatoms</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=distribution"><span style="font-size: 78%;">distribution</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemic"><span style="font-size: 81%;">endemic</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=endemism"><span style="font-size: 83%;">endemism</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=flora"><span style="font-size: 78%;">flora</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotype"><span style="font-size: 81%;">lectotype</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=lectotypification"><span style="font-size: 80%;">lectotypification</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=molecular%20phylogeny"><span style="font-size: 80%;">molecular phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=morphology"><span style="font-size: 92%;">morphology</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20combination"><span style="font-size: 78%;">new combination</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20species"><span style="font-size: 101%;">new species</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=new%20taxon"><span style="font-size: 78%;">new taxon</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=nomenclature"><span style="font-size: 91%;">nomenclature</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=phylogeny"><span style="font-size: 91%;">phylogeny</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=systematics"><span style="font-size: 79%;">systematics</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=taxonomy"><span style="font-size: 162%;">taxonomy</span></a>
+			<a href="https://www.biotaxa.org/Phytotaxa/search?subject=typification"><span style="font-size: 83%;">typification</span></a>
+	</div>
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://www.biotaxa.org/Phytotaxa/information/readers">For Readers</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/authors">For Authors</a></li>		<li><a href="https://www.biotaxa.org/Phytotaxa/information/librarians">For Librarians</a></li>	</ul>
+</div>
+
+
+<div class="block" id="sidebarRTArticleTools">
+
+	<span class="blockTitle">Article Tools</span>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/printArticle.png" class="articleToolIcon" alt="" /> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/printerFriendly/phytotaxa.295.1.1/0');">Print this article</a>
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/metadata.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/metadata/phytotaxa.295.1.1/0');">Indexing metadata</a><br />
+		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/citeArticle.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/captureCite/phytotaxa.295.1.1/0');">How to cite item</a><br />
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/findingReferences.png" class="articleToolIcon" alt=""/> <a href="javascript:openRTWindow('https://www.biotaxa.org/Phytotaxa/rt/findingReferences/23700/0');">Finding References</a>
+		</div>
+					<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email this article <span style="font-size: 0.8em">(Login required)</span>		</div>
+				<div class="articleToolItem">
+			<img src="https://www.biotaxa.org/plugins/blocks/readingTools/icons/emailArticle.png" class="articleToolIcon" alt=""/>
+			Email the author <span style="font-size: 0.8em">(Login required)</span>		</div>
+		</div>
+
+
+<script type="text/javascript">
+	initRelatedItems();
+</script>
+
+
+<div class="block" id="sidebarRTRelatedItems">
+	<span class="blockTitle">Related Items</span>
+		<table width="100%">
+			<tr>
+				<td valign="top" style="width:26px;">
+					<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/lookupTerms.png" class="articleToolIcon" alt=""/>
+				</td>
+				<td valign="top">
+					<div id="relatedItems">
+						<ul class="plain">
+																					<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/445');">Author&#039;s work</a></li>
+																																									<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/447');">Related studies</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/448');">Book searches</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/449');">Pay-per-view</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/450');">Relevant portals</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/451');">Online forums</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/452');">Teaching files</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/453');">Government policy</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/454');">Media reports</a></li>
+																												<li><a href="javascript:openRTWindowWithToolbar('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/455');">Web search</a></li>
+																			</ul>
+					</div>
+					<div id="toggleRelatedItems">
+						<a id="hideRelatedItems" style="display:none;" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_out.png" alt=""/> 
+							Hide
+						</a>
+						<a id="showRelatedItems" href="javascript:void(0)">
+							<img src="https://www.biotaxa.org/plugins/blocks/relatedItems/icons/magnifier_zoom_in.png" alt=""/>
+							Show all
+						</a>
+					</div>
+				</td>
+			</tr>
+		</table>
+</div>
+
+
+<div class="block" id="sidebarRTAuthorBios">
+	<span class="blockTitle">
+					About The Authors
+			</span>
+		<div class="authorBio">
+	<p>
+		<em>ALINE B.M. VAZ</em>
+								<br />Department of Microbiology, Federal University of Minas Gerais (UFMG), Belo Horizonte, MG, 31270-901, Brazil.
+Faculdade de Minas (FAMINAS), Belo Horizonte, MG, 31744-007, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>PAULA L.C. FONSECA</em>
+								<br />Department of Microbiology, Federal University of Minas Gerais (UFMG), Belo Horizonte, MG, 31270-901, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>LAURA R. LEITE</em>
+								<br />Oswaldo Cruz Foundation (FIOCRUZ-MG), Belo Horizonte, MG, 30.190-002, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>FERNANDA BADOTTI</em>
+								<br />Department of Chemistry, Federal Center of Technological Education of Minas Gerais (CEFET-MG), Belo Horizonte, MG, 30480-000, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ANNA C.M. SALIM</em>
+								<br />Oswaldo Cruz Foundation (FIOCRUZ-MG), Belo Horizonte, MG, 30.190-002, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>FLAVIO M.G. ARAUJO</em>
+								<br />Oswaldo Cruz Foundation (FIOCRUZ-MG), Belo Horizonte, MG, 30.190-002, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>SARA CUADROS-ORELLANA</em>
+								<br />Oswaldo Cruz Foundation (FIOCRUZ-MG), Belo Horizonte, MG, 30.190-002, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ÂNGELO A. DUARTE</em>
+								<br />Department of Technology, State University of Feira de Santana (UEFS), Feira de Santana, BA, 44036900, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>CARLOS A. ROSA</em>
+								<br />Department of Microbiology, Federal University of Minas Gerais (UFMG), Belo Horizonte, MG, 31270-901, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>GUILHERME OLIVEIRA</em>
+								<br />Vale Institute of Technology - Sustainable Development Belém, PA, 66055-090, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div class="authorBio">
+	<p>
+		<em>ARISTÓTELES GÓES-NETO</em>
+								<br />Department of Microbiology, Federal University of Minas Gerais (UFMG), Belo Horizonte, MG, 31270-901, Brazil.		<br />Brazil	</p>
+
+	<p></p>
+	</div>
+	
+	</div>
+			</div>
+			</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="https://www.biotaxa.org/Phytotaxa/index">Home</a></li>
+		<li id="about"><a href="https://www.biotaxa.org/Phytotaxa/about">About</a></li>
+
+					<li id="login"><a href="https://www.biotaxa.org/Phytotaxa/login">Login</a></li>
+							<li id="register"><a href="https://www.biotaxa.org/Phytotaxa/user/register">Register</a></li>
+												<li id="search"><a href="https://www.biotaxa.org/Phytotaxa/search">Search</a></li>
+		
+					<li id="current"><a href="https://www.biotaxa.org/Phytotaxa/issue/current">Current</a></li>
+			<li id="archives"><a href="https://www.biotaxa.org/Phytotaxa/issue/archive">Archives</a></li>
+		
+					<li id="announcements"><a href="https://www.biotaxa.org/Phytotaxa/announcement">Announcements</a></li>
+				
+
+									<li class="navItem" id="navItem-0"><a href="http://www.mapress.com/phytotaxa/">Publisher</a></li>
+												<li class="navItem" id="navItem-1"><a href="http://www.biotaxa.org">Biotaxa</a></li>
+						</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://www.biotaxa.org/Phytotaxa/index" target="_parent">Home</a> &gt;
+	<a href="https://www.biotaxa.org/Phytotaxa/issue/view/phytotaxa.295.1" target="_parent">Vol 295, No 1</a> &gt;	<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.295.1.1/0" class="current" target="_parent">VAZ</a>
+</div>
+
+<div id="content">
+
+
+	<div id="topBar">
+							<div id="accessKey">
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_open_medium.gif" alt="Open Access" />
+				Open Access&nbsp;
+				<img src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_restricted_medium.gif" alt="Restricted Access" />
+									Subscription Access
+							</div>
+			</div>
+		
+	<div id="articleTitle"><h3><p><strong>USING Next-Generation Sequencing (NGS) TO UNCOVER DIVERSITY OF WOOD-DECAYING FUNGI IN NEOTROPICAL ATLANTIC FORESTS</strong></p></h3></div>
+	<div id="authorString"><em>ALINE B.M. VAZ, PAULA L.C. FONSECA, LAURA R. LEITE, FERNANDA BADOTTI, ANNA C.M. SALIM, FLAVIO M.G. ARAUJO, SARA CUADROS-ORELLANA, ÂNGELO A. DUARTE, CARLOS A. ROSA, GUILHERME OLIVEIRA, ARISTÓTELES GÓES-NETO</em></div>
+	<br />
+			<div id="articleAbstract">
+		<h4>Abstract</h4>
+		<br />
+		<div><p>A targeted amplicon-based metagenomics approach (metabarcoding) provides detailed access to the diversity of the mycobiome in any substrate in distinct environments on Earth. Fungi are the main decomposers of lignocellulosic woody debris in terrestrial forested ecosystems, contributing significantly to the global carbon cycle. The main objectives of this study were to assess the fungal taxonomic diversity in fallen woody debris samples from two Neotropical forest fragments (rainforest and seasonal forest), to analyze the qualitative and quantitative components of the taxonomic diversity, and to investigate the functional diversity of the ecological groups detected. Our study comprised three main methodological steps: (i) sampling in the field; (ii) extraction of DNA, amplification of targeted segments and massively parallel sequencing; and (iii) data analysis and interpretation. A total of 110 molecular operational taxonomic units showing sequence similarity of 95% or more across the two collection sites using two DNA metabarcoding markers (<em>ITS1</em> and <em>ITS2</em>) were assigned to putative fungal genera in 59 families, 27 orders, and 3 phyla. The number of putative fungal genera and the relative abundance of reads for each genus are higher in the tropical rainforest site than in the tropical seasonal forest site. Most of the identified genera are ligninolytic and cellulolytic and/or hemicellulolytic Basidiomycota (Agaricomycetes) and Ascomycota (Sordariomycetes), but “sugar fungi” and fungi associated with plants and detritivorous insects were also detected. This is the first study using NGS as a rapid and large-scale useful strategy to uncover the diversity of wood-decaying fungi in tropical forests.</p></div>
+		<br />
+		</div>
+	
+			<div id="articleSubject">
+		<h4>Keywords</h4>
+		<br />
+		<div>fungal metabarcoding, rainforest, seasonal tropical forest, lignocellulosic residues, Fungi</div>
+		<br />
+		</div>
+	
+				
+			<div id="articleFullText">
+		<h4>Full Text:</h4>
+									<a href="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.295.1.1/25987" class="file" target="_parent">PDF/A (533KB)</a>
+																			<img class="accessLogo" src="https://www.biotaxa.org/lib/pkp/templates/images/icons/fulltext_open_medium.gif" alt="Open Access" />
+											</div>
+	
+			<div id="articleCitations">
+		<h4>References</h4>
+		<br />
+		<div>
+							<p><p>Bazzicalupo, A.L., Bálint, M. &amp; Schmitt, I. (2013) Comparison of ITS1 and ITS2 rDNA in 454 sequencing of hyperdiverse fungal communities. <em>Fungal Ecology</em> 6: 102–109.</p><p>Berg, B. &amp; McClaugherty, C. (2008) Decomposition of fine root and woody litter. <em>In: </em>Berg, B. &amp; McClaugherty, C. (Eds.) <em>Plant litter: Decomposition, Humus formation, carbon sequestration</em>. Springer, Berlin, pp. 171–199.</p><p>Blaalid, R., Kumar, S., Nilsson, R.H., Abarenkov, K., Kirk, P.M. &amp; Kauserud, H. (2013) ITS1 versus ITS2 as DNA metabarcodes for fungi. <em>Molecular Ecology Resources</em> 13: 218–224.</p><p>Blackwell, M., Suh, S.O. &amp; Nardi, J.B. (2007) Fungi in the hidden environment: the gut of beetles. <em>In:</em> Gadd, G.M., Watkinson, S.C. &amp; Dyer, P.S. (Eds.) <em>Fungi in the Environment</em>. British Mycological Society Symposia, Cambridge, pp. 357–370.</p><p>Boddy, L. (2001) Fungal community ecology and wood decomposition processes in angiosperms: from standing trees to complete decayes coarse woody debris. <em>Ecological Bulletins</em> 49: 43–56.</p><p>Calderon, O. &amp; Berkov, A. (2012) Midgut and fat body bacteriocytes in neotropical cerambycid beetles (Coleoptera: Cerambycidae). <em>Environmental Entomology</em> 41: 108–117.</p><p>Camacho, C., Coulouris, G., Avagyan, V., Ma, N., Papadopoulos, J., Bealer, K. &amp; Madden, T.L. (2008) BLAST+: architecture and applications.<em> BMC Bioinformatics</em> 10: 421.</p><p>Cannon, P. &amp; Sutton, B. (2004) Microfungi on wood and plant debris. <em>In:</em> Mueller, G., Bills, G. &amp; Foster, M. (Eds.) <em>Biodiversity of fungi: inventory and monitoring methods</em>. Elsevier Academic Press, Burlington, pp. 217–239.</p><p>Cannon, P.F. &amp; Kirk, P.M. (2007) <em>Fungal families of the world</em>. CABI, United Kingdom, 456 pp.</p><p>Canhos, D.A.L., Sousa-Baena, M.S., Souza, S. de, Maia, L.C., Stehmann, J.R., Canhos, V.P., Giovanni, R. De., Bonacelli, M.B.M., Los, W. &amp; Peterson, A.T. (2015) The importance of biodiversity E-infrastructures for megadiverse countries. <em>PLoS Biology</em> 13.7: e1002204.</p><p>Clausen, C.A. &amp; Green, F. (2003) Oxalic acid overproduction by copper-tolerant brown-rot basidiomycetes on southern yellow pine treated with copper-based preservatives. <em>International Biodeterioration &amp; Biodegradation</em> 51<em> </em>(2): 139–144.</p><p>Cuadros-Orellana, S., Leite, L.R., Smith, A., Medeiros, J.D., Badotti, F., Fonseca, P.L.C., Vaz, A.B.M., Oliveira, G. &amp; Góes-Neto, A. (2013) Assessment of Fungal Diversity in the Environment using Metagenomics: a Decade in Review. <em>Fungal Genomics &amp; Biology</em> 3: 110.</p><p>Davis, T.S. (2014) The ecology of yeasts in the bark beetle holobiont: A century of research revisited. <em>Microbial Ecology</em> 69: 723.</p><p>Edgar, R.C. (2010) Search and clustering orders of magnitude faster than BLAST. <em>Bioinformatics</em> 26: 2460–2461.</p><p>Eichlerová, I., Homolka, L., Žifčáková, L., Lisá, L., Dobiášová, P. &amp; Baldrian, P. (2015) Enzymatic systems involved in decomposition reflects the ecology and taxonomy of saprotrophic fungi. <em>Fungal Ecol</em>ogy 13: 10–22.</p><p>Evert, R.F. &amp; Eichorn, S.E. (2013) <em>Raven Biology of Plants</em>. W.H. Freeman and Company, New York, USA, 880 pp.</p><p>Goodwin, S., McPherson, J.D. &amp; McCombie, W.R. (2016) Coming of age: ten years of next-generation sequencing technologies. <em>Nature Reviews Genetics</em> 17: 333–351.</p><p>Góes-Neto, A., Loguercio-Leite, C. &amp; Guerrero, R.T. (2005) DNA extraction from frozen field collected and dehydrated herbarium fungal basidiomata: performance of SDS and CTAB-based methods. <em>Biotemas</em> 18: 19–32.</p><p>Hatakka, A. (2001) Biodegradation of lignin. <em>In: </em>Hofrichter, M. &amp; Steinbüchel, A. (Eds.)<em> Lignin, Humic Substances and Coal (Biopolymers </em>Vol. 1.). Wiley-VCH, Weinheim, Germany, pp. 129–180.</p><p>Hibbett, D.S. (2014) Major events in the evolution of the Fungi. <em>In:</em> Losos, J. (Ed.)<em> Princeton Guide to Evolution</em>. Princeton University Press.</p><p>Hoppe, B., Purahong, W., Wubet, T., Kahl, T., Bauhus, J., Arnstadt, T., Hofrinchter, M., Buscot, F. &amp; Krüger, D. (2015) Linking molecular deadwood-inhabiting fungal diversity and community dynamics to ecosystem functions and processes in Central European forests. <em>Fungal Diversity</em> 77: 1–13.</p><p>Huang, C.L., Jian, F.Y., Huang, H.J., Chang, W.C., Wu, W.L., Hwang, C.C., Lee, R.H. &amp; Chiang, T.Y. (2014) Deciphering mycorrhizal fungi in cultivated <em>Phanaelopsis</em> microbiome with next-generation sequencing of multiple barcodes. <em>Fungal Diversity</em> 66: 77–88.</p><p>Jang, Y., Jang, S., Min, M., Hong, J.H., Lee, H., Lee, H., Lim, Y.W. &amp; Kim, J.J. (2015) Comparison of the Diversity of Basidiomycetes from Dead Wood of the Manchurian fir (<em>Abies holophylla</em>) as Evaluated by Fruiting Body Collection, Mycelial Isolation, and 454 Sequencing. <em>Microbial ecology</em> 70 (3): 634–645.</p><p>Johnson, J. &amp; Vilgalys, R. (1998) Phylogenetic systematics of <em>Lepiota</em> sensu lato based on nuclear large subunit rDNA evidence. <em>Mycologia</em>: 971–979.</p><p>Koljalg, U., Nilsson, R.H., Abarenkov, K., Tedersoo, L., Taylor, A.F.S., Bahram, M., Bates, S.T., Bruns, T.D., Bengtsson-Palme, J., Callaghan, T.M., Douglas, B., Drenkhan, T., Eberhardt, U., Dueñas, M., Grebenc, T., Griffith, Hartmann, M., Kirk, P.M., Kohout, P., Larsson, E., Lindahl, B.D., Lücking, R., Martín, M.P., Matheny, P.B., Hguyen, N.H., Niskanen, T., Oja, J., Peay, K.G., Peintner, U., Peterson, M., Põldmaa, K., Saag, L., Saar, I., Schüßler, A., Scott, J.A., Senés, C., Smith, M.E., Suija, A., Taylor, D.L., Telleria, M.T., Weiss, M. &amp; Larsson, K.H. (2013) Towards a unified paradigm for sequence-based identification of fungi. <em>Molecular Ecology</em> 22: 5271–5277.</p><p>Keller, M., Palace, M., Asner, G.P., Pereira, R. &amp; Silva, J.N.M. (2004) Coarse woody debris in undisturbed and logged forests in the eastern Brazilian Amazon. <em>Global Change Biology</em> 10: 784–795.</p><p>Kubartova, A., Ottosson, E., Dahlberg, A. &amp; Stenlid, J. (2012) Patterns of fungal communities among and within decaying logs, revealed by 454 sequencing. <em>Molecular Ecology</em> 21: 4514–4532.</p><p>Lindahl, B.D., Nilsson, R.H., Tedersoo, L., Abarenkov, K., Carlsen, T., Kjøller, R., Kõljalg, U., Pennanen, T., Rosendahl, S., Stenlid, J. &amp; Kauserud, H. (2013). Fungal community analysis by high-throughput sequencing of amplified markers – a user’s guide. <em>New Phytologist</em> 199: 288–299.</p><p>Lindner, D.L., Carlsen, T., Henrik, N.R., Davey, M., Schumacher, T. &amp; Kauserud, H. (2013) Employing 454 amplicon pyrosequencing to reveal intragenomic divergence in the internal transcribed spacer rDNA region in fungi. <em>Ecology and Evolution</em> 3: 1751–1764.</p><p>Lombard, V., Ramulu, H.G., Drula, E., Coutinho, P.M. &amp; Henrissat, B. (2014) The carbohydrate-active enzymes database (CAZy) in 2013. <em>Nucleic acids research</em> 42<em> </em>(D1): D490–D495.</p><p>Lopes, W. de P., da Silva, A.F., de Souza, A.L. &amp; Neto, J.A.A.M. (2002) Estrutura fitossociológica de um trecho de vegetação arbórea no Parque Estadual do Rio Doce-Minas Gerais, Brasil. <em>Acta Botanica Brasilica</em> 16: 443–456.</p><p>Maia, L.C., Carvalho Júnior, A.A.D., Cavalcanti, L.D.H., Gugliotta, A.D.M., Drechsler-Santos, E.R., Santiago, A.L.D.A., Cáceres, M.E.D.A., Gibertoni, T.B., Aptroot, A., Giachini, A.J., Soares, A.M.D.S., Silva, A.C.G., Magnago, A.C., Goto, B.T., Lira, C.R.S. de, Montoya, C.A.S., Pires-Zottarelli, C.L.A., Silva, D.K.A. de, Soares, D.J., Rezende, D.H.C., Luz, E.D.M.N., Gumboski, E.L., Wartchow, F., Karstedt, F., Freire, F.M., Coutinho, F.P., Melo, G.S.N. de, Sotão, H.M.P., Baseia, I.G., Pereira, J., Oliveira, J.J.S. de, Souza, J.F., Bezerra, J.L., Neta, L.S.A., Pfenning, L.H., Gusmão, L.F.P., Neves, M.A., Capelari, M., Jaeger, M.C.W., Pulgarín, M.P., Menolli, N. Jr., Medeiros, P.S. de, Friedrich, R.C.S., Chikowski, R. dos S., Pires, R.M., Melo, R.F., Silveira, R.M.B. da, Urrea-Valencia, S., Cortez, V.G. &amp; Soares, A.M.D.S. (2015) Diversity of Brazilian Fungi. <em>Rodriguésia</em> 66 (4): 1033–1045.</p><p>Martin, K.J. &amp; Rygiewicz, P.T. (2005) Fungal-specific PCR primers developed for analysis of the ITS region of environmental DNA extracts. <em>BMC Microbiology</em> 5: 28.</p><p>Martini, A.M.Z., Fiaschi, P., Amorim, A.M. &amp; da Paixão, J.L. (2007) A hot-point within a hot-spot: a high diversity site in Brazil’s Atlantic Forest. <em>Biodiversity and Conservation </em>16: 3111–3128.</p><p>Meyer, E.M., De Beer, Z.W., Summerbell, R.C., Moharram, A.M., de Hoog, G.S., Vismer, H.F. &amp; Wingfield, M.J. (2008) Taxonomy and phylogeny of new wood-and soil-inhabiting <em>Sporothrix</em> species in the <em>Ophiostoma stenoceras-Sporothrix schenckii</em> complex. <em>Mycologia </em>100: 647–661.</p><p>Morgenstern, I., Klopman, S. &amp; Hibbett, D.S. (2008) Molecular evolution and diversity of lignin degrading heme Peroxidase in the Agaricomycetes. <em>Journal of Molecular Evolution</em> 66: 243–257.</p><p>Nilsson, R.H., Kristiansson, E., Ryberg, M., Hallenberg, N. &amp; Larsson, K.-H. (2008) Intraspecific ITS variability in the kingdom Fungi as expressed in the international sequence databases and its implications for molecular species identification. <em>Evolutionary Bioinformatics</em> 4: 193–201.</p><p>Nilsson, R.H., Veldre, V., Hartmann, M., Unterseher, M., Amend, A., Bergsten, J., Kristiansson, E., Ryberg, M., Jumpponen, A. &amp; Abarenkov, K. (2010) An open source software package for automated extraction of ITS1 and ITS2 from fungal ITS sequences for use in high-throughput community assays and molecular ecology. <em>Fungal Ecology</em> 3: 284–287.</p><p>Ottosson, E., Kubartová, A., Edman, M., Jönsson, M., Lindhe, A., Stenlid, J., &amp; Dahlberg, A. (2015) Diverse ecological roles within fungal communities in decomposing logs of Picea abies. <em>FEMS Microbiology Ecology</em> 91 (3).</p><p>Ovaskainen, O., Nokso-Koivisto, J., Hottola, J., Rajala, T., Pennanen, T., Ali-Kovero, H., Miettinen, O., Oinnonen, P., Auvinen, P., Paulin, L., Larsson, K.H. &amp; Mäkipää, R. (2010) Identifying wood-inhabiting fungi with 454 sequencing–what is the probability that BLAST gives the correct species? <em>Fungal Ecology</em> 3: 274–283.</p><p>Ovaskainen, O., Schigel, D., Ali-Kovero, H., Auvinen, P., Paulin, L., Nordén, B. &amp; Nordén, J. (2013) Combining high-throughput sequencing with fruit body surveys reveals contrasting life-history strategies in fungi. <em>ISME Journal</em> 7: 1696–1709.</p><p>Pointing, S.B., Parungao, M.M. &amp; Hyde, K.D. (2003) Production of wood-decay enzymes, mass loss and lignin solubilization in wood by tropical <em>Xylariaceae</em>. <em>Mycological Research</em> 107: 231–235.</p><p>Porras-Alfaro, A., Liu, K.L., Kuske, C.R. &amp; Xiec, G. (2014) From Genus to Phylum: Large-Subunit and Internal Transcribed Spacer rRNA Operon Regions Show Similar Classification Accuracies Influenced by Database Composition. <em>Applied Environmental Microbiology</em> 80: 829.</p><p>Pylro, V.S. (2013) Brazilian Microbiome Project: Revealing the Unexplored Microbial Diversity—Challenges and Prospects. <em>Microbial Ecology.</em></p><p>R Development Core Team (2016) <em>R: a Language and Environment for Statistical Computing</em>. Available from: http://www.rproject.org. (acessed 10 July 2016)</p><p>Ribeiro, M.C., Metzger, J.P., Martensen, A.C., Ponzoni, F.J. &amp; Hirota, M.M. (2009) The Brazilian Atlantic Forest: How much is left, and how is the remaining forest distributed? Implications for conservation. <em>Biological Conservation</em> 142:<strong> </strong>1141–1153.</p><p>Riley, R., Salamov, A.A., Brown, D.W., Nagy, L.G., Floudas, D., Held, B.W., Levasseur, A., Lombard, V., Morin, E., Otilar, R., Lindquist, E.A., Sun, H., LaButti, K.M., Schmutz, J., Jabbour, D., Luo, H., Baker, S.E., Pisabarro, A.G., Walton, J.D., Blanchette, R.A., Henrissat, B., Martin, F., Cullen, D., Hibbett, D.S. &amp; Grigoriev, I.V. (2014) Extensive sampling of basidiomycete genomes demonstrates inadequacy of the white-rot/brown-rot paradigm for wood decay fungi. <em>Proceedings of the National Academy of Sciences</em> 111: 9923–9928.</p><p>Rothberg, J.M., Hinz, W., Rearick, T.M., Schultz, J., Mileski, W., Davey, M., Leamon, J.H., Johnson, K., Milgrew, M.J., Edwards, M., Hoon, J., Simons, J.F., Marran, D., Myers, J.W., Davidson, J.F., Branting, A., Nobile, J.R., Puc, B.P., Light, D., Clark, T.A., Huber, M., Branciforte, J.T., Stoner, I.B., Cawley, S.E., Lyons, M., Fu, Y., Homer, N., Sedova, M., Miao, X., Reed, B., Sabina, J., Feierstein, E., Schorn, M., Alanjary, M., Dimalanta, E., Dressman, D., Kasinskas, R., Sokolsky, T., Fidanza, J.A., Namsaraev, E., McKernan, K.J., Williams, A., Roth, G.T. &amp; Bustillo, J. (2011) An integrated semiconductor device enabling non-optical genome sequencing.<em> Nature</em> 475: 348–352.</p><p>Runnel, K., Tamm, H. &amp; Lõhmus, A. (2015) Surveying wood-inhabiting fungi: most molecularly detected polypore species form fruit-bodies within short distances. <em>Fungal Ecology</em> 18: 93–99.</p><p>Rush, T.A. &amp; Aime, M.C. (2013) The genus <em>Meira</em>: phylogenetic placement and description of a new species. <em>Antonie van Leeuwenhoek</em> 103: 1097–1106.</p><p>Ryvarden, L. (1991) <em>Genera of Polypores: Nomenclature and Taxonomy (Synopsis Fungorum Ser, n5).</em> Lubrecht &amp; Cramer Ltd, 373 pp.</p><p>Ryvarden, L. (1993) Tropical polypores. <em>In:</em> British Mycological Society Symposium Series (Vol. 19). Cambridge University Press, pp. 149–149.</p><p>Schwarze, F.W. (2007) Wood decay under the microscope. <em>Fungal Biology Reviews </em>21: 133–170.</p><p>Schwarze, F.W.M.R., Engels, J. &amp; Mattheck, C. (2000) <em>Fungal strategies of wood decay in trees</em>. Springer, Berlin, 183 pp.</p><p>Schoch, C.L., Seifert, K.A., Huhndorf, S., Robert, V., Spouge, J.L., Levesque, C.A., Chen, W. &amp; Fungal Barcoding Consortium (2012) Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for Fungi. <em>Proceedings of the National Academy of Sciences USA</em> 109: 6241–6246.</p><p>Schomburg, I., Chang, A., Placzek, S., Söhngen, C., Rother, M., Lang, M. &amp; Scheer, M. (2012) BRENDA in 2013: integrated reactions, kinetic data, enzyme function data, improved disease classification: new options and contents in BRENDA. <em>Nucleic acids research</em>: gks1049.</p><p>Seifert, K.A. (1983) Decay of wood by the Dacrymycetales. <em>Mycologia</em> 75: 1011–1018.</p><p>Stokland, J.N., Siitonen, J. &amp; Jonsson, B.G. (2012) <em>Biodiversity in dead wood</em>. Cambridge University Press, London, 521 pp.</p><p>Suhara, H., Maekawa, N., Ushijima, S., Kinjo, K. &amp; Hoshi, Y. (2010) <em>Asterostroma </em>species (Basidiomycota) from mangrove forests in Japan. <em>Mycoscience</em> 51<em> </em>(1): 75–80.</p><p>Tedersoo, L., Bahram, M., Põlme, S., Kõljalg, U., Yorou, N.S., Wijesundera, R., Villarreal, R.L., Vasco-Palacios, A.M., Thu, P.Q., Suija, A., Smith, M.E., Sharp, C., Saluveer, E., Saitta, A., Rosas, M., riit, T. &amp; Abarenkov, K. (2014) Fungal biogeography. Global diversity and geography of soil fungi. <em>Science</em> 346: 1256688.</p><p>Urbina, H., Schuster, J. &amp; Blackwell, M. (2013) The gut of Guatemalan passalid beetles: a habitat colonized by cellobiose-and xylose-fermenting yeasts. <em>Fungal Ecology</em> 6: 339–355.</p><p>Van der Wal, A., Ottosson, E. &amp; de Boer, W. (2015) Neglected role of fungal community composition in explaining variation in wood decay rates.<em> Ecology</em> 96 (1): 124–133.</p><p>Vellinga, E.C. (2004) Ecology and distribution of Lepiotaceous fungi (Agaricaceae)–A Review. <em>Nova Hedwigia</em> 78<em> </em>(3–4): 273–299.</p><p>Wang, Q.M., Theelen, B., Groenewald, M. &amp; Bai, F.Y. (2014) Boekhout T. <em>Moniliellomycetes</em> and <em>Malasseziomycetes</em>, two new classes in <em>Ustilaginomycotina</em>. <em>Persoonia</em> 33: 41–47.</p><p>Yamashita, S., Masuya, H., Abe, S., Masaki, T. &amp; Okabe, K. (2015) Relationship between the Decomposition Process of Coarse Woody Debris and Fungal Community Structure as Detected by High-Throughput Sequencing in a Deciduous Broad-Leaved Forest in Japan. <em>PLoS ONE</em> 10 (6): e0131510.</p><p>Yoon, J. &amp; Kim, Y. (2005) Degradation of crystalline cellulose by the brown-rot basidiomycete Fomitopsis palustris. <em>The Journal of Microbiology</em> 43 (6): 487.</p><p>Zhao, Z., Liu, H., Wang, C. &amp; Xu, J.R. (2013) Correction: Comparative analysis of fungal genomes reveals different plant cell wall degrading capacity in fungi. <em>BMC Genomics</em> 15: 6.</p><p>Zhou, S. &amp; Ingram, L.O. (2000) Synergistic hydrolysis of carboxymethyl cellulose and acid-swollen cellulose by two endoglucanases (CelZ and CelY) from <em>Erwinia</em> <em>chrysanthemi</em>. <em>Journal of Bacteriol</em>ogy 82: 5676–5682.</p></p>
+					</div>
+		<br />
+		</div>
+	
+							<br />
+		<br />
+		DOI: <a id="pub-id::doi" href="https://doi.org/10.11646/phytotaxa.295.1.1">https://doi.org/10.11646/phytotaxa.295.1.1</a>																				
+
+<div class="separator"></div>
+
+<h3>Refbacks</h3>
+
+<ul>
+				<li>There are currently no refbacks.</li>
+	</ul>
+
+
+		
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_id=https%3A%2F%2Fwww.biotaxa.org%2FPhytotaxa%2Farticle%2Fview%2F23700&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.title=Phytotaxa&amp;rft.jtitle=Phytotaxa&amp;rft.atitle=%3Cp%3E%3Cstrong%3EUSING+Next-Generation+Sequencing+%28NGS%29+TO+UNCOVER+DIVERSITY+OF+WOOD-DECAYING+FUNGI+IN+NEOTROPICAL+ATLANTIC+FORESTS%3C%2Fstrong%3E%3C%2Fp%3E&amp;rft.artnum=phytotaxa.295.1.1&amp;rft.stitle=Phytotaxa&amp;rft.volume=295&amp;rft.issue=1&amp;rft.aulast=VAZ&amp;rft.aufirst=ALINE+B.M.&amp;rft.auinit=&amp;rft.date=2017-02-03&amp;rft.au=ALINE+B.M.+VAZ&amp;rft.au=PAULA+L.C.+FONSECA&amp;rft.au=LAURA+R.+LEITE&amp;rft.au=FERNANDA+BADOTTI&amp;rft.au=ANNA+C.M.+SALIM&amp;rft.au=FLAVIO+M.G.+ARAUJO&amp;rft.au=SARA+CUADROS-ORELLANA&amp;rft.au=%C3%82NGELO+A.+DUARTE&amp;rft.au=CARLOS+A.+ROSA&amp;rft.au=GUILHERME+OLIVEIRA&amp;rft.au=ARIST%C3%93TELES+G%C3%93ES-NETO&amp;rft_id=info%3Adoi%2F10.11646%2Fphytotaxa.295.1.1&amp;rft.pages=1%E2%80%9321&amp;rft.issn=1179-3155&amp;rft.eissn=1179-3163"></span>
+<!-- Google Analytics -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89286081-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<!-- End Google Analytics -->
+<br /><br />
+<p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;"><img src="/public/site/images/mapress/mpicon.gif" alt="" /></span></p><p><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN <span lang="EN-AU">1179-3155 (print); </span></span><span style="color: #0099cc; font-family: 'Times New Roman'; font-size: small;">ISSN 1179-3163 (online)</span></p><p>Published by <a title="Magnolia Press" href="http://www.mapress.com/phytotaxa/index.htm" target="_blank">Magnolia Press</a>, Auckland, New Zealand</p><div> </div>
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+<script type="text/javascript">
+
+<!--
+	// Open "Define Terms" context when double-clicking any text
+	function openSearchTermWindow(url) {
+		var term;
+		if (window.getSelection) {
+			term = window.getSelection();
+		} else if (document.getSelection) {
+			term = document.getSelection();
+		} else if(document.selection && document.selection.createRange && document.selection.type.toLowerCase() == 'text') {
+			var range = document.selection.createRange();
+			term = range.text;
+		}
+		if (term != ""){
+			if (url.indexOf('?') > -1) openRTWindowWithToolbar(url + '&defineTerm=' + term);
+			else openRTWindowWithToolbar(url + '?defineTerm=' + term);
+		}
+	}
+
+	if(document.captureEvents) {
+		document.captureEvents(Event.DBLCLICK);
+	}
+
+	// Make sure to only open the reading tools when double clicking within the galley
+	if (document.getElementById('inlinePdfResizer')) {
+		context = document.getElementById('inlinePdfResizer');
+	}
+	else if (document.getElementById('content')) {
+		context = document.getElementById('content');
+	}
+	else {
+		context = document;
+	}
+
+	context.ondblclick = new Function("openSearchTermWindow('https://www.biotaxa.org/Phytotaxa/rt/context/phytotaxa.295.1.1/0/446')");
+// -->
+
+</script>
+
+
+</div> <!-- container -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"4f72ad4ec1","applicationID":"416471445","transactionName":"ZF0AZkZRWRVUVEINDF0XN0BdH14IUVJOShNbSA==","queueTime":0,"applicationTime":354,"atts":"SBoDEA5LShs=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

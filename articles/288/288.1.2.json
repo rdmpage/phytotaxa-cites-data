@@ -1,0 +1,581 @@
+[
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "R."
+      }
+    ],
+    "title": "Flora von Nieder-Österreich2(1",
+    "publisher": "Wein,C. Gerold",
+    "type": "book",
+    "issued": "1892",
+    "page": "588"
+  },
+  {
+    "author": [
+      {
+        "family": "Blakelock",
+        "given": "R.A."
+      }
+    ],
+    "title": "Euonymus frigidus Wall and its allies",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1948",
+    "page": "237–244",
+    "URL": "https://doi.org/10.2307/4119766",
+    "DOI": "10.2307/4119766"
+  },
+  {
+    "author": [
+      {
+        "family": "Blakelock",
+        "given": "R.A."
+      }
+    ],
+    "title": "A synopsis of the genus Euoymus L",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1951",
+    "page": "210–290",
+    "URL": "https://doi.org/10.2307/4120601",
+    "DOI": "10.2307/4120601"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheng",
+        "given": "C.Y."
+      },
+      {
+        "family": "Ma",
+        "given": "J.S."
+      },
+      {
+        "family": "Huang",
+        "given": "P.H."
+      }
+    ],
+    "title": "Euonymus",
+    "editor": [
+      {
+        "family": "Cheng",
+        "given": "C.Y."
+      },
+      {
+        "family": "Huang",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae 45",
+    "publisher": "Science Press",
+    "note": "in Chinese",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "3–85",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Comber",
+        "given": "H.F."
+      }
+    ],
+    "title": "Diagnoses specierum novarum in herbario Horti Regii Botanici Edinburgensis cognitarum DCI-DCXIII",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden, Edinburgh",
+    "issued": "1934",
+    "page": "221–249"
+  },
+  {
+    "author": [
+      {
+        "family": "Cowan",
+        "given": "J.M."
+      },
+      {
+        "family": "Cowan",
+        "given": "A.M."
+      }
+    ],
+    "title": "The trees of northern Bengal",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Periodical Expert Book Agency",
+    "issue": "i",
+    "issued": "1929",
+    "page": "178"
+  },
+  {
+    "author": [
+      {
+        "family": "Du",
+        "given": "C."
+      },
+      {
+        "family": "Zuo",
+        "given": "Y.J."
+      },
+      {
+        "family": "Ma",
+        "given": "J.S."
+      }
+    ],
+    "title": "Revision of three species of Euonymus (Celastraceae) from China",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "45–53",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.109.1.5",
+    "DOI": "10.11646/phytotaxa.109.1.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Du",
+        "given": "C."
+      },
+      {
+        "family": "Zuo",
+        "given": "Y.J."
+      },
+      {
+        "family": "Wu",
+        "given": "L."
+      },
+      {
+        "family": "Liu",
+        "given": "Q.R."
+      },
+      {
+        "family": "Ma",
+        "given": "J.S."
+      }
+    ],
+    "title": "Revision of five species of Euonymus (Celastraceae) from East and South Asia",
+    "volume": "213",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "225–242",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.213.3.3",
+    "DOI": "10.11646/phytotaxa.213.3.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Plantas Yunnannses, A.J.M. Delavay Collectas",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1886",
+    "page": "453–455",
+    "URL": "https://doi.org/10.1080/00378941.1886.10828470",
+    "DOI": "10.1080/00378941.1886.10828470"
+  },
+  {
+    "author": [
+      {
+        "family": "Hara",
+        "given": "H."
+      }
+    ],
+    "title": "Flora of Eastern Himalaya 2",
+    "publisher": "University of Tokyo Press, Tokyo",
+    "type": "book",
+    "issued": "1971",
+    "page": "397"
+  },
+  {
+    "author": [
+      {
+        "family": "Hemsley",
+        "given": "W.B."
+      }
+    ],
+    "title": "Decades Kewenses. Plantarum Novarum in Herbario Horti Regii Conservatarum. Decas VI",
+    "volume": "1893",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Kew",
+    "issued": "1893",
+    "page": "209–212",
+    "URL": "http://dx.doi.org/10.2307/4118245",
+    "DOI": "10.2307/4118245"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria",
+    "volume": "3",
+    "edition": "2nd",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "1",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland, and Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/documents/redlist_cats_crit_en.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y.R."
+      }
+    ],
+    "title": "Some new taxa of Aquifoliaceae and Celastraceae from Xizang",
+    "volume": "3",
+    "note": "in Chinese",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1981",
+    "page": "351–357"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von"
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Laurentii Salvii, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Loesener",
+        "given": "T."
+      }
+    ],
+    "title": "Celastraceae in Diels L., Die Flora von Central-China. Botanische Jahrbücher für Systematik",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1900",
+    "page": "441–442"
+  },
+  {
+    "author": [
+      {
+        "family": "Loesener",
+        "given": "T."
+      }
+    ],
+    "title": "Übersicht über die bis bis jetzt bekannten Chinesischen Celastraceen. Botanische Jahrbücher für Systematik",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1902",
+    "page": "446–474"
+  },
+  {
+    "author": [
+      {
+        "family": "Loesener",
+        "given": "T."
+      }
+    ],
+    "title": "Plantae Chinenses Forrestianae. Plants discovered and collected by George Forrest during his first exploration of Yunnan and Eastern Tibet in the years 1904",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Edinburgh",
+    "issued": "1913",
+    "page": "1–4"
+  },
+  {
+    "author": [
+      {
+        "family": "Loesener",
+        "given": "T."
+      },
+      {
+        "family": "Rehder",
+        "given": "A."
+      }
+    ],
+    "title": "Celastraceae",
+    "editor": [
+      {
+        "family": "Sargent",
+        "given": "C.S."
+      }
+    ],
+    "volume": "1",
+    "publisher": "The University Press",
+    "type": "article-journal",
+    "container-title": "Wilson",
+    "issue": "3",
+    "issued": "1913",
+    "page": "496–497",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Lumbreras",
+        "given": "E.L."
+      }
+    ],
+    "title": "Lectotipificación de Euonymus latifolius (L.) Mill",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Celastraceae). Acta Botánica Malacitana",
+    "issued": "2013",
+    "page": "168–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "J.S."
+      }
+    ],
+    "title": "A revision of Euonymus (Celastraceae",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Thaiszia",
+    "issued": "2001",
+    "page": "1–264"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "J.S."
+      },
+      {
+        "family": "Funston",
+        "given": "A.M."
+      }
+    ],
+    "title": "Euonymus",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2008",
+    "page": "440–463",
+    "publisher-place": "Beijing",
+    "URL": "http://dx.doi.org/10.3120/0024-9637-55.4.296",
+    "DOI": "10.3120/0024-9637-55.4.296"
+  },
+  {
+    "author": [
+      {
+        "family": "Marquand",
+        "given": "C.V.B."
+      },
+      {
+        "family": "Airy Shaw",
+        "given": "H.K."
+      }
+    ],
+    "title": "The botanical collection made by Captain F. Kingdon Ward in the Eastern Himalaya and Tibet in 1924–25",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society of London, Botany",
+    "issued": "1929",
+    "page": "149–229",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1929.tb00587.x",
+    "DOI": "10.1111/j.1095-8339.1929.tb00587.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Diagnoses plantarum novarum asiaticarum",
+    "container-title": "IV. Bulletin de l’Academie Imperiale des Sciences de St-Petersbourg, sér",
+    "volume": "3 27",
+    "type": "chapter",
+    "issued": "1881",
+    "page": "444–445"
+  },
+  {
+    "editor": [
+      {
+        "family": "Merrill",
+        "given": "E.D."
+      }
+    ],
+    "title": "Plants collected by Captain F Kingdon-Ward on the Vernay-Cutting Expedition. 1938–39",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1941",
+    "page": "105"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "Gardeners Dictionary, Edition 8.London, Printed for the author 2: EUG-EUO",
+    "type": null
+  },
+  {
+    "title": "Ministry of Environmental Protection of the People’s Republic of China & Chinese Academy of Sciences (2013) The Red List of Chinese Biodiversity: Higher Plants",
+    "note": "Available from:",
+    "type": null,
+    "URL": "http://www.mep.gov.cn/gkml/hbb/bgg/201309/W020130917614244055331.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Prokhanov",
+        "given": "J."
+      }
+    ],
+    "title": "Addenda, Euonymus",
+    "editor": [
+      {
+        "family": "Komarov",
+        "given": "V.L."
+      }
+    ],
+    "container-title": "Flora USSR 14. Leningrad, Akademii Nauk SSSR",
+    "type": "chapter",
+    "issued": "1949",
+    "page": "744–746"
+  },
+  {
+    "author": [
+      {
+        "family": "Ren",
+        "given": "J.W."
+      }
+    ],
+    "title": "New plant of Celastraceae",
+    "volume": "23",
+    "note": "in Chinese",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Boreali-Occidentalia Sinica",
+    "issue": "9",
+    "issued": "2003",
+    "page": "1635–1636"
+  },
+  {
+    "author": [
+      {
+        "family": "Rouy",
+        "given": "G."
+      },
+      {
+        "family": "Foucaud",
+        "given": "J."
+      }
+    ],
+    "title": "Flore de France 4.Asnières (Seine",
+    "type": "article-journal",
+    "container-title": "G. Rouy",
+    "issued": "1897",
+    "page": "159"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "W.W."
+      }
+    ],
+    "title": "Diagnoses Specierum Novarum in herbario Horti Regii Botanici Edinburgensis Cognitarum, CCLI-CCCL",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden, Edinburgh",
+    "issued": "1917",
+    "page": "1–78"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprague",
+        "given": "T.A."
+      }
+    ],
+    "title": "The prickly-fruited species of Euonymus",
+    "volume": "1908",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information Kew",
+    "issued": "1908",
+    "page": "29–36",
+    "URL": "http://dx.doi.org/10.2307/4114868",
+    "DOI": "10.2307/4114868"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Celastraceae",
+    "editor": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "container-title": "Flora Indica 2",
+    "publisher": "The Mission Press, Serampore",
+    "type": "chapter",
+    "issued": "1824",
+    "page": "409"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "L.Z."
+      },
+      {
+        "family": "Sun",
+        "given": "X.G."
+      }
+    ],
+    "title": "New taxa of woody plants in Gansu",
+    "volume": "10",
+    "note": "in Chinese",
+    "type": "article-journal",
+    "container-title": "Bulletin of Botanical Research",
+    "issue": "4",
+    "issued": "1990",
+    "page": "45–49"
+  }
+]

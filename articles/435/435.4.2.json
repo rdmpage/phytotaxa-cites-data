@@ -1,0 +1,677 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cao",
+        "given": "J."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Liang",
+        "given": "Y.M."
+      },
+      {
+        "family": "You",
+        "given": "C.J."
+      }
+    ],
+    "title": "Two new Chrysomyxa rust species on the endemic plant, Picea asperata in western China, and expanded description of C. succinea",
+    "volume": "292",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "218–230",
+    "URL": "https://doi.org/10.11646/phytotaxa.292.3.2",
+    "DOI": "10.11646/phytotaxa.292.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Cao",
+        "given": "Z.M."
+      },
+      {
+        "family": "Li",
+        "given": "Z.Q."
+      }
+    ],
+    "title": "Rust fungi of Qinling Mountains",
+    "publisher": "China Forestry Publishing House",
+    "note": "in Chinese",
+    "type": null,
+    "issued": "1999",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Cummins",
+        "given": "G.B."
+      },
+      {
+        "family": "Hiratsuka",
+        "given": "Y."
+      }
+    ],
+    "title": "Illustrated genera of rust fungi",
+    "edition": "3rd edn",
+    "publisher": "American Phytopathological Society, St. Paul",
+    "type": "book",
+    "issued": "2003"
+  },
+  {
+    "author": [
+      {
+        "family": "Damadi",
+        "given": "S.M."
+      },
+      {
+        "family": "Pei",
+        "given": "M.H."
+      },
+      {
+        "family": "Smith",
+        "given": "J.A."
+      },
+      {
+        "family": "Abbasi",
+        "given": "M."
+      }
+    ],
+    "title": "A new species of Melampsora rust on Salix elbursensis from Iran",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Forest Pathology",
+    "issued": "2010",
+    "page": "392–397",
+    "URL": "https://doi.org/10.1111/j.1439-0329.2010.00699.x",
+    "DOI": "10.1111/j.1439-0329.2010.00699.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes-application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "W.X."
+      }
+    ],
+    "title": "A taxonomic study of Melampsora species on Salicaceae plants in Inner Mongolia",
+    "genre": "Master thesis,",
+    "publisher": "Inner Mongolia Agricultural University, Huhhot",
+    "note": "in Chinese",
+    "type": "thesis",
+    "issued": "2006"
+  },
+  {
+    "author": [
+      {
+        "family": "Pei",
+        "given": "M.H."
+      }
+    ],
+    "title": "A brief review of Melampsora rusts on Salix",
+    "editor": [
+      {
+        "family": "Pei",
+        "given": "M.H."
+      },
+      {
+        "family": "McCracken",
+        "given": "A.R."
+      }
+    ],
+    "container-title": "Rust diseases of willow and poplar",
+    "publisher": "CABI Publishing",
+    "type": "chapter",
+    "issued": "2005",
+    "publisher-place": "Wallingford",
+    "URL": "https://doi.org/10.1079/9780851999999.0000",
+    "DOI": "10.1079/9780851999999.0000"
+  },
+  {
+    "author": [
+      {
+        "family": "Pei",
+        "given": "M.H."
+      },
+      {
+        "family": "Bayon",
+        "given": "C."
+      },
+      {
+        "family": "Ruiz",
+        "given": "C."
+      }
+    ],
+    "title": "Phylogenetic relationships in some Melampsora rusts on Salicaceae assessed using rDNA sequence information",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2005",
+    "page": "401–409",
+    "URL": "https://doi.org/10.1017/S0953756205002479",
+    "DOI": "10.1017/S0953756205002479"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A."
+      }
+    ],
+    "title": "FigTree v.1.3.1. Institute of evolutionary biology",
+    "publisher": "University of Edinburgh",
+    "type": "book",
+    "issued": "2010",
+    "publisher-place": "Edinburgh, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Tai",
+        "given": "F.L."
+      }
+    ],
+    "title": "Sylloge fungorum sinicorum",
+    "publisher": "Science Press",
+    "note": "in Chinese",
+    "type": null,
+    "issued": "1979",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Filipski",
+        "given": "A."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA6: molecular evolutionary genetics analysis version 6.0",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "2725–2729",
+    "URL": "https://doi.org/10.1093/molbev/mst197",
+    "DOI": "10.1093/molbev/mst197"
+  },
+  {
+    "author": [
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Shang",
+        "given": "Y.Z."
+      },
+      {
+        "family": "Zhuang",
+        "given": "J.Y."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Morphological and molecular phylogenetic analysis of Melampsora species on poplars in China",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2004",
+    "page": "55–66",
+    "URL": "https://doi.org/10.1007/S10267-003-0150-Z",
+    "DOI": "10.1007/S10267-003-0150-Z"
+  },
+  {
+    "author": [
+      {
+        "family": "Toome",
+        "given": "M."
+      },
+      {
+        "family": "Aime",
+        "given": "M.C."
+      }
+    ],
+    "title": "Reassessment of rust fungi on weeping willows in the Americas and description of Melampsora ferrinii sp. nov",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Plant Pathology",
+    "issue": "1",
+    "issued": "2015",
+    "page": "216–224",
+    "URL": "https://doi.org/10.1111/ppa.12237",
+    "DOI": "10.1111/ppa.12237"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S.B."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamaoka",
+        "given": "Y."
+      },
+      {
+        "family": "Shinyama",
+        "given": "Y."
+      },
+      {
+        "family": "Obata",
+        "given": "K."
+      }
+    ],
+    "title": "Species biology of a heteroecious rust, Melampsora chelidonii-pierotii in riparian vegetation (in Japanese",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Transactions of the Mycological Society of Japan",
+    "issued": "2010",
+    "page": "35–47"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "P."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Yao",
+        "given": "Y.J."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Yamaoka",
+        "given": "Y."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "New records of Melampsora species on willows in China",
+    "volume": "123",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2013",
+    "page": "81–89",
+    "URL": "https://doi.org/10.5248/123.81",
+    "DOI": "10.5248/123.81"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "P."
+      }
+    ],
+    "title": "Taxonomic studies of Melampsora species on willows in China based on morphology and molecular phylogeny",
+    "genre": "Doctor thesis,",
+    "publisher": "University of Tsukuba",
+    "type": "thesis",
+    "issued": "2013",
+    "publisher-place": "Ibaraki"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "P."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Yao",
+        "given": "Y.J."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      },
+      {
+        "family": "Yamaoka",
+        "given": "Y."
+      }
+    ],
+    "title": "Melampsora salicis-sinicae (Melampsoraceae, Pucciniales), a new rust fungus found on willows in China",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2014",
+    "page": "390–399",
+    "URL": "https://doi.org/10.1016/j.myc.2013.12.005",
+    "DOI": "10.1016/j.myc.2013.12.005"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "P."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Yao",
+        "given": "Y.J."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Yamaoka",
+        "given": "Y."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Two new species and one new record of Melampsora on willows from China",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2015",
+    "page": "66",
+    "URL": "https://doi.org/10.1007/s11557-015-1091-6",
+    "DOI": "10.1007/s11557-015-1091-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "P."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.H."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Integrating a numerical taxonomic method and molecular phylogeny for species delimitation of Melampsora species (Melampsoraceae, Pucciniales) on willows in China",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "PLoS One",
+    "issued": "2015",
+    "page": "0144883",
+    "URL": "https://doi.org/10.1371/journal.pone.0144883",
+    "DOI": "10.1371/journal.pone.0144883"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "P."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.H."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Yao",
+        "given": "Y.J."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Yamaoka",
+        "given": "Y."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "A morphological and molecular survey of Japanese Melampsora species on willows reveals a new species and two new records",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2015",
+    "page": "101",
+    "URL": "https://doi.org/10.1007/s11557-015-1121-4",
+    "DOI": "10.1007/s11557-015-1121-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "P."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.H."
+      },
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Melampsora salicis-bakko, a new species on willows in Japan evidenced by morphological and molecular phylogenetic analyses",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2016",
+    "page": "32",
+    "URL": "https://doi.org/10.1007/s11557-016-1175-y",
+    "DOI": "10.1007/s11557-016-1175-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "P."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Cai",
+        "given": "L."
+      }
+    ],
+    "title": "Resolving the Melampsora epitea complex",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "3",
+    "issued": "2017",
+    "page": "391–407",
+    "URL": "https://doi.org/10.1080/00275514.2017.1326791",
+    "DOI": "10.1080/00275514.2017.1326791"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "J.Y."
+      }
+    ],
+    "title": "Uredinales from east Himalaya",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Acta Mycologica Sinica",
+    "issued": "1986",
+    "page": "75–85"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "J.Y."
+      },
+      {
+        "family": "Wei",
+        "given": "S.X."
+      }
+    ],
+    "title": "A preliminary check list of rust fungi in the Greater Khingan Mountains",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Journal of Jilin Agricultural University",
+    "issued": "2002",
+    "page": "5–10"
+  },
+  {
+    "editor": [
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      }
+    ],
+    "title": "Fungi of northwestern China",
+    "publisher": "Mycotaxon Ltd",
+    "type": "book",
+    "issued": "2005",
+    "publisher-place": "Ithaca"
+  }
+]

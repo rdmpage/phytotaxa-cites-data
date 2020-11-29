@@ -1,0 +1,400 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Prodromus florae Novae Hollandiae et Insulae Van-Diemen, exhibens characteres plantarum",
+    "publisher": "R. Taylor, London",
+    "type": "book",
+    "issued": "1810",
+    "page": "464",
+    "URL": "https://doi.org/10.5962/bhl.title.3678",
+    "DOI": "10.5962/bhl.title.3678"
+  },
+  {
+    "author": [
+      {
+        "family": "Christensen",
+        "given": "C."
+      }
+    ],
+    "title": "Index Filicum",
+    "volume": "1",
+    "publisher": "H. Hagerup",
+    "type": "book",
+    "issued": "1905",
+    "publisher-place": "Copenhagen"
+  },
+  {
+    "author": [
+      {
+        "family": "Diels",
+        "given": "F.L.E."
+      }
+    ],
+    "title": "Gleicheniaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien",
+    "publisher": "Wilhelm Engemann",
+    "type": "chapter",
+    "issued": "1900",
+    "page": "352–356",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Fischer",
+        "given": "C.E.C."
+      }
+    ],
+    "title": "The Koenig collection in the Lund herbarium",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Royal Gardens, Kew",
+    "issued": "1932",
+    "page": "49–76",
+    "URL": "https://doi.org/10.2307/4113368",
+    "DOI": "10.2307/4113368"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      }
+    ],
+    "title": "Order out of chaos",
+    "container-title": "Linnean Society of London in association with the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Lima",
+        "given": "L.V."
+      },
+      {
+        "family": "Viveros",
+        "given": "R.S."
+      },
+      {
+        "family": "Salino",
+        "given": "A."
+      }
+    ],
+    "title": "Typification of a Linnaean name in Gleicheniaceae (Polypodiopsida",
+    "volume": "351",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "189–192",
+    "URL": "https://doi.org/10.11646/phytotaxa.351.2.9",
+    "DOI": "10.11646/phytotaxa.351.2.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Lima",
+        "given": "L.V."
+      },
+      {
+        "family": "Salino",
+        "given": "A."
+      }
+    ],
+    "title": "The fern family Gleicheniaceae (Polypodiopsida) in Brazil",
+    "volume": "358",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "199–234",
+    "URL": "https://doi.org/10.11646/phytotaxa.358.3.1",
+    "DOI": "10.11646/phytotaxa.358.3.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Mantissa plantarum altera",
+    "type": null,
+    "issued": "1771",
+    "page": "444",
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Necker",
+        "given": "N.J."
+      }
+    ],
+    "title": "Elementa botanica: genera genuina, species naturales omnium vegetabilium detectorum eorumque characteres diagnosticos ac peculiares exhibentia, secundum systema omologicum seu naturale, evulgata",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Societatis Typographicae Neowedensis",
+    "issue": "",
+    "issued": "1790",
+    "page": "510",
+    "URL": "https://doi.org/10.5962/bhl.title.4452",
+    "DOI": "10.5962/bhl.title.4452"
+  },
+  {
+    "author": [
+      {
+        "family": "Committees",
+        "given": "Nomenclature"
+      }
+    ],
+    "title": "Special Committee for Pteridophyta and Phanerogamae: Subcommittee for Phanerogamae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1954",
+    "page": "112–123",
+    "URL": "https://doi.org/10.1002/j.1996-8175.1954.tb01568.x",
+    "DOI": "10.1002/j.1996-8175.1954.tb01568.x"
+  },
+  {
+    "author": [
+      {
+        "family": "PPG",
+        "given": "I."
+      }
+    ],
+    "title": "A community-derived classification for extant lycophytes and ferns",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2016",
+    "page": "563–603",
+    "URL": "https://doi.org/10.1111/jse.12229",
+    "DOI": "10.1111/jse.12229"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C."
+      }
+    ],
+    "title": "Reliquiae Haenkeanae, seu, Descriptiones et icones plantarum quas in America Meridionali et Boreali",
+    "volume": "Prague",
+    "type": "article-journal",
+    "container-title": "Apud J. G. Calve",
+    "issued": "1825",
+    "page": "356",
+    "URL": "https://doi.org/10.5962/bhl.title.515",
+    "DOI": "10.5962/bhl.title.515"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Observationes Botanicae I",
+    "publisher": "Siegfried Lebrecht Crusium",
+    "type": "book",
+    "issued": "1779",
+    "page": "40",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Observationes Botanicae II",
+    "publisher": "Siegfried Lebrecht Crusium",
+    "type": "book",
+    "issued": "1781",
+    "page": "34",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Observationes Botanicae III",
+    "publisher": "Siegfried Lebrecht Crusium, Leipzig",
+    "type": "book",
+    "issued": "1783",
+    "page": "79"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Observationes Botanicae IV",
+    "publisher": "Siegfried Lebrecht Crusium",
+    "type": "book",
+    "issued": "1786",
+    "page": "33",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Observationes Botanicae V",
+    "publisher": "Siegfried Lebrecht Crusium",
+    "type": "book",
+    "issued": "1789",
+    "page": "35",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Retzius",
+        "given": "A.J."
+      }
+    ],
+    "title": "Observationes Botanicae VI",
+    "publisher": "Siegfried Lebrecht Crusium",
+    "type": "book",
+    "issued": "1791",
+    "page": "40",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "title": "Tentamen botanicum de filicum generibus dorsiferarum",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Mémoires de l’Académie des Sciences de Turin",
+    "issued": "1753",
+    "page": "401–422"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2020",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "publisher": "Koeltz Botanical Books",
+    "type": "chapter",
+    "issued": "2018",
+    "page": "293",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  }
+]

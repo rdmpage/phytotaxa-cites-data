@@ -1,0 +1,763 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Barroso",
+        "given": "G.M."
+      }
+    ],
+    "title": "Espécies novas do herbário do Jardim Botânico do Rio de Janeiro",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Arquivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1956",
+    "page": "257–266"
+  },
+  {
+    "author": [
+      {
+        "family": "Beentje",
+        "given": "H."
+      }
+    ],
+    "title": "The Kew Plant Glossary, an illustrated dictionary of plant terms",
+    "publisher": "Kew Publishing, Royal Botanic Gardens Kew",
+    "type": "book",
+    "issued": "2010",
+    "page": "164"
+  },
+  {
+    "author": [
+      {
+        "family": "Campos",
+        "given": "L."
+      },
+      {
+        "family": "Guedes",
+        "given": "M.L.S."
+      },
+      {
+        "family": "Acevedo-Rodríguez",
+        "given": "P."
+      },
+      {
+        "family": "Roque",
+        "given": "N."
+      }
+    ],
+    "title": "Contributions to the floristic and vegetation knowledge of Espinhaço Septentrional, Bahia, Brazil",
+    "type": "article-journal",
+    "container-title": "Brazilian Journal of Botany",
+    "issued": "2016",
+    "URL": "https://doi.org/10.1007/s40415-016-0347-y",
+    "DOI": "10.1007/s40415-016-0347-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Observations sur les plantes composées, ou syngenèses. Second mémoire. Monographies de quelques genres de Cinarocéphales",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Annales du Muséum National d’Histoire Naturelle",
+    "issued": "1810",
+    "page": "181–208, 6–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Vernoniaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "5",
+    "publisher": "Treutel & Würtz",
+    "type": "chapter",
+    "issued": "1836",
+    "page": "9–103",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Gregg",
+        "given": "J.R."
+      }
+    ],
+    "title": "The language of taxonomy",
+    "publisher": "Columbia University Press",
+    "type": "book",
+    "issued": "1954",
+    "page": "71",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallé",
+        "given": "F."
+      },
+      {
+        "family": "Oldeman",
+        "given": "R.A.A."
+      },
+      {
+        "family": "Tomlinson",
+        "given": "P.B."
+      }
+    ],
+    "title": "Tropical trees and forests: an architectural analysis",
+    "publisher": "Springer-Verlag",
+    "type": "book",
+    "issued": "1978",
+    "page": "441",
+    "publisher-place": "Berlin, Heidelberg, New York",
+    "URL": "https://doi.org/10.1007/978-3-642-81190-6",
+    "DOI": "10.1007/978-3-642-81190-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Hatschbach",
+        "given": "G."
+      },
+      {
+        "family": "Guarçoni",
+        "given": "E.A.E."
+      },
+      {
+        "family": "Sartori",
+        "given": "M.A."
+      },
+      {
+        "family": "Ribas",
+        "given": "O.de S."
+      }
+    ],
+    "title": "Aspectos fisionômicos da vegetação da Serra do Cabral, Minas Gerais, Brasil",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Boletim do Museu Botânico Municipal",
+    "issued": "2006",
+    "page": "4–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Hickey",
+        "given": "L.J."
+      }
+    ],
+    "title": "Classification of the architecture of Dicotyledonous leaves",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1973",
+    "page": "17–33",
+    "URL": "https://doi.org/10.2307/2441319",
+    "DOI": "10.2307/2441319"
+  },
+  {
+    "author": [
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      }
+    ],
+    "title": "Flora of Grão Mogol, Minas Gerais: Compositae (Asteraceae",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Boletim de Botânica da Universidade de São Paulo",
+    "issued": "2003",
+    "page": "179–234",
+    "URL": "https://doi.org/10.11606/issn.2316-9052.v21i1p179-234",
+    "DOI": "10.11606/issn.2316-9052.v21i1p179-234"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List of Threatened Species",
+    "note": "Available from www.iucnredlist.org (accessed October 2014).",
+    "type": null,
+    "issued": "2014"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria, version 12",
+    "note": "Cambridge UK. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Loeuille",
+        "given": "B."
+      }
+    ],
+    "title": "Towards a phylogenetic classification of Lychnophorinae",
+    "note": "Asteraceae: Vernonieae). Unpublished Ph.",
+    "genre": "D. thesis.",
+    "publisher": "Univ. de São Paulo, São Paulo",
+    "type": "thesis",
+    "issued": "2011"
+  },
+  {
+    "author": [
+      {
+        "family": "Loeuille",
+        "given": "B."
+      },
+      {
+        "family": "Nakajima",
+        "given": "J.N."
+      },
+      {
+        "family": "Oliveira",
+        "given": "D.M.T."
+      },
+      {
+        "family": "Semir",
+        "given": "J."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Two new species of Heterocoma (Asteraceae: Vernonieae) and a broadened concept of the genus",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2013",
+    "page": "242–252",
+    "URL": "https://doi.org/10.1600/036364413X661863",
+    "DOI": "10.1600/036364413X661863"
+  },
+  {
+    "author": [
+      {
+        "family": "Loeuille",
+        "given": "B."
+      },
+      {
+        "family": "Keeley",
+        "given": "S.C."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Systematics and evolution of syncephaly in American Vernonieae (Asteraceae) with emphasis on the Brazilian subtribe Lychnophorinae",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2015",
+    "page": "286–298",
+    "URL": "https://doi.org/10.1600/036364415X686576",
+    "DOI": "10.1600/036364415X686576"
+  },
+  {
+    "author": [
+      {
+        "family": "Loeuille",
+        "given": "B."
+      },
+      {
+        "family": "Semir",
+        "given": "J."
+      },
+      {
+        "family": "Lohmann",
+        "given": "L.G."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "A phylogenetic analysis of Lychnophorinae (Asteraceae: Vernonieae) based on molecular and morphological data",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2015",
+    "page": "299–315",
+    "URL": "https://doi.org/10.1600/036364415X686585",
+    "DOI": "10.1600/036364415X686585"
+  },
+  {
+    "author": [
+      {
+        "family": "MacLeish",
+        "given": "N.F.F."
+      }
+    ],
+    "title": "Argyrovernonia and Paralychnophora: new names in the tribe Vernonieae (Asteraceae/Compositae",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1984",
+    "page": "105–106",
+    "URL": "https://doi.org/10.2307/1222046",
+    "DOI": "10.2307/1222046"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code). Regnum Vegetabile 154.",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": null,
+    "issued": "2012",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "family": "Mansanares",
+        "given": "M.E."
+      },
+      {
+        "family": "Forni-Martins",
+        "given": "E.R."
+      },
+      {
+        "family": "Semir",
+        "given": "J."
+      }
+    ],
+    "title": "Cytotaxonomy of Lychnophora Mart",
+    "publisher": "Vernonieae",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Caryologia",
+    "issued": "2007",
+    "page": "21–28",
+    "publisher-place": "Asteraceae",
+    "URL": "https://doi.org/10.1080/00087114.2007.10589543",
+    "DOI": "10.1080/00087114.2007.10589543"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "title": "Novum plantarum genus Lychnophora",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Denkschriften der Königlich-Bayerischen Botanischen Gesellschaft zu Regensburg",
+    "issued": "1822",
+    "page": "148–159, 4–10"
+  },
+  {
+    "author": [
+      {
+        "family": "Maurenza",
+        "given": "D."
+      },
+      {
+        "family": "Oliveira",
+        "given": "J.A.de"
+      },
+      {
+        "family": "Pougy",
+        "given": "N."
+      },
+      {
+        "family": "Verdi",
+        "given": "M."
+      },
+      {
+        "family": "Machado",
+        "given": "N."
+      },
+      {
+        "family": "Carvalho",
+        "given": "I.S.H."
+      },
+      {
+        "family": "Martins",
+        "given": "E."
+      },
+      {
+        "family": "Martinelli",
+        "given": "G."
+      }
+    ],
+    "title": "Vetores de pressão que incidem sobre a flora ameaçada de extinção da região de Grão Mogol - Francisco Sá",
+    "editor": [
+      {
+        "family": "Pougy",
+        "given": "N."
+      },
+      {
+        "family": "Martins",
+        "given": "E."
+      },
+      {
+        "family": "Verdi",
+        "given": "M."
+      },
+      {
+        "family": "Maurenza",
+        "given": "L."
+      },
+      {
+        "family": "Loyola",
+        "given": "R."
+      },
+      {
+        "family": "Martinelli",
+        "given": "G."
+      }
+    ],
+    "container-title": "Plano de Ação Nacional para a Conservação da Flora Ameaçada de Extinção da Região Grão Mogol - Francisco Sá, Centro Nacional de Conservação da Flora, Rio de Janeiro",
+    "type": "chapter",
+    "issued": "2015",
+    "page": "33–45"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code). Regnum Vegetabile 154.",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": null,
+    "issued": "2012",
+    "page": "240"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakajima",
+        "given": "J.N."
+      }
+    ],
+    "title": "30 authors",
+    "editor": [
+      {
+        "family": "Martinelli",
+        "given": "G."
+      },
+      {
+        "family": "Moraes",
+        "given": "M.A."
+      }
+    ],
+    "container-title": "Livro Vermelho da Flora do Brasil, Centro Nacional de Conservação da Flora, Rio de Janeiro",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "204–286"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "Q.G.I.S.Development"
+      }
+    ],
+    "title": "QGIS Geographic Information System",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Open Source Geospatial Foundation Project",
+    "issued": "2015",
+    "URL": "http://qgis.osgeo.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "Notes on Lychnophorinae from Minas Gerais, Brazil, a synopsis of Lychnophoriopsis Schultz-Bip., and the new genera Anteremanthus and Minasia (Vernonieae: Asteraceae",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Biological Society of Washington",
+    "issued": "1992",
+    "page": "640–652"
+  },
+  {
+    "author": [
+      {
+        "family": "Roque",
+        "given": "N."
+      },
+      {
+        "family": "Santana",
+        "given": "F.A."
+      }
+    ],
+    "title": "A new species for a monotypic genus: Anteremanthus (Asteraceae: Vernonieae",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2014",
+    "page": "656–661",
+    "URL": "https://doi.org/10.1600/036364414X680771",
+    "DOI": "10.1600/036364414X680771"
+  },
+  {
+    "author": [
+      {
+        "family": "Sartori",
+        "given": "F.T."
+      },
+      {
+        "family": "Barrachi",
+        "given": "A.C."
+      },
+      {
+        "family": "Sacilotto",
+        "given": "C."
+      },
+      {
+        "family": "Lopes",
+        "given": "J.L.C."
+      },
+      {
+        "family": "Lopes",
+        "given": "N.P."
+      },
+      {
+        "family": "Vichnewski",
+        "given": "W."
+      }
+    ],
+    "title": "Phytochemical study of Lychnophora markgravii (Asteraceae",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Biochemical Systematics and Ecology",
+    "issued": "2002",
+    "page": "609–612",
+    "URL": "https://doi.org/10.1016/S0305-1978(01)00127-2",
+    "DOI": "10.1016/S0305-1978(01)00127-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultz-Bipontinus",
+        "given": "C.H."
+      }
+    ],
+    "title": "Lychnophora Martius und einige benachbarte Gattungen",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Pollichia",
+    "issue": "21",
+    "issued": "1863",
+    "page": "321–439"
+  },
+  {
+    "author": [
+      {
+        "family": "Semir",
+        "given": "J."
+      }
+    ],
+    "title": "Revisão taxonômica de Lychnophora Mart",
+    "note": "Vernonieae: Compositae). Unpublished Ph.",
+    "genre": "D. thesis. Univ. Estadual de",
+    "type": "thesis",
+    "issued": "1991",
+    "publisher-place": "Campinas, Campinas"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "M.de A."
+      },
+      {
+        "family": "Loeuille",
+        "given": "B."
+      },
+      {
+        "family": "Siniscalchi",
+        "given": "C.M."
+      },
+      {
+        "family": "Melo-de-Pinna",
+        "given": "G.F."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Diversity of non-glandular trichomes in subtribe Lychnophorinae (Asteraceae: Vernonieae) and taxonomic implications",
+    "volume": "300",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "2014",
+    "page": "1219–1233",
+    "URL": "https://doi.org/10.1007/s00606-013-0957-9",
+    "DOI": "10.1007/s00606-013-0957-9"
+  }
+]

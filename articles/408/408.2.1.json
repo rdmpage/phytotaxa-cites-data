@@ -1,0 +1,1101 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "title": "Marine red algae of the Hawaiian Islands",
+    "publisher": "Bishop Museum Press",
+    "type": "book",
+    "issued": "1999",
+    "publisher-place": "Honolulu"
+  },
+  {
+    "author": [
+      {
+        "family": "Agardh",
+        "given": "J.G."
+      }
+    ],
+    "title": "Species genera et ordines algarum, seu descriptiones succinctae specierum, generum et ordinum, quibus algarum regnum constituitur. Volumen secundum: algas florideas complectens",
+    "volume": "2",
+    "publisher": "C.W.K. Gleerup",
+    "type": "article-journal",
+    "container-title": "Part",
+    "issue": "1",
+    "issued": "1851",
+    "page": "337–506",
+    "publisher-place": "Lund"
+  },
+  {
+    "author": [
+      {
+        "family": "Bangmei",
+        "given": "X."
+      },
+      {
+        "family": "Yongqiang",
+        "given": "W."
+      }
+    ],
+    "title": "Some species of the genus Hypnea (Gigartinales, Rhodophyta) from China",
+    "editor": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "container-title": "Taxonomy of economic seaweeds",
+    "volume": "6",
+    "publisher": "California Sea Grant College, University of California, La Jolla",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "193–206"
+  },
+  {
+    "author": [
+      {
+        "family": "Bickford",
+        "given": "D."
+      },
+      {
+        "family": "Lohman",
+        "given": "D.J."
+      },
+      {
+        "family": "Sodhi",
+        "given": "N.S."
+      },
+      {
+        "family": "Ng",
+        "given": "P.K.L."
+      },
+      {
+        "family": "Meier",
+        "given": "R."
+      },
+      {
+        "family": "Winker",
+        "given": "K."
+      },
+      {
+        "family": "Ingram",
+        "given": "K.K."
+      },
+      {
+        "family": "Das",
+        "given": "I."
+      }
+    ],
+    "title": "Cryptic species as a window on diversity and conservation",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Trends in Ecology and Evolution",
+    "issued": "2007",
+    "page": "148–155",
+    "URL": "https://doi.org/10.1016/j.tree.2006.11.004",
+    "DOI": "10.1016/j.tree.2006.11.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: An approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "https://doi.org/10.1111/j.1558-5646.1985.tb00420.x",
+    "DOI": "10.1111/j.1558-5646.1985.tb00420.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Gabriel",
+        "given": "D."
+      },
+      {
+        "family": "Draisma",
+        "given": "S.G.A."
+      },
+      {
+        "family": "Sauvage",
+        "given": "T."
+      },
+      {
+        "family": "Schmidt",
+        "given": "W.E."
+      },
+      {
+        "family": "Schils",
+        "given": "T."
+      },
+      {
+        "family": "Lim",
+        "given": "P."
+      },
+      {
+        "family": "Harris",
+        "given": "D.J."
+      },
+      {
+        "family": "Fredericq",
+        "given": "S."
+      }
+    ],
+    "title": "Multilocus phylogeny reveals Gibsmithia hawaiiensis (Dumontiaceae, Rhodophyta) to be a species complex from the Indo-Pacific, with the proposal of G. eilatensis sp. nov",
+    "volume": "277",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "1–20",
+    "URL": "https://doi.org/10.11646/phytotaxa.277.1.1",
+    "DOI": "10.11646/phytotaxa.277.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Geraldino",
+        "given": "P.J.L."
+      },
+      {
+        "family": "Boo",
+        "given": "G.H."
+      },
+      {
+        "family": "Boo",
+        "given": "S.M."
+      }
+    ],
+    "title": "Genetic variability and biogeography of the widespread red alga Hypnea flexicaulis (Gigartinales, Rhodophyta) based on rbcL and cox1 sequences",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Botanica Marina",
+    "issued": "2015",
+    "page": "167–174",
+    "URL": "https://doi.org/10.1515/bot-2014-0073",
+    "DOI": "10.1515/bot-2014-0073"
+  },
+  {
+    "author": [
+      {
+        "family": "Guiry",
+        "given": "M.D."
+      },
+      {
+        "family": "Guiry",
+        "given": "G.M."
+      }
+    ],
+    "title": "AlgaeBase",
+    "genre": "World-wide electronic publication,",
+    "publisher": "National University of Ireland",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "publisher-place": "Galway",
+    "URL": "http://www.algaebase.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Haroun",
+        "given": "R.J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      }
+    ],
+    "title": "A biogeographical study of Laurencia and Hypnea species of the Macaronesian region",
+    "volume": "159",
+    "type": "article-journal",
+    "container-title": "Courier Forschungsinstitut Senckenberg",
+    "issued": "1993",
+    "page": "119–125"
+  },
+  {
+    "author": [
+      {
+        "family": "Hebert",
+        "given": "P.D.N."
+      },
+      {
+        "family": "Cywinska",
+        "given": "A."
+      },
+      {
+        "family": "Ball",
+        "given": "S.L."
+      },
+      {
+        "family": "Waard",
+        "given": "J.R.",
+        "particle": "de"
+      }
+    ],
+    "title": "Biological identifications through DNA barcodes",
+    "volume": "270",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Royal Society",
+    "issued": "2003",
+    "page": "313–321",
+    "URL": "https://doi.org/10.1098/rspb.2002.2218",
+    "DOI": "10.1098/rspb.2002.2218"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogeny",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "https://doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Jesus",
+        "given": "P.B."
+      },
+      {
+        "family": "Nauer",
+        "given": "F."
+      },
+      {
+        "family": "Lyra",
+        "given": "G.M."
+      },
+      {
+        "family": "Cassano",
+        "given": "V."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      },
+      {
+        "family": "Nunes",
+        "given": "J.M.C."
+      },
+      {
+        "family": "Schnadelbach",
+        "given": "A.S."
+      }
+    ],
+    "title": "Species delimitation and phylogenetic analyses of some cosmopolitan species of Hypnea (Rhodophyta) reveal synonyms and misapplied names to H. cervicornis, including a new species from Brazil",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "2016",
+    "page": "774–792",
+    "URL": "https://doi.org/10.1111/jpy.12436",
+    "DOI": "10.1111/jpy.12436"
+  },
+  {
+    "author": [
+      {
+        "family": "Jesus",
+        "given": "P.B."
+      },
+      {
+        "family": "Costa",
+        "given": "A.L."
+      },
+      {
+        "family": "Nunes",
+        "given": "J.M.C."
+      },
+      {
+        "family": "Manghisi",
+        "given": "A."
+      },
+      {
+        "family": "Genovese",
+        "given": "G."
+      },
+      {
+        "family": "Morabito",
+        "given": "M."
+      },
+      {
+        "family": "Schnadelbach",
+        "given": "A.S."
+      }
+    ],
+    "title": "Species delimitation methods reveal cryptic diversity in the Hypnea cornuta complex (Cystocloniaceae, Rhodophyta",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "European Journal of Phycology",
+    "issued": "2019",
+    "page": "135–153",
+    "URL": "https://doi.org/10.1080/09670262.2018.1522454",
+    "DOI": "10.1080/09670262.2018.1522454"
+  },
+  {
+    "author": [
+      {
+        "family": "Jörger",
+        "given": "K.M."
+      },
+      {
+        "family": "Norenburg",
+        "given": "J.L."
+      },
+      {
+        "family": "Wilson",
+        "given": "N.G."
+      },
+      {
+        "family": "Schrödl",
+        "given": "M."
+      }
+    ],
+    "title": "Barcoding against a paradox? Combined molecular species delineations reveal multiple cryptic lineages in elusive meiofaunal sea slugs",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2012",
+    "page": "245",
+    "URL": "https://doi.org/10.1186/1471-2148-12-245",
+    "DOI": "10.1186/1471-2148-12-245"
+  },
+  {
+    "author": [
+      {
+        "family": "Kützing",
+        "given": "F.T."
+      }
+    ],
+    "title": "Tabulae phycologicae; oder, Abbildungen der Tange",
+    "volume": "I",
+    "publisher": "Gedruckt",
+    "collection-title": "auf kosten des Verfassers (in commission bei W. Köhne",
+    "issue": "3–5",
+    "type": "book",
+    "issued": "1847",
+    "page": "27–36, 21–50",
+    "publisher-place": "Nordhausen"
+  },
+  {
+    "author": [
+      {
+        "family": "Kützing",
+        "given": "F.T."
+      }
+    ],
+    "title": "Species algarum",
+    "editor": [
+      {
+        "family": "Brockhaus",
+        "given": "F.A."
+      },
+      {
+        "given": "Lipsiae"
+      }
+    ],
+    "type": null,
+    "issued": "1849",
+    "page": "– , 1 –922"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamouroux",
+        "given": "J.V."
+      }
+    ],
+    "title": "Essai sur les genres de la famille des Thalassiophytes non articulées",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Annales du Muséum d’Histoire Naturelle, Paris",
+    "issued": "1813",
+    "page": "21–47, 115–139, 267–293, 7–13"
+  },
+  {
+    "author": [
+      {
+        "family": "Le Gall",
+        "given": "L."
+      },
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      }
+    ],
+    "title": "DNA barcoding is a powerful tool to uncover algal diversity: a case study of the Phyllophoraceae (Gigartinales, Rhodophyta) in the Canadian flora",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "2010",
+    "page": "374–389",
+    "URL": "https://doi.org/10.1111/j.1529-8817.2010.00807.x",
+    "DOI": "10.1111/j.1529-8817.2010.00807.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Leliaert",
+        "given": "F."
+      },
+      {
+        "family": "Verbruggen",
+        "given": "H."
+      },
+      {
+        "family": "Vanormelingen",
+        "given": "P."
+      },
+      {
+        "family": "Steen",
+        "given": "F."
+      },
+      {
+        "family": "López-Bautista",
+        "given": "J.M."
+      },
+      {
+        "family": "Zuccarello",
+        "given": "G.C."
+      },
+      {
+        "family": "De Clerck",
+        "given": "O."
+      }
+    ],
+    "title": "DNA-based species delimitation in algae",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "European Journal of Phycology",
+    "issued": "2014",
+    "page": "179–196",
+    "URL": "https://doi.org/10.1080/09670262.2014.904524",
+    "DOI": "10.1080/09670262.2014.904524"
+  },
+  {
+    "author": [
+      {
+        "family": "Mayden",
+        "given": "R.L."
+      }
+    ],
+    "title": "A hierarchy of species concepts: the denouement in the saga of the species problem",
+    "editor": [
+      {
+        "family": "Claridge",
+        "given": "M.F."
+      },
+      {
+        "family": "Dawah",
+        "given": "H.A."
+      },
+      {
+        "family": "Wilson",
+        "given": "M.R."
+      }
+    ],
+    "container-title": "Species: the units of diversity",
+    "publisher": "Chapman and Hall",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "381–423",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Milstein",
+        "given": "D."
+      },
+      {
+        "family": "Medeiros",
+        "given": "A.S."
+      },
+      {
+        "family": "Oliveira",
+        "given": "E.C."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Will a DNA barcoding approach be useful to identify Porphyra species (Bangiales, Rhodophyta)?",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "2012",
+    "page": "837–845",
+    "URL": "https://doi.org/10.1007/s10811-011-9702-3",
+    "DOI": "10.1007/s10811-011-9702-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Montagne",
+        "given": "C.J."
+      }
+    ],
+    "title": "Plantae cellulares",
+    "editor": [
+      {
+        "family": "Barker-Webb",
+        "given": "P."
+      },
+      {
+        "family": "Berthelot",
+        "given": "S."
+      }
+    ],
+    "container-title": "Histoire naturelle de Iles Canaries",
+    "volume": "3",
+    "type": "chapter",
+    "issued": "1841",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Nauer",
+        "given": "F."
+      },
+      {
+        "family": "Cassano",
+        "given": "V."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Hypnea species (Gigartinales, Rhodophyta) from the southeastern coast of Brazil based on molecular studies complemented with morphological analyses, including descriptions of Hypnea edeniana sp",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "nov. and H. flava sp. nov. European Journal of Phycology",
+    "issued": "2014",
+    "page": "550–575",
+    "URL": "https://doi.org/10.1080/09670262.2014.981589",
+    "DOI": "10.1080/09670262.2014.981589"
+  },
+  {
+    "author": [
+      {
+        "family": "Nauer",
+        "given": "F."
+      },
+      {
+        "family": "Cassano",
+        "given": "V."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Description of Hypnea pseudomusciformis sp. nov., a new species based on molecular and morphological analyses, in the context of the H. musciformis complex (Gigartinales, Rhodophyta",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "2015",
+    "page": "2405–2417",
+    "URL": "https://doi.org/10.1007/s10811-014-0488-y",
+    "DOI": "10.1007/s10811-014-0488-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Nauer",
+        "given": "F."
+      },
+      {
+        "family": "Cassano",
+        "given": "V."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Hypnea wynnei and Hypnea yokoyana (Cystocloniaceae Rhodophyta), two new species revealed by a DNA barcoding survey on the Brazilian coast",
+    "volume": "268",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "123–134",
+    "URL": "https://doi.org/10.11646/phytotaxa.268.2.3",
+    "DOI": "10.11646/phytotaxa.268.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Nauer",
+        "given": "F."
+      },
+      {
+        "family": "Amorim",
+        "given": "A.M."
+      },
+      {
+        "family": "Santos",
+        "given": "J.P."
+      },
+      {
+        "family": "Chow",
+        "given": "F."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Physiological plasticity in morphological variations of red seaweed Hypnea pseudomusciformis (Gigartinales, Rhodophyta) uncovered by molecular, antioxidant capacity and pigments content data",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Brazilian Journal of Botany",
+    "issued": "2018",
+    "page": "567–577",
+    "URL": "https://doi.org/10.1007/s40415-018-0487-3",
+    "DOI": "10.1007/s40415-018-0487-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Nauer",
+        "given": "F."
+      },
+      {
+        "family": "Gurgel",
+        "given": "C.F.D."
+      },
+      {
+        "family": "Ayres-Ostrock",
+        "given": "L.M."
+      },
+      {
+        "family": "Plastino",
+        "given": "E.M."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Phylogeography of the Hypnea musciformis species complex (Gigartinales, Rhodophyta) with the recognition of cryptic species in the western Atlantic Ocean",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issue": "3",
+    "issued": "2019",
+    "page": "676–687",
+    "URL": "https://doi.org/10.1111/jpy.12848",
+    "DOI": "10.1111/jpy.12848"
+  },
+  {
+    "author": [
+      {
+        "family": "Nauer",
+        "given": "F."
+      },
+      {
+        "family": "Ayres-Ostrock",
+        "given": "L."
+      },
+      {
+        "family": "Amorim",
+        "given": "A.M."
+      },
+      {
+        "family": "Santos",
+        "given": "J.P."
+      },
+      {
+        "family": "Chow",
+        "given": "F."
+      },
+      {
+        "family": "Plastino",
+        "given": "E.M."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Life history, growth, and pigment content of two morphological variants of Hypnea pseudomusciformis (Gigartinales, Rhodophyta",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "2019",
+    "page": "1271–1284",
+    "URL": "https://doi.org/10.1007/s10811-018-1630-z",
+    "DOI": "10.1007/s10811-018-1630-z"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "Bayesian phylogenetics and the evolution of gall wasps",
+    "container-title": "Comprehensive Summaries of Uppsala Dissertations from the Faculty of Science and Technology",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "Puillandre",
+        "given": "N."
+      },
+      {
+        "family": "Lambert",
+        "given": "A."
+      },
+      {
+        "family": "Brouillet",
+        "given": "S."
+      },
+      {
+        "family": "Achaz",
+        "given": "G."
+      }
+    ],
+    "title": "ABGD, Automatic Barcode Gap Discovery for primary species delimitation",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "2012",
+    "page": "1864–1877",
+    "URL": "https://doi.org/10.1111/j.1365-294X.2011.05239.x",
+    "DOI": "10.1111/j.1365-294X.2011.05239.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Russell",
+        "given": "D.J."
+      },
+      {
+        "family": "Balazs",
+        "given": "G.H."
+      },
+      {
+        "family": "Ag",
+        "given": "J."
+      }
+    ],
+    "title": "Colonization by the alien marine alga Hypnea musciformis (Wulfen",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issued": "1994",
+    "page": "53–60",
+    "URL": "https://doi.org/10.1016/0304-3770(94)90048-5",
+    "DOI": "10.1016/0304-3770(94)90048-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Saito",
+        "given": "R.S."
+      },
+      {
+        "family": "Oliveira",
+        "given": "E.C."
+      }
+    ],
+    "title": "Chemical screening of Brazilian marine algae producing carrageenans",
+    "volume": "204",
+    "type": "article-journal",
+    "container-title": "Hydrobiologia",
+    "issue": "205",
+    "issued": "1990",
+    "page": "585–588",
+    "URL": "https://doi.org/10.1007/BF00040291",
+    "DOI": "10.1007/BF00040291"
+  },
+  {
+    "author": [
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      }
+    ],
+    "title": "Applying DNA barcoding to red macroalgae: a preliminary appraisal holds promise for future applications",
+    "volume": "360",
+    "type": "article-journal",
+    "container-title": "Philosophical Transactions of the Royal Society B",
+    "issued": "2005",
+    "page": "1879–1888",
+    "URL": "https://doi.org/10.1098/rstb.2005.1719",
+    "DOI": "10.1098/rstb.2005.1719"
+  },
+  {
+    "author": [
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      },
+      {
+        "family": "McDonald",
+        "given": "B."
+      }
+    ],
+    "title": "DNA barcoding reveals multiple overlooked Australian species of the red algal order Rhodymeniales (Florideophyceae), with resurrection of Halopeltis J",
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Agardh and description of Pseudohalopeltis gen. nov. Botany",
+    "issued": "2010",
+    "page": "639–667",
+    "URL": "https://doi.org/10.1139/B10-038",
+    "DOI": "10.1139/B10-038"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J."
+      },
+      {
+        "family": "Hunter",
+        "given": "C."
+      },
+      {
+        "family": "Smith",
+        "given": "C."
+      }
+    ],
+    "title": "Distribution and reproductive characteristics of nonindigenous and invasive marine algae in the Hawaiian Islands",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Pacific Science",
+    "issued": "2002",
+    "page": "299–315",
+    "URL": "https://doi.org/10.1353/psc.2002.0030",
+    "DOI": "10.1353/psc.2002.0030"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP: Phylogenetic Analysis Using Parismony, version 4.08a",
+    "container-title": "Computer program distributed by the Illinois Natural History Survey",
+    "type": "chapter",
+    "issued": "2002",
+    "publisher-place": "Champaign, Ill"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Peterson",
+        "given": "N."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Nei",
+        "given": "M."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA5: molecular evolutionary analysis using maximum likelihood, evolutionary distance, and maxi",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2011",
+    "page": "2731–2739",
+    "URL": "https://doi.org/10.1093/molbev/msr121",
+    "DOI": "10.1093/molbev/msr121"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wynne",
+        "given": "M.J."
+      }
+    ],
+    "title": "A checklist of benthic marine algae of the tropical and subtropical western Atlantic: third revision",
+    "volume": "140",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia Beiheft",
+    "issued": "2005",
+    "page": "1–166"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamagishi",
+        "given": "Y."
+      },
+      {
+        "family": "Masuda",
+        "given": "M."
+      }
+    ],
+    "title": "Species de Hypnea from Japan",
+    "editor": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "container-title": "Taxonomy of economic seaweeds",
+    "volume": "6",
+    "publisher": "California Sea Grant College System, La Jolla",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "135–162"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamagishi",
+        "given": "Y."
+      },
+      {
+        "family": "Masuda",
+        "given": "M."
+      }
+    ],
+    "title": "A taxonomic revision of a Hypnea charoides-valentiae complex (Rhodophyta, Gigartinales) in Japan, with a description of Hypnea flexicaulis sp. nov",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Phycological Research",
+    "issued": "2000",
+    "page": "27–35",
+    "URL": "https://doi.org/10.1111/j.1440-1835.2000.tb00127.x",
+    "DOI": "10.1111/j.1440-1835.2000.tb00127.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamagishi",
+        "given": "Y."
+      },
+      {
+        "family": "Masuda",
+        "given": "M."
+      },
+      {
+        "family": "Abe",
+        "given": "T."
+      },
+      {
+        "family": "Uwai",
+        "given": "S."
+      },
+      {
+        "family": "Kogami",
+        "given": "K."
+      },
+      {
+        "family": "Kawagushi",
+        "given": "S."
+      },
+      {
+        "family": "Phang",
+        "given": "S.M."
+      }
+    ],
+    "title": "Taxonomic notes on marine algae from Malaysia. XI. Four species of Rhodophyceae 1",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Botanica Marina",
+    "issued": "2003",
+    "page": "534–547",
+    "URL": "https://doi.org/10.1515/BOT.2003.056",
+    "DOI": "10.1515/BOT.2003.056"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "J."
+      },
+      {
+        "family": "Kapli",
+        "given": "P."
+      },
+      {
+        "family": "Pavlidis",
+        "given": "P."
+      },
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "A general species delimitation method with applications to phylogenetic placements",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2013",
+    "page": "2869–2876",
+    "URL": "https://doi.org/10.1093/bioinformatics/btt499",
+    "DOI": "10.1093/bioinformatics/btt499"
+  }
+]

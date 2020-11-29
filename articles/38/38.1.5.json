@@ -1,0 +1,107 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aubréville",
+        "given": "A."
+      },
+      {
+        "family": "Leroy",
+        "given": "J.-F."
+      },
+      {
+        "family": "MacKee",
+        "given": "H.S."
+      },
+      {
+        "family": "Morat",
+        "given": "P."
+      }
+    ],
+    "title": "Flore de la Nouvelle-Calédonie et Dépendances",
+    "container-title": "Muséum national d'Histoire naturelle",
+    "type": "chapter",
+    "issued": "1967",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "literal": "Callmander, M.W., Chassot, P., Küpfer, P. & Lowry II, P.P."
+      }
+    ],
+    "title": "Recognition of Martellidendron, a new genus of Pandanaceae, and its biogeographic implications",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2003",
+    "page": "747–762"
+  },
+  {
+    "author": [
+      {
+        "literal": "Callmander, M.W., Schatz, G.E, Lowry II, P.P., Laivao, M.O., Raharimampionona, J., Andriambololonera, S., Raminosoa, T. & Consiglio, T."
+      }
+    ],
+    "title": "Application of IUCN Red List criteria and assessment of Priority Areas for Plant Conservation in Madagascar: rare and threatened Pandanaceae indicate new sites in need of protection",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Oryx",
+    "issued": "2007",
+    "page": "168–176"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1. IUCN Species Survival Commission",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2001",
+    "page": "33",
+    "publisher-place": "Gland, Switzerland and Cambridge, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "St. John",
+        "given": "H."
+      }
+    ],
+    "title": "Revision of the genus Pandanus Stickman, Part 45. New Pandanus species (Pandanaceae) from New Caledonia",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Botanical Magazine Tokyo",
+    "issued": "1982",
+    "page": "229–239"
+  },
+  {
+    "author": [
+      {
+        "family": "St. John",
+        "given": "H."
+      }
+    ],
+    "title": "Revision of the genus Pandanus Stickman, Part 61. Pandanus of New Caledonia",
+    "publisher": "Published Privately, Honolulu",
+    "type": "book",
+    "issued": "1989",
+    "page": "136"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "B.C."
+      }
+    ],
+    "title": "A new species of Pandanus (Pandanaceae) from New Caledonia with a synopsis of sect",
+    "volume": "4, 1",
+    "type": "article-journal",
+    "container-title": "Veillonia. Bulletin du Muséum national Histoire naturelle, Paris, sér",
+    "issued": "1984",
+    "page": "57–82"
+  }
+]

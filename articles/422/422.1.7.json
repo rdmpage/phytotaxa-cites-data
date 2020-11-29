@@ -1,0 +1,345 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Enumeratio plantarum Javae et insularum adjacentium: minus cognitarum vel novarum ex herbariis Reinwardtii, Kuhlii, Hasseltii et Blumii",
+    "publisher": "J.W. van Leeuwen, Leiden [Lugduni Batavorum",
+    "type": "book",
+    "issued": "1828",
+    "page": "276",
+    "URL": "https://doi.org/10.5962/bhl.title.44901.",
+    "DOI": "10.5962/bhl.title.44901."
+  },
+  {
+    "author": [
+      {
+        "family": "Bower",
+        "given": "F.R.S."
+      }
+    ],
+    "title": "Ophioglossum simplex Ridley",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "1904",
+    "page": "205 217",
+    "URL": "https://doi.org/10.1093/oxfordjournals.aob.a088958",
+    "DOI": "10.1093/oxfordjournals.aob.a088958"
+  },
+  {
+    "author": [
+      {
+        "family": "Brause",
+        "given": "G.G.W."
+      }
+    ],
+    "title": "Neue Farne Papuasiens, nebst allgemeinen Bemerkungen über das Vorkommen der Pteridophyten in Neu-Guinea von R",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Schlechter. Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1912",
+    "page": "1–59"
+  },
+  {
+    "author": [
+      {
+        "family": "Clausen",
+        "given": "R.T."
+      }
+    ],
+    "title": "A monograph of the Ophioglossaceae",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Memoirs of the Torrey Botanical Club",
+    "issued": "1938",
+    "page": "3–177"
+  },
+  {
+    "author": [
+      {
+        "family": "Endlicher",
+        "given": "S.L."
+      }
+    ],
+    "title": "Genera plantarum secundum ordines naturales disposita",
+    "publisher": "F. Beck, Vindobonae",
+    "type": "book",
+    "issued": "1936",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gaertner",
+        "given": "C.F."
+      }
+    ],
+    "title": "Supplementum Carpologiae: seu continuati operis Josephi Gaertner de fructibus et seminibus plantarum",
+    "publisher": "Leipzig",
+    "type": "book",
+    "issued": "1805",
+    "page": "256",
+    "URL": "https://doi.org/10.5962/bhl.title.59684",
+    "DOI": "10.5962/bhl.title.59684"
+  },
+  {
+    "author": [
+      {
+        "family": "Hauk",
+        "given": "W.D."
+      },
+      {
+        "family": "Parks",
+        "given": "C.R."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Phylogenetic studies of Ophioglossaceae: Evidence from rbcL and trnL-F plastid DNA sequences and morphology",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2003",
+    "page": "131–151",
+    "URL": "https://doi.org/10.1016/S1055-7903(03)00032-0",
+    "DOI": "10.1016/S1055-7903(03)00032-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Holttum",
+        "given": "R.E."
+      }
+    ],
+    "title": "Revised flora of Malaya",
+    "volume": "2",
+    "publisher": "Fern of Malaya. Government Printing Office, Singapore",
+    "type": "book",
+    "issued": "1968",
+    "page": "653"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "Icones plantarum or figures, with brief descriptive characters and remarks, of new or rare plants, selected from the author’s herbarium",
+    "volume": "10",
+    "note": "no pagination.",
+    "type": null,
+    "issued": "1854",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.5962/bhl.title.16059",
+    "DOI": "10.5962/bhl.title.16059"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN Red List of Threatened Species, version 2015-3",
+    "genre": "IUCN Red List Unit,",
+    "publisher": "Cambridge U.K",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "edition": "Editio Secunda 2. L",
+    "type": null,
+    "issued": "1763",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Moran",
+        "given": "R.C."
+      }
+    ],
+    "title": "Diversity, biogeography, and floristics",
+    "editor": [
+      {
+        "family": "Ranker",
+        "given": "T.A."
+      },
+      {
+        "family": "Haufler",
+        "given": "C.H."
+      }
+    ],
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": "367 394",
+    "publisher-place": "Cambridge",
+    "URL": "https://doi.org/10.1017/CBO9780511541827.015",
+    "DOI": "10.1017/CBO9780511541827.015"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitra",
+        "given": "S.N."
+      }
+    ],
+    "title": "Some new combination in Indian plants",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Indian Forester",
+    "issued": "1973",
+    "page": "100 101"
+  },
+  {
+    "author": [
+      {
+        "family": "Nishida",
+        "given": "M."
+      }
+    ],
+    "title": "Studies on the systematic position and constitution of Pteridophyta",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin of the National Science Museum",
+    "issue": "11",
+    "issued": "1959",
+    "page": "325–335"
+  },
+  {
+    "author": [
+      {
+        "family": "PPG",
+        "given": "I."
+      }
+    ],
+    "title": "A community-derived classification for extant lycophytes and ferns",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal Systematics & Evolution",
+    "issued": "2016",
+    "page": "563–603",
+    "URL": "https://doi.org/10.1111/jse.12229",
+    "DOI": "10.1111/jse.12229"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C.B."
+      }
+    ],
+    "title": "Supplementum Tentaminis Pteridographiae, continens genera et species ordinum dictorum Marattiaceae, Ophioglossaceae, Osmundaceae, Schizaeaceae et Lygodiaceae",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "A. Haase, Pragae",
+    "issued": "1845",
+    "page": null,
+    "URL": "https://doi.org/10.5962/bhl.title.82188",
+    "DOI": "10.5962/bhl.title.82188"
+  },
+  {
+    "author": [
+      {
+        "family": "Shinohara",
+        "given": "W."
+      },
+      {
+        "family": "Nakato",
+        "given": "N."
+      },
+      {
+        "family": "Yatabe-Kakugawa",
+        "given": "Y."
+      },
+      {
+        "family": "Oka",
+        "given": "T."
+      },
+      {
+        "family": "Kim",
+        "given": "J.K."
+      },
+      {
+        "family": "Murakami",
+        "given": "N."
+      },
+      {
+        "family": "Noda",
+        "given": "H."
+      },
+      {
+        "family": "Sahashi",
+        "given": "N."
+      }
+    ],
+    "title": "The use of matK in Ophioglossaceae phylogeny and the determination of Mankyua chromosome number shed light on chromosome number evolution in Ophioglossaceae",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2013",
+    "page": "564–570",
+    "URL": "https://doi.org/10.1600/036364413X670232",
+    "DOI": "10.1600/036364413X670232"
+  },
+  {
+    "author": [
+      {
+        "family": "Wieffering",
+        "given": "J.H."
+      }
+    ],
+    "title": "A preliminary revision of the Indo-Pacific species of Ophioglossum (Ophioglossaceae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1964",
+    "page": "321–337"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Illustrations of Indian Botany: or figures illustrative of each of the natural orders of Indian plants, described in the author’s prodromus florae peninsulae Indiae orientalis",
+    "volume": "2",
+    "publisher": "J.P. Pharoah, Madras",
+    "type": "book",
+    "issued": "1850",
+    "page": "230",
+    "URL": "https://doi.org/10.5962/bhl.title.9603",
+    "DOI": "10.5962/bhl.title.9603"
+  }
+]

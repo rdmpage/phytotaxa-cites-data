@@ -1,0 +1,453 @@
+[
+  {
+    "author": [
+      {
+        "family": "Balfour",
+        "given": "I.B."
+      }
+    ],
+    "title": "Diagnoses Plantarum Novarum III",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Royal Society of Edinburgh",
+    "issued": "1883",
+    "page": "83"
+  },
+  {
+    "author": [
+      {
+        "family": "Balfour",
+        "given": "I.B."
+      }
+    ],
+    "title": "Botany of Socotra",
+    "volume": "31: 58",
+    "type": "article-journal",
+    "container-title": "Transactions of the Royal Society of Edinburgh",
+    "issued": "1887",
+    "page": "194"
+  },
+  {
+    "author": [
+      {
+        "family": "Carine",
+        "given": "M.A."
+      },
+      {
+        "family": "Francisco-Ortega",
+        "given": "J."
+      },
+      {
+        "family": "Santos-Guerra",
+        "given": "A."
+      },
+      {
+        "family": "S.J",
+        "given": "Russell"
+      }
+    ],
+    "title": "Relationships of island and continental floras: molecular evidence for multiple colonisations into Macaronesia and subsequent back-colonisation of the continent in Convolvulus L",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2004",
+    "page": "1070 – 1085",
+    "URL": "http://dx.doi.org/10.3732/ajb.91.7.1070",
+    "DOI": "10.3732/ajb.91.7.1070"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "C.B.O.L.Plant Working"
+      }
+    ],
+    "title": "A DNA Barcode for Land Plants",
+    "container-title": "Proceedings of the National Academy of Sciences USA",
+    "volume": "106",
+    "type": "paper-conference",
+    "issued": "2009",
+    "page": "12794 – 12797",
+    "URL": "http://dx.doi.org/10.1073/pnas.0905845106",
+    "DOI": "10.1073/pnas.0905845106"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "R.",
+        "given": "Doallo"
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Demissew",
+        "given": "S."
+      },
+      {
+        "family": "Mill",
+        "given": "R."
+      }
+    ],
+    "title": "Revision of the genus Seddera (Convolvulaceae",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2009",
+    "page": "197 – 233",
+    "URL": "http://dx.doi.org/10.1007/s12225-009-9112-8",
+    "DOI": "10.1007/s12225-009-9112-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1987",
+    "page": "718 – 726"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/ NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallier",
+        "given": "F."
+      }
+    ],
+    "title": "Convolvulaceae Africanae. Botanische Jahrbücher für Systematik",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1894",
+    "page": "6–160"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallier",
+        "given": "H."
+      }
+    ],
+    "title": "Contribuzioni alla conoscenza della flora dell’Africa orientale 18. Convolvulaceae in Harrar et in Somalia a Robecchi-Bricchetti et Riva lectae",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Annuario del Reale Istituto Botanico di Roma",
+    "issued": "1898",
+    "page": "223–236"
+  },
+  {
+    "author": [
+      {
+        "family": "Hochstetter",
+        "given": "C.F."
+      }
+    ],
+    "title": "Nova generum plantarum Africae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Flora oder Allgemeine Botanische Zeitung",
+    "issued": "1844",
+    "page": "1–8"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogeny",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans",
+    "URL": "http://dx.doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "A.G."
+      },
+      {
+        "family": "Morris",
+        "given": "M."
+      }
+    ],
+    "title": "Ethnoflora of the Soqotra Archipelago",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Garden Edinburgh, Edinburgh",
+    "issued": "2004",
+    "page": "759"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian Phylogenetic Inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora Indica: or descriptions of Indian Plants",
+    "editor": [
+      {
+        "family": "Thacker",
+        "given": "W."
+      },
+      {
+        "family": "Co.",
+        "given": "Calcutta"
+      },
+      {
+        "family": "Parbury",
+        "given": "Allen"
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "type": null,
+    "issued": "1832",
+    "page": "763",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Stefanovic",
+        "given": "S."
+      },
+      {
+        "family": "Krueger",
+        "given": "L."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      }
+    ],
+    "title": "Monophyly of the Convolvulaceae and circumscription of their major lineages based on DNA sequences of multiple chloroplast loci",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2002",
+    "page": "1510–1522",
+    "URL": "http://dx.doi.org/10.3732/ajb.89.9.1510",
+    "DOI": "10.3732/ajb.89.9.1510"
+  },
+  {
+    "author": [
+      {
+        "family": "Stefanovic",
+        "given": "S."
+      },
+      {
+        "family": "Austin",
+        "given": "D.F."
+      },
+      {
+        "family": "Olmstead",
+        "given": "R.G."
+      }
+    ],
+    "title": "Classification of Convolvulaceae: a phylogenetic approach",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2003",
+    "page": "791–806"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2003",
+    "publisher-place": "Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Symbolae Botanicae 1",
+    "publisher": "Copenhagen",
+    "type": "book",
+    "issued": "1790",
+    "page": "81"
+  },
+  {
+    "author": [
+      {
+        "family": "Verdcourt",
+        "given": "B."
+      }
+    ],
+    "title": "Notes from the East African Herbarium: V",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1957",
+    "page": "333–355"
+  },
+  {
+    "author": [
+      {
+        "family": "Verdcourt",
+        "given": "B."
+      }
+    ],
+    "title": "Seddera spinosa (Vierh.) Verdcourt",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Hooker's Icones Plantarum",
+    "issued": "1971",
+    "page": "3688"
+  },
+  {
+    "author": [
+      {
+        "family": "Vierhapper",
+        "given": "F."
+      }
+    ],
+    "title": "Neue Pflanzen aus Sokótra, Abdal Kuri und Semha",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Oesterreichische Botanische Zeitschrift",
+    "issued": "1904",
+    "page": "286–287"
+  },
+  {
+    "author": [
+      {
+        "family": "Vierhapper",
+        "given": "F."
+      },
+      {
+        "family": "Theil",
+        "given": "Kûri I."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis der Flora Südarabiens und der Inseln Sokótra, Sémha und ‘Abd el",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Mathematisch-Naturwissenschaftliche Klasse",
+    "issued": "1907",
+    "page": "321–490"
+  },
+  {
+    "author": [
+      {
+        "family": "Zwickl",
+        "given": "D.J."
+      }
+    ],
+    "title": "Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion",
+    "genre": "Ph.D. dissertation,",
+    "publisher": "The University of Texas at Austin, Texas",
+    "type": "thesis",
+    "issued": "2006",
+    "page": "115"
+  }
+]

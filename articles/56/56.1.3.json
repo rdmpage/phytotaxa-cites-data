@@ -1,0 +1,209 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      }
+    ],
+    "title": "Histoire des plantes de la Guiane Françoise 1",
+    "publisher": "Pierre-François Didot jeune",
+    "type": "book",
+    "issued": "1775",
+    "page": "976",
+    "publisher-place": "London & Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Bongard",
+        "given": "A.G.H."
+      }
+    ],
+    "title": "Plantae quatuor brasilienses novae. Mémoires de l'Académie Impériale des Sciences de Saint-Pétersbourg, Sixième Série, Sciences Mathématiques, Physiques et Naturelles, Seconde Partie",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Sciences Naturelles",
+    "issue": "2",
+    "issued": "1839",
+    "page": "1–8"
+  },
+  {
+    "author": [
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      },
+      {
+        "family": "Menezes",
+        "given": "N.L."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      },
+      {
+        "family": "Meguro",
+        "given": "M."
+      },
+      {
+        "family": "Wanderley",
+        "given": "M.G.L."
+      }
+    ],
+    "title": "Flora da Serra do Cipó, Minas Gerais: caracterização e lista das espécies",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Boletim de Botânica da Universidade de São Paulo",
+    "issued": "1987",
+    "page": "1–151"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 9.0. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      }
+    ],
+    "title": "Vochysiaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Zuccarini",
+        "given": "J.G."
+      }
+    ],
+    "container-title": "Nova genera et species plantarum 1",
+    "publisher": "Typis Lindaueri",
+    "type": "chapter",
+    "issued": "1826",
+    "page": "123–154",
+    "publisher-place": "Munich"
+  },
+  {
+    "author": [
+      {
+        "family": "Mello-Silva",
+        "given": "R."
+      },
+      {
+        "family": "Menezes",
+        "given": "N.L."
+      }
+    ],
+    "title": "Two new Brazilian Velloziaceae, Vellozia auriculata and Vellozia gigantea, and a key to the related dracenoid species of Vellozia",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "1999",
+    "page": "536–541"
+  },
+  {
+    "author": [
+      {
+        "family": "Pohl",
+        "given": "J.B.E."
+      }
+    ],
+    "title": "Plantarum Brasiliae icones et descriptiones hactenus ineditae 2",
+    "publisher": "Antonii Strauss, Vienna",
+    "type": "book",
+    "issued": "1831",
+    "page": "152"
+  },
+  {
+    "author": [
+      {
+        "family": "Shimizu",
+        "given": "G.H."
+      }
+    ],
+    "title": "Vochysiaceae na Serra do Cipó, Minas Gerais, Brasil",
+    "container-title": "Instituto de Biologia, Universidade Estadual de Campinas",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "162",
+    "publisher-place": "Campinas"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      }
+    ],
+    "title": "A monograph of Vochysiaceae. I. Salvertia and Vochysia",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Recueil des Travaux Botaniques Néerlandais",
+    "issued": "1948",
+    "page": "397–540"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      }
+    ],
+    "title": "Novitates vochysiacearum I",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Neerlandica",
+    "issued": "1954",
+    "page": "405–411"
+  },
+  {
+    "author": [
+      {
+        "family": "Vianna",
+        "given": "M.C."
+      }
+    ],
+    "title": "Vochysiaceae na Reserva Biológica de Poço das Antas, Silva Jardim, Rio de Janeiro, Brasil",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2006",
+    "page": "659–666"
+  },
+  {
+    "author": [
+      {
+        "family": "Warming",
+        "given": "J.E.B."
+      }
+    ],
+    "title": "Vochysiaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      }
+    ],
+    "publisher": "Frid. Fleischer",
+    "type": "book",
+    "issued": "1875",
+    "page": "17–116",
+    "publisher-place": "Leipzig"
+  }
+]

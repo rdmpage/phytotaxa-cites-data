@@ -1,0 +1,686 @@
+[
+  {
+    "author": [
+      {
+        "family": "Carbone",
+        "given": "I."
+      },
+      {
+        "family": "Kohn",
+        "given": "L.M."
+      }
+    ],
+    "title": "A method for designing primer sets for speciation studies in filamentous ascomycetes",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1999",
+    "page": "553–556",
+    "URL": "http://dx.doi.org/10.2307/3761358",
+    "DOI": "10.2307/3761358"
+  },
+  {
+    "author": [
+      {
+        "given": "FigTree"
+      }
+    ],
+    "title": "FigTree. version 1.4.0",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://tree.bio.ed.ac.uk/software/figtree/"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T."
+      }
+    ],
+    "title": "BioEdit. Ibis Therapeutics",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "publisher-place": "Carlsbad, CA, 92008, USA",
+    "URL": "http://www.mbio.ncsu.edu/BioEdit/bioedit.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "J."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Wang",
+        "given": "Z."
+      },
+      {
+        "family": "Townsend",
+        "given": "J.P."
+      }
+    ],
+    "title": "Solving the ecological puzzle of mycorrhizal associations using data from annotated collections and environmental samples—an example of saddle fungi",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Environmental Microbiology Reports",
+    "issued": "2015",
+    "page": "658–667",
+    "URL": "http://dx.doi.org/10.1111/1758-2229.12303",
+    "DOI": "10.1111/1758-2229.12303"
+  },
+  {
+    "author": [
+      {
+        "family": "Fungorum",
+        "given": "Index"
+      }
+    ],
+    "title": "Index Fungorum",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://www.indexfungorum.org/Names/Names.asp"
+  },
+  {
+    "author": [
+      {
+        "family": "Jayasiri",
+        "given": "S.C."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Ariyawansa",
+        "given": "H.A."
+      },
+      {
+        "family": "Bhat",
+        "given": "J."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Cai",
+        "given": "L."
+      },
+      {
+        "family": "Dai",
+        "given": "Y.C."
+      },
+      {
+        "family": "Abd-Elsalam",
+        "given": "K.A."
+      },
+      {
+        "family": "Ertz",
+        "given": "D."
+      },
+      {
+        "family": "Hidayat",
+        "given": "I."
+      },
+      {
+        "family": "Jeewon",
+        "given": "R."
+      },
+      {
+        "family": "Jones",
+        "given": "E.B.G."
+      },
+      {
+        "family": "Bahkali",
+        "given": "A.H."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Luangsa-ard",
+        "given": "J.J."
+      },
+      {
+        "family": "Lumbsch",
+        "given": "H.T."
+      },
+      {
+        "family": "Maharachchikumbura",
+        "given": "S.S.N."
+      },
+      {
+        "family": "McKenzie",
+        "given": "E.H.C."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.M."
+      },
+      {
+        "family": "Ghobad-Nejhad",
+        "given": "M."
+      },
+      {
+        "family": "Nilsson",
+        "given": "H."
+      },
+      {
+        "family": "Pang",
+        "given": "K.A."
+      },
+      {
+        "family": "Pereira",
+        "given": "O.L."
+      },
+      {
+        "family": "Phillips",
+        "given": "A.J.L."
+      },
+      {
+        "family": "Raspé",
+        "given": "O."
+      },
+      {
+        "family": "Rollins",
+        "given": "A.W."
+      },
+      {
+        "family": "Romero",
+        "given": "A.I."
+      },
+      {
+        "family": "Etayo",
+        "given": "J."
+      },
+      {
+        "family": "Selçuk",
+        "given": "F."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Suetrong",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.E."
+      },
+      {
+        "family": "Tsui",
+        "given": "C.K.M."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Abdel-Wahab",
+        "given": "M.A."
+      },
+      {
+        "family": "Wen",
+        "given": "T.C."
+      },
+      {
+        "family": "Boonmee",
+        "given": "S."
+      },
+      {
+        "family": "Dai",
+        "given": "D.Q."
+      },
+      {
+        "family": "Daranagama",
+        "given": "D.A."
+      },
+      {
+        "family": "Dissanayake",
+        "given": "A.J."
+      },
+      {
+        "family": "Ekanayaka",
+        "given": "A.H."
+      },
+      {
+        "family": "Fryar",
+        "given": "S.C."
+      },
+      {
+        "family": "Hongsanan",
+        "given": "S."
+      },
+      {
+        "family": "Jayawardena",
+        "given": "R.S."
+      },
+      {
+        "family": "Li",
+        "given": "W.J."
+      },
+      {
+        "family": "Perera",
+        "given": "R.H."
+      },
+      {
+        "family": "Phookamsak",
+        "given": "R."
+      },
+      {
+        "family": "Silva",
+        "given": "N.I.",
+        "particle": "de"
+      },
+      {
+        "family": "Thambugala",
+        "given": "K.M."
+      },
+      {
+        "family": "Tian",
+        "given": "Q."
+      },
+      {
+        "family": "Wijayawardene",
+        "given": "N.N."
+      },
+      {
+        "family": "Zhao",
+        "given": "R.L."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Kang",
+        "given": "J.C."
+      },
+      {
+        "family": "Promputtha",
+        "given": "I."
+      }
+    ],
+    "title": "The Faces of Fungi database: fungal names linked with morphology, phylogeny and human impacts",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2015",
+    "page": "3–18",
+    "URL": "http://dx.doi.org/10.1007/s13225-015-0351-8",
+    "DOI": "10.1007/s13225-015-0351-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Korf",
+        "given": "R.P."
+      },
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      }
+    ],
+    "title": "Some new species and new records of discomycetes in China",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1985",
+    "page": "483–514"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of colour",
+    "edition": "3rd edn",
+    "type": null,
+    "issued": "1978",
+    "publisher-place": "Methuen, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Y.J."
+      },
+      {
+        "family": "Wheelen",
+        "given": "S."
+      },
+      {
+        "family": "Hall",
+        "given": "B.D."
+      }
+    ],
+    "title": "Phylogenetic relationships among ascomycetes: evidence from an RNA polymerase II subunit",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1999",
+    "page": "1799–1808"
+  },
+  {
+    "author": [
+      {
+        "given": "M.A.F.F.T."
+      }
+    ],
+    "title": "MAFFT v",
+    "genre": "6.864b.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://mafft.cbrc.jp/alignment/server/index.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest 2.0. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfister",
+        "given": "D.H."
+      }
+    ],
+    "title": "The genus Acervus (Ascomycetes, Pezizales",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Occasional Papers of the Farlow Herbarium of Cryptogamic Botany",
+    "issued": "1975",
+    "page": "1–11"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "raxmlGUI: a graphical front end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity & Evolution",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "http://dx.doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Alachiotis",
+        "given": "N."
+      }
+    ],
+    "title": "Time and memory efficient likelihood-based tree searches on phylogenomic alignments with missing data",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2010",
+    "page": "132–139",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btq205",
+    "DOI": "10.1093/bioinformatics/btq205"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: phylogenetic analysis using parsimony (*and other methods), version 4",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2003",
+    "publisher-place": "Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Tolgor",
+        "given": "B."
+      },
+      {
+        "family": "Zhao",
+        "given": "Y.C."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Species diversity within the Helvella crispa group (Ascomycota: Helvellaceae) in China",
+    "volume": "239",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2015",
+    "page": "130–142",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.239.2.2",
+    "DOI": "10.11646/phytotaxa.239.2.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Brooks",
+        "given": "S."
+      },
+      {
+        "family": "Zhao",
+        "given": "Y.C."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Morphology and phylogenic position of Wynnella subalpina sp",
+    "note": "nov. (Helvellaceae) from western China. Phytotaxa 270 (1):1–4.",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.270.1.4",
+    "DOI": "10.11646/phytotaxa.270.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Hao",
+        "given": "Y.J."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Cui",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Brooks",
+        "given": "S."
+      },
+      {
+        "family": "Zhao",
+        "given": "Y.C."
+      }
+    ],
+    "title": "Infundibulicybe rufa sp",
+    "editor": [
+      {
+        "given": "nov"
+      }
+    ],
+    "volume": "266",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2016",
+    "page": "2–7",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.266.2.7",
+    "DOI": "10.11646/phytotaxa.266.2.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Sulayman",
+        "given": "M."
+      },
+      {
+        "family": "Zhu",
+        "given": "X."
+      },
+      {
+        "family": "Zhao",
+        "given": "Y."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Species clarification of the culinary Bachu mushroom in western China",
+    "volume": "108",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "4",
+    "issued": "2016",
+    "page": "828–836",
+    "URL": "http://dx.doi.org/10.3852/16-002",
+    "DOI": "10.3852/16-002"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      },
+      {
+        "family": "Luo",
+        "given": "J."
+      },
+      {
+        "family": "Zhao",
+        "given": "P."
+      }
+    ],
+    "title": "Two new species of Acervus (Pezizales) with a key to species of the genus",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "2",
+    "issued": "2011",
+    "page": "400–406",
+    "URL": "http://dx.doi.org/10.3852/10-149",
+    "DOI": "10.3852/10-149"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "W.Y."
+      },
+      {
+        "family": "Wang",
+        "given": "Z."
+      }
+    ],
+    "title": "Discomycetes of tropical China II",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Collections from Yunnan. Mycotaxon",
+    "issued": "1998",
+    "page": "339–358"
+  }
+]

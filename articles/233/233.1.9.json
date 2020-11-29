@@ -1,0 +1,284 @@
+[
+  {
+    "author": [
+      {
+        "family": "Battandier",
+        "given": "J.-A."
+      },
+      {
+        "family": "Trabut",
+        "given": "L.-C."
+      }
+    ],
+    "title": "Flore de l’Algérie. Dicotylédones",
+    "publisher": "Typographie Adolphe Jourdan, Paris",
+    "type": "book",
+    "issued": "1889",
+    "page": "825"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "P.-E."
+      },
+      {
+        "family": "Reuter",
+        "given": "G.-F."
+      }
+    ],
+    "title": "Pugillus plantarum novarum Africae borealis Hispaniaeque australis",
+    "volume": "Geneva",
+    "type": "article-journal",
+    "container-title": "Ex typographia Ferd. Ramboz et socii",
+    "issued": "1852",
+    "page": "134"
+  },
+  {
+    "author": [
+      {
+        "family": "Bokhari",
+        "given": "M.H."
+      },
+      {
+        "family": "Sales",
+        "given": "F."
+      }
+    ],
+    "title": "Jasione (Campanulaceae) anatomy in the Iberian Peninsula and its taxonomic significance",
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Edinburgh Journal of Botany",
+    "issued": "2001",
+    "page": "405–422",
+    "URL": "http://dx.doi.org/10.1017/S0960428601000725",
+    "DOI": "10.1017/S0960428601000725"
+  },
+  {
+    "editor": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      },
+      {
+        "family": "Aldasoro",
+        "given": "J.J."
+      },
+      {
+        "family": "Alarcón",
+        "given": "M."
+      }
+    ],
+    "title": "Campanulaceae. In: Euro+Med Plantbase - the information resource for Euro-Mediterranean plant diversity",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2010",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/PTaxonDetail.asp?NameId=93018&PTRefFk=7400000"
+  },
+  {
+    "editor": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      }
+    ],
+    "title": "Med-Checklist Notulae, 3",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "1981",
+    "page": "23–43"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamarck",
+        "given": "J.-B.P.A."
+      }
+    ],
+    "title": "Encyclopédie méthodique",
+    "volume": "3",
+    "publisher": "Chez H. Agasse, Imprimeur-Libraire",
+    "type": "article-journal",
+    "container-title": "Botanique. Supplément",
+    "issued": "1813",
+    "page": "876",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile",
+    "volume": "154",
+    "type": null,
+    "issued": "2012",
+    "page": "1–240"
+  },
+  {
+    "author": [
+      {
+        "family": "Parnell",
+        "given": "J."
+      }
+    ],
+    "title": "Variation in Jasione montana L. (Campanulaceae) and related species in Europe and North Africa",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Watsonia",
+    "issued": "1987",
+    "page": "249–267"
+  },
+  {
+    "author": [
+      {
+        "family": "Roemer",
+        "given": "J.J."
+      },
+      {
+        "family": "Schultes",
+        "given": "J.A."
+      }
+    ],
+    "title": "Systema vegetabilium. Editio nova 4",
+    "volume": "Stuttgart",
+    "type": "article-journal",
+    "container-title": "Sumtibus J. G. Cottae",
+    "issued": "1819",
+    "page": "638"
+  },
+  {
+    "author": [
+      {
+        "family": "Sales",
+        "given": "F."
+      },
+      {
+        "family": "Hedge",
+        "given": "I.C."
+      }
+    ],
+    "title": "Notulae taxinomicae, chorologicae, nomenclaturales, bibliographicae aut philologicae in opus “Flora iberica” intendentes",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issued": "2001",
+    "page": "163–172"
+  },
+  {
+    "author": [
+      {
+        "family": "Sales",
+        "given": "F."
+      },
+      {
+        "family": "Hedge",
+        "given": "I.C."
+      }
+    ],
+    "title": "Jasione L",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Flora iberica",
+    "issued": "2001",
+    "page": "153–170",
+    "publisher-place": "Real Jardín Botánico, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic Literature",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Regnum Vegetabile",
+    "issued": "1976",
+    "page": "1–136"
+  }
+]

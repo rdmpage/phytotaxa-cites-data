@@ -1,0 +1,966 @@
+[
+  {
+    "author": [
+      {
+        "family": "Altschul",
+        "given": "S.F."
+      },
+      {
+        "family": "Madden",
+        "given": "T.L."
+      },
+      {
+        "family": "Schaffer",
+        "given": "A.A."
+      },
+      {
+        "family": "Zhang",
+        "given": "J."
+      },
+      {
+        "family": "Zhang",
+        "given": "Z."
+      },
+      {
+        "family": "Miller",
+        "given": "W."
+      },
+      {
+        "family": "Lipman",
+        "given": "D.J."
+      }
+    ],
+    "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "3389–3402",
+    "URL": "https://doi.org/10.1093/nar/25.17.3389",
+    "DOI": "10.1093/nar/25.17.3389"
+  },
+  {
+    "author": [
+      {
+        "family": "Borchsenius",
+        "given": "F."
+      }
+    ],
+    "title": "FastGap 1.2",
+    "publisher": "Department of Bio-sciences, Aarhus University",
+    "type": "book",
+    "issued": "2009",
+    "publisher-place": "Denmark",
+    "URL": "http://www.aubot.dk/FastGap_home.htm."
+  },
+  {
+    "author": [
+      {
+        "family": "Carriconde",
+        "given": "F."
+      },
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bellanger",
+        "given": "J.-M."
+      },
+      {
+        "family": "Letellier",
+        "given": "K."
+      },
+      {
+        "family": "Gigante",
+        "given": "S."
+      },
+      {
+        "family": "Gourmelon",
+        "given": "V."
+      },
+      {
+        "family": "Ibanez",
+        "given": "T."
+      },
+      {
+        "family": "McCoy",
+        "given": "S."
+      },
+      {
+        "family": "Goxe",
+        "given": "J."
+      },
+      {
+        "family": "Read",
+        "given": "J."
+      },
+      {
+        "family": "Maggia",
+        "given": "L."
+      }
+    ],
+    "title": "Host effects in high ectomycorrhizal diversity tropical rainforests on ultramafic soils in New Caledonia",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Fungal Ecology",
+    "issued": "2019",
+    "page": "201–212",
+    "URL": "https://doi.org/10.1016/j.funeco.2019.02.006",
+    "DOI": "10.1016/j.funeco.2019.02.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Cleland",
+        "given": "J.B."
+      }
+    ],
+    "title": "Australian Fungi. Notes and Descriptions–No. 9",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Transactions of the Royal Society of South Australia",
+    "issued": "1933",
+    "page": "187–194"
+  },
+  {
+    "author": [
+      {
+        "family": "Crosby",
+        "given": "T.K."
+      },
+      {
+        "family": "Dugdale",
+        "given": "J.S."
+      },
+      {
+        "family": "Watt",
+        "given": "J.C."
+      }
+    ],
+    "title": "Area codes for recording specimen localities in the New Zealand subregion",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Zoology",
+    "issued": "1998",
+    "page": "175–183",
+    "URL": "https://doi.org/10.1080/03014223.1998.9518148",
+    "DOI": "10.1080/03014223.1998.9518148"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes—application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issue": "2",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Garnica",
+        "given": "S."
+      },
+      {
+        "family": "Schön",
+        "given": "M.E."
+      },
+      {
+        "family": "Abarenkov",
+        "given": "K."
+      },
+      {
+        "family": "Riess",
+        "given": "K."
+      },
+      {
+        "family": "Liimatainen",
+        "given": "K."
+      },
+      {
+        "family": "Niskanen",
+        "given": "T."
+      },
+      {
+        "family": "Dima",
+        "given": "B."
+      },
+      {
+        "family": "Soop",
+        "given": "K."
+      },
+      {
+        "family": "Frøslev",
+        "given": "T.G."
+      },
+      {
+        "family": "Jeppesen",
+        "given": "T.S."
+      },
+      {
+        "family": "Peintner",
+        "given": "U."
+      },
+      {
+        "family": "Brandrud",
+        "given": "T.E."
+      },
+      {
+        "family": "Saar",
+        "given": "G."
+      },
+      {
+        "family": "Oertel",
+        "given": "B."
+      },
+      {
+        "family": "Ammirati",
+        "given": "J.F."
+      }
+    ],
+    "title": "Determining threshold values for barcoding fungi: lessons from Cortinarius (Basidiomycota), a highly diverse and widespread ectomycorrhizal genus",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "FEMS Microbiology Ecology",
+    "issue": "4",
+    "issued": "2016",
+    "page": "045",
+    "URL": "https://doi.org/10.1093/femsec/fiw045",
+    "DOI": "10.1093/femsec/fiw045"
+  },
+  {
+    "author": [
+      {
+        "family": "Gasparini",
+        "given": "B."
+      },
+      {
+        "family": "Soop",
+        "given": "K."
+      }
+    ],
+    "title": "Contribution to the knowledge of Cortinarius (Agaricales, Cortinariaceae) of Tasmania (Australia) and New Zealand",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Australasian Mycologist",
+    "issue": "3",
+    "issued": "2008",
+    "page": "173–203"
+  },
+  {
+    "author": [
+      {
+        "family": "Gouy",
+        "given": "M."
+      },
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "SeaView version 4: a multiplatform graphical user interface for sequence alignment and phylogenetic tree building",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2010",
+    "page": "221–224",
+    "URL": "https://doi.org/10.1093/molbev/msp259",
+    "DOI": "10.1093/molbev/msp259"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "A simple, fast and accurate algorithm to estimate large phylogenies by maximum likelihood",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issue": "5",
+    "issued": "2003",
+    "page": "696–704",
+    "URL": "https://doi.org/10.1080/10635150390235520",
+    "DOI": "10.1080/10635150390235520"
+  },
+  {
+    "author": [
+      {
+        "family": "Horak",
+        "given": "E."
+      },
+      {
+        "family": "Wood",
+        "given": "A.E."
+      }
+    ],
+    "title": "Cortinarius Fr. (Agaricales) in Australasia. 1. Subgen",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Myxacium and subgen. Paramyxacium. Sydowia",
+    "issued": "1990",
+    "page": "88–168"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Kõljalg",
+        "given": "U."
+      },
+      {
+        "family": "Nilsson",
+        "given": "H."
+      },
+      {
+        "family": "Abarenkov",
+        "given": "K."
+      },
+      {
+        "family": "Tedersoo",
+        "given": "L."
+      },
+      {
+        "family": "Taylor",
+        "given": "A.F.S."
+      },
+      {
+        "family": "Bahram",
+        "given": "M."
+      },
+      {
+        "family": "Bates",
+        "given": "S.T."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Bengtsson-Palme",
+        "given": "J."
+      },
+      {
+        "family": "Callaghan",
+        "given": "T.M."
+      },
+      {
+        "family": "Douglas",
+        "given": "B."
+      },
+      {
+        "family": "Drenkhan",
+        "given": "T."
+      },
+      {
+        "family": "Eberhardt",
+        "given": "U."
+      },
+      {
+        "family": "Dueñas",
+        "given": "M."
+      },
+      {
+        "family": "Grebenc",
+        "given": "T."
+      },
+      {
+        "family": "Griffith",
+        "given": "G.W."
+      },
+      {
+        "family": "Hartmann",
+        "given": "M."
+      },
+      {
+        "family": "Kirk",
+        "given": "P."
+      },
+      {
+        "family": "Kohout",
+        "given": "P."
+      },
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Lindahl",
+        "given": "B."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Martín",
+        "given": "M."
+      },
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "Nguyen",
+        "given": "N."
+      },
+      {
+        "family": "Niskanen",
+        "given": "T."
+      },
+      {
+        "family": "Oja",
+        "given": "J."
+      },
+      {
+        "family": "Peay",
+        "given": "K."
+      },
+      {
+        "family": "Peintner",
+        "given": "U."
+      },
+      {
+        "family": "Peterson",
+        "given": "M."
+      },
+      {
+        "family": "Põldmaa",
+        "given": "K."
+      },
+      {
+        "family": "Saag",
+        "given": "L."
+      },
+      {
+        "family": "Saar",
+        "given": "I."
+      },
+      {
+        "family": "Schüßler",
+        "given": "A."
+      },
+      {
+        "family": "Senés",
+        "given": "C."
+      },
+      {
+        "family": "Smith",
+        "given": "M.E."
+      },
+      {
+        "family": "Suija",
+        "given": "A."
+      },
+      {
+        "family": "Taylor",
+        "given": "D.L."
+      },
+      {
+        "family": "Telleria",
+        "given": "M.T."
+      },
+      {
+        "family": "Weiß",
+        "given": "M."
+      },
+      {
+        "family": "Larsson",
+        "given": "K.-H."
+      }
+    ],
+    "title": "Towards a unified paradigm for sequence-based identification of Fungi",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "2013",
+    "page": "5271–5277",
+    "URL": "https://doi.org/10.1111/mec.12481",
+    "DOI": "10.1111/mec.12481"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issue": "7",
+    "issued": "2016",
+    "page": "1870–1874",
+    "URL": "https://doi.org/10.1093/molbev/msw054",
+    "DOI": "10.1093/molbev/msw054"
+  },
+  {
+    "author": [
+      {
+        "family": "Melot",
+        "given": "J."
+      }
+    ],
+    "title": "Combinationes et taxa nova",
+    "volume": "XX",
+    "type": "article-journal",
+    "container-title": "Documents Mycologiques",
+    "issue": "77",
+    "issued": "1989",
+    "page": "93–100"
+  },
+  {
+    "author": [
+      {
+        "family": "Moser",
+        "given": "M."
+      },
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "Cortinarius Fr. und nahe verwandte Gattungen in Südamerika",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Beihefte zur Nova Hedwigia",
+    "issued": "1975",
+    "page": "1–628"
+  },
+  {
+    "author": [
+      {
+        "family": "Nezdojminogo",
+        "given": "E.L."
+      }
+    ],
+    "title": "Schlapotschnie gribii SSSR. Rod Cortinarius Fr",
+    "type": null,
+    "issued": "1983",
+    "publisher-place": "Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "RaxmlGUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity and Evolution",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "https://doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Ochoterena",
+        "given": "H."
+      },
+      {
+        "family": "Carr",
+        "given": "T.G."
+      }
+    ],
+    "title": "Incorporation, relative homoplasy, and effect of gap characters in sequence-based phylogenetic analysis",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issue": "3",
+    "issued": "2001",
+    "page": "454–462",
+    "URL": "https://doi.org/10.1080/106351501300318049",
+    "DOI": "10.1080/106351501300318049"
+  },
+  {
+    "author": [
+      {
+        "family": "Soop",
+        "given": "K."
+      }
+    ],
+    "title": "Contribution à l’étude de la mycoflore cortinarioïde de Nouvelle-Zélande",
+    "volume": "117",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Mycologique de France",
+    "issued": "2001",
+    "page": "91–132"
+  },
+  {
+    "author": [
+      {
+        "family": "Soop",
+        "given": "K."
+      }
+    ],
+    "title": "2002] Contribution à l’étude de la mycoflore cortinarioïde de Nouvelle-Zélande, II",
+    "volume": "118",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Mycologique de France",
+    "issued": "2003",
+    "page": "173–194"
+  },
+  {
+    "author": [
+      {
+        "family": "Soop",
+        "given": "K."
+      }
+    ],
+    "title": "A contribution to the study of the cortinarioid mycoflora of New Zealand, VII",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Botany",
+    "issue": "3",
+    "issued": "2016",
+    "page": "344–365",
+    "URL": "https://doi.org/10.1080/0028825X.2016.1178149",
+    "DOI": "10.1080/0028825X.2016.1178149"
+  },
+  {
+    "author": [
+      {
+        "family": "Soop",
+        "given": "K."
+      },
+      {
+        "family": "Wallace",
+        "given": "M."
+      },
+      {
+        "family": "Dima",
+        "given": "B."
+      }
+    ],
+    "title": "New Cortinarius (Agaricales) species described from New Zealand",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Botany",
+    "issue": "2",
+    "issued": "2018",
+    "page": "163–182",
+    "URL": "https://doi.org/10.1080/0028825X.2018.1436574",
+    "DOI": "10.1080/0028825X.2018.1436574"
+  },
+  {
+    "author": [
+      {
+        "family": "Soop",
+        "given": "K."
+      },
+      {
+        "family": "Dima",
+        "given": "B."
+      },
+      {
+        "family": "Cooper",
+        "given": "J.A."
+      },
+      {
+        "family": "Duckchul",
+        "given": "P."
+      },
+      {
+        "family": "Oertel",
+        "given": "B."
+      }
+    ],
+    "title": "A phylogenetic approach to a global supraspecific taxonomy of Cortinarius (Agaricales) with an emphasis on the southern mycota",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2019",
+    "page": "261–290",
+    "URL": "https://doi.org/10.3767/persoonia.2019.42.10",
+    "DOI": "10.3767/persoonia.2019.42.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Soop",
+        "given": "K."
+      },
+      {
+        "family": "Dima",
+        "given": "B."
+      },
+      {
+        "family": "Szarkándi",
+        "given": "J.G."
+      },
+      {
+        "family": "Cooper",
+        "given": "J.A."
+      },
+      {
+        "family": "Papp",
+        "given": "T."
+      },
+      {
+        "family": "Vágvölgyi",
+        "given": "Cs"
+      },
+      {
+        "family": "Nagy",
+        "given": "L.G."
+      }
+    ],
+    "title": "Psathyloma, a new genus in Hymenogastraceae described from New Zealand",
+    "volume": "108",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "2",
+    "issued": "2016",
+    "page": "397–404",
+    "URL": "https://doi.org/10.3852/15-143",
+    "DOI": "10.3852/15-143"
+  },
+  {
+    "author": [
+      {
+        "family": "Trog",
+        "given": "J.G."
+      }
+    ],
+    "title": "Verzeichniss schweizerischer Schwämme, welche grösstentheils in der Umgebung von Thun gesammelt worden sind",
+    "volume": "1844",
+    "type": "article-journal",
+    "container-title": "Mitteilungen der Naturforschenden Gesellschaft Bern",
+    "issue": "15–23",
+    "issued": "1844",
+    "page": "17–92"
+  },
+  {
+    "author": [
+      {
+        "family": "Truong",
+        "given": "C."
+      },
+      {
+        "family": "Mujic",
+        "given": "A.B."
+      },
+      {
+        "family": "Healy",
+        "given": "R."
+      },
+      {
+        "family": "Kuhar",
+        "given": "F."
+      },
+      {
+        "family": "Furci",
+        "given": "G."
+      },
+      {
+        "family": "Torres",
+        "given": "D."
+      },
+      {
+        "family": "Niskanen",
+        "given": "T."
+      },
+      {
+        "family": "Sandoval-Leiva",
+        "given": "P.-A."
+      },
+      {
+        "family": "Fernandez",
+        "given": "N."
+      },
+      {
+        "family": "Escobar",
+        "given": "J.M."
+      },
+      {
+        "family": "Moretto",
+        "given": "A."
+      },
+      {
+        "family": "Palfner",
+        "given": "G."
+      },
+      {
+        "family": "Pfister",
+        "given": "D."
+      },
+      {
+        "family": "Nouhra",
+        "given": "E."
+      },
+      {
+        "family": "Swenie",
+        "given": "R."
+      },
+      {
+        "family": "Sánchez-García",
+        "given": "M."
+      },
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "Smith",
+        "given": "M.E."
+      }
+    ],
+    "title": "How to know the fungi: combining field inventories and DNA-barcoding to document fungal diversity",
+    "volume": "214",
+    "type": "article-journal",
+    "container-title": "New Phytologist",
+    "issued": "2017",
+    "page": "913–919",
+    "URL": "https://doi.org/10.1111/nph.14509",
+    "DOI": "10.1111/nph.14509"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "https://doi.org/10.1128/JB.172.8.4238-4246.1990",
+    "DOI": "10.1128/JB.172.8.4238-4246.1990"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "New York",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  }
+]

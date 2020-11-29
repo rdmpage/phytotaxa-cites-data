@@ -1,0 +1,264 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Loganiaceae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "volume": "4",
+    "publisher": "L. Reeve & Co",
+    "type": "book",
+    "issued": "1885",
+    "page": "82",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "The Flora of Presidency of Madras",
+    "volume": "2",
+    "publisher": "Adlard & Son Ltd., London",
+    "type": "book",
+    "issued": "1921",
+    "page": "865"
+  },
+  {
+    "author": [
+      {
+        "family": "Leenhouts",
+        "given": "P.W."
+      }
+    ],
+    "title": "Flora Malesiana precursors xxxiii",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Loganiaceae. Bulletin du Jardin Botanique de lEtat a Bruxelles",
+    "issued": "1962",
+    "page": "417–458"
+  },
+  {
+    "author": [
+      {
+        "family": "Struwe",
+        "given": "L."
+      },
+      {
+        "family": "Kadereit",
+        "given": "J."
+      },
+      {
+        "family": "Klackenberg",
+        "given": "S."
+      },
+      {
+        "family": "Nilsson",
+        "given": "S."
+      },
+      {
+        "family": "Thiv",
+        "given": "M."
+      },
+      {
+        "family": "Von Hagen",
+        "given": "K.B."
+      },
+      {
+        "family": "Albert",
+        "given": "V.A."
+      }
+    ],
+    "title": "Systematics, character evolution and biogeography of Gentianaceae, including a new tribal and sub tribal classification",
+    "editor": [
+      {
+        "family": "Struwe",
+        "given": "L."
+      },
+      {
+        "family": "Albert",
+        "given": "V.A."
+      }
+    ],
+    "container-title": "Gentianaceae – Systematics and natural history",
+    "publisher": "Cambridge University Press, U.K",
+    "type": "chapter",
+    "issued": "2002",
+    "page": "21–309"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B.M."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff, New York Botanical Garden’s Virtual Herbarium",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "http://sweetgum.Nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "P."
+      }
+    ],
+    "title": "Kongl. Vetenskaps Academiens Nya Handlingar",
+    "volume": "2. Vol. 3",
+    "publisher": "Tryckte hos Johan Georg Lange, Stockholm",
+    "type": "article-journal",
+    "container-title": "Ser",
+    "issued": "1782",
+    "page": "132"
+  },
+  {
+    "author": [
+      {
+        "family": "Trimen",
+        "given": "H.M.B."
+      }
+    ],
+    "title": "A Handbook to the Flora of Ceylon",
+    "genre": "Part 3.",
+    "publisher": "Dulau & Co., Soho Square",
+    "type": null,
+    "issued": "1895",
+    "page": "170–171"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi and plants (Shenzhen Code). [Regnum Vegetabile 159] Koeltz Botanical Books, Glashutten.",
+    "type": null,
+    "issued": "2018",
+    "URL": "http://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Flora Indica",
+    "volume": "II",
+    "publisher": "Mission press, Serampore",
+    "type": "article-journal",
+    "container-title": "Ed.1",
+    "issued": "1824",
+    "page": "33"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Icones Plantarum Indiae Orientalis",
+    "type": "article-journal",
+    "container-title": "J.B. Pharoah, Madras",
+    "issued": "1848"
+  },
+  {
+    "author": [
+      {
+        "family": "K.M.",
+        "given": "Wong"
+      },
+      {
+        "family": "Sugumaran",
+        "given": "M."
+      }
+    ],
+    "title": "Studies in Malesian Gentianaceae, VII. A revision of Fagraea in the Malay Peninsula with five new species",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Sandakania",
+    "issued": "2012",
+    "page": "75"
+  }
+]

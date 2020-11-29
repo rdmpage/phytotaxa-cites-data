@@ -1,0 +1,146 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adanson",
+        "given": "M."
+      }
+    ],
+    "title": "Familles des Plantes 2",
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1763",
+    "page": "640",
+    "publisher-place": "Vincent"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Enumeratio systematica plantarum",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "T. Haak, Leiden",
+    "issued": "1760",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum.Impensis Laurentii Salvii",
+    "publisher": "Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "The Plant Book: A Portable Dictionary of the Vascular Plants",
+    "edition": "2nd",
+    "publisher": "Cambridge University Press, Cambridge",
+    "type": "book",
+    "issued": "2005",
+    "page": "858"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      }
+    ],
+    "title": "onwards) Angiosperm Phylogeny Website",
+    "genre": "Version 13,",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "URL": "http://www.mobot.org/MOBOT/research/APweb/"
+  },
+  {
+    "author": [
+      {
+        "family": "Tutcher",
+        "given": "W.J."
+      }
+    ],
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Journal of Linnean Society, Botany, London",
+    "issued": "1905",
+    "page": "65–66"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Plantae Asiaticae Rariores",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Treuttel and Würtz, London",
+    "issued": "1830",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wilmot-Dear",
+        "given": "C.M."
+      }
+    ],
+    "title": "A Revision of Mucuna (Leguminosae-Phaseoleae) in China and Japan",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1984",
+    "page": "23–65",
+    "URL": "https://doi.org/10.2307/4107853",
+    "DOI": "10.2307/4107853"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilmot-Dear",
+        "given": "C.M."
+      }
+    ],
+    "title": "A Revision of Mucuna (Leguminosae:Phaseoleae) in the Indian Subcontinent and Burma",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1987",
+    "page": "23–46",
+    "URL": "https://doi.org/10.2307/4109895",
+    "DOI": "10.2307/4109895"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilmot-Dear",
+        "given": "C.M."
+      }
+    ],
+    "title": "A Revision of Mucuna (Leguminosae:Phaseoleae) in Thailand, Indochina and the Malay Peninsula",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1992",
+    "page": "203–245",
+    "URL": "https://doi.org/10.2307/4110664",
+    "DOI": "10.2307/4110664"
+  }
+]

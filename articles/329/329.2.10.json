@@ -1,0 +1,145 @@
+[
+  {
+    "author": [
+      {
+        "family": "Museum",
+        "given": "The Field"
+      }
+    ],
+    "title": "Botany Collections Database, Search: Berlin Negatives",
+    "container-title": "The Field Museum of Natural History",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2012",
+    "publisher-place": "Chicago USA",
+    "URL": "http://emuweb.fieldmuseum.org/botany/search_berlin.php"
+  },
+  {
+    "author": [
+      {
+        "family": "Grimé",
+        "given": "W.E."
+      },
+      {
+        "family": "Plowman",
+        "given": "T."
+      }
+    ],
+    "title": "Type photographs at Field Museum of Natural History",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1986",
+    "page": "932–934"
+  },
+  {
+    "author": [
+      {
+        "family": "Herbarium",
+        "given": "W.U."
+      }
+    ],
+    "title": "Virtual Herbaria",
+    "publisher": "Institute of Botany, University of Vienna",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "publisher-place": "Vienna Austria",
+    "URL": "http://herbarium.univie.ac.at/database/search.php"
+  },
+  {
+    "author": [
+      {
+        "family": "Hiepko",
+        "given": "P."
+      }
+    ],
+    "title": "The collections of the Botanical Museum Berlin-Dahlem (B) and their history",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Englera",
+    "issued": "1987",
+    "page": "219–252"
+  },
+  {
+    "author": [
+      {
+        "given": "J.S.T.O.R."
+      }
+    ],
+    "title": "Global Plants on JSTOR",
+    "note": "Available at:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://plants.jstor.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirkbride",
+        "given": "J.H."
+      }
+    ],
+    "title": "Revision of the Genus Psyllocarpus (Rubiaceae",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Smithsonian Contributions to Botany",
+    "issued": "1979",
+    "page": "1–32"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Rubiaceae",
+    "editor": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie",
+    "issue": "suppl. 60",
+    "issued": "1898",
+    "page": "17–18"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+    "edition": "2nd",
+    "volume": "5",
+    "publisher": "Sal-Ste). Bohn, Scheltema & Holkema",
+    "type": "book",
+    "issued": "1985",
+    "page": null,
+    "publisher-place": "Utrecht"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

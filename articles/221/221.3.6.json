@@ -1,0 +1,537 @@
+[
+  {
+    "author": [
+      {
+        "family": "Amorim",
+        "given": "A.M.A."
+      },
+      {
+        "family": "Fiaschi",
+        "given": "P."
+      },
+      {
+        "family": "Jardim",
+        "given": "J.G."
+      },
+      {
+        "family": "Thomas",
+        "given": "W.W."
+      },
+      {
+        "family": "Clifton",
+        "given": "B."
+      },
+      {
+        "family": "Carvalho",
+        "given": "A.M."
+      }
+    ],
+    "title": "The vascular plants of a forest fragment in southern Bahia, Brazil",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Sida",
+    "issued": "2005",
+    "page": "1726–1752"
+  },
+  {
+    "author": [
+      {
+        "family": "APG",
+        "suffix": "II"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG II",
+    "volume": "141",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2003",
+    "page": "399 436",
+    "URL": "http://dx.doi.org/10.1046/j.1095-8339.2003.t01-1-00158.x",
+    "DOI": "10.1046/j.1095-8339.2003.t01-1-00158.x"
+  },
+  {
+    "author": [
+      {
+        "family": "APG",
+        "suffix": "III"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2009",
+    "page": "105 121",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2009.00996.x",
+    "DOI": "10.1111/j.1095-8339.2009.00996.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Bittrich",
+        "given": "V."
+      },
+      {
+        "family": "Rodrigues",
+        "given": "W.A."
+      }
+    ],
+    "title": "Clusiaceae",
+    "editor": [
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      },
+      {
+        "family": "Rapini",
+        "given": "A."
+      },
+      {
+        "family": "Andrade",
+        "given": "M.J.G."
+      },
+      {
+        "family": "Queiroz",
+        "given": "L.P."
+      },
+      {
+        "family": "Silva",
+        "given": "J.M.C."
+      }
+    ],
+    "container-title": "Plantas raras do Brasil. Conservação Internacional",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "139 141",
+    "publisher-place": "Belo Horizonte"
+  },
+  {
+    "author": [
+      {
+        "literal": "Bittrich, V., Trad, R.J., Cabral, F. & Nascimento Jr., J.E."
+      }
+    ],
+    "title": "Calophyllaceae",
+    "container-title": "Lista de espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": "chapter",
+    "issued": "2014",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB6855"
+  },
+  {
+    "author": [
+      {
+        "family": "Duarte",
+        "given": "A.P."
+      }
+    ],
+    "title": "Duas novas espécies da Flora dos Estados do Espírito Santo e Goiás",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Arquivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1973",
+    "page": "217 222"
+  },
+  {
+    "author": [
+      {
+        "family": "Gustafsson",
+        "given": "M.H.G."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      },
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      }
+    ],
+    "title": "Phylogeny of Clusiaceae based on rbcL sequences",
+    "volume": "163",
+    "type": "article-journal",
+    "container-title": "International Journal of Plant Sciences",
+    "issued": "2002",
+    "page": "1045 1054",
+    "URL": "http://dx.doi.org/10.1086/342521",
+    "DOI": "10.1086/342521"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria",
+    "edition": "Version 3.1. Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Martini",
+        "given": "A.M.Z."
+      },
+      {
+        "family": "Fiaschi",
+        "given": "P."
+      },
+      {
+        "family": "Amorim",
+        "given": "A.M."
+      },
+      {
+        "family": "Paixão",
+        "given": "J.L."
+      }
+    ],
+    "title": "A hot-point within a hot-spot: a high diversity site in Brazil’s Atlantic Forest",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Biodiversity and Conservation",
+    "issued": "2007",
+    "page": "3111–3128",
+    "URL": "http://dx.doi.org/10.1007/s10531-007-9166-6",
+    "DOI": "10.1007/s10531-007-9166-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      },
+      {
+        "family": "Zuccarini",
+        "given": "J.G."
+      }
+    ],
+    "title": "Ankündigung der Fortsetzung eines Werkes über brasilianische Pflanzen (Fortsetzung",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Flora oder Botanische Zeitung",
+    "issue": "1",
+    "issued": "1825",
+    "page": "27 32"
+  },
+  {
+    "author": [
+      {
+        "family": "Notis",
+        "given": "C."
+      }
+    ],
+    "title": "Phylogeny and character evolution of Kielmeyeroideae (Clusiaceae) based on molecular and morphological data",
+    "publisher": "Master Thesis in Science, University of Florida",
+    "type": "book",
+    "issued": "2004",
+    "page": "116"
+  },
+  {
+    "author": [
+      {
+        "family": "Ribeiro",
+        "given": "M.C."
+      },
+      {
+        "family": "Metzger",
+        "given": "J.P."
+      },
+      {
+        "family": "Martensen",
+        "given": "A.C."
+      },
+      {
+        "family": "Ponzoni",
+        "given": "F.J."
+      },
+      {
+        "family": "Hirota",
+        "given": "M.M."
+      }
+    ],
+    "title": "The Brazilian Atlantic forest: How much is left, and how is the remaining forest distributed? Implications for conservation",
+    "volume": "142",
+    "type": "article-journal",
+    "container-title": "Biological Conservation",
+    "issued": "2009",
+    "page": "1141–1153",
+    "URL": "http://dx.doi.org/10.1016/j.biocon.2009.02.021",
+    "DOI": "10.1016/j.biocon.2009.02.021"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruhfel",
+        "given": "B.R."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      },
+      {
+        "family": "Bove",
+        "given": "C.P."
+      },
+      {
+        "family": "Gustafsson",
+        "given": "M.H.G."
+      },
+      {
+        "family": "Philbrick",
+        "given": "C.T."
+      },
+      {
+        "family": "Rutishauser",
+        "given": "R."
+      },
+      {
+        "family": "Xi",
+        "given": "Z."
+      },
+      {
+        "family": "Davis",
+        "given": "C.C."
+      }
+    ],
+    "title": "Phylogeny of the clusioid clade (Malpighiales): Evidence from the plastid and mitochondrial genomes",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2011",
+    "page": "1 20",
+    "URL": "http://dx.doi.org/10.3732/ajb.1000354",
+    "DOI": "10.3732/ajb.1000354"
+  },
+  {
+    "author": [
+      {
+        "family": "Saddi",
+        "given": "N."
+      }
+    ],
+    "title": "A taxonomic revision of the genus Kielmeyera Martius (Guttiferae",
+    "genre": "Ph.D. Thesis,",
+    "publisher": "University of Reading",
+    "type": "thesis",
+    "issued": "1982",
+    "page": "306"
+  },
+  {
+    "author": [
+      {
+        "family": "Saddi",
+        "given": "N."
+      }
+    ],
+    "title": "Duas novas espécies do gênero Kielmeyera Martius (Guttiferae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bradea",
+    "issue": "5",
+    "issued": "1984",
+    "page": "27–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Saddi",
+        "given": "N."
+      }
+    ],
+    "title": "Novas espécies de Kielmeyera Martius (Guttiferae) do Sudeste Brasileiro",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issue": "60",
+    "issued": "1984",
+    "page": "59–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Saddi",
+        "given": "N."
+      }
+    ],
+    "title": "Some new taxa in Kielmeyera (Guttiferae",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1984",
+    "page": "729–740",
+    "URL": "http://dx.doi.org/10.2307/4107737",
+    "DOI": "10.2307/4107737"
+  },
+  {
+    "author": [
+      {
+        "family": "Saddi",
+        "given": "N."
+      }
+    ],
+    "title": "Comparative external morphological study in the genus Kielmeyera Martius (Guttiferae). Publicações Avulsas do Herbário Central",
+    "edition": "2",
+    "publisher": "Universidade Federal de Mato Grosso, Herbário Central",
+    "type": "book",
+    "issued": "1989",
+    "page": "139"
+  },
+  {
+    "author": [
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Botânica sistemática: Guia ilustrado para identificação das famílias de Angiospermas da Flora Brasileira, baseado em APGIII",
+    "edition": "3",
+    "publisher": "Instituto Plantarum, Nova Odessa",
+    "type": "book",
+    "issued": "2012",
+    "page": "768"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      }
+    ],
+    "title": "onwards) Angiosperm Phylogeny Website",
+    "genre": "Version 13,",
+    "note": "and more or less continuously updated since]. Available from:",
+    "type": null,
+    "issued": "2001",
+    "URL": "http://www.mobot.org/MOBOT/research/APweb/"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "W.M.W."
+      },
+      {
+        "family": "Carvalho",
+        "given": "A.M.V."
+      },
+      {
+        "family": "Amorim",
+        "given": "A.M.A."
+      },
+      {
+        "family": "Garrison",
+        "given": "J."
+      },
+      {
+        "family": "Arbeláez",
+        "given": "A.L."
+      }
+    ],
+    "title": "Plant endemism in two forests in southern Bahia, Brazil",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Biodiversity & Conservation",
+    "issued": "1998",
+    "page": "311–322",
+    "URL": "http://dx.doi.org/10.1023/A:1008825627656",
+    "DOI": "10.1023/A:1008825627656"
+  },
+  {
+    "author": [
+      {
+        "family": "Trad",
+        "given": "R.J."
+      }
+    ],
+    "title": "Estudos taxonômicos e biossistemáticos no complexo Kielmeyera coriacea Mart",
+    "container-title": "& Zucc. (Calophyllaceae). Dissertação de Mestrado em Biologia Vegetal, Universidade Estadual de Campinas",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "157"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "K.J."
+      },
+      {
+        "family": "Davis",
+        "given": "C.C."
+      }
+    ],
+    "title": "Malpighiales phylogenetics: gaining ground on one of the most recalcitrant clades in the angiosperm tree of life",
+    "volume": "96",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2009",
+    "page": "1551 1570",
+    "URL": "http://dx.doi.org/10.3732/ajb.0800207",
+    "DOI": "10.3732/ajb.0800207"
+  },
+  {
+    "author": [
+      {
+        "family": "Xi",
+        "given": "Z."
+      },
+      {
+        "family": "Ruhfel",
+        "given": "B.R."
+      },
+      {
+        "family": "Schaefer",
+        "given": "H."
+      },
+      {
+        "family": "Amorim",
+        "given": "A.M."
+      },
+      {
+        "family": "Sugumaran",
+        "given": "M."
+      },
+      {
+        "family": "Wurdack",
+        "given": "K.J."
+      },
+      {
+        "family": "Endress",
+        "given": "P.K."
+      },
+      {
+        "family": "Matthews",
+        "given": "M.L."
+      },
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      },
+      {
+        "family": "Matthews",
+        "given": "S."
+      },
+      {
+        "family": "Davis",
+        "given": "C.C."
+      }
+    ],
+    "title": "Phylogenomics and a posteriori data partitioning resolve the cretaceous angiosperm radiation Malpighiales",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "109",
+    "issue": "43",
+    "type": "article-journal",
+    "issued": "2012",
+    "page": "17519 17524",
+    "URL": "http://dx.doi.org/10.1073/pnas.1205818109",
+    "DOI": "10.1073/pnas.1205818109"
+  }
+]

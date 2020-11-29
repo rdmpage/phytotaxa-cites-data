@@ -1,0 +1,593 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Eriogoneae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Regni Vegetabili",
+    "volume": "14. V. Masson",
+    "type": "chapter",
+    "issued": "1856",
+    "page": "5–28",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Benham",
+        "given": "J.J."
+      }
+    ],
+    "title": "Genographer Version 1.6.0",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://genographer.sourceforge.net/."
+  },
+  {
+    "author": [
+      {
+        "family": "Earl",
+        "given": "D.A."
+      },
+      {
+        "family": "Holdt",
+        "given": "B.M.",
+        "particle": "von"
+      }
+    ],
+    "title": "STRUCTURE HARVESTER: A website and program for visualizing STRUCTURE output and implementing the Evanno method",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Conservation Genetics Resources",
+    "issued": "2012",
+    "page": "359–361",
+    "URL": "http://dx.doi.org/10.1007/s12686-011-9548-7",
+    "DOI": "10.1007/s12686-011-9548-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "M.W."
+      },
+      {
+        "family": "Roper",
+        "given": "J.M."
+      },
+      {
+        "family": "Gainer",
+        "given": "R."
+      },
+      {
+        "family": "Der",
+        "given": "J.P."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.G."
+      }
+    ],
+    "title": "The taxonomic designation of Eriogonum corymbosum var. nilesii (Polygonaceae) is supported by AFLP and cpDNA analyses",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2009",
+    "page": "693–703",
+    "URL": "http://dx.doi.org/10.1600/036364409790139736",
+    "DOI": "10.1600/036364409790139736"
+  },
+  {
+    "author": [
+      {
+        "family": "Evanno",
+        "given": "G."
+      },
+      {
+        "family": "Regnaut",
+        "given": "S."
+      },
+      {
+        "family": "Goudet",
+        "given": "J."
+      }
+    ],
+    "title": "Detecting the number of clusters of individuals using the software STRUCTURE: A simulation study",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "2005",
+    "page": "2611–2620",
+    "URL": "http://dx.doi.org/10.1111/j.1365-294X.2005.02553.x",
+    "DOI": "10.1111/j.1365-294X.2005.02553.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Falush",
+        "given": "D."
+      },
+      {
+        "family": "Stephens",
+        "given": "M."
+      },
+      {
+        "family": "Pritchard",
+        "given": "J.K."
+      }
+    ],
+    "title": "Inference of population structure using multilocus genotype data: Linked loci and correlated allele frequencies",
+    "volume": "164",
+    "type": "article-journal",
+    "container-title": "Genetics",
+    "issued": "2003",
+    "page": "1567–1587"
+  },
+  {
+    "type": null,
+    "URL": "http://www.genetics.org/content/164/4/1567.full.pdf+html"
+  },
+  {
+    "author": [
+      {
+        "family": "Falush",
+        "given": "D."
+      },
+      {
+        "family": "Stephens",
+        "given": "M."
+      },
+      {
+        "family": "Pritchard",
+        "given": "J.K."
+      }
+    ],
+    "title": "Inference of population structure using multilocus genotype data: Dominant markers and null alleles",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Notes",
+    "issued": "2007",
+    "page": "574–578",
+    "URL": "http://dx.doi.org/10.1111/j.1471-8286.2007.01758.x",
+    "DOI": "10.1111/j.1471-8286.2007.01758.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Hubisz",
+        "given": "M.J."
+      },
+      {
+        "family": "Falush",
+        "given": "D."
+      },
+      {
+        "family": "Stephens",
+        "given": "M."
+      },
+      {
+        "family": "Pritchard",
+        "given": "J.K."
+      }
+    ],
+    "title": "Inferring weak population structure with the assistance of sample group information",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2009",
+    "page": "1322–1332",
+    "URL": "http://dx.doi.org/10.1111/j.1755-0998.2009.02591.x",
+    "DOI": "10.1111/j.1755-0998.2009.02591.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kettenring",
+        "given": "K.M."
+      },
+      {
+        "family": "Mock",
+        "given": "K.E."
+      }
+    ],
+    "title": "Genetic diversity, reproductive mode, and dispersal differ between the cryptic invader, Phragmites australis, and its native conspecific",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Biological Invasions",
+    "issued": "2012",
+    "page": "2489–2504",
+    "URL": "http://dx.doi.org/10.1007/s10530-012-0246-5",
+    "DOI": "10.1007/s10530-012-0246-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "M.E."
+      }
+    ],
+    "title": "Contributions to western botany",
+    "container-title": "No. VII. Proceedings of the California Academy of Sciences, ser",
+    "volume": "II, 5",
+    "type": "paper-conference",
+    "issued": "1895",
+    "page": "611–733"
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "M.E."
+      }
+    ],
+    "title": "Contributions to western botany",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Contributions to Western Botany",
+    "issued": "1903",
+    "page": "1–22"
+  },
+  {
+    "author": [
+      {
+        "family": "Peakall",
+        "given": "R."
+      },
+      {
+        "family": "Smouse",
+        "given": "P.E."
+      }
+    ],
+    "title": "GENALEX 6: Genetic analysis in Excel",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Population genetic software for teaching and research. Molecular Ecology Notes",
+    "issued": "2006",
+    "page": "288–295",
+    "URL": "http://dx.doi.org/10.1111/j.1471-8286.2005.01155.x",
+    "DOI": "10.1111/j.1471-8286.2005.01155.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Peakall",
+        "given": "R."
+      },
+      {
+        "family": "Smouse",
+        "given": "P.E."
+      }
+    ],
+    "title": "GenAlEx 6.5: Genetic analysis in Excel. Population genetic software for teaching and research—an update",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2012",
+    "page": "2537–2539",
+    "URL": "http://bioinformatics.oxfordjournals.org/content/28/19/2537"
+  },
+  {
+    "author": [
+      {
+        "family": "Pritchard",
+        "given": "J.K."
+      },
+      {
+        "family": "Stephens",
+        "given": "M."
+      },
+      {
+        "family": "Donnelly",
+        "given": "P."
+      }
+    ],
+    "title": "Inference of population structure using multilocus genotype data",
+    "volume": "155",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Genetics",
+    "issued": "2000",
+    "page": "945–959",
+    "URL": "http://www.genetics.org/content/155/2/945."
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "title": "Notes on Eriogonum – V. A revision of Eriogonum corymbosum complex",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Great Basin Naturalist",
+    "issued": "1968",
+    "page": "183–229"
+  },
+  {
+    "type": null,
+    "URL": "https://ojs.lib.byu.edu/spc/index.php/wnan/article/download/30021/28484"
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "title": "The Demoulin Rule and newly mandated combinations in Eriogonum (Polygonaceae",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1983",
+    "page": "292–295",
+    "URL": "http://dx.doi.org/10.2307/1221986",
+    "DOI": "10.2307/1221986"
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "title": "A review of Eriogonum corymbosum Benth. with emphasis on the species in southern Nevada",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "U.S. Fish and Wildlife Service, Las Vegas",
+    "issued": "2002",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "title": "New entities in Eriogonum (Polygonaceae: Eriogonoideae",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "2004",
+    "page": "121–159"
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      },
+      {
+        "family": "Candolle",
+        "given": "P.",
+        "particle": "de"
+      },
+      {
+        "family": "Candolle",
+        "given": "A.L.P.P.",
+        "particle": "de"
+      }
+    ],
+    "title": "Eriogonum corymbosum Bentham in A",
+    "volume": "14",
+    "container-title": "Flora of North America North of Mexico",
+    "publisher": "Oxford University Press",
+    "note": "Available from:",
+    "type": "article-journal",
+    "issued": "2005",
+    "page": "17",
+    "publisher-place": "New York",
+    "URL": "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250060233."
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Eriogonum Michx Wild",
+        "particle": "buckwheat."
+      },
+      {
+        "family": "Holmgren",
+        "given": "N.H."
+      },
+      {
+        "family": "Holmgren",
+        "given": "P.K."
+      },
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "title": "Intermountain flora: Vascular plants of the Intermountain West, U.S.A. Volume Two, Part A Subclasses Magnoliidae–Caryophyllidae",
+    "publisher": "The New York Botanical Garden Press",
+    "type": "book",
+    "issued": "2012",
+    "page": "11",
+    "publisher-place": "Bronx"
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "title": "Eriogonum manual for the Eriogonum Society",
+    "edition": "2013",
+    "publisher": "The Eriogonum Society",
+    "type": "book",
+    "issued": "2013",
+    "page": null,
+    "publisher-place": "Ithaca, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Reveal",
+        "given": "J.L."
+      }
+    ],
+    "title": "Eriogonum manual for the Eriogonum Society",
+    "edition": null,
+    "publisher": "The Eriogonum Society",
+    "type": "book",
+    "issued": "2014",
+    "page": null,
+    "publisher-place": "Ithaca, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Riley",
+        "given": "L."
+      },
+      {
+        "family": "McGlaughlin",
+        "given": "M.E."
+      },
+      {
+        "family": "Helenurm",
+        "given": "K."
+      }
+    ],
+    "title": "Microsatellite primers for the narrowly endemic shrub Eriogonum giganteum (Polygonaceae",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany Primer Notes & Protocols in the Plant Sciences",
+    "issued": "2011",
+    "page": "352– 355",
+    "URL": "http://dx.doi.org/10.3732/ajb.1100243",
+    "DOI": "10.3732/ajb.1100243"
+  },
+  {
+    "author": [
+      {
+        "family": "Stokes",
+        "given": "S.G."
+      }
+    ],
+    "title": "The genus Eriogonum, a preliminary study based on geographical distribution",
+    "publisher": "J.H. Neblett Press",
+    "type": "book",
+    "issued": "1936",
+    "publisher-place": "San Francisco"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum, a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2011",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Vos",
+        "given": "P."
+      },
+      {
+        "family": "Hogers",
+        "given": "R."
+      },
+      {
+        "family": "Bleeker",
+        "given": "M."
+      },
+      {
+        "family": "Reijans",
+        "given": "M."
+      },
+      {
+        "family": "Lee",
+        "given": "T.",
+        "particle": "van de"
+      },
+      {
+        "family": "Hornes",
+        "given": "M."
+      },
+      {
+        "family": "Frijters",
+        "given": "A."
+      },
+      {
+        "family": "Pot",
+        "given": "J."
+      },
+      {
+        "family": "Peleman",
+        "given": "J."
+      },
+      {
+        "family": "Kuiper",
+        "given": "M."
+      }
+    ],
+    "title": "AFLP: A new technique for DNA fingerprinting",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1995",
+    "page": "4407–4414"
+  },
+  {
+    "type": null,
+    "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC307397/"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "S."
+      }
+    ],
+    "title": "New Plants of Northern Arizona and the Region Adjacent",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "American Naturalist",
+    "issued": "1873",
+    "page": "299–303",
+    "URL": "http://dx.doi.org/10.1086/271140",
+    "DOI": "10.1086/271140"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "S."
+      }
+    ],
+    "title": "Contributions to American Botany",
+    "container-title": "Proceedings of the American Academy of Arts and Sciences",
+    "volume": "20",
+    "type": "paper-conference",
+    "issued": "1885",
+    "page": "324–378",
+    "URL": "http://dx.doi.org/10.2307/25138775",
+    "DOI": "10.2307/25138775"
+  }
+]

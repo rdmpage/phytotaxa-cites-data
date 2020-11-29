@@ -1,0 +1,98 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Borchsenius",
+        "given": "F."
+      },
+      {
+        "family": "Bernal",
+        "given": "R."
+      }
+    ],
+    "title": "Aiphanes (Palmae",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica",
+    "issued": "1996",
+    "page": "1–95"
+  },
+  {
+    "author": [
+      {
+        "family": "Galeano",
+        "given": "G."
+      },
+      {
+        "family": "Bernal",
+        "given": "R."
+      }
+    ],
+    "title": "New species and new records of Colombian palms",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Caldasia",
+    "issued": "2002",
+    "page": "277–292"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "type": null,
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Pita Pico",
+        "given": "R."
+      }
+    ],
+    "title": "Vestigios de la lengua guane: una aproximación al fenómeno del mestizaje idiomático en Santander",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Lingüística y Literatura",
+    "issued": "2013",
+    "page": "295–316"
+  }
+]

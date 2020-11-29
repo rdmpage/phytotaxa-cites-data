@@ -1,0 +1,978 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aguilar-Romero",
+        "given": "R."
+      },
+      {
+        "family": "García-Oliva",
+        "given": "F."
+      },
+      {
+        "family": "Pineda-García",
+        "given": "F."
+      },
+      {
+        "family": "Torres",
+        "given": "I."
+      },
+      {
+        "family": "Peña-Vega",
+        "given": "E."
+      },
+      {
+        "family": "Ghilardi",
+        "given": "A."
+      },
+      {
+        "family": "Oyama",
+        "given": "K."
+      }
+    ],
+    "title": "Patterns of distribution of nine Quercus species along an environmental gradient in a fragmented landscape in Central Mexico",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Botanical Sciences",
+    "issue": "3",
+    "issued": "2016",
+    "page": "471–482",
+    "URL": "https://doi.org/10.17129/botsci.620",
+    "DOI": "10.17129/botsci.620"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Londinensi",
+        "given": "E.Societate Linneana"
+      }
+    ],
+    "title": "Plantas Hartwegianas Imprimis Mexicanas",
+    "publisher": "United Kingdom",
+    "type": "book",
+    "issued": "1839",
+    "page": "393",
+    "URL": "https://doi.org/10.5962/bhl.title.437",
+    "DOI": "10.5962/bhl.title.437"
+  },
+  {
+    "author": [
+      {
+        "family": "Celaya",
+        "given": "P.",
+        "particle": "Blanco Fernández de"
+      },
+      {
+        "family": "Espejo Serna",
+        "given": "M.A."
+      },
+      {
+        "family": "López Ferrari",
+        "given": "A.R."
+      }
+    ],
+    "title": "Herbario de la Real Expedición Botánica de Nueva España",
+    "note": "Real Jardín Botánico, CSIC (Consejo Superior de Investigaciones Científicas),",
+    "publisher": "España",
+    "type": null,
+    "issued": "2010",
+    "page": "667",
+    "publisher-place": "Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonpland",
+        "given": "A.J.A."
+      }
+    ],
+    "title": "Voyage de Humboldt et Bonpland",
+    "editor": [
+      {
+        "family": "Humboldt",
+        "given": "A.von"
+      },
+      {
+        "family": "Bonpland",
+        "given": "A."
+      },
+      {
+        "family": "Poiteau",
+        "given": "A."
+      },
+      {
+        "family": "Schoell",
+        "given": "F."
+      },
+      {
+        "family": "Turpin",
+        "given": "P.J.F."
+      }
+    ],
+    "container-title": "Plantes Équinoxiales. 2F",
+    "publisher": "Schoell",
+    "type": "chapter",
+    "issued": "1809",
+    "publisher-place": "Paris",
+    "URL": "https://doi.org/10.5962/bhl.title.460",
+    "DOI": "10.5962/bhl.title.460"
+  },
+  {
+    "author": [
+      {
+        "family": "Camus",
+        "given": "A."
+      }
+    ],
+    "title": "Quelques Espèces Nouvelles de Chênes",
+    "volume": "2, 4",
+    "type": "article-journal",
+    "container-title": "Bulletin du Muséum National d’Histoire Naturelle, Série",
+    "issued": "1932",
+    "page": "124"
+  },
+  {
+    "author": [
+      {
+        "family": "Camus",
+        "given": "A."
+      }
+    ],
+    "title": "Les Chênes. Monographie du genre Quercus Atlas",
+    "publisher": "Paul Lechevalier",
+    "volume": "2",
+    "type": "book",
+    "issued": "1935",
+    "page": "91",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Camus",
+        "given": "A."
+      }
+    ],
+    "title": "Les Chênes. Monographie du genre Quercus Texte",
+    "publisher": "Paul Lechevalier",
+    "volume": "2",
+    "type": "book",
+    "issued": "1939",
+    "page": "597",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "16",
+    "issue": "2",
+    "type": null,
+    "issued": "1864",
+    "page": "691"
+  },
+  {
+    "author": [
+      {
+        "family": "Emory",
+        "given": "W.H."
+      }
+    ],
+    "title": "Report on the United States and Mexican boundary survey: made under the direction of the secretary of the Interior",
+    "publisher": "Nicolson Printer",
+    "type": "book",
+    "issued": "1859",
+    "publisher-place": "Washington, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Engelmann",
+        "given": "G."
+      }
+    ],
+    "title": "Oaks of the United States. Transactions of the Academy of Science of St",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Louis",
+    "issued": "1876",
+    "page": "384"
+  },
+  {
+    "author": [
+      {
+        "family": "Espejo-Serna",
+        "given": "A."
+      },
+      {
+        "family": "López-Ferrari",
+        "given": "A.R."
+      },
+      {
+        "family": "Prada",
+        "given": "M.del C."
+      },
+      {
+        "family": "Mendoza",
+        "given": "A."
+      },
+      {
+        "family": "C.",
+        "given": "Blanco F.",
+        "particle": "de"
+      },
+      {
+        "given": "P."
+      }
+    ],
+    "title": "Caminando las tierras de Nueva España Flora y Vegetación mexicanas",
+    "editor": [
+      {
+        "family": "Galera",
+        "given": "E."
+      }
+    ],
+    "container-title": "El arca de Née, Plantas recolectadas por el botánico Luis Née durante la expedición Malaspina. Consejo superior de investigaciones científicas",
+    "type": "chapter",
+    "issued": "2016",
+    "publisher-place": "Real Jardín Botánico, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonzalez Villareal",
+        "given": "L.M."
+      }
+    ],
+    "title": "Contribución al conocimiento del género Quercus (Fagaceae) en el estado de Jalisco",
+    "publisher": "Instituto de Botánica, Universidad de Guadalajara",
+    "type": "book",
+    "issued": "1987"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Andrews",
+        "given": "S."
+      },
+      {
+        "family": "Coombes",
+        "given": "A."
+      },
+      {
+        "family": "Gilbert",
+        "given": "M."
+      },
+      {
+        "family": "Hunt",
+        "given": "D."
+      },
+      {
+        "family": "Nixon",
+        "given": "K."
+      },
+      {
+        "family": "Thomas",
+        "given": "M."
+      }
+    ],
+    "title": "World Checklist of Fagaceae",
+    "note": "Kew. Published on Internet:",
+    "type": "article-journal",
+    "container-title": "The Royal Botanic Gardens",
+    "issued": "2019",
+    "URL": "http://wcsp.science.kew.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Frodin",
+        "given": "D.G."
+      }
+    ],
+    "title": "World Checklist and Bibliography of Fagales (Betulaceae, Corylaceae, Fagaceae, and Ticodendraceae",
+    "volume": "Kew",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens",
+    "issued": "1998",
+    "page": "456"
+  },
+  {
+    "author": [
+      {
+        "family": "page",
+        "given": "J.S.T.O.R.",
+        "particle": "electronic"
+      }
+    ],
+    "note": "accessed April–August, 2019).",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://plants.jstor.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Liebmann",
+        "given": "F.M."
+      }
+    ],
+    "title": "Om Egeslaegten I America",
+    "editor": [
+      {
+        "family": "Johan",
+        "given": "M.D."
+      }
+    ],
+    "container-title": "Oversigt over det Kongelige Danske Videnskabernes Selskabs Forhandlinger og dets Midlemmers Arbeider. Copenhagen",
+    "type": "chapter",
+    "issued": "1854",
+    "page": "159–189"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von"
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": "article-journal",
+    "container-title": "Impensis Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null,
+    "URL": "https://doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Martens",
+        "given": "M."
+      },
+      {
+        "family": "Galeotti",
+        "given": "E."
+      }
+    ],
+    "title": "Enumeratio synoptica plantarum phanerogamicum ab Henrico Galeotii in regionibus Mexicanis collectarum",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Bulletin de l ́Academie Royale des Sciences et Belles-lettres de Bruxelles",
+    "issue": "1",
+    "issued": "1843",
+    "page": "212–217"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Flora Novo-Galiciana, a descriptive account of the vascular plants of western Mexico",
+    "volume": "1",
+    "container-title": "Fagaceae",
+    "publisher": "The University of Michigan Press. Ann Arbor, Michigan",
+    "type": "chapter",
+    "issued": "1974",
+    "page": "93"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Flora van Nederlandsch Indië",
+    "volume": "1",
+    "issue": "1",
+    "type": null,
+    "issued": "1858",
+    "page": "869"
+  },
+  {
+    "author": [
+      {
+        "family": "Muller",
+        "given": "C.H."
+      }
+    ],
+    "title": "New and Noteworthy trees in Texas and Mexico",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issue": "3",
+    "issued": "1936",
+    "page": "147–155",
+    "URL": "https://doi.org/10.2307/2481214",
+    "DOI": "10.2307/2481214"
+  },
+  {
+    "author": [
+      {
+        "family": "Muller",
+        "given": "C.H."
+      }
+    ],
+    "title": "Studies in Mexican and Central American Plants",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "The American Midland Naturalist",
+    "issue": "5",
+    "issued": "1937",
+    "page": "842–855",
+    "URL": "https://doi.org/10.2307/2420421",
+    "DOI": "10.2307/2420421"
+  },
+  {
+    "author": [
+      {
+        "family": "Muller",
+        "given": "C.H."
+      }
+    ],
+    "title": "The Central American species of Quercus. United States Department of Agriculture",
+    "volume": "D",
+    "type": "article-journal",
+    "container-title": "Miscellaneous Publication",
+    "issue": "477",
+    "issued": "1942",
+    "page": "216",
+    "publisher-place": "Washington",
+    "URL": "https://doi.org/10.5962/bhl.title.65496",
+    "DOI": "10.5962/bhl.title.65496"
+  },
+  {
+    "author": [
+      {
+        "family": "Muller",
+        "given": "C.H."
+      }
+    ],
+    "title": "Notes on the American Flora, Chiefly Mexican",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "The American Midland Naturalist",
+    "issue": "2",
+    "issued": "1942",
+    "page": "470–490",
+    "URL": "https://doi.org/10.2307/2421014",
+    "DOI": "10.2307/2421014"
+  },
+  {
+    "author": [
+      {
+        "family": "Muller",
+        "given": "C.H."
+      },
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "The oaks (Quercus) described by Née",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Contributions from the University of Michigan Herbarium",
+    "issue": "7",
+    "issued": "1972",
+    "page": "507–522"
+  },
+  {
+    "author": [
+      {
+        "family": "Née",
+        "given": "L."
+      }
+    ],
+    "title": "Descripciones de varias especies nuevas de encinos (Quercus de Linneo",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Annales de Ciencias Naturales",
+    "issued": "1801",
+    "page": "260–278"
+  },
+  {
+    "author": [
+      {
+        "family": "Nixon",
+        "given": "K.C."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      }
+    ],
+    "title": "Three previously undescribed species of Quercus (Fagaceae) from Mesoamerica and the designation of a lectotype for Q. acutifolia",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issue": "4",
+    "issued": "2017",
+    "page": "444–450",
+    "URL": "https://doi.org/10.3417/D-16-00014",
+    "DOI": "10.3417/D-16-00014"
+  },
+  {
+    "author": [
+      {
+        "given": "P.O.W.O."
+      }
+    ],
+    "title": "Plants of the World Online. Facilitated by the Royal Botanic Gardens",
+    "note": "Kew. Published on the Internet;",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://www.plantsoftheworldonline.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Scheidweiler",
+        "given": "M.J.F."
+      }
+    ],
+    "title": "Explication des Planches Noires: Quercus affinis",
+    "volume": "4: 321",
+    "type": "article-journal",
+    "container-title": "L’ horticulteur belge, journal des jardiniers et amateurs",
+    "issued": "1837",
+    "page": "17"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechtendal",
+        "given": "D.F.L."
+      },
+      {
+        "family": "Chamisso",
+        "given": "L.K.A."
+      }
+    ],
+    "title": "Plantarum Mexicanarum",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1830",
+    "page": "77–79",
+    "URL": "http://biodiversitylibrary.org/page/96086"
+  },
+  {
+    "author": [
+      {
+        "family": "Seemann",
+        "given": "B.C."
+      }
+    ],
+    "title": "The botany of the voyage of H.M.S. Herald: under the command of Captain Henry Kellett",
+    "note": "during the years 1845-51. John E. Taylor printer, London.",
+    "type": null,
+    "issued": "1856",
+    "publisher-place": "R.H., C.B",
+    "URL": "https://doi.org/10.5962/bhl.title.425",
+    "DOI": "10.5962/bhl.title.425"
+  },
+  {
+    "author": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      },
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Flora of Guatemala. Fieldana: Botany 24 (3",
+    "type": "article-journal",
+    "container-title": "Chicago Natural History Museum",
+    "issued": "1952",
+    "URL": "https://biodiversitylibrary.org/page/2371987"
+  },
+  {
+    "author": [
+      {
+        "family": "List",
+        "given": "The Plant"
+      }
+    ],
+    "note": "accessed May-August, 2019).",
+    "type": null,
+    "issued": "2019",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Trelease",
+        "given": "W."
+      }
+    ],
+    "title": "1. Quercus L",
+    "editor": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      }
+    ],
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Contributions from the United States National Herbarium",
+    "issue": "2",
+    "issued": "1922"
+  },
+  {
+    "author": [
+      {
+        "family": "Trelease",
+        "given": "W."
+      }
+    ],
+    "title": "The American Oaks",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Memoirs of the National Academy of Sciences",
+    "issued": "1924",
+    "page": "1–255",
+    "URL": "https://doi.org/10.5962/bhl.title.142965",
+    "DOI": "10.5962/bhl.title.142965"
+  },
+  {
+    "author": [
+      {
+        "family": "Trelease",
+        "given": "W."
+      }
+    ],
+    "title": "Fagaceae, Quercus L",
+    "editor": [
+      {
+        "family": "Yuncker",
+        "given": "T.G."
+      },
+      {
+        "family": "Dahlgren",
+        "given": "B.E."
+      }
+    ],
+    "publisher": "Field Museum of Natural History",
+    "type": "book",
+    "issued": "1938",
+    "page": "356–359",
+    "publisher-place": "Chicago"
+  },
+  {
+    "author": [
+      {
+        "family": "Trelease",
+        "given": "W."
+      }
+    ],
+    "title": "Fagaceae, Quercus L",
+    "editor": [
+      {
+        "family": "Yuncker",
+        "given": "T.G."
+      }
+    ],
+    "volume": "9",
+    "publisher": "Field Museum of Natural History",
+    "type": "article-journal",
+    "container-title": "Honduras",
+    "issue": "4",
+    "issued": "1940",
+    "page": "281–282",
+    "publisher-place": "Chicago"
+  },
+  {
+    "author": [
+      {
+        "given": "Tropicos"
+      }
+    ],
+    "title": "Available from",
+    "note": "accessed May–August 2019",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://www.tropicos.org",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J.M."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "Adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "publisher": "Koeltz Botanical Bookds",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2018",
+    "publisher-place": "China",
+    "URL": "http://www.iapt-taxon.org/nomen/main.php?page=glo"
+  },
+  {
+    "author": [
+      {
+        "family": "Valencia-A.",
+        "given": "S."
+      }
+    ],
+    "title": "Diversidad del género Quercus (Fagaceae) en México",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Botánica de México",
+    "issued": "2004",
+    "page": "33–53",
+    "URL": "https://doi.org/10.17129/botsci.1692",
+    "DOI": "10.17129/botsci.1692"
+  },
+  {
+    "author": [
+      {
+        "family": "Valencia-A.",
+        "given": "S."
+      },
+      {
+        "family": "Coombes",
+        "given": "A."
+      },
+      {
+        "family": "Villaseñor",
+        "given": "J.L."
+      }
+    ],
+    "title": "Quercus candicans (Fagaceae) is not a Quercus but a Roldana (Asteraceae",
+    "volume": "333",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2018",
+    "page": "251–258",
+    "URL": "https://doi.org/10.11646/phytotaxa.333.2.9",
+    "DOI": "10.11646/phytotaxa.333.2.9"
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Valencia"
+      },
+      {
+        "given": "S."
+      },
+      {
+        "family": "Flores-Franco",
+        "given": "G."
+      }
+    ],
+    "title": "Catálogo de autoridad taxonómica del género Quercus, Fagaceae en México. Facultad de Ciencias, Universidad Nacional Autónoma de México",
+    "note": "Base de Datos SNIB-CONABIO proyecto No. CS008 México D. F.",
+    "type": null,
+    "issued": "2006"
+  },
+  {
+    "author": [
+      {
+        "family": "Valencia-A.",
+        "given": "S."
+      },
+      {
+        "family": "Flores-Franco",
+        "given": "G."
+      },
+      {
+        "family": "Jiménez-Ramírez",
+        "given": "J."
+      }
+    ],
+    "title": "A nomenclatural revision of Quercus acutifolia",
+    "editor": [
+      {
+        "family": "conspersa",
+        "given": "Q."
+      },
+      {
+        "family": "grahamii",
+        "given": "Q."
+      }
+    ],
+    "volume": "218",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "289–294",
+    "URL": "https://doi.org/10.11646/phytotaxa.218.3.7",
+    "DOI": "10.11646/phytotaxa.218.3.7"
+  },
+  {
+    "author": [
+      {
+        "family": "Valencia-A.",
+        "given": "S."
+      },
+      {
+        "family": "Flores-Franco",
+        "given": "G."
+      },
+      {
+        "family": "Jiménez-Ramírez",
+        "given": "J."
+      },
+      {
+        "family": "Mora-Jarvio",
+        "given": "M."
+      }
+    ],
+    "title": "Distribution and diversity of Fagaceae in Hidalgo, Mexico",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Botanical Sciences",
+    "issue": "4",
+    "issued": "2017",
+    "page": "660–721",
+    "URL": "https://doi.org/10.17129/botsci.1020",
+    "DOI": "10.17129/botsci.1020"
+  },
+  {
+    "author": [
+      {
+        "family": "Vazquez",
+        "given": "L."
+      },
+      {
+        "family": "Nixon",
+        "given": "K."
+      }
+    ],
+    "title": "Taxonomy of Quercus crassifolia (Fagaceae) and morphologically similar species in Mexico",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "2",
+    "issued": "2013",
+    "page": "208–227",
+    "URL": "https://doi.org/10.1007/s12228-012-9270-0",
+    "DOI": "10.1007/s12228-012-9270-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Warburg",
+        "given": "E.F."
+      },
+      {
+        "family": "XL",
+        "given": "Plantae Hintonianae X."
+      }
+    ],
+    "title": "Contributions to the Flora of Tropical America",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Royal Gardens",
+    "issued": "1939",
+    "page": "84–95",
+    "URL": "https://doi.org/10.2307/4111687",
+    "DOI": "10.2307/4111687"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L.von"
+      }
+    ],
+    "title": "Caroli a Linné Species Plantarum: exhibentes plantas rite cognitas, ad genera relates, cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas",
+    "note": "Editio Quarta, post Reichardianam Quinta. Berolini: Impensis G.C. Nuak.",
+    "type": null,
+    "issued": "1805",
+    "URL": "https://doi.org/10.5962/bhl.title.727",
+    "DOI": "10.5962/bhl.title.727"
+  }
+]

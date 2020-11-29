@@ -1,0 +1,197 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chodat",
+        "given": "R."
+      },
+      {
+        "family": "Hassler",
+        "given": "E."
+      }
+    ],
+    "title": "Plantae Hasslerianae soit enumeration des plantes recoltées au Paraguay par le Dr. Emile Hassler d’Aarau (Suisse), de 1885 à 1902 (suite",
+    "volume": "ser. 2 5",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Herbier Boissier",
+    "issued": "1905",
+    "page": "671–699"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The gardeners dictionary",
+    "edition": "4th abridged",
+    "publisher": "John and James Rivington",
+    "type": "book",
+    "issued": "1754",
+    "page": "2",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller Argoviensis",
+        "given": "J."
+      }
+    ],
+    "title": "Euphorbiaceae (excl. Euphorbieae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "publisher": "Treuttel et Würtz",
+    "type": "book",
+    "issued": "1866",
+    "page": "189–1286",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller Argoviensis",
+        "given": "J."
+      }
+    ],
+    "title": "Euphorbiaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.",
+        "particle": "von"
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora Brasiliensis 11",
+    "publisher": "F. Fleischer, Leipzig",
+    "type": "chapter",
+    "issued": "1874",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F."
+      }
+    ],
+    "title": "Euphorbiaceae—Adrianeae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "volume": "II",
+    "publisher": "W. Engelmann, Leipzig",
+    "issue": "Heft 44",
+    "type": "article-journal",
+    "issued": "1910",
+    "page": "111"
+  },
+  {
+    "author": [
+      {
+        "family": "Pohl",
+        "given": "J.B.E."
+      }
+    ],
+    "title": "Plantarum Brasilie icones et descriptiones 1",
+    "publisher": "Antonii Strauss",
+    "type": "book",
+    "issued": "1827",
+    "page": "1–135",
+    "publisher-place": "Vienna"
+  },
+  {
+    "author": [
+      {
+        "family": "Rogers",
+        "given": "D.J."
+      },
+      {
+        "family": "Appan",
+        "given": "S.G."
+      }
+    ],
+    "title": "Manihot and Manihotoides (Euphorbiaceae). A computer-assisted study",
+    "editor": [
+      {
+        "family": "Flora Neotropica",
+        "given": "Organization",
+        "particle": "for"
+      }
+    ],
+    "container-title": "Flora Neotropica Monograph 13",
+    "publisher": "Hafner Press",
+    "type": "chapter",
+    "issued": "1973",
+    "page": "272",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Silva",
+        "given": "M.J."
+      },
+      {
+        "family": "Sodré",
+        "given": "R.C."
+      },
+      {
+        "family": "Almeida",
+        "given": "L.C.S."
+      }
+    ],
+    "title": "A new endemic species of Manihot (Euphorbiaceae s. str.) from the Chapada dos Veadeiros, Goiás, Brazil",
+    "volume": "131",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "53–57",
+    "URL": "https://doi.org/10.11646/phytotaxa.131.1.10",
+    "DOI": "10.11646/phytotaxa.131.1.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Steudel",
+        "given": "E.T."
+      }
+    ],
+    "title": "Nomenclator Botanicus ed. 2, 1",
+    "type": "article-journal",
+    "container-title": "J. G. Cottae, Stuttgart and Tübingen",
+    "issued": "1840",
+    "page": "1–852"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

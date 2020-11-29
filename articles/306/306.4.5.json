@@ -1,0 +1,406 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Cameron",
+        "given": "K.M."
+      },
+      {
+        "family": "Freudenstein",
+        "given": "J.V."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Salazar",
+        "given": "G."
+      },
+      {
+        "family": "Berg",
+        "given": "C.",
+        "particle": "van den"
+      },
+      {
+        "family": "Schuiteman",
+        "given": "A."
+      }
+    ],
+    "title": "An updated classification of Orchidaceae",
+    "volume": "177",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2015",
+    "page": "151–174",
+    "URL": "https://doi.org/10.1111/boj.12234",
+    "DOI": "10.1111/boj.12234"
+  },
+  {
+    "author": [
+      {
+        "family": "Freudenstein",
+        "given": "J.V."
+      },
+      {
+        "family": "Yukawa",
+        "given": "T."
+      },
+      {
+        "family": "Luo",
+        "given": "Y.B."
+      }
+    ],
+    "title": "A reanalysis of relationships among Calypsoinae (Orchidaceae: Epidendroideae): floral and vegetative evolution and the placement of Yoania",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2017",
+    "page": "17–25",
+    "URL": "https://doi.org/10.1600/036364417X694944",
+    "DOI": "10.1600/036364417X694944"
+  },
+  {
+    "author": [
+      {
+        "family": "Gagnebin",
+        "given": "A."
+      }
+    ],
+    "title": "Observations faites sur le système des autheurs de botanique et sur l’Orphris minima C",
+    "volume": "2",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "B. Acta Helvetica, Physico-Mathematico-Anatomico-Botanico-Medica",
+    "issued": "1755",
+    "page": "56–74",
+    "URL": "http://ia902703.us.archive.org/17/items/actahelveticaphy01helv/actahelveticaphy01helv.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "M.H."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Lan",
+        "given": "S.R."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      },
+      {
+        "family": "Consortium",
+        "given": "China Phylogeny"
+      }
+    ],
+    "title": "A molecular phylogeny of Chinese orchids",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2016",
+    "page": "349–362",
+    "URL": "https://doi.org/10.1111/jse.12187",
+    "DOI": "10.1111/jse.12187"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Contributions to the orchidology of India",
+    "volume": "3",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "II. Journal of the Proceedings of the Linnean Society",
+    "issue": "suppl.",
+    "issued": "1859",
+    "page": "1–68",
+    "URL": "http://www.biodiversitylibrary.org/page/166714"
+  },
+  {
+    "author": [
+      {
+        "family": "Maximowicz",
+        "given": "C.J."
+      }
+    ],
+    "title": "Diagnoses des nouvelles plantes du Japan et de la Mandjourie. XII décade. Bulletin de l’Academie Imperiale des Sciences de St.-Petersbourg",
+    "collection-title": "Nouvelle Serie",
+    "volume": "18",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1873",
+    "page": "35–72",
+    "URL": "http://www.biodiversitylibrary.org/page/3931974#page/80/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Salisbury",
+        "given": "R.A."
+      }
+    ],
+    "title": "Calypso",
+    "editor": [
+      {
+        "family": "Salisbury",
+        "given": "R.A."
+      },
+      {
+        "family": "Hooker",
+        "given": "W."
+      }
+    ],
+    "publisher": "William Hooker",
+    "note": "plate 89. Available from:",
+    "type": null,
+    "issued": "1807",
+    "publisher-place": "London",
+    "URL": "http://www.biodiversitylibrary.org/item/113616#page/1/mode/1up"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      },
+      {
+        "family": "Hoover",
+        "given": "P."
+      },
+      {
+        "family": "Rougemont",
+        "given": "J."
+      }
+    ],
+    "title": "A rapid bootstrap algorithm for the RAxML Web-Servers",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2008",
+    "page": "758–771",
+    "URL": "https://doi.org/10.1080/10635150802429642",
+    "DOI": "10.1080/10635150802429642"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhai",
+        "given": "J.W."
+      },
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      },
+      {
+        "family": "Xiao",
+        "given": "X.J."
+      },
+      {
+        "family": "Liu",
+        "given": "K.W."
+      },
+      {
+        "family": "Tsai",
+        "given": "W.C."
+      },
+      {
+        "family": "Hsiao",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Tian",
+        "given": "H.Z."
+      },
+      {
+        "family": "Zhu",
+        "given": "J.Q."
+      },
+      {
+        "family": "Wang",
+        "given": "M.N."
+      },
+      {
+        "family": "Wang",
+        "given": "F.G."
+      },
+      {
+        "family": "Xing",
+        "given": "F.W."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      }
+    ],
+    "title": "A new orchid genus, Danxiaorchis, and phylogenetic analysis of the tribe Calypsoeae",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "PloS One",
+    "issued": "2013",
+    "page": "60371",
+    "URL": "https://doi.org/10.1371/journal.pone.0060371",
+    "DOI": "10.1371/journal.pone.0060371"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "G.Q."
+      },
+      {
+        "family": "Li",
+        "given": "M.H."
+      },
+      {
+        "family": "Su",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Chen",
+        "given": "L.J."
+      },
+      {
+        "family": "Lan",
+        "given": "S.R."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.J."
+      }
+    ],
+    "title": "A new myco-heterotrophic genus, Yunorchis, and the molecular phylogenetic relationships of the tribe Calypsoeae (Epidendroideae, Orchidaceae) inferred from plastid and nuclear DNA sequences",
+    "genre": "PloS One10: e0123382.",
+    "type": null,
+    "issued": "2015",
+    "URL": "https://doi.org/10.1371/journal.pone.0123382",
+    "DOI": "10.1371/journal.pone.0123382"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "X."
+      },
+      {
+        "family": "Cheng",
+        "given": "Z."
+      },
+      {
+        "family": "Liu",
+        "given": "Q."
+      },
+      {
+        "family": "Zhang",
+        "given": "J."
+      },
+      {
+        "family": "Hu",
+        "given": "A."
+      },
+      {
+        "family": "Huang",
+        "given": "M."
+      },
+      {
+        "family": "Hu",
+        "given": "C."
+      },
+      {
+        "family": "Tian",
+        "given": "H."
+      }
+    ],
+    "title": "An updated checklist of Orchidaceae for China, with two new national records",
+    "volume": "276",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "1–148",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.276.1",
+    "DOI": "10.11646/phytotaxa.276.1"
+  }
+]

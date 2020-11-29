@@ -1,0 +1,171 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Bijdragen tot de flora van Nederlandsch Indië (14",
+    "publisher": "Lands Drukkerij",
+    "type": "book",
+    "issued": "1826",
+    "page": "731–850",
+    "publisher-place": "Batavia"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "de A."
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "9",
+    "publisher": "Masson et sociorum",
+    "type": "book",
+    "issued": "1845",
+    "page": "573",
+    "publisher-place": "Fortin"
+  },
+  {
+    "author": [
+      {
+        "family": "Chamisso",
+        "given": "A.de"
+      }
+    ],
+    "title": "De plantis in Expeditione Romanzoffiana et in herbariis regiis observatis disserere pergitur",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Bignoniaceae. Linnaea",
+    "issue": "6",
+    "issued": "1833",
+    "page": "689–723"
+  },
+  {
+    "author": [
+      {
+        "family": "Miers",
+        "given": "J."
+      }
+    ],
+    "title": "Observations on the Bignoniaceae",
+    "volume": "ser. 3 7",
+    "type": "article-journal",
+    "container-title": "Annals and Magazine of Natural History",
+    "issued": "1861",
+    "page": "386–396"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Hortus bengalensis",
+    "publisher": "Mission Press, Serampore",
+    "type": "book",
+    "issued": "1814",
+    "page": "104"
+  },
+  {
+    "author": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "title": "Flora indica",
+    "volume": "3",
+    "editor": [
+      {
+        "family": "Thacker",
+        "given": "W."
+      },
+      {
+        "family": "Co.",
+        "given": "Calcutta"
+      }
+    ],
+    "type": null,
+    "issued": "1832",
+    "page": "875"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature",
+    "publisher": "P-Sak. Bohn, Holtema and Scheltema",
+    "type": "book",
+    "issued": "1983",
+    "page": null,
+    "publisher-place": "Volume iv"
+  },
+  {
+    "author": [
+      {
+        "family": "Stafleu",
+        "given": "F.A."
+      },
+      {
+        "family": "Cowan",
+        "given": "R.S."
+      }
+    ],
+    "title": "Taxonomic literature",
+    "publisher": "Sal-Ste. Bohn, Holtema and Scheltema",
+    "type": "book",
+    "issued": "1985",
+    "page": null,
+    "publisher-place": "Volume v"
+  },
+  {
+    "author": [
+      {
+        "family": "Udulutsch",
+        "given": "R."
+      },
+      {
+        "family": "Assis",
+        "given": "M.A."
+      },
+      {
+        "family": "Dias",
+        "given": "P."
+      }
+    ],
+    "title": "Taxonomic update of Adenocalymma (Bignoniaceae): emendations, new synonyms, typifications, and status change",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Turkish Journal of Botany",
+    "issued": "2013",
+    "page": "630–643",
+    "URL": "http://dx.doi.org/10.3906/bot-1207-55",
+    "DOI": "10.3906/bot-1207-55"
+  },
+  {
+    "author": [
+      {
+        "family": "Steenis",
+        "given": "C.G.G.J.",
+        "particle": "van"
+      }
+    ],
+    "title": "Miscellaneous botanical notes. XVIII",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Blumea",
+    "issued": "1967",
+    "page": "145–155"
+  }
+]

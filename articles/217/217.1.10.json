@@ -1,0 +1,360 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brummitt",
+        "given": "R.K."
+      },
+      {
+        "family": "Powell",
+        "given": "C.E."
+      }
+    ],
+    "title": "Authors of Plant Names",
+    "publisher": "Royal Botanic Gardens",
+    "type": "book",
+    "issued": "1992",
+    "publisher-place": "Kew"
+  },
+  {
+    "author": [
+      {
+        "family": "Boulos",
+        "given": "L."
+      }
+    ],
+    "title": "Flora of Egypt Checklist, Revised Annotated Edition",
+    "publisher": "Al-Hadara Publishing",
+    "type": "book",
+    "issued": "2009",
+    "page": "410",
+    "publisher-place": "Cairo, Egypt"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      },
+      {
+        "family": "Mill",
+        "given": "R.R."
+      },
+      {
+        "family": "Tan",
+        "given": "K."
+      }
+    ],
+    "title": "Flora of Turkey and the East Aegean Islands 10",
+    "publisher": "Edinburgh Univ Press",
+    "type": "book",
+    "issued": "1988",
+    "page": "191 193",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Feinbrun-Dothan",
+        "given": "N."
+      }
+    ],
+    "title": "Verbascum L",
+    "editor": [
+      {
+        "family": "Zohary",
+        "given": "M."
+      },
+      {
+        "family": "Feinbrun-Dothan",
+        "given": "N."
+      }
+    ],
+    "publisher": "Academic Press",
+    "type": "book",
+    "issued": "1978",
+    "page": "282 302",
+    "publisher-place": "Jerusalem"
+  },
+  {
+    "author": [
+      {
+        "family": "Feinbrun-Dothan",
+        "given": "N."
+      }
+    ],
+    "title": "Verbascum L",
+    "editor": [
+      {
+        "family": "Zohary",
+        "given": "M."
+      },
+      {
+        "family": "Feinbrun-Dothan",
+        "given": "N."
+      }
+    ],
+    "publisher": "Academic Press",
+    "type": "book",
+    "issued": "1978",
+    "page": "170 182",
+    "publisher-place": "Jerusalem"
+  },
+  {
+    "author": [
+      {
+        "family": "Freyn",
+        "given": "J.F."
+      },
+      {
+        "family": "Sintenis",
+        "given": "P.E.E."
+      }
+    ],
+    "title": "Verbascum tossiense Freyn & Sint",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Österreichische Botanische Zeitschrift",
+    "issued": "1894",
+    "page": "263"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber-Morath",
+        "given": "A."
+      }
+    ],
+    "title": "Verbascum L",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Edinburgh Univ Press",
+    "type": "book",
+    "issued": "1978",
+    "page": "461 603",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber-Morath",
+        "given": "A."
+      }
+    ],
+    "title": "Verbascum L",
+    "editor": [
+      {
+        "family": "Rechinger",
+        "given": "K.H."
+      }
+    ],
+    "container-title": "Flora Iranica 147. Graz, Akademische Drucku-Verlagsanstalt",
+    "type": "chapter",
+    "issued": "1981",
+    "page": "1 51"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber-Morath",
+        "given": "A."
+      }
+    ],
+    "title": "Die Türkishchen Verbasceen",
+    "publisher": "Kommissionsverlag von Gebrüder Fretz AG, Zürih",
+    "type": "book",
+    "issued": "1971"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "The IUCN red list of threatened species",
+    "volume": "10",
+    "note": "IUCN Red List Unit, Cambridge U.K. Available from:",
+    "type": null,
+    "issued": "2013",
+    "page": "1",
+    "URL": "http://www.iucnredlist.org/about/publications-links"
+  },
+  {
+    "author": [
+      {
+        "family": "Karavelioğulları",
+        "given": "F.A."
+      }
+    ],
+    "title": "Verbascum L",
+    "editor": [
+      {
+        "family": "Güner",
+        "given": "A."
+      },
+      {
+        "family": "Aslan",
+        "given": "S."
+      },
+      {
+        "family": "Ekim",
+        "given": "T."
+      },
+      {
+        "family": "Vural",
+        "given": "M."
+      },
+      {
+        "family": "Babaç",
+        "given": "M.T."
+      }
+    ],
+    "container-title": "Türkiye Bitkileri Listesi (Damarlı Bitkiler). Nezahat Gökyiğit Botanik Bahçesi ve Flora Araştırmaları Derneği Yayını, Istanbul",
+    "type": "chapter",
+    "issued": "2012",
+    "page": "850 870"
+  },
+  {
+    "author": [
+      {
+        "family": "Karavelioğulları",
+        "given": "F.A."
+      },
+      {
+        "family": "Yüce",
+        "given": "E."
+      },
+      {
+        "family": "Başer",
+        "given": "B."
+      }
+    ],
+    "title": "Verbascum duzgunbabadagensis (Scrophulariaceae), a new species from eastern Anatolia, Turkey",
+    "volume": "181",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "47–53",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.181.1.3",
+    "DOI": "10.11646/phytotaxa.181.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Karavelioğulları",
+        "given": "F.A."
+      },
+      {
+        "family": "Vural",
+        "given": "M."
+      },
+      {
+        "family": "Şahin",
+        "given": "B."
+      },
+      {
+        "family": "Aslan",
+        "given": "S."
+      }
+    ],
+    "title": "Iç Anadolu Bölgesi’nden (Türkiye) yeni bir tür: Verbascum aydogdui (Scrophulariaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Karavelioğulları Bilim Dergisi",
+    "issue": "3",
+    "issued": "2014",
+    "page": "63–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "type": null,
+    "issued": "1753",
+    "page": "177",
+    "publisher-place": "Switzerland, Geneva"
+  },
+  {
+    "author": [
+      {
+        "family": "Mabberley",
+        "given": "D.J."
+      }
+    ],
+    "title": "Mabberley’s plant-book",
+    "edition": "3th",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2008",
+    "page": "1021",
+    "publisher-place": "Cambridge, XVIII"
+  },
+  {
+    "author": [
+      {
+        "family": "Meikle",
+        "given": "R.D."
+      }
+    ],
+    "title": "Verbascum L",
+    "editor": [
+      {
+        "family": "Meikle",
+        "given": "R.D."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens, Kew",
+    "issued": "1985",
+    "page": "1196 1200"
+  },
+  {
+    "author": [
+      {
+        "family": "Murbeck",
+        "given": "S."
+      }
+    ],
+    "title": "Monographie Der Gattung Verbascum 29",
+    "publisher": "Acta Universitatis Lundensis",
+    "type": "book",
+    "issued": "1933",
+    "page": "630"
+  },
+  {
+    "author": [
+      {
+        "family": "Murbeck",
+        "given": "S."
+      }
+    ],
+    "title": "Monographie Der Gattung Celsia 22",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Acta Universitatis Lundensis",
+    "issued": "1925",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated 602 staff",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

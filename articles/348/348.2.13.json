@@ -1,0 +1,112 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bello",
+        "given": "D."
+      }
+    ],
+    "title": "Apuntes para la flora de Puerto Rico: Myrtaceae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Anales de la Sociedad Española de Historia Natural",
+    "issued": "1881",
+    "page": "270–272"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Species Plantarum",
+    "issued": "1753",
+    "page": "1–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Bünger",
+        "given": "M.O."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Sections in Eugenia (Myrteae, Myrtaceae): nomenclatural notes and a key",
+    "volume": "289",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2016",
+    "page": "225–236",
+    "URL": "https://doi.org/10.11646/phytotaxa.289.3.2",
+    "DOI": "10.11646/phytotaxa.289.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Santiago-Valentín",
+        "given": "E."
+      },
+      {
+        "family": "Sánchez-Pinto",
+        "given": "L."
+      },
+      {
+        "family": "Francisco-Ortega",
+        "given": "J."
+      }
+    ],
+    "title": "Domingo Bello y Espinosa (1817–1884) and the new taxa published in his Apuntes para la flora de Puerto-Rico",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "2",
+    "issued": "2015",
+    "page": "323–349",
+    "URL": "https://doi.org/10.12705/642.9",
+    "DOI": "10.12705/642.9"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum",
+    "type": null,
+    "issued": "1788",
+    "page": "158"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Species plantarum",
+    "issued": "1799",
+    "page": "823–1640"
+  }
+]

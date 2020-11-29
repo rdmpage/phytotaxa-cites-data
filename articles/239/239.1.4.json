@@ -1,0 +1,999 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alejandre Saenz",
+        "given": "J.A."
+      },
+      {
+        "family": "Garcia Lopez",
+        "given": "J.M."
+      },
+      {
+        "given": "Sanz"
+      }
+    ],
+    "title": "G.M",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Monografias Botanica Iberica",
+    "issued": "2009",
+    "page": "925"
+  },
+  {
+    "author": [
+      {
+        "family": "Alejandre Saenz",
+        "given": "J.A."
+      }
+    ],
+    "title": "Adiciones y revisiones al Atlas de la Flora Vascular Silvestre de Burgos IV",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Flora Montiberica",
+    "issued": "2011",
+    "page": "36–56"
+  },
+  {
+    "author": [
+      {
+        "family": "Amich García",
+        "given": "F."
+      },
+      {
+        "family": "Hernandez",
+        "given": "E.R."
+      },
+      {
+        "family": "Sanchez Sanchez",
+        "given": "J."
+      }
+    ],
+    "title": "Sobre “Delphinium sordidum Cuatrec” y otras aportaciones a la flora del occidente del Sistema Central Espanol",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issued": "1981",
+    "page": "153–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Arrigoni",
+        "given": "P.V."
+      }
+    ],
+    "title": "Note tassonomiche e corologiche sulla flora sarda",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Parlatorea",
+    "issued": "2006",
+    "page": "53–62"
+  },
+  {
+    "author": [
+      {
+        "family": "Bañares Baudet",
+        "given": "A."
+      },
+      {
+        "family": "Blanca",
+        "given": "G."
+      },
+      {
+        "family": "Gomes Heras",
+        "given": "J."
+      },
+      {
+        "family": "Moreno Saiz",
+        "given": "J.C."
+      },
+      {
+        "family": "Ortiz",
+        "given": "S."
+      }
+    ],
+    "title": "Lista roja 2008 de la flora vascular espanola/ Red list of spanish vascular flora",
+    "volume": "Madrid",
+    "type": "article-journal",
+    "container-title": "TRAGSATEC",
+    "issued": "2008",
+    "page": "86"
+  },
+  {
+    "author": [
+      {
+        "family": "Berchtold",
+        "given": "F.von"
+      }
+    ],
+    "title": "Oekonomisch-Technische Flora Böhmens nach einem ausgedehnteren Plane bearbeitet",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "J. H. Pospischil",
+    "issued": "1836",
+    "page": "508"
+  },
+  {
+    "author": [
+      {
+        "family": "Boreau",
+        "given": "A."
+      }
+    ],
+    "title": "Flore du Centre de la France et du bassin de la Loire. Deuxieme édition très augmentée, tome premier",
+    "genre": "Libr. enc. de Roret,",
+    "publisher": "Paris",
+    "type": null,
+    "issued": "1849",
+    "page": "643"
+  },
+  {
+    "author": [
+      {
+        "family": "Borisova",
+        "given": "A.G."
+      }
+    ],
+    "title": "Crassulaceae DC",
+    "editor": [
+      {
+        "family": "Komarov",
+        "given": "V.L."
+      },
+      {
+        "family": "Yuzepchuk",
+        "given": "S.V."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Bot. Inst. Acad. Sc. USSR, Izdatel’stvo Akademii Nauk SSSR",
+    "issued": "1939",
+    "page": "– , 8–105 357–372"
+  },
+  {
+    "author": [
+      {
+        "family": "Bouchard",
+        "given": "J."
+      }
+    ],
+    "title": "Plantes nouvelles ou peu signalées pour le département du Var",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1956",
+    "page": "619–624",
+    "URL": "http://dx.doi.org/10.1080/00378941.1956.10837829",
+    "DOI": "10.1080/00378941.1956.10837829"
+  },
+  {
+    "author": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      },
+      {
+        "family": "Velayos",
+        "given": "M."
+      }
+    ],
+    "title": "Notas y comentarios sobre el genero Sedum L. (Crassulaceae) y su tratamiento para Flora Iberica",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Anales Jardin Botanico de Madrid",
+    "issued": "1995",
+    "page": "271–279"
+  },
+  {
+    "author": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      },
+      {
+        "family": "Velayos",
+        "given": "M."
+      }
+    ],
+    "title": "Sedum",
+    "editor": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      },
+      {
+        "family": "Aedo",
+        "given": "C."
+      },
+      {
+        "family": "Laínz",
+        "given": "M."
+      },
+      {
+        "family": "Morales",
+        "given": "R."
+      },
+      {
+        "family": "Muñoz Garmendia",
+        "given": "F."
+      },
+      {
+        "family": "Nieto Feliner",
+        "given": "G."
+      },
+      {
+        "family": "Paiva",
+        "given": "J."
+      }
+    ],
+    "container-title": "Flora Iberica. Plantas vasculares de la Penìnsula Ibérica e Islas Baleares",
+    "type": "chapter",
+    "issued": "1997",
+    "page": "– 5",
+    "publisher-place": "Real Jardin Botanico, C.S.I.C., Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Ciaschetti",
+        "given": "G."
+      },
+      {
+        "family": "Pirone",
+        "given": "G."
+      },
+      {
+        "family": "Frattaroli",
+        "given": "A.R."
+      },
+      {
+        "family": "Corbetta",
+        "given": "F."
+      }
+    ],
+    "title": "La vegetazione del Piano di Pezza (Parco Naturale “Sirente-Velino”- Italia Centrale",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Fitosociologia",
+    "issued": "2013",
+    "page": "67–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Clausen",
+        "given": "R.T."
+      }
+    ],
+    "title": "Sedum of North America north of the Mexican Plateau",
+    "publisher": "Comstok Book, Cornell Univ. Press, Ithaca",
+    "type": "book",
+    "issued": "1975",
+    "page": "742"
+  },
+  {
+    "author": [
+      {
+        "family": "Cosson",
+        "given": "E."
+      }
+    ],
+    "title": "Notes sur quelques plantes nouvelles, critiques ou rares du midi de l’Espagne",
+    "volume": "3",
+    "publisher": "Victor Masson",
+    "issue": "4",
+    "type": "book",
+    "issued": "1852",
+    "page": "43",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Fennane",
+        "given": "M."
+      },
+      {
+        "family": "Tattou",
+        "given": "M.I."
+      }
+    ],
+    "title": "Flore vasculaire du Maroc",
+    "volume": "1",
+    "collection-title": "Travaux Institut Scientifique, ser. botanique",
+    "type": "article-journal",
+    "container-title": "Inventaire et chorologie",
+    "issued": "2005",
+    "page": "483"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernandes",
+        "given": "R.B."
+      }
+    ],
+    "title": "Sur l’identification de Sedum villosum Auct. Iber. Pro max. parte et de S. villosum var. campanulatum Willk",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Boletim da Sociedade Broteriana",
+    "issued": "1984",
+    "page": "129–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Fournier",
+        "given": "P.V."
+      }
+    ],
+    "title": "Les quatres flores de la France",
+    "publisher": "Paul Lechevalier",
+    "type": "book",
+    "issued": "1936",
+    "page": "449–576",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Fröderstrom",
+        "given": "H."
+      }
+    ],
+    "title": "The genus Sedum L., a systematic essay. Part 3. Acta Horti Gothoburgensis",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Meddelanden fran Göteborgs Botaniska Trädgard",
+    "issue": "suppl.",
+    "issued": "1932",
+    "page": "3–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Gallo",
+        "given": "L."
+      }
+    ],
+    "title": "Le Crassulaceae della Valle d’Aosta. Distribuzione, morfologia ed ecologia. Monografie del Museo Regionale di Scienze Naturali S",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Pierre",
+    "issued": "2001",
+    "page": "1–264"
+  },
+  {
+    "author": [
+      {
+        "family": "Gomez Mercado",
+        "given": "F."
+      }
+    ],
+    "title": "Vegetacion y flora de la Sierra de Cazorla",
+    "publisher": "Univ. Pais Vasco, Leioa",
+    "type": "book",
+    "issued": "2011",
+    "page": "481"
+  },
+  {
+    "author": [
+      {
+        "family": "Guinochet",
+        "given": "M."
+      },
+      {
+        "family": "Vilmorin",
+        "given": "R.",
+        "particle": "de"
+      }
+    ],
+    "title": "Flore de France",
+    "volume": "5",
+    "container-title": "Éditions du Centre National de la Recherche Scientifique",
+    "type": "chapter",
+    "issued": "1984",
+    "page": null,
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamet",
+        "given": "R."
+      }
+    ],
+    "title": "Sur une plante nouvelle pour la flore de France",
+    "volume": "99",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1952",
+    "page": "5–7",
+    "URL": "http://dx.doi.org/10.1080/00378941.1952.10837651",
+    "DOI": "10.1080/00378941.1952.10837651"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamet",
+        "given": "R."
+      }
+    ],
+    "title": "Persistence d’un minuscule fragment excentrique de l’aire de répartition géographique de deux Crassulacées",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de France",
+    "issued": "1957",
+    "page": "291–293",
+    "URL": "http://dx.doi.org/10.1080/00378941.1957.10835113",
+    "DOI": "10.1080/00378941.1957.10835113"
+  },
+  {
+    "author": [
+      {
+        "family": "Hart",
+        "given": "H.’t"
+      }
+    ],
+    "title": "Evolution and classification of the European Sedum species (Crassulaceae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Flora Mediterranea",
+    "issued": "1991",
+    "page": "31–61"
+  },
+  {
+    "author": [
+      {
+        "family": "Hart",
+        "given": "H.’t"
+      }
+    ],
+    "title": "The archetype of the Crassulaceae",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Neerlandica",
+    "issued": "1992",
+    "page": "107–108"
+  },
+  {
+    "author": [
+      {
+        "family": "Hart",
+        "given": "H.‘t"
+      },
+      {
+        "family": "Bleij",
+        "given": "B."
+      }
+    ],
+    "title": "Sedum",
+    "editor": [
+      {
+        "family": "Eggli",
+        "given": "U."
+      }
+    ],
+    "container-title": "Illustrated Handbook of Succulent Plants, Crassulaceae",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "235–332",
+    "publisher-place": "Heidelberg"
+  },
+  {
+    "author": [
+      {
+        "family": "Hart",
+        "given": "H.‘t"
+      },
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Typification of Linnaeus’s names for European species of Sedum subgen",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Sedum (Crassulaceae). Taxon",
+    "issued": "1993",
+    "page": "399–410",
+    "URL": "http://dx.doi.org/10.2307/1223149",
+    "DOI": "10.2307/1223149"
+  },
+  {
+    "author": [
+      {
+        "family": "Jahandiez",
+        "given": "E."
+      },
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Catalogue des Plantes du Maroc (Spermatophyta et Pteridophyta) 2. Dicotylédones Archichlamydées",
+    "volume": "Alger",
+    "type": "article-journal",
+    "container-title": "Impr. Minerva",
+    "issued": "1932",
+    "page": "557"
+  },
+  {
+    "editor": [
+      {
+        "family": "Jalas",
+        "given": "J."
+      },
+      {
+        "family": "Suominen",
+        "given": "J."
+      },
+      {
+        "family": "Lampinen",
+        "given": "R."
+      },
+      {
+        "family": "Kurtto",
+        "given": "A."
+      }
+    ],
+    "title": "Atlas Florae Europaeae",
+    "volume": "12",
+    "container-title": "Resedaceae to Platanaceae. Committee for Mapping the Flora of Europe & Societas Biologica Fennica Vanamo",
+    "type": "article-journal",
+    "issued": "1999",
+    "page": "250",
+    "publisher-place": "Helsinki"
+  },
+  {
+    "author": [
+      {
+        "family": "Jovet",
+        "given": "P."
+      },
+      {
+        "family": "Vilmorin",
+        "given": "R.",
+        "particle": "de"
+      }
+    ],
+    "title": "Flore descriptive et illustrée de la France par l’abbé H",
+    "translator": [
+      {
+        "family": "supplément",
+        "given": "Coste Second"
+      }
+    ],
+    "note": "Des Rosacées (N° 1083) aux Dispacacées (N° 1774). Librairie scientifique et technique,",
+    "type": null,
+    "issued": "1987",
+    "page": "174",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Laínz",
+        "given": "M."
+      }
+    ],
+    "title": "Mucizonia campanulata (Willk.) R.Fernandes o M. lagascae (Pau) Laínz",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Anales Jardín Botánico de Madrid",
+    "issued": "1985",
+    "page": "248–249"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamarck",
+        "given": "J.B.de"
+      },
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Flore Francaise",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "3, t. V, vol. 6",
+    "publisher": "Chez Desray",
+    "type": "book",
+    "issued": "1815",
+    "page": "662",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "vols",
+    "note": "Impensis Laurentii Salvii, Holmiæ [Stockholm], 1200",
+    "type": null,
+    "issued": "1753",
+    "page": "1–2"
+  },
+  {
+    "author": [
+      {
+        "family": "Maire",
+        "given": "R."
+      }
+    ],
+    "title": "Flore de l’Afrique du Nord",
+    "volume": "14",
+    "publisher": "Paul Lechevalier, Paris",
+    "type": "book",
+    "issued": "1976",
+    "page": "397"
+  },
+  {
+    "author": [
+      {
+        "family": "Marhold",
+        "given": "K."
+      }
+    ],
+    "title": "Crassulaceae. Euro+Med Plantbase - the information resource for Euro-Mediterranean plant diversity",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2006",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/PTaxonDetail.asp?NameCache=Crassulaceae&PTRefFk=7200000"
+  },
+  {
+    "author": [
+      {
+        "family": "Minutillo",
+        "given": "F."
+      },
+      {
+        "family": "Tondi",
+        "given": "G."
+      },
+      {
+        "family": "Conti",
+        "given": "F."
+      }
+    ],
+    "title": "Sedum nevadense (Crassulaceae), new for the Italian flora",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Flora Mediterranea",
+    "issued": "2009",
+    "page": "115–117"
+  },
+  {
+    "editor": [
+      {
+        "family": "Moncorps",
+        "given": "S."
+      },
+      {
+        "family": "Siblet",
+        "given": "J.-P."
+      }
+    ],
+    "title": "La Liste rouge des espèces menacées en France - Chapitre Flore vasculaire de France métropolitaine: premiers résultats pour 1000 espèces, sous-espèces et variétés",
+    "type": "article-journal",
+    "container-title": "Dossier de presse électronique",
+    "issued": "2012",
+    "page": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "Moris",
+        "given": "G.G."
+      }
+    ],
+    "title": "Stirpium Sardoarum Elenchus 1",
+    "note": "Ex Typis Regiis, Carali [Cagliari], 98",
+    "type": null,
+    "issued": "1827",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Olivier",
+        "given": "L."
+      },
+      {
+        "family": "Galland",
+        "given": "J.P."
+      },
+      {
+        "family": "Maurin",
+        "given": "H."
+      }
+    ],
+    "title": "Livre rouge de la flore menacée de France, 1: espèces prioritaires",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Muséum National d ́Histoire Naturelle, IEGB",
+    "issue": "",
+    "issued": "1995",
+    "page": "486"
+  },
+  {
+    "author": [
+      {
+        "family": "Pau",
+        "given": "C."
+      }
+    ],
+    "title": "Notas Botánicas a la Flora Española 6",
+    "volume": "Segorbe",
+    "type": "article-journal",
+    "container-title": "Imprenta de Romani y Suai",
+    "issued": "1895",
+    "page": "115"
+  },
+  {
+    "author": [
+      {
+        "family": "Pignatti",
+        "given": "S."
+      }
+    ],
+    "volume": "1",
+    "publisher": "Edagricole",
+    "type": "article-journal",
+    "container-title": "Flora d’Italia",
+    "issued": "1982",
+    "page": "790",
+    "publisher-place": "Bologna"
+  },
+  {
+    "author": [
+      {
+        "family": "Quézel",
+        "given": "P."
+      },
+      {
+        "family": "Santa",
+        "given": "S."
+      }
+    ],
+    "title": "Nouvelle flore de l’Algerie et des regions désertiques méridionales",
+    "volume": "1",
+    "publisher": "CNRS, Paris",
+    "type": "book",
+    "issued": "1962",
+    "page": "565"
+  },
+  {
+    "author": [
+      {
+        "family": "Rossi",
+        "given": "G."
+      },
+      {
+        "family": "Montagnani",
+        "given": "C."
+      },
+      {
+        "family": "Gargano",
+        "given": "D."
+      },
+      {
+        "family": "Peruzzi",
+        "given": "L."
+      },
+      {
+        "family": "Abeli",
+        "given": "T."
+      },
+      {
+        "family": "Ravera",
+        "given": "S."
+      },
+      {
+        "family": "Cogoni",
+        "given": "A."
+      },
+      {
+        "family": "Fenu",
+        "given": "G."
+      },
+      {
+        "family": "Magrini",
+        "given": "S."
+      },
+      {
+        "family": "Gennai",
+        "given": "M."
+      },
+      {
+        "family": "Foggi",
+        "given": "B."
+      },
+      {
+        "family": "Wagensommer",
+        "given": "R.P."
+      },
+      {
+        "family": "Venturella",
+        "given": "G."
+      },
+      {
+        "family": "Blasi",
+        "given": "C."
+      },
+      {
+        "family": "Raimondo",
+        "given": "F.M."
+      },
+      {
+        "family": "Orsenigo",
+        "given": "S."
+      }
+    ],
+    "title": "Lista Rossa della Flora Italiana. 1. Policy Species e altre specie minacciate",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Comitato Italiano IUCN e Ministero dell’Ambiente e della Tutela del Territorio e del Mare. Stamperia Romana, Roma",
+    "issued": "2013",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sennen",
+        "given": "F."
+      },
+      {
+        "family": "Mauricio",
+        "given": "F."
+      }
+    ],
+    "title": "Catálogo de la Flora del Rif oriental",
+    "volume": "Melilla",
+    "type": "article-journal",
+    "container-title": "Gráficas La Ibérica",
+    "issued": "1933",
+    "page": "159"
+  },
+  {
+    "author": [
+      {
+        "family": "Tenore",
+        "given": "M."
+      }
+    ],
+    "title": "Ad Florae neapolitanae prodromum appendix quinta",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Apud R. Marotta et Vanspandoch, Neapoli",
+    "issued": "1825",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum, a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2015",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Tison",
+        "given": "J.-M."
+      },
+      {
+        "family": "Foucault",
+        "given": "B.de"
+      }
+    ],
+    "title": "Flora Gallica. Flore de France",
+    "type": "article-journal",
+    "container-title": "Biotope Editions, Mèze",
+    "issued": "2014",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tison",
+        "given": "J.-M."
+      },
+      {
+        "family": "Jauzein",
+        "given": "P."
+      },
+      {
+        "family": "Michaud",
+        "given": "H."
+      }
+    ],
+    "title": "Flore de la France méditerranéenne continentale",
+    "type": "article-journal",
+    "container-title": "Naturalia publications, Turriers",
+    "issued": "2014",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vargas",
+        "given": "P."
+      },
+      {
+        "family": "Garcia",
+        "given": "B."
+      }
+    ],
+    "title": "Plant endemics to Sierra de Gredos (central Spain): taxonomic, distributional, and evolutionary aspects",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Anales Jardín Botánico de Madrid",
+    "issued": "2008",
+    "page": "353–366",
+    "URL": "http://dx.doi.org/10.3989/ajbm.2008.v65.i2.298",
+    "DOI": "10.3989/ajbm.2008.v65.i2.298"
+  },
+  {
+    "author": [
+      {
+        "family": "Webb",
+        "given": "D.A."
+      },
+      {
+        "family": "Akeroyd",
+        "given": "J.R."
+      },
+      {
+        "family": "Hart",
+        "given": "H.‘t"
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Sedum L."
+      },
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      },
+      {
+        "literal": "ed."
+      }
+    ],
+    "container-title": "Flora Europaea",
+    "volume": "2, vol. 1",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "10",
+    "publisher-place": "Tutin, T.G., Burges, N.A., Chater, A.O., Edmondson, J.R., Heywood, V.H., Moore, D.M., Valentine, D.H"
+  }
+]

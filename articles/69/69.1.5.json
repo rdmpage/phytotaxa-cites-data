@@ -1,0 +1,390 @@
+[
+  {
+    "author": [
+      {
+        "family": "Austin",
+        "given": "D.F."
+      },
+      {
+        "family": "Cavalcante",
+        "given": "P.B."
+      }
+    ],
+    "title": "Convolvuláceas de Amazônia",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Belém, Museu Emilio Goeldi, Publicaçoes Avulsas",
+    "issue": "36",
+    "issued": "1982",
+    "page": "134"
+  },
+  {
+    "author": [
+      {
+        "family": "Bianchini",
+        "given": "R.S."
+      },
+      {
+        "family": "Ferreira",
+        "given": "P.P.A."
+      }
+    ],
+    "title": "Convolvulaceae",
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/).",
+    "type": "chapter",
+    "issued": "2012"
+  },
+  {
+    "author": [
+      {
+        "family": "Buril",
+        "given": "M.T."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "A new species of Jacquemontia (Convolvulaceae) from northeastern Brazil",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "4",
+    "issued": "2011",
+    "page": "436–441"
+  },
+  {
+    "author": [
+      {
+        "family": "Buril",
+        "given": "M.T."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Flora da Usina São José, Igarassu, Pernambuco: Convolvulaceae",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issue": "1",
+    "issued": "2011",
+    "page": "93–105"
+  },
+  {
+    "author": [
+      {
+        "family": "Buril",
+        "given": "M.T."
+      },
+      {
+        "family": "Simão-Bianchini",
+        "given": "R."
+      },
+      {
+        "family": "Alves",
+        "given": "M."
+      }
+    ],
+    "title": "Jacquemontia robertsoniana (Convolvulaceae), a new shrub species from Brazil",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issue": "3",
+    "issued": "2012",
+    "page": "1–5"
+  },
+  {
+    "author": [
+      {
+        "family": "Choisy",
+        "given": "J.D."
+      }
+    ],
+    "title": "Convolvulaceae orientales",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Mémoires de la Société de Physique et d’Histoire Naturelle de Genève",
+    "issued": "1834",
+    "page": "385–502"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallier",
+        "given": "H.J.G."
+      }
+    ],
+    "title": "Versuch einer naturlichen Gliederung der Convolvulaceen",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1893",
+    "page": "479–591"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "container-title": "IUCN Species Survival Commission. – IUCN",
+    "type": "chapter",
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland and Cambridge, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Krapovickas",
+        "given": "A."
+      }
+    ],
+    "title": "Novedades en Convolvuláceas argentinas",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Bonplandia",
+    "issue": "1",
+    "issued": "2009",
+    "page": "57–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Meisner",
+        "given": "C.F."
+      }
+    ],
+    "title": "Convolvulaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.P.F."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      }
+    ],
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issued": "1869",
+    "page": "199–370"
+  },
+  {
+    "author": [
+      {
+        "family": "O'Donell",
+        "given": "C.A."
+      }
+    ],
+    "title": "Convolvuláceas americanas nuevas o críticas II",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Lilloa",
+    "issued": "1950",
+    "page": "457–508"
+  },
+  {
+    "author": [
+      {
+        "family": "O'Donell",
+        "given": "C.A."
+      }
+    ],
+    "title": "Convolvuláceas americanas nuevas o críticas IV",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Lilloa",
+    "issued": "1953",
+    "page": "353–400"
+  },
+  {
+    "author": [
+      {
+        "family": "Ooststroom",
+        "given": "S.J.",
+        "particle": "van"
+      }
+    ],
+    "title": "A monograph of the genus Evolvulus",
+    "container-title": "Mededeelingen van het Botanisch Museum en Herbarium van de Rijks Universiteit te Utrecht",
+    "volume": "14",
+    "type": "chapter",
+    "issued": "1934",
+    "page": "1–267"
+  },
+  {
+    "author": [
+      {
+        "family": "Ooststroom",
+        "given": "S.J.",
+        "particle": "van"
+      }
+    ],
+    "title": "Beiträge zur kenntnis der Südamerikanischen Convolvulaceen",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Recueil des Travaux Botaniques Néerlandais",
+    "issued": "1936",
+    "page": "211–221"
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "K.R."
+      }
+    ],
+    "title": "A revision of the genus Jacquemontia (Convolvulaceae) in North and Central America and the West Indies",
+    "genre": "– PhD dissertation,",
+    "publisher": "Washington University, St. Louis",
+    "type": "thesis",
+    "issued": "1971"
+  },
+  {
+    "author": [
+      {
+        "family": "Simão-Bianchini",
+        "given": "R."
+      }
+    ],
+    "title": "Convolvulaceae",
+    "editor": [
+      {
+        "family": "Stannard",
+        "given": "B.L."
+      }
+    ],
+    "container-title": "Flora of Pico das Almas",
+    "publisher": "Kew, Royal Botanic Garden",
+    "type": "chapter",
+    "issued": "1995",
+    "publisher-place": "Chapada Diamantina, Bahia"
+  },
+  {
+    "author": [
+      {
+        "family": "Simão-Bianchini",
+        "given": "R."
+      }
+    ],
+    "title": "Jacquemontia revoluta (Convolvulaceae), a new species from Minas Gerais, Brazil",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "1999",
+    "page": "104–106"
+  },
+  {
+    "author": [
+      {
+        "family": "Simão-Bianchini",
+        "given": "R."
+      }
+    ],
+    "title": "Flora de Grão-Mogol, Minas Gerais: Convolvulaceae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Boletim de Botânica da Universidade de São Paulo",
+    "issued": "2009",
+    "page": "33–41"
+  },
+  {
+    "author": [
+      {
+        "family": "Simão-Bianchini",
+        "given": "R."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Flora da Serra do Cipó, Minas Gerais: Convolvulaceae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Boletim de Botânica da Universidade de São Paulo",
+    "issued": "1997",
+    "page": "125–149"
+  },
+  {
+    "author": [
+      {
+        "family": "Simão-Bianchini",
+        "given": "R."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Duas novas espécies de Convolvulaceae de Minas Gerais, Brasil",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Hoehnea",
+    "issue": "2",
+    "issued": "2005",
+    "page": "295–300"
+  },
+  {
+    "author": [
+      {
+        "family": "Staples",
+        "given": "G.W."
+      },
+      {
+        "family": "Brummitt",
+        "given": "R.K."
+      }
+    ],
+    "title": "Convolvulaceae",
+    "editor": [
+      {
+        "family": "Heywood",
+        "given": "V.H."
+      },
+      {
+        "family": "Brummitt",
+        "given": "R.K."
+      },
+      {
+        "family": "Culham",
+        "given": "A."
+      },
+      {
+        "family": "Seberg",
+        "given": "O."
+      }
+    ],
+    "container-title": "Flowering plant families of the world",
+    "note": "Royal Botanic Gardens, Kew, United Kingdom.",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "108–110"
+  },
+  {
+    "author": [
+      {
+        "family": "Staples",
+        "given": "G.W."
+      },
+      {
+        "family": "Carine",
+        "given": "M."
+      },
+      {
+        "family": "Austin",
+        "given": "D.F."
+      }
+    ],
+    "title": "Convolvulaceae Pollen Atlas",
+    "type": null,
+    "issued": "2008",
+    "URL": "http://cals.arizona.edu/herbarium/sites/cals.arizona.edu.herbarium/files/old_site/assoc/projects/convolv/Convolvulaceae_Pollen_Atlas.htm"
+  }
+]

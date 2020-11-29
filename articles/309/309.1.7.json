@@ -1,0 +1,416 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aedo",
+        "given": "C."
+      },
+      {
+        "family": "Morales",
+        "given": "R."
+      }
+    ],
+    "title": "Sternbergia Waldst. & Kit",
+    "editor": [
+      {
+        "family": "Rico",
+        "given": "E."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      },
+      {
+        "family": "Quintanar",
+        "given": "A."
+      },
+      {
+        "family": "Herrero",
+        "given": "A."
+      },
+      {
+        "family": "Aedo",
+        "given": "C."
+      }
+    ],
+    "container-title": "Flora iberica 20. Real jardín Botánico de",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "325–328",
+    "publisher-place": "Madrid, CSIC, Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauhin",
+        "given": "C."
+      }
+    ],
+    "title": "Pinax theatri botanici",
+    "publisher": "Ludovici Regis, Basileae",
+    "type": "book",
+    "issued": "1623",
+    "page": "522"
+  },
+  {
+    "author": [
+      {
+        "family": "Clusius",
+        "given": "C."
+      }
+    ],
+    "title": "Rariorum plantarum Historia, et Appendix ad Historiam plantarum",
+    "volume": "Antwerpen",
+    "type": "article-journal",
+    "container-title": "Christophoro Plantini",
+    "issued": "1601",
+    "page": "364"
+  },
+  {
+    "author": [
+      {
+        "family": "Conti",
+        "given": "F."
+      },
+      {
+        "family": "Abbate",
+        "given": "G."
+      },
+      {
+        "family": "Alessandrini",
+        "given": "A."
+      },
+      {
+        "given": "Blasi"
+      }
+    ],
+    "editor": [
+      {
+        "given": "C."
+      }
+    ],
+    "title": "An annotated checklist of the Italian vascular flora",
+    "volume": "Roma",
+    "type": "article-journal",
+    "container-title": "Palombi Editori",
+    "issued": "2005",
+    "page": "420"
+  },
+  {
+    "author": [
+      {
+        "family": "Gage",
+        "given": "E."
+      },
+      {
+        "family": "Wilkin",
+        "given": "P."
+      },
+      {
+        "family": "Guss.",
+        "particle": "its allies S. sicula Tineo ex"
+      },
+      {
+        "family": "Kamari",
+        "given": "S.",
+        "particle": "greuteriana"
+      },
+      {
+        "given": "Artelari"
+      }
+    ],
+    "title": "A morphometric study of species delimitation in Sternbergia lutea (L.) Ker Gawl. ex Spreng",
+    "genre": "(Amaryllidaceae)",
+    "volume": "158",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2008",
+    "page": "460–469"
+  },
+  {
+    "author": [
+      {
+        "family": "Gussone",
+        "given": "G."
+      }
+    ],
+    "title": "Addenda et Emendanda",
+    "editor": [
+      {
+        "family": "Gussone",
+        "given": "G."
+      }
+    ],
+    "container-title": "Florae Siculae Synopsis 2",
+    "publisher": "Ex Typis Tramater",
+    "type": "chapter",
+    "issued": "1845",
+    "page": "2",
+    "publisher-place": "Naples"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C."
+      }
+    ],
+    "title": "Order out of chaos: Linnaean plant names and their types",
+    "container-title": "Linnean Society of London and the Natural History Museum",
+    "type": "chapter",
+    "issued": "2007",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Juel",
+        "given": "H.O."
+      }
+    ],
+    "title": "Studien in Burser’s Hortus siccus",
+    "volume": "series 4 5",
+    "type": "article-journal",
+    "container-title": "Nova Acta Regiae Societatis Scientiarum Upsaliensis",
+    "issued": "1923",
+    "page": "1–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Hortus Cliffortianus",
+    "publisher": "Salomon Schouten, Amsterdam",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1738",
+    "page": "501",
+    "URL": "http://bibdigital.rjb.csic.es/spa/Libro.php?Libro=1927&Hojas="
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm",
+    "URL": "https://doi.org/10.5962/bhl.title.669",
+    "DOI": "10.5962/bhl.title.669"
+  },
+  {
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B."
+      }
+    ],
+    "title": "A review of the genus Sternbergia",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "The Plantsman",
+    "issue": "1",
+    "issued": "1983"
+  },
+  {
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B."
+      }
+    ],
+    "title": "Sternbergia Waldst. & Kit",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Edinburgh University Press, Edinburgh",
+    "type": "book",
+    "issued": "1984",
+    "page": "361"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Burdet",
+        "given": "H.M."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Nicolson",
+        "given": "D.H."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Silva",
+        "given": "P.C."
+      },
+      {
+        "family": "Skog",
+        "given": "J.E."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "given": "Turland"
+      }
+    ],
+    "title": "N.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Botanical Nomenclature (Vienna Code): Adopted by the Seventeenth International Botanical Congress Vienna",
+    "note": "Regnum Vegetabile 146].",
+    "publisher": "A.R.G. Gantner Verlag, Ruggell",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "260",
+    "publisher-place": "Austria"
+  },
+  {
+    "author": [
+      {
+        "family": "Savage",
+        "given": "S."
+      }
+    ],
+    "title": "Studies in Linnaean synonymy. 1. Caspar Bauhin’s ‘Pinax’ and Burser’s herbarium",
+    "volume": "148",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Linnean Society of London",
+    "issued": "1935",
+    "page": "16–26",
+    "URL": "https://doi.org/10.1111/j.1095-8312.1935.tb00086i.x",
+    "DOI": "10.1111/j.1095-8312.1935.tb00086i.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "C."
+      }
+    ],
+    "title": "Caroli Linnaei Systema vegetabilium",
+    "volume": "2",
+    "publisher": "Sumtibus Libraiae Dieterichianae, Gottingen",
+    "type": "book",
+    "issued": "1825",
+    "page": "940"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearn",
+        "given": "W.T."
+      }
+    ],
+    "title": "An Introduction to the Species Plantarum and cognate botanical works of Carl Linnaeus",
+    "editor": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "container-title": "Species Plantarum, A facsimile of the first edition",
+    "volume": "1",
+    "publisher": "Ray Society",
+    "type": "chapter",
+    "issued": "1957",
+    "page": "176",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Royen",
+        "given": "A."
+      }
+    ],
+    "title": "Florae leydensis prodromus",
+    "volume": "Leiden",
+    "type": "article-journal",
+    "container-title": "Apud Samuelem Luchtmans",
+    "issued": "1740",
+    "page": "538",
+    "URL": "https://doi.org/10.5962/bhl.title.693",
+    "DOI": "10.5962/bhl.title.693"
+  },
+  {
+    "author": [
+      {
+        "family": "Waldstein",
+        "given": "F.A.von"
+      },
+      {
+        "family": "Kitaibel",
+        "given": "P."
+      }
+    ],
+    "title": "Descriptiones et Icones Plantarum Rariorum Hungariae 2",
+    "publisher": "Typis Matthiae Andreae Schmidt, Viennae",
+    "type": "book",
+    "issued": "1804",
+    "page": "221"
+  },
+  {
+    "author": [
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "title": "Sternbergia Waldst. & Kit",
+    "editor": [
+      {
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "container-title": "Flora Europaea 5",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "76",
+    "publisher-place": "Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H., Walters"
+  }
+]

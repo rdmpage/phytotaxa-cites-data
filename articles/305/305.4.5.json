@@ -1,0 +1,129 @@
+[
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "T."
+      }
+    ],
+    "title": "An enumeration of the species of the Indian Acanthaceae",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnaean Society Botany",
+    "issued": "1867",
+    "page": "425–526",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1867.tb01308.x",
+    "DOI": "10.1111/j.1095-8339.1867.tb01308.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhattacharya",
+        "given": "J."
+      },
+      {
+        "family": "Vollesen",
+        "given": "K."
+      }
+    ],
+    "title": "A new species of Justicia (Acanthaceae) from India",
+    "volume": "57",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2002",
+    "page": "231–233",
+    "URL": "https://doi.org/10.2307/4110838",
+    "DOI": "10.2307/4110838"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Rungia",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "publisher": "Reeve",
+    "type": "book",
+    "issued": "1885",
+    "page": "545–550",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "B."
+      }
+    ],
+    "title": "Notes on SE Asian Acanthaceae 1",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "1989",
+    "page": "209–215",
+    "URL": "https://doi.org/10.1111/j.1756-1051.1989.tb02117.x",
+    "DOI": "10.1111/j.1756-1051.1989.tb02117.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "C.C."
+      }
+    ],
+    "title": "Rungia",
+    "editor": [
+      {
+        "family": "Hu",
+        "given": "C.C."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2002",
+    "page": "255–266",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum 1",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Esenbeck",
+        "given": "C.G.D.",
+        "particle": "Nees von"
+      }
+    ],
+    "title": "Acanthaceae Indiae Orientalis",
+    "editor": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "container-title": "Plantae Asiaticae Rariores 3",
+    "publisher": "Treuttel, Würtz, Richter",
+    "type": "chapter",
+    "issued": "1832",
+    "page": "70–117",
+    "publisher-place": "London"
+  }
+]

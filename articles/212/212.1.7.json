@@ -1,0 +1,106 @@
+[
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A.R."
+      }
+    ],
+    "title": "Plantarum sinsnsium ecloge secunda",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique (Morot",
+    "issued": "1898",
+    "page": "221–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "S.Y."
+      },
+      {
+        "family": "Tamura",
+        "given": "M."
+      }
+    ],
+    "title": "Lilium L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "135–159",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "S.Y."
+      }
+    ],
+    "title": "Lilium L",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "F.Z."
+      },
+      {
+        "family": "Tang",
+        "given": "J."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae, Anagiospermae, Monocotyledoneae Liliaceae (I",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "116–157",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "S.Y."
+      }
+    ],
+    "title": "Lilium L",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "container-title": "Flora Xizangica, Vol.5",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "1987",
+    "page": "532–545",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Sealy",
+        "given": "J.R."
+      }
+    ],
+    "title": "Nomocharis and Lilium",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1950",
+    "page": "273–297",
+    "URL": "http://dx.doi.org/10.2307/4117245",
+    "DOI": "10.2307/4117245"
+  }
+]

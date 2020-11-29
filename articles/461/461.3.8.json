@@ -1,0 +1,328 @@
+[
+  {
+    "author": [
+      {
+        "family": "Becker",
+        "given": "R.A."
+      },
+      {
+        "family": "Wilks",
+        "given": "A.R."
+      },
+      {
+        "family": "Brownrigg",
+        "given": "R."
+      },
+      {
+        "family": "Minka",
+        "given": "T.P."
+      },
+      {
+        "family": "Deckmyn",
+        "given": "A."
+      }
+    ],
+    "title": "maps: Draw geographical maps",
+    "genre": "R package version 3.3.0.",
+    "note": "The Comprehensive R Archive Network (CRAN). Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "https://CRAN.R-project.org/package=maps"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issue": "1",
+    "issued": "1857",
+    "page": "1–468"
+  },
+  {
+    "title": "Flora do Brasil 2020 em construção",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10853"
+  },
+  {
+    "author": [
+      {
+        "given": "I.B.G.E."
+      }
+    ],
+    "title": "Bahia",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://www.sei.ba.gov.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Committee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN red list categories and criteria, ver. 14. The Standards and Petitions Committee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      }
+    ],
+    "title": "A revision of the Psidium salutare complex (Myrtaceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Sida",
+    "issued": "2003",
+    "page": "1449–1469"
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      }
+    ],
+    "title": "The Genus Psidium (Myrtaceae) in the State of Bahia, Brazil",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Canotia",
+    "issued": "2017",
+    "page": "1–101"
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      },
+      {
+        "family": "Funch",
+        "given": "L.S."
+      }
+    ],
+    "title": "Two New Species of Psidium (Myrtaceae) from Bahia",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Brazil. Novon: A Journal for Botanical Nomenclature",
+    "issued": "2008",
+    "page": "74–77",
+    "URL": "https://doi.org/10.3417/2006061",
+    "DOI": "10.3417/2006061"
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      }
+    ],
+    "title": "A new species of Psidium (Myrtaceae) from the Brazilian Northeast",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "4",
+    "issued": "2015",
+    "page": "324–327",
+    "URL": "https://doi.org/10.1007/s12228-015-9396-y",
+    "DOI": "10.1007/s12228-015-9396-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      },
+      {
+        "family": "Sharp",
+        "given": "W.P."
+      }
+    ],
+    "title": "Seed coat characters of some American Myrtinae (Myrtaceae): Psidium and related genera",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "1989",
+    "page": "370–376",
+    "URL": "https://doi.org/10.2307/2418927",
+    "DOI": "10.2307/2418927"
+  },
+  {
+    "author": [
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Psidium cauliflorum (Myrtaceae), a new species from Bahia, Brazil",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Sida",
+    "issued": "2006",
+    "page": "927–929"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "V. 2",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "R.Core"
+      }
+    ],
+    "title": "R: a language and environment for statistical computing. R Foundation for Statistical Computing, Vienna",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://www.R-project.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickison",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular plant systematics",
+    "publisher": "Harper & Row Publishers",
+    "type": "book",
+    "issued": "1974",
+    "page": "891",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2020",
+    "URL": "http://sweetgum.nybg."
+  },
+  {
+    "author": [
+      {
+        "family": "Tuler",
+        "given": "A.C."
+      },
+      {
+        "family": "Peixoto",
+        "given": "A.L."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      }
+    ],
+    "title": "A new endangered species of Psidium (Myrtaceae, Myrteae) from Bahia, Brazil",
+    "volume": "288",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "161–167",
+    "URL": "https://doi.org/10.11646/phytotaxa.288.2.6",
+    "DOI": "10.11646/phytotaxa.288.2.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Tuler",
+        "given": "A.C."
+      },
+      {
+        "family": "Costa",
+        "given": "C.M."
+      },
+      {
+        "family": "Carrijo",
+        "given": "T.T."
+      },
+      {
+        "family": "Peixoto",
+        "given": "A.L."
+      }
+    ],
+    "title": "Psidium pulcherrimum (Myrtaceae, Myrteae), a new species from Bahia, Brazil",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "2020",
+    "page": "57–61",
+    "URL": "https://doi.org/10.1007/s12228-019-09600-0",
+    "DOI": "10.1007/s12228-019-09600-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Veloso",
+        "given": "H.P."
+      },
+      {
+        "family": "Góes-Filho",
+        "given": "L."
+      }
+    ],
+    "title": "Fitogeografia Brasileira: Classificação Fisionômico-Ecológica da Vegetação Neotropical",
+    "container-title": "Boletim Técnico do Projeto RADAMBRASIL Série Vegetação",
+    "volume": "1",
+    "type": "chapter",
+    "issued": "1982",
+    "page": "1–80"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "author": [
+      {
+        "family": "Boonkerd",
+        "given": "T."
+      },
+      {
+        "family": "Pollawatn",
+        "given": "R."
+      }
+    ],
+    "title": "Pteridophytes in Thailand",
+    "volume": "Bangkok",
+    "type": "article-journal",
+    "container-title": "Office of Environmental Policy and Planning",
+    "issued": "2000",
+    "page": "312"
+  },
+  {
+    "author": [
+      {
+        "family": "Christ",
+        "given": "H."
+      }
+    ],
+    "title": "Filices Bodinierianae",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Académie Internationale de Géographie Botanique",
+    "issue": "153–154",
+    "issued": "1902",
+    "page": "189–274"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindsay",
+        "given": "S."
+      },
+      {
+        "family": "Middleton",
+        "given": "D.J."
+      }
+    ],
+    "title": "Ferns of Thailand, Laos and Cambodia",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://rbg-web2.rbge.org.uk/thaiferns/"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridley",
+        "given": "H.N."
+      }
+    ],
+    "title": "The Ferns of the Malay Peninsula",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal of the Malayan Branch of the Royal Asiatic Society",
+    "issued": "1926",
+    "page": "1–121"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "A.W."
+      }
+    ],
+    "title": "Tentamen Florae Germanicae",
+    "volume": "3",
+    "publisher": "Gleditsch, Leipzig",
+    "type": "book",
+    "issued": "1800",
+    "page": "578"
+  },
+  {
+    "author": [
+      {
+        "family": "Tagawa",
+        "given": "M."
+      },
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      }
+    ],
+    "title": "Polystichum",
+    "editor": [
+      {
+        "family": "Smitinand",
+        "given": "T."
+      },
+      {
+        "family": "Larsen",
+        "given": "K."
+      }
+    ],
+    "container-title": "Flora of Thailand",
+    "volume": "3",
+    "publisher": "The Chutima Press",
+    "type": "chapter",
+    "issued": "1988",
+    "page": "3",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      },
+      {
+        "family": "Barrington",
+        "given": "D.S."
+      }
+    ],
+    "title": "Polystichum",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "vols",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "2–3",
+    "publisher-place": "Beijing"
+  }
+]

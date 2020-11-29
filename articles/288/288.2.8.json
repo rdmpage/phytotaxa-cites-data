@@ -1,0 +1,118 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Areca Linn",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Rumphia",
+    "issued": "1839",
+    "page": "71–76"
+  },
+  {
+    "author": [
+      {
+        "family": "Heatubun",
+        "given": "C.D."
+      }
+    ],
+    "title": "A new species of Areca from Western New Guinea",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Palms",
+    "issued": "2008",
+    "page": "198–202"
+  },
+  {
+    "author": [
+      {
+        "family": "Heatubun",
+        "given": "C.D."
+      },
+      {
+        "family": "Dransfield",
+        "given": "J."
+      },
+      {
+        "family": "Flynn",
+        "given": "T."
+      },
+      {
+        "family": "Tjitroesoedirdjo",
+        "given": "S.S."
+      },
+      {
+        "family": "Mogea",
+        "given": "J.P."
+      },
+      {
+        "family": "Baker",
+        "given": "W.J."
+      }
+    ],
+    "title": "A monograph of the betel nut palms (Areca: Arecaceae) of East Malesia",
+    "volume": "168",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2012",
+    "page": "147–173",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.2011.01199.x",
+    "DOI": "10.1111/j.1095-8339.2011.01199.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Heatubun",
+        "given": "C.D."
+      },
+      {
+        "family": "Iwanggin",
+        "given": "M.P."
+      },
+      {
+        "family": "Simbiak",
+        "given": "V.I."
+      }
+    ],
+    "title": "A new species of betel nut palm (Areca: Arecaceae) from western New Guinea",
+    "volume": "154",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "59–64",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.154.1.4",
+    "DOI": "10.11646/phytotaxa.154.1.4"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN, Gland & Cambridge",
+    "type": "book",
+    "issued": "2012",
+    "page": "418"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "2",
+    "type": null,
+    "issued": "1753",
+    "page": "561–1200",
+    "publisher-place": "Laurentius Salvius, Stockholm"
+  }
+]

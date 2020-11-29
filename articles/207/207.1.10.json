@@ -1,0 +1,152 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barrie",
+        "given": "F."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Eugenia"
+      },
+      {
+        "family": "Davidse",
+        "given": "G."
+      },
+      {
+        "family": "Sousa",
+        "given": "M.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Chiang",
+        "given": "F."
+      }
+    ],
+    "container-title": "Flora Mesoamericana",
+    "volume": "4",
+    "publisher": "Universidad Nacional Autónoma de México",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "2009",
+    "page": "7",
+    "publisher-place": "México, D.F"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1856",
+    "page": "204"
+  },
+  {
+    "author": [
+      {
+        "family": "Legrand",
+        "given": "D."
+      },
+      {
+        "family": "Mattos",
+        "given": "J.R."
+      }
+    ],
+    "title": "Novidades taxonômicas em Myrtaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Loefgrenia",
+    "issued": "1975",
+    "page": "30–31"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Tropical American Myrtaceae, II, Notes on generic concepts and descriptions of previously unrecognized species",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Fieldiana Botany",
+    "issue": "8",
+    "issued": "1963",
+    "page": "457"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Proença",
+        "given": "C."
+      },
+      {
+        "family": "Souza",
+        "given": "M."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Forzza",
+        "given": "R.C."
+      }
+    ],
+    "container-title": "Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro. Available in",
+    "type": "chapter",
+    "issued": "2014",
+    "URL": "http://reflora.jbrj.gov.br/jabot/floradobrasil/FB10430"
+  },
+  {
+    "author": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      }
+    ],
+    "title": "Studies of American Plants – VII",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Field Museum of Natural History, Botanical Series",
+    "issue": "2",
+    "issued": "1937",
+    "page": "202"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2015",
+    "URL": "http://sweetgum.nybg.org/ih/."
+  }
+]

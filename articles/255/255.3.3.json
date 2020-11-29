@@ -1,0 +1,981 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bedolla-García",
+        "given": "B.Y."
+      },
+      {
+        "family": "Zamudio",
+        "given": "S."
+      }
+    ],
+    "title": "Four new species of Salvia (Lamiaceae) from central Mexico",
+    "volume": "217",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "35–52",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.217.1.3",
+    "DOI": "10.11646/phytotaxa.217.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Labiatarum genera et species, 1",
+    "publisher": "Ridgeway",
+    "type": "book",
+    "issued": "1832",
+    "page": "1 –60",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Briquet",
+        "given": "J."
+      }
+    ],
+    "title": "Fragmenta monographiæ Labiarum",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Herbier Boissier",
+    "issued": "1896",
+    "page": "847–878"
+  },
+  {
+    "author": [
+      {
+        "family": "Briquet",
+        "given": "J."
+      }
+    ],
+    "title": "Note sur un nouveau Sphacele des Antilles",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Herbier Boissier",
+    "issued": "1897",
+    "page": "1014–1015"
+  },
+  {
+    "author": [
+      {
+        "family": "Buck",
+        "given": "W.R."
+      }
+    ],
+    "title": "Biogeography of the Greater Antillean mosses",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Tropical Bryology",
+    "issued": "1990",
+    "page": "33–46",
+    "URL": "http://dx.doi.org/10.11646/bde.2.1.3",
+    "DOI": "10.11646/bde.2.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis, pars III. Sumptibus Sociorum Treuttel et Würtz",
+    "type": null,
+    "issued": "1828",
+    "page": "494",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Downie",
+        "given": "S.R."
+      },
+      {
+        "family": "Katz-Downie",
+        "given": "D.S."
+      }
+    ],
+    "title": "A molecular phylogeny of Apiaceae subfamily Apioideae: Evidence from nuclear ribosomal DNA internal transcribed spacer sequences",
+    "volume": "83",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1996",
+    "page": "234–251",
+    "URL": "http://dx.doi.org/10.2307/2445943",
+    "DOI": "10.2307/2445943"
+  },
+  {
+    "author": [
+      {
+        "family": "Echeverry",
+        "given": "A."
+      },
+      {
+        "family": "Morrone",
+        "given": "J.J."
+      }
+    ],
+    "title": "Generalized tracks, area cladograms and tectonics in the Caribbean",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2013",
+    "page": "1619–1637",
+    "URL": "http://dx.doi.org/10.1111/jbi.12117",
+    "DOI": "10.1111/jbi.12117"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Synopsis of the South American Labiatae",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1936",
+    "page": "1–341"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "A revision of Salvia subgenus Calosphace",
+    "volume": "110",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1939",
+    "page": "1–380"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1940",
+    "page": "509–534",
+    "URL": "http://dx.doi.org/10.2307/2480972",
+    "DOI": "10.2307/2480972"
+  },
+  {
+    "author": [
+      {
+        "family": "Epling",
+        "given": "C."
+      }
+    ],
+    "title": "Supplementary notes on American Labiatae, II",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Torrey Botanical Club",
+    "issued": "1941",
+    "page": "552–568",
+    "URL": "http://dx.doi.org/10.2307/2481456",
+    "DOI": "10.2307/2481456"
+  },
+  {
+    "author": [
+      {
+        "family": "Farris",
+        "given": "J.S."
+      }
+    ],
+    "title": "The retention index and homoplasy excess",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Systematic Zoology",
+    "issued": "1989",
+    "page": "406–407",
+    "URL": "http://dx.doi.org/10.2307/2992406",
+    "DOI": "10.2307/2992406"
+  },
+  {
+    "author": [
+      {
+        "family": "González-Gallegos",
+        "given": "J.G."
+      }
+    ],
+    "title": "Revision of Salvia subg",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Calosphace sect. Membranaceae (Lamiaceae). Telopea",
+    "issued": "2014",
+    "page": "43–81",
+    "URL": "http://dx.doi.org/10.7751/telopea20147483",
+    "DOI": "10.7751/telopea20147483"
+  },
+  {
+    "author": [
+      {
+        "family": "Harley",
+        "given": "R.M."
+      },
+      {
+        "family": "Atkins",
+        "given": "S."
+      },
+      {
+        "family": "Budantsev",
+        "given": "A.L."
+      },
+      {
+        "family": "Cantino",
+        "given": "P.D."
+      },
+      {
+        "family": "Conn",
+        "given": "B.J."
+      },
+      {
+        "family": "Grayer",
+        "given": "R."
+      },
+      {
+        "family": "Harley",
+        "given": "M.M."
+      },
+      {
+        "family": "Kok",
+        "given": "R.",
+        "particle": "de"
+      },
+      {
+        "family": "Krestovskaja",
+        "given": "T."
+      },
+      {
+        "family": "Morales",
+        "given": "R."
+      },
+      {
+        "family": "Paton",
+        "given": "A.J."
+      },
+      {
+        "family": "O.",
+        "given": "Ryding"
+      },
+      {
+        "family": "Upson",
+        "given": "T."
+      }
+    ],
+    "title": "Labiatae",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      }
+    ],
+    "container-title": "The families and genera of vascular plants. VII",
+    "note": "Flowering plants, Dicotyledons: Lamiales (except Acanthaceae including Avicenniaceae).",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "167–275",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Jenks",
+        "given": "A.A."
+      },
+      {
+        "family": "Walker",
+        "given": "J.B."
+      },
+      {
+        "family": "Kim",
+        "given": "S.-C."
+      }
+    ],
+    "title": "Evolution and origins of the Mazatec hallucinogenic sage, Salvia divinorum (Lamiaceae): a molecular phylogenetic approach",
+    "volume": "124",
+    "type": "article-journal",
+    "container-title": "Journal of Plant Research",
+    "issued": "2011",
+    "page": "593–600",
+    "URL": "http://dx.doi.org/10.1007/s10265-010-0394-6",
+    "DOI": "10.1007/s10265-010-0394-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Jenks",
+        "given": "A.A."
+      },
+      {
+        "family": "Walker",
+        "given": "J.B."
+      },
+      {
+        "family": "Kim",
+        "given": "S.-C."
+      }
+    ],
+    "title": "Phylogeny of New World Salvia subgenus Calosphace (Lamiaceae) based on cpDNA (psbA-trnH) and nrDNA (ITS) sequence data",
+    "volume": "126",
+    "type": "article-journal",
+    "container-title": "Journal of Plant Research",
+    "issued": "2013",
+    "page": "483–496",
+    "URL": "http://dx.doi.org/10.1007/s10265-012-0543-1",
+    "DOI": "10.1007/s10265-012-0543-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Jestrow",
+        "given": "B."
+      },
+      {
+        "family": "Valdés",
+        "given": "J.J."
+      },
+      {
+        "family": "Jiménez Rodríguez",
+        "given": "F."
+      },
+      {
+        "family": "Francisco-Ortega",
+        "given": "J."
+      }
+    ],
+    "title": "Phylogenetic placement of the Dominican Republic endemic genus Sarcopilea (Urticaceae",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2012",
+    "page": "592–600"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Melastomaceae",
+    "editor": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Genera Plantarum",
+    "issued": "1867",
+    "page": "725–773"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MrBayes: Bayesian inference of phylogenetic trees",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/17.8.754",
+    "DOI": "10.1093/bioinformatics/17.8.754"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Briefings in Bioinformatics",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "http://dx.doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "S.-C."
+      },
+      {
+        "family": "Crawford",
+        "given": "D.J."
+      },
+      {
+        "family": "Jansen",
+        "given": "R.K."
+      },
+      {
+        "family": "Santos-Guerra",
+        "given": "A."
+      }
+    ],
+    "title": "The use of a noncoding region of chloroplast DNA in phylogeny of the subtribe Sonchinae (Asteraceae",
+    "volume": "215",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "1999",
+    "page": "85–99",
+    "URL": "http://dx.doi.org/10.1007/BF00984649",
+    "DOI": "10.1007/BF00984649"
+  },
+  {
+    "author": [
+      {
+        "family": "Kluge",
+        "given": "A.G."
+      },
+      {
+        "family": "Farris",
+        "given": "J.S."
+      }
+    ],
+    "title": "Quantitative phyletics and the evolution of anurans",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Systematic Zoology",
+    "issued": "1969",
+    "page": "1–32",
+    "URL": "http://dx.doi.org/10.2307/2412407",
+    "DOI": "10.2307/2412407"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "C.E.O."
+      }
+    ],
+    "title": "Revisio Generum Plantarum: vascularium omnium atque cellularium multarum secundum leges nomeclaturae internationales cum enumeratione plantarum exoticarum in itinere mundi collectarum",
+    "volume": "3",
+    "publisher": "A. Felix, Leipzig",
+    "issue": "2",
+    "type": "book",
+    "issued": "1898",
+    "page": "576"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum. L",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Liogier",
+        "given": "A.H."
+      }
+    ],
+    "title": "Novitates antillanae",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "VI. Phytologia",
+    "issued": "1973",
+    "page": "265–280"
+  },
+  {
+    "author": [
+      {
+        "family": "Liogier",
+        "given": "A.H."
+      }
+    ],
+    "title": "La flora de la Españiola, VI",
+    "publisher": "Ediciones de la UCE, San Pedro de Macorís",
+    "type": "book",
+    "issued": "1994",
+    "page": "517"
+  },
+  {
+    "author": [
+      {
+        "literal": "Michelangeli, F.A., Judd, W.S., Penneys, D.S., Skean Jr., J.D., Bécquer-Granados, E.R., Goldenberg, R. & Martin, C.V."
+      }
+    ],
+    "title": "Multiple events of dispersal and radiation of the tribe Miconieae (Melastomataceae) in the Caribbean",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Botanical Review",
+    "issued": "2008",
+    "page": "53–77",
+    "URL": "http://dx.doi.org/10.1007/s12229-008-9004-x",
+    "DOI": "10.1007/s12229-008-9004-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Moonlight",
+        "given": "P.W."
+      },
+      {
+        "family": "Richardson",
+        "given": "J.E."
+      },
+      {
+        "family": "Tebbitt",
+        "given": "M.C."
+      },
+      {
+        "family": "Thomas",
+        "given": "D.C."
+      },
+      {
+        "family": "Hollands",
+        "given": "R."
+      },
+      {
+        "family": "Peng",
+        "given": "C.-I."
+      },
+      {
+        "family": "Hughes",
+        "given": "M."
+      }
+    ],
+    "title": "Continental-scale diversification patterns in a megadiverse genus: the biogeography of Neotropical Begonia",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2015",
+    "page": "1137–1149",
+    "URL": "http://dx.doi.org/10.1111/jbi.12496",
+    "DOI": "10.1111/jbi.12496"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "Modeltest: Testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/14.9.817",
+    "DOI": "10.1093/bioinformatics/14.9.817"
+  },
+  {
+    "author": [
+      {
+        "family": "L.",
+        "given": "Ruiz"
+      },
+      {
+        "given": "H."
+      },
+      {
+        "family": "Pavon",
+        "given": "J.A."
+      }
+    ],
+    "title": "Florae peruvianae, et chilensis prodromus",
+    "volume": "Rome",
+    "note": "+ XXXV pl.",
+    "type": "article-journal",
+    "container-title": "Paleariniano",
+    "issued": "1794",
+    "page": "152"
+  },
+  {
+    "author": [
+      {
+        "family": "L.",
+        "given": "Ruiz"
+      },
+      {
+        "given": "H."
+      },
+      {
+        "family": "Pavon",
+        "given": "J.A."
+      }
+    ],
+    "title": "Systema vegetabilium florae Peruvianae et Chilensis",
+    "publisher": "Typis Gabrielis de Sancha, Madrid",
+    "type": "book",
+    "issued": "1798",
+    "page": "456"
+  },
+  {
+    "author": [
+      {
+        "family": "Samarakoon",
+        "given": "T."
+      },
+      {
+        "family": "Wang",
+        "given": "S.Y."
+      },
+      {
+        "family": "Alford",
+        "given": "M.H."
+      }
+    ],
+    "title": "Enhancing PCR amplification of DNA from recalcitrant plant specimens using a trehalose-based additive",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Applications in Plant Sciences",
+    "issued": "2013",
+    "page": "1200236",
+    "URL": "http://dx.doi.org/10.3732/apps.1200236",
+    "DOI": "10.3732/apps.1200236"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "M.P."
+      },
+      {
+        "family": "Ochoterena",
+        "given": "H."
+      }
+    ],
+    "title": "Gaps as characters in sequence-based phylogenetic analyses",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2000",
+    "page": "369–381",
+    "URL": "http://dx.doi.org/10.1093/sysbio/49.2.369",
+    "DOI": "10.1093/sysbio/49.2.369"
+  },
+  {
+    "author": [
+      {
+        "family": "Skean",
+        "given": "D."
+      },
+      {
+        "family": "Judd",
+        "given": "W.S."
+      }
+    ],
+    "title": "A new Salvia (Labiatae) from Hispaniola",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1988",
+    "page": "16–21",
+    "URL": "http://dx.doi.org/10.2307/2806869",
+    "DOI": "10.2307/2806869"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (*and other methods), version 4",
+    "type": null,
+    "issued": "2003",
+    "publisher-place": "Sinauer, Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index herbariorum, a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2016",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "B.L."
+      }
+    ],
+    "title": "Recension of the Mexican species of section Uliginosae of Salvia (Lamiaceae",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "2009",
+    "page": "440–466"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "B.L."
+      }
+    ],
+    "title": "Recension of the Mexican species of Salvia (Lamiaceae), sect",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "Peninsularis. Phytologia",
+    "issued": "2010",
+    "page": "20–26"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "B.L."
+      }
+    ],
+    "title": "Recension of Mexican species of Salvia sect",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Standleyana (Lamiaceae). Phytoneuron",
+    "issued": "2011",
+    "page": "1–6"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "B.L."
+      }
+    ],
+    "title": "Taxonomic overview of the Mexican species of Salvia sect",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Flocculosae (Lamiaceae). Phytoneuron",
+    "issued": "2013",
+    "page": "1–11"
+  },
+  {
+    "author": [
+      {
+        "family": "Torke",
+        "given": "B.M."
+      }
+    ],
+    "title": "A revision of Salvia sect",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Ekmania (Lamiaceae). Brittonia",
+    "issued": "2000",
+    "page": "265–302",
+    "URL": "http://dx.doi.org/10.2307/2666577",
+    "DOI": "10.2307/2666577"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "title": "Nova genera et species II",
+    "editor": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Fratres Borntraeger, Lipsiae",
+    "issued": "1903",
+    "page": "353–420"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "title": "Nova genera et species V",
+    "editor": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Symbolae Antillanae seu Fundamenta Florae Indiae Occidentalis 7(3). Fratres Borntraeger, Lipsiae",
+    "type": "chapter",
+    "issued": "1912",
+    "page": "305–432"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "title": "Sertum antillarum. II",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1915",
+    "page": "465–484",
+    "URL": "http://dx.doi.org/10.1002/fedr.19150133002",
+    "DOI": "10.1002/fedr.19150133002"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      },
+      {
+        "family": "E. L",
+        "particle": "a cl."
+      }
+    ],
+    "title": "Plantae haitensis novae vel rariores III",
+    "volume": "20A (15",
+    "note": "+ Tab. 1.",
+    "type": "article-journal",
+    "container-title": "Arkiv für Botanik",
+    "issued": "1926",
+    "page": "1–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Wester",
+        "given": "P."
+      },
+      {
+        "family": "Claßen-Bockhoff",
+        "given": "R."
+      }
+    ],
+    "title": "Pollination syndromes of New World Salvia species with special reference to bird pollination",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "2011",
+    "page": "101–155",
+    "URL": "http://dx.doi.org/10.3417/2007035",
+    "DOI": "10.3417/2007035"
+  },
+  {
+    "author": [
+      {
+        "family": "T.J.",
+        "given": "White"
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetic",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelgand",
+        "given": "G.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: A guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "http://dx.doi.org/10.1016/b978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/b978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zona",
+        "given": "S."
+      },
+      {
+        "family": "Clase",
+        "given": "T."
+      },
+      {
+        "family": "Franck",
+        "given": "A."
+      }
+    ],
+    "title": "A synopsis of Salvia section Wrightiana",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Harvard Papers in Botany",
+    "issued": "2011",
+    "page": "379–384",
+    "URL": "http://dx.doi.org/10.3100/0.25.016.0208",
+    "DOI": "10.3100/0.25.016.0208"
+  }
+]

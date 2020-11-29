@@ -1,0 +1,258 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Swertia hookeri Clarke",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "container-title": "The Flora of British India",
+    "volume": "4",
+    "publisher": "L. Reeve & Co",
+    "type": "chapter",
+    "issued": "1883",
+    "page": "127",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Griffith",
+        "given": "W."
+      }
+    ],
+    "title": "Aconitum lethale Griffith",
+    "editor": [
+      {
+        "family": "Griffith",
+        "given": "W."
+      },
+      {
+        "family": "McClelland",
+        "given": "J."
+      }
+    ],
+    "container-title": "Notulae ad plantas asiaticas",
+    "volume": "4",
+    "publisher": "Bishop’s College Press",
+    "type": "chapter",
+    "issued": "1854",
+    "page": "732",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      }
+    ],
+    "title": "Materials for the flora of Arunachal Pradesh",
+    "volume": "1",
+    "publisher": "Botanical Survey of India",
+    "type": "book",
+    "issued": "1996",
+    "page": "41–44",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "Potentilla fulgens Wallich ex Hooker",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Curtis’s Botanical Magazine",
+    "issued": "1826",
+    "page": "2700"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Standards and Petitions Subcommittee Guidelines for using the IUCN Red List Categories and Criteria (version 13). Prepared by the Standards and Petitions Subcommittee",
+    "genre": "IUCN Red List Unit,",
+    "publisher": "Species Survival Commission",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "publisher-place": "Gland, Switzerland and Cambridge, U.K",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Lacaita",
+        "given": "C.C."
+      }
+    ],
+    "title": "Plants collected in Sikkim, including the Kalimpong district, April 8th to May 9th, 1913",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany, London",
+    "issue": "293",
+    "issued": "1916",
+    "page": "457–492",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1916.tb00614.x",
+    "DOI": "10.1111/j.1095-8339.1916.tb00614.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Lauener",
+        "given": "L.A."
+      }
+    ],
+    "title": "Aconitum of the Himalaya. New species and extensions in distribution",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Notes from the Royal Botanic Garden Edinburgh",
+    "issue": "1",
+    "issued": "1963",
+    "page": "1–30"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "type": "article-journal",
+    "container-title": "Laurentii Salvii, Holmiae",
+    "issued": "1753",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Moench",
+        "given": "C."
+      }
+    ],
+    "title": "Methodus plantas horti botanici et agri Marburgensis: a staminum situ describendi",
+    "type": "article-journal",
+    "container-title": "Officina Nova Libraria Academiae, Marburgi Cattorum",
+    "issued": "1794",
+    "page": "368",
+    "URL": "https://doi.org/10.5962/bhl.title.304",
+    "DOI": "10.5962/bhl.title.304"
+  },
+  {
+    "author": [
+      {
+        "family": "Rau",
+        "given": "M.A."
+      }
+    ],
+    "title": "Ranunculaceae",
+    "editor": [
+      {
+        "family": "Sharma",
+        "given": "B.D."
+      },
+      {
+        "family": "Balakrishnan",
+        "given": "N.P."
+      },
+      {
+        "family": "Rao",
+        "given": "R.R."
+      },
+      {
+        "family": "Hajra",
+        "given": "P.K."
+      }
+    ],
+    "container-title": "Flora of India",
+    "volume": "1",
+    "publisher": "Botanical Survey of India",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "3–25",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "Santapau",
+        "given": "H."
+      },
+      {
+        "family": "Henry",
+        "given": "A.N."
+      }
+    ],
+    "title": "A dictionary of flowering plants in India",
+    "publisher": "Publications & Information",
+    "type": "book",
+    "issued": "1973",
+    "page": "170",
+    "publisher-place": "Directorate, CSIR, New Delhi"
+  },
+  {
+    "author": [
+      {
+        "given": "Stapf"
+      }
+    ],
+    "title": "New species from Mount Everest",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1922",
+    "page": "149–155",
+    "URL": "https://doi.org/10.2307/4120205",
+    "DOI": "10.2307/4120205"
+  },
+  {
+    "author": [
+      {
+        "family": "Yan",
+        "given": "J.W."
+      },
+      {
+        "family": "He",
+        "given": "J."
+      },
+      {
+        "family": "Xu",
+        "given": "Z.-F."
+      },
+      {
+        "family": "Meng",
+        "given": "J."
+      },
+      {
+        "family": "En-De",
+        "given": "L."
+      },
+      {
+        "family": "Wang",
+        "given": "H."
+      }
+    ],
+    "title": "Aconitum wumengense (Ranunculaceae), a new species from Yunnan",
+    "volume": "343",
+    "type": "article-journal",
+    "container-title": "China, Phytotaxa",
+    "issue": "1",
+    "issued": "2018",
+    "page": "60–66",
+    "URL": "https://doi.org/10.11646/phytotaxa.343.1.5",
+    "DOI": "10.11646/phytotaxa.343.1.5"
+  }
+]

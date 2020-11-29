@@ -1,0 +1,196 @@
+[
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 13. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsen",
+        "given": "K."
+      },
+      {
+        "family": "S.S",
+        "given": "Larsen"
+      }
+    ],
+    "title": "Bauhinia",
+    "editor": [
+      {
+        "family": "Kalkman",
+        "given": "C."
+      },
+      {
+        "family": "Kirkup",
+        "given": "D.W."
+      },
+      {
+        "family": "Nooteboom",
+        "given": "H.P."
+      },
+      {
+        "family": "Stevens",
+        "given": "P.F."
+      },
+      {
+        "family": "Wilde",
+        "given": "W.J.J.O.",
+        "particle": "de"
+      }
+    ],
+    "container-title": "Flora Malesiana ser",
+    "volume": "12",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1996",
+    "page": "442–535",
+    "publisher-place": "Rijksherbarium / Hortus Botanicus, Leiden"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsen",
+        "given": "K."
+      },
+      {
+        "family": "Larsen",
+        "given": "S.S."
+      },
+      {
+        "family": "Vidal",
+        "given": "J.E."
+      }
+    ],
+    "title": "Leguminosae-Caesalpinioideae",
+    "editor": [
+      {
+        "family": "Aubreville",
+        "given": "A."
+      },
+      {
+        "family": "Leroy",
+        "given": "J.-F."
+      }
+    ],
+    "container-title": "Flore du Cambodge du Laos et du Viet-Nam, vol.18",
+    "publisher": "Muséum National d’Histoire Naturelle",
+    "type": "chapter",
+    "issued": "1980",
+    "page": "1–227",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsen",
+        "given": "K."
+      },
+      {
+        "family": "Larsen",
+        "given": "S.S."
+      },
+      {
+        "family": "Vidal",
+        "given": "J.E."
+      }
+    ],
+    "title": "Leguminosae-Caesalpinioideae",
+    "editor": [
+      {
+        "family": "Smitinand",
+        "given": "T."
+      },
+      {
+        "family": "Larsen",
+        "given": "K."
+      }
+    ],
+    "container-title": "Flora of Thailand 4 (1). Auspices of Danida at the TISTR Press",
+    "type": "chapter",
+    "issued": "1984",
+    "page": "1–129",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "G.P."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      }
+    ],
+    "title": "Cercideae",
+    "editor": [
+      {
+        "family": "Lewis",
+        "given": "G."
+      },
+      {
+        "family": "Schrire",
+        "given": "B."
+      },
+      {
+        "family": "Mackinder",
+        "given": "B."
+      },
+      {
+        "family": "Lock",
+        "given": "M."
+      }
+    ],
+    "container-title": "Legumes of the world. The Board of Trustees of the Royal Botanical Gardens, Kew",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "57–67"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 2",
+    "publisher": "Laurentius Salvius, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Weinmann",
+        "given": "J.A."
+      }
+    ],
+    "title": "Plantae novae vel minus cognitae ex horto Imperiali Pawlowskiensi, Observatae et descriptae",
+    "editor": [
+      {
+        "family": "Hornschuch",
+        "given": "C.F."
+      }
+    ],
+    "container-title": "Sylloge Plantarum Novarum Itemque Minus Cognitarum",
+    "volume": "2",
+    "publisher": "Ratisbonae, Typis viduae C.E. Brenck",
+    "type": "chapter",
+    "issued": "1825",
+    "page": "1–29"
+  }
+]

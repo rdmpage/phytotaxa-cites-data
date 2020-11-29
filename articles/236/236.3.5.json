@@ -1,0 +1,725 @@
+[
+  {
+    "author": [
+      {
+        "family": "Altschul",
+        "given": "S.F."
+      },
+      {
+        "family": "Gish",
+        "given": "W."
+      },
+      {
+        "family": "Miller",
+        "given": "W."
+      },
+      {
+        "family": "Myers",
+        "given": "E.W."
+      },
+      {
+        "family": "Lipman",
+        "given": "D.J."
+      }
+    ],
+    "title": "Basic local alignment search tool",
+    "volume": "215",
+    "type": "article-journal",
+    "container-title": "Journal of molecular biology",
+    "issued": "1990",
+    "page": "403–410",
+    "URL": "http://dx.doi.org/10.1016/S0022-2836(05)80360-2",
+    "DOI": "10.1016/S0022-2836(05)80360-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Bon",
+        "given": "M."
+      }
+    ],
+    "title": "Monographic key for European Russulae",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Documents mycologiques",
+    "issue": "71–72",
+    "issued": "1988",
+    "page": "1–125"
+  },
+  {
+    "author": [
+      {
+        "family": "Buyck",
+        "given": "B."
+      }
+    ],
+    "title": "Utilité taxonomique du bleu de crésyl dans le genre Russula Persoon",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Mycologique France",
+    "issued": "1989",
+    "page": "1–6"
+  },
+  {
+    "author": [
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "New species of Russula (Basidiomycotina) associated with Anisoptera (Dipterocarpaceae) in Papua New Guinea",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Australian Systematic Botany",
+    "issued": "1999",
+    "page": "727–742",
+    "URL": "http://dx.doi.org/10.1071/SB98017",
+    "DOI": "10.1071/SB98017"
+  },
+  {
+    "author": [
+      {
+        "family": "Buyck",
+        "given": "B."
+      },
+      {
+        "family": "Mitchell",
+        "given": "D."
+      },
+      {
+        "family": "Parrent",
+        "given": "J."
+      }
+    ],
+    "title": "Russula parvovirescens sp. nov., a common but ignored species in the eastern United States",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2006",
+    "page": "612–615",
+    "URL": "http://dx.doi.org/10.3852/mycologia.98.4.612",
+    "DOI": "10.3852/mycologia.98.4.612"
+  },
+  {
+    "author": [
+      {
+        "family": "Castresana",
+        "given": "J."
+      }
+    ],
+    "title": "Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Molecular biology and evolution",
+    "issued": "2000",
+    "page": "540–552",
+    "URL": "http://dx.doi.org/10.1093/oxfordjournals.molbev.a026334",
+    "DOI": "10.1093/oxfordjournals.molbev.a026334"
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "K."
+      },
+      {
+        "family": "Atri",
+        "given": "N.S."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      }
+    ],
+    "title": "Three new species of Russula (Russulales) from India",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Mycosphere",
+    "issued": "2013",
+    "page": "722–732",
+    "URL": "http://dx.doi.org/10.5943/mycosphere/4/4/9",
+    "DOI": "10.5943/mycosphere/4/4/9"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochem Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Du",
+        "given": "X.H."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "O’Donnell",
+        "given": "K."
+      },
+      {
+        "family": "Rooney",
+        "given": "A.P."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Multigene molecular phylogenetics reveals true morels (Morchella) are especially species-rich in China",
+    "volume": "49",
+    "type": "article-journal",
+    "container-title": "Fungal Genetics and Biology",
+    "issued": "2012",
+    "page": "455–469",
+    "URL": "http://dx.doi.org/10.1016/j.fgb.2012.03.006",
+    "DOI": "10.1016/j.fgb.2012.03.006"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "container-title": "Nucleic acids symposium series",
+    "volume": "41",
+    "type": "paper-conference",
+    "issued": "1999",
+    "page": "95 98"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "Bayesian analysis of molecular evolution using MrBayes",
+    "container-title": "Statistical methods in molecular evolution",
+    "publisher": "Springer New York",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "183–226",
+    "URL": "http://dx.doi.org/10.1007/0-387-27733-1_7",
+    "DOI": "10.1007/0-387-27733-1_7"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Briefings in Bioinformatics",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "http://dx.doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Minter",
+        "given": "D.W."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Dictionary of the fungi",
+    "edition": "10th",
+    "publisher": "CABI International",
+    "type": "book",
+    "issued": "2008",
+    "page": "608–609",
+    "publisher-place": "Oxon, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Taschenlexikon der Farben",
+    "edition": "3rd edn",
+    "publisher": "Muster-Schmidt Verlag, Göttingen",
+    "type": "book",
+    "issued": "1981"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "G.J."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Zhao",
+        "given": "D."
+      },
+      {
+        "family": "Yue",
+        "given": "S.F."
+      },
+      {
+        "family": "Li",
+        "given": "S.F."
+      },
+      {
+        "family": "Wen",
+        "given": "H.A."
+      },
+      {
+        "family": "Liu",
+        "given": "X.Z."
+      }
+    ],
+    "title": "Russula atroaeruginea and R. sichuanensis spp",
+    "volume": "124",
+    "type": "article-journal",
+    "container-title": "nov. from southwest China. Mycotaxon",
+    "issued": "2013",
+    "page": "173–188",
+    "URL": "http://dx.doi.org/10.5248/124.173",
+    "DOI": "10.5248/124.173"
+  },
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "J.F."
+      },
+      {
+        "family": "Xu",
+        "given": "J."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Divergence, dispersal and recombination in Lepiota cristata from China",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2009",
+    "page": "105–124"
+  },
+  {
+    "author": [
+      {
+        "family": "McNabb",
+        "given": "R.F.R."
+      }
+    ],
+    "title": "Russulaceae of New Zealand 2. Russula Pers. ex SF Gray",
+    "volume": "botany11",
+    "type": "article-journal",
+    "container-title": "New Zealand journal of",
+    "issued": "1973",
+    "page": "673–730",
+    "URL": "http://dx.doi.org/10.1080/0028825X.1973.10430308",
+    "DOI": "10.1080/0028825X.1973.10430308"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "S.L."
+      },
+      {
+        "family": "Buyck",
+        "given": "B."
+      }
+    ],
+    "title": "Molecular phylogeny of the genus Russula in Europe with a comparison of modern infrageneric classifications",
+    "volume": "106",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2002",
+    "page": "259–276",
+    "URL": "http://dx.doi.org/10.1017/S0953756202005610",
+    "DOI": "10.1017/S0953756202005610"
+  },
+  {
+    "author": [
+      {
+        "family": "Myers",
+        "given": "N."
+      },
+      {
+        "family": "Mittermeier",
+        "given": "R.A."
+      },
+      {
+        "family": "Mittermeier",
+        "given": "C.G."
+      },
+      {
+        "family": "Fonseca GAB.",
+        "particle": "da"
+      },
+      {
+        "family": "Kent",
+        "given": "J."
+      }
+    ],
+    "title": "Biodiversity hotspots for conservation priorities",
+    "volume": "403",
+    "type": "article-journal",
+    "container-title": "Nature",
+    "issued": "2000",
+    "page": "853–858",
+    "URL": "http://dx.doi.org/10.1038/35002501",
+    "DOI": "10.1038/35002501"
+  },
+  {
+    "author": [
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      }
+    ],
+    "title": "MrModeltest v2. Program distributed by the author",
+    "publisher": "Evolutionary Biology Centre, Uppsala University",
+    "type": "book",
+    "issued": "2004"
+  },
+  {
+    "author": [
+      {
+        "family": "Phillips",
+        "given": "R."
+      }
+    ],
+    "title": "Mushrooms and other fungi of Great Britain and Europe",
+    "publisher": "Pan Books",
+    "type": "book",
+    "issued": "1981",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Romagnesi",
+        "given": "H."
+      }
+    ],
+    "title": "Les Russules d’Europe et d’Afique du Nord",
+    "type": null,
+    "issued": "1967",
+    "publisher-place": "Bordas, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Romagnesi",
+        "given": "H."
+      }
+    ],
+    "title": "Status et noms nou veaux pour les taxa infragénériques dans le genere Russula",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Documentation Mycologique",
+    "issued": "1987",
+    "page": "39–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Sarnari",
+        "given": "M."
+      }
+    ],
+    "title": "Monografia illustrate de genere Russula in Europa. Tomo Primo",
+    "publisher": "AMB",
+    "type": "book",
+    "issued": "1998",
+    "publisher-place": "Centro Studi Micologici, Trento"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaffer",
+        "given": "R.L."
+      }
+    ],
+    "title": "Cuticular terminology in Russula (agaricales",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issued": "1970",
+    "page": "230–239",
+    "URL": "http://dx.doi.org/10.2307/2805905",
+    "DOI": "10.2307/2805905"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "Supplemente zu meiner Monographie der Gattung Russula",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Annales Mycologici",
+    "issued": "1935",
+    "page": "297–352"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The Agaricales in modern taxonomy",
+    "edition": "4th",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": "book",
+    "issued": "1986",
+    "page": "806–829"
+  },
+  {
+    "author": [
+      {
+        "family": "Song",
+        "given": "B."
+      },
+      {
+        "family": "Li",
+        "given": "T.H."
+      },
+      {
+        "family": "Wu",
+        "given": "X.L."
+      },
+      {
+        "family": "Li",
+        "given": "J.J."
+      },
+      {
+        "family": "Shen",
+        "given": "Y.H."
+      },
+      {
+        "family": "Lin",
+        "given": "Q.Y."
+      }
+    ],
+    "title": "Known species of Russula from China and their distribution",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Journal of Fungal Research",
+    "issued": "2007",
+    "page": "20–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      }
+    ],
+    "title": "Glossary",
+    "editor": [
+      {
+        "family": "Bas",
+        "given": "C."
+      },
+      {
+        "family": "Kuyper",
+        "given": "T.H.W."
+      },
+      {
+        "family": "Noordeloos",
+        "given": "M.E."
+      },
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "A. A. Balkema, Rotterdam",
+    "issued": "1988",
+    "page": "54–64"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "X.H."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      },
+      {
+        "family": "Li",
+        "given": "Y.C."
+      },
+      {
+        "family": "Knudsen",
+        "given": "H."
+      },
+      {
+        "family": "Liu",
+        "given": "P.G."
+      }
+    ],
+    "title": "Russula griseocarnosa sp",
+    "editor": [
+      {
+        "given": "nov"
+      }
+    ],
+    "volume": "88",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "2009",
+    "page": "269–282",
+    "URL": "http://dx.doi.org/10.1127/0029-5035/2009/0088-0269",
+    "DOI": "10.1127/0029-5035/2009/0088-0269"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "volume": "18",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "URL": "http://dx.doi.org/10.1016/b978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/b978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Diversity and biogeography of higher fungi in China. Evolutionary genetics of fungi",
+    "publisher": "Horizon Bioscience",
+    "type": "book",
+    "issued": "2005",
+    "page": "35–62",
+    "publisher-place": "Norfolk"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Zhou",
+        "given": "D.Q."
+      },
+      {
+        "family": "Zhao",
+        "given": "Q."
+      },
+      {
+        "family": "Zhou",
+        "given": "T.X."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "Diversity and ecological distribution of macrofungi in the Laojun Mountain region, southwestern China",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Biodiversity and conservation",
+    "issued": "2010",
+    "page": "3545–3563",
+    "URL": "http://dx.doi.org/10.1007/s10531-010-9915-9",
+    "DOI": "10.1007/s10531-010-9915-9"
+  }
+]

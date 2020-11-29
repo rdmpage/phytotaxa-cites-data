@@ -1,0 +1,116 @@
+[
+  {
+    "author": [
+      {
+        "family": "Craib",
+        "given": "W.G."
+      }
+    ],
+    "title": "LIII.–Contributions to the Flora of Siam. II. List of Siamese plants, with descriptions of new species – continued",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew",
+    "issued": "1911",
+    "page": "385–474",
+    "URL": "https://doi.org/10.2307/4115077",
+    "DOI": "10.2307/4115077"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "title": "Macaranga, Thouars",
+    "volume": "5",
+    "publisher": "L. Reeve & Co",
+    "type": "article-journal",
+    "container-title": "The flora of British India",
+    "issued": "1887",
+    "page": "445–454",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio generum plantarum: vascularium omnium atque cellularium multarum secundum leges nomenclaturae internationales cum enumeration plantarum exoticarum in itinere mundi collectarum",
+    "translator": [
+      {
+        "literal": "Pars II. Arthur Felix [etc."
+      }
+    ],
+    "type": null,
+    "issued": "1891",
+    "page": "377–1011",
+    "publisher-place": "Leipzig",
+    "URL": "https://doi.org/10.5962/bhl.title.124064",
+    "DOI": "10.5962/bhl.title.124064"
+  },
+  {
+    "author": [
+      {
+        "family": "Kurz",
+        "given": "S."
+      }
+    ],
+    "title": "New Burmese plants, Part III",
+    "container-title": "Journal of the Asiatic Society of Bengal, Part II (Natural History",
+    "volume": "42",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1874",
+    "page": "227–254"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "J."
+      }
+    ],
+    "title": "Euphorbiaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "volume": "15",
+    "publisher": "Treuttel et Würtz., Parisii",
+    "type": "article-journal",
+    "container-title": "normas digesta",
+    "issued": "1866",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Pax",
+        "given": "F."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "K."
+      }
+    ],
+    "title": "Euphorbiaceae – Acalypheae – Mercurialinae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich Regni vegetabilis conspectus",
+    "volume": "7",
+    "publisher": "Verlag von Wilhelm Engelmann",
+    "issue": "Heft 63",
+    "type": "article-journal",
+    "issued": "1914",
+    "page": "1–473",
+    "publisher-place": "Leipzig und Berlin"
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "B."
+      }
+    ],
+    "title": "The genus Andreaea (Musci) in Maine",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Evansia",
+    "issued": "1991",
+    "page": "1–5"
+  },
+  {
+    "author": [
+      {
+        "family": "Bartram",
+        "given": "E.B."
+      },
+      {
+        "family": "Organensis",
+        "given": "Bizzini Flora"
+      }
+    ],
+    "title": "Musci",
+    "publisher": "C.T",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Archivos do Jardim Botânico do Rio de Janeiro",
+    "issued": "1954",
+    "page": "234–242",
+    "publisher-place": "In"
+  },
+  {
+    "author": [
+      {
+        "family": "Brotherus",
+        "given": "V.F."
+      }
+    ],
+    "title": "Musci (Laubmoose). Ergebnisse der botanischen Expedition der Kaiserlichen Akademie der Wissenschaften nach Südbrasilien 1901",
+    "editor": [
+      {
+        "literal": "II (Thallophyta und Bryophyta). In"
+      }
+    ],
+    "container-title": "Ergebnisse der Botanischen Expedition nach Südbrasilien, Musci",
+    "type": "chapter",
+    "issued": "1924",
+    "page": "251–358",
+    "publisher-place": "Band"
+  },
+  {
+    "author": [
+      {
+        "family": "Churchill",
+        "given": "S.P."
+      },
+      {
+        "family": "C.",
+        "given": "Linares"
+      },
+      {
+        "given": "E.L."
+      }
+    ],
+    "title": "Prodromus Bryologiae Novo-Granatensis: Introducción a la flora de musgos de Colombia",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Biblioteca José Jerónimo Triana",
+    "issued": "1995",
+    "page": "1–924"
+  },
+  {
+    "author": [
+      {
+        "family": "Costa",
+        "given": "D.P."
+      },
+      {
+        "family": "Imbassahy",
+        "given": "C.A.A."
+      },
+      {
+        "family": "Silva",
+        "given": "V.P.A.V."
+      }
+    ],
+    "title": "Diversidade e importância das espécies de briófitas na conservação dos ecossistemas do estado do Rio de Janeiro",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issue": "87",
+    "issued": "2005",
+    "page": "13–49",
+    "URL": "https://doi.org/10.1590/2175-78602005568702",
+    "DOI": "10.1590/2175-78602005568702"
+  },
+  {
+    "author": [
+      {
+        "family": "Costa",
+        "given": "D.P."
+      },
+      {
+        "family": "Imbassahy",
+        "given": "C.A."
+      },
+      {
+        "family": "Silva",
+        "given": "V.P.A.V."
+      }
+    ],
+    "title": "Checklist and distribution of mosses, liverworts and hornworts of Rio de Janeiro state",
+    "volume": "98",
+    "type": "article-journal",
+    "container-title": "Brazil. Journal of the Hattori Botanical Laboratory",
+    "issued": "2005",
+    "page": "259–298"
+  },
+  {
+    "author": [
+      {
+        "family": "Costa",
+        "given": "D.P."
+      },
+      {
+        "family": "Pôrto",
+        "given": "K.C."
+      },
+      {
+        "family": "Luizi-Ponzo",
+        "given": "A.P."
+      },
+      {
+        "family": "N.D.",
+        "given": "Siviero"
+      },
+      {
+        "family": "T.S.",
+        "given": "Vaz-Imbassahy"
+      },
+      {
+        "given": "T.D.F."
+      },
+      {
+        "family": "Churchill",
+        "given": "S.P."
+      }
+    ],
+    "title": "Ilkiu-Borges",
+    "publisher": "A.L",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "Nova Hedwigia",
+    "issued": "2011",
+    "page": "277–334",
+    "publisher-place": "Bastos, C.J.P., Câmara, P.E.A.S., Peralta, D.F., Bôas-Bastos, S.B.V., Imbassahy, C.A.A., Henriques, D.K., Gomes, H.C.S., Rocha, L.M., Santos",
+    "URL": "https://doi.org/10.1127/0029-5035/2011/0093-0277",
+    "DOI": "10.1127/0029-5035/2011/0093-0277"
+  },
+  {
+    "author": [
+      {
+        "family": "Crum",
+        "given": "H.A."
+      },
+      {
+        "family": "Anderson",
+        "given": "L.E."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Mosses of Eastern North America",
+    "issued": "1981",
+    "page": "1–663"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Syllabus",
+    "issued": "1892",
+    "page": "1–184",
+    "URL": "https://doi.org/10.1093/library/s1-4.1.184",
+    "DOI": "10.1093/library/s1-4.1.184"
+  },
+  {
+    "author": [
+      {
+        "family": "Fiaschi",
+        "given": "P."
+      },
+      {
+        "family": "Pirani",
+        "given": "J.R."
+      }
+    ],
+    "title": "Review of plant biogeographic studies in Brazil",
+    "volume": "47",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2009",
+    "page": "477–496",
+    "URL": "https://doi.org/10.1111/j.1759-6831.2009.00046.x",
+    "DOI": "10.1111/j.1759-6831.2009.00046.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Frey",
+        "given": "W."
+      },
+      {
+        "family": "Stech",
+        "given": "M."
+      }
+    ],
+    "title": "Marchantiophyta, Bryophyta, Anthocerotophyta",
+    "editor": [
+      {
+        "family": "Frey",
+        "given": "W."
+      }
+    ],
+    "container-title": "Syllabus of Plant Families. A. Engler ́s Syllabus der Pflanzenfamilien",
+    "edition": "13th",
+    "publisher": "Gebr. Borntraeger Verlagsbuchhandlung",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "13–263",
+    "publisher-place": "Stuttgart"
+  },
+  {
+    "author": [
+      {
+        "family": "Gangulee",
+        "given": "H.C."
+      }
+    ],
+    "title": "Mosses of Eastern India",
+    "volume": "1",
+    "type": null,
+    "issued": "1969",
+    "page": "170"
+  },
+  {
+    "author": [
+      {
+        "given": "G.B.I.F."
+      }
+    ],
+    "title": "Global Biodiversity Information Facility",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.gbif.org/species"
+  },
+  {
+    "author": [
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Churchill",
+        "given": "S.P."
+      },
+      {
+        "family": "Salazar-Allen",
+        "given": "N."
+      }
+    ],
+    "title": "Guide to the bryophytes to Tropical America",
+    "volume": "86",
+    "type": "article-journal",
+    "container-title": "Memoirs of The New York Botanical Garden",
+    "issued": "2001",
+    "page": "1–577"
+  },
+  {
+    "author": [
+      {
+        "family": "Harvey",
+        "given": "W.H."
+      },
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "literal": "tabs. XVII–XXIV ."
+      }
+    ],
+    "title": "Musci Indici; or list of mosses collected in the East Indies by Dr. Wallich with references to the figures of the new species published in Hooker’s Icones Plantarum",
+    "volume": "I",
+    "type": "article-journal",
+    "container-title": "Journal of Botany (Hooker",
+    "issued": "1840",
+    "page": "1–21"
+  },
+  {
+    "author": [
+      {
+        "family": "Hedwig",
+        "given": "J."
+      }
+    ],
+    "title": "Species Muscorum Frondosorum",
+    "volume": "1",
+    "type": null,
+    "issued": "1801",
+    "page": "352"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Wilson",
+        "given": "W."
+      }
+    ],
+    "title": "Musci antarctici, being characters with brief descriptions of the new species of mosses discovered during the voyage of H.M. discovery ships, Erebus and Terror, in the southern circumpolar regions, together with those of Tasmania and New Zealand",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "London Journal of Botany",
+    "issued": "1844",
+    "page": "533–556"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "Dioon edule",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Edwards’s Botanical Register",
+    "issued": "1846",
+    "page": "59–60"
+  },
+  {
+    "author": [
+      {
+        "family": "Magill",
+        "given": "R.E."
+      }
+    ],
+    "title": "Bryophyta. Sphagnaceae to Grimmiaceae. In: Flora of Southern Africa",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Part",
+    "issue": "icle 1",
+    "issued": "1981",
+    "page": "1–291"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitten",
+        "given": "W."
+      }
+    ],
+    "title": "Musci austro-americani",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1869",
+    "page": "1–659",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1871.tb00633.x",
+    "DOI": "10.1111/j.1095-8339.1871.tb00633.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "C."
+      }
+    ],
+    "title": "Bryologia serrae Itatiaiae (Minas Geraës Brasiliae) adjectis nonnullis speciebus affinibus regionum vicinarum",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Herbier Boissier",
+    "issued": "1898",
+    "page": "18–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "K."
+      }
+    ],
+    "title": "Synopsis Muscorum Frondosorum Omnium Hucusque Cognitorum 1: Musci Vegetation Acrocarpicae",
+    "type": null,
+    "issued": "1849",
+    "page": "1–812",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.5962/bhl.title.31",
+    "DOI": "10.5962/bhl.title.31"
+  },
+  {
+    "author": [
+      {
+        "family": "Ochyra",
+        "given": "R."
+      },
+      {
+        "family": "Żarnowiec",
+        "given": "J."
+      },
+      {
+        "family": "Bednarek-Ochyra",
+        "given": "H."
+      }
+    ],
+    "title": "Census catalogue of Polish mosses",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Biodiversity of Poland",
+    "issued": "2003",
+    "page": "1–372"
+  },
+  {
+    "author": [
+      {
+        "family": "Peralta",
+        "given": "D.F."
+      },
+      {
+        "family": "Bordin",
+        "given": "J."
+      },
+      {
+        "family": "Yano",
+        "given": "O."
+      }
+    ],
+    "title": "Novas ocorrências de briófitas nos estados brasileiros",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Hoehnea",
+    "issued": "2008",
+    "page": "123–158",
+    "URL": "https://doi.org/10.1590/S2236-89062008000100009",
+    "DOI": "10.1590/S2236-89062008000100009"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "G."
+      }
+    ],
+    "title": "Die Außereuropäischen Laubmoose I Band",
+    "publisher": "Heinrich",
+    "type": "article-journal",
+    "container-title": "Dresden. Dritte Lieferung. C",
+    "issued": "1911",
+    "publisher-place": "Dresden"
+  },
+  {
+    "author": [
+      {
+        "family": "Schäfer-Verwimp",
+        "given": "A."
+      }
+    ],
+    "title": "Contributions to the knowledge of the bryophyte flora of Espírito Santo, Brazil",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Journal of the Hattori Botanical Laboratory",
+    "issued": "1991",
+    "page": "147–170"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultze-Motel",
+        "given": "W."
+      }
+    ],
+    "title": "Monographie der Laubmoosgattung Andreaea. 1. Die costaten Arten",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issued": "1970",
+    "page": "25–110"
+  },
+  {
+    "author": [
+      {
+        "family": "Seki",
+        "given": "T."
+      }
+    ],
+    "title": "A moss flora of Provincia de Aisén, Chile. Results of the Second Scientific Expedition to Patagonia by Hokkaido and Hiroshima Universities, 1967",
+    "note": "Series B, Division 2 (Botany",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Journal of Science of the Hiroshima University",
+    "issue": "1",
+    "issued": "1974",
+    "page": "9–101"
+  },
+  {
+    "author": [
+      {
+        "family": "Sharp",
+        "given": "A.J."
+      },
+      {
+        "family": "Crum",
+        "given": "H.A."
+      },
+      {
+        "family": "Eckel",
+        "given": "P.M."
+      }
+    ],
+    "title": "The moss flora of Mexico",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Memoirs of The New York Botanical Garden",
+    "issued": "1994",
+    "page": "1–2 1–1113"
+  },
+  {
+    "author": [
+      {
+        "family": "Vitt",
+        "given": "D.H."
+      }
+    ],
+    "title": "A comparative study of Andreaea acutifolia, A. mutabilis, and A. rupestris",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "New Zealand Journal of Botany",
+    "issued": "1980",
+    "page": "367–377",
+    "URL": "https://doi.org/10.1080/0028825X.1980.10427254",
+    "DOI": "10.1080/0028825X.1980.10427254"
+  },
+  {
+    "author": [
+      {
+        "family": "Yano",
+        "given": "O."
+      }
+    ],
+    "title": "Catálogo de musgos brasileiros: literatura original, basiônimo, localidade-tipo e distribuição geográfica. São Paulo, Instituto de Botânica",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://botanica.sp.gov.br/files/2013/9/virtuais_2musgos.pdf"
+  }
+]

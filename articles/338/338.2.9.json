@@ -1,0 +1,65 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Acanthaceae",
+    "editor": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "publisher": "L. Reeve & Co",
+    "type": "book",
+    "issued": "1885",
+    "page": "387–558",
+    "publisher-place": "London",
+    "URL": "https://doi.org/10.5962/bhl.title.678",
+    "DOI": "10.5962/bhl.title.678"
+  },
+  {
+    "author": [
+      {
+        "family": "Graham",
+        "given": "V.A.W."
+      }
+    ],
+    "title": "Delimitation and infrageneric classification of Justicia (Acanthaceae",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1988",
+    "page": "551–624",
+    "URL": "https://doi.org/10.2307/4129957",
+    "DOI": "10.2307/4129957"
+  },
+  {
+    "author": [
+      {
+        "literal": "McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K., Prado, J., Prudhomme Van Reine, W.F., Smith, G.F., Wiersema, J.H. &Turland, N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi and plants (Melbourne Code). [Regnum Veg. 154",
+    "publisher": "Koeltz Scientific Publishers, Koenigstein",
+    "type": null,
+    "issued": "2012",
+    "page": "189"
+  },
+  {
+    "author": [
+      {
+        "family": "Oersted",
+        "given": "A.S."
+      }
+    ],
+    "title": "den NaturhistoriskeForening i Kjøbenhavn",
+    "type": "article-journal",
+    "container-title": "Copenhagen",
+    "issued": "1855",
+    "page": "163–164"
+  }
+]

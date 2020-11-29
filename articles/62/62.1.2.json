@@ -1,0 +1,100 @@
+[
+  {
+    "author": [
+      {
+        "family": "Borchsenius",
+        "given": "F."
+      },
+      {
+        "family": "Suárez",
+        "given": "L.S.S."
+      },
+      {
+        "family": "Prince",
+        "given": "M.L."
+      }
+    ],
+    "title": "Molecular phylogeny and redefined generic limits of Calathea (Marantaceae",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2012",
+    "page": "620–635"
+  },
+  {
+    "author": [
+      {
+        "family": "Braga",
+        "given": "J.M.A."
+      },
+      {
+        "family": "Kennedy",
+        "given": "H."
+      }
+    ],
+    "title": "Calathea dorothyae sp. nov. (Marantaceae) from the sandy coastal plains of southeastern Brazil",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nordic Journal of Botany",
+    "issued": "2012",
+    "page": "36–39"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "G.F.W."
+      }
+    ],
+    "title": "Primitiae florae Essequebonensis",
+    "editor": [
+      {
+        "family": "Dieterich",
+        "given": "H."
+      },
+      {
+        "given": "Göttingen"
+      }
+    ],
+    "type": null,
+    "issued": "1818",
+    "page": "316"
+  },
+  {
+    "author": [
+      {
+        "family": "Esenbeck",
+        "given": "C.G.D.",
+        "particle": "Nees von"
+      }
+    ],
+    "title": "Über die Gattungen Maranta und Thalia",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1831",
+    "page": "303–431"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Marantaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "volume": "4",
+    "issue": "48",
+    "type": "article-journal",
+    "issued": "1902",
+    "page": "1–184",
+    "publisher-place": "Engelmann, Leipzig"
+  }
+]

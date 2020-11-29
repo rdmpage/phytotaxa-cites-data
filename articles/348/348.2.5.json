@@ -1,0 +1,867 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alfaro",
+        "given": "M.E."
+      },
+      {
+        "family": "Zoller",
+        "given": "S."
+      },
+      {
+        "family": "Lutzoni",
+        "given": "F."
+      }
+    ],
+    "title": "Bayes or bootstrap? A simulation study comparing the performance of Bayesian Markov Chain Monte Carlo sampling and bootstrapping in assessing phylogenetic confidence",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2003",
+    "page": "255–266",
+    "URL": "http://dx.doi.org/10.1093/molbev/msg028",
+    "DOI": "10.1093/molbev/msg028"
+  },
+  {
+    "author": [
+      {
+        "family": "Chandrasrikul",
+        "given": "A.Suwanarit"
+      },
+      {
+        "family": "P.",
+        "given": "Sangwanit"
+      },
+      {
+        "family": "U.",
+        "given": "Lumyong"
+      },
+      {
+        "family": "S.",
+        "given": "Payapanon"
+      },
+      {
+        "family": "A.",
+        "given": "Sanoamuang"
+      },
+      {
+        "family": "N.",
+        "given": "Pukahuta"
+      },
+      {
+        "family": "C.",
+        "given": "Petcharat"
+      },
+      {
+        "family": "V.",
+        "given": "Sardsud"
+      },
+      {
+        "family": "U.",
+        "given": "Duengkae"
+      },
+      {
+        "family": "K.",
+        "given": "Klinhom"
+      },
+      {
+        "family": "U.",
+        "given": "Thongkantha"
+      },
+      {
+        "given": "S."
+      },
+      {
+        "family": "Thongklam",
+        "given": "S."
+      }
+    ],
+    "title": "Mushroom (basidiomycetes) in Thailand",
+    "publisher": "Office of Natural Resources and Environmental Policy and Planning",
+    "type": "book",
+    "issued": "2011",
+    "publisher-place": "Bangkok"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "R.C."
+      }
+    ],
+    "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2004",
+    "page": "1792–1797",
+    "URL": "http://dx.doi.org/10.1093/nar/gkh340",
+    "DOI": "10.1093/nar/gkh340"
+  },
+  {
+    "author": [
+      {
+        "family": "Ge",
+        "given": "Z.W."
+      },
+      {
+        "family": "Chen",
+        "given": "C.M."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "A new species of Hymenagaricus from Taiwan and its phylogenetic position inferred from ITS and nLSU sequences",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Cryptogamie Mycologie",
+    "issued": "2008",
+    "page": "259–265"
+  },
+  {
+    "author": [
+      {
+        "family": "Ge",
+        "given": "Z.W."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Pseudolepiota zangmui gen",
+    "editor": [
+      {
+        "family": "nov",
+        "particle": "et sp."
+      }
+    ],
+    "volume": "312",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "247–255",
+    "URL": "https://doi."
+  },
+  {
+    "author": [
+      {
+        "family": "Geml",
+        "given": "J."
+      },
+      {
+        "family": "Laursen",
+        "given": "G.A."
+      },
+      {
+        "family": "Taylor",
+        "given": "D.L."
+      }
+    ],
+    "title": "Molecular diversity assessment of arctic and boreal Agaricus taxa",
+    "volume": "100",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2008",
+    "page": "577–589",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.3852/07-042R1"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      },
+      {
+        "family": "Flower",
+        "given": "Little",
+        "suffix": "Sr"
+      }
+    ],
+    "title": "Hymenagaricus (Agaricaceae) de Kerala (Inde) et de Sri Lanka",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Bulletin du Jardin Botanique National de Belgique",
+    "issued": "1984",
+    "page": "151–182",
+    "URL": "http://dx.doi.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Hillis",
+        "given": "D.M."
+      },
+      {
+        "family": "Bull",
+        "given": "J.J."
+      }
+    ],
+    "title": "An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analysis",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "1993",
+    "page": "182–192",
+    "URL": "http://dx.doi.org/10.1093/sysbio/42.2.182",
+    "DOI": "10.1093/sysbio/42.2.182"
+  },
+  {
+    "author": [
+      {
+        "family": "Hosen",
+        "given": "M.I."
+      },
+      {
+        "family": "Song",
+        "given": "Z."
+      },
+      {
+        "family": "Gates",
+        "given": "G."
+      },
+      {
+        "family": "Li",
+        "given": "T."
+      }
+    ],
+    "title": "Xathagaricus careuleus, a new species with ink-blue lamella from southeast China",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2017",
+    "page": "188–192",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.1016/j.myc.2017.10.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Hosen",
+        "given": "M.I."
+      },
+      {
+        "family": "Song",
+        "given": "Z."
+      },
+      {
+        "family": "Gates",
+        "given": "G."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Salahuddin",
+        "given": "M."
+      },
+      {
+        "family": "Chowdhuey",
+        "given": "M."
+      },
+      {
+        "family": "Li",
+        "given": "T."
+      }
+    ],
+    "title": "Two new species of Xanthagaricus and some notes on Heinemannomyces from Asia",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Mycokeys",
+    "issued": "2017",
+    "page": "1 18",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.3897/mycokeys.28.21029"
+  },
+  {
+    "author": [
+      {
+        "family": "Hosen",
+        "given": "M.I."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Coniolepiota spongodes (Agaricaceae, Basidiomycota) in Bangladesh and China",
+    "volume": "124",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2013",
+    "page": "341–347",
+    "URL": "http://dx.doi.org/10.5248/124.341",
+    "DOI": "10.5248/124.341"
+  },
+  {
+    "author": [
+      {
+        "family": "Hussain",
+        "given": "S."
+      },
+      {
+        "family": "Afshan",
+        "given": "N."
+      },
+      {
+        "family": "Ahmad",
+        "given": "H."
+      },
+      {
+        "family": "Sher",
+        "given": "H."
+      },
+      {
+        "family": "Khalid",
+        "given": "A.N."
+      }
+    ],
+    "title": "Xanthagaricus pakistanicus sp. nov. (Agaricaceae): first report of the genus from Pakistan",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Turkish Journal of Botany",
+    "issued": "2017",
+    "page": "1 11",
+    "URL": "http://dx.doi.org/10.3906/bot-1705-21",
+    "DOI": "10.3906/bot-1705-21"
+  },
+  {
+    "author": [
+      {
+        "family": "Karunarathna",
+        "given": "S.C."
+      },
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      },
+      {
+        "family": "Chen",
+        "given": "Jie"
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Two new species in Agaricus tropical clade I",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Chiang Mai Journal of Science",
+    "issued": "2014",
+    "page": "771–780"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Minter",
+        "given": "D."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Dictionary of the fungi",
+    "edition": "10th",
+    "publisher": "CAB International",
+    "type": "book",
+    "issued": "2008",
+    "publisher-place": "Wallingford"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of colour",
+    "edition": "3nd",
+    "publisher": "Eyre Methuen",
+    "type": "book",
+    "issued": "1978",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Little Flower",
+        "given": "Hosagoudar",
+        "suffix": "Sr."
+      },
+      {
+        "given": "V.B."
+      },
+      {
+        "family": "Abraham",
+        "given": "T.K."
+      }
+    ],
+    "title": "Xanthagaricus, a new generic name in the family Agaricaceae",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "New Botanist",
+    "issued": "1997",
+    "page": "93–100"
+  },
+  {
+    "author": [
+      {
+        "family": "Mwanga",
+        "given": "Z.N."
+      },
+      {
+        "family": "Tibuhwa",
+        "given": "D.D."
+      }
+    ],
+    "title": "Morphology and molecular taxonomy of Hymenagaricus mlimaniensis species nov: a new Basidiomycota mushroom from Mlimani main campus, Tanzania",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Journal of Yeast and Fungal Research",
+    "issued": "2014",
+    "page": "96–102",
+    "URL": "http://dx.doi.org/10.5897/JYFR2014.0144",
+    "DOI": "10.5897/JYFR2014.0144"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.D."
+      }
+    ],
+    "title": "Tree View",
+    "publisher": "Glasgow University",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Glasgow"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "Agaric flora of Sri Lanka",
+    "collection-title": "Additional Series XII",
+    "publisher": "Her Majesty’s Stationery Office",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1986",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Reid",
+        "given": "D.A."
+      },
+      {
+        "family": "Eicker",
+        "given": "A."
+      }
+    ],
+    "title": "South African Fungi 8. Three new species of Hymenagaricus from South Africa, with a revised key to South African taxa",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "1998",
+    "page": "256–360",
+    "URL": "http://dx.doi.org/10.1016/S0254-6299(15)30924-8",
+    "DOI": "10.1016/S0254-6299(15)30924-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Su",
+        "given": "M.S."
+      },
+      {
+        "family": "Liang",
+        "given": "Z.Q."
+      },
+      {
+        "family": "Chen",
+        "given": "X.D."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Zeng",
+        "given": "N.K."
+      }
+    ],
+    "title": "Hypholoma cinnabarinum revisited: a contribution to knowledge of Agaricus subgenus Lanagaricus section Trisulphurati (Agaricaceae, Agaricales",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2014",
+    "page": "449–455",
+    "URL": "http://dx.doi.org/10.1016/j.myc.2014.01.004",
+    "DOI": "10.1016/j.myc.2014.01.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Tibuhwa",
+        "given": "D.D."
+      },
+      {
+        "family": "Mwanga",
+        "given": "Z.N."
+      }
+    ],
+    "title": "A comprehensive study on Agaricus-like mushrooms from Mwalimu JK Nyerere Mlimani Campus, Tanzania",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal of Biology, Agriculture and Healthcare",
+    "issued": "2014",
+    "page": "70 78"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      },
+      {
+        "family": "Kok",
+        "given": "R.P.",
+        "particle": "de"
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "Phylogeny and taxonomy of Macrolepiota (Agaricaceae",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2003",
+    "page": "442–456",
+    "URL": "http://dx.doi.org/10.1080/15572536.2004.11833089",
+    "DOI": "10.1080/15572536.2004.11833089"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      },
+      {
+        "family": "Sysouphanthong",
+        "given": "P."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "The family Agaricaceae: phylogenies and two new white-spored genera",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2011",
+    "page": "494–509",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.3852/10-204"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols, a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "publisher-place": "San Diego"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "R."
+      },
+      {
+        "family": "Desjardin",
+        "given": "D.E."
+      },
+      {
+        "family": "Soytong",
+        "given": "K."
+      },
+      {
+        "family": "Perry",
+        "given": "B.A."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      }
+    ],
+    "title": "A monograph of Micropsalliota in northern Thailand based on morphological and molecular data",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2010",
+    "page": "33–79",
+    "URL": "http://dx.doi.org/",
+    "DOI": "10.1007/s13225-010-0050-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "R."
+      },
+      {
+        "family": "Karunarathna",
+        "given": "S."
+      },
+      {
+        "family": "Raspé",
+        "given": "O."
+      },
+      {
+        "family": "Parra",
+        "given": "L.A."
+      },
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      },
+      {
+        "family": "Moinard",
+        "given": "M."
+      },
+      {
+        "family": "Kesel",
+        "given": "A.D."
+      },
+      {
+        "family": "Barroso",
+        "given": "G."
+      },
+      {
+        "family": "Courtecuisse",
+        "given": "R."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Guelly",
+        "given": "A.K."
+      },
+      {
+        "family": "Desjardin",
+        "given": "D.E."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      }
+    ],
+    "title": "Major clades in tropical Agaricus",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2011",
+    "page": "279–296",
+    "URL": "https://doi.org/10.1007/s13225-011-0136-7",
+    "DOI": "10.1007/s13225-011-0136-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "J."
+      },
+      {
+        "family": "Su",
+        "given": "S."
+      },
+      {
+        "family": "Su",
+        "given": "H."
+      },
+      {
+        "family": "Wang",
+        "given": "B."
+      },
+      {
+        "family": "Callac",
+        "given": "P."
+      },
+      {
+        "family": "Guinberteau",
+        "given": "J."
+      },
+      {
+        "family": "Hyde",
+        "given": "K.D."
+      },
+      {
+        "family": "Zhao",
+        "given": "R."
+      }
+    ],
+    "title": "A description of eleven new species of Agaricus sections Xanthodermatei and Hondenses collected from Tibet and the surrounding areas",
+    "volume": "257",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "99–121",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.257.2.1",
+    "DOI": "10.11646/phytotaxa.257.2.1"
+  }
+]

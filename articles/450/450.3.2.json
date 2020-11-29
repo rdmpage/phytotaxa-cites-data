@@ -1,0 +1,273 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alverson",
+        "given": "W.S."
+      },
+      {
+        "family": "Michel",
+        "given": "L.R.C.de"
+      },
+      {
+        "family": "Dorr",
+        "given": "L.J."
+      },
+      {
+        "family": "Fryxell",
+        "given": "P.A."
+      },
+      {
+        "family": "Krapovickas",
+        "given": "A."
+      },
+      {
+        "family": "Q.",
+        "given": "Meneses"
+      },
+      {
+        "given": "R.I."
+      }
+    ],
+    "title": "Malvaceae",
+    "editor": [
+      {
+        "family": "Jørgensen",
+        "given": "P.M."
+      },
+      {
+        "family": "Nee",
+        "given": "M.H."
+      },
+      {
+        "family": "Beck",
+        "given": "S.G."
+      }
+    ],
+    "container-title": "Catálogo de las plantas vasculares de Bolivia. Monographs in systematic botany from the Missouri Botanical Garden",
+    "volume": "127",
+    "note": "St. Louis: Missouri Botanical Garden Press",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "2014",
+    "page": "786–819"
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torres",
+        "given": "J.",
+        "particle": "de"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: Geospatial conservation assessment tool",
+    "volume": "126",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "https://doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "literal": "Donnell, A., Ballard Jr., H.E. & Cantino, P.D."
+      }
+    ],
+    "title": "Callianthe (Malvaceae): A new Genus of Neotropical Malveae",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "3",
+    "issued": "2012",
+    "page": "712–722",
+    "URL": "https://doi.org/10.1600/036364412X648689",
+    "DOI": "10.1600/036364412X648689"
+  },
+  {
+    "author": [
+      {
+        "family": "Gürke",
+        "given": "M."
+      }
+    ],
+    "title": "Malvaceae II",
+    "editor": [
+      {
+        "family": "Von Martius",
+        "given": "C.E.P."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "12",
+    "issue": "3",
+    "type": "article-journal",
+    "issued": "1892",
+    "page": "457–586, 81–114"
+  },
+  {
+    "author": [
+      {
+        "family": "Hochreutiner",
+        "given": "B.P.G."
+      }
+    ],
+    "title": "Bakeridesia",
+    "container-title": "Annuaire du Conservatoire et du Jardin Botaniques de Genève",
+    "volume": "15–16",
+    "type": "chapter",
+    "issued": "1913",
+    "page": "298"
+  },
+  {
+    "author": [
+      {
+        "given": "I.B.G.E."
+      }
+    ],
+    "title": "Mapa da vegetação do Brasil e mapa dos biomas do Brasil",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2004",
+    "URL": "http://www.ibge.gov.br"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for using the IUCN red list categories and criteria",
+    "volume": "13",
+    "note": "Prepared by the Standards and Petitions Subcommitttee. Available from:",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issued": "2017",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "Abutilon",
+    "container-title": "The Gardeners",
+    "edition": "Dictionary...Abridged...fourth edition [23",
+    "type": "chapter",
+    "issued": "1754"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "K."
+      }
+    ],
+    "title": "Malvaceae I",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.E.P.",
+        "particle": "von"
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "12",
+    "issue": "3",
+    "type": "article-journal",
+    "issued": "1891",
+    "page": "253–456, 51–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Takeuchi",
+        "given": "C."
+      }
+    ],
+    "title": "Callianthe in Flora do Brasil 2020 em construção",
+    "note": "Jardim Botânico do Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB130693"
+  },
+  {
+    "author": [
+      {
+        "family": "Takeuchi",
+        "given": "C."
+      },
+      {
+        "family": "Esteves",
+        "given": "G.L."
+      }
+    ],
+    "title": "Synopsis of Abutilon (Malvoideae, Malvaceae) in the state of São Paulo, Brazil",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2012",
+    "page": "39–57",
+    "URL": "https://doi.org/10.11646/phytotaxa.44.1.4",
+    "DOI": "10.11646/phytotaxa.44.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Takeuchi",
+        "given": "C."
+      },
+      {
+        "family": "Donnell",
+        "given": "A.A."
+      },
+      {
+        "family": "Fernandes Júnior",
+        "given": "A.J."
+      }
+    ],
+    "title": "Callianthe montana, a new combination for Abutilon montanum (Malvaceae, Malvoideae), a rediscovered species endemic to the state of Minas Gerais, Brazil",
+    "volume": "177",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "5",
+    "issued": "2014",
+    "page": "298–300",
+    "URL": "https://doi.org/10.11646/phytotaxa.177.5.6",
+    "DOI": "10.11646/phytotaxa.177.5.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "accessed 8 March 2019",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  }
+]

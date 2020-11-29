@@ -1,0 +1,657 @@
+[
+  {
+    "author": [
+      {
+        "given": "Anonymous"
+      }
+    ],
+    "title": "The online auction color chart",
+    "publisher": "Online Auction Color Co",
+    "type": "book",
+    "issued": "2004",
+    "publisher-place": "Palo Alto, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Farook",
+        "given": "V.A."
+      },
+      {
+        "family": "Khan",
+        "given": "S.S."
+      },
+      {
+        "family": "Manimohan",
+        "given": "P."
+      }
+    ],
+    "title": "A checklist of agarics (gilled mushrooms) of Kerala State, India",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Mycosphere",
+    "issued": "2013",
+    "page": "144–163",
+    "URL": "https://doi.org/10.5943/mycosphere/4/1/6",
+    "DOI": "10.5943/mycosphere/4/1/6"
+  },
+  {
+    "author": [
+      {
+        "family": "Fries",
+        "given": "E."
+      }
+    ],
+    "title": "Systema mycologicum",
+    "volume": "1",
+    "publisher": "Gryphiswaldiae, Lund",
+    "type": "book",
+    "issued": "1821",
+    "page": "520"
+  },
+  {
+    "author": [
+      {
+        "family": "Ganga",
+        "given": "K.G.G."
+      },
+      {
+        "family": "Manimohan",
+        "given": "P."
+      }
+    ],
+    "title": "A new species and a new record of Parasola from Kerala State, India",
+    "volume": "369",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "4",
+    "issued": "2018",
+    "page": "260–268",
+    "URL": "https://doi.org/10.11646/phytotaxa.369.4.3",
+    "DOI": "10.11646/phytotaxa.369.4.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Hussain",
+        "given": "S."
+      },
+      {
+        "family": "Afshan",
+        "given": "N.S."
+      },
+      {
+        "family": "Ahamad",
+        "given": "H."
+      }
+    ],
+    "title": "First record of Parasola lilatincta from Pakistan",
+    "volume": "131",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issue": "2",
+    "issued": "2016",
+    "page": "317–323",
+    "URL": "https://doi.org/10.5248/131.317",
+    "DOI": "10.5248/131.317"
+  },
+  {
+    "author": [
+      {
+        "family": "Hussain",
+        "given": "S."
+      },
+      {
+        "family": "Afshan",
+        "given": "N.S."
+      },
+      {
+        "family": "Ahamad",
+        "given": "H."
+      },
+      {
+        "family": "Khalid",
+        "given": "A.S."
+      },
+      {
+        "family": "Niazi",
+        "given": "A.R."
+      }
+    ],
+    "title": "Parasola malakandensis sp",
+    "producer": [
+      {
+        "given": "nov"
+      }
+    ],
+    "volume": "58",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issue": "2",
+    "issued": "2017",
+    "page": "69–76",
+    "URL": "https://doi.org/10.1016/j.myc.2016.09.002",
+    "DOI": "10.1016/j.myc.2016.09.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Hussain",
+        "given": "S."
+      },
+      {
+        "family": "Ahmad",
+        "given": "H."
+      },
+      {
+        "family": "Ullah",
+        "given": "S."
+      },
+      {
+        "family": "Afshan",
+        "given": "N."
+      },
+      {
+        "family": "Pfister",
+        "given": "D.H."
+      },
+      {
+        "family": "Sher",
+        "given": "H."
+      },
+      {
+        "family": "Ali",
+        "given": "H."
+      },
+      {
+        "family": "Khalid",
+        "given": "A.N."
+      }
+    ],
+    "title": "The genus Parasola in Pakistan with the description of two new species",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "MycoKeys",
+    "issued": "2018",
+    "page": "41–60",
+    "URL": "https://doi.org/10.3897/mycokeys.30.21430",
+    "DOI": "10.3897/mycokeys.30.21430"
+  },
+  {
+    "author": [
+      {
+        "family": "Izumitsu",
+        "given": "K."
+      },
+      {
+        "family": "Hatoh",
+        "given": "K."
+      },
+      {
+        "family": "Sumita",
+        "given": "T."
+      },
+      {
+        "family": "Kitade",
+        "given": "Y."
+      },
+      {
+        "family": "Morita",
+        "given": "A."
+      },
+      {
+        "family": "Gafur",
+        "given": "A."
+      },
+      {
+        "family": "Ohta",
+        "given": "A."
+      },
+      {
+        "family": "Kawai",
+        "given": "M."
+      },
+      {
+        "family": "Yamanaka",
+        "given": "T."
+      },
+      {
+        "family": "Neda",
+        "given": "H."
+      },
+      {
+        "family": "Ota",
+        "given": "Y."
+      },
+      {
+        "family": "Tanaka",
+        "given": "C."
+      }
+    ],
+    "title": "Rapid and simple preparation of mushroom DNA directly from colonies and fruiting bodies for PCR",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2012",
+    "page": "396–401",
+    "URL": "https://doi.org/10.1007/S10267-012-0182-3",
+    "DOI": "10.1007/S10267-012-0182-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Waveren",
+        "given": "E.",
+        "particle": "Kits van"
+      }
+    ],
+    "title": "The Dutch, French and British species of Psathyrella",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Persoonia Supplement",
+    "issued": "1985",
+    "page": "1–300"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of colour",
+    "edition": "3rd",
+    "type": null,
+    "issued": "1978",
+    "page": "252",
+    "publisher-place": "Methuen, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "A."
+      }
+    ],
+    "title": "AliView: a fast and lightweight viewer and editor for large data sets",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2014",
+    "page": "3276–3278",
+    "URL": "https://doi.org/10.1093/bioinformatics/btu531",
+    "DOI": "10.1093/bioinformatics/btu531"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Örstadius",
+        "given": "L."
+      }
+    ],
+    "title": "Fourteen coprophilous species of Psathyrella identified in the Nordic countries using morphology and nuclear rDNA sequence data",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2008",
+    "page": "1165–1185",
+    "URL": "https://doi.org/10.1016/j.mycres.2008.04.003",
+    "DOI": "10.1016/j.mycres.2008.04.003"
+  },
+  {
+    "author": [
+      {
+        "family": "Latha",
+        "given": "K.P.D."
+      },
+      {
+        "family": "Manimohan",
+        "given": "P."
+      }
+    ],
+    "title": "A new species of Hygrocybe from Kerala State, India",
+    "volume": "385",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2018",
+    "page": "013–022",
+    "URL": "https://doi.org/10.11646/phytotaxa.385.1.2",
+    "DOI": "10.11646/phytotaxa.385.1.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Manjula",
+        "given": "B."
+      }
+    ],
+    "title": "A revised list of the agaricoid and boletoid basidiomycetes from India and Nepal",
+    "container-title": "Proceedings of the Indian Academy of Sciences (Plant Sciences",
+    "volume": "92",
+    "type": "paper-conference",
+    "issued": "1983",
+    "page": "81–213"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "publisher": "Institute of Electrical and Electronics Engineers",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans, LA",
+    "URL": "https://doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Nagy",
+        "given": "L.G."
+      },
+      {
+        "family": "Kocsube",
+        "given": "S."
+      },
+      {
+        "family": "Papp",
+        "given": "T."
+      },
+      {
+        "family": "Vagvolgyi",
+        "given": "C."
+      }
+    ],
+    "title": "Phylogeny and character evolution of the coprinoid mushroom genus Parasola as inferred from LSU and ITS nrDNA sequence data",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2009",
+    "page": "28–37",
+    "URL": "https://doi.org/10.3767/003158509X422434",
+    "DOI": "10.3767/003158509X422434"
+  },
+  {
+    "author": [
+      {
+        "family": "Natarajan",
+        "given": "K."
+      },
+      {
+        "family": "Raman",
+        "given": "N."
+      }
+    ],
+    "title": "South Indian Agaricales",
+    "volume": "Germany",
+    "type": "article-journal",
+    "container-title": "J. Cramer, Vaduz",
+    "issued": "1983",
+    "page": "203"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearson",
+        "given": "A.A."
+      },
+      {
+        "family": "Dennis",
+        "given": "R.W.G."
+      }
+    ],
+    "title": "Revised list of British agarics and boleti",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issue": "3–4",
+    "issued": "1948",
+    "page": "145–190",
+    "URL": "https://doi.org/10.1016/S0007-1536(48)80001-X",
+    "DOI": "10.1016/S0007-1536(48)80001-X"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "A preliminary Agaric flora of East Africa",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin Additional Series",
+    "issued": "1977",
+    "page": "1–615"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "FigTree 1.4.2 software. Institute of Evolutionary Biology, Univ",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Edinburgh",
+    "issued": "2014",
+    "URL": "http://tree.bio.ed.ac.uk/software/figtree/"
+  },
+  {
+    "author": [
+      {
+        "family": "Redhead",
+        "given": "S.A."
+      },
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.-M."
+      },
+      {
+        "family": "Johnson",
+        "given": "J."
+      },
+      {
+        "family": "Hopple",
+        "given": "J.S.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "Coprinus Pers. and the disposition of Coprinus species sensu lato",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2001",
+    "page": "203–241",
+    "URL": "https://doi.org/10.2307/1224525",
+    "DOI": "10.2307/1224525"
+  },
+  {
+    "author": [
+      {
+        "family": "Schafer",
+        "given": "D.J."
+      }
+    ],
+    "title": "The genus Parasola in Britain including Parasola cuniculorum sp. nov",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Field Mycology",
+    "issue": "3",
+    "issued": "2014",
+    "page": "77–99",
+    "URL": "https://doi.org/10.1016/j.fldmyc.2014.06.004",
+    "DOI": "10.1016/j.fldmyc.2014.06.004"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.H."
+      }
+    ],
+    "title": "The North American species of Psathyrella",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1972",
+    "page": "1–633"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML Version 8: A tool for Phylogenetic Analysis and Post-Analysis of Large Phylogenies",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issue": "9",
+    "issued": "2014",
+    "page": "1312–1313",
+    "URL": "https://doi.org/10.1093/bioinformatics/btu033",
+    "DOI": "10.1093/bioinformatics/btu033"
+  },
+  {
+    "author": [
+      {
+        "family": "Szarkándi",
+        "given": "J.G."
+      },
+      {
+        "family": "Schmidt-Stohn",
+        "given": "G."
+      },
+      {
+        "family": "Dima",
+        "given": "B."
+      },
+      {
+        "family": "Hussain",
+        "given": "S."
+      },
+      {
+        "family": "Kocsubé",
+        "given": "S."
+      },
+      {
+        "family": "Papp",
+        "given": "T."
+      },
+      {
+        "family": "Vágvölgyi",
+        "given": "C."
+      },
+      {
+        "family": "Nagy",
+        "given": "L.G."
+      }
+    ],
+    "title": "The genus Parasola: phylogeny and the description of three new species",
+    "volume": "109",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "4",
+    "issued": "2017",
+    "page": "640–629",
+    "URL": "https://doi.org/10.1080/00275514.2017.1386526",
+    "DOI": "10.1080/00275514.2017.1386526"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246",
+    "URL": "https://doi.org/10.1128/jb.172.8.4238-4246.1990",
+    "DOI": "10.1128/jb.172.8.4238-4246.1990"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR Protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego, California",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "author": [
+      {
+        "family": "Beentje",
+        "given": "H."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      },
+      {
+        "family": "Hind",
+        "given": "D.J.N."
+      }
+    ],
+    "title": "Compositae (Part 3",
+    "editor": [
+      {
+        "family": "Beentje",
+        "given": "H.J."
+      },
+      {
+        "family": "Ghazanfar",
+        "given": "S.A."
+      }
+    ],
+    "container-title": "Flora of Tropical East Africa. Royal Botanic Gardens, Kew",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "547–870"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H."
+      }
+    ],
+    "title": "Apercu des Genres nouveaux, formes par M. Henri Cassini dans la famille des synthérées",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "Quatriéme fascicule. Bulletin des Sciences, par la Société Philomathique",
+    "issue": "1817",
+    "issued": "1817",
+    "page": "66–70"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "title": "The Senecioneae in East tropical Africa",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1986",
+    "page": "873–943",
+    "URL": "https://doi.org/10.2307/4102988",
+    "DOI": "10.2307/4102988"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      }
+    ],
+    "title": "Flora van Nederlandsch Indië",
+    "volume": "2",
+    "genre": "Post,",
+    "publisher": "Amsterdam & Post, Utrecht & Fleischer",
+    "issue": "1",
+    "type": null,
+    "issued": "1856",
+    "page": null,
+    "publisher-place": "Leipzig",
+    "URL": "https://doi.org/10.5962/bhl.title.93",
+    "DOI": "10.5962/bhl.title.93"
+  },
+  {
+    "author": [
+      {
+        "family": "Nordenstam",
+        "given": "B."
+      }
+    ],
+    "title": "Tribe Senecioneae",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "container-title": "Kubitzki’s The families and genera of vascular plants",
+    "volume": "8",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "208–241",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "given": "P.O.W.O."
+      }
+    ],
+    "title": "Emilia",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:329398-2#children"
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "author": [
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Mendoza-Cifuentes",
+        "given": "H."
+      },
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Alvear",
+        "given": "M."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Bernal",
+        "given": "R."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Celis",
+        "given": "M."
+      }
+    ],
+    "container-title": "Catálogo de plantas y líquenes de Colombia. Bogotá: Instituto de Ciencias Naturales, Universidad Nacional de Colombia",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2016",
+    "URL": "http://catalogoplantascolombia.unal.edu.co"
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "note": "Version BETA]. Available from:",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "http://geoCAT.kew.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "B.F.G.—The Brazil Flora"
+      }
+    ],
+    "title": "Growing knowledge: an overview of seed plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2015",
+    "page": "1–29",
+    "URL": "https://doi.org/10.1590/2175-7860201566411",
+    "DOI": "10.1590/2175-7860201566411"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamba",
+        "given": "D."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      }
+    ],
+    "title": "Systematics of the Octopleura Clade of Miconia (Melastomataceae: Miconieae) in Tropical America",
+    "volume": "179",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "1 174",
+    "URL": "https://doi.org/10.11646/phytotaxa.179.1.1",
+    "DOI": "10.11646/phytotaxa.179.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Gleason",
+        "given": "H.A."
+      }
+    ],
+    "title": "The genus Clidemia in Mexico and Central America",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "2",
+    "issued": "1939",
+    "page": "97 130",
+    "URL": "https://doi.org/10.2307/2804810",
+    "DOI": "10.2307/2804810"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoyos-Gómez",
+        "given": "S.E."
+      },
+      {
+        "family": "Bernal",
+        "given": "R."
+      }
+    ],
+    "title": "Rheophytes of the Samaná Norte river, Colombia: a hydroelectric project threatens an endemic flora",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Tropical Conservation Science",
+    "issued": "2018",
+    "page": "1 13",
+    "URL": "https://doi.org/10.1177/1940082918756816",
+    "DOI": "10.1177/1940082918756816"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for using the IUCN red list categories and criteria.Version 13",
+    "note": "Prepared by the Standards and Petition Subcommittee.",
+    "type": null,
+    "issued": "2017",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Alvear",
+        "given": "M."
+      },
+      {
+        "family": "Bécquer",
+        "given": "E.R."
+      },
+      {
+        "family": "Burke",
+        "given": "J."
+      },
+      {
+        "family": "Caddah",
+        "given": "M.K."
+      },
+      {
+        "family": "Goldenberg",
+        "given": "R."
+      },
+      {
+        "family": "Ionta",
+        "given": "G.M."
+      },
+      {
+        "family": "Judd",
+        "given": "W.S."
+      },
+      {
+        "family": "Majure",
+        "given": "L.C."
+      },
+      {
+        "family": "Meirelles",
+        "given": "J."
+      },
+      {
+        "family": "Nicolas",
+        "given": "A.N."
+      },
+      {
+        "family": "Ocampo",
+        "given": "G."
+      },
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "Skean",
+        "given": "J.D."
+      },
+      {
+        "family": "Ulloa Ulloa",
+        "given": "C."
+      }
+    ],
+    "note": "2462) Proposal to conserve Miconia, nom. cons. against the additional names Maieta and Tococa (Melastomataceae: Miconieae). Taxon 65 (4): 892−893.",
+    "type": null,
+    "issued": "2016",
+    "URL": "https://doi.org/10.12705/654.27",
+    "DOI": "10.12705/654.27"
+  },
+  {
+    "author": [
+      {
+        "family": "Ocampo",
+        "given": "G."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      }
+    ],
+    "title": "Seed diversity in the Miconieae (Melastomataceae): morphological characterization and phenetic relationships",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2013",
+    "page": "1–129",
+    "URL": "https://doi.org/10.11646/phytotaxa.141.1.1",
+    "DOI": "10.11646/phytotaxa.141.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz",
+        "given": "H."
+      },
+      {
+        "family": "Pavón",
+        "given": "J.A."
+      }
+    ],
+    "title": "Flora Peruviana, et Chilensis Prodromus",
+    "volume": "Madrid",
+    "type": "article-journal",
+    "container-title": "Imprenta de Sancha",
+    "issued": "1794",
+    "page": "67",
+    "URL": "https://doi.org/10.5962/bhl.title.11759",
+    "DOI": "10.5962/bhl.title.11759"
+  },
+  {
+    "author": [
+      {
+        "family": "Schindelin",
+        "given": "J."
+      },
+      {
+        "family": "Arganda-Carreras",
+        "given": "I."
+      },
+      {
+        "family": "Frise",
+        "given": "E."
+      },
+      {
+        "family": "Kaynig",
+        "given": "V."
+      },
+      {
+        "family": "Longair",
+        "given": "M."
+      },
+      {
+        "family": "Pietzsch",
+        "given": "T."
+      },
+      {
+        "family": "Preibisch",
+        "given": "S."
+      },
+      {
+        "family": "Rueden",
+        "given": "C."
+      },
+      {
+        "family": "Saalfeld",
+        "given": "S."
+      },
+      {
+        "family": "Schmid",
+        "given": "B."
+      },
+      {
+        "family": "Tinevez",
+        "given": "J.-Y."
+      },
+      {
+        "family": "White",
+        "given": "D.J."
+      },
+      {
+        "family": "Hartenstein",
+        "given": "V."
+      },
+      {
+        "family": "Eliceiri",
+        "given": "K."
+      },
+      {
+        "family": "Tomancak",
+        "given": "P."
+      },
+      {
+        "family": "Cardona",
+        "given": "A."
+      }
+    ],
+    "title": "Fiji: an open-source platform for biological-image analysis”",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issue": "7",
+    "issued": "2012",
+    "page": "676–682",
+    "URL": "https://doi.org/10.1038/nmeth.2019",
+    "DOI": "10.1038/nmeth.2019"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Atlas of hairs for neotropical Melastomataceae",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Smithsonian Contributions to Botany",
+    "issued": "1986",
+    "page": "1 80",
+    "URL": "https://doi.org/10.5479/si.0081024X.63",
+    "DOI": "10.5479/si.0081024X.63"
+  }
+]

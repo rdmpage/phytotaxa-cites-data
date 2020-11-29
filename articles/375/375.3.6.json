@@ -1,0 +1,919 @@
+[
+  {
+    "author": [
+      {
+        "family": "André",
+        "given": "E.F."
+      }
+    ],
+    "title": "Enumeration des Bromeliacees Recoltees 5",
+    "type": null,
+    "issued": "1888"
+  },
+  {
+    "author": [
+      {
+        "family": "André",
+        "given": "E.F."
+      }
+    ],
+    "title": "Enumeration des Bromeliacees Recoltees 6",
+    "type": null,
+    "issued": "1888"
+  },
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      }
+    ],
+    "title": "Histoire des Plantes de la Guiane Françoise 1",
+    "publisher": "Pierre–François Didot, London & Paris",
+    "type": "book",
+    "issued": "1775",
+    "page": "621"
+  },
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B.C.F."
+      },
+      {
+        "literal": "III. Pentandria. In: Aublet, J.B.C.F."
+      }
+    ],
+    "title": "Histoire des Plantes de la Guiane Françoise 2",
+    "publisher": "Pierre François Didot",
+    "type": "book",
+    "issued": "1775",
+    "page": "828–833",
+    "publisher-place": "London & Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Baquero",
+        "given": "L.E."
+      },
+      {
+        "family": "Zuchan",
+        "given": "K."
+      }
+    ],
+    "title": "Platystele pamelae (Orchidaceae: Pleurothallidinae), a new species from Ecuador",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2017",
+    "page": "245–50",
+    "URL": "https://doi.org/10.15517/lank.v17i1.28269",
+    "DOI": "10.15517/lank.v17i1.28269"
+  },
+  {
+    "author": [
+      {
+        "family": "Betancur",
+        "given": "J."
+      },
+      {
+        "family": "Sarmiento",
+        "given": "L.H."
+      },
+      {
+        "family": "Toro-González",
+        "given": "L."
+      },
+      {
+        "family": "Valencia",
+        "given": "J."
+      }
+    ],
+    "title": "Plan para el estudio y la conservación de las orquídeas en Colombia",
+    "volume": "D",
+    "type": "article-journal",
+    "container-title": "Ministerio de Ambiente y Desarrollo Sostenible; Universidad Nacional de Colombia",
+    "issue": "C.",
+    "issued": "2015",
+    "page": "336"
+  },
+  {
+    "author": [
+      {
+        "family": "Burret",
+        "given": "M."
+      }
+    ],
+    "title": "Geonomae americanae. Botanische Jahrbücher für Systematik",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1930",
+    "page": "123–270"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Rubiaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "given": "A.P.",
+        "particle": "de"
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "4",
+    "publisher": "Prodr. Treuttel & Würtz",
+    "type": "chapter",
+    "issued": "1830",
+    "page": "341–622",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuatrecasas",
+        "given": "J."
+      }
+    ],
+    "title": "Notas a la Flora de Colombia—VII",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales",
+    "issued": "1945",
+    "page": "274–299"
+  },
+  {
+    "author": [
+      {
+        "family": "Dwyer",
+        "given": "J.D."
+      }
+    ],
+    "title": "Flora of Panama, part IX. Family 179. Rubiaceae - part 2",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1980",
+    "page": "257–522",
+    "URL": "https://doi.org/10.2307/2398901",
+    "DOI": "10.2307/2398901"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      }
+    ],
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issue": "2",
+    "issued": "1878",
+    "page": "78"
+  },
+  {
+    "author": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      }
+    ],
+    "title": "Botanische Jahrbücher für Systematik",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1898",
+    "page": "388"
+  },
+  {
+    "author": [
+      {
+        "family": "Conservancy-CVC",
+        "given": "Fondo Acción—The Nature"
+      }
+    ],
+    "title": "Diagnostico Distrito de conservación de Suelos Cañon de Río Grande",
+    "type": null,
+    "issued": "2013",
+    "page": "509",
+    "publisher-place": "Santiago de Cali"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "A.H."
+      }
+    ],
+    "title": "Patterns of neotropical plant species diversity",
+    "container-title": "Evolutionary biology",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "1982",
+    "page": "1–84",
+    "publisher-place": "Boston",
+    "URL": "https://doi.org/10.1007/978-1-4615-6968-8_1",
+    "DOI": "10.1007/978-1-4615-6968-8_1"
+  },
+  {
+    "author": [
+      {
+        "family": "Goudot",
+        "given": "J.P."
+      }
+    ],
+    "title": "Comptes Rendus Hebdomadaires des Séances de l’Académie des Sciences",
+    "volume": "18",
+    "type": null,
+    "issued": "1844",
+    "page": "260"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Ueber die von Fendler in Venezuela gesammelten Bromeliaceen",
+    "container-title": "Nachrichten von der Königlichen Gesellschaft der Wissenschaften und von der Georg-Augusts-Universität",
+    "volume": "1",
+    "type": "chapter",
+    "issued": "1864",
+    "page": "17"
+  },
+  {
+    "author": [
+      {
+        "family": "Holdridge",
+        "given": "L."
+      }
+    ],
+    "title": "Ecología basada en zonas de vida",
+    "publisher": "IICA. San José. Costa Rica",
+    "type": "book",
+    "issued": "1987",
+    "page": "216"
+  },
+  {
+    "author": [
+      {
+        "family": "Jost",
+        "given": "L."
+      },
+      {
+        "family": "Iturralde",
+        "given": "G."
+      }
+    ],
+    "title": "A showy new Platystele (Pleurothallidinae: Orchidaceae",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "from Northwest Ecuador. Lankesteriana",
+    "issued": "2017",
+    "page": "55–60",
+    "URL": "https://doi.org/10.15517/lank.v17i1.28479",
+    "DOI": "10.15517/lank.v17i1.28479"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacquin",
+        "given": "N.J."
+      }
+    ],
+    "title": "Plantarum Rariorum Horti Caesarei Schoenbrunnensis",
+    "volume": "2",
+    "type": null,
+    "issued": "1797",
+    "page": "1–68"
+  },
+  {
+    "author": [
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      }
+    ],
+    "title": "Genera Pleurothallidinarum: an updated phylogenetic overview of Pleurothallidinae",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Lankesterian",
+    "issued": "2016",
+    "page": "219–241",
+    "URL": "https://doi.org/10.15517/lank.v16i2.26008",
+    "DOI": "10.15517/lank.v16i2.26008"
+  },
+  {
+    "author": [
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      },
+      {
+        "family": "Albetazzi",
+        "given": "F.J."
+      },
+      {
+        "family": "Bakker",
+        "given": "F.T."
+      },
+      {
+        "family": "Bogarín",
+        "given": "D."
+      },
+      {
+        "family": "Eurlings",
+        "given": "M.C.M."
+      },
+      {
+        "family": "Pridgeon",
+        "given": "A."
+      },
+      {
+        "family": "Pupulin",
+        "given": "F."
+      },
+      {
+        "family": "Gravendeel",
+        "given": "B."
+      }
+    ],
+    "title": "Phylogenetic reassessment of Specklinia and its allied genera in the Pleurothallidinae (Orchidaceae",
+    "volume": "272",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "1–36",
+    "URL": "https://doi.org/10.11646/phytotaxa.272.1.1",
+    "DOI": "10.11646/phytotaxa.272.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      },
+      {
+        "family": "Bogarín",
+        "given": "D."
+      }
+    ],
+    "title": "Two novelties in Platystele (Ochidaceae: Pleurothallidinae) from Costa Rica",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2017",
+    "page": "215–221",
+    "URL": "https://doi.org/10.15517/lank.v17i2.30044",
+    "DOI": "10.15517/lank.v17i2.30044"
+  },
+  {
+    "author": [
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      },
+      {
+        "family": "Davín",
+        "given": "N."
+      }
+    ],
+    "title": "Genera Pleurothallidinarum: The Era of Carl Luer",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2017",
+    "page": "–",
+    "URL": "https://doi.org/10.15517/lank.v17i2.30273",
+    "DOI": "10.15517/lank.v17i2.30273"
+  },
+  {
+    "author": [
+      {
+        "family": "Karsten",
+        "given": "G.K.W.H."
+      }
+    ],
+    "title": "Plantae columbianae",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1857",
+    "page": "391"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "K.S."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum",
+    "edition": "quarto",
+    "volume": "7",
+    "type": null,
+    "issued": "1825",
+    "page": "165–166"
+  },
+  {
+    "author": [
+      {
+        "family": "Leopardi",
+        "given": "C.L."
+      },
+      {
+        "family": "Reina-Rodriguez",
+        "given": "G.A."
+      },
+      {
+        "family": "Carnevali",
+        "given": "G."
+      },
+      {
+        "family": "Romero-González",
+        "given": "G.A."
+      }
+    ],
+    "title": "Two new greenish Encyclia",
+    "editor": [
+      {
+        "family": "parkeri",
+        "given": "E."
+      },
+      {
+        "family": "silverarum",
+        "given": "E."
+      }
+    ],
+    "volume": "183",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2014",
+    "page": "159–170",
+    "URL": "https://doi.org/10.11646/phytotaxa.183.3.3",
+    "DOI": "10.11646/phytotaxa.183.3.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum VII. Systematics of Platystele",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "1990",
+    "page": "46–47"
+  },
+  {
+    "author": [
+      {
+        "family": "Luer",
+        "given": "C.A."
+      }
+    ],
+    "title": "Icones Pleurothallidinarum VII. Systematics of Lepaanthopsis, Octomeria Subgenus Pleurothallopsis, Restrepiella, Restrepiopsis, Salpistele, and Teagueia (Orchidaceae",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "1991",
+    "page": "105–113"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindley",
+        "given": "J."
+      }
+    ],
+    "title": "The Genera and Species of Orchidaceous Plants 8",
+    "type": null,
+    "issued": "1830"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Species Plantarum",
+    "issued": "1753",
+    "page": "1–560"
+  },
+  {
+    "author": [
+      {
+        "family": "Mez",
+        "given": "C."
+      }
+    ],
+    "title": "Bromeliaceae",
+    "editor": [
+      {
+        "family": "Candolle",
+        "particle": "de"
+      }
+    ],
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "C. Monographiae Phanerogamarum",
+    "issued": "1896",
+    "page": "1–990"
+  },
+  {
+    "author": [
+      {
+        "family": "Miquel",
+        "given": "F.A.W."
+      },
+      {
+        "family": "Seemann",
+        "given": "B.C."
+      }
+    ],
+    "title": "1854’) Piperaceae",
+    "volume": "197–200",
+    "type": "article-journal",
+    "container-title": "In",
+    "issued": "1852",
+    "page": "37–42"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "H.E."
+      }
+    ],
+    "title": "Some nomenclatural matters: Prestoea and Sabal",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Gentes Herbarum; Occasional Papers on the Kinds of Plants",
+    "issued": "1963",
+    "page": "286–287"
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "A."
+      }
+    ],
+    "title": "Hieronyma oblonga (Tulasne) Müller",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1865",
+    "page": "66"
+  },
+  {
+    "author": [
+      {
+        "family": "Oersted",
+        "given": "A.S."
+      }
+    ],
+    "title": "Palmae centroamericanae",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening i Kjøbenhavn",
+    "issued": "1858",
+    "page": "1–54"
+  },
+  {
+    "author": [
+      {
+        "family": "World Online",
+        "given": "Plants",
+        "particle": "of the"
+      }
+    ],
+    "note": "Published on the Internet:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.plantsoftheworldonline.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfitzer",
+        "given": "E."
+      }
+    ],
+    "title": "Orchidaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "volume": "6",
+    "publisher": "Abteilung. Engelmann",
+    "type": "article-journal",
+    "container-title": "Teil",
+    "issued": "1889",
+    "page": "136–139",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Reina-Rodríguez",
+        "given": "G.A."
+      },
+      {
+        "family": "Rubiano",
+        "given": "J."
+      },
+      {
+        "family": "Castro",
+        "given": "F.A."
+      },
+      {
+        "family": "Soriano",
+        "given": "I."
+      }
+    ],
+    "title": "Orchids distribution and bioclimatic niches as a strategy to climate change in areas of tropical dry forest in Colombia",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Lankesteriana",
+    "issued": "2017",
+    "page": "17–47",
+    "URL": "https://doi.org/10.15517/lank.v17i1.27999",
+    "DOI": "10.15517/lank.v17i1.27999"
+  },
+  {
+    "author": [
+      {
+        "family": "Rusby",
+        "given": "H.H."
+      }
+    ],
+    "title": "An enumeration of the plants collected in Bolivia by Miguel Bang, IV",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Bulletin of the New York Botanical Garden",
+    "issued": "1907",
+    "page": "309–470"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz",
+        "given": "H."
+      },
+      {
+        "family": "Pavón",
+        "given": "J.A."
+      }
+    ],
+    "title": "Flora Peruviana",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "et Chilensis",
+    "issued": "1799",
+    "page": "54,"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "F.R."
+      }
+    ],
+    "title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "volume": "8",
+    "issue": "191–195",
+    "type": null,
+    "issued": "1910",
+    "page": "565"
+  },
+  {
+    "author": [
+      {
+        "family": "Schott",
+        "given": "H.W."
+      }
+    ],
+    "title": "Wiener Zeitschrift für Kunst, Litteratur",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Theater und Mode",
+    "issued": "1830",
+    "page": "1028"
+  },
+  {
+    "author": [
+      {
+        "family": "Schott",
+        "given": "H.W."
+      }
+    ],
+    "title": "Synopsis Aroidearum : complectens enumerationem systematicam generum et specierum hujus ordinis",
+    "volume": "I",
+    "type": null,
+    "issued": "1856",
+    "page": "85"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "L.B."
+      }
+    ],
+    "title": "Studies in Bromeliaceae",
+    "volume": "104",
+    "type": "article-journal",
+    "container-title": "Contributions from the Gray Herbarium of Harvard University",
+    "issued": "1934",
+    "page": "71–82"
+  },
+  {
+    "author": [
+      {
+        "family": "Standley",
+        "given": "P.C."
+      }
+    ],
+    "title": "Poulsenia, a genus of trees of the family Moraceae Tropical Woods",
+    "volume": "33",
+    "type": null,
+    "issued": "1933",
+    "page": "4–5"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "C.M."
+      }
+    ],
+    "title": "Rubiaceae-Coussareeae. 62",
+    "editor": [
+      {
+        "family": "Harling",
+        "given": "G.W."
+      },
+      {
+        "family": "Andersson",
+        "given": "L."
+      }
+    ],
+    "container-title": "Flora of Ecuador",
+    "publisher": "University of Göteborg, Göteborg",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "245–314"
+  },
+  {
+    "author": [
+      {
+        "family": "Tulasne",
+        "given": "L.R.E."
+      }
+    ],
+    "title": "Annales des Sciences Naturelles",
+    "volume": "3, 15",
+    "type": "article-journal",
+    "container-title": "Botanique Sér",
+    "issued": "1851",
+    "page": "248"
+  },
+  {
+    "author": [
+      {
+        "family": "Velázquez",
+        "given": "A.R."
+      },
+      {
+        "family": "Triana-Gómez",
+        "given": "M.A."
+      },
+      {
+        "family": "Burgos",
+        "given": "J.D."
+      }
+    ],
+    "title": "Caracterización florística y estructural de la vegetación en claros de la parcela permanente de 25 ha en la reserva natural La Planada (Nariño",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Colombia Forestal",
+    "issued": "2006",
+    "page": "5–29"
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.N.I."
+      }
+    ],
+    "title": "The International Plant Names Index",
+    "note": "Published on the Internet:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.ipni.org"
+  },
+  {
+    "author": [
+      {
+        "given": "U.I.C.N."
+      }
+    ],
+    "title": "Categorías y Criterios de la Lista Roja de la UICN: Versión 3.1. Segunda edición",
+    "publisher": "UICN",
+    "volume": "vi +",
+    "type": "book",
+    "issued": "2012",
+    "page": "34",
+    "publisher-place": "Gland, Suiza y Cambridge, Reino Unido"
+  },
+  {
+    "author": [
+      {
+        "family": "Vieira-Uribe",
+        "given": "S."
+      },
+      {
+        "family": "Karremans",
+        "given": "A.P."
+      }
+    ],
+    "title": "Platystele colombiana",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Species Orchidacearum",
+    "issue": "1",
+    "issued": "2017",
+    "page": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Vigo",
+        "given": "J."
+      }
+    ],
+    "title": "Some reflections on geobotany and vegetation mapping",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Acta Botánica Barcinonensia",
+    "issued": "1998",
+    "page": "535–556"
+  },
+  {
+    "author": [
+      {
+        "family": "Weddell",
+        "given": "H.A."
+      }
+    ],
+    "title": "Histoire Naturelle des Quinquinas",
+    "type": null,
+    "issued": "1849",
+    "page": "94"
+  },
+  {
+    "author": [
+      {
+        "family": "Wendland",
+        "given": "H.A."
+      }
+    ],
+    "publisher": "Les Palmiers",
+    "type": "book",
+    "issued": "1878",
+    "page": "230"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Mémoires de l’Académie Royale des Sciences et Belles-Lettres depuis l’Avénement de Fréderic Guillaume II au Thrône 1804",
+    "type": null,
+    "issued": "1804",
+    "page": "35"
+  }
+]

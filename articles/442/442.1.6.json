@@ -1,0 +1,429 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bernardi",
+        "given": "L."
+      }
+    ],
+    "title": "Tentamen revisionis generis Ferulago",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Boissiera",
+    "issued": "1979",
+    "page": "9–182"
+  },
+  {
+    "author": [
+      {
+        "family": "Besser",
+        "given": "W.S."
+      }
+    ],
+    "title": "Enumeratio plantarum hucusque in Volhynia, Podolia, Gub",
+    "type": "article-journal",
+    "container-title": "Kiioviensi... Vilnae, typus Josephi Zawadski",
+    "issued": "1822",
+    "page": "111"
+  },
+  {
+    "author": [
+      {
+        "family": "Cannon",
+        "given": "J.F.M."
+      }
+    ],
+    "title": "Ferulago Koch",
+    "container-title": "TTutin, T.G",
+    "editor": [
+      {
+        "family": "Walters",
+        "given": "S.M."
+      },
+      {
+        "family": "Webb",
+        "given": "D.A."
+      }
+    ],
+    "volume": "2",
+    "publisher": "Cambridge University Press",
+    "type": "chapter",
+    "issued": "1968",
+    "page": "359–360",
+    "publisher-place": "Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H"
+  },
+  {
+    "author": [
+      {
+        "family": "Czerepanov",
+        "given": "S.K."
+      }
+    ],
+    "title": "Ferulago Koch",
+    "editor": [
+      {
+        "family": "Czerepanov",
+        "given": "S.K."
+      }
+    ],
+    "container-title": "Plantae Vasculares URSS",
+    "publisher": "Nauka",
+    "type": "chapter",
+    "issued": "1981",
+    "page": "21",
+    "publisher-place": "Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "database",
+        "given": "G.B.I.F."
+      }
+    ],
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "https://www.gbif.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Grecescu",
+        "given": "D."
+      }
+    ],
+    "title": "Conspectul florei României",
+    "publisher": "Tipographia Dreptatea",
+    "type": "book",
+    "issued": "1898",
+    "page": "835",
+    "publisher-place": "Bucuresti"
+  },
+  {
+    "author": [
+      {
+        "family": "Hand",
+        "given": "R."
+      }
+    ],
+    "title": "The Euro Med treatment of Apiaceae",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Willdenowia",
+    "issue": "2",
+    "issued": "2011",
+    "page": "245–250",
+    "URL": "https://doi.org/10.3372/wi.41.41205",
+    "DOI": "10.3372/wi.41.41205"
+  },
+  {
+    "author": [
+      {
+        "family": "Jarvis",
+        "given": "C.E."
+      },
+      {
+        "family": "Reduron",
+        "given": "J.P."
+      },
+      {
+        "family": "Spencer",
+        "given": "M.A."
+      },
+      {
+        "family": "Cafferty",
+        "given": "S."
+      }
+    ],
+    "title": "Typification of Linnaean plant names in Apiaceae",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "1",
+    "issued": "2006",
+    "page": "207–216",
+    "URL": "https://doi.org/10.2307/25065544",
+    "DOI": "10.2307/25065544"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "K."
+      }
+    ],
+    "title": "Catalogus plantarum, quas in itinere per Caucasum, Georgiam Armeniamque a. 1836 et 37, collegit Dr",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "C. Koch. Linnaea",
+    "issue": "4",
+    "issued": "1842",
+    "page": "347–366"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "W.D.J."
+      }
+    ],
+    "title": "Synopsis Florae Germanicae et Helveticae",
+    "publisher": "sumptibus Friederici Wilmans",
+    "type": "book",
+    "issued": "1835",
+    "page": "844",
+    "publisher-place": "Frankfurt"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum ed",
+    "volume": "1, vol. 1",
+    "publisher": "Impensis Laurentii Salvii, Holmiae",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "L’Obel’",
+        "given": "M."
+      }
+    ],
+    "title": "Plantarum seu stirpium historia",
+    "type": "article-journal",
+    "container-title": "Antverpiae, Ex officina Christophori Plantini",
+    "issued": "1576",
+    "page": "671",
+    "URL": "https://doi.org/10.5962/bhl.title.149138",
+    "DOI": "10.5962/bhl.title.149138"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The Gardeners Dictionary",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "volume": "8, vol. 2",
+    "note": "Printed for the author, London, no pagination.",
+    "type": null,
+    "issued": "1768"
+  },
+  {
+    "author": [
+      {
+        "family": "Peşmen",
+        "given": "H."
+      }
+    ],
+    "title": "Ferulago W.Koch",
+    "editor": [
+      {
+        "family": "Davis",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of Turkey and the east Aegean Islands",
+    "volume": "4",
+    "publisher": "Edinburgh University Press",
+    "type": "chapter",
+    "issued": "1972",
+    "page": "453–471"
+  },
+  {
+    "author": [
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      },
+      {
+        "family": "Ostroumova",
+        "given": "T.A."
+      }
+    ],
+    "title": "Umbelliferae of Russia",
+    "publisher": "Association of Scientific Publications",
+    "note": "in Russian",
+    "type": null,
+    "issued": "2012",
+    "page": "477",
+    "publisher-place": "Moscow"
+  },
+  {
+    "author": [
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      },
+      {
+        "family": "Tomkovich",
+        "given": "L.P."
+      }
+    ],
+    "title": "Lectotypification of the genus Ferulago Koch (Umbelliferae",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "4",
+    "issued": "1979",
+    "page": "409–411",
+    "URL": "https://doi.org/10.1002/j.1996-8175.1979.tb00532.x",
+    "DOI": "10.1002/j.1996-8175.1979.tb00532.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Schischkin",
+        "given": "B.K."
+      }
+    ],
+    "title": "Ferulago Koch",
+    "editor": [
+      {
+        "family": "Schischkin",
+        "given": "B.K."
+      }
+    ],
+    "container-title": "Flora of URSS",
+    "volume": "17",
+    "publisher": "Nauka",
+    "type": "chapter",
+    "issued": "1951",
+    "page": "149–155",
+    "publisher-place": "Moscow & Leningrad"
+  },
+  {
+    "author": [
+      {
+        "family": "Seregin",
+        "given": "A.P."
+      }
+    ],
+    "title": "Moscow Digital Herbarium: Electronic resource",
+    "publisher": "Moscow State University",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "publisher-place": "Moscow",
+    "URL": "https://plant.depo.msu.ru/"
+  },
+  {
+    "title": "The Plant List (2013 onwards) The Plant List",
+    "genre": "Version 1.1.",
+    "note": "Available from:",
+    "type": null,
+    "URL": "http://www.theplantlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Tomkovich",
+        "given": "L.P."
+      },
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      }
+    ],
+    "title": "Polythetic classification of species of the genus Ferulago (Umbelliferae",
+    "volume": "72",
+    "note": "in Russian",
+    "type": "article-journal",
+    "container-title": "Botanicheskii zhurnal",
+    "issue": "7",
+    "issued": "1987",
+    "page": "964–971"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "publisher": "Koeltz Botanical Books",
+    "type": "chapter",
+    "issued": "2018",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  }
+]

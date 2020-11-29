@@ -1,0 +1,102 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bennett",
+        "given": "A.W."
+      }
+    ],
+    "title": "Polygaleae",
+    "editor": [
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "container-title": "Flora brasiliensis 13",
+    "publisher": "F. Fleischer",
+    "type": "chapter",
+    "issued": "1874",
+    "page": "3",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "given": "B.F.G."
+      }
+    ],
+    "title": "Growing knowledge: an overview of seed plant diversity in Brazil",
+    "volume": "66",
+    "type": "article-journal",
+    "container-title": "Rodriguésia",
+    "issued": "2015",
+    "page": "1085–1113",
+    "URL": "https://doi.org/10.1590/2175-7860201566411",
+    "DOI": "10.1590/2175-7860201566411"
+  },
+  {
+    "author": [
+      {
+        "family": "Chodat",
+        "given": "R.H."
+      }
+    ],
+    "title": "Polygalaceæ novæ vel parum cognitæ",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Bulletin de l’Herbier Boissier",
+    "issued": "1894",
+    "page": "167–174"
+  },
+  {
+    "author": [
+      {
+        "family": "Marques",
+        "given": "M.C.M."
+      }
+    ],
+    "title": "Revisão das espécies do gênero Bredemeyera Willd",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Polygalaceae) do Brasil. Rodriguésia",
+    "issued": "1980",
+    "page": "269–321",
+    "URL": "https://doi.org/10.1590/2175-78601980325416",
+    "DOI": "10.1590/2175-78601980325416"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Bredemeyera hebeclada, a new combination in Polygalaceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2010",
+    "page": "314–316",
+    "URL": "https://doi.org/10.3417/2008135",
+    "DOI": "10.3417/2008135"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Drei neue Pflanzen-Gattungen",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Neue Schriften der Gesellschaft Naturforschender Freunde zu Berlin",
+    "issued": "1801",
+    "page": "403–412"
+  }
+]

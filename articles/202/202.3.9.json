@@ -1,0 +1,135 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abromeit",
+        "given": "J."
+      },
+      {
+        "family": "Neuhoff",
+        "given": "W."
+      },
+      {
+        "family": "Steffen",
+        "given": "H."
+      }
+    ],
+    "title": "Flora von Ost‐ und Westpreussen",
+    "publisher": "Komissionsverlag Gräfe und Unzer",
+    "type": "book",
+    "issued": "1898",
+    "page": null,
+    "publisher-place": "Berlin, Königsberg"
+  },
+  {
+    "author": [
+      {
+        "family": "Abromeit",
+        "given": "J."
+      }
+    ],
+    "title": "Biographische Mitteilungen über Grütter",
+    "volume": "1896",
+    "type": "article-journal",
+    "container-title": "Jahres‐Bericht des Preussischen Botanischen Vereins",
+    "issue": "1897",
+    "issued": "1897",
+    "page": "74–76"
+  },
+  {
+    "author": [
+      {
+        "family": "Grütter",
+        "given": "M."
+      }
+    ],
+    "title": "Neue botanische Beobachtungen in Westpreussen in den Jahren 1890 und 1891",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Deutsche botanische Monatsschrift",
+    "issued": "1892",
+    "page": "67–70"
+  },
+  {
+    "author": [
+      {
+        "family": "Grütter",
+        "given": "M."
+      }
+    ],
+    "title": "Die Flora des Kreise Schwetz in Westpreussen",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Deutsche botanische Monatsschrift",
+    "issued": "1895",
+    "page": "9–11"
+  },
+  {
+    "author": [
+      {
+        "family": "Grütter",
+        "given": "M."
+      }
+    ],
+    "title": "Die Flora des Kreise Schwetz in Westpreussen",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Deutsche botanische Monatsschrift",
+    "issued": "1895",
+    "page": "76–78"
+  },
+  {
+    "author": [
+      {
+        "family": "Grütter",
+        "given": "M."
+      }
+    ],
+    "title": "Beiträge zur Moosflora des Kreises Schwetz",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Bericht des Westpreussischen Botanisch-Zoologischen Vereins",
+    "issued": "1895",
+    "page": "397–407"
+  },
+  {
+    "author": [
+      {
+        "family": "Grütter",
+        "given": "M."
+      }
+    ],
+    "title": "Beitrag zur Kenntnis der Flora des Kreise Oletzko und Goldap",
+    "container-title": "Schriften der Physikalisch-Ökonomischen Gesellschaft zu Königsberg in Preussen",
+    "volume": "38",
+    "type": "chapter",
+    "issued": "1897",
+    "page": "48–51"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Laurentii Salvii, Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 2",
+    "type": null,
+    "issued": "1753",
+    "page": "561–1200",
+    "publisher-place": "Laurentii Salvii, Stockholm"
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aublet",
+        "given": "J.B."
+      }
+    ],
+    "title": "Histoire des Plantes de la Guiane Françoise",
+    "volume": "1",
+    "editor": [
+      {
+        "family": "jeune",
+        "given": "P.F.Didot"
+      }
+    ],
+    "type": null,
+    "issued": "1775",
+    "page": "277–280",
+    "publisher-place": "London & Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Decaisne",
+        "given": "J."
+      }
+    ],
+    "title": "Asclepiadeae",
+    "editor": [
+      {
+        "family": "DeCandolle",
+        "given": "A.P."
+      }
+    ],
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "8",
+    "publisher": "Masson",
+    "type": "chapter",
+    "issued": "1844",
+    "page": "490–665",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Fishbein",
+        "given": "M."
+      }
+    ],
+    "title": "Asclepiadaceae",
+    "editor": [
+      {
+        "family": "Martin",
+        "given": "P.S."
+      },
+      {
+        "family": "Yetman",
+        "given": "D.A."
+      },
+      {
+        "family": "M.",
+        "given": "Fishbein"
+      },
+      {
+        "family": "P.",
+        "given": "Jenkins"
+      },
+      {
+        "family": "T.R.",
+        "given": "Van Devender"
+      },
+      {
+        "family": "R.K",
+        "given": "Wilson"
+      }
+    ],
+    "publisher": "University of Arizona Press",
+    "type": "book",
+    "issued": "1998",
+    "page": "212–219",
+    "publisher-place": "Tucson"
+  },
+  {
+    "author": [
+      {
+        "family": "Gentry",
+        "given": "H.S."
+      }
+    ],
+    "title": "Rio Mayo Plants. A Study of the Rio Mayo, Sonora",
+    "publisher": "Carnegie Institution of Washington, Publication",
+    "volume": null,
+    "issue": "527",
+    "type": "book",
+    "issued": "1942",
+    "publisher-place": "Washington, D.C"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria",
+    "volume": "11",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issued": "2014",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/technical-documents/red-list-documents"
+  },
+  {
+    "author": [
+      {
+        "family": "Krings",
+        "given": "A."
+      },
+      {
+        "family": "Thomas",
+        "given": "D.T."
+      },
+      {
+        "family": "Xiang",
+        "given": "Q.-Y."
+      }
+    ],
+    "title": "On the generic circumscription of Gonolobus (Apocynaceae, Asclepiadoideae): evidence from molecules and morphology",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2008",
+    "page": "403–415",
+    "URL": "http://dx.doi.org/10.1600/036364408784571527",
+    "DOI": "10.1600/036364408784571527"
+  },
+  {
+    "author": [
+      {
+        "family": "Lozada-Pérez",
+        "given": "L."
+      }
+    ],
+    "title": "Polystemma mirandae (Apocynaceae, Asclepiadoideae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "una nueva especie de México Novon",
+    "issued": "2010",
+    "page": "429–431",
+    "URL": "http://dx.doi.org/10.3417/2009004",
+    "DOI": "10.3417/2009004"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "P.S."
+      },
+      {
+        "family": "Yetman",
+        "given": "D.A."
+      },
+      {
+        "family": "Fishbein",
+        "given": "M."
+      },
+      {
+        "family": "Jenkins",
+        "given": "P."
+      },
+      {
+        "family": "Van Devender",
+        "given": "T.R."
+      },
+      {
+        "given": "Wilson"
+      }
+    ],
+    "title": "R.K",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "publisher": "University of Arizona Press",
+    "type": "book",
+    "issued": "1998",
+    "publisher-place": "Tucson, AZ"
+  },
+  {
+    "author": [
+      {
+        "family": "Parks",
+        "given": "M."
+      }
+    ],
+    "title": "Phylogeny of New World Milkweed Vines (Apocynaceae, Gonolobinae",
+    "genre": "M.S. Thesis,",
+    "publisher": "Portland State University",
+    "type": "thesis",
+    "issued": "2008",
+    "publisher-place": "Portland, OR"
+  },
+  {
+    "author": [
+      {
+        "family": "Rasband",
+        "given": "W.S."
+      }
+    ],
+    "director": [
+      {
+        "family": "ImageJ",
+        "given": "U."
+      }
+    ],
+    "title": "S",
+    "publisher": "National Institutes of Health",
+    "note": "Available from:",
+    "type": null,
+    "issued": "1997",
+    "publisher-place": "Bethesda, MD, USA",
+    "URL": "http://imagej.nih.gov/ij/"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.D."
+      }
+    ],
+    "title": "New species and names in Apocynaceae, Asclepiadoideae",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1983",
+    "page": "401–405",
+    "URL": "http://dx.doi.org/10.5962/bhl.part.17467",
+    "DOI": "10.5962/bhl.part.17467"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.D."
+      }
+    ],
+    "title": "New and interesting milkweeds (Apocynaceae, Asclepiadoideae",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2005",
+    "page": "602–619"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.D."
+      }
+    ],
+    "title": "Apocynaceae",
+    "editor": [
+      {
+        "literal": "In: Davidse, G., Sousa Sánchez, M., Knapp, S. & Chiang Cabrera, F. (Eds."
+      }
+    ],
+    "container-title": "Flora Mesoamericana. Universidad Nacional Autónoma de México",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "662–768",
+    "publisher-place": "Mexico City"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.D."
+      },
+      {
+        "family": "Ulloa",
+        "given": "C."
+      },
+      {
+        "family": "Pool",
+        "given": "A."
+      },
+      {
+        "given": "Montiel"
+      }
+    ],
+    "title": "O.M",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "volume": "1. St",
+    "publisher": "Missouri Botanical Garden Press",
+    "type": "book",
+    "issued": "2001",
+    "publisher-place": "Louis, Missouri"
+  },
+  {
+    "author": [
+      {
+        "literal": "Woodson Jr., R.E."
+      }
+    ],
+    "title": "The North American Asclepiadaceae I. Perspective of the genera",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1941",
+    "page": "193–244",
+    "URL": "http://dx.doi.org/10.2307/2394270",
+    "DOI": "10.2307/2394270"
+  }
+]

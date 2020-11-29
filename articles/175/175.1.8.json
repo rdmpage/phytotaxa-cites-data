@@ -1,0 +1,162 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bennett",
+        "given": "A.W."
+      }
+    ],
+    "title": "Polygalaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "publisher": "Frid. Fleischer",
+    "type": "book",
+    "issued": "1874",
+    "page": "1–82",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Schomburgk’s Guiana Plants",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "The Journal of Botany",
+    "issued": "1842",
+    "page": "99–105"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis 1",
+    "publisher": "Treuttel & Würtz, Paris",
+    "type": "book",
+    "issued": "1824",
+    "page": "745",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Hasskarl",
+        "given": "J.C."
+      }
+    ],
+    "title": "Polygalaceae, praesertim indicae",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Annales Musei Botanici Lugduno-Batavi",
+    "issued": "1864",
+    "page": "142–196"
+  },
+  {
+    "author": [
+      {
+        "family": "Marques",
+        "given": "M.C.M."
+      }
+    ],
+    "title": "Revisão das espécies do gênero Bredemeyera Willd",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Polygalaceae) do Brasil. Rodriguésia",
+    "issued": "1980",
+    "page": "269–321"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Bredemeyera hebeclada a new combination in Polygalaceae",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Novon",
+    "issued": "2010",
+    "page": "314–316",
+    "URL": "http://dx.doi.org/10.3417/2008135",
+    "DOI": "10.3417/2008135"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Caamembeca: Generic status and new name for Polygala subgenus Ligustrina (Polygalaceae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2012",
+    "page": "1–8",
+    "URL": "http://dx.doi.org/10.1007/s12225-012-9360-x",
+    "DOI": "10.1007/s12225-012-9360-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastore",
+        "given": "J.F.B."
+      }
+    ],
+    "title": "Proposal to conserve the name Polygala longicaulis against P. brachistachyos (Polygalaceae",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2012",
+    "page": "16–17"
+  },
+  {
+    "author": [
+      {
+        "family": "Poeppig",
+        "given": "E.F."
+      }
+    ],
+    "title": "Nova Genera ac Species Plantarum quas in Regno Chilensi Peruviano et in Terra Amazonica 3, Sumptibus Friderici Hofmeister",
+    "publisher": "Leipzig",
+    "type": "book",
+    "issued": "1844",
+    "page": "300",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.453",
+    "DOI": "10.5962/bhl.title.453"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "C.L."
+      }
+    ],
+    "title": "Drei neue Pflanzen-Gattungen",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Neue Schriften der Gesellschaft Naturforschender Freunde zu Berlin",
+    "issued": "1801",
+    "page": "403–412"
+  }
+]

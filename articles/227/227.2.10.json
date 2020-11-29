@@ -1,0 +1,73 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bornmüller",
+        "given": "J.F.N."
+      }
+    ],
+    "title": "Ein Beitrag zur Kenntnis der Gattung Asyneuma Grisebach",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Beihefte zum botanischen Centralblatt",
+    "issue": "2",
+    "issued": "1921",
+    "page": "331–351"
+  },
+  {
+    "author": [
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "title": "New taxa of Campanulaceae from Xizang",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issue": "2",
+    "issued": "1980",
+    "page": "245–247"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      },
+      {
+        "family": "Thomson",
+        "given": "T."
+      }
+    ],
+    "title": "Praecursores ad Floram Indicam, being sketches of the natural families of Indian plants, with remarks on their distribution, structure, and affinities",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Journal of the Proceedings of the Linnean Society of London",
+    "issued": "1858",
+    "page": "1–29",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1857.tb02465.x",
+    "DOI": "10.1111/j.1095-8339.1857.tb02465.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Campanula L",
+    "editor": [
+      {
+        "family": "Roxburgh",
+        "given": "W."
+      }
+    ],
+    "container-title": "Flora Indica",
+    "volume": "2",
+    "publisher": "The Mission Press, Serampore",
+    "type": "chapter",
+    "issued": "1824",
+    "page": "96–103"
+  }
+]

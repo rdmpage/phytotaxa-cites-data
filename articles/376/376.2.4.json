@@ -1,0 +1,871 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bartoli",
+        "given": "A."
+      },
+      {
+        "family": "Tortosa",
+        "given": "R."
+      }
+    ],
+    "title": "Haplopappus Cass",
+    "editor": [
+      {
+        "family": "Kiesling",
+        "given": "R."
+      }
+    ],
+    "container-title": "Flora de San Juan",
+    "volume": "IIIb",
+    "publisher": "Zeta Editores",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "200–202",
+    "publisher-place": "Mendoza"
+  },
+  {
+    "author": [
+      {
+        "family": "Bartoli",
+        "given": "A."
+      },
+      {
+        "family": "Tortosa",
+        "given": "R."
+      }
+    ],
+    "title": "Haplopappus Cass",
+    "editor": [
+      {
+        "family": "Zuloaga",
+        "given": "F."
+      },
+      {
+        "family": "Belgrano",
+        "given": "M."
+      },
+      {
+        "family": "Anton",
+        "given": "A."
+      }
+    ],
+    "container-title": "Flora Argentina",
+    "volume": "7",
+    "publisher": "Estudio Sigma, Buenos Aires",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "2014",
+    "page": "187–195"
+  },
+  {
+    "author": [
+      {
+        "family": "Beentje",
+        "given": "H."
+      }
+    ],
+    "title": "The Kew Plant Glossary. An illustrated dictionary of plant terms",
+    "publisher": "Kew Publishing, Royal Botanic Gardens, Kew",
+    "type": "book",
+    "issued": "2012",
+    "page": "164"
+  },
+  {
+    "author": [
+      {
+        "family": "Brandegee",
+        "given": "T.S."
+      }
+    ],
+    "title": "A collection of plants from Baja California",
+    "container-title": "Proceedings of the California Academy of Sciences Ser",
+    "volume": "2, 2",
+    "type": "paper-conference",
+    "issued": "1889",
+    "page": "117–216"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "G.K."
+      },
+      {
+        "family": "Clark",
+        "given": "W.D."
+      }
+    ],
+    "title": "Taxonomy of Haplopappus sect",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Gymnocoma (Compositae). Systematic Botany",
+    "issue": "2",
+    "issued": "1982",
+    "page": "199–213",
+    "URL": "https://doi.org/10.2307/2418328",
+    "DOI": "10.2307/2418328"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Las especies argentinas del género Haplopappus",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Notas Preliminares del Museo La Plata",
+    "issued": "1934",
+    "page": "233–257"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Haplopappus Cass",
+    "editor": [
+      {
+        "family": "Correa",
+        "given": "M.N."
+      }
+    ],
+    "container-title": "Flora Patagónica, parte VII. Colección Científica Instituto Nacional Tecnología Agropecuaria (INTA). Buenos Aires",
+    "type": "chapter",
+    "issued": "1971",
+    "page": "52–60"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabrera",
+        "given": "A.L."
+      }
+    ],
+    "title": "Haplopappus Cass",
+    "editor": [
+      {
+        "family": "Cabrera",
+        "given": "A.L.Flora Provincia Jujuy"
+      },
+      {
+        "given": "parte"
+      }
+    ],
+    "volume": "13",
+    "container-title": "Colección Científica Instituto Nacional Tecnología Agropecuaria (INTA), Buenos Aires",
+    "issue": "10",
+    "type": "article-journal",
+    "issued": "1978",
+    "page": "197–199"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Prodromus systematis naturalis regni vegetabilis",
+    "volume": "5",
+    "publisher": "Sumptibus Sociorum Treuttel et Würtz, Parisiis",
+    "type": "book",
+    "issued": "1836",
+    "page": "706"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H.de"
+      }
+    ],
+    "title": "Diplopappus",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      }
+    ],
+    "container-title": "Dictionnaire des Sciences Naturelles",
+    "edition": "2nd",
+    "volume": "13",
+    "publisher": "L’imprimerie de F.G. Levrault, Strasbourg",
+    "type": "chapter",
+    "issued": "1819",
+    "page": "308–310"
+  },
+  {
+    "author": [
+      {
+        "family": "Cassini",
+        "given": "H.de"
+      }
+    ],
+    "title": "Tursenia",
+    "editor": [
+      {
+        "family": "Cuvier",
+        "given": "F."
+      }
+    ],
+    "container-title": "Dictionnaire des Sciences Naturelles",
+    "edition": "2nd",
+    "volume": "56",
+    "publisher": "L’imprimerie de F.G. Levrault, Strasbourg",
+    "type": "chapter",
+    "issued": "1828",
+    "page": "166–177"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "D."
+      }
+    ],
+    "title": "Descriptions of the new genera and species of the class Compositae belonging to the Floras of Peru, Mexico, and Chile",
+    "volume": "16",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issue": "2",
+    "issued": "1833",
+    "page": "169–304",
+    "URL": "https://doi.org/10.5962/bhl.title.6701",
+    "DOI": "10.5962/bhl.title.6701"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "G."
+      }
+    ],
+    "title": "A General History of the Dichlamydeous Plants: comprising complete descriptions of the different orders",
+    "volume": "1. J.G. and F",
+    "publisher": "Rivington, London",
+    "type": "book",
+    "issued": "1831",
+    "page": "818"
+  },
+  {
+    "author": [
+      {
+        "family": "Funk",
+        "given": "V.A."
+      },
+      {
+        "family": "Susanna",
+        "given": "A."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T.F."
+      },
+      {
+        "given": "Bayer"
+      }
+    ],
+    "title": "R.J",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "publisher": "International Association for Plant Taxonomy, Institute of Botany, University of Vienna, Austria",
+    "type": "book",
+    "issued": "2009",
+    "page": "965"
+  },
+  {
+    "author": [
+      {
+        "family": "García",
+        "given": "N."
+      }
+    ],
+    "title": "Caracterización de la flora vascular de Altos de Chicauma, Chile (33°S",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "Gayana Botánica",
+    "issue": "1",
+    "issued": "2010",
+    "page": "65–112",
+    "URL": "https://doi.org/10.4067/S0717-66432010000100007",
+    "DOI": "10.4067/S0717-66432010000100007"
+  },
+  {
+    "author": [
+      {
+        "family": "Gay",
+        "given": "C."
+      }
+    ],
+    "title": "Historia física y política de Chile según documentos adquiridos en esta república durante doce años de residencia en ella y publicada bajo los auspicios del supremo gobierno",
+    "volume": "4",
+    "publisher": "Thunot y Ca",
+    "type": "article-journal",
+    "container-title": "Botánica",
+    "issue": "1",
+    "issued": "1849",
+    "page": "516",
+    "publisher-place": "Paris; Museo Historia Natural, Santiago de Chile"
+  },
+  {
+    "author": [
+      {
+        "family": "Gay",
+        "given": "C."
+      }
+    ],
+    "title": "Historia física y política de Chile según documentos adquiridos en esta república durante doce años de residencia en ella y publicada bajo los auspicios del supremo gobierno",
+    "volume": "6. E",
+    "publisher": "Thunot y Ca",
+    "type": "article-journal",
+    "container-title": "Botánica",
+    "issued": "1854",
+    "page": "551",
+    "publisher-place": "Paris; Museo Historia Natural, Santiago de Chile"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillies",
+        "given": "J."
+      }
+    ],
+    "title": "On the species of the genus Colletia, of the natural order Rhamneae, discovered by Dr. Gillies in South America",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Botanical Miscellany",
+    "issued": "1830",
+    "page": "150–159"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "H.M."
+      }
+    ],
+    "title": "The genus Haplopappus: a phylogenetic study in the Compositae",
+    "publisher": "Publications of the Carnegie Institution of Washington, Washington",
+    "type": "book",
+    "issued": "1928",
+    "page": "391"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "J.G."
+      },
+      {
+        "family": "Woolf Harris",
+        "given": "M."
+      }
+    ],
+    "title": "Plant Identification Terminology. An Illustrated Glossary",
+    "publisher": "Spring Lake Publishing, Spring Lake, Utah",
+    "type": "book",
+    "issued": "1994",
+    "page": "197"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      }
+    ],
+    "title": "On Macraea, a new genus of plants from Chile",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Botanical Miscellany",
+    "issued": "1829",
+    "page": "174–177"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "The botany of Captain Beechey’s voyage; comprising an account of the plants collected by Messrs. Lay and Collie, and other officers on the expedition, during the voyage to the Pacific and Bering’s Strait, performed in His Majesty’s Ship Blossom, under the command of Captain F",
+    "editor": [
+      {
+        "family": "Beechey",
+        "given": "W."
+      },
+      {
+        "family": "N.",
+        "given": "R."
+      },
+      {
+        "family": "R.",
+        "given": "F."
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "container-title": "S., in the years 1825",
+    "volume": "26, 27, and 28",
+    "publisher": "Henry G. Bohn, London",
+    "type": "chapter",
+    "issued": "1830",
+    "page": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Hooker",
+        "given": "W.J."
+      },
+      {
+        "family": "Arnott",
+        "given": "G.A.W."
+      }
+    ],
+    "title": "Contributions Towards a Flora of South America and Islands of The Pacific",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Botanical Miscellany",
+    "issue": "8",
+    "issued": "1833",
+    "page": "129–212"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "2nd",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnston",
+        "given": "I.M."
+      }
+    ],
+    "title": "New or noteworthy plants from temperate South America",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Journal of the Arnold Arboretum",
+    "issued": "1938",
+    "page": "248–263",
+    "URL": "https://doi.org/10.5962/bhl.part.17091",
+    "DOI": "10.5962/bhl.part.17091"
+  },
+  {
+    "author": [
+      {
+        "given": "J.S.T.O.R."
+      }
+    ],
+    "title": "JSTOR Global Plants",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2018",
+    "URL": "http://plants.jstor.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Klingenberg",
+        "given": "L."
+      }
+    ],
+    "title": "Monographie der südamerikanischen Gattungen Haplopappus Cass",
+    "editor": [
+      {
+        "family": "Klingenberg",
+        "given": "Notopappus L."
+      }
+    ],
+    "volume": "157",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Botanica",
+    "issued": "2007",
+    "page": "1–331"
+  },
+  {
+    "author": [
+      {
+        "family": "Looser",
+        "given": "G."
+      }
+    ],
+    "title": "La vegetación de la quebrada del Tigre (Zapallar) y en especial sus helechos",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Revista Universitaria",
+    "issue": "1",
+    "issued": "1950",
+    "page": "53–67"
+  },
+  {
+    "author": [
+      {
+        "family": "Loudon",
+        "given": "J.C."
+      }
+    ],
+    "title": "Loudon’s Hortus Britannicus: a catalogue of all the plants indigenous, cultivated in, or introduced to Britain",
+    "publisher": "Longman, Rees, Orme, Brown, and Green & Longman, London",
+    "type": "book",
+    "issued": "1830",
+    "page": "742"
+  },
+  {
+    "author": [
+      {
+        "family": "Molina",
+        "given": "J.I."
+      }
+    ],
+    "title": "Saggio sulla Storia Naturale del Chili. Nella Stamperia di S",
+    "volume": "Bologna",
+    "type": "article-journal",
+    "container-title": "Tommaso d’Aquin",
+    "issued": "1782",
+    "page": "368",
+    "URL": "https://doi.org/10.5962/bhl.title.62689",
+    "DOI": "10.5962/bhl.title.62689"
+  },
+  {
+    "author": [
+      {
+        "family": "Molina",
+        "given": "J.I."
+      }
+    ],
+    "title": "Saggio sulla Storia Naturale del Chili",
+    "volume": "Bologna",
+    "type": "article-journal",
+    "container-title": "Tipografia de’ Fratelli Masi e Comp",
+    "issued": "1810",
+    "page": "306",
+    "URL": "https://doi.org/10.5962/bhl.title.105203",
+    "DOI": "10.5962/bhl.title.105203"
+  },
+  {
+    "author": [
+      {
+        "family": "Nesom",
+        "given": "G."
+      },
+      {
+        "family": "Robinson",
+        "given": "H."
+      }
+    ],
+    "title": "XV. Tribe Astereae Cass",
+    "editor": [
+      {
+        "family": "Kadereit",
+        "given": "J.W."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "C."
+      }
+    ],
+    "container-title": "The Families and genera of Vascular Plants",
+    "volume": "8",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "284–341",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Nuttall",
+        "given": "T."
+      }
+    ],
+    "title": "Descriptions of new Species and Genera of Plants in the natural Order of the Compositae, collected in a Tour across the Continent to the Pacific, a Residence in Oregon, and a Visit to the Sandwich Islands and Upper California, during the years 1834 and 1835",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Transactions of the American Philosophical Society New ser",
+    "issued": "1841",
+    "page": "283–453"
+  },
+  {
+    "author": [
+      {
+        "family": "Philippi",
+        "given": "R.A."
+      }
+    ],
+    "title": "Plantarum novarum Chilensium: centuria secunda, tertia",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1858",
+    "page": "661–752"
+  },
+  {
+    "author": [
+      {
+        "family": "Philippi",
+        "given": "R.A."
+      }
+    ],
+    "title": "Florula Atacamensis seu enumeratio plantarum, quas in itinere per desertum Atacamense observatarum",
+    "publisher": "Sumptibus E. Anton",
+    "type": "book",
+    "issued": "1860",
+    "page": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Pliscoff",
+        "given": "P."
+      },
+      {
+        "family": "Arroyo",
+        "given": "M.T.K."
+      },
+      {
+        "family": "Cavieres",
+        "given": "L."
+      }
+    ],
+    "title": "Changes in the main vegetation types of Chile predicted under climate change based on a preliminary study: models, uncertainties and adapting research to a dynamic biodiversity World",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Anales Instituto Patagonia",
+    "issue": "1",
+    "issued": "2012",
+    "page": "81–86",
+    "URL": "https://doi.org/10.4067/S0718-686X2012000100010",
+    "DOI": "10.4067/S0718-686X2012000100010"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C."
+      }
+    ],
+    "title": "Reliquiae Haenkeanae, seu, Descriptiones et icones plantarum: quas in America meridionali et boreali",
+    "container-title": "in insulis Philippinis et Marianis collegit",
+    "volume": "2. Apud J.G. Calve, Pragae",
+    "type": "chapter",
+    "issued": "1835",
+    "page": "152"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "Q.G.I.S.Development"
+      }
+    ],
+    "title": "QGIS Geographic Information System",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Open Source Geospatial Foundation",
+    "issued": "2018",
+    "URL": "https://www.qgis.org/es/site/"
+  },
+  {
+    "author": [
+      {
+        "family": "Reiche",
+        "given": "K."
+      }
+    ],
+    "title": "Flora de Chile",
+    "volume": "3",
+    "issue": "6",
+    "type": null,
+    "issued": "1902",
+    "page": "426",
+    "publisher-place": "Cervantes, Santiago de Chile"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodríguez",
+        "given": "R."
+      },
+      {
+        "family": "Marticorena",
+        "given": "C."
+      },
+      {
+        "family": "Alarcón",
+        "given": "D."
+      },
+      {
+        "family": "Baeza",
+        "given": "C."
+      },
+      {
+        "family": "Cavieres",
+        "given": "L."
+      },
+      {
+        "family": "Finot",
+        "given": "V.L."
+      },
+      {
+        "family": "Fuentes",
+        "given": "N."
+      },
+      {
+        "family": "Kiessling",
+        "given": "A."
+      },
+      {
+        "family": "Mihoc",
+        "given": "M."
+      },
+      {
+        "family": "Pauchard",
+        "given": "A."
+      },
+      {
+        "family": "Ruiz",
+        "given": "E."
+      },
+      {
+        "family": "Sanchez",
+        "given": "P."
+      },
+      {
+        "family": "Marticorena",
+        "given": "A."
+      }
+    ],
+    "title": "Catálogo de las plantas vasculares de Chile",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Gayana Botánica",
+    "issue": "1",
+    "issued": "2018",
+    "page": "1–430"
+  },
+  {
+    "author": [
+      {
+        "family": "Tortosa",
+        "given": "R."
+      },
+      {
+        "family": "Bartoli",
+        "given": "A."
+      }
+    ],
+    "title": "Revisión de las especies argentinas del género Haplopappus (Asteraceae, Astereae",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Boletín de la Sociedad Argentina de Botánica",
+    "issue": "1–2",
+    "issued": "2002",
+    "page": "115–133"
+  },
+  {
+    "author": [
+      {
+        "family": "Tortosa",
+        "given": "R."
+      },
+      {
+        "family": "Bartoli",
+        "given": "A."
+      }
+    ],
+    "title": "Two New Species of Haplopappus (Astereae, Asteraceae) from Mendoza, Argentina",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "1",
+    "issued": "2002",
+    "page": "50–53",
+    "URL": "https://doi.org/10.1663/0007-196X(2002)054",
+    "DOI": "10.1663/0007-196X(2002)054"
+  },
+  {
+    "author": [
+      {
+        "family": "Tortosa",
+        "given": "R."
+      },
+      {
+        "family": "Bartoli",
+        "given": "A."
+      }
+    ],
+    "title": "Haplopappus Cass",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "Flora Fanerogámica de la República Argentina",
+    "issue": "16b",
+    "issued": "2003",
+    "page": "56–64"
+  },
+  {
+    "editor": [
+      {
+        "family": "Zuloaga",
+        "given": "F.O."
+      },
+      {
+        "family": "Morrone",
+        "given": "O."
+      }
+    ],
+    "title": "Catálogo de las plantas vasculares de la República Argentina",
+    "container-title": "II. Angiospermae (Dicotyledoneae). Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "volume": "64",
+    "type": "chapter",
+    "issued": "1999",
+    "page": "1–1269"
+  },
+  {
+    "editor": [
+      {
+        "family": "Zuloaga",
+        "given": "F.O."
+      },
+      {
+        "family": "Morrone",
+        "given": "O."
+      },
+      {
+        "family": "Belgrano",
+        "given": "M.J."
+      }
+    ],
+    "title": "Catálogo de las plantas vasculares del Cono Sur (Argentina, Sur de Brasil, Chile, Paraguay y Uruguay), Volumen 2: Dicotyledoneae: Acanthaceae – Fabaceae (Abarema – Schizolobium",
+    "volume": "107",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "2008",
+    "page": "1–1302"
+  }
+]

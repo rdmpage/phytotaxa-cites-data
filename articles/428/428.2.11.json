@@ -1,0 +1,184 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Hooker’s Journal of Botany and Kew Garden Mescellany 3",
+    "type": "article-journal",
+    "container-title": "Reeve and Bentham. London. UK",
+    "issued": "1851",
+    "page": "192–193"
+  },
+  {
+    "author": [
+      {
+        "family": "Cambessedes",
+        "given": "J."
+      }
+    ],
+    "director": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      }
+    ],
+    "title": "Flora Brasiliae Meridionalis",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Tomo",
+    "issued": "1825",
+    "page": "365–370",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrucci",
+        "given": "M.S."
+      }
+    ],
+    "title": "Novedades en Houssayanthus y Serjania (Sapindaceae",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bonplandia (Corrientes",
+    "issue": "19",
+    "issued": "1981",
+    "page": "164–174"
+  },
+  {
+    "author": [
+      {
+        "family": "Herter",
+        "given": "W.F."
+      }
+    ],
+    "title": "Estudios Botánicus en la Región Uruguaya 4. Florula Uruguayensis",
+    "type": "article-journal",
+    "container-title": "Plantae Vasculares. Montevideo",
+    "issued": "1930",
+    "page": "83"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L."
+      }
+    ],
+    "title": "Annales du Muséum National D’histoire Naturelle, 4. Chez Levrault, Schnoell et Compagnie",
+    "type": null,
+    "issued": "1804",
+    "page": "347",
+    "publisher-place": "Libraries, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunth",
+        "given": "C.S."
+      }
+    ],
+    "title": "Sapindaceae",
+    "editor": [
+      {
+        "family": "Humboldt",
+        "given": "A."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A."
+      },
+      {
+        "family": "Kunth",
+        "given": "C.S."
+      }
+    ],
+    "container-title": "Nova Genera et Species Plantarum",
+    "edition": "quarta",
+    "volume": "5",
+    "type": "chapter",
+    "issued": "1821",
+    "page": "99–121",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Radlkofer",
+        "given": "L."
+      }
+    ],
+    "title": "Conspectus sectionum specierumque generis Serjaniae",
+    "type": "article-journal",
+    "container-title": "Typographia Academica F. Straub",
+    "issued": "1874",
+    "page": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Radlkofer",
+        "given": "L."
+      }
+    ],
+    "title": "Monographie der Sapindaceen-Gattung Serjania",
+    "publisher": "Verlag der K. B. Akademie. München",
+    "type": "book",
+    "issued": "1875"
+  },
+  {
+    "author": [
+      {
+        "family": "Radlkofer",
+        "given": "L."
+      }
+    ],
+    "title": "Sitzungsberichte der Mathematisch-physikalischen Classe der k.b. Akademie der Wissenschaften zu München",
+    "genre": "Band 8.",
+    "publisher": "Akademische Buchdruckerei von F. Straub. München",
+    "type": null,
+    "issued": "1878",
+    "page": "221–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      }
+    ],
+    "title": "Histoire des Plantes les Plus Remarquables du Brésil et du Paraguay 1",
+    "publisher": "Chez A. Belin, Imprimeur-Libraire",
+    "type": "book",
+    "issued": "1824",
+    "page": "236–238"
+  },
+  {
+    "author": [
+      {
+        "family": "Velloso",
+        "given": "J.M.C."
+      }
+    ],
+    "title": "Florae Fluminensis",
+    "container-title": "Flumine Januario: ex Typographia nationali",
+    "type": "chapter",
+    "issued": "1825",
+    "page": "159"
+  },
+  {
+    "author": [
+      {
+        "family": "Velloso",
+        "given": "J.M.C."
+      }
+    ],
+    "title": "Florae Fluminensis Icones, v. 4. Officina lithographica A",
+    "type": "article-journal",
+    "container-title": "Senelder. Paris",
+    "issued": "1927"
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "author": [
+      {
+        "family": "Akaike",
+        "given": "H."
+      }
+    ],
+    "title": "A new look at the statistical model identification",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "IEEE Transactions on Automatic Control",
+    "issued": "1974",
+    "page": "716–723",
+    "URL": "http://dx.doi.org/10.1109/TAC.1974.1100705",
+    "DOI": "10.1109/TAC.1974.1100705"
+  },
+  {
+    "author": [
+      {
+        "family": "Beitel",
+        "given": "J.M."
+      },
+      {
+        "family": "Wagner",
+        "given": "F.S."
+      }
+    ],
+    "title": "The chromosomes of Lycopodium lucidulum",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "American Fern Journal",
+    "issued": "1982",
+    "page": "33–35",
+    "URL": "http://dx.doi.org/10.2307/1547051",
+    "DOI": "10.2307/1547051"
+  },
+  {
+    "author": [
+      {
+        "family": "Ching",
+        "given": "R.C."
+      }
+    ],
+    "title": "The taxonomy of Chinese Lycopodiaceae (sen. lat.) II",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1981",
+    "page": "291–305"
+  },
+  {
+    "author": [
+      {
+        "family": "Christenhusz",
+        "given": "M.J.M."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Trends and concepts in fern classification",
+    "volume": "113",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2014",
+    "page": "571–594",
+    "URL": "http://dx.doi.org/10.1093/aob/mct299",
+    "DOI": "10.1093/aob/mct299"
+  },
+  {
+    "author": [
+      {
+        "family": "Clute",
+        "given": "W.N."
+      }
+    ],
+    "title": "The fern allies of North America north of Mexico",
+    "publisher": "Stokes",
+    "type": "book",
+    "issued": "1905",
+    "publisher-place": "New York",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.56957",
+    "DOI": "10.5962/bhl.title.56957"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "A simple, fast and accurate algorithm to estimate large phylogenies by maximum likelihood",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2003",
+    "page": "696–704",
+    "URL": "http://dx.doi.org/10.1080/10635150390235520",
+    "DOI": "10.1080/10635150390235520"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, version 3.1 second edition",
+    "publisher": "IUCN",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Ji",
+        "given": "S."
+      },
+      {
+        "family": "Pan",
+        "given": "S."
+      },
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Huo",
+        "given": "K.K."
+      }
+    ],
+    "title": "Phylogeny relationship and molecular identification of ten Huperzia species (Huperziaceae) based on matK gene sequences",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "China Journal of Chinese Materia Medica",
+    "issued": "2007",
+    "page": "1971–1975"
+  },
+  {
+    "author": [
+      {
+        "family": "Ji",
+        "given": "S.G."
+      },
+      {
+        "family": "Huo",
+        "given": "K.K."
+      },
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Pan",
+        "given": "S.L."
+      }
+    ],
+    "title": "A molecular phylogenetic study of Huperziaceae based on chloroplast rbcL and psbA-trnH sequences",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2008",
+    "page": "213–219"
+  },
+  {
+    "author": [
+      {
+        "family": "Kung",
+        "given": "H.S."
+      }
+    ],
+    "title": "Materials for the genus Lycopodium L",
+    "editor": [
+      {
+        "given": "Prov"
+      }
+    ],
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1980",
+    "page": "234–239"
+  },
+  {
+    "author": [
+      {
+        "family": "Kung",
+        "given": "H.S."
+      }
+    ],
+    "title": "Flora Sichuanica",
+    "volume": "6",
+    "publisher": "Sichuan Science and Technology Press",
+    "type": "book",
+    "issued": "1988",
+    "publisher-place": "Chengdu"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuo",
+        "given": "L.Y."
+      },
+      {
+        "family": "Li",
+        "given": "F.W."
+      },
+      {
+        "family": "Chiou",
+        "given": "W.L."
+      },
+      {
+        "family": "Wang",
+        "given": "C.N."
+      }
+    ],
+    "title": "First insights into fern matK phylogeny",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2011",
+    "page": "556–566",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2011.03.010",
+    "DOI": "10.1016/j.ympev.2011.03.010"
+  },
+  {
+    "author": [
+      {
+        "family": "Michaux",
+        "given": "A."
+      }
+    ],
+    "title": "Flora Boreali-Americana",
+    "volume": "2",
+    "type": null,
+    "issued": "1803",
+    "publisher-place": "Levrault, Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Murakami",
+        "given": "N."
+      },
+      {
+        "family": "Nogami",
+        "given": "S."
+      },
+      {
+        "family": "Watanabe",
+        "given": "M."
+      },
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      }
+    ],
+    "title": "Phylogeny of Aspleniaceae inferred from rbcL nucleotide sequences",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "American Fern Journal",
+    "issued": "1999",
+    "page": "232–243",
+    "URL": "http://dx.doi.org/10.2307/1547233",
+    "DOI": "10.2307/1547233"
+  },
+  {
+    "author": [
+      {
+        "family": "Øllgaard",
+        "given": "B."
+      }
+    ],
+    "title": "A revised classification of the Lycopodiaceae s. lat",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Opera Botanica",
+    "issued": "1987",
+    "page": "153–178"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Hoehna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Schneider",
+        "given": "H."
+      },
+      {
+        "family": "Russell",
+        "given": "S.J."
+      },
+      {
+        "family": "Cox",
+        "given": "C.J."
+      },
+      {
+        "family": "Bakker",
+        "given": "F."
+      },
+      {
+        "family": "Henderson",
+        "given": "S."
+      },
+      {
+        "family": "Rumsey",
+        "given": "F."
+      },
+      {
+        "family": "Barrett",
+        "given": "J."
+      },
+      {
+        "family": "Gibby",
+        "given": "M."
+      },
+      {
+        "family": "Vogel",
+        "given": "J.C."
+      }
+    ],
+    "title": "Chloroplast phylogeny of asplenioid ferns based on rbcL and trnL-F spacer sequences (Polypodidae, Aspleniaceae) and its implications for biogeography",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2004",
+    "page": "260–274",
+    "URL": "http://dx.doi.org/10.1600/036364404774195476",
+    "DOI": "10.1600/036364404774195476"
+  },
+  {
+    "author": [
+      {
+        "family": "Shrestha",
+        "given": "N."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.C."
+      }
+    ],
+    "title": "Re-circumscription of Huperzia serrata complex in China using morphological and climatic data",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2014",
+    "page": "88–103",
+    "URL": "http://dx.doi.org/10.1111/jse.12120",
+    "DOI": "10.1111/jse.12120"
+  },
+  {
+    "author": [
+      {
+        "family": "Shrestha",
+        "given": "N."
+      },
+      {
+        "family": "Xing",
+        "given": "F.W."
+      },
+      {
+        "family": "Qi",
+        "given": "X.P."
+      },
+      {
+        "family": "Yan",
+        "given": "Y.H."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.C."
+      }
+    ],
+    "title": "Huperzia nanlingensis (Lycopodiaceae), a new terrestrial firmoss from southern China",
+    "volume": "173",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "73–79",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.173.1.6",
+    "DOI": "10.11646/phytotaxa.173.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "raxmlGUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organisms Diversity & Evolution",
+    "issued": "2012",
+    "page": "335–337",
+    "URL": "http://dx.doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "D.G",
+        "given": "Higgins"
+      }
+    ],
+    "title": "The ClustalX windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "http://dx.doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Léon",
+        "given": "V.",
+        "particle": "Trevisan de"
+      }
+    ],
+    "title": "Sylloge sporophytarum Italiae",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Atti della Società Italiana di Scienze Naturali (Milano",
+    "issued": "1875",
+    "page": "213–258"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "W.H."
+      },
+      {
+        "family": "Beitel",
+        "given": "J.M."
+      }
+    ],
+    "title": "Lycopodiaceae",
+    "container-title": "Flora of North America Editorial Committee (Eds.) Flora of North America North of Mexico",
+    "volume": "2",
+    "type": "chapter",
+    "issued": "1993",
+    "page": "18–37",
+    "publisher-place": "New York and Oxford"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "J.Z."
+      }
+    ],
+    "title": "Supplement and correction to Flora plantarum herbacearum Chinae boreali-orientalis tom",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "I (ser. I). Journal of Hebei Forestry College",
+    "issue": "2",
+    "issued": "1990",
+    "page": "113–121"
+  },
+  {
+    "author": [
+      {
+        "family": "Waterway",
+        "given": "M.J."
+      }
+    ],
+    "title": "A reevaluation of Lycopodium porophilum and its relationship to L. lucidulum (Lycopodiaceae",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "1986",
+    "page": "263–276",
+    "URL": "http://dx.doi.org/10.2307/2419114",
+    "DOI": "10.2307/2419114"
+  },
+  {
+    "author": [
+      {
+        "family": "Wikstrӧm",
+        "given": "N."
+      },
+      {
+        "family": "Kenrick",
+        "given": "P."
+      }
+    ],
+    "title": "Evolution of Lycopodiaceae (Lycopsida): estimating divergence times from rbcL gene sequences by use of nonparametric rate smoothing",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2001",
+    "page": "177–186",
+    "URL": "http://dx.doi.org/10.1006/mpev.2001.0936",
+    "DOI": "10.1006/mpev.2001.0936"
+  },
+  {
+    "author": [
+      {
+        "family": "Wikström",
+        "given": "N."
+      },
+      {
+        "family": "Kendrick",
+        "given": "P."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      }
+    ],
+    "title": "Epiphytism and terrestrialisation in tropical Huperzia (Lycopodiaceae",
+    "volume": "218",
+    "type": "article-journal",
+    "container-title": "Plant Systematics and Evolution",
+    "issued": "1999",
+    "page": "221–243",
+    "URL": "http://dx.doi.org/10.1007/BF01089229",
+    "DOI": "10.1007/BF01089229"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "C.Y."
+      }
+    ],
+    "title": "Revision of Lycopodiales from China",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Academy of Military Medical Sciences",
+    "issued": "1989",
+    "page": "366–370"
+  },
+  {
+    "author": [
+      {
+        "family": "Yatsentyuk",
+        "given": "S.P."
+      },
+      {
+        "family": "Valiejo-Roman",
+        "given": "K.M."
+      },
+      {
+        "family": "Samigullin",
+        "given": "T.H."
+      },
+      {
+        "family": "Wikström",
+        "given": "N."
+      },
+      {
+        "family": "Troitsky",
+        "given": "A.V."
+      }
+    ],
+    "title": "Evolution of Lycopodiaceae inferred from spacer sequencing of chloroplast rRNA genes",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Russian Journal of Genetics",
+    "issued": "2001",
+    "page": "1068–1073",
+    "URL": "http://dx.doi.org/10.1023/A:1011969716528",
+    "DOI": "10.1023/A:1011969716528"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.B."
+      },
+      {
+        "family": "Kung",
+        "given": "H.S."
+      }
+    ],
+    "title": "A taxonomic study of Huperzia Bernh",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "s. s.) sect. Huperzia in China. Acta Phytotaxonomica Sinica",
+    "issued": "1998",
+    "page": "521–529"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.B."
+      },
+      {
+        "family": "Kung",
+        "given": "H.S."
+      },
+      {
+        "given": "sect"
+      }
+    ],
+    "title": "Taxonomy of the genus Huperzia Bernh",
+    "genre": "(sen. str.)",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "2000",
+    "page": "13–22"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.B."
+      },
+      {
+        "family": "Iwatsuki",
+        "given": "K."
+      }
+    ],
+    "title": "Lycopodiaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "2",
+    "publisher": "Pteridophytes). Beijing Science Press",
+    "type": "chapter",
+    "issued": "2013",
+    "page": "13–34",
+    "publisher-place": "Beijing"
+  }
+]

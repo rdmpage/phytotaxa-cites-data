@@ -1,0 +1,576 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adanson",
+        "given": "M."
+      }
+    ],
+    "title": "Familles des plantes 1",
+    "publisher": "Vincent, Paris",
+    "type": "book",
+    "issued": "1763",
+    "page": "189",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.271",
+    "DOI": "10.5962/bhl.title.271"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P."
+      },
+      {
+        "given": "de"
+      }
+    ],
+    "title": "Umbelliferae. In: Prodromus systematis naturalis regni vegetabilis 4",
+    "publisher": "Treuttel & Würtz",
+    "type": "book",
+    "issued": "1830",
+    "page": "55–250",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Diels",
+        "given": "L."
+      }
+    ],
+    "title": "Die Flora von Central China. Botanische Jahrbücher für Systematik",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Pflanzengeschichte und Pflanzengeographie",
+    "issued": "1901",
+    "page": "169–659"
+  },
+  {
+    "author": [
+      {
+        "family": "Downie",
+        "given": "S.R."
+      },
+      {
+        "family": "Spalik",
+        "given": "K."
+      },
+      {
+        "family": "Katz-Downie",
+        "given": "D.S."
+      },
+      {
+        "family": "Reduron",
+        "given": "J.P."
+      }
+    ],
+    "title": "Major clades within Apiaceae subfamily Apioideae as inferred by phylogenetic analysis of nrDNA ITS sequences",
+    "volume": "128",
+    "type": "article-journal",
+    "container-title": "Plant Diversity and Evolution",
+    "issued": "2010",
+    "page": "111–136",
+    "URL": "http://dx.doi.org/10.1127/1869-6155/2010/0128-0005",
+    "DOI": "10.1127/1869-6155/2010/0128-0005"
+  },
+  {
+    "author": [
+      {
+        "family": "Edgeworth",
+        "given": "M.P."
+      }
+    ],
+    "title": "Description of some unpublished species of plants from North-Western India",
+    "container-title": "Proceedings of the Linnean Society of London",
+    "volume": "1",
+    "type": "paper-conference",
+    "issued": "1845",
+    "page": "252–253"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenetics: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://dx.doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Kljuykov",
+        "given": "E.V."
+      },
+      {
+        "family": "Liu",
+        "given": "M."
+      },
+      {
+        "family": "Ostroumova",
+        "given": "T.A."
+      },
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      },
+      {
+        "family": "Wyk",
+        "given": "B.-E.",
+        "particle": "van"
+      }
+    ],
+    "title": "Towards a standardised terminology for taxonomically important morphological characters in the Umbelliferae",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "South African Journal of Botany",
+    "issued": "2004",
+    "page": "489–497",
+    "URL": "http://dx.doi.org/10.106/S0254-6299(15)30233-7"
+  },
+  {
+    "author": [
+      {
+        "family": "Leute",
+        "given": "G.H."
+      }
+    ],
+    "title": "Untersuchungen über den Verwandtschaftkreis der Gattung Ligusticum L",
+    "editor": [
+      {
+        "given": "Umbelliferae)"
+      }
+    ],
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "Annalen des Naturhistorischen Museums Wien",
+    "issued": "1969",
+    "page": "55–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "publisher": "Laurentius Salvius, Holmiae [Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "560"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Centuria II. plantarum, quam ...praeside",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Carolo Linnaeo ... ad publicam vertilationem defert. Uppsala",
+    "issued": "1756",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "edition": "ed. 2, aucta",
+    "note": "Laurentius Salvius, Holmiae [Stockholm],",
+    "type": null,
+    "issued": "1762"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "Ph"
+      }
+    ],
+    "title": "The gardeners dictionary ... abridged from the",
+    "edition": "folio edition. Ed. 4",
+    "note": "Printed for the Author.",
+    "type": null,
+    "issued": "1754",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Newman",
+        "given": "M.F."
+      },
+      {
+        "family": "Ketphanh",
+        "given": "S."
+      },
+      {
+        "family": "Swengsuksa",
+        "given": "B."
+      },
+      {
+        "family": "Thomas",
+        "given": "Ph"
+      },
+      {
+        "family": "Sengdala",
+        "given": "K."
+      },
+      {
+        "family": "Lamxay",
+        "given": "V."
+      },
+      {
+        "family": "Armstrong",
+        "given": "K."
+      }
+    ],
+    "title": "A checklist of the vascular plants of Lao PDR",
+    "publisher": "Royal Botanic Garden Edinburgh",
+    "type": "book",
+    "issued": "2007",
+    "page": "400"
+  },
+  {
+    "author": [
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      }
+    ],
+    "title": "Kitagawia - novyi aziatskij rod semeistva Umbelliferae [Kitagawia, a new Asiatic genus of the family Umbelliferae",
+    "volume": "71",
+    "type": "article-journal",
+    "container-title": "Botaničeskij Zhurnal",
+    "issue": "7",
+    "issued": "1986",
+    "page": "942–949"
+  },
+  {
+    "author": [
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      },
+      {
+        "family": "Kljuykov",
+        "given": "E.V."
+      }
+    ],
+    "title": "A new genus of the Umbelliferae of Vietnam with two new species",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Komarovia",
+    "issued": "2006",
+    "page": "124–132"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "Modeltest: testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/14.9.817",
+    "DOI": "10.1093/bioinformatics/14.9.817"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "note": "Tracer. Available from:",
+    "type": null,
+    "issued": "2007",
+    "URL": "http://beast.bio.ed.ac.uk/tracer"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      },
+      {
+        "family": "Christ",
+        "given": "Dr Joh"
+      }
+    ],
+    "title": "Moessler’s Handbuch der Gewächskunde, enthaltend eine Flora von Deutschland mit Hinzufügung der wichtigsten ausländischen Cultur-Pflanzen. Phanerogamia, Dodecandria bis Gynandria. 1.2",
+    "volume": "XVIII",
+    "type": "article-journal",
+    "container-title": "Aufl. Altona: Hammerich",
+    "issued": "1827",
+    "page": "786"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "title": "Flora germania excursoria, Bd 2",
+    "publisher": "C.Cnobloch, Lipsiae",
+    "type": "book",
+    "issued": "1832"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Schischkin",
+        "given": "B.K."
+      }
+    ],
+    "title": "Saposhnikovia Schischk",
+    "editor": [
+      {
+        "family": "Schischkin",
+        "given": "B.K."
+      }
+    ],
+    "container-title": "Flora URSS",
+    "edition": "17. Editio Acad",
+    "type": "chapter",
+    "issued": "1951",
+    "page": "54–57"
+  },
+  {
+    "author": [
+      {
+        "family": "Schur",
+        "given": "J.F."
+      }
+    ],
+    "title": "Umbelliferae",
+    "container-title": "Enumeratio plantarum Transsilvaniae exhibens. Guilielmum Broumüller, Vindobonnae",
+    "type": "chapter",
+    "issued": "1866",
+    "page": "244–276"
+  },
+  {
+    "author": [
+      {
+        "family": "Shan",
+        "given": "R.H."
+      },
+      {
+        "family": "Sheh",
+        "given": "M.L."
+      },
+      {
+        "family": "Wang",
+        "given": "T.S."
+      },
+      {
+        "family": "Pu",
+        "given": "F.T."
+      },
+      {
+        "family": "Shen",
+        "given": "K.M."
+      },
+      {
+        "family": "Chang",
+        "given": "H.T."
+      }
+    ],
+    "title": "New taxa of the Chinese Umbelliferae (2",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1986",
+    "page": "304–316"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*. Phylogenetic analysis using parsimony (*and Other Methods), v 4.0",
+    "publisher": "Sinauer Associates",
+    "type": "book",
+    "issued": "2003",
+    "publisher-place": "Sunderland"
+  },
+  {
+    "author": [
+      {
+        "family": "Thunberg",
+        "given": "P."
+      }
+    ],
+    "title": "Kaempherus illustratus, seu explication plantarum Iaponicarum quas in Amoenitat. Exitic. Fasculoso quinto recanset Doct. Kaempher, section secunda",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Nova Acta Regiae Societatis Scientiarum Upsaliensis",
+    "issued": "1783",
+    "page": "31–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Valiejo-Roman",
+        "given": "C.M."
+      },
+      {
+        "family": "Terentieva",
+        "given": "E.I."
+      },
+      {
+        "family": "Samigullin",
+        "given": "T.H."
+      },
+      {
+        "family": "Pimenov",
+        "given": "M.G."
+      }
+    ],
+    "title": "Relationships among genera in Saniculoideae and selected Apioideae (Umbelliferae) inferred from nrITS sequences",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2002",
+    "page": "91–101",
+    "URL": "http://dx.doi.org/10.2307/1554966",
+    "DOI": "10.2307/1554966"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Wyk",
+        "given": "B.E."
+      },
+      {
+        "family": "Tilney",
+        "given": "P.M."
+      },
+      {
+        "family": "Magee",
+        "given": "A.R."
+      }
+    ],
+    "title": "African Apiaceae. A synopsis of the Apiaceae/Umbelliferae of sub-Saharan Africa and Madagascar",
+    "publisher": "Briza Academic Books, Pretoria",
+    "type": "book",
+    "issued": "2013",
+    "page": "317"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "N.M."
+      }
+    ],
+    "title": "Genera plantarum vocabilis characteristicis definita",
+    "publisher": "Danzig",
+    "type": "book",
+    "issued": "1776",
+    "page": "177"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolff",
+        "given": "H."
+      }
+    ],
+    "title": "Umbelliferae novae asiaticae. II",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Repertorium Specierum Novarum Regni Vegetabilis",
+    "issued": "1925",
+    "page": "244–249",
+    "URL": "http://dx.doi.org/10.1002/fedr.19250210811",
+    "DOI": "10.1002/fedr.19250210811"
+  }
+]

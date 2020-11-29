@@ -1,0 +1,607 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alston",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "An enumeration of the Chinese species of Selaginella",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Bulletin of the Fan Memorial Institute of Biology: Botany",
+    "issued": "1934",
+    "page": "261–304"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "A synopsis of the genus Selaginella",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Journal of Botany",
+    "issued": "1883",
+    "page": "1–5, 42–46, 80–84, 97–100, 141–145, 210–213, 240–244"
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "J.G."
+      }
+    ],
+    "title": "A synopsis of the genus Selaginella",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Journal of Botany",
+    "issued": "1885",
+    "page": "19–25, 45–48, 116–122, 154–157, 176–180, 248–252, 292–302"
+  },
+  {
+    "author": [
+      {
+        "family": "Blume",
+        "given": "C.L."
+      }
+    ],
+    "title": "Enumeratio Plantarum Javae et Insularum adjacentium",
+    "container-title": "Fasc. II",
+    "type": "chapter",
+    "issued": "1828",
+    "publisher-place": "Van Leeuwen, Leiden"
+  },
+  {
+    "author": [
+      {
+        "family": "Chu",
+        "given": "W.M."
+      }
+    ],
+    "title": "Selaginellaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "container-title": "Flora Yunnanica",
+    "volume": "20",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2006",
+    "page": "35–93",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772–772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Hieronymus",
+        "given": "G."
+      }
+    ],
+    "title": "Selaginellarum species novae vel non satis cognitae",
+    "genre": "II.",
+    "note": "Selaginellae e subgenere (vel sectione) Heterophyllo (continuatio prima).",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Hedwigia",
+    "issued": "1904",
+    "page": "1–65"
+  },
+  {
+    "author": [
+      {
+        "family": "Jermy",
+        "given": "A.C."
+      }
+    ],
+    "title": "Subgeneric names in Selaginella",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "Fern Gazette",
+    "issued": "1986",
+    "page": "117–118"
+  },
+  {
+    "author": [
+      {
+        "family": "Jermy",
+        "given": "A.C."
+      }
+    ],
+    "title": "Selaginellaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      },
+      {
+        "family": "Kramer",
+        "given": "K.U."
+      },
+      {
+        "family": "Green",
+        "given": "P.S."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants, Pteridophytes and Gymnosperms",
+    "volume": "1",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "39–45",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-662-02604-5_11",
+    "DOI": "10.1007/978-3-662-02604-5_11"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "II",
+    "type": null,
+    "issued": "1753",
+    "publisher-place": "Laurentii Salvii, Stockholm, Sweden"
+  },
+  {
+    "author": [
+      {
+        "family": "Palisot-Beauvois",
+        "given": "A.M.F.J."
+      }
+    ],
+    "title": "Suite de l’Aethéogamie",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Magasin Encyclopédique",
+    "issued": "1804",
+    "page": "472–483"
+  },
+  {
+    "author": [
+      {
+        "family": "Poiret",
+        "given": "J.L.M."
+      }
+    ],
+    "title": "Encyclopeìdie meìthodique",
+    "volume": "Supplement 3",
+    "publisher": "H. Agasse",
+    "type": "article-journal",
+    "container-title": "Botanique",
+    "issued": "1814",
+    "page": "1–780",
+    "publisher-place": "Paris"
+  },
+  {
+    "type": null,
+    "URL": "https:",
+    "DOI": "10.5962/bhl.title.826."
+  },
+  {
+    "author": [
+      {
+        "family": "Schulz",
+        "given": "C."
+      },
+      {
+        "family": "Homberg",
+        "given": "J."
+      },
+      {
+        "family": "Stutzel",
+        "given": "T."
+      }
+    ],
+    "title": "Taxonomic revision of Selaginella subg",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Ericetorum. Systematic Botany",
+    "issued": "2013",
+    "page": "5–14",
+    "URL": "https://doi.org/10.1600/036364413X661935",
+    "DOI": "10.1600/036364413X661935"
+  },
+  {
+    "author": [
+      {
+        "family": "Shalimov",
+        "given": "A.P."
+      },
+      {
+        "family": "Zhu",
+        "given": "Y.-M."
+      },
+      {
+        "family": "Zhang",
+        "given": "M.-H."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-C."
+      }
+    ],
+    "title": "Selaginella dianzhongensis (Selaginellaceae), a new spikemoss from China",
+    "volume": "118",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2019",
+    "page": "75–87",
+    "URL": "https://doi.org/10.3897/phytokeys.118.30375",
+    "DOI": "10.3897/phytokeys.118.30375"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "S.K."
+      },
+      {
+        "family": "Yadav",
+        "given": "B.B."
+      },
+      {
+        "family": "Srivastava",
+        "given": "M."
+      },
+      {
+        "family": "Shukla",
+        "given": "P.K."
+      },
+      {
+        "family": "Srivastava",
+        "given": "G.K."
+      }
+    ],
+    "title": "Micro-morphology of Selaginella megaspores from India",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Grana",
+    "issued": "2014",
+    "page": "197–220",
+    "URL": "https://doi.org/10.1080/00173134.2014.919356",
+    "DOI": "10.1080/00173134.2014.919356"
+  },
+  {
+    "author": [
+      {
+        "family": "Spring",
+        "given": "A.F."
+      }
+    ],
+    "title": "Beiträge zur Kenntniss der Lycopodien",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "1838",
+    "page": "145–158, 161–175, 193–222"
+  },
+  {
+    "author": [
+      {
+        "family": "Spring",
+        "given": "A.F."
+      },
+      {
+        "literal": "Spring. Pars Altera. II. Selaginella."
+      }
+    ],
+    "title": "Enumeratio Lycopodinearum, quas in ejusdem plantarum ordinis monographia mox edenda descripsit Ant",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Belgique",
+    "issued": "1843",
+    "page": "134–146"
+  },
+  {
+    "author": [
+      {
+        "family": "Spring",
+        "given": "A.F."
+      }
+    ],
+    "title": "Monographie de la Famille des Lycopodiacées, Seconde partie, 24",
+    "container-title": "Mémoires de l‘Académie Royales des Sciences, Lettres et Beaux Arts de Belgique",
+    "type": "chapter",
+    "issued": "1850",
+    "page": "1–358",
+    "URL": "https://doi.org/10.5962/bhl.title.15539",
+    "DOI": "10.5962/bhl.title.15539"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http:"
+  },
+  {
+    "author": [
+      {
+        "family": "Weststrand",
+        "given": "S."
+      },
+      {
+        "family": "Korall",
+        "given": "P."
+      }
+    ],
+    "title": "A subgeneric classification of Selaginella (Selaginellaceae",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2016",
+    "page": "2160–2169",
+    "URL": "https://doi.org/10.3732/ajb.1600288",
+    "DOI": "10.3732/ajb.1600288"
+  },
+  {
+    "author": [
+      {
+        "family": "Weststrand",
+        "given": "S."
+      },
+      {
+        "family": "Korall",
+        "given": "P."
+      }
+    ],
+    "title": "Phylogeny of Selaginellaceae: There is value in morphology after all!",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2016",
+    "page": "2136–2159",
+    "URL": "https://doi.org/10.3732/ajb.1600156",
+    "DOI": "10.3732/ajb.1600156"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Y.-D."
+      },
+      {
+        "family": "Zhang",
+        "given": "H.-R."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-C."
+      }
+    ],
+    "title": "Selaginella guihaia (Selaginellaceae): A new spikemoss species from southern China and northern Vietnam around the Gulf of Tonkin",
+    "volume": "80",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2017",
+    "page": "41–52",
+    "URL": "https://doi.org/10.3897/phytokeys.80.11126",
+    "DOI": "10.3897/phytokeys.80.11126"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "X.-C."
+      },
+      {
+        "family": "Nooteboom",
+        "given": "H.P."
+      },
+      {
+        "family": "Kato",
+        "given": "M."
+      }
+    ],
+    "title": "Selaginellaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "volume": "2–3",
+    "type": "article-journal",
+    "container-title": "Science Press, Beijing and Missouri Botanical Garden Press, St. Louis",
+    "issued": "2013",
+    "page": "37–66"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "X.-M."
+      },
+      {
+        "family": "He",
+        "given": "Z.-R."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "Selaginella chuweimingii (Selaginellaceae) sp. nov. from Yunnan, China",
+    "volume": "231",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2015",
+    "page": "283–288",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.231.3.6",
+    "DOI": "10.11646/phytotaxa.231.3.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "X.-M."
+      },
+      {
+        "family": "Jiang",
+        "given": "L.-J."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Gao",
+        "given": "X.-F."
+      },
+      {
+        "family": "He",
+        "given": "Z.-R."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "Spore morphology of Selaginella (Selaginellaceae) from China and its systematic significance",
+    "volume": "237",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2015",
+    "page": "1–67",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.237.1.1",
+    "DOI": "10.11646/phytotaxa.237.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "X.-M."
+      },
+      {
+        "family": "Rothfels",
+        "given": "C.J."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "He",
+        "given": "Z.-R."
+      },
+      {
+        "family": "Le Péchon",
+        "given": "T."
+      },
+      {
+        "family": "He",
+        "given": "H."
+      },
+      {
+        "family": "Lu",
+        "given": "N.T."
+      },
+      {
+        "family": "R.",
+        "given": "Knapp"
+      },
+      {
+        "family": "Lorence",
+        "given": "D."
+      },
+      {
+        "family": "He",
+        "given": "X.-J."
+      },
+      {
+        "family": "Gao",
+        "given": "X.-F."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "A large-scale phylogeny of the lycophyte genus Selaginella (Selaginellaceae: Lycopodiopsida) based on plastid and nuclear loci",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "issued": "2016",
+    "page": "360–389",
+    "URL": "https://doi.org/10.1111/cla.12136",
+    "DOI": "10.1111/cla.12136"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "X.-M."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.-B."
+      }
+    ],
+    "title": "A classification of Selaginella (Selaginellaceae) based on molecular (chloroplast and nuclear), macromorphological, and spore features",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2015",
+    "page": "1117–1140",
+    "URL": "https://doi.org/10.12705/646.2",
+    "DOI": "10.12705/646.2"
+  }
+]

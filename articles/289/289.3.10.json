@@ -1,0 +1,208 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R."
+      }
+    ],
+    "title": "Listera",
+    "editor": [
+      {
+        "family": "Aiton",
+        "given": "W."
+      },
+      {
+        "family": "Aiton",
+        "given": "W.T."
+      }
+    ],
+    "edition": "2nd",
+    "volume": "5",
+    "publisher": "Longman, Hurst, Rees, Ormes and Brown, London",
+    "type": "book",
+    "issued": "1813",
+    "page": "201"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      }
+    ],
+    "title": "Neottia and Listera",
+    "editor": [
+      {
+        "family": "Lang",
+        "given": "K.Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "1999",
+    "page": "97–121",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "S.C."
+      },
+      {
+        "family": "Gale",
+        "given": "S.W."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "Neottia",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "25",
+    "publisher": "Sciences Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "184–195",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Guettard",
+        "given": "J.É."
+      }
+    ],
+    "title": "Histoire de l’académie royale des sciences. Avec les mémoires de mathématique & de physique",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "L’Imprimerie Royale",
+    "issue": "",
+    "issued": "1754",
+    "page": "374"
+  },
+  {
+    "author": [
+      {
+        "family": "Hsu",
+        "given": "T.C."
+      },
+      {
+        "family": "Chung",
+        "given": "S.W."
+      }
+    ],
+    "title": "Nomencleture Changes of Some Orchids in China and Taiwan",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Taiwan Journal of Forest Science",
+    "issue": "1",
+    "issued": "2009",
+    "page": "75–78"
+  },
+  {
+    "title": "International Union for Conservation of Nature and Natural Resources",
+    "publisher": "IUCN",
+    "note": "and Cambridge, United Kingdom. Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland, Switzerland",
+    "URL": "http://www.iucnredlist.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Jin",
+        "given": "X.H."
+      },
+      {
+        "family": "Li",
+        "given": "H."
+      }
+    ],
+    "title": "Listera fugongensis (Orchidaceae), a new species from Yunnan,China",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "3",
+    "issued": "2007",
+    "page": "243–244",
+    "URL": "https://doi.org/10.1663/0007-196X(2007)59",
+    "DOI": "10.1663/0007-196X(2007)59"
+  },
+  {
+    "author": [
+      {
+        "family": "Jin",
+        "given": "X.H."
+      }
+    ],
+    "title": "A new species of Neottia (Orchidaceae, Epidendroideae) from southwestern China",
+    "volume": "177",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "3",
+    "issued": "2014",
+    "page": "188–190",
+    "URL": "https://doi.org/10.11646/phytotaxa.177.3.8",
+    "DOI": "10.11646/phytotaxa.177.3.8"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearce",
+        "given": "N.R."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      }
+    ],
+    "title": "The Orchids of Bhutan",
+    "publisher": "The Charlesworth Group, Huddersfield",
+    "type": "book",
+    "issued": "2002",
+    "page": "643"
+  },
+  {
+    "author": [
+      {
+        "family": "Pridgeon",
+        "given": "A.M."
+      },
+      {
+        "family": "Cribb",
+        "given": "P.J."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Rasmussen",
+        "given": "F.N."
+      }
+    ],
+    "title": "Genera Orchidacearum, 4",
+    "publisher": "Oxford University Press, Oxford",
+    "type": "book",
+    "issued": "2005",
+    "page": "672"
+  }
+]

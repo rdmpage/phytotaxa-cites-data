@@ -1,0 +1,561 @@
+[
+  {
+    "author": [
+      {
+        "family": "Amshoff",
+        "given": "G.J.H."
+      }
+    ],
+    "title": "Notes on Guiana Myrtaceae III",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Recueil des Travaux Botaniques Néerlandais",
+    "issued": "1950",
+    "page": "1–27"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O.C."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae",
+    "volume": "27",
+    "note": "biodiversitylibrary.org/page/35225639",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1855",
+    "page": "1–472"
+  },
+  {
+    "author": [
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      },
+      {
+        "family": "Jussieu",
+        "given": "A."
+      },
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "container-title": "Flora Brasiliae Meridionalis",
+    "volume": "2",
+    "publisher": "A. Belin",
+    "type": "chapter",
+    "issued": "1832",
+    "page": "277–381",
+    "publisher-place": "Parisiis"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "D.G."
+      }
+    ],
+    "title": "The importance of floristic inventory in the tropics",
+    "editor": [
+      {
+        "family": "Campbell",
+        "given": "D.G."
+      },
+      {
+        "family": "Hammond",
+        "given": "D."
+      }
+    ],
+    "publisher": "New York Botanical Garden",
+    "type": "book",
+    "issued": "1989",
+    "page": "545 5–30",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "3",
+    "type": null,
+    "issued": "1828",
+    "page": "207–296"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "B."
+      },
+      {
+        "family": "Daly",
+        "given": "D.C."
+      },
+      {
+        "family": "Hickey",
+        "given": "L.J."
+      },
+      {
+        "family": "Johnson",
+        "given": "K.R."
+      },
+      {
+        "family": "Mitchell",
+        "given": "J.D."
+      },
+      {
+        "family": "Wilf",
+        "given": "P."
+      },
+      {
+        "family": "Wing",
+        "given": "S.L."
+      }
+    ],
+    "title": "Manual of leaf architecture",
+    "publisher": "Cornell University",
+    "type": "book",
+    "issued": "2009",
+    "page": "190"
+  },
+  {
+    "title": "FB 2020 (Flora do Brasil 2020",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://reflora.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ConsultaPublicaUC.do#CondicaoTaxonCP"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "E."
+      },
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Morfologia vegetal",
+    "edition": "2",
+    "publisher": "São Paulo, Plantarum",
+    "type": "book",
+    "issued": "2011",
+    "page": "544"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Flora of the British West Indian Islands",
+    "publisher": "London",
+    "type": "book",
+    "issued": "1864",
+    "page": "789",
+    "URL": "https://doi.org/10.5962/bhl.title.106964",
+    "DOI": "10.5962/bhl.title.106964"
+  },
+  {
+    "author": [
+      {
+        "family": "Hickey",
+        "given": "M."
+      },
+      {
+        "family": "King",
+        "given": "C."
+      }
+    ],
+    "title": "The Cambridge illustrated glossary of botanical terms",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "2000",
+    "page": "208"
+  },
+  {
+    "title": "IBGE (Instituto Brasileiro de Geografia e Estatística",
+    "note": "IBGE@cidades. Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://cidades.ibge.gov.br/"
+  },
+  {
+    "title": "INCT (Instituto Nacional de Ciência e Tecnologia",
+    "note": "speciesLink. Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://inct.splink.org.br/"
+  },
+  {
+    "title": "IUCN (International Union for the Conservation of Nature and Natural Resources",
+    "volume": "13",
+    "note": "Available from: iucnredlist.org/documents/RedListGuidelines.pdf (accessed 15 November 2018",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "108",
+    "issued": "2017",
+    "page": null,
+    "publisher-place": "Gland, Switzerland"
+  },
+  {
+    "author": [
+      {
+        "given": "J.B.R.J."
+      }
+    ],
+    "title": "Jabot - Banco de dados do Jardim Botânico do Rio de Janeiro",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lemée",
+        "given": "A.M.V."
+      }
+    ],
+    "title": "Flore de la Guyane française",
+    "volume": "v",
+    "type": null,
+    "issued": "1954",
+    "page": "4",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Lourenço",
+        "given": "A.R.L."
+      },
+      {
+        "family": "Parra-O.",
+        "given": "C."
+      },
+      {
+        "family": "Sánchez-Chávez",
+        "given": "E."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "New combinations and names for continental American Calyptranthes (Myrtaceae: Myrcia s.l",
+    "volume": "373",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "71–85",
+    "URL": "https://doi.org/10.11646/phytotaxa.373.1.3",
+    "DOI": "10.11646/phytotaxa.373.1.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "E."
+      },
+      {
+        "family": "Wilson",
+        "given": "C.E."
+      },
+      {
+        "family": "Lima",
+        "given": "D.F."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      }
+    ],
+    "title": "A conspectus of Myrcia sect",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "Aulomyrcia (Myrtaceae). Annals of the Missouri Botanical Garden",
+    "issued": "2016",
+    "page": "648–698",
+    "URL": "https://doi.org/10.3417/2014015",
+    "DOI": "10.3417/2014015"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "E."
+      },
+      {
+        "family": "Amorim",
+        "given": "B.S."
+      },
+      {
+        "family": "Lima",
+        "given": "D.F."
+      },
+      {
+        "family": "Lima-Lourenço",
+        "given": "A.R."
+      },
+      {
+        "family": "Nic Lughadha",
+        "given": "E.M."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      },
+      {
+        "family": "Rosa",
+        "given": "P.O."
+      },
+      {
+        "family": "Staggmeier",
+        "given": "V.G.Vasconcelos"
+      },
+      {
+        "given": "T.N.C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Rosário",
+    "publisher": "A.S",
+    "volume": "73",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2018",
+    "page": "9",
+    "publisher-place": "Santos, L.L., Santos, M.F., Souza, M.C",
+    "URL": "https://doi.org/10.1007/s12225-017-9730-5",
+    "DOI": "10.1007/s12225-017-9730-5"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Bünger",
+        "given": "M.O."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Sections in Eugenia (Myrteae, Myrtaceae): nomenclatural notes and a key",
+    "volume": "289",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "225–236",
+    "URL": "https://doi.org/10.11646/phytotaxa.289.3.2",
+    "DOI": "10.11646/phytotaxa.289.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Giaretta",
+        "given": "A."
+      },
+      {
+        "family": "Vasconcelos",
+        "given": "T."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Phylogeny and geography of the hyper-diverse genus Eugenia (Myrtaceae: Myrteae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "with emphasis on E. sect. Umbellatae",
+    "issued": "2018",
+    "page": "752–769",
+    "URL": "https://doi.org/10.12705/674.5",
+    "DOI": "10.12705/674.5"
+  },
+  {
+    "author": [
+      {
+        "family": "McDade",
+        "given": "L."
+      }
+    ],
+    "title": "Species concepts and problems in practice: insight from botanical monographs",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "1995",
+    "page": "606–622",
+    "URL": "https://doi.org/10.2307/2419813",
+    "DOI": "10.2307/2419813"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "The botany of the Guayana Highland—Myrtaceae",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1958",
+    "page": "61–91"
+  },
+  {
+    "author": [
+      {
+        "family": "McVaugh",
+        "given": "R."
+      }
+    ],
+    "title": "Botany of the Guayana Highland—Myrtaceae",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Memoirs of the New York Botanical Garden",
+    "issued": "1969",
+    "page": "55–286"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruiz",
+        "given": "H."
+      },
+      {
+        "family": "Pavón",
+        "given": "J."
+      }
+    ],
+    "title": "Systema vegetabilium florae Peruvianae et Chilensis",
+    "publisher": "Madrid",
+    "type": "book",
+    "issued": "1798",
+    "page": "456"
+  },
+  {
+    "author": [
+      {
+        "family": "Sandwith",
+        "given": "N.Y."
+      }
+    ],
+    "title": "Contributions to the flora of tropical America",
+    "volume": "1932",
+    "type": "article-journal",
+    "container-title": "Bulletin of Miscellaneous Information, Kew",
+    "issued": "1932",
+    "page": "209–229",
+    "URL": "https://doi.org/10.2307/4113402",
+    "DOI": "10.2307/4113402"
+  },
+  {
+    "author": [
+      {
+        "family": "Shepherd",
+        "given": "G.J."
+      }
+    ],
+    "title": "Avaliação do estado do conhecimento da diversidade biológica do Brasil: plantas terrestres—versão preliminar",
+    "publisher": "Ministério do Meio Ambiente",
+    "type": "book",
+    "issued": "2003",
+    "publisher-place": "Brasília"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Styermark",
+        "given": "J.A."
+      }
+    ],
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Fieldiana, Botany",
+    "issued": "1957",
+    "page": "1003–1025"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova genera et species plantarum seu Prodromus descriptionem vegetabilium",
+    "publisher": "Holm",
+    "type": "book",
+    "issued": "1788",
+    "page": "158"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum. A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  }
+]

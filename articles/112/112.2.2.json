@@ -1,0 +1,263 @@
+[
+  {
+    "author": [
+      {
+        "given": "References"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": "DNA Baser Sequence Assembler",
+    "volume": "3",
+    "issue": "x",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.DnaBaser.com"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "A simple, fast and accurate algorithm to estimate large phylogenies by maximum Likelihood",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2003",
+    "page": "696–704"
+  },
+  {
+    "author": [
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      },
+      {
+        "family": "Ronquist",
+        "given": "F."
+      }
+    ],
+    "title": "MRBAYES: Bayesian inference of phylogeny",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2001",
+    "page": "754–755"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "G."
+      },
+      {
+        "family": "Schrire",
+        "given": "B."
+      },
+      {
+        "family": "Mackinder",
+        "given": "B."
+      },
+      {
+        "family": "Lock",
+        "given": "M."
+      }
+    ],
+    "title": "Legumes of the world",
+    "publisher": "Royal Botanical Gardens",
+    "type": "book",
+    "issued": "2005",
+    "publisher-place": "Kew, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModel Test. Phylogenetic Model Averaging",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2008",
+    "page": "1253–1256"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "Mr BAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "Revision of the genus Indigofera in India",
+    "editor": [
+      {
+        "family": "Hazra",
+        "given": "P.K."
+      },
+      {
+        "family": "Sastry",
+        "given": "A.R.K."
+      },
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "container-title": "Fascicles of Flora of India",
+    "volume": "21",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "1–160"
+  },
+  {
+    "author": [
+      {
+        "family": "Schrire",
+        "given": "B.D."
+      },
+      {
+        "family": "Lavin",
+        "given": "M."
+      },
+      {
+        "family": "Barker",
+        "given": "N.P."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      }
+    ],
+    "title": "Phylogeny of the tribe Indigofereae (Leguminosae–Papilionoideae): Geographically structured more in succulent-rich and temperate settings than in grass-rich environments",
+    "volume": "96",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "4",
+    "issued": "2009",
+    "page": "816–852"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The ClustalX window interface: flexible strategies for multiple sequence alignment aided by quality analyses tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      }
+    ],
+    "title": "CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, positions-specific gap penalties and weight matrix choice",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1994",
+    "page": "4673–4680"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "J.J.",
+        "given": "Sninsky"
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–321",
+    "publisher-place": "San Diego, CA"
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "volume": "150",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "http://dx.doi.org/10.3897/zookeys.150.2109",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Team Classification",
+        "particle": "eMonocot"
+      }
+    ],
+    "title": "Dioscoreaceae",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://dioscoreaceae.e-monocot.org/taxonomy/term/1769"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, version 3.1",
+    "container-title": "IUCN Species Survival Commission, IUCN",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "30",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirizawa",
+        "given": "M."
+      },
+      {
+        "family": "Xifreda",
+        "given": "C.C."
+      },
+      {
+        "family": "Couto",
+        "given": "R."
+      },
+      {
+        "family": "Araújo",
+        "given": "D."
+      }
+    ],
+    "title": "Dioscoreaceae",
+    "editor": [
+      {
+        "given": "Reflora"
+      }
+    ],
+    "note": "Jardim Botânico do Rio de Janeiro, Rio de Janeiro. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB104"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "R."
+      }
+    ],
+    "title": "Dioscoreaceae",
+    "editor": [
+      {
+        "family": "H.G.A",
+        "given": "Engler"
+      }
+    ],
+    "container-title": "Das Pflanzenreich",
+    "volume": "43",
+    "publisher": "Verlag von Wilhelm Engelmann",
+    "issue": "Helf 87",
+    "type": "article-journal",
+    "issued": "1924",
+    "page": "1–387",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Dioscorea",
+    "editor": [
+      {
+        "family": "Carl",
+        "given": "von L."
+      },
+      {
+        "family": "Lars",
+        "given": "S."
+      }
+    ],
+    "container-title": "Species Plantarum",
+    "volume": "v",
+    "publisher": "Impensis Laurentii Salvii, Holmiae",
+    "type": "chapter",
+    "issued": "1753",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "List",
+        "given": "The Plant"
+      }
+    ],
+    "title": "The Plant List, Version 1.1",
+    "note": "Published on the Internet. Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.theplantlist.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Weberling",
+        "given": "F."
+      }
+    ],
+    "title": "Morphology of flowers and inflorescences",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "1992",
+    "publisher-place": "Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkin",
+        "given": "P."
+      },
+      {
+        "family": "Schols",
+        "given": "P."
+      },
+      {
+        "family": "Chase",
+        "given": "M.W."
+      },
+      {
+        "family": "Chayamarit",
+        "given": "K."
+      },
+      {
+        "family": "Furness",
+        "given": "C.A."
+      },
+      {
+        "family": "Huysmans",
+        "given": "S."
+      },
+      {
+        "family": "Rakotonasolo",
+        "given": "F."
+      },
+      {
+        "family": "Smets",
+        "given": "E."
+      },
+      {
+        "family": "Thapyai",
+        "given": "C."
+      }
+    ],
+    "title": "A plastid gene phylogeny of the yam genus, Dioscorea: roots, fruits and Madagascar",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issued": "2005",
+    "page": "736 –749",
+    "URL": "http://dx.doi.org/10.1600/036364405775097879",
+    "DOI": "10.1600/036364405775097879"
+  }
+]

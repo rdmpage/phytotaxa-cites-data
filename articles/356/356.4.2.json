@@ -1,0 +1,647 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chamberlain",
+        "given": "D.F."
+      },
+      {
+        "family": "Hyam",
+        "given": "R."
+      },
+      {
+        "family": "Argent",
+        "given": "G."
+      },
+      {
+        "family": "Fairweather",
+        "given": "G."
+      },
+      {
+        "family": "Walter",
+        "given": "K.S."
+      }
+    ],
+    "title": "The genus Rhododendron: its classification and synonymy",
+    "publisher": "Royal Botanic Garden Edinburgh",
+    "type": "book",
+    "issued": "1996",
+    "publisher-place": "Edinburgh"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.J."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.L."
+      }
+    ],
+    "title": "A rapid DNA isolation procedure for small quantities of fresh leaf material",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Phytochemical Bulletin",
+    "issued": "1987",
+    "page": "11–15"
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "M.-Y."
+      },
+      {
+        "family": "Fang",
+        "given": "R.-C."
+      },
+      {
+        "family": "He",
+        "given": "M.-Y."
+      },
+      {
+        "family": "Hu",
+        "given": "L.-Z."
+      },
+      {
+        "family": "Yang",
+        "given": "H.-B."
+      },
+      {
+        "family": "Chamberlain",
+        "given": "D.F."
+      },
+      {
+        "family": "Gard",
+        "given": "M.O.Bot"
+      }
+    ],
+    "title": "Ericaceae",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.-Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      },
+      {
+        "family": "Hong",
+        "given": "D.-Y."
+      }
+    ],
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2005",
+    "page": "260–455",
+    "publisher-place": "Beijing, China"
+  },
+  {
+    "author": [
+      {
+        "family": "Gao",
+        "given": "L.-M."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.-Q."
+      }
+    ],
+    "title": "Phylogenetic relationships of Rhododendron section Azaleastrum (Ericaceae) based on ITS sequences",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "ACTA Phytotaxonomica Sinica",
+    "issued": "2003",
+    "page": "173–179"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hebert",
+        "given": "P.D.N."
+      },
+      {
+        "family": "Penton",
+        "given": "E.H."
+      },
+      {
+        "family": "Burns",
+        "given": "J.M."
+      },
+      {
+        "family": "Janzen",
+        "given": "D.H."
+      },
+      {
+        "family": "Hallwachs",
+        "given": "W."
+      }
+    ],
+    "title": "Ten species in one: DNA barcoding reveals cryptic species in the neotropical skipper butterfly Astraptes fulgerator",
+    "container-title": "Proceedings of the National Academy of Sciences USA",
+    "volume": "101",
+    "type": "paper-conference",
+    "issued": "2004",
+    "page": "14812–14817",
+    "URL": "https://doi.org/10.1073/pnas.0406166101",
+    "DOI": "10.1073/pnas.0406166101"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "C.-C."
+      }
+    ],
+    "title": "The numerical taxonomy of some species of Populus based on vegetative characters",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "2",
+    "issued": "1985",
+    "URL": "https://doi.org/10.2307/1221778",
+    "DOI": "10.2307/1221778"
+  },
+  {
+    "author": [
+      {
+        "family": "Larkin",
+        "given": "M.A."
+      },
+      {
+        "family": "Blackshields",
+        "given": "G."
+      },
+      {
+        "family": "Brown",
+        "given": "N."
+      },
+      {
+        "family": "Chenna",
+        "given": "R."
+      },
+      {
+        "family": "McGettigan",
+        "given": "P.A."
+      },
+      {
+        "family": "McWilliam",
+        "given": "H."
+      },
+      {
+        "family": "Valentin",
+        "given": "F."
+      },
+      {
+        "family": "Wallace",
+        "given": "I.M."
+      },
+      {
+        "family": "Wilm",
+        "given": "A."
+      },
+      {
+        "family": "Lopez",
+        "given": "R."
+      },
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "Clustal W and Clustal X version 2.0",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2007",
+    "page": "2947–2948",
+    "URL": "https://doi.org/10.1093/bioinformatics/btm404",
+    "DOI": "10.1093/bioinformatics/btm404"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Gao",
+        "given": "L.-M."
+      },
+      {
+        "family": "Li",
+        "given": "H.-T."
+      },
+      {
+        "family": "Wang",
+        "given": "H."
+      },
+      {
+        "family": "Ge",
+        "given": "X.-J."
+      },
+      {
+        "family": "Liu",
+        "given": "J.-Q."
+      },
+      {
+        "family": "Chen",
+        "given": "Z.-D."
+      },
+      {
+        "family": "Zhou",
+        "given": "S.-L."
+      },
+      {
+        "family": "Chen",
+        "given": "S.-L."
+      },
+      {
+        "family": "Yang",
+        "given": "J.-B."
+      },
+      {
+        "family": "Fu",
+        "given": "C.-X."
+      },
+      {
+        "family": "Zeng",
+        "given": "C.-X."
+      },
+      {
+        "family": "Yan",
+        "given": "H.-F."
+      },
+      {
+        "family": "Zhu",
+        "given": "Y.-J."
+      },
+      {
+        "family": "Sun",
+        "given": "Y.-S."
+      },
+      {
+        "family": "Chen",
+        "given": "S.-Y."
+      },
+      {
+        "family": "Zhao",
+        "given": "L."
+      },
+      {
+        "family": "Wang",
+        "given": "K."
+      },
+      {
+        "family": "Yang",
+        "given": "T."
+      },
+      {
+        "family": "Duan",
+        "given": "G.-W."
+      }
+    ],
+    "title": "Comparative analysis of a large dataset indicates that internal transcribed spacer (ITS) should be incorporated into the core barcode for seed plants",
+    "container-title": "Proceedings of the National Academy of Sciences USA",
+    "volume": "108",
+    "type": "paper-conference",
+    "issued": "2011",
+    "page": "19641–19646",
+    "URL": "https://doi.org/10.1073/pnas.1104551108",
+    "DOI": "10.1073/pnas.1104551108"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "J."
+      },
+      {
+        "family": "Möller",
+        "given": "M."
+      },
+      {
+        "family": "Gao",
+        "given": "L.-M."
+      },
+      {
+        "family": "Zhang",
+        "given": "D.-Q."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      }
+    ],
+    "title": "DNA barcoding for the discrimination of Eurasian yews (Taxus L., Taxaceae) and the discovery of cryptic species",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2011",
+    "page": "89–100",
+    "URL": "https://doi.org/10.1111/j.1755-0998.2010.02907.x",
+    "DOI": "10.1111/j.1755-0998.2010.02907.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "R.-L."
+      },
+      {
+        "family": "Zhang",
+        "given": "Z.-X."
+      },
+      {
+        "family": "Liao",
+        "given": "W.-M."
+      }
+    ],
+    "title": "A checklist of seed plants of Jiangxi",
+    "publisher": "Chinese Forestry Press",
+    "type": "book",
+    "issued": "2010",
+    "page": "1–198",
+    "publisher-place": "Peking"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "R.-L."
+      },
+      {
+        "family": "Zhu",
+        "given": "H."
+      }
+    ],
+    "title": "The Jiangxi woody and rare plants flora [M",
+    "publisher": "Chinese Forestry Press",
+    "type": "book",
+    "issued": "2015",
+    "page": "446–483",
+    "publisher-place": "Peking"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Y.-P."
+      },
+      {
+        "family": "Wu",
+        "given": "Z.-K."
+      },
+      {
+        "family": "Tian",
+        "given": "X.-L."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.-Q."
+      },
+      {
+        "family": "Sun",
+        "given": "W.-B."
+      }
+    ],
+    "title": "Growth discrepancy between filament and style facilitates autonomous self-fertilization in Hedychium yunnanense",
+    "volume": "145",
+    "type": "article-journal",
+    "container-title": "Plant Ecology and Evolution",
+    "issued": "2012",
+    "page": "185–189",
+    "URL": "https://doi.org/10.5091/plecevo.2012.652",
+    "DOI": "10.5091/plecevo.2012.652"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Y.-P."
+      },
+      {
+        "family": "Wu",
+        "given": "Z.-K."
+      },
+      {
+        "family": "Xue",
+        "given": "R.-J."
+      },
+      {
+        "family": "Tian",
+        "given": "X.-L."
+      },
+      {
+        "family": "Gao",
+        "given": "L.-M."
+      },
+      {
+        "family": "Sun",
+        "given": "W.-B."
+      }
+    ],
+    "title": "A new species of Rhododendron (Ericaceae) from the Gaoligong Mountains, Yunnan, China, supported by morphological and DNA barcoding data",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2013",
+    "page": "42–50",
+    "URL": "https://doi.org/10.11646/phytotaxa.114.1.4",
+    "DOI": "10.11646/phytotaxa.114.1.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Sokal",
+        "given": "R.R."
+      },
+      {
+        "family": "Sneath",
+        "given": "P.H.A."
+      }
+    ],
+    "title": "Phenetic taxonomy",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Annual Review of Ecology and Systematics",
+    "issued": "1986",
+    "page": "423–442",
+    "URL": "https://doi.org/10.1146/annurev.es.17.110186.002231",
+    "DOI": "10.1146/annurev.es.17.110186.002231"
+  },
+  {
+    "author": [
+      {
+        "family": "Srivathsan",
+        "given": "A."
+      },
+      {
+        "family": "Meier",
+        "given": "R."
+      }
+    ],
+    "title": "On the inappropriate use of Kimura-2-parameter (K2P",
+    "type": null,
+    "issued": "2012"
+  },
+  {
+    "title": "divergences in the DNA-barcoding literature",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Cladistics",
+    "page": "190–194",
+    "URL": "https://doi.org/10.1111/j.1096-0031.2011.00370.x",
+    "DOI": "10.1111/j.1096-0031.2011.00370.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Filipski",
+        "given": "A."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA6: Molecular Evolutionary Genetics Analysis version 6.0",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "2725–2729",
+    "URL": "https://doi.org/10.1093/molbev/mst197",
+    "DOI": "10.1093/molbev/mst197"
+  },
+  {
+    "author": [
+      {
+        "family": "Yan",
+        "given": "L.-J."
+      },
+      {
+        "family": "Liu",
+        "given": "J."
+      },
+      {
+        "family": "Möller",
+        "given": "M."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "X.-M."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Gao",
+        "given": "L.-M."
+      }
+    ],
+    "title": "DNA barcoding of Rhododendron (Ericaceae), the largest Chinese plant genus in biodiversity hotspots of the Himalaya–Hengduan Mountains",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2014",
+    "page": "932–944",
+    "URL": "https://doi.org/10.1111/1755-0998.12353",
+    "DOI": "10.1111/1755-0998.12353"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "J.-B."
+      },
+      {
+        "family": "Wang",
+        "given": "Y.-P."
+      },
+      {
+        "family": "Möller",
+        "given": "M."
+      },
+      {
+        "family": "Gao",
+        "given": "L.-M."
+      },
+      {
+        "family": "Wu",
+        "given": "D."
+      }
+    ],
+    "title": "Applying plant DNA barcodes to identify species of Parnassia (Parnassiaceae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2012",
+    "page": "267–275",
+    "URL": "https://doi.org/10.1111/j.1755-0998.2011.03095.x",
+    "DOI": "10.1111/j.1755-0998.2011.03095.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "D.-X."
+      },
+      {
+        "family": "Li",
+        "given": "S.-J."
+      }
+    ],
+    "title": "A checklist of vascular plants of Nanling Mountains [M",
+    "publisher": "Science Press",
+    "type": "book",
+    "issued": "2011",
+    "page": "31–378",
+    "publisher-place": "Peking"
+  }
+]

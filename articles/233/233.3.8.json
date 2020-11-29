@@ -1,0 +1,162 @@
+[
+  {
+    "author": [
+      {
+        "given": "eMonocot"
+      }
+    ],
+    "title": "eMonocot: An online resource for monocot plants, version 1.0.2",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://e-monocot.org/"
+  },
+  {
+    "author": [
+      {
+        "family": "Karthikeyan",
+        "given": "S."
+      },
+      {
+        "family": "Jain",
+        "given": "S.K."
+      },
+      {
+        "family": "Nayar",
+        "given": "M.P."
+      },
+      {
+        "family": "Sanjappa",
+        "given": "M."
+      }
+    ],
+    "title": "Florae Indicae Enumeratio: Monocotyledonae",
+    "volume": "Ser",
+    "publisher": "Botanical Survey of India",
+    "type": "article-journal",
+    "container-title": "Fl. India",
+    "issued": "1989",
+    "page": "4",
+    "publisher-place": "Calcutta"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Buck",
+        "given": "W.R."
+      },
+      {
+        "family": "Demoulin",
+        "given": "V."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Reine",
+        "given": "W.F.",
+        "particle": "Prud’homme van"
+      },
+      {
+        "family": "Smith",
+        "given": "G.F."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Turland",
+        "given": "N.J."
+      }
+    ],
+    "note": "International Code of Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154. Koeltz Scientific Books, Königstein.",
+    "type": null,
+    "issued": "2012"
+  },
+  {
+    "author": [
+      {
+        "family": "Prain",
+        "given": "D."
+      },
+      {
+        "family": "Burkill",
+        "given": "I.H."
+      }
+    ],
+    "title": "Dioscorearum novaum – Descriptiones quaedam",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal and Proceedings of the Asiatic Society of Bengal",
+    "issued": "1908",
+    "page": "447–457"
+  },
+  {
+    "author": [
+      {
+        "family": "Prain",
+        "given": "D."
+      },
+      {
+        "family": "Burkill",
+        "given": "I.H."
+      }
+    ],
+    "title": "An account of the genus Dioscorea in the East, Part 1. The species which twine to the left",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Annals of the Royal Botanic Garden, Calcutta",
+    "issue": "1",
+    "issued": "1936",
+    "page": "1–210"
+  },
+  {
+    "author": [
+      {
+        "family": "Prain",
+        "given": "D."
+      },
+      {
+        "family": "Burkill",
+        "given": "I.H."
+      }
+    ],
+    "title": "An account of the genus Dioscorea in the East, Part 2. The species which twine to the right",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Annals of the Royal Botanic Garden, Calcutta",
+    "issue": "2",
+    "issued": "1938",
+    "page": "211–523"
+  }
+]

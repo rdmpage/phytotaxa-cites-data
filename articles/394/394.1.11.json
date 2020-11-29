@@ -1,0 +1,489 @@
+[
+  {
+    "author": [
+      {
+        "family": "Austin",
+        "given": "C.F."
+      }
+    ],
+    "title": "Notes on Hepaticology",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Botanical Gazzette",
+    "issue": "8",
+    "issued": "1876",
+    "page": "35 36"
+  },
+  {
+    "author": [
+      {
+        "family": "Bastos",
+        "given": "C.J.P."
+      },
+      {
+        "family": "Yano",
+        "given": "O."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Ceratolejeunea Jack",
+        "given": "O.",
+        "particle": "gênero"
+      },
+      {
+        "family": "Bahia",
+        "given": "Steph",
+        "particle": "no Estado da"
+      },
+      {
+        "given": "Brasil"
+      }
+    ],
+    "volume": "35",
+    "issue": "1",
+    "type": null,
+    "issued": "2008",
+    "page": "69 74",
+    "URL": "https://doi.org/10.1590/S2236-89062008000100004",
+    "DOI": "10.1590/S2236-89062008000100004"
+  },
+  {
+    "author": [
+      {
+        "family": "Brito",
+        "given": "E.da S."
+      },
+      {
+        "family": "Ilkiu-Borges",
+        "given": "A.L."
+      }
+    ],
+    "title": "A new species of Ceratolejeunea Jack & Steph",
+    "director": [
+      {
+        "family": "Lejeuneaceae",
+        "given": "Jungermanniopsida"
+      }
+    ],
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Brazil. Nova Hedwigia",
+    "issued": "2012",
+    "page": "423 428",
+    "URL": "https://doi.org/10.1127/0029-5035/2012/0061",
+    "DOI": "10.1127/0029-5035/2012/0061"
+  },
+  {
+    "author": [
+      {
+        "family": "Dauphin",
+        "given": "G."
+      }
+    ],
+    "title": "Ceratolejeunea",
+    "volume": "90",
+    "type": "article-journal",
+    "container-title": "Flora Neotropica, Monograph",
+    "issued": "2003",
+    "page": "1 86"
+  },
+  {
+    "author": [
+      {
+        "family": "Grolle",
+        "given": "R."
+      }
+    ],
+    "title": "Zur Kenntnis der Lejeuneoideae in Cuba (1): Cyclolejeunea",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Wissenschaftliche Zeitschrift der Friedrich-Schiller-Universität Jena. Mathematisch-naturwissenchaftliche Reihe",
+    "issued": "1984",
+    "page": "759 764"
+  },
+  {
+    "author": [
+      {
+        "family": "Jack",
+        "given": "J.B."
+      },
+      {
+        "family": "Stephani",
+        "given": "F."
+      }
+    ],
+    "title": "Hepaticae Wallisianae",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Hedwigia",
+    "issued": "1892",
+    "page": "11 27"
+  },
+  {
+    "author": [
+      {
+        "family": "Pócs",
+        "given": "T."
+      },
+      {
+        "family": "Chantanaorrapint",
+        "given": "S."
+      }
+    ],
+    "title": "Ceratolejeunea tahitensis, a new synonym of C. cornuta (Lejeuneaceae, Marchantiophyta",
+    "volume": "207",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2015",
+    "page": "213 214",
+    "URL": "https://doi.org/10.11646/phytotaxa.207.2.10",
+    "DOI": "10.11646/phytotaxa.207.2.10"
+  },
+  {
+    "author": [
+      {
+        "family": "Reiner-Drehwald",
+        "given": "M.E."
+      }
+    ],
+    "title": "Studies on Neotropical Lejeuneaceae (Jungermanniopsida), new synonyms and Ceratolejeunea temnantha (Spruce) comb. nov",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Cryptogamie, Bryologie",
+    "issue": "2",
+    "issued": "2011",
+    "page": "95 100",
+    "URL": "https://doi.org/10.7872/cryb.v32.iss1.2011.095",
+    "DOI": "10.7872/cryb.v32.iss1.2011.095"
+  },
+  {
+    "author": [
+      {
+        "family": "Reiner-Drehwald",
+        "given": "M.E."
+      },
+      {
+        "family": "Goda",
+        "given": "A."
+      }
+    ],
+    "title": "Revison of the genus Crossotolejeunea (Lejeuneaceae, Hepaticae",
+    "volume": "89",
+    "type": "article-journal",
+    "container-title": "Journal of the Hattori Botanical Laboratory",
+    "issued": "2000",
+    "page": "1 54"
+  },
+  {
+    "author": [
+      {
+        "family": "Scheben",
+        "given": "A."
+      },
+      {
+        "family": "Bechteler",
+        "given": "J."
+      },
+      {
+        "family": "Lee",
+        "given": "G.E."
+      },
+      {
+        "family": "Pócs",
+        "given": "T."
+      },
+      {
+        "family": "Schäfer-Verwimp",
+        "given": "A."
+      },
+      {
+        "family": "Heinrichs",
+        "given": "J."
+      }
+    ],
+    "title": "Multiple transoceanic dispersals and geographical structure in the pantropical leafy liverwort Ceratolejeunea (Lejeuneaceae, Porellales",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2016",
+    "page": "1739 1749",
+    "URL": "https://doi.org/10.1111/jbi.12779",
+    "DOI": "10.1111/jbi.12779"
+  },
+  {
+    "author": [
+      {
+        "family": "Schuster",
+        "given": "R.M."
+      }
+    ],
+    "title": "North America Lejeuneaceae V. Schizostipae: Ceratolejeunea",
+    "volume": "72",
+    "type": "article-journal",
+    "container-title": "Journal of the Elisha Mitchell Scientific Society",
+    "issued": "1956",
+    "page": "292 316"
+  },
+  {
+    "author": [
+      {
+        "family": "Sierra",
+        "given": "A.M."
+      },
+      {
+        "family": "Bechteler",
+        "given": "J."
+      },
+      {
+        "family": "Cardoso",
+        "given": "D."
+      },
+      {
+        "family": "Zartman",
+        "given": "C.E."
+      },
+      {
+        "family": "Villarreal",
+        "given": "J.C."
+      }
+    ],
+    "title": "Divergence time analyses suggest a Miocene origin of the narrow Amazonian endemic rheophytic Ceratolejeunea temnantha (Spruce) Reiner-Drehwald (Porellales, Lejeuneaceae",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Bryophyte Diversity and Evolution",
+    "issued": "2018",
+    "page": "55 67",
+    "URL": "https://doi.org/10.11646/bde.40.2.4",
+    "DOI": "10.11646/bde.40.2.4"
+  },
+  {
+    "author": [
+      {
+        "family": "Söderström",
+        "given": "L."
+      },
+      {
+        "family": "Hagborg",
+        "given": "A."
+      },
+      {
+        "family": "Von Konrat",
+        "given": "M."
+      },
+      {
+        "family": "Bartholomew-Began",
+        "given": "S."
+      },
+      {
+        "family": "Bell",
+        "given": "D."
+      },
+      {
+        "family": "Briscoe",
+        "given": "L."
+      },
+      {
+        "family": "Brown",
+        "given": "E."
+      },
+      {
+        "family": "Cargill",
+        "given": "D.C."
+      },
+      {
+        "family": "Cooper",
+        "given": "E.D."
+      },
+      {
+        "family": "Costa",
+        "given": "D.P."
+      },
+      {
+        "family": "Crandall-Stotler",
+        "given": "B.J."
+      },
+      {
+        "family": "Dauphin",
+        "given": "G."
+      },
+      {
+        "family": "Engel",
+        "given": "J.J."
+      },
+      {
+        "family": "Feldberg",
+        "given": "K."
+      },
+      {
+        "family": "Glenny",
+        "given": "D."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "He",
+        "given": "X."
+      },
+      {
+        "family": "Heinrichs",
+        "given": "J."
+      },
+      {
+        "family": "Hentschel",
+        "given": "J."
+      },
+      {
+        "family": "Ilkiu-Borges",
+        "given": "A.L."
+      },
+      {
+        "family": "Katagiri",
+        "given": "T."
+      },
+      {
+        "family": "Konstantinova",
+        "given": "N.A."
+      },
+      {
+        "family": "Larraín",
+        "given": "J."
+      },
+      {
+        "family": "Long",
+        "given": "D.G."
+      },
+      {
+        "family": "Nebel",
+        "given": "M."
+      },
+      {
+        "family": "Pócs",
+        "given": "T."
+      },
+      {
+        "family": "Puche",
+        "given": "F."
+      },
+      {
+        "family": "Reiner-Drehwald",
+        "given": "M.E."
+      },
+      {
+        "family": "Renner",
+        "given": "M.A.M."
+      },
+      {
+        "family": "Sass-Gyarmatii",
+        "given": "A."
+      },
+      {
+        "family": "Schäfer-Verwimp",
+        "given": "A."
+      },
+      {
+        "family": "Sagarra-Moragues",
+        "given": "J.G."
+      },
+      {
+        "family": "Stotler",
+        "given": "R.E."
+      },
+      {
+        "family": "Sukkharak",
+        "given": "P."
+      },
+      {
+        "family": "Thiers",
+        "given": "B.M."
+      },
+      {
+        "family": "Uribe",
+        "given": "J."
+      },
+      {
+        "family": "Váňa",
+        "given": "J."
+      },
+      {
+        "family": "Villarreal",
+        "given": "J.C."
+      },
+      {
+        "family": "Wigginton",
+        "given": "M."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Zhu",
+        "given": "R.L."
+      }
+    ],
+    "title": "World checklist of hornworts and liverworts",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "PhytoKeys",
+    "issued": "2016",
+    "page": "1–828",
+    "URL": "https://doi.org/10.3897/phytokeys.59.6261",
+    "DOI": "10.3897/phytokeys.59.6261"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephani",
+        "given": "F."
+      }
+    ],
+    "title": "Species Hepaticarum 5. George & Cie, Gèneve et Bâle",
+    "type": null,
+    "issued": "1913",
+    "page": "178 480",
+    "publisher-place": "Lyon"
+  },
+  {
+    "author": [
+      {
+        "family": "Spruce",
+        "given": "R."
+      }
+    ],
+    "title": "Hepaticae Amazonicae et Andinae. I",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Transactions and Proccedings of the Botanical Society of Edinburgh",
+    "issued": "1884",
+    "page": "1–308"
+  },
+  {
+    "author": [
+      {
+        "family": "Thouvenot",
+        "given": "L."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Zhu",
+        "given": "R.L."
+      }
+    ],
+    "title": "A new species of Lejeuneaceae (Marchantiophyta) from New Caledonia: Ceratolejeunea bardatii sp. nov",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Cryptogamie, Bryologie",
+    "issue": "3",
+    "issued": "2015",
+    "page": "243 249",
+    "URL": "https://doi.org/10.7872/cryb/v36.iss3.2015.243",
+    "DOI": "10.7872/cryb/v36.iss3.2015.243"
+  }
+]

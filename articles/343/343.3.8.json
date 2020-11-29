@@ -1,0 +1,290 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Hooker’s Icones Plantarum",
+    "volume": "12",
+    "publisher": "Longman, Rees, Orme, Brown, Green, & Longman, etc",
+    "type": "book",
+    "issued": "1873",
+    "page": "36 39",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Boufford",
+        "given": "D.E."
+      },
+      {
+        "family": "Dyck",
+        "given": "P.P.",
+        "particle": "van"
+      }
+    ],
+    "title": "South-Central China",
+    "editor": [
+      {
+        "family": "Mittermeier",
+        "given": "R.A."
+      },
+      {
+        "family": "Mittermeier",
+        "given": "C.G."
+      }
+    ],
+    "publisher": "CEMEX, Mexico City",
+    "type": "book",
+    "issued": "1999",
+    "page": "338 351"
+  },
+  {
+    "author": [
+      {
+        "family": "Franchet",
+        "given": "A."
+      }
+    ],
+    "title": "Compositae novae e flora sinensi",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Journal de Botanique",
+    "issued": "1896",
+    "page": "409 423"
+  },
+  {
+    "author": [
+      {
+        "family": "Good",
+        "given": "R.D."
+      }
+    ],
+    "title": "The taxonomy and geography of the Sino-Himalayan genus Cremanthodium Benth",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "The Journal of Linnean Society of London",
+    "issued": "1929",
+    "page": "259 316",
+    "URL": "https://doi.org/10.1111/j.1095-8339.1929.tb00589.x",
+    "DOI": "10.1111/j.1095-8339.1929.tb00589.x"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, version 3.1",
+    "publisher": "IUCN Species Survival Commission",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2001",
+    "publisher-place": "Gland",
+    "URL": "http://www.iucnredlist.org/info/categories_criteria2001.html"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "X.W."
+      },
+      {
+        "family": "Li",
+        "given": "J."
+      }
+    ],
+    "title": "A preliminary floristic study on the seed plants from the region of Hengduan Mountain",
+    "volume": "15",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issued": "1993",
+    "page": "217 231"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "A taxonomic study on the genus Cremanthodium Benth",
+    "volume": "1",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Acta Biologia Plateau Sinica",
+    "issued": "1982",
+    "page": "40 59"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "New taxa of Compositae from Xizang (Tibet",
+    "volume": "3",
+    "note": "In Chinese",
+    "type": "article-journal",
+    "container-title": "Acta Biologia Plateau Sinica",
+    "issued": "1984",
+    "page": "55 71"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "title": "Cremanthodium Benth",
+    "editor": [
+      {
+        "family": "Ling",
+        "given": "Y."
+      },
+      {
+        "family": "Liu",
+        "given": "S.W."
+      }
+    ],
+    "container-title": "Flora Reipublicae Popularis Sinicae",
+    "volume": "77",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1989",
+    "page": "115 171",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "S.W."
+      },
+      {
+        "family": "Illarionova",
+        "given": "I.D."
+      }
+    ],
+    "title": "Cremanthodium Bentham",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "container-title": "Flora of China",
+    "volume": "20−21",
+    "publisher": "Science Press",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "415 435",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Myers",
+        "given": "N."
+      },
+      {
+        "family": "Mittermeier",
+        "given": "R.A."
+      },
+      {
+        "family": "Mittermeier",
+        "given": "C.G."
+      },
+      {
+        "family": "Fonseca",
+        "given": "G.A.",
+        "particle": "da"
+      },
+      {
+        "family": "Kent",
+        "given": "J."
+      }
+    ],
+    "title": "Biodiversity hotspots for conservation priorities",
+    "volume": "403",
+    "type": "article-journal",
+    "container-title": "Nature",
+    "issued": "2000",
+    "page": "853 858",
+    "URL": "https://doi.org/10.1038/35002501",
+    "DOI": "10.1038/35002501"
+  },
+  {
+    "author": [
+      {
+        "family": "Min",
+        "given": "T.L."
+      }
+    ],
+    "title": "Cremanthodium Benth",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      }
+    ],
+    "container-title": "Flora Yunnanica",
+    "volume": "13",
+    "publisher": "Science Press",
+    "note": "In Chinese",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "436 465",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "L."
+      },
+      {
+        "family": "Ren",
+        "given": "C."
+      },
+      {
+        "family": "Yang",
+        "given": "Q.E."
+      }
+    ],
+    "title": "Reinstatement of the Chinese species Cremanthodium gypsophilum (Asteraceae, Senecioneae",
+    "volume": "284",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2016",
+    "page": "131 136",
+    "URL": "https://doi.org/10.11646/phytotaxa.284.2.3",
+    "DOI": "10.11646/phytotaxa.284.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Z.Y."
+      }
+    ],
+    "title": "Hengduan mountain flora and her significance",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "The Journal of Japanese Botany",
+    "issued": "1988",
+    "page": "1 15"
+  }
+]

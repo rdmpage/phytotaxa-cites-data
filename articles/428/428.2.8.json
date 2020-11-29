@@ -1,0 +1,508 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O.C."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1855",
+    "page": "1–472"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O.C."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "14",
+    "type": "chapter",
+    "issued": "1859",
+    "page": "529–656"
+  },
+  {
+    "author": [
+      {
+        "family": "Bünger",
+        "given": "M.O."
+      },
+      {
+        "family": "Stehmann",
+        "given": "J.R."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Two new Atlantic Forest Myrtaceae from Brazil",
+    "volume": "147",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "2",
+    "issued": "2013",
+    "page": "55–60",
+    "URL": "https://doi.org/10.11646/phytotaxa.147.2.3",
+    "DOI": "10.11646/phytotaxa.147.2.3"
+  },
+  {
+    "author": [
+      {
+        "family": "Cambessèdes",
+        "given": "J."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliae Meridionalis",
+    "issued": "1832",
+    "page": "277–381"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Myrtacées",
+    "editor": [
+      {
+        "family": "Saint-Vincent",
+        "given": "J.B.G.M.",
+        "particle": "Bory de"
+      }
+    ],
+    "type": null,
+    "issued": "1827",
+    "page": "399–407"
+  },
+  {
+    "author": [
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      }
+    ],
+    "title": "Revisão taxonômica e filogenia de Eugenia sect. Pilothecium (Kiaersk.) D.Legrand (Myrtaceae",
+    "genre": "PhD Thesis.",
+    "publisher": "Universidade de Brasília",
+    "type": "thesis",
+    "issued": "2014",
+    "page": "215"
+  },
+  {
+    "author": [
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      }
+    ],
+    "title": "Two new species of Eugenia (Myrtaceae) from the Cabo Frio Center of Plant Diversity, Rio de Janeiro, Brazil",
+    "volume": "208",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2015",
+    "page": "201–208",
+    "URL": "https://doi.org/10.11646/phytotaxa.208.3.2",
+    "DOI": "10.11646/phytotaxa.208.3.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Brasil",
+        "given": "Flora",
+        "particle": "do"
+      }
+    ],
+    "title": "Jardim Botânico do Rio de Janeiro",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2020",
+    "URL": "http://floradobrasil.jbrj.gov.br/"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "E.G."
+      },
+      {
+        "family": "Lorenzi",
+        "given": "H."
+      }
+    ],
+    "title": "Morfologia Vegetal: Organografia e dicionário ilustrado de morfologia das plantas",
+    "publisher": "Editora Plantarum, Nova Odessa",
+    "type": "book",
+    "issued": "2007",
+    "page": "416"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 13. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2017",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Kiaerskou",
+        "given": "H."
+      }
+    ],
+    "title": "Enumeratio myrtacearum brasiliensium quas collegiunt Glaziou, Lund, Mendonça, Raben, Reinhardt, Schenck, Warming alique",
+    "editor": [
+      {
+        "family": "Warming",
+        "given": "E."
+      }
+    ],
+    "container-title": "Symbolarum ad floram Brasiliae Centralis cognoscendam Ex Officina Hoffensbergiana, Hauniae [Kjøbenhavn",
+    "type": "chapter",
+    "issued": "1893",
+    "page": "1–199",
+    "URL": "https://doi.org/10.5962/bhl.title.4459",
+    "DOI": "10.5962/bhl.title.4459"
+  },
+  {
+    "author": [
+      {
+        "family": "Legrand",
+        "given": "C.D."
+      }
+    ],
+    "title": "Sobre Pilothecium (Kiaersk.) Kausel",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Bradea",
+    "issued": "1975",
+    "page": "33–40"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": "471",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      }
+    ],
+    "title": "A preliminar phylogenetic analysis of Eugenia (Myrtaceae: Myrteae), with a focus on neotropical species",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2014",
+    "page": "1–14",
+    "URL": "https://doi.org/10.1007/s12225-014-9497-x",
+    "DOI": "10.1007/s12225-014-9497-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Valdemarim",
+        "given": "K.S."
+      }
+    ],
+    "title": "A new species of Eugenia (Myrtaceae) from Rio de Janeiro State, Brazil",
+    "volume": "343",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "160–166",
+    "URL": "https://doi.org/10.11646/phytotaxa.343.2.6",
+    "DOI": "10.11646/phytotaxa.343.2.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Faria",
+        "given": "J.E.Q."
+      },
+      {
+        "family": "Giaretta",
+        "given": "A."
+      },
+      {
+        "family": "Vasconcelos",
+        "given": "T."
+      },
+      {
+        "family": "Forest",
+        "given": "F."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "Phylogeny and biogeography of the hyper-diverse genus Eugenia (Myrtaceae: Myrteae",
+    "volume": "67",
+    "type": "article-journal",
+    "container-title": "with emphasis on E. sect. Umbellatae",
+    "issued": "2018",
+    "page": "752–769",
+    "URL": "https://doi.org/10.12705/674.5",
+    "DOI": "10.12705/674.5"
+  },
+  {
+    "author": [
+      {
+        "family": "Niedenzu",
+        "given": "F."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K."
+      }
+    ],
+    "container-title": "Die Natürlichen Pflanzenfamilien",
+    "publisher": "Verlag von Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1893",
+    "page": "57–105",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "given": "Q.G.I.S."
+      }
+    ],
+    "title": "QGIS Development Team. QGIS Geographic Information System",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Open Source Geospatial Foundation Project",
+    "issued": "2019",
+    "URL": "http://qgis.osgeo.org"
+  },
+  {
+    "author": [
+      {
+        "family": "Radford",
+        "given": "A.E."
+      },
+      {
+        "family": "Dickison",
+        "given": "W.C."
+      },
+      {
+        "family": "Massey",
+        "given": "J.R."
+      },
+      {
+        "family": "Bell",
+        "given": "C.R."
+      }
+    ],
+    "title": "Vascular Plant Systematics",
+    "publisher": "Harper & Row Publishers",
+    "type": "book",
+    "issued": "1974",
+    "page": "891",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Costa",
+        "given": "I.G."
+      },
+      {
+        "family": "Souza",
+        "given": "M.C."
+      },
+      {
+        "family": "Zorzanelli",
+        "given": "J.P.F."
+      }
+    ],
+    "title": "Five new species and one new combination in Brazilian Myrtaceae",
+    "volume": "307",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2017",
+    "page": "233–244",
+    "URL": "https://doi.org/10.11646/phytotaxa.307.4.1",
+    "DOI": "10.11646/phytotaxa.307.4.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Souza",
+        "given": "M.C."
+      },
+      {
+        "family": "Morim",
+        "given": "M.P."
+      }
+    ],
+    "title": "A new species of Eugenia (Myrtaceae) from South-eastern Brazil",
+    "volume": "158",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2008",
+    "page": "306–308",
+    "URL": "https://doi.org/10.1111/j.1095-8339.2008.00923.x",
+    "DOI": "10.1111/j.1095-8339.2008.00923.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2019",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Urban",
+        "given": "I."
+      }
+    ],
+    "title": "Vitae itineraque collectorum botanicorum, notae collaboratorum biographicae, florae brasiliensis ratio edendi choronologica, systema, index familiarum",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P.von"
+      },
+      {
+        "family": "Endlicher",
+        "given": "S."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.G."
+      },
+      {
+        "family": "Urban",
+        "given": "J."
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "v. I, pars I",
+    "type": "chapter",
+    "issued": "1906",
+    "page": "268"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C.S.P."
+      }
+    ],
+    "title": "World Checklist of Myrtaceae",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2019",
+    "URL": "http://www.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "P.G."
+      }
+    ],
+    "title": "Myrtaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "publisher": "Springer-Verlag",
+    "type": "book",
+    "issued": "2011",
+    "page": "212–271",
+    "publisher-place": "Berlin",
+    "URL": "https://doi.org/10.1007/978-3-642-14397-7_14",
+    "DOI": "10.1007/978-3-642-14397-7_14"
+  }
+]

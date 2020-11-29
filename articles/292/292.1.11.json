@@ -1,0 +1,441 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Contributions to the Flora of South America, enumeration of plants collected by Mr. Schomburgk in Brittish Guiana",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "London Journal of Botany",
+    "issued": "1843",
+    "page": "359–378"
+  },
+  {
+    "author": [
+      {
+        "family": "Gustaffson",
+        "given": "M.H.G."
+      },
+      {
+        "family": "Winter",
+        "given": "K."
+      },
+      {
+        "family": "Bittrich",
+        "given": "V."
+      }
+    ],
+    "title": "Diversity, phylogeny and classification of Clusia",
+    "editor": [
+      {
+        "family": "Lüttge",
+        "given": "U."
+      }
+    ],
+    "volume": "194",
+    "publisher": "Springer-Verlag",
+    "type": "article-journal",
+    "container-title": "Ecological Studies",
+    "issued": "2007",
+    "page": "95–116",
+    "publisher-place": "Berlin, Heidelberg",
+    "URL": "https://doi.org/10.1007/978-3-540-37243-1_7",
+    "DOI": "10.1007/978-3-540-37243-1_7"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber",
+        "given": "O."
+      }
+    ],
+    "title": "History of Botanical exploration",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      },
+      {
+        "family": "Yatskievych",
+        "given": "K."
+      }
+    ],
+    "container-title": "Flora of the Venezuelan Guayana",
+    "volume": "1",
+    "publisher": "Timber Press",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "63–95",
+    "publisher-place": "Portland"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber",
+        "given": "O."
+      }
+    ],
+    "title": "Conservation of the Venezuelan Guayana",
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      },
+      {
+        "family": "Yatskievych",
+        "given": "K."
+      }
+    ],
+    "container-title": "Flora of the Venezuelan Guayana",
+    "volume": "1",
+    "publisher": "Timber Press",
+    "type": "chapter",
+    "issued": "1995",
+    "page": "97–160",
+    "publisher-place": "Portland"
+  },
+  {
+    "editor": [
+      {
+        "family": "Huber",
+        "given": "O."
+      },
+      {
+        "family": "Foster",
+        "given": "M.N."
+      }
+    ],
+    "title": "Prioridades de conservación para el Escudo de Guayana",
+    "publisher": "Conservation International",
+    "type": "article-journal",
+    "container-title": "Consenso",
+    "issued": "2003",
+    "page": "101"
+  },
+  {
+    "author": [
+      {
+        "family": "Huber",
+        "given": "O."
+      },
+      {
+        "family": "Oliveira-Miranda",
+        "given": "M.A."
+      }
+    ],
+    "title": "Ambientes terrestres de Venezuela",
+    "editor": [
+      {
+        "family": "Rodríguez",
+        "given": "J.P."
+      },
+      {
+        "family": "Rojas Suárez",
+        "given": "F."
+      },
+      {
+        "family": "Hernández",
+        "given": "D.G."
+      }
+    ],
+    "container-title": "Libro rojo de los ecosistemas terrestres de Venezuela. Provita, Shell Venezuela and Lenovo (Venezuela), Caracas",
+    "type": "chapter",
+    "issued": "2010",
+    "page": "27–89"
+  },
+  {
+    "author": [
+      {
+        "family": "Nature",
+        "given": "Iinterntional Union",
+        "particle": "for the Conservation of"
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria, Version 3.1",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2001",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "publisher": "Impensis Laurentii Salvii",
+    "type": "book",
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Maguire",
+        "given": "B."
+      }
+    ],
+    "title": "Guttiferae",
+    "editor": [
+      {
+        "family": "Schultes",
+        "given": "R.E."
+      }
+    ],
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Botanical Museum Leaflets",
+    "issue": "2",
+    "issued": "1951",
+    "page": "55–69"
+  },
+  {
+    "author": [
+      {
+        "literal": "Nasciment, J.E. Jr., Bittrich, V. & do Amaral, M. do C.E."
+      }
+    ],
+    "title": "Two new species, new combinations, and synonymy of Clusia from the Amazon",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Systematic Botany",
+    "issue": "4",
+    "issued": "2016",
+    "page": "996–1003"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliveira-Miranda",
+        "given": "M.A."
+      },
+      {
+        "family": "Huber",
+        "given": "O."
+      },
+      {
+        "family": "Rodríguez",
+        "given": "J.P."
+      },
+      {
+        "family": "Rojas Suárez",
+        "given": "F."
+      },
+      {
+        "family": "Oliveira-Miranda",
+        "given": "R.",
+        "particle": "de"
+      },
+      {
+        "family": "Zambrano Martínez",
+        "given": "S."
+      },
+      {
+        "family": "Hernández",
+        "given": "D.G."
+      }
+    ],
+    "title": "Riesgo de eliminacion de los ecosistemas terrestres de Venezuela",
+    "editor": [
+      {
+        "family": "Rodríguez",
+        "given": "J.P."
+      },
+      {
+        "family": "Rojas Suárez",
+        "given": "F."
+      },
+      {
+        "family": "Hernández",
+        "given": "D.G."
+      }
+    ],
+    "container-title": "Libro rojo de los ecosistemas terrestres de Venezuela. Provita, Shell Venezuela and Lenovo (Venezuela), Caracas",
+    "type": "chapter",
+    "issued": "2010",
+    "page": "107–235"
+  },
+  {
+    "author": [
+      {
+        "family": "Pipoly",
+        "given": "J.J.",
+        "suffix": "III"
+      },
+      {
+        "family": "Kearns",
+        "given": "D.M."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      }
+    ],
+    "editor": [
+      {
+        "family": "In",
+        "given": "Clusia L."
+      },
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      }
+    ],
+    "container-title": "Flora of the Venezuelan Guayana",
+    "volume": "4",
+    "publisher": "Missouri Botanical Garden Press, St. Louis",
+    "type": "chapter",
+    "issued": "1998",
+    "page": "260–294"
+  },
+  {
+    "author": [
+      {
+        "family": "Pipoly",
+        "given": "J.J.",
+        "suffix": "III"
+      },
+      {
+        "family": "Cuello",
+        "given": "N."
+      }
+    ],
+    "title": "Clusiaceae",
+    "editor": [
+      {
+        "family": "Hokche",
+        "given": "O."
+      },
+      {
+        "family": "Berry",
+        "given": "P.E."
+      },
+      {
+        "family": "Huber",
+        "given": "O."
+      }
+    ],
+    "container-title": "Nuevo Catálogo de la Flora Vascular de Venezuela. Fundación Instituto Botánico “Dr. Tobías Lasser”, Caracas",
+    "type": "chapter",
+    "issued": "2003",
+    "page": "330–335"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.E."
+      },
+      {
+        "family": "Triana",
+        "given": "J.J."
+      }
+    ],
+    "title": "Mémoire sur le famille de Guttifères",
+    "publisher": "Annales des Sciences Naturelles",
+    "volume": "13",
+    "type": "book",
+    "issued": "1860",
+    "page": "303–376",
+    "publisher-place": "Botanique, Séries IV"
+  },
+  {
+    "author": [
+      {
+        "family": "Planchon",
+        "given": "J.E."
+      },
+      {
+        "family": "Triana",
+        "given": "J.J."
+      }
+    ],
+    "title": "Mémoire sur le famille de Guttifères",
+    "publisher": "Annales des Sciences Naturelles",
+    "volume": "14",
+    "type": "book",
+    "issued": "1860",
+    "page": "226–367",
+    "publisher-place": "Botanique, Séries IV"
+  },
+  {
+    "author": [
+      {
+        "family": "Poeppig",
+        "given": "E.F."
+      },
+      {
+        "family": "Endlicher",
+        "given": "S.F.L."
+      }
+    ],
+    "title": "Nova Genera ac Species Plantarum, volumen III",
+    "publisher": "Leipzig",
+    "type": "book",
+    "issued": "1845",
+    "page": "91"
+  },
+  {
+    "author": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      }
+    ],
+    "title": "Botanical Exploration in Venezuela, II",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Fieldiana, Botany",
+    "issued": "1952",
+    "page": "243–447"
+  },
+  {
+    "editor": [
+      {
+        "family": "Steyermark",
+        "given": "J.A."
+      },
+      {
+        "family": "Maguire",
+        "given": "B."
+      }
+    ],
+    "title": "The flora of the Meseta del Cerro Jaua",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Memoirs of The New York Botanical Garden",
+    "issued": "1972",
+    "page": "833–892"
+  }
+]

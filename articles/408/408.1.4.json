@@ -1,0 +1,304 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bernal",
+        "given": "R."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Celis",
+        "given": "M."
+      }
+    ],
+    "title": "Catálogo de plantas y líquenes de Colombia",
+    "container-title": "Instituto de Ciencias Naturales, Universidad Nacional de Colombia",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2015",
+    "publisher-place": "Bogotá, D.C",
+    "URL": "http://catalogoplantasdecolombia.unal.edu.co/"
+  },
+  {
+    "author": [
+      {
+        "family": "Callejas",
+        "given": "R."
+      }
+    ],
+    "title": "Flora de la Real Expedición Botánica del Nuevo Reino de Granada",
+    "publisher": "Ediciones Cultura Hispanica",
+    "type": "book",
+    "issued": "1997",
+    "publisher-place": "Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Callejas-Posada",
+        "given": "R."
+      }
+    ],
+    "title": "Piperaceae",
+    "editor": [
+      {
+        "family": "Davidse",
+        "given": "G."
+      },
+      {
+        "family": "Ulloa Ulloa",
+        "given": "C."
+      },
+      {
+        "family": "Hernández Macías",
+        "given": "H.M."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      }
+    ],
+    "container-title": "Flora Mesoamericana",
+    "volume": "2",
+    "note": "Missouri Botanical Garden, St. Louis. [in press",
+    "type": "chapter",
+    "issued": "2019"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "C."
+      }
+    ],
+    "title": "Piperaceae Novae",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal of Botany, British and Foreign",
+    "issued": "1866",
+    "page": "213"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "page": "32",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaramillo",
+        "given": "M.A."
+      },
+      {
+        "family": "Callejas",
+        "given": "R."
+      }
+    ],
+    "title": "Current perspectives on the classification and phylogenetics of the genus Piper L",
+    "editor": [
+      {
+        "family": "Dyer",
+        "given": "L.A."
+      },
+      {
+        "family": "Palmer",
+        "given": "A.D."
+      }
+    ],
+    "publisher": "Kluwer Academic/Plenum Publishers",
+    "type": "book",
+    "issued": "2004",
+    "page": "179–198",
+    "publisher-place": "New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Jørgensen",
+        "given": "P.M."
+      },
+      {
+        "family": "León-Yánez",
+        "given": "S."
+      }
+    ],
+    "title": "Catálogo de las Plantas Vasculares del Ecuador",
+    "container-title": "Monografías en Botánica Sistemática del Jardín Botánico de Missouri",
+    "type": "chapter",
+    "issued": "1999",
+    "page": null,
+    "publisher-place": "Missouri"
+  },
+  {
+    "author": [
+      {
+        "family": "Quijano-Abril",
+        "given": "M.A."
+      },
+      {
+        "family": "Callejas",
+        "given": "R."
+      },
+      {
+        "family": "Miranda- Esquivel",
+        "given": "D.R."
+      }
+    ],
+    "title": "Areas of endemism and distribution patterns for Neotropical Piper species (Piperaceae",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2006",
+    "page": "1266–1278",
+    "URL": "https://doi.org/10.1111/j.1365-2699.2006.01501.x",
+    "DOI": "10.1111/j.1365-2699.2006.01501.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Sodiro",
+        "given": "L."
+      }
+    ],
+    "title": "Contribuciones al conocimiento de la Flora Ecuatoriana",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Anales de la Universidad Central del Ecuador",
+    "issued": "1905",
+    "page": "192–204",
+    "URL": "https://doi.org/10.5962/bhl.title.45473",
+    "DOI": "10.5962/bhl.title.45473"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2018",
+    "URL": "http://sweetgum.nybg.org/science/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Trelease",
+        "given": "W."
+      }
+    ],
+    "title": "Piperaceae",
+    "editor": [
+      {
+        "family": "Macbride",
+        "given": "J.F."
+      }
+    ],
+    "volume": "Botanical series volume XIII, Part II",
+    "publisher": "Field Museum Press",
+    "type": "article-journal",
+    "container-title": "Field Museum of Natural History",
+    "issued": "1936",
+    "page": "1–253",
+    "publisher-place": "Chicago"
+  },
+  {
+    "author": [
+      {
+        "family": "Trelease",
+        "given": "W."
+      },
+      {
+        "family": "Yuncker",
+        "given": "T.G."
+      }
+    ],
+    "title": "The Piperaceae of northern South America",
+    "publisher": "University of Illinois Press",
+    "type": "book",
+    "issued": "1950",
+    "page": "434",
+    "publisher-place": "Urbana, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Wanke",
+        "given": "S."
+      },
+      {
+        "family": "Jaramillo",
+        "given": "M."
+      },
+      {
+        "family": "Borsch",
+        "given": "T."
+      },
+      {
+        "family": "Samain",
+        "given": "M."
+      },
+      {
+        "family": "Quandt",
+        "given": "D."
+      },
+      {
+        "family": "Neinhuis",
+        "given": "C."
+      }
+    ],
+    "title": "Evolution of Piperales--matK gene and trnK intron sequence data reveal lineage specific resolution contrast",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2007",
+    "page": "477–497",
+    "URL": "https://doi.org/10.1016/j.ympev.2006.07.007",
+    "DOI": "10.1016/j.ympev.2006.07.007"
+  },
+  {
+    "author": [
+      {
+        "family": "Yuncker",
+        "given": "T.G."
+      }
+    ],
+    "title": "Flora of Panama, Part IV. Fascicle 1. Piperaceae",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "Annals of the Missouri Botanical Garden",
+    "issued": "1950",
+    "page": "1–120",
+    "URL": "https://doi.org/10.2307/2394448",
+    "DOI": "10.2307/2394448"
+  },
+  {
+    "author": [
+      {
+        "family": "Yuncker",
+        "given": "T."
+      }
+    ],
+    "title": "Four new species of Piperaceae from Ecuador",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "Svensk Botanisk Tidskrift",
+    "issued": "1959",
+    "page": "45–48"
+  }
+]

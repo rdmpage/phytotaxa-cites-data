@@ -1,0 +1,462 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barringer",
+        "given": "K."
+      },
+      {
+        "family": "Burger",
+        "given": "W."
+      }
+    ],
+    "title": "Scrophulariaceae",
+    "editor": [
+      {
+        "family": "Burger",
+        "given": "W."
+      }
+    ],
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Fieldiana Botany",
+    "issued": "2000",
+    "page": "1–69"
+  },
+  {
+    "author": [
+      {
+        "family": "G",
+        "given": "Bentham"
+      }
+    ],
+    "title": "Edward’s Botanical Register 17: tab",
+    "type": null,
+    "issued": "1831"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Scrophulariaceae",
+    "container-title": "In: de Candolle, A.P. (1846) Prodromus Systematis Naturalis Regni Vegetabilis",
+    "volume": "10",
+    "type": "chapter",
+    "issued": "1846",
+    "page": "186–586",
+    "publisher-place": "Paris",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.286",
+    "DOI": "10.5962/bhl.title.286"
+  },
+  {
+    "author": [
+      {
+        "family": "Chamisso",
+        "given": "A."
+      },
+      {
+        "family": "Schlechtendal",
+        "given": "D."
+      }
+    ],
+    "title": "De plantis in expeditione speculatoria romanzoffiana observatis dissere pergunt: Scrophulariaceae",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1828",
+    "page": "1–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Chodat",
+        "given": "R."
+      },
+      {
+        "family": "Hassler",
+        "given": "E."
+      }
+    ],
+    "title": "Plantae Hasslerianae",
+    "volume": "2, 4",
+    "type": "article-journal",
+    "container-title": "Bulletin de l'Herbier Boissier, série",
+    "issued": "1904",
+    "page": "1–392"
+  },
+  {
+    "author": [
+      {
+        "family": "Dawson",
+        "given": "G."
+      }
+    ],
+    "title": "Las tribus y géneros de Escrofulariáceas representados en Austro-América y su distribución geográfica",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Revista del Museo de La Plata, Sección Botánica",
+    "issued": "1968",
+    "page": "101–128"
+  },
+  {
+    "author": [
+      {
+        "family": "Dawson",
+        "given": "G."
+      }
+    ],
+    "title": "Scrophulariaceae",
+    "editor": [
+      {
+        "family": "Burkart",
+        "given": "A."
+      }
+    ],
+    "container-title": "Flora Ilustrada de Entre Ríos. Colección Científica del Instituto Nacional de Tecnología Agropecuaria",
+    "volume": "6",
+    "issue": "5",
+    "type": "article-journal",
+    "issued": "1979",
+    "page": "452–504"
+  },
+  {
+    "author": [
+      {
+        "family": "Descole",
+        "given": "H.R."
+      },
+      {
+        "family": "Borsini",
+        "given": "O.H."
+      }
+    ],
+    "title": "Scrophulariaceae",
+    "editor": [
+      {
+        "family": "Descole",
+        "given": "H.R."
+      }
+    ],
+    "container-title": "Genera et Species Plantarum Argentinarum",
+    "volume": "5",
+    "publisher": "I–LXXVI",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1954",
+    "page": "1–167,",
+    "publisher-place": "Tabs"
+  },
+  {
+    "author": [
+      {
+        "family": "Erdtman",
+        "given": "G."
+      }
+    ],
+    "title": "The acetolysis method",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Svensk Botanisk Tidskrift Utgifven af Svenska Botaniska Foreningen",
+    "issued": "1960",
+    "page": "561–564"
+  },
+  {
+    "author": [
+      {
+        "family": "Hassler",
+        "given": "E."
+      }
+    ],
+    "title": "Contribuciones a la flora del Chaco argentino-paraguayo",
+    "container-title": "Trabajos del Museo de Farmacología de la Facultad de Ciencias Médicas de Buenos Aires",
+    "volume": "21",
+    "type": "chapter",
+    "issued": "1909",
+    "page": "154"
+  },
+  {
+    "author": [
+      {
+        "family": "Jussieu",
+        "given": "A.L."
+      }
+    ],
+    "title": "Genera Plantarum, secundum ordines naturales disposita juxta methodum in Horto Regio Parisiensi exaratam",
+    "type": "article-journal",
+    "container-title": "Paris. Missouri Botanical Garden",
+    "issued": "1789",
+    "page": "498"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "C.E.O."
+      }
+    ],
+    "title": "Revisio Genera Plantarum 1",
+    "publisher": "A. Felix, Leipzig",
+    "type": "book",
+    "issued": "1891",
+    "page": "374"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntze",
+        "given": "C.E.O."
+      }
+    ],
+    "title": "Revisio Genera Plantarum 3[3",
+    "publisher": "A. Felix, Leipzig",
+    "type": "book",
+    "issued": "1898",
+    "page": "576"
+  },
+  {
+    "author": [
+      {
+        "family": "Lehmann",
+        "given": "J.G.C."
+      }
+    ],
+    "title": "Linnaea 11(Literatur Bericht",
+    "type": null,
+    "issued": "1837",
+    "page": "90–91"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.V."
+      }
+    ],
+    "title": "Systema naturae per regna tria naturae: secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Ed. Decima",
+    "issued": "1759",
+    "page": "825–1384",
+    "URL": "http://dx.doi.org/10.5962/bhl.title.559",
+    "DOI": "10.5962/bhl.title.559"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The gardeners dictionary",
+    "edition": "Edition 8",
+    "type": null,
+    "issued": "1768",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Minod",
+        "given": "M."
+      }
+    ],
+    "title": "Contribution a l’étude du genre Stemodia et du groupe des Stemodiées en Amèrique",
+    "volume": "2eme Serie 10",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société Botanique de Genéve",
+    "issued": "1918",
+    "page": "155–252"
+  },
+  {
+    "author": [
+      {
+        "family": "Punt",
+        "given": "W."
+      },
+      {
+        "family": "Blackmore",
+        "given": "S."
+      },
+      {
+        "family": "Nilsson",
+        "given": "S."
+      },
+      {
+        "family": "Le Thomas",
+        "given": "A."
+      }
+    ],
+    "title": "Glossary of pollen and spore terminology",
+    "publisher": "LPP Fundation, University of Utrecht, The Netherlands",
+    "type": "book",
+    "issued": "1994",
+    "page": "1–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Punt",
+        "given": "W."
+      },
+      {
+        "family": "Blackmore",
+        "given": "S."
+      },
+      {
+        "family": "Nilsson",
+        "given": "S."
+      },
+      {
+        "family": "Le Thomas",
+        "given": "A."
+      }
+    ],
+    "title": "Glossary of pollen and spore terminology",
+    "volume": "143",
+    "type": "article-journal",
+    "container-title": "Review of Palaeobotany and Palynology",
+    "issued": "2007",
+    "page": "1–81",
+    "URL": "http://dx.doi.org/10.1016/j.revpalbo.2006.06.008",
+    "DOI": "10.1016/j.revpalbo.2006.06.008"
+  },
+  {
+    "author": [
+      {
+        "family": "Saint-Hilaire",
+        "given": "A."
+      }
+    ],
+    "title": "Histoire des plantes les plus remarquables du Brésil et du Paraguay 1:1-355",
+    "publisher": "I–XXX",
+    "type": "book",
+    "issued": "1824",
+    "publisher-place": "Tab"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumman",
+        "given": "K."
+      }
+    ],
+    "title": "Systematisch geordnetes Repertorium der botanischen Literatur aller Länder",
+    "volume": "26",
+    "type": "article-journal",
+    "container-title": "Just's botanischer Jahresbericht",
+    "issue": "1",
+    "issued": "1900",
+    "URL": "http://dx.doi.org/10.1038/011284a0",
+    "DOI": "10.1038/011284a0"
+  },
+  {
+    "author": [
+      {
+        "family": "Sosa",
+        "given": "M.M."
+      },
+      {
+        "family": "A.F.",
+        "given": "Panseri"
+      },
+      {
+        "family": "Salgado",
+        "given": "C.R."
+      }
+    ],
+    "title": "Pollen morphology of Stemodia species (Scrophulariaceae) from South America",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Palynology",
+    "issued": "2012",
+    "page": "1–9",
+    "URL": "http://dx.doi.org/10.1080/01916122.2011.572372",
+    "DOI": "10.1080/01916122.2011.572372"
+  },
+  {
+    "author": [
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Plantaginaceae",
+    "editor": [
+      {
+        "family": "Zuloaga",
+        "given": "F.O."
+      },
+      {
+        "family": "Morrone",
+        "given": "O."
+      },
+      {
+        "family": "Belgrano",
+        "given": "M.J."
+      }
+    ],
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Monographs in Systematic Botany from the Missouri Botanical Garden",
+    "issued": "2008",
+    "page": "2730–2760"
+  },
+  {
+    "author": [
+      {
+        "family": "Souza",
+        "given": "V.C."
+      },
+      {
+        "family": "Giulietti",
+        "given": "A.M."
+      }
+    ],
+    "title": "Levantamento das especies de Scrophulariaceae sensu lato do Brasil",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Pesquisas",
+    "issued": "2009",
+    "page": "7–288"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "B.L."
+      },
+      {
+        "family": "Cowan",
+        "given": "C.P."
+      }
+    ],
+    "title": "Taxonomic overview of Stemodia (Scrophulariaceae) for North America and the West Indies",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1993",
+    "page": "61–103"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "B.L."
+      },
+      {
+        "family": "Cowan",
+        "given": "C.P."
+      }
+    ],
+    "title": "Taxonomic overview of Stemodia (Scrophulariaceae) for South America",
+    "volume": "75",
+    "type": "article-journal",
+    "container-title": "Phytologia",
+    "issued": "1994",
+    "page": "281–324"
+  }
+]

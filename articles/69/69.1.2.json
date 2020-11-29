@@ -1,0 +1,113 @@
+[
+  {
+    "author": [
+      {
+        "family": "Lamarck",
+        "given": "J.B.A.P.de M."
+      }
+    ],
+    "title": "Encyclopédie méthodique",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Botanique",
+    "issue": "1",
+    "issued": "1789",
+    "publisher-place": "Panckoucke, Paris; Plomteux, Liège"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum 1",
+    "publisher": "Laurentius Salvius",
+    "type": "book",
+    "issued": "1753",
+    "publisher-place": "Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Souza",
+        "given": "V.C."
+      }
+    ],
+    "title": "Three new species of Eugenia sect. Racemosae (Myrtaceae) from the cerrados of the state of Mato Grosso",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Brazil. Revista Brasileira de Botânica",
+    "issue": "2",
+    "issued": "2010",
+    "page": "285–290"
+  },
+  {
+    "author": [
+      {
+        "family": "Oliveira-Filho",
+        "given": "A.T."
+      },
+      {
+        "family": "Fontes",
+        "given": "M.A.L."
+      }
+    ],
+    "title": "Patterns of Floristic Differentiation among Atlantic Forests in Southeastern Brazil and the Influence of Climate",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Biotropica",
+    "issue": "4b",
+    "issued": "2000",
+    "page": "793–810"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobral",
+        "given": "M."
+      }
+    ],
+    "title": "Uma nova espécie e duas novas combinações em Myrtaceae do Brasil",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Lundiana",
+    "issue": "2",
+    "issued": "2008",
+    "page": "107–110"
+  },
+  {
+    "author": [
+      {
+        "family": "Merwe",
+        "given": "M.M.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Van Wyk",
+        "given": "A.E."
+      },
+      {
+        "family": "Botha",
+        "given": "A.M."
+      }
+    ],
+    "title": "Molecular phylogenetic analysis of Eugenia L",
+    "volume": "251",
+    "type": "article-journal",
+    "container-title": "Myrtaceae), with emphasis on southern African taxa. Plant Systematic Evolution",
+    "issued": "2005",
+    "page": "21–34"
+  },
+  {
+    "title": "WCSP (World Checklist of Selected Plant Families",
+    "note": "Accessed August 20, 2012.",
+    "type": null,
+    "issued": "2012",
+    "URL": "http://www.kew.org/wcsp/myrtaceae."
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "author": [
+      {
+        "family": "Andersson",
+        "given": "L."
+      },
+      {
+        "family": "Antonelli",
+        "given": "A."
+      }
+    ],
+    "title": "Phylogeny of the tribe Cinchoneae (Rubiaceae), its position in Cinchonoideae, and description of a new genus, Ciliosemina",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "1",
+    "issued": "2005",
+    "page": "17–28",
+    "URL": "http://dx.doi.org/10.2307/25065299",
+    "DOI": "10.2307/25065299"
+  },
+  {
+    "author": [
+      {
+        "family": "Antonelli",
+        "given": "A."
+      },
+      {
+        "family": "Nylander",
+        "given": "J.A.A."
+      },
+      {
+        "family": "Persson",
+        "given": "C."
+      },
+      {
+        "family": "Sanmartín",
+        "given": "I."
+      }
+    ],
+    "title": "Tracing the impact of the Andean uplift on Neotropical plant evolution",
+    "container-title": "Proceedings of the National Academy of Sciences of the USA",
+    "volume": "106",
+    "issue": "24",
+    "type": "article-journal",
+    "issued": "2009",
+    "page": "9749–9754",
+    "URL": "http://dx.doi.org/10.1073/pnas.0811421106",
+    "DOI": "10.1073/pnas.0811421106"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonpland",
+        "given": "A.J.A."
+      }
+    ],
+    "title": "Cassupa",
+    "editor": [
+      {
+        "family": "Humboldt",
+        "given": "F.W.H.L."
+      },
+      {
+        "family": "Bonpland",
+        "given": "A.J.A."
+      }
+    ],
+    "container-title": "Plantae Aequinoctiales",
+    "volume": "1",
+    "publisher": "F. Schoell",
+    "type": "chapter",
+    "issued": "1806",
+    "page": "43, 12",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Boom",
+        "given": "B.M."
+      }
+    ],
+    "title": "A revision of Isertia (Isertieae: Rubiaceae",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Brittonia",
+    "issue": "4",
+    "issued": "1984",
+    "page": "425–454",
+    "URL": "http://dx.doi.org/10.2307/2806603",
+    "DOI": "10.2307/2806603"
+  },
+  {
+    "author": [
+      {
+        "family": "Candolle",
+        "given": "A.P.de"
+      }
+    ],
+    "title": "Isertia spiciformis",
+    "volume": "4",
+    "editor": [
+      {
+        "given": "Treuttel"
+      },
+      {
+        "family": "Würtz",
+        "given": "Parisis"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Prodromus Systematis Naturalis Regni Vegetabilis",
+    "issued": "1830",
+    "page": "437"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Xie",
+        "given": "D."
+      },
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "Bayesian phylogenetics with BEAUti and the BEAST 1.7",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2012",
+    "page": "1969–1973",
+    "URL": "http://dx.doi.org/10.1093/molbev/mss075",
+    "DOI": "10.1093/molbev/mss075"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "J.G."
+      },
+      {
+        "family": "Harris",
+        "given": "M.W."
+      }
+    ],
+    "title": "Plant Identification Terminology: An Illustrated Glossary",
+    "publisher": "Spring Lake Publishing, Spring Lake, Utah",
+    "type": "book",
+    "issued": "2001",
+    "page": "206"
+  },
+  {
+    "author": [
+      {
+        "given": "ICMBio"
+      }
+    ],
+    "title": "Plano de Manejo do Parque Nacional do Viruá",
+    "volume": "ICMBio",
+    "type": "article-journal",
+    "container-title": "Boa Vista",
+    "issued": "2014",
+    "page": "626"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria. Version 11. Prepared by the Standards and Petitions Subcommittee",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "S."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability (outlines version 7",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "http://dx.doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Mayr",
+        "given": "E."
+      }
+    ],
+    "title": "A local flora and the Biological Species Concept",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1992",
+    "page": "222–238",
+    "URL": "http://dx.doi.org/10.2307/2445111",
+    "DOI": "10.2307/2445111"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest: Phylogenetic Model Averaging",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issue": "7",
+    "issued": "2008",
+    "page": "1253–1256",
+    "URL": "http://dx.doi.org/10.1093/molbev/msn083",
+    "DOI": "10.1093/molbev/msn083"
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "K.de"
+      }
+    ],
+    "title": "The general lineage concept of species, species criteria, and the process of speciation",
+    "editor": [
+      {
+        "family": "Howard",
+        "given": "D.J.B."
+      },
+      {
+        "family": "Berlocher",
+        "given": "S.H."
+      }
+    ],
+    "container-title": "Endless Forms: species and speciation",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "57–75",
+    "publisher-place": "Oxford, New York"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      }
+    ],
+    "title": "FigTree version 1.3.1 [computer program",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2009",
+    "URL": "http://tree.bio.ed.ac.uk"
+  },
+  {
+    "author": [
+      {
+        "family": "Rambaut",
+        "given": "A."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Xie",
+        "given": "D."
+      },
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      }
+    ],
+    "note": "Tracer v1.6, Available from:",
+    "type": null,
+    "issued": "2014",
+    "URL": "http://beast.bio.ed.ac.uk/Tracer"
+  },
+  {
+    "author": [
+      {
+        "family": "Schreber",
+        "given": "J.C.D.von"
+      }
+    ],
+    "title": "Isertia",
+    "volume": "1",
+    "publisher": "Reeve",
+    "type": "article-journal",
+    "container-title": "Genera plantarum",
+    "issued": "1789",
+    "page": "234",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "C."
+      }
+    ],
+    "title": "Isertia rosea",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "C.F.P."
+      },
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      },
+      {
+        "family": "Lipsiae",
+        "given": "F.Fleischer",
+        "particle": "Monachii et"
+      }
+    ],
+    "container-title": "Flora Brasiliensis",
+    "volume": "6",
+    "type": "chapter",
+    "issued": "1889",
+    "page": "6"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "C.M."
+      }
+    ],
+    "title": "Isertia. Lista de Espécies da Flora do Brasil",
+    "note": "Jardim Botânico do Rio de Janeiro, Rio de Janeiro, Brazil. Available from:",
+    "type": null,
+    "issued": "2016",
+    "URL": "http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB24472"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "and ongoing) Index herbariorum: a global directory of public herbaria and associated staff",
+    "container-title": "New York Botanical Garden Virtual Herbarium. The New York Botanical Garden",
+    "note": "Available from",
+    "type": "chapter",
+    "issued": "2013",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Isertia parviflora. Eclogae americanae, seu, Descriptiones plantarum praesertim Americae meridionalis, nondum cognitarum",
+    "volume": "2",
+    "publisher": "Impensis auctoris",
+    "type": "book",
+    "issued": "1798",
+    "page": "28, 15",
+    "publisher-place": "Copenhagen"
+  },
+  {
+    "author": [
+      {
+        "family": "Veloso",
+        "given": "H.P."
+      },
+      {
+        "family": "Rangel Filho",
+        "given": "A.L."
+      },
+      {
+        "family": "Lima",
+        "given": "J.C.A."
+      }
+    ],
+    "title": "Classificação da vegetação brasileira, adaptada a um sistema universal",
+    "container-title": "IBGE, Rio de Janeiro. Fundação Instituto Brasileiro de Geografia e Estatística-IBGE",
+    "type": "chapter",
+    "issued": "1991",
+    "page": "123"
+  }
+]

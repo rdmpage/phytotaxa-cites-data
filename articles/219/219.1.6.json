@@ -1,0 +1,705 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "M.J."
+      }
+    ],
+    "title": "Decades of Fungi. Decade XXXIV. Sikkim-Himalayan fungi collected by Dr",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Hooker. Hooker’s Journal of Botany and Kew Garden Miscellany",
+    "issued": "1851",
+    "page": "77–84"
+  },
+  {
+    "author": [
+      {
+        "family": "Corner",
+        "given": "E.J.H."
+      }
+    ],
+    "title": "Boletus in Malaysia",
+    "type": "article-journal",
+    "container-title": "The Botanic Gardens, Singapore",
+    "issued": "1972",
+    "page": "263"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issue": "8",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      },
+      {
+        "family": "Ashto",
+        "given": "B."
+      },
+      {
+        "family": "Buxton",
+        "given": "S."
+      },
+      {
+        "family": "Cheung",
+        "given": "M."
+      },
+      {
+        "family": "Cooper",
+        "given": "A."
+      },
+      {
+        "family": "Duran",
+        "given": "C."
+      },
+      {
+        "family": "Field",
+        "given": "M."
+      },
+      {
+        "family": "Heled",
+        "given": "J."
+      },
+      {
+        "family": "Kearse",
+        "given": "M."
+      },
+      {
+        "family": "Markowitz",
+        "given": "S."
+      },
+      {
+        "family": "Moir",
+        "given": "R."
+      },
+      {
+        "family": "Stones-Havas",
+        "given": "S."
+      },
+      {
+        "family": "Sturrock",
+        "given": "S."
+      },
+      {
+        "family": "Thierer",
+        "given": "T."
+      },
+      {
+        "family": "Wilson",
+        "given": "A."
+      }
+    ],
+    "title": "Geneious v5.4",
+    "note": "Available from",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://www.geneious.com/"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://dx.doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Ge",
+        "given": "Z.W."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Strobilomyces mirandus, a species new to China",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "Mycosystema",
+    "issue": "1",
+    "issued": "2005",
+    "page": "143–144"
+  },
+  {
+    "author": [
+      {
+        "family": "Gelardi",
+        "given": "M."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Ercole",
+        "given": "E."
+      },
+      {
+        "family": "Voyron",
+        "given": "S."
+      },
+      {
+        "family": "Wu",
+        "given": "G."
+      },
+      {
+        "family": "Liu",
+        "given": "X.Z."
+      }
+    ],
+    "title": "Strobilomyces echinocephalus sp. nov. (Boletales) from south-western China, and a key to the genus Strobilomyces worldwide",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2013",
+    "page": "575–588",
+    "URL": "http://dx.doi.org/10.1007/s11557-012-0865-3",
+    "DOI": "10.1007/s11557-012-0865-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Horak",
+        "given": "E."
+      }
+    ],
+    "title": "Indian Boletales and Agaricales",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Revisions and new taxa. Sydowia",
+    "issued": "1980",
+    "page": "88–110"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Misawa",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2002",
+    "page": "3059–3066",
+    "URL": "http://dx.doi.org/10.1093/nar/gkf436",
+    "DOI": "10.1093/nar/gkf436"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Y.-S."
+      }
+    ],
+    "title": "The mushrooms of Korea",
+    "publisher": "National Institute of Agricultural Science and Technology, Suwon",
+    "type": "book",
+    "issued": "2004",
+    "page": "467"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of colour",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "publisher": "Eyre Methuen, London",
+    "type": "book",
+    "issued": "1983",
+    "page": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Kour",
+        "given": "H."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Sharma",
+        "given": "Y.P."
+      }
+    ],
+    "title": "Two species of Strobilomyces from Jammu and Kashmir, India",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Mycosphere",
+    "issue": "5",
+    "issued": "2013",
+    "page": "1006–1013",
+    "URL": "http://dx.doi.org/10.5943/mycosphere/4/5/14",
+    "DOI": "10.5943/mycosphere/4/5/14"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "T.-S."
+      }
+    ],
+    "title": "Rearrangement list of Korean recorded mushrooms",
+    "publisher": "Josoop Publishing Co., Seoul",
+    "type": "book",
+    "issued": "2011",
+    "page": "36"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "W."
+      },
+      {
+        "family": "Schwartz",
+        "given": "T."
+      }
+    ],
+    "title": "Creating the CIPRES Science Gateway for inference of large phylogenetic trees",
+    "container-title": "Proceedings of the Gateway Computing Environments Workshop (GCE",
+    "publisher": "Institute of Electrical and Electronics Engineers",
+    "type": "paper-conference",
+    "issued": "2010",
+    "page": "1–8",
+    "publisher-place": "New Orleans, LA",
+    "URL": "http://dx.doi.org/10.1109/GCE.2010.5676129",
+    "DOI": "10.1109/GCE.2010.5676129"
+  },
+  {
+    "author": [
+      {
+        "family": "Park",
+        "given": "W.-H."
+      },
+      {
+        "family": "Lee",
+        "given": "H.-D."
+      }
+    ],
+    "title": "Wild fungi of Korea",
+    "publisher": "Kyo-Hak Publishing Co., Seoul",
+    "type": "book",
+    "issued": "1991",
+    "page": "508"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "R.H."
+      },
+      {
+        "family": "Hughes",
+        "given": "K."
+      },
+      {
+        "family": "Adamčík",
+        "given": "S."
+      },
+      {
+        "family": "Tkalčec",
+        "given": "Z."
+      },
+      {
+        "family": "Mešić",
+        "given": "A."
+      }
+    ],
+    "title": "Typification of three European species epithets attributable to Strobilomyces (Boletales",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Czech Mycology",
+    "issue": "2",
+    "issued": "2012",
+    "page": "141–163"
+  },
+  {
+    "author": [
+      {
+        "family": "Pilát",
+        "given": "A."
+      },
+      {
+        "family": "Dermek",
+        "given": "A."
+      }
+    ],
+    "title": "Hríbovité huby",
+    "publisher": "Veda, Bratislava",
+    "type": "book",
+    "issued": "1974",
+    "page": "207 , 103",
+    "publisher-place": "tab"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Sato",
+        "given": "H."
+      },
+      {
+        "family": "Hattori",
+        "given": "T."
+      },
+      {
+        "family": "Kurogi",
+        "given": "S."
+      },
+      {
+        "family": "Yumoto",
+        "given": "T."
+      }
+    ],
+    "title": "Strobilomyces mirandus Corner, a new record from Japan",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2005",
+    "page": "102–105",
+    "URL": "http://dx.doi.org/10.1007/S10267-004-0222-8",
+    "DOI": "10.1007/S10267-004-0222-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Sato",
+        "given": "H."
+      },
+      {
+        "family": "Yumoto",
+        "given": "T."
+      },
+      {
+        "family": "Murakami",
+        "given": "N."
+      }
+    ],
+    "title": "Cryptic species and host specificity in the ectomycorrhizal genus Strobilomyces (Strobilomycetaceae",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issue": "10",
+    "issued": "2007",
+    "page": "1630–1641",
+    "URL": "http://dx.doi.org/10.3732/ajb.94.10.1630",
+    "DOI": "10.3732/ajb.94.10.1630"
+  },
+  {
+    "author": [
+      {
+        "family": "Sato",
+        "given": "H."
+      },
+      {
+        "family": "Hattori",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S.-S."
+      },
+      {
+        "family": "Murakami",
+        "given": "N."
+      }
+    ],
+    "title": "Two species of Strobilomyces (Boletaceae, Boletales",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "S. seminudus and S. hongoi sp. nov. from Japan. Mycologia",
+    "issue": "3",
+    "issued": "2011",
+    "page": "598–609",
+    "URL": "http://dx.doi.org/10.3852/10-182",
+    "DOI": "10.3852/10-182"
+  },
+  {
+    "author": [
+      {
+        "family": "Scopoli",
+        "given": "J.A."
+      }
+    ],
+    "title": "Fungi quidam rariores in Hungaria nun detecti",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Annus Historico-Naturalis",
+    "issued": "1770",
+    "page": "125–150"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The Boletineae of Florida with notes on extralimital species",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "I. The Strobilomycetaceae. Farlowia",
+    "issued": "1945",
+    "page": "97–141"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "The Agaricales in modern taxonomy",
+    "edition": "4th",
+    "publisher": "Koeltz Scientific Books, Koenigstein",
+    "type": "book",
+    "issued": "1986",
+    "page": "903"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: Maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690"
+  },
+  {
+    "author": [
+      {
+        "family": "Šutara",
+        "given": "J."
+      },
+      {
+        "family": "Mikšík",
+        "given": "M."
+      },
+      {
+        "family": "Janda",
+        "given": "V."
+      }
+    ],
+    "title": "Hřibovité houby",
+    "publisher": "Academia, Praha",
+    "type": "book",
+    "issued": "2009",
+    "page": "294"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Filipski",
+        "given": "A."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA6: Molecular evolutionary genetics analysis version 6.0",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "2725–2729"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "G."
+      },
+      {
+        "family": "Feng",
+        "given": "B."
+      },
+      {
+        "family": "Xu",
+        "given": "J."
+      },
+      {
+        "family": "Zhu",
+        "given": "X."
+      },
+      {
+        "family": "Li",
+        "given": "Y.-C."
+      },
+      {
+        "family": "Zeng",
+        "given": "N.-K."
+      },
+      {
+        "family": "Hosen",
+        "given": "M.I."
+      },
+      {
+        "family": "Yang",
+        "given": "Z.L."
+      }
+    ],
+    "title": "Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2014",
+    "page": "93–115",
+    "URL": "http://dx.doi.org/10.1007/s13225-014-0283-8",
+    "DOI": "10.1007/s13225-014-0283-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Zang",
+        "given": "M."
+      }
+    ],
+    "title": "Notes on the Boletales from eastern Himalayas and adjacent China",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Acta Botanica Yunnanica",
+    "issue": "4",
+    "issued": "1985",
+    "page": "383–401"
+  }
+]

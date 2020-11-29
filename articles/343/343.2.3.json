@@ -1,0 +1,545 @@
+[
+  {
+    "author": [
+      {
+        "family": "APG",
+        "suffix": "IV"
+      }
+    ],
+    "title": "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV",
+    "volume": "181",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2016",
+    "page": "1–20",
+    "URL": "https://doi.org/10.1371/10.1111/boj.12385",
+    "DOI": "10.1371/10.1111/boj.12385"
+  },
+  {
+    "author": [
+      {
+        "family": "Baena",
+        "given": "L."
+      },
+      {
+        "family": "Vizoso",
+        "given": "M.T."
+      },
+      {
+        "family": "Navarro",
+        "given": "F.B."
+      }
+    ],
+    "title": "Algunas novedades florísticas para la provincia de Granada (España",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Lagascalia",
+    "issued": "2003",
+    "page": "157–176"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentham",
+        "given": "G."
+      }
+    ],
+    "title": "Scrophulariaceae",
+    "editor": [
+      {
+        "family": "De Candolle",
+        "given": "A."
+      }
+    ],
+    "container-title": "Prodromus systematis naturalis regni vegetabilis 10",
+    "publisher": "V. Masson",
+    "type": "chapter",
+    "issued": "1846",
+    "page": "186–598",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Blanco-Pastor",
+        "given": "J.L."
+      },
+      {
+        "family": "Vargas",
+        "given": "P."
+      },
+      {
+        "family": "Pfeil",
+        "given": "B.E."
+      }
+    ],
+    "title": "Coalescent simulations reveal hybridization and incomplete lineage sorting in Mediterranean Linaria",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "PLoS ONE",
+    "issued": "2012",
+    "page": "39089",
+    "URL": "https://doi.org/10.1371/journal.pone.0039089",
+    "DOI": "10.1371/journal.pone.0039089"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Elenchus plantarum novarum",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Lador et Ramboz, Genève",
+    "issued": "1838",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Voyage botanique dans le midi de l’Espagne pendant l’année 1837",
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1839",
+    "page": "757"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabezudo",
+        "given": "B."
+      },
+      {
+        "family": "Talavera",
+        "given": "S."
+      },
+      {
+        "family": "Blanca",
+        "given": "G."
+      },
+      {
+        "family": "Salazar",
+        "given": "C."
+      },
+      {
+        "family": "Cueto",
+        "given": "M."
+      },
+      {
+        "family": "Valdés",
+        "given": "B."
+      },
+      {
+        "family": "Hernández",
+        "given": "J.E."
+      },
+      {
+        "family": "Herrera",
+        "given": "C.M."
+      },
+      {
+        "family": "Rodríguez",
+        "given": "C."
+      },
+      {
+        "family": "Navas",
+        "given": "D."
+      }
+    ],
+    "title": "Lista Roja de la Flora Vascular de Andalucía",
+    "container-title": "Consejería de Medio Ambiente de la Junta de Andalucía",
+    "publisher": "Sevilla",
+    "type": "chapter",
+    "issued": "2005",
+    "page": "126"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavanilles",
+        "given": "A.J."
+      }
+    ],
+    "title": "Elenchus plantarum horti regii botanici matritensis",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Madrid",
+    "issued": "1803",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dumortier",
+        "given": "B.C.J."
+      }
+    ],
+    "title": "Florula belgica",
+    "volume": "Tournay",
+    "type": "article-journal",
+    "container-title": "J. Casterman",
+    "issued": "1827",
+    "page": "172"
+  },
+  {
+    "author": [
+      {
+        "family": "Gouan",
+        "given": "A."
+      }
+    ],
+    "title": "Illustrationes et observationes botanicae",
+    "editor": [
+      {
+        "family": "Orell",
+        "given": "Gessner"
+      },
+      {
+        "given": "Fuesslin"
+      },
+      {
+        "family": "Co.",
+        "given": "Zürich"
+      }
+    ],
+    "type": null,
+    "issued": "1773",
+    "page": "84"
+  },
+  {
+    "author": [
+      {
+        "family": "Hammer",
+        "given": "Ø."
+      },
+      {
+        "family": "Harper",
+        "given": "D.A.T."
+      },
+      {
+        "family": "Ryan",
+        "given": "P.D."
+      }
+    ],
+    "title": "PAST: Paleontological Statistics software package for education",
+    "note": "Available from: folk.uio.no/ohammer/past (accessed 1 March 2018",
+    "type": null,
+    "issued": "2001"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "publisher": "IUCN Species Survival Commission",
+    "type": "book",
+    "issued": "2012",
+    "page": "30",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria: Version 13. Standards and Petitions Subcommittee",
+    "publisher": "UK",
+    "type": "book",
+    "issued": "2017",
+    "page": "108",
+    "publisher-place": "Gland, Switzerland and Cambridge"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species plantarum",
+    "volume": "2",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "given": "Loscos"
+      },
+      {
+        "family": "Bernal",
+        "given": "F."
+      }
+    ],
+    "title": "Tratado de plantas de Aragón",
+    "genre": "Suplemento 7.",
+    "publisher": "Establecimiento Tipográfico del Hospicio",
+    "type": null,
+    "issued": "1885",
+    "page": "32",
+    "publisher-place": "Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Malagarriga",
+        "given": "R.P."
+      }
+    ],
+    "title": "Sinopsis de la flora ibérica, Fascículo 90",
+    "publisher": "La Salle Bonanova",
+    "type": "book",
+    "issued": "1978",
+    "page": "16",
+    "publisher-place": "Barcelona"
+  },
+  {
+    "author": [
+      {
+        "family": "Marchal",
+        "given": "F.M."
+      },
+      {
+        "family": "Lendínez",
+        "given": "M.L."
+      },
+      {
+        "family": "García Fuentes",
+        "given": "A."
+      },
+      {
+        "family": "Torres",
+        "given": "J.A."
+      }
+    ],
+    "title": "Yesos del Guadiana Menor",
+    "editor": [
+      {
+        "family": "Mota",
+        "given": "J.F."
+      },
+      {
+        "family": "Sánchez-Gómez",
+        "given": "P."
+      },
+      {
+        "family": "Guirado",
+        "given": "J.S."
+      }
+    ],
+    "container-title": "Diversidad vegetal de las yeseras ibéricas ibéricas. El reto de los archipiélagos edáficos para la biología de la conservación. ADIF-Mediterráneo Asesores Consultores, Almería",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "481–484"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The gardeners dictionary, abridged fourth edition",
+    "publisher": "John and James Rivington",
+    "type": "book",
+    "issued": "1754",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "P."
+      }
+    ],
+    "title": "The gardeners dictionary",
+    "edition": "eighth",
+    "publisher": "John and Frances Rivington",
+    "type": "book",
+    "issued": "1768",
+    "page": null,
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Sáez",
+        "given": "L."
+      },
+      {
+        "family": "Bernal",
+        "given": "M."
+      }
+    ],
+    "title": "Linaria Mill",
+    "editor": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      },
+      {
+        "family": "Herrero",
+        "given": "A."
+      },
+      {
+        "family": "Benedí",
+        "given": "C."
+      },
+      {
+        "family": "Rico",
+        "given": "E."
+      },
+      {
+        "family": "Güemes",
+        "given": "J."
+      }
+    ],
+    "container-title": "Flora Iberica 13",
+    "publisher": "CSIC",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "232–324",
+    "publisher-place": "Madrid"
+  },
+  {
+    "author": [
+      {
+        "family": "Sáez",
+        "given": "L."
+      },
+      {
+        "family": "Crespo",
+        "given": "M.B."
+      }
+    ],
+    "title": "A taxonomic revision of the Linaria verticillata group (Antirrhineae, Scrophulariaceae",
+    "volume": "148",
+    "type": "article-journal",
+    "container-title": "Botanical Journal of the Linnean Society",
+    "issued": "2005",
+    "page": "229–244",
+    "URL": "https://doi.org/10.1111/j.1095-8339.2005.00404.x",
+    "DOI": "10.1111/j.1095-8339.2005.00404.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Sáez",
+        "given": "L."
+      },
+      {
+        "family": "Sainz",
+        "given": "M."
+      }
+    ],
+    "title": "Linaria Mill",
+    "editor": [
+      {
+        "family": "Blanca",
+        "given": "G."
+      },
+      {
+        "family": "Cabezudo",
+        "given": "B."
+      },
+      {
+        "family": "Cueto",
+        "given": "M."
+      },
+      {
+        "family": "Salazar",
+        "given": "C."
+      },
+      {
+        "family": "Morales Torres",
+        "given": "C."
+      }
+    ],
+    "container-title": "Flora Vascular de Andalucía Oriental. 2a Edición corregida y aumentada. Universidades de Almería",
+    "publisher": "Jaén y Málaga",
+    "type": "chapter",
+    "issued": "2011",
+    "page": "1233–1244",
+    "publisher-place": "Granada"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutton",
+        "given": "D.A."
+      }
+    ],
+    "title": "A revision of the tribe Antirrhineae",
+    "container-title": "British Museum (Natural History",
+    "type": "chapter",
+    "issued": "1988",
+    "page": "550",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated] Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Valdés",
+        "given": "B."
+      }
+    ],
+    "title": "Revisión de las especies europeas de Linaria con semillas aladas",
+    "volume": "Sevilla",
+    "type": "article-journal",
+    "container-title": "Anales de la Universidad Hispalense",
+    "issued": "1970",
+    "page": "288"
+  },
+  {
+    "author": [
+      {
+        "family": "Wettstein",
+        "given": "R."
+      }
+    ],
+    "title": "Linaria Mill",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "H.G.A."
+      },
+      {
+        "family": "Prantl",
+        "given": "K.A.E."
+      }
+    ],
+    "container-title": "Die natürlichen Pflanzenfamilien IV",
+    "note": "Teil 3 (b).",
+    "publisher": "Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1891",
+    "page": "59",
+    "publisher-place": "Leipzig"
+  }
+]

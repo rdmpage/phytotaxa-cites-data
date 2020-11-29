@@ -1,0 +1,461 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ab’Saber",
+        "given": "A.N."
+      }
+    ],
+    "title": "Ecossistemas do Brasil",
+    "type": "article-journal",
+    "container-title": "Editora Metalivros, São Paulo",
+    "issued": "2006",
+    "page": "200"
+  },
+  {
+    "author": [
+      {
+        "family": "Branco",
+        "given": "C.C.Z."
+      },
+      {
+        "family": "Riolfi",
+        "given": "T.A."
+      },
+      {
+        "family": "Peres",
+        "given": "C.K."
+      },
+      {
+        "family": "Necchi",
+        "given": "O.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "Rhodophyta from streams of Conservation Units in Southern Brazil",
+    "volume": "11",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "Biota Neotropica",
+    "issued": "2014",
+    "page": "365–375",
+    "URL": "http://www.biotaneotropica.org.br/v11n3/en/abstract?inventory"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Entwisle",
+        "given": "T.J."
+      }
+    ],
+    "title": "Batrachospermum antipodites, sp. nov. (Batrachospermaceae): a widespread freshwater red alga in eastern Australia and New Zealand",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Muelleria",
+    "issued": "1995",
+    "page": "291–298"
+  },
+  {
+    "author": [
+      {
+        "family": "Entwisle",
+        "given": "T.J."
+      },
+      {
+        "family": "Kraft",
+        "given": "G.T."
+      }
+    ],
+    "title": "Survey of freshwater red algae (Rhodophyta) of south-eastern Australia",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Australian Journal of Marine and Freshwater Research",
+    "issued": "1984",
+    "page": "213–259",
+    "URL": "http://dx.doi.org/10.1071/MF9840213",
+    "DOI": "10.1071/MF9840213"
+  },
+  {
+    "author": [
+      {
+        "family": "Entwisle",
+        "given": "T.J."
+      },
+      {
+        "family": "Foard",
+        "given": "H.J."
+      }
+    ],
+    "title": "Batrachospermum (Batrachospermales, Rhodophyta) in Australia and New Zealand: new taxa and emended circumscription in sections Aristata, Batrachospermum, Turfosa and Virescentia",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "Australian Systematic Botany",
+    "issued": "1997",
+    "page": "331–380",
+    "URL": "http://dx.doi.org/10.1071/SB96023",
+    "DOI": "10.1071/SB96023"
+  },
+  {
+    "author": [
+      {
+        "family": "Entwisle",
+        "given": "T.J."
+      },
+      {
+        "family": "Foard",
+        "given": "H.J."
+      }
+    ],
+    "title": "Batrachospermales",
+    "editor": [
+      {
+        "family": "Entwisle",
+        "given": "T.J."
+      },
+      {
+        "family": "Skinner",
+        "given": "S."
+      },
+      {
+        "family": "Foard",
+        "given": "H.J."
+      }
+    ],
+    "container-title": "Algae of Australia: Batrachospermales, Thoreales, Oedogoniales and Zygnemaceae. CSIRO Publishing, Camberra",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "1–25"
+  },
+  {
+    "author": [
+      {
+        "family": "Entwisle",
+        "given": "T.J."
+      },
+      {
+        "family": "Johnston",
+        "given": "E.T."
+      },
+      {
+        "family": "Lam",
+        "given": "D.W."
+      },
+      {
+        "family": "Stewart",
+        "given": "S.A."
+      },
+      {
+        "family": "Vis",
+        "given": "M.L."
+      }
+    ],
+    "title": "Nocturama gen. nov., Nothocladus s. lat. and other taxonomic novelties resulting from the further resolution of paraphyly in Australasian members of Batrachospermum (Batrachospermales, Rhodophyta",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "2016",
+    "page": "384–396",
+    "URL": "http://dx.doi.org/10.1111/jpy.12401",
+    "DOI": "10.1111/jpy.12401"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumano",
+        "given": "S."
+      }
+    ],
+    "title": "Freshwater red algae of the world",
+    "publisher": "Biopress Ltd., Bristol",
+    "type": "book",
+    "issued": "2002",
+    "page": "375"
+  },
+  {
+    "author": [
+      {
+        "family": "M.",
+        "given": "Kearse"
+      },
+      {
+        "family": "R.",
+        "given": "Moir"
+      },
+      {
+        "family": "A.",
+        "given": "Wilson"
+      },
+      {
+        "family": "S.",
+        "given": "Stones-Havas"
+      },
+      {
+        "family": "M.",
+        "given": "Cheung"
+      },
+      {
+        "family": "S.",
+        "given": "Sturrock"
+      },
+      {
+        "family": "S.",
+        "given": "Buxton"
+      },
+      {
+        "family": "A.",
+        "given": "Cooper"
+      },
+      {
+        "family": "S.",
+        "given": "Markowitz"
+      },
+      {
+        "family": "C.",
+        "given": "Duran"
+      },
+      {
+        "family": "T.",
+        "given": "Thierer"
+      },
+      {
+        "family": "B.",
+        "given": "Ashton"
+      },
+      {
+        "family": "P.",
+        "given": "Mentjies"
+      },
+      {
+        "family": "A",
+        "given": "Drummond"
+      }
+    ],
+    "title": "Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2012",
+    "page": "1647–1649",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/bts199",
+    "DOI": "10.1093/bioinformatics/bts199"
+  },
+  {
+    "author": [
+      {
+        "family": "Milstein",
+        "given": "D."
+      },
+      {
+        "family": "Oliveira",
+        "given": "M.C."
+      }
+    ],
+    "title": "Molecular phylogeny of Bangiales (Rhodophyta) based on small subunit rDNA sequencing: emphasis on Brazilian Porphyra species",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2005",
+    "page": "212–221",
+    "URL": "http://dx.doi.org/10.2216/0031-8884(2005)44",
+    "DOI": "10.2216/0031-8884(2005)44"
+  },
+  {
+    "author": [
+      {
+        "family": "Necchi",
+        "given": "O.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "Revision of the genus Batrachospermum Roth (Rhodophyta, Batrachospermales) in Brazil",
+    "volume": "84",
+    "publisher": "J. Cramer",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Phycologica",
+    "issued": "1990",
+    "page": "201",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "literal": "Necchi, O. Jr., Branco, C.C.Z. & Branco, L.H.Z."
+      }
+    ],
+    "title": "Distribution of Rhodophyta in streams from São Paulo State, southeastern Brazil",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Algological Studies",
+    "issued": "1999",
+    "page": "43–57"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Rossignolo",
+        "given": "N.L."
+      },
+      {
+        "family": "Necchi",
+        "given": "O.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "Revision of section Setacea of the genus Batrachospermum (Batrachospermales, Rhodophyta) with emphasis on specimens from Brazil",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2016",
+    "page": "337–346",
+    "URL": "http://dx.doi.org/10.2216/15-144.1",
+    "DOI": "10.2216/15-144.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Salomaki",
+        "given": "E.D."
+      },
+      {
+        "family": "Kwandraws",
+        "given": "J."
+      },
+      {
+        "family": "Eloranta",
+        "given": "P."
+      },
+      {
+        "family": "Vis",
+        "given": "M.L."
+      }
+    ],
+    "title": "Molecular and morphological evidence for Sheathia gen. nov.(Batrachospermales, Rhodophyta) and three new species",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "2014",
+    "page": "526–542",
+    "URL": "http://dx.doi.org/10.1111/jpy.12179",
+    "DOI": "10.1111/jpy.12179"
+  },
+  {
+    "author": [
+      {
+        "family": "Silvestro",
+        "given": "D."
+      },
+      {
+        "family": "Michalak",
+        "given": "I."
+      }
+    ],
+    "title": "RAxML GUI: a graphical front-end for RAxML",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Organism Diversity and Evolution",
+    "issued": "2011",
+    "page": "335–337",
+    "URL": "http://dx.doi.org/10.1007/s13127-011-0056-0",
+    "DOI": "10.1007/s13127-011-0056-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "S.A."
+      },
+      {
+        "family": "Vis",
+        "given": "M.L."
+      }
+    ],
+    "title": "Investigation of two species complexes in Batrachospermum section Batrachospermum (Batrachospermales, Rhodophyta",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Phycologia",
+    "issued": "2007",
+    "page": "380–385",
+    "URL": "http://dx.doi.org/10.2216/06-86.1",
+    "DOI": "10.2216/06-86.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Vis",
+        "given": "M.L."
+      },
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      },
+      {
+        "family": "Sheath",
+        "given": "R.G."
+      },
+      {
+        "family": "Dunse",
+        "given": "K."
+      },
+      {
+        "family": "Entwisle",
+        "given": "T.J."
+      }
+    ],
+    "title": "Phylogeny of the Batrachospermales (Rhodophyta) inferred from rbcL and 18S ribosomal DNA gene sequences",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "1998",
+    "page": "341–50",
+    "URL": "http://dx.doi.org/10.1046/j.1529-8817.1998.340341.x",
+    "DOI": "10.1046/j.1529-8817.1998.340341.x"
+  }
+]

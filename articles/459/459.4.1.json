@@ -1,0 +1,390 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bonaparte",
+        "given": "P."
+      }
+    ],
+    "title": "Didymochlaena",
+    "volume": null,
+    "editor": [
+      {
+        "family": "author",
+        "particle": "printed by the"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Notes Ptéridologiques",
+    "issue": "16",
+    "issued": "1925",
+    "page": "31–34",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Brause",
+        "given": "G."
+      },
+      {
+        "family": "Hieronymus",
+        "given": "G."
+      }
+    ],
+    "title": "Polypodiaceae",
+    "editor": [
+      {
+        "family": "Mildbraed",
+        "given": "J."
+      }
+    ],
+    "container-title": "Wissenschaftliche Ergebnisse der Deutschen Zentral-Afrika Expedition 1907-1908",
+    "volume": "2",
+    "publisher": "Klinkhardt & Biermann",
+    "type": "chapter",
+    "issued": "1914",
+    "page": "2–36",
+    "publisher-place": "Leipzig",
+    "URL": "https://doi.org/10.2307/3994289",
+    "DOI": "10.2307/3994289"
+  },
+  {
+    "author": [
+      {
+        "family": "Ching",
+        "given": "R.C."
+      }
+    ],
+    "title": "On natural classification of the family“ Polypodiaceae”",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Sunyatsenia",
+    "issued": "1940",
+    "page": "201–268"
+  },
+  {
+    "author": [
+      {
+        "family": "Christensen",
+        "given": "C."
+      }
+    ],
+    "title": "Catalogue des plantes de Madagascar, Pteridophyta",
+    "volume": "Tananarive",
+    "type": "article-journal",
+    "container-title": "Malagasy Academy",
+    "issued": "1932",
+    "page": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "Christensen",
+        "given": "C."
+      }
+    ],
+    "title": "The pteridophyta of Madagacar",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Dansk Botanisk Arkiv",
+    "issued": "1932",
+    "page": "1–253"
+  },
+  {
+    "author": [
+      {
+        "family": "Desvaux",
+        "given": "N.A."
+      }
+    ],
+    "title": "Observations sur quelques nouveaux genres de fougères et sur plusieures espéces nouvelles de la même famille",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Magazin für die Neuesten Entdeckungen in der Gesammten Naturkunde, Gesellschaft Naturforschender Freunde zu Berlin",
+    "issued": "1811",
+    "page": "297–330"
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "K.U."
+      },
+      {
+        "family": "Holttum",
+        "given": "R.E."
+      },
+      {
+        "family": "Moran",
+        "given": "R.C."
+      },
+      {
+        "family": "Smith",
+        "given": "A.R."
+      }
+    ],
+    "title": "Dryopteridaceae",
+    "editor": [
+      {
+        "family": "Kramer",
+        "given": "K.U."
+      },
+      {
+        "family": "Green",
+        "given": "P.S."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants",
+    "volume": "1",
+    "collection-title": "Pteridophytes and Gymnosperms (ser",
+    "edition": "ed., K. Kubitzki",
+    "publisher": "Springer",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "101–144",
+    "publisher-place": "BerlIn",
+    "URL": "https://doi.org/10.1007/978-3-662-02604-5_23",
+    "DOI": "10.1007/978-3-662-02604-5_23"
+  },
+  {
+    "author": [
+      {
+        "family": "Kunze",
+        "given": "G."
+      }
+    ],
+    "title": "Filicum in Promontorio Bonae Spei et ad Portum Natalensem",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1844",
+    "page": "113–124"
+  },
+  {
+    "author": [
+      {
+        "family": "Catalogue",
+        "given": "Madagascar"
+      }
+    ],
+    "title": "Catalogue of the Plants of Madagascar. Missouri Botanical Garden, St",
+    "note": "http://www.tropicos.org/Project/Orchids. Accessed: June, 2020",
+    "type": null,
+    "issued": "2020",
+    "publisher-place": "Louis, U.S.A"
+  },
+  {
+    "author": [
+      {
+        "family": "Mynssen",
+        "given": "C.M."
+      },
+      {
+        "family": "Vasco",
+        "given": "A."
+      },
+      {
+        "family": "Moran",
+        "given": "R.C."
+      },
+      {
+        "family": "Sylvestre",
+        "given": "L.S."
+      },
+      {
+        "family": "Rouhan",
+        "given": "G."
+      }
+    ],
+    "title": "Desmophlebiaceae and Desmophlebium: A new family and genus of Eupolypod II ferns",
+    "volume": "65",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issue": "1",
+    "issued": "2016",
+    "page": "19–34",
+    "URL": "https://doi.org/10.12705/651.2",
+    "DOI": "10.12705/651.2"
+  },
+  {
+    "author": [
+      {
+        "family": "PPG",
+        "given": "I."
+      }
+    ],
+    "title": "A community-derived classification for extant lycophytes and ferns",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issue": "6",
+    "issued": "2016",
+    "page": "563–603",
+    "URL": "https://doi.org/10.1111/jse.12229",
+    "DOI": "10.1111/jse.12229"
+  },
+  {
+    "author": [
+      {
+        "family": "Roux",
+        "given": "J.P."
+      }
+    ],
+    "title": "Synopsis of the lycopodiophyta and pteridophyta of Africa, Madagascar and neighbouring islands",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Strelitzia",
+    "issued": "2009",
+    "page": "1–296"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.R."
+      },
+      {
+        "family": "Pryer",
+        "given": "K.M."
+      },
+      {
+        "family": "Schuettpelz",
+        "given": "E."
+      },
+      {
+        "family": "Korall",
+        "given": "P."
+      },
+      {
+        "family": "Schneider",
+        "given": "H."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.G."
+      }
+    ],
+    "title": "A classification for extant ferns",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2006",
+    "page": "705–731",
+    "URL": "https://doi.org/10.2307/25065646",
+    "DOI": "10.2307/25065646"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J."
+      }
+    ],
+    "title": "An arrangement and definition of the genera of ferns, with observations on the affinities of each genus",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Journal of Botany (Hooker",
+    "issued": "1842",
+    "page": "147–198"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O.P."
+      }
+    ],
+    "title": "Genera et species filicum ordine systematico redactarum",
+    "volume": "1800",
+    "type": "article-journal",
+    "container-title": "Journal für die Botanik",
+    "issue": "2",
+    "issued": "1801",
+    "page": "1–136"
+  },
+  {
+    "author": [
+      {
+        "family": "Tardieu-Blot",
+        "given": "M.L."
+      }
+    ],
+    "title": "Famille 5 (10): Aspidiacées",
+    "editor": [
+      {
+        "family": "Humbert",
+        "given": "H."
+      }
+    ],
+    "container-title": "Flore de Madagascar et des Comores",
+    "volume": "1",
+    "publisher": "Typographie Firmin-Didot et Cie",
+    "type": "chapter",
+    "issued": "1958",
+    "page": "302–391",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "L.B."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      }
+    ],
+    "title": "Didymochlaenaceae: A new fern family of eupolypods I (Polypodiales",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2015",
+    "page": "27–38"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "X.M."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Lu",
+        "given": "N.J."
+      },
+      {
+        "family": "Gao",
+        "given": "X.F."
+      },
+      {
+        "family": "Zhang",
+        "given": "L.B."
+      }
+    ],
+    "title": "Pteridryaceae: A new fern family of Polypodiineae (Polypodiales) including taxonomic treatments",
+    "volume": "56",
+    "type": "article-journal",
+    "container-title": "Journal of Systematics and Evolution",
+    "issued": "2018",
+    "page": "148–173",
+    "URL": "https://doi.org/10.1111/jse.12305",
+    "DOI": "10.1111/jse.12305"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated]) Index herbariorum: a global directory of public herbaria and associated staff",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s virtual herbarium",
+    "issued": "2015"
+  }
+]

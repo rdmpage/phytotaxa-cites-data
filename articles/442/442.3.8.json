@@ -1,0 +1,287 @@
+[
+  {
+    "author": [
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Mendoza-Cifuentes",
+        "given": "H."
+      },
+      {
+        "family": "Penneys",
+        "given": "D.S."
+      },
+      {
+        "family": "Michelangeli",
+        "given": "F.A."
+      },
+      {
+        "family": "Alvear",
+        "given": "M."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Bernal",
+        "given": "R."
+      },
+      {
+        "family": "Gradstein",
+        "given": "S.R."
+      },
+      {
+        "family": "Celis",
+        "given": "M."
+      }
+    ],
+    "container-title": "Catálogo de plantas y líquenes de Colombia. Instituto de Ciencias Naturales, Universidad Nacional de Colombia. Bogotá",
+    "note": "Available from:",
+    "type": "chapter",
+    "issued": "2016",
+    "URL": "http://catalogoplantascolombia.unal.edu.co/"
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "S."
+      },
+      {
+        "family": "Moat",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "A.W."
+      },
+      {
+        "family": "Torre",
+        "given": "J.",
+        "particle": "de la"
+      },
+      {
+        "family": "Scott",
+        "given": "B."
+      }
+    ],
+    "title": "Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "V."
+      },
+      {
+        "family": "Penev",
+        "given": "L."
+      }
+    ],
+    "volume": "150",
+    "note": "Version BETA]. Available from:",
+    "type": "article-journal",
+    "container-title": "ZooKeys",
+    "issued": "2011",
+    "page": "117–126",
+    "URL": "http://geoCAT.kew.org/",
+    "DOI": "10.3897/zookeys.150.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for using the IUCN red list categories and criteria.Version 12",
+    "note": "Prepared by the Standards and Petition Subcommittee. Available from:",
+    "type": null,
+    "issued": "2016",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK",
+    "URL": "http://www.iucnredlist.org/documents/RedListGuidelines.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendoza-Cifuentes",
+        "given": "H."
+      }
+    ],
+    "title": "Meriania selvaflorensis (Melastomataceae), una nueva especie lianescente de Colombia",
+    "volume": "68",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issue": "2",
+    "issued": "2011",
+    "page": "249–252",
+    "URL": "https://doi.org/10.3989/ajbm.2279",
+    "DOI": "10.3989/ajbm.2279"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendoza-Cifuentes",
+        "given": "H."
+      },
+      {
+        "family": "Fernández-Alonso",
+        "given": "J.L."
+      }
+    ],
+    "title": "Novedades en Centronia y Meriania (Merianieae, Melastomataceae) y revisión taxonómica de Meriania grupo brachycera",
+    "volume": "69",
+    "type": "article-journal",
+    "container-title": "Anales del Jardín Botánico de Madrid",
+    "issue": "2",
+    "issued": "2012",
+    "page": "259–294",
+    "URL": "https://doi.org/10.3989/ajbm.2317",
+    "DOI": "10.3989/ajbm.2317"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendoza-Cifuentes",
+        "given": "H."
+      },
+      {
+        "family": "Almeda",
+        "given": "F."
+      },
+      {
+        "family": "Alvear",
+        "given": "M."
+      }
+    ],
+    "title": "Novelties in Meriania (Melastomataceae: Merianieae) from Andean rainforests of Colombia",
+    "volume": "178",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issue": "1",
+    "issued": "2014",
+    "page": "23–32",
+    "URL": "https://doi.org/10.11646/phytotaxa.178.1.2",
+    "DOI": "10.11646/phytotaxa.178.1.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Schindelin",
+        "given": "J."
+      },
+      {
+        "family": "Arganda-Carreras",
+        "given": "I."
+      },
+      {
+        "family": "Frise",
+        "given": "E."
+      },
+      {
+        "family": "Kaynig",
+        "given": "V."
+      },
+      {
+        "family": "Longair",
+        "given": "M."
+      },
+      {
+        "family": "Pietzsch",
+        "given": "T."
+      },
+      {
+        "family": "Preibisch",
+        "given": "S."
+      },
+      {
+        "family": "Rueden",
+        "given": "C."
+      },
+      {
+        "family": "Saalfeld",
+        "given": "S."
+      },
+      {
+        "family": "Schmid",
+        "given": "B."
+      },
+      {
+        "family": "Tinevez",
+        "given": "J.-Y."
+      },
+      {
+        "family": "White",
+        "given": "D.J."
+      },
+      {
+        "family": "Hartenstein",
+        "given": "V."
+      },
+      {
+        "family": "Eliceiri",
+        "given": "K."
+      },
+      {
+        "family": "Tomancak",
+        "given": "P."
+      },
+      {
+        "family": "Cardona",
+        "given": "A."
+      }
+    ],
+    "title": "Fiji: an open-source platform for biological-image analysis",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issue": "7",
+    "issued": "2012",
+    "page": "676–682",
+    "URL": "https://doi.org/10.1038/nmeth.2019",
+    "DOI": "10.1038/nmeth.2019"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Melastomataceae",
+    "editor": [
+      {
+        "family": "Harling",
+        "given": "G."
+      },
+      {
+        "family": "Sparre",
+        "given": "B."
+      }
+    ],
+    "container-title": "Flora of Ecuador",
+    "publisher": "University of Gothenburg. Gothenburg",
+    "type": "chapter",
+    "issued": "1980"
+  },
+  {
+    "author": [
+      {
+        "family": "Wurdack",
+        "given": "J.J."
+      }
+    ],
+    "title": "Atlas of hairs for neotropical Melastomataceae",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Smithsonian Contributions to Botany",
+    "issued": "1986",
+    "page": "1–80",
+    "URL": "https://doi.org/10.5962/bhl.title.122493",
+    "DOI": "10.5962/bhl.title.122493"
+  }
+]

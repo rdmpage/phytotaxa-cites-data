@@ -1,0 +1,135 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alston",
+        "given": "A.H.G."
+      }
+    ],
+    "title": "New species of Polypodium sect",
+    "volume": "77",
+    "type": "article-journal",
+    "container-title": "Campyloneurum. Journal of Botany, British and Foreign",
+    "issued": "1939",
+    "page": "346–347"
+  },
+  {
+    "author": [
+      {
+        "family": "Sota",
+        "given": "E.R.",
+        "particle": "de la"
+      }
+    ],
+    "title": "Polypodiaceae y Grammitidaceae Argentinas",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Opera Lilloana",
+    "issued": "1960",
+    "page": "1–229"
+  },
+  {
+    "author": [
+      {
+        "family": "Fée",
+        "given": "A.L.A."
+      }
+    ],
+    "title": "Genera Filicum. Exposition des genres de la famille des Polypodiacées (classe des fougères). Mémoires sur la famille des fougères 5",
+    "publisher": "Berger-Levrault, Strassbourg",
+    "type": "book",
+    "issued": "1852",
+    "page": "387"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Flora der Aequinoctial-Gegenden der neuen Welt",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1847",
+    "page": "337–445"
+  },
+  {
+    "author": [
+      {
+        "family": "Lellinger",
+        "given": "D.B."
+      }
+    ],
+    "title": "New combinations and some new names in ferns",
+    "volume": "74",
+    "type": "article-journal",
+    "container-title": "American Fern Journal",
+    "issued": "1984",
+    "page": "56–59",
+    "URL": "http://dx.doi.org/10.2307/1546870",
+    "DOI": "10.2307/1546870"
+  },
+  {
+    "author": [
+      {
+        "family": "León",
+        "given": "B."
+      }
+    ],
+    "title": "A taxonomic revision of the fern genus Campyloneurum (Polypodiaceae",
+    "genre": "Ph.D. Thesis,",
+    "publisher": "Faculty of Science, Aarhus University, Denmark",
+    "type": "thesis",
+    "issued": "1993",
+    "page": "125"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C."
+      }
+    ],
+    "title": "Tentamen Pteridographiae",
+    "publisher": "T. Haase, Prague",
+    "type": "book",
+    "issued": "1836",
+    "page": "290"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenstock",
+        "given": "E."
+      }
+    ],
+    "title": "Filices novae a cl",
+    "editor": [
+      {
+        "family": "O",
+        "given": "Dr"
+      }
+    ],
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Repertorium Speciorum novarum regni vegetabilis",
+    "issued": "1913",
+    "page": "468–477"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartz",
+        "given": "O."
+      }
+    ],
+    "title": "Nova Genera et Species Plantarum seu Prodromus",
+    "publisher": "Abo",
+    "type": "book",
+    "issued": "1788",
+    "page": "158",
+    "publisher-place": "Swederi, Stockholm, Uppsala"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "N.E."
+      }
+    ],
+    "title": "Asclepias In: Thiselton-Dyer, W.T",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "container-title": "Flora Capensis",
+    "volume": "4",
+    "publisher": "Hodges & Smith & Co",
+    "issue": "1",
+    "type": "article-journal",
+    "issued": "1908",
+    "page": "663–714",
+    "publisher-place": "Dublin"
+  },
+  {
+    "author": [
+      {
+        "family": "Goyder",
+        "given": "D.J."
+      }
+    ],
+    "title": "A synopsis of Asclepias (Apocynaceae: Asclepiadoideae) in tropical Africa",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "2009",
+    "page": "369–399",
+    "URL": "http://dx.doi.org/10.1007/s12225-009-9133-3",
+    "DOI": "10.1007/s12225-009-9133-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Kupicha",
+        "given": "F.K."
+      }
+    ],
+    "title": "Studies on African Asclepiadaceae",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1984",
+    "page": "599–672",
+    "URL": "http://dx.doi.org/10.2307/4108575",
+    "DOI": "10.2307/4108575"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "E.H.F."
+      }
+    ],
+    "title": "Commentariorum de plantis Africae australiorus",
+    "publisher": "Voss",
+    "type": "book",
+    "issued": "1838",
+    "page": "218–220",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "S.M."
+      }
+    ],
+    "title": "Alabastra diversa. XXXIV. 1. Plantae Rogersinae: Asclepiadaceae",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Journal of Botany, British and Foreign",
+    "issued": "1921",
+    "page": "231–232"
+  },
+  {
+    "editor": [
+      {
+        "family": "Mucina",
+        "given": "L."
+      },
+      {
+        "family": "Rutherford",
+        "given": "M.C."
+      }
+    ],
+    "title": "The vegetation of South Africa, Lesotho and Swaziland",
+    "volume": "19",
+    "publisher": "South African National Biodiversity Institute",
+    "type": "article-journal",
+    "container-title": "Strelitzia",
+    "issued": "2006",
+    "page": "749–790",
+    "publisher-place": "Pretoria"
+  },
+  {
+    "author": [
+      {
+        "family": "Nicholas",
+        "given": "A."
+      }
+    ],
+    "title": "A taxonomic reassessment of the subtribe Asclepiadinae (Asclepiadaceae) in southern Africa",
+    "genre": "Ph.D. thesis.",
+    "publisher": "University of Durban-Westville, Durban",
+    "type": "thesis",
+    "issued": "1999",
+    "page": "873"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "F.R.R."
+      }
+    ],
+    "title": "Beiträge zur Kenntnis südafrikanischer Asclepiadeen",
+    "volume": "20, Beiblatt 51",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher fur Systematik",
+    "issued": "1895",
+    "page": "1–56"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlechter",
+        "given": "F.R.R."
+      }
+    ],
+    "title": "Revision of extra-tropical South African Asclepiadaceae",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Journal of Botany",
+    "issued": "1896",
+    "page": "449–458"
+  }
+]

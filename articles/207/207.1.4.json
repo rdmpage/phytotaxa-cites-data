@@ -1,0 +1,959 @@
+[
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "G."
+      }
+    ],
+    "title": "Orobanchaceae",
+    "editor": [
+      {
+        "family": "Engler",
+        "given": "A."
+      }
+    ],
+    "container-title": "Das Pflanzenreich. Regni Vegetabili Conspectus IV.261",
+    "publisher": "Wilhelm Engelmann",
+    "type": "chapter",
+    "issued": "1930",
+    "page": "1–348",
+    "publisher-place": "Leipzig"
+  },
+  {
+    "author": [
+      {
+        "family": "Mannagetta",
+        "given": "G.",
+        "particle": "Beck von"
+      }
+    ],
+    "title": "Monographie der Gattung Orobanche",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bibliotheca Botanica",
+    "issued": "1890",
+    "page": "1–275"
+  },
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "G."
+      }
+    ],
+    "title": "Monographie der Gattung Orobanche",
+    "publisher": "Theodor Fischer. Kassel",
+    "type": "book",
+    "issued": "1890"
+  },
+  {
+    "author": [
+      {
+        "literal": "Carlón, L., Gomez Casares, G., Laínz, M., Moreno Moral, G., Sánchez Pedraja, O. & Schneeweiss, G.M."
+      }
+    ],
+    "title": "Index Orobanchaceae",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.farmalierganes.com/Otrospdf/publica/Orobanchaceae%20Index.htm"
+  },
+  {
+    "author": [
+      {
+        "family": "Carlón",
+        "given": "L."
+      },
+      {
+        "family": "Laínz",
+        "given": "M."
+      },
+      {
+        "family": "Moreno Moral",
+        "given": "G."
+      },
+      {
+        "family": "Sánchez Pedraja",
+        "given": "O."
+      }
+    ],
+    "title": "A new species (Orobanche loscosii), a prioritary name for O",
+    "editor": [
+      {
+        "given": "icterica"
+      }
+    ],
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Flora Montiberica",
+    "issued": "2011",
+    "page": "89–101"
+  },
+  {
+    "author": [
+      {
+        "literal": "Carlón, L., Gomez Casares, G., Laínz, M., Moreno Moral, G., Sánchez Pedraja, O. & Schneeweiss G.M."
+      }
+    ],
+    "title": "Más, a propósito de algunas Phelipanche Pomel",
+    "editor": [
+      {
+        "family": "Schultz",
+        "given": "Boulardia F.W."
+      },
+      {
+        "family": "L",
+        "given": "Orobanche"
+      }
+    ],
+    "container-title": "del oeste del Paleártico. Documentos del Jardín Botánico Atlántico",
+    "volume": "6",
+    "type": "chapter",
+    "issued": "2008",
+    "page": "1–128"
+  },
+  {
+    "author": [
+      {
+        "literal": "Carlón, L., Gomez Casares, G., Laínz, M., Moreno Moral, G., Sánchez Pedraja, O. & Schneeweiss, G.M."
+      }
+    ],
+    "title": "Más, a propósito de algunas Orobanche L. y Phelipanche Pomel (Orobanchaceae) del oeste del Paleártico",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Documentos del Jardín Botánico Atlántico",
+    "issued": "2005",
+    "page": "1–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Carlón",
+        "given": "L."
+      },
+      {
+        "family": "Gomez Casares",
+        "given": "G."
+      },
+      {
+        "family": "Laínz",
+        "given": "M."
+      },
+      {
+        "family": "Moreno Moral",
+        "given": "G."
+      },
+      {
+        "family": "Sánchez Pedraja",
+        "given": "O."
+      }
+    ],
+    "title": "Más, a propósito de algunas Orobanche (Orobanchaceae) del norte y este de la Península",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Documentos Jard Bot Atlántico",
+    "issued": "2003",
+    "page": "1–45"
+  },
+  {
+    "author": [
+      {
+        "family": "Castagne",
+        "given": "L."
+      }
+    ],
+    "title": "Catalogue des plantes qui croissent naturellement dans le département des Bouches-du-Rhône. Camoin frères, libraires-éditeurs",
+    "publisher": "Marseille",
+    "type": "book",
+    "issued": "1862",
+    "page": "203"
+  },
+  {
+    "author": [
+      {
+        "family": "Coste",
+        "given": "F."
+      }
+    ],
+    "title": "Flore descriptive et illustrée de la France de la Corse et des contrées limitrophes",
+    "volume": "3. P",
+    "publisher": "Klincksieck",
+    "type": "book",
+    "issued": "1937",
+    "page": "62–74",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Crouzet",
+        "given": "N."
+      },
+      {
+        "family": "Pavon",
+        "given": "D."
+      },
+      {
+        "family": "Michaud",
+        "given": "H."
+      }
+    ],
+    "title": "Mise à jour de la liste des plantes vasculaires du département des Bouches–du–Rhône",
+    "volume": "60",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société linnéenne de Provence",
+    "issued": "2009",
+    "page": "55–73"
+  },
+  {
+    "author": [
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Arrigoni",
+        "given": "P.V."
+      }
+    ],
+    "title": "The genus Orobanche (Orobanchaceae) in Sardinia",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Flora Mediterranea",
+    "issued": "2007",
+    "page": "115–136"
+  },
+  {
+    "author": [
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Marino",
+        "given": "P."
+      },
+      {
+        "family": "Schäfer",
+        "given": "P.A."
+      }
+    ],
+    "title": "Types of names of Orobanche taxa described from North Africa",
+    "volume": "147",
+    "type": "article-journal",
+    "container-title": "Plant Biosystems",
+    "issued": "2013",
+    "page": "758–766",
+    "URL": "http://dx.doi.org/10.1080/11263504.2013.829883",
+    "DOI": "10.1080/11263504.2013.829883"
+  },
+  {
+    "author": [
+      {
+        "family": "Domina",
+        "given": "G."
+      },
+      {
+        "family": "Marino",
+        "given": "P."
+      },
+      {
+        "family": "Castellano",
+        "given": "G."
+      }
+    ],
+    "title": "The genus Orobanche (Orobanchaceae) in Sicily",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Flora Mediterranea",
+    "issued": "2011",
+    "page": "205–242"
+  },
+  {
+    "author": [
+      {
+        "family": "G.",
+        "given": "Domina"
+      },
+      {
+        "family": "J",
+        "given": "Stepanek"
+      }
+    ],
+    "title": "Typification of the name Orobanche canescens C",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Presl. (Orobanchaceae) with taxonomic notes. Candollea",
+    "issued": "2009",
+    "page": "31–37"
+  },
+  {
+    "author": [
+      {
+        "family": "commission",
+        "given": "European"
+      }
+    ],
+    "title": "Interpretation manual of european union habitats EUR27",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2007",
+    "URL": "http://ec.europa.eu/environment/nature/legislation/habitatsdirective/docs/2007_07_im.pdf"
+  },
+  {
+    "author": [
+      {
+        "family": "Foley",
+        "given": "M.J.Y."
+      }
+    ],
+    "title": "Orobanche L",
+    "editor": [
+      {
+        "family": "Castroviejo",
+        "given": "S."
+      }
+    ],
+    "container-title": "Flora Iberica 14",
+    "type": "chapter",
+    "issued": "2001",
+    "page": "32–72"
+  },
+  {
+    "author": [
+      {
+        "family": "Halácsy",
+        "given": "E."
+      },
+      {
+        "family": "Braun",
+        "given": "H."
+      }
+    ],
+    "title": "Nachträge zur Flora von Niederrösterreich",
+    "publisher": "Wien",
+    "type": "book",
+    "issued": "1882",
+    "page": "354"
+  },
+  {
+    "author": [
+      {
+        "family": "Hill",
+        "given": "B."
+      },
+      {
+        "family": "Véla",
+        "given": "E."
+      }
+    ],
+    "title": "Mise à jour de la liste des plantes vasculaires du département des Bouches–du–Rhône",
+    "volume": "50",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société linnéenne de Provence",
+    "issued": "2000",
+    "page": "115–201"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN red list categories and criteria version 3.1",
+    "edition": "2nd",
+    "publisher": "IUCN Species Survival Commission. IUCN",
+    "type": "book",
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeanmonod",
+        "given": "D."
+      },
+      {
+        "family": "Habashi",
+        "given": "C."
+      }
+    ],
+    "title": "Orobanche L",
+    "editor": [
+      {
+        "family": "Jeanmonod",
+        "given": "D."
+      },
+      {
+        "family": "Gamisans",
+        "given": "J."
+      }
+    ],
+    "container-title": "Flora Corsica. Édisud",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "– – , 680–685"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C."
+      }
+    ],
+    "title": "Species Plantarum",
+    "volume": "1",
+    "issue": "–2",
+    "type": null,
+    "issued": "1753",
+    "page": null,
+    "publisher-place": "Salvius, Stockholm"
+  },
+  {
+    "author": [
+      {
+        "family": "Loscos",
+        "given": "F."
+      },
+      {
+        "family": "Pardo",
+        "given": "J."
+      }
+    ],
+    "title": "Series inconfecta plantarum indigenarum Aragoniae praecipue meridionalis",
+    "volume": "X",
+    "editor": [
+      {
+        "family": "fill",
+        "particle": "ex typografia K. Blochmann et"
+      }
+    ],
+    "type": null,
+    "issued": "1863",
+    "page": "135",
+    "publisher-place": "Dresden"
+  },
+  {
+    "author": [
+      {
+        "family": "Manen",
+        "given": "J.-F."
+      },
+      {
+        "family": "Habashi",
+        "given": "C."
+      },
+      {
+        "family": "Jeanmonod",
+        "given": "D."
+      },
+      {
+        "family": "Park",
+        "given": "J.-M."
+      },
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      }
+    ],
+    "title": "Phylogeny and intraspecific variability of holoparasitic Orobanche (Orobanchaceae) inferred from plastid rbcL sequences",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2004",
+    "page": "482–500",
+    "URL": "http://dx.doi.org/10.1016/j.ympev.2004.06.010",
+    "DOI": "10.1016/j.ympev.2004.06.010"
+  },
+  {
+    "author": [
+      {
+        "family": "Médail",
+        "given": "F."
+      },
+      {
+        "family": "Diadema",
+        "given": "K."
+      }
+    ],
+    "title": "Glacial refugia influence plant diversity patterns in the Mediterranean Basin",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Journal of Biogeography",
+    "issued": "2009",
+    "page": "1333–1345",
+    "URL": "http://dx.doi.org/10.1111/j.1365-2699.2008.02051.x",
+    "DOI": "10.1111/j.1365-2699.2008.02051.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Molinier",
+        "given": "R."
+      }
+    ],
+    "title": "Catalogue des plantes vasculaires des Bouches-du-Rhône",
+    "volume": "Marseille",
+    "type": "article-journal",
+    "container-title": "Imprimerie municipale",
+    "issued": "1981",
+    "page": "373"
+  },
+  {
+    "author": [
+      {
+        "family": "Pau",
+        "given": "C."
+      }
+    ],
+    "title": "Notas botánicas a la flora española 3",
+    "type": null,
+    "issued": "1889",
+    "page": "40",
+    "publisher-place": "Romani y Suay, Segorbe"
+  },
+  {
+    "author": [
+      {
+        "family": "Pomel",
+        "given": "A."
+      }
+    ],
+    "title": "Nouveaux matériaux pour la flore atlantique. Savy, libraire éditeur",
+    "publisher": "Paris",
+    "type": "book",
+    "issued": "1874",
+    "page": "399"
+  },
+  {
+    "author": [
+      {
+        "family": "Pouget",
+        "given": "M."
+      },
+      {
+        "family": "Youssef",
+        "given": "S."
+      },
+      {
+        "family": "Migliore",
+        "given": "J."
+      },
+      {
+        "family": "Juin",
+        "given": "M."
+      },
+      {
+        "family": "Médail",
+        "given": "F."
+      },
+      {
+        "family": "Baumel",
+        "given": "A."
+      }
+    ],
+    "title": "Phylogeography sheds light on the central-marginal hypothesis in a Mediterranean narrow endemic plant",
+    "volume": "112",
+    "type": "article-journal",
+    "container-title": "Annals of Botany",
+    "issued": "2013",
+    "page": "1409–1420",
+    "URL": "http://dx.doi.org/10.1093/aob/mct183",
+    "DOI": "10.1093/aob/mct183"
+  },
+  {
+    "author": [
+      {
+        "family": "Presl",
+        "given": "C."
+      }
+    ],
+    "title": "Deliciae Pragenses, Historiam Naturalis Spectantes",
+    "volume": "1",
+    "publisher": "Sumtibus Calve, Prague",
+    "type": "book",
+    "issued": "1822",
+    "page": "268"
+  },
+  {
+    "author": [
+      {
+        "family": "Pujadas Salvà",
+        "given": "A.J."
+      }
+    ],
+    "title": "Orobanche icterica Pau, taxon minusvalorado del Sistema ibérico",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Flora Montiberica",
+    "issued": "1999",
+    "page": "15–18"
+  },
+  {
+    "author": [
+      {
+        "family": "Pujadas-Salvà",
+        "given": "A.J."
+      }
+    ],
+    "title": "Orobanche L",
+    "editor": [
+      {
+        "family": "Blanca",
+        "given": "G."
+      },
+      {
+        "family": "Cabezudo",
+        "given": "B."
+      },
+      {
+        "family": "Cueto",
+        "given": "M."
+      },
+      {
+        "family": "Fernández López",
+        "given": "C."
+      },
+      {
+        "family": "Morales Torres",
+        "given": "C."
+      }
+    ],
+    "container-title": "Flora Vascular de Andalucía Oriental 3. Consejería de Medio Ambiente, Junta de Andalucía, Sevilla",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "412–421"
+  },
+  {
+    "author": [
+      {
+        "family": "Pujadas-Salvá",
+        "given": "A.J."
+      }
+    ],
+    "title": "Typification and characterization of Orobanche santolinae Loscos &",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "J. Pardo (Orobanchaceae). Taxon",
+    "issued": "2010",
+    "page": "959–964"
+  },
+  {
+    "author": [
+      {
+        "literal": "Pujadas Salvà, A.J., Plaza Arregui, L., Sánchez Gullón, E., Triano Muñoz, E., López Martínez, M., Burgarella, C., Rubiales Olmedo, D., Román del Castillo, B., Reyes Sepúlveda, E. & Ivorra Jiménez, A."
+      }
+    ],
+    "title": "El género Orobanche (Orobanchaceae) en Andalucía",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Acta Botánica Malacitana",
+    "issued": "2007",
+    "page": "91–126"
+  },
+  {
+    "author": [
+      {
+        "family": "Rivas-Martinez",
+        "given": "S."
+      }
+    ],
+    "title": "Bioclimatic Map of Europe",
+    "genre": "Phytosociological Research Center.",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2015",
+    "URL": "http://www.globalbioclimatics.org/form/bi_map/MS30W180.htm"
+  },
+  {
+    "author": [
+      {
+        "family": "Roux",
+        "given": "H."
+      }
+    ],
+    "title": "Catalogue des plantes de Provence, spontanées ou généralement cultivées",
+    "volume": "Marseille",
+    "type": "article-journal",
+    "container-title": "Typographie et lithographie Marius Olive",
+    "issued": "1881",
+    "page": "654"
+  },
+  {
+    "author": [
+      {
+        "family": "Schneeweiss",
+        "given": "G.M."
+      },
+      {
+        "family": "Colwell",
+        "given": "A."
+      },
+      {
+        "family": "Park",
+        "given": "J.-M."
+      },
+      {
+        "family": "Jang",
+        "given": "C.-G."
+      },
+      {
+        "family": "Stuessy",
+        "given": "T.F."
+      }
+    ],
+    "title": "Phylogeny of holoparasitic Orobanche (Orobanchaceae) inferred from nuclear ITS sequences",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2004",
+    "page": "465–478",
+    "URL": "http://dx.doi.org/10.1016/S1055-7903(03)00210-0",
+    "DOI": "10.1016/S1055-7903(03)00210-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultz",
+        "given": "F.W."
+      }
+    ],
+    "title": "Orobanche kochii, eine neue deutsche Art",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Flora",
+    "issued": "1847",
+    "page": "65–67, 2"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "title": "Flora Graeca Prodromus 2(1",
+    "type": null,
+    "issued": "1813",
+    "page": "111",
+    "publisher-place": "Richard Taylor, London"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutton",
+        "given": "C."
+      }
+    ],
+    "title": "A description of five species of Orobanche",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Transactions of the Linnean Society of London",
+    "issued": "1798",
+    "page": "173–181",
+    "URL": "http://dx.doi.org/10.1111/j.1096-3642.1798.tb00525.x",
+    "DOI": "10.1111/j.1096-3642.1798.tb00525.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "J.D."
+      },
+      {
+        "family": "Lavergne",
+        "given": "S."
+      },
+      {
+        "family": "Affre",
+        "given": "L."
+      },
+      {
+        "family": "Gaudeul",
+        "given": "M."
+      },
+      {
+        "family": "Debussche",
+        "given": "M."
+      }
+    ],
+    "title": "Ecological differentiation of Mediterranean endemic plants",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Taxon",
+    "issued": "2005",
+    "page": "967–976",
+    "URL": "http://dx.doi.org/10.2307/25065481",
+    "DOI": "10.2307/25065481"
+  },
+  {
+    "author": [
+      {
+        "family": "Tison",
+        "given": "J.-M."
+      },
+      {
+        "family": "De Foucault",
+        "given": "B."
+      }
+    ],
+    "title": "Flora Gallica. Flore de France",
+    "type": "article-journal",
+    "container-title": "Biotope, Mèze",
+    "issued": "2014",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tison",
+        "given": "J.-M."
+      },
+      {
+        "family": "Jauzein",
+        "given": "P."
+      },
+      {
+        "family": "Michaud",
+        "given": "H."
+      }
+    ],
+    "title": "Flore de la France méditerranéenne continentale",
+    "type": "article-journal",
+    "container-title": "CBNMED/Naturalia Publication eds., Turriers",
+    "issued": "2014",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Véla",
+        "given": "E."
+      },
+      {
+        "family": "Hill",
+        "given": "B."
+      },
+      {
+        "family": "Della-Casa",
+        "given": "S."
+      }
+    ],
+    "title": "Liste des plantes vasculaires du département des Bouches–du–Rhône",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société linnéenne de Provence",
+    "issued": "1999",
+    "page": "71–94"
+  },
+  {
+    "author": [
+      {
+        "family": "Véla",
+        "given": "E."
+      },
+      {
+        "family": "Pavon",
+        "given": "D."
+      },
+      {
+        "family": "Giraud",
+        "given": "R."
+      },
+      {
+        "family": "Di Stefano",
+        "given": "M."
+      },
+      {
+        "family": "Saatkamp",
+        "given": "A."
+      }
+    ],
+    "title": "Liste des plantes vasculaires du site classé des Calanques (Marseille, Cassis",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Bulletin de la Société linnéenne de Provence",
+    "issued": "2001",
+    "page": "139–148"
+  },
+  {
+    "author": [
+      {
+        "family": "Véla",
+        "given": "E."
+      },
+      {
+        "family": "Pavon",
+        "given": "D."
+      },
+      {
+        "family": "Auda",
+        "given": "P."
+      }
+    ],
+    "title": "Analyse et révision de la fiche-espèce 1453 des cahiers d’habitats Natura 2000 : « Gouffeia arenarioides DC",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "». Journal de Botanique",
+    "issued": "2006",
+    "page": "39–44"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallroth",
+        "given": "F.W."
+      }
+    ],
+    "title": "Schedulae criticae de plantis florae halensis selectis 8. Sumtibus C",
+    "volume": null,
+    "type": "article-journal",
+    "container-title": "A. Kümmelii",
+    "issue": "alae",
+    "issued": "1822",
+    "page": "516"
+  },
+  {
+    "author": [
+      {
+        "family": "Youssef",
+        "given": "S."
+      },
+      {
+        "family": "Baumel",
+        "given": "A."
+      },
+      {
+        "family": "Véla",
+        "given": "E."
+      }
+    ],
+    "title": "Factors underlying the narrow distribution of the Mediterranean annual plant Arenaria provincialis (Caryophyllaceae",
+    "volume": "46",
+    "type": "article-journal",
+    "container-title": "Folia Geobotanica",
+    "issued": "2011",
+    "page": "327–350",
+    "URL": "http://dx.doi.org/10.1007/s12224-011-9101-1",
+    "DOI": "10.1007/s12224-011-9101-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Zázvorka",
+        "given": "J."
+      }
+    ],
+    "title": "Orobanche kochii and O. elatior (Orobanchaceae) in central Europe",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Acta Musei Moraviae, Scientiae biologicae",
+    "issued": "2010",
+    "page": "77–119"
+  }
+]

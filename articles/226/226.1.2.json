@@ -1,0 +1,949 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "M.J."
+      },
+      {
+        "family": "Broome",
+        "given": "C.E."
+      }
+    ],
+    "title": "The fungi of Ceylon",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Journal of the Linnean Society, Botany",
+    "issued": "1871",
+    "page": "494–567",
+    "URL": "http://dx.doi.org/10.1111/j.1095-8339.1871.tb00163.x",
+    "DOI": "10.1111/j.1095-8339.1871.tb00163.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Cantrell",
+        "given": "S.A."
+      },
+      {
+        "family": "Lodge",
+        "given": "D.J."
+      }
+    ],
+    "title": "Hygrophoraceae (Agaricales) of the Greater Antilles, subgenus Pseudohygrocybe section Firmae",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issued": "2001",
+    "page": "215–224",
+    "URL": "http://dx.doi.org/10.1017/S0953756200003397",
+    "DOI": "10.1017/S0953756200003397"
+  },
+  {
+    "author": [
+      {
+        "family": "Corner",
+        "given": "E.J.H."
+      }
+    ],
+    "title": "Hygrophorus with dimorphous basidiospores",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Transactions of the British Mycological Society",
+    "issued": "1936",
+    "page": "157–184",
+    "URL": "http://dx.doi.org/10.1016/S0007-1536(36)80008-4",
+    "DOI": "10.1016/S0007-1536(36)80008-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Dafonseca",
+        "given": "G."
+      }
+    ],
+    "title": "The Vanishing Brazilian Atlantic Forest",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Biological Conservation",
+    "issued": "1985",
+    "page": "17–34",
+    "URL": "http://dx.doi.org/10.1016/0006-3207(85)90055-2",
+    "DOI": "10.1016/0006-3207(85)90055-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issue": "8",
+    "issued": "2012",
+    "page": "772",
+    "URL": "http://dx.doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Meijer",
+        "given": "A.A.R.",
+        "particle": "de"
+      }
+    ],
+    "title": "Macrofungos notáveis das Florestas de Pinheiro-do-Paraná",
+    "publisher": "Embrapa Florestas",
+    "type": "book",
+    "issued": "2008",
+    "page": "431",
+    "publisher-place": "Colombo"
+  },
+  {
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "A.J."
+      },
+      {
+        "family": "Ashton",
+        "given": "B."
+      },
+      {
+        "family": "Cheung",
+        "given": "M."
+      },
+      {
+        "family": "Heled",
+        "given": "J."
+      },
+      {
+        "family": "Kearse",
+        "given": "M."
+      },
+      {
+        "family": "Moir",
+        "given": "R."
+      },
+      {
+        "family": "Stones-Havas",
+        "given": "S."
+      },
+      {
+        "family": "Thierer",
+        "given": "T."
+      },
+      {
+        "family": "Wilson",
+        "given": "A."
+      }
+    ],
+    "note": "Geneious 5.3. Available from:",
+    "type": null,
+    "issued": "2010",
+    "URL": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fannechère",
+        "given": "G."
+      }
+    ],
+    "title": "Mycomètre, logiciel d’aide à la mesure et de traitement statistique",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2011",
+    "URL": "http://mycolim.free.fr/DOC_SML/mycm202/Charg_Mycm202.htm"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Confidence limits on phylogenies: an approach using the bootstrap",
+    "volume": "39",
+    "type": "article-journal",
+    "container-title": "Evolution",
+    "issued": "1985",
+    "page": "783–791",
+    "URL": "http://dx.doi.org/10.2307/2408678",
+    "DOI": "10.2307/2408678"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for Basidiomycetes–application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "http://dx.doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      }
+    ],
+    "title": "Champignons récoltés au Congo par Madame M",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Gossens-Fontana. V. Hygrophoraceae. Bulletin du Jardin botanique de l’État a Bruxelles",
+    "issue": "4",
+    "issued": "1963",
+    "page": "421–458",
+    "URL": "http://dx.doi.org/10.2307/3667377",
+    "DOI": "10.2307/3667377"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "P."
+      }
+    ],
+    "title": "Hygrophoraceae, Laccaria et Boletineae II (Complément",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "Flore Iconographique des Champignons du Congo",
+    "issued": "1966",
+    "page": "279–308"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Misawa",
+        "given": "K."
+      },
+      {
+        "family": "Kuma",
+        "given": "K."
+      },
+      {
+        "family": "Miyata",
+        "given": "T."
+      }
+    ],
+    "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2002",
+    "page": "3059–3066",
+    "URL": "http://dx.doi.org/10.1093/nar/gkf436",
+    "DOI": "10.1093/nar/gkf436"
+  },
+  {
+    "author": [
+      {
+        "family": "Lodge",
+        "given": "D.J."
+      },
+      {
+        "family": "Ovrebo",
+        "given": "C.L."
+      }
+    ],
+    "title": "First Records of Hygrophoraceae from Panama including a new species of Camarophyllus and a new veiled species in Hygrocybe section Firmae",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2008",
+    "page": "69–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Lodge",
+        "given": "D.J."
+      },
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "Hygrophoraceae of the Luquillo Mountains of Puerto Rico",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "Mycological Research",
+    "issue": "4",
+    "issued": "1990",
+    "page": "443–456",
+    "URL": "http://dx.doi.org/10.1016/S0953-7562(10)80002-4",
+    "DOI": "10.1016/S0953-7562(10)80002-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Lodge",
+        "given": "D.J."
+      },
+      {
+        "family": "Padamsee",
+        "given": "M."
+      },
+      {
+        "family": "Matheny",
+        "given": "P.B."
+      },
+      {
+        "family": "Aime",
+        "given": "M.C."
+      },
+      {
+        "family": "Cantrell",
+        "given": "S.A."
+      },
+      {
+        "family": "Boertmann",
+        "given": "D."
+      },
+      {
+        "family": "Kovalenko",
+        "given": "A."
+      },
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Dentinger",
+        "given": "B.T.M."
+      },
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Ainsworth",
+        "given": "A.M."
+      },
+      {
+        "family": "Moncalvo",
+        "given": "J.-M."
+      },
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Lücking",
+        "given": "R."
+      },
+      {
+        "family": "Griffith",
+        "given": "G.W."
+      },
+      {
+        "family": "Smith",
+        "given": "M.E."
+      },
+      {
+        "family": "Norvell",
+        "given": "L.L."
+      },
+      {
+        "family": "Desjardin",
+        "given": "D.E."
+      },
+      {
+        "family": "Redhead",
+        "given": "S.A."
+      },
+      {
+        "family": "Ovrebo",
+        "given": "C.L."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Ercole",
+        "given": "E."
+      },
+      {
+        "family": "Hughes",
+        "given": "K.W."
+      },
+      {
+        "family": "Courtecuisse",
+        "given": "R."
+      },
+      {
+        "family": "Young",
+        "given": "A."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      },
+      {
+        "family": "Minnis",
+        "given": "A.M."
+      },
+      {
+        "family": "Lindner",
+        "given": "D.L."
+      },
+      {
+        "family": "Ortiz-Santana",
+        "given": "B."
+      },
+      {
+        "family": "Haight",
+        "given": "J."
+      },
+      {
+        "family": "Læssøe",
+        "given": "T."
+      },
+      {
+        "family": "Baroni",
+        "given": "T.J."
+      },
+      {
+        "family": "Geml",
+        "given": "J."
+      },
+      {
+        "family": "Hattori",
+        "given": "T."
+      }
+    ],
+    "title": "Molecular phylogeny, morphology, pigment chemistry and ecology in Hygrophoraceae (Agaricales",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Fungal Diversity",
+    "issued": "2014",
+    "page": "1–99",
+    "URL": "http://dx.doi.org/10.1007/s13225-013-0259-0",
+    "DOI": "10.1007/s13225-013-0259-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Myers",
+        "given": "N."
+      },
+      {
+        "family": "Mittermeier",
+        "given": "R.A."
+      },
+      {
+        "family": "Mittermeyer",
+        "given": "C.G.Fonseca"
+      },
+      {
+        "given": "G.A.B."
+      },
+      {
+        "family": "Kent",
+        "given": "J."
+      }
+    ],
+    "title": "Biodiversity hotspots for conservation priorities",
+    "volume": "403",
+    "type": "article-journal",
+    "container-title": "Nature",
+    "issued": "2000",
+    "page": "853–845",
+    "URL": "http://dx.doi.org/10.1038/35002501",
+    "DOI": "10.1038/35002501"
+  },
+  {
+    "author": [
+      {
+        "family": "Paese",
+        "given": "A."
+      },
+      {
+        "family": "Paglia",
+        "given": "A."
+      },
+      {
+        "family": "Pinto",
+        "given": "L.P."
+      },
+      {
+        "family": "Foster",
+        "given": "M.N."
+      },
+      {
+        "family": "Fonseca",
+        "given": "M."
+      },
+      {
+        "family": "R",
+        "given": "Sposito"
+      }
+    ],
+    "title": "Fine-scale sites of global conservation importance in the Atlantic forest of Brazil",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Biodiversity and Conservation",
+    "issued": "2010",
+    "page": "3445–3458",
+    "URL": "http://dx.doi.org/10.1007/s10531-010-9906-x",
+    "DOI": "10.1007/s10531-010-9906-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      }
+    ],
+    "title": "Agaric flora of the Lesser Antilles",
+    "collection-title": "Additional Series IX",
+    "publisher": "HMSO, London",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1983",
+    "page": "668"
+  },
+  {
+    "author": [
+      {
+        "family": "D.N",
+        "given": "Pegler"
+      }
+    ],
+    "title": "Agaric flora of Sri Lanka",
+    "collection-title": "Additional Series XII",
+    "publisher": "HMSO, London",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1986",
+    "page": "519"
+  },
+  {
+    "author": [
+      {
+        "family": "D.N",
+        "given": "Pegler"
+      }
+    ],
+    "title": "The Agarics of São Paulo, Brazil",
+    "volume": "Kew",
+    "type": "article-journal",
+    "container-title": "Royal Botanic Gardens",
+    "issued": "1997",
+    "page": "68"
+  },
+  {
+    "author": [
+      {
+        "family": "Pegler",
+        "given": "D.N."
+      },
+      {
+        "family": "Fiard",
+        "given": "J.P."
+      }
+    ],
+    "title": "Hygrocybe sect. Firmae (Agaricales) in Tropical America",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Kew Bulletin",
+    "issued": "1978",
+    "page": "297–312",
+    "URL": "http://dx.doi.org/10.2307/4117101",
+    "DOI": "10.2307/4117101"
+  },
+  {
+    "author": [
+      {
+        "family": "Petch",
+        "given": "T."
+      }
+    ],
+    "title": "Revision of Ceylon fungi (Part V",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Annals of the Royal Botanical Garden, Peradeniya",
+    "issued": "1917",
+    "page": "307–355"
+  },
+  {
+    "author": [
+      {
+        "family": "Ridgway",
+        "given": "R."
+      }
+    ],
+    "title": "Color standards and color nomenclature",
+    "volume": "D",
+    "type": "article-journal",
+    "container-title": "Published by author, Washington",
+    "issue": "C.",
+    "issued": "1912",
+    "page": "278"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Höhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "http://dx.doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Senthilarasu",
+        "given": "G."
+      },
+      {
+        "family": "Kumaresan",
+        "given": "V."
+      },
+      {
+        "family": "Singh",
+        "given": "S.K."
+      }
+    ],
+    "title": "A new species of Hygrocybe in section Firmae from Western Ghats of India",
+    "volume": "111",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2010",
+    "page": "301–307",
+    "URL": "http://dx.doi.org/10.5248/111.301",
+    "DOI": "10.5248/111.301"
+  },
+  {
+    "author": [
+      {
+        "family": "Senthilarasu",
+        "given": "G."
+      },
+      {
+        "family": "Kumaresan",
+        "given": "V."
+      },
+      {
+        "family": "Singh",
+        "given": "S.K."
+      }
+    ],
+    "title": "Hygrocybe manadukaensis sp. nov. in section Firmae from Western Ghats, India",
+    "volume": "114",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2010",
+    "page": "343–349",
+    "URL": "http://dx.doi.org/10.5248/114.343",
+    "DOI": "10.5248/114.343"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R."
+      }
+    ],
+    "title": "Interesting and new Agaricales from Brazil",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Atas do Instituto de Micologia",
+    "issued": "1965",
+    "page": "15–59"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Filipski",
+        "given": "A."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA6: Molecular Evolutionary Genetics Analysis version 6.0",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "2725–2729",
+    "URL": "http://dx.doi.org/10.1093/molbev/mst197",
+    "DOI": "10.1093/molbev/mst197"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "continuously updated]. Index herbariorum: a global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2015",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      }
+    ],
+    "title": "Glossary",
+    "editor": [
+      {
+        "family": "Bas",
+        "given": "C."
+      },
+      {
+        "family": "Kuyper",
+        "given": "ThW"
+      },
+      {
+        "family": "Noordeloos",
+        "given": "M.E."
+      },
+      {
+        "family": "Vellinga",
+        "given": "E.C."
+      }
+    ],
+    "container-title": "Flora Agaricina Neerlandica",
+    "volume": "1",
+    "publisher": "A.A. Balkema",
+    "type": "chapter",
+    "issued": "1988",
+    "page": "54–64",
+    "publisher-place": "Rotterdam"
+  },
+  {
+    "author": [
+      {
+        "family": "Vilgalys",
+        "given": "R."
+      },
+      {
+        "family": "Hester",
+        "given": "M."
+      }
+    ],
+    "title": "Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA from several Cryptococcus species",
+    "volume": "172",
+    "type": "article-journal",
+    "container-title": "Journal of Bacteriology",
+    "issued": "1990",
+    "page": "4238–4246"
+  },
+  {
+    "author": [
+      {
+        "family": "Vizzini",
+        "given": "A."
+      },
+      {
+        "family": "Consiglio",
+        "given": "G."
+      },
+      {
+        "family": "Setti",
+        "given": "L."
+      },
+      {
+        "family": "Ercole",
+        "given": "E."
+      }
+    ],
+    "title": "Calocybella, a new genus for Rugosomyces pudicus (Agaricales, Lyophyllaceae) and emendation of the genus Gerhardtia",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "IMA Fungus",
+    "issue": "1",
+    "issued": "2015",
+    "page": "1–11",
+    "URL": "http://dx.doi.org/10.5598/imafungus.2015.06.01.01",
+    "DOI": "10.5598/imafungus.2015.06.01.01"
+  },
+  {
+    "author": [
+      {
+        "family": "Vrinda",
+        "given": "K.B."
+      },
+      {
+        "family": "Pradeep",
+        "given": "C.K."
+      },
+      {
+        "family": "Varghese",
+        "given": "S.P."
+      }
+    ],
+    "title": "Noteworthy records of Hygrocybe section Firmae from Western Ghats of Kerala",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Mushroom Research",
+    "issue": "1",
+    "issued": "2009",
+    "page": "1–4"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J.W."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "publisher": "Academic Press Inc",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "New York",
+    "URL": "http://dx.doi.org/10.1016/b978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/b978-0-12-372180-8.50042-1"
+  }
+]

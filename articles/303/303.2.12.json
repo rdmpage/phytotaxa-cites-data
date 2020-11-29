@@ -1,0 +1,265 @@
+[
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Revisio Myrtacearum Americae",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1855",
+    "page": "1–472"
+  },
+  {
+    "author": [
+      {
+        "family": "Berg",
+        "given": "O."
+      }
+    ],
+    "title": "Myrtaceae",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Flora Brasiliensis",
+    "issue": "1",
+    "issued": "1857",
+    "page": "1–656"
+  },
+  {
+    "author": [
+      {
+        "family": "De Candolle",
+        "given": "A.P."
+      }
+    ],
+    "title": "Myrtacées",
+    "editor": [
+      {
+        "family": "Saint-Vincent",
+        "given": "J.B.G.M.",
+        "particle": "Bory de"
+      }
+    ],
+    "container-title": "Dictionnaire classique d’histoire naturelle",
+    "volume": "11",
+    "type": "chapter",
+    "issued": "1827",
+    "page": "399–407"
+  },
+  {
+    "author": [
+      {
+        "family": "García",
+        "given": "P.E."
+      },
+      {
+        "family": "Hille",
+        "given": "A."
+      },
+      {
+        "family": "Lucas",
+        "given": "E.J."
+      },
+      {
+        "family": "Rainer",
+        "given": "H."
+      }
+    ],
+    "title": "The Otto C. Berg types at the Natural History Museum, Vienna",
+    "volume": "228",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2015",
+    "page": "1–66",
+    "URL": "https://doi.org/10.11646/phytotaxa.228.1.1",
+    "DOI": "10.11646/phytotaxa.228.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Govaerts",
+        "given": "R."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Ashton",
+        "given": "P."
+      },
+      {
+        "family": "Barrie",
+        "given": "F."
+      },
+      {
+        "family": "Holst",
+        "given": "B.K."
+      },
+      {
+        "family": "Landrum",
+        "given": "L.R."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      },
+      {
+        "family": "Mazine",
+        "given": "F.F."
+      },
+      {
+        "family": "Nic Lughadha",
+        "given": "E."
+      },
+      {
+        "family": "Proença",
+        "given": "C.E.B."
+      },
+      {
+        "family": "Soares-Silva",
+        "given": "L."
+      },
+      {
+        "family": "Wilson",
+        "given": "P.G."
+      },
+      {
+        "family": "Lucas",
+        "given": "E."
+      }
+    ],
+    "title": "World Checklist of Myrtaceae",
+    "container-title": "World Checklist of Selected Plant Families",
+    "note": "Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet:",
+    "type": "chapter",
+    "issued": "2017",
+    "URL": "http://apps.kew.org/wcsp/"
+  },
+  {
+    "author": [
+      {
+        "family": "Grisebach",
+        "given": "A.H.R."
+      }
+    ],
+    "title": "Flora of the British West Indian Islands",
+    "publisher": "London",
+    "type": "book",
+    "issued": "1864",
+    "page": "789",
+    "URL": "https://doi.org/10.5962/bhl.title.106964",
+    "DOI": "10.5962/bhl.title.106964"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "E."
+      },
+      {
+        "family": "Wilson",
+        "given": "C.E."
+      },
+      {
+        "family": "Lima",
+        "given": "D.F."
+      },
+      {
+        "family": "Sobral",
+        "given": "M."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "K."
+      }
+    ],
+    "title": "A conspectus of Myrcia sect",
+    "volume": "101",
+    "type": "article-journal",
+    "container-title": "Aulomyrcia (Myrtaceae). Annals of the Missouri Botanical Garden",
+    "issued": "2016",
+    "page": "648–698"
+  },
+  {
+    "author": [
+      {
+        "family": "Mattos",
+        "given": "J.R."
+      }
+    ],
+    "title": "Novidades na sistemática de Myrtaceae e Palmae",
+    "volume": "126",
+    "type": "article-journal",
+    "container-title": "Loefgrenia",
+    "issued": "2008",
+    "page": "1–4"
+  },
+  {
+    "author": [
+      {
+        "family": "Kiaerskou",
+        "given": "H."
+      }
+    ],
+    "title": "Enumeratio Myrtacearum Brasiliensium",
+    "editor": [
+      {
+        "family": "Warming",
+        "given": "E."
+      }
+    ],
+    "container-title": "Symbolarum ad floram Brasiliae centrali cognoscendam",
+    "volume": "39",
+    "type": "chapter",
+    "issued": "1893",
+    "page": "1–199"
+  },
+  {
+    "author": [
+      {
+        "family": "Reichardt",
+        "given": "H.W."
+      }
+    ],
+    "title": "Vier neue Pflanzenarten aus Brasilien",
+    "container-title": "Verhandlungen der Kaiserlich-Königlichen Zoologisch-Botanischen Gesellschaft in Wien",
+    "volume": "33",
+    "type": "chapter",
+    "issued": "1884",
+    "page": "321–324"
+  },
+  {
+    "author": [
+      {
+        "family": "Thiers",
+        "given": "B."
+      }
+    ],
+    "title": "Index Herbariorum: A global directory of public herbaria and associated staff",
+    "note": "Available from:",
+    "type": "article-journal",
+    "container-title": "New York Botanical Garden’s Virtual Herbarium",
+    "issued": "2017",
+    "URL": "http://sweetgum.nybg.org/ih/"
+  },
+  {
+    "author": [
+      {
+        "family": "Wawra",
+        "given": "H."
+      }
+    ],
+    "title": "Diagnoses plantarum novarum brasiliensium",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Oesterreischische Botanische Zeitschrifft",
+    "issued": "1879",
+    "page": "215–216",
+    "URL": "https://doi.org/10.1007/BF01616296",
+    "DOI": "10.1007/BF01616296"
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "title": "Taxonomy of economic seaweeds with special reference to Pacific and Caribbean species Volume II",
+    "publisher": "California Sea Grant College Program, La Jolla, California",
+    "type": "book",
+    "issued": "1988",
+    "page": "237"
+  },
+  {
+    "author": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "title": "Taxonomy of economic seaweeds with reference to some Pacific species Volume V",
+    "publisher": "California Sea Grant College Program, La Jolla, California",
+    "type": "book",
+    "issued": "1995",
+    "page": "254"
+  },
+  {
+    "author": [
+      {
+        "family": "Conklin",
+        "given": "E.J."
+      },
+      {
+        "family": "Kurihara",
+        "given": "A."
+      },
+      {
+        "family": "Sherwood",
+        "given": "A.R."
+      }
+    ],
+    "title": "A molecular method for identification of morphologically plastic invasive algal genera Eucheuma and Kappaphycus (Rhodophyta, Gigartinales) in Hawaii",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "2009",
+    "page": "691–699",
+    "URL": "http://dx.doi.org/10.1007/s10811-009-9404-2",
+    "DOI": "10.1007/s10811-009-9404-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Doty",
+        "given": "M.S."
+      }
+    ],
+    "title": "Prodromus ad systematica Eucheumatoideorum: A tribe of commercial seaweeds related to Eucheuma (Solieriaceae, Gigartinales",
+    "editor": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "container-title": "Taxonomy of economic seaweeds with reference to some Pacific and Caribbean species",
+    "volume": "II",
+    "publisher": "California Sea Grant College Program, University of California",
+    "issue": "",
+    "type": "article-journal",
+    "issued": "1988",
+    "page": "159–207",
+    "publisher-place": "La Jolla, California"
+  },
+  {
+    "author": [
+      {
+        "family": "S.",
+        "given": "Fredericq"
+      },
+      {
+        "family": "Cho",
+        "given": "T.O."
+      },
+      {
+        "family": "Earle",
+        "given": "S.A."
+      },
+      {
+        "family": "Gurgel",
+        "given": "C.F."
+      },
+      {
+        "family": "Krayesky",
+        "given": "D.M."
+      },
+      {
+        "family": "Mateo Cid",
+        "given": "L.E."
+      },
+      {
+        "family": "Mendoza Gonzáles",
+        "given": "A.C."
+      },
+      {
+        "family": "Norris",
+        "given": "J.N."
+      },
+      {
+        "family": "Suárez",
+        "given": "A.M."
+      }
+    ],
+    "title": "Seaweeds of the Gulf of Mexico",
+    "editor": [
+      {
+        "family": "Felder",
+        "given": "D.L."
+      },
+      {
+        "family": "D.K",
+        "given": "Camp"
+      }
+    ],
+    "container-title": "Gulf of Mexico: Its Origins, Waters, and Biota. I",
+    "publisher": "Biodiversity, Texas A&M University Press",
+    "type": "chapter",
+    "issued": "2009",
+    "page": "187–259"
+  },
+  {
+    "author": [
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "BIONJ: an improved version of NJ algorithm based on a simple model of sequence data",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1997",
+    "page": "685–695",
+    "URL": "http://dx.doi.org/10.1093/oxfordjournals.molbev.a025808",
+    "DOI": "10.1093/oxfordjournals.molbev.a025808"
+  },
+  {
+    "author": [
+      {
+        "family": "Gavio",
+        "given": "B."
+      },
+      {
+        "family": "Fredericq",
+        "given": "S."
+      }
+    ],
+    "title": "Grateloupia turuturu (Halymeniaceae, Rhodophyta) is the correct name of the non-native species in the Atlantic known as Grateloupia doryphora",
+    "volume": "37",
+    "type": "article-journal",
+    "container-title": "European Journal of Phycology",
+    "issued": "2002",
+    "page": "349–359",
+    "URL": "http://dx.doi.org/10.1017/s0967026202003839",
+    "DOI": "10.1017/s0967026202003839"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "A simple, fast and accurate algorithm to estimate large phylogenies by maximum likelihood",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2003",
+    "page": "696–704"
+  },
+  {
+    "author": [
+      {
+        "family": "Guindon",
+        "given": "S."
+      },
+      {
+        "family": "Dufayard",
+        "given": "J.F."
+      },
+      {
+        "family": "Lefort",
+        "given": "V."
+      },
+      {
+        "family": "Anisimova",
+        "given": "M."
+      },
+      {
+        "family": "Hordijk",
+        "given": "W."
+      },
+      {
+        "family": "Gascuel",
+        "given": "O."
+      }
+    ],
+    "title": "New algorithms and methods to estimate maximumlikelihood phylogenies: assessing the performance of PhyML 3.0",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2010",
+    "page": "307–321"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "T.A."
+      }
+    ],
+    "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 85/98/NT",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Symposium Series",
+    "issued": "1999",
+    "page": "95–98"
+  },
+  {
+    "author": [
+      {
+        "family": "Hebert",
+        "given": "P.D.N."
+      },
+      {
+        "family": "Cywinska",
+        "given": "A."
+      },
+      {
+        "family": "Ball",
+        "given": "S.L."
+      },
+      {
+        "family": "deWaard",
+        "given": "J.R."
+      }
+    ],
+    "title": "Biological identifications through DNA barcodes",
+    "volume": "270",
+    "type": "article-journal",
+    "container-title": "Proceedings of the Royal Society",
+    "issued": "2003",
+    "page": "313–322",
+    "URL": "http://dx.doi.org/10.1098/rspb.2002.2218",
+    "DOI": "10.1098/rspb.2002.2218"
+  },
+  {
+    "author": [
+      {
+        "family": "Maggs",
+        "given": "C.A."
+      },
+      {
+        "family": "Douglas",
+        "given": "S.E."
+      },
+      {
+        "family": "Fenety",
+        "given": "J."
+      },
+      {
+        "family": "Bird",
+        "given": "C.J."
+      }
+    ],
+    "title": "A molecular and morphological analysis of the Gymnogongrus devoniensis (Rhodophyta) complex in the north Atlantic",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Journal of Phycology",
+    "issued": "1992",
+    "page": "214–232",
+    "URL": "http://dx.doi.org/10.1111/j.0022-3646.1992.00214.x",
+    "DOI": "10.1111/j.0022-3646.1992.00214.x"
+  },
+  {
+    "author": [
+      {
+        "literal": "Montes, Jr. H.R., Pobre, K.F.R. & Lluisma, A.O."
+      }
+    ],
+    "title": "Phylogenetic affiliation of the “Endong”/”Spaghetti” variety of Eucheuma as revealed by molecular data",
+    "volume": "91",
+    "type": "article-journal",
+    "container-title": "Philippine Agricultural Scientist",
+    "issued": "2008",
+    "page": "86–93"
+  },
+  {
+    "author": [
+      {
+        "family": "Mshigeni",
+        "given": "K.E."
+      }
+    ],
+    "title": "The red algal genus Eucheuma (Gigartinales, Solieriaceae): An underexploited resource",
+    "volume": "11",
+    "type": "article-journal",
+    "container-title": "Proceedings International Seaweed Symposium",
+    "issued": "1984",
+    "page": "347–350",
+    "URL": "http://dx.doi.org/10.1007/978-94-009-6560-7_69",
+    "DOI": "10.1007/978-94-009-6560-7_69"
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "H.D."
+      },
+      {
+        "family": "Huynh",
+        "given": "Q.N."
+      }
+    ],
+    "title": "Species of Eucheuma and Kappaphycus in Vietnam",
+    "editor": [
+      {
+        "family": "Abbott",
+        "given": "I.A."
+      }
+    ],
+    "container-title": "Taxonomy of economic seaweeds with reference to some Pacific and Caribbean species",
+    "volume": "V",
+    "publisher": "California Sea Grant College Program, University of California",
+    "issue": "",
+    "type": "article-journal",
+    "issued": "1995",
+    "page": "229–235",
+    "publisher-place": "La Jolla, California"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest: phylogenetic model averaging",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2008",
+    "page": "1253–1256",
+    "URL": "http://dx.doi.org/10.1093/molbev/msn083",
+    "DOI": "10.1093/molbev/msn083"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodrigueza",
+        "given": "M.R.C."
+      },
+      {
+        "family": "Montaño",
+        "given": "M.N.E."
+      }
+    ],
+    "title": "Bioremediation potential of three carrageenophytes cultivated in tanks with seawater from fish farms",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "2007",
+    "page": "755–762",
+    "URL": "http://dx.doi.org/10.1007/s10811-007-9217-0",
+    "DOI": "10.1007/s10811-007-9217-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "http://dx.doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Santos",
+        "given": "G.A."
+      }
+    ],
+    "title": "Carrageenan of species of Eucheuma J. Agardh and Kappaphycus Doty (Solieriaceae, Rhodophyta",
+    "volume": "36",
+    "type": "article-journal",
+    "container-title": "Aquatic Botany",
+    "issued": "1989",
+    "page": "55–67",
+    "URL": "http://dx.doi.org/10.1016/0304-3770(89)90091-0",
+    "DOI": "10.1016/0304-3770(89)90091-0"
+  },
+  {
+    "author": [
+      {
+        "family": "Saitou",
+        "given": "N."
+      },
+      {
+        "family": "Nei",
+        "given": "M."
+      }
+    ],
+    "title": "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "1987",
+    "page": "406–425"
+  },
+  {
+    "author": [
+      {
+        "family": "Saunders",
+        "given": "G.W."
+      }
+    ],
+    "title": "Applying DNA barcoding to red macroalgae: A preliminary appraisal holds promise for future applications",
+    "volume": "360",
+    "type": "article-journal",
+    "container-title": "Philosophical Transactions of the Royal Society",
+    "issued": "2005",
+    "page": "1879–1888",
+    "URL": "http://dx.doi.org/10.1098/rstb.2005.1719",
+    "DOI": "10.1098/rstb.2005.1719"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmitz",
+        "given": "G.A."
+      }
+    ],
+    "title": "Marine florideen von Deutsch Ost-Africa",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Botanische Jahrbücher für Systematik",
+    "issued": "1895",
+    "page": "298–544"
+  },
+  {
+    "author": [
+      {
+        "family": "Silva",
+        "given": "P.C."
+      },
+      {
+        "family": "Meñez",
+        "given": "E.G."
+      },
+      {
+        "family": "Moe",
+        "given": "R.L."
+      }
+    ],
+    "title": "Catalog of the benthic marine algae of the Philippines",
+    "volume": "27",
+    "type": "article-journal",
+    "container-title": "Smithsonian Contributions to the Marine Science",
+    "issued": "1987",
+    "page": "179"
+  },
+  {
+    "author": [
+      {
+        "family": "Silva",
+        "given": "P.C."
+      },
+      {
+        "family": "Basson",
+        "given": "P.W."
+      },
+      {
+        "family": "Moe",
+        "given": "R.L."
+      }
+    ],
+    "title": "Catalogue of the benthic marine algae of the Indian Ocean",
+    "publisher": "University of California Press",
+    "type": "book",
+    "issued": "1996",
+    "page": null,
+    "publisher-place": "Berkeley"
+  },
+  {
+    "author": [
+      {
+        "family": "Tan",
+        "given": "J."
+      },
+      {
+        "family": "Lim",
+        "given": "P.-E."
+      },
+      {
+        "family": "Phang",
+        "given": "S.-M."
+      },
+      {
+        "family": "Hong",
+        "given": "D.D."
+      },
+      {
+        "family": "Sunarpi",
+        "given": "H."
+      },
+      {
+        "family": "Hurtado",
+        "given": "A.Q."
+      }
+    ],
+    "title": "Assessment of four molecular markers as potential DNA barcodes for red algae Kappaphycus Doty and Eucheuma J",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Agardh (Solieriaceae, Rhodophyta). PLoS One",
+    "issue": "12",
+    "issued": "2012",
+    "page": "52905",
+    "URL": "http://dx.doi.org/10.1371/journal.pone.0052905",
+    "DOI": "10.1371/journal.pone.0052905"
+  },
+  {
+    "author": [
+      {
+        "family": "Tan",
+        "given": "J."
+      },
+      {
+        "family": "Lim",
+        "given": "P.-E."
+      },
+      {
+        "family": "Phang",
+        "given": "S.-M."
+      },
+      {
+        "family": "Argardh",
+        "given": "Eucheuma J."
+      }
+    ],
+    "title": "Phylogenetic relationship of Kappaphycus Doty and",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "2013",
+    "page": "13–29",
+    "URL": "http://dx.doi.org/10.1007/s10811-012-9833-1",
+    "DOI": "10.1007/s10811-012-9833-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Tan",
+        "given": "J."
+      },
+      {
+        "family": "Lim",
+        "given": "P.E."
+      },
+      {
+        "family": "Phang",
+        "given": "S.M."
+      },
+      {
+        "family": "Rahiman",
+        "given": "A."
+      },
+      {
+        "family": "Nikmatullah",
+        "given": "Sunarpi"
+      },
+      {
+        "given": "H."
+      },
+      {
+        "family": "Hurtado",
+        "given": "A.Q."
+      }
+    ],
+    "title": "Kappaphycus malesianus sp. nov.: a new species of Kappaphycus (Gigartinales, Rhodophyta) from Southeast Asia",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "In press",
+    "URL": "http://dx.doi.org/10.1007/s10811-013-0155-8",
+    "DOI": "10.1007/s10811-013-0155-8"
+  },
+  {
+    "author": [
+      {
+        "family": "Tamura",
+        "given": "K."
+      },
+      {
+        "family": "Peterson",
+        "given": "D."
+      },
+      {
+        "family": "Peterson",
+        "given": "N."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Nei",
+        "given": "M."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      }
+    ],
+    "title": "MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2011",
+    "page": "2731–2739",
+    "URL": "http://dx.doi.org/10.1093/molbev/msr121",
+    "DOI": "10.1093/molbev/msr121"
+  },
+  {
+    "author": [
+      {
+        "family": "Trono",
+        "given": "G.C.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": "Field guide and atlas of the seaweed resources of the Philippines",
+    "publisher": "Makati City",
+    "type": "book",
+    "issued": "1997",
+    "page": "306",
+    "publisher-place": "Bookmark"
+  },
+  {
+    "author": [
+      {
+        "family": "Villanueva",
+        "given": "R.D."
+      },
+      {
+        "family": "Romero",
+        "given": "J.B."
+      },
+      {
+        "family": "Montaño",
+        "given": "M.N.E."
+      },
+      {
+        "family": "Peña",
+        "given": "P.O.",
+        "particle": "de la"
+      }
+    ],
+    "title": "Harvest optimization of four Kapppaphycus species from the Philippines",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Biomass and Bionergy",
+    "issued": "2011",
+    "page": "1311–1316",
+    "URL": "http://dx.doi.org/10.1016/j.biombioe.2010.12.044",
+    "DOI": "10.1016/j.biombioe.2010.12.044"
+  },
+  {
+    "author": [
+      {
+        "literal": "Weber van-Bosse, A."
+      }
+    ],
+    "title": "Liste des algues du Siboga, IV. Rhodophyceae. Troisième partie. Gigartinales et Rhodymeniales et tableau de la distribution des Chlorophycées, Phaeophycées et Rhodophycées de l’Archipel Malaisien",
+    "volume": null,
+    "publisher": "E.J. Brill, Leiden",
+    "type": "article-journal",
+    "container-title": "Siboga Expedition Monograph",
+    "issue": "59d",
+    "issued": "1928",
+    "page": "533"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "S."
+      },
+      {
+        "family": "He",
+        "given": "P."
+      }
+    ],
+    "title": "Molecular identification based on ITS sequences for Kappaphycus and Eucheuma cultivated in China",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Chinese Journal of Oceanology and Limnology",
+    "issued": "2011",
+    "page": "1287–1296",
+    "URL": "http://dx.doi.org/10.1007/s00343-011-1032-4",
+    "DOI": "10.1007/s00343-011-1032-4"
+  },
+  {
+    "author": [
+      {
+        "family": "Zuccarello",
+        "given": "G.C."
+      },
+      {
+        "family": "Burger",
+        "given": "G."
+      },
+      {
+        "family": "West",
+        "given": "J.A."
+      },
+      {
+        "family": "King",
+        "given": "R.J."
+      }
+    ],
+    "title": "A mitochondrial marker for red algal intraspecific relationships: variable within populations and maternally inherited",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1999",
+    "page": "1443–1448",
+    "URL": "http://dx.doi.org/10.1046/j.1365-294x.1999.00710.x",
+    "DOI": "10.1046/j.1365-294x.1999.00710.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Zuccarello",
+        "given": "G.C."
+      },
+      {
+        "family": "Critchley",
+        "given": "A.T."
+      },
+      {
+        "family": "Smith",
+        "given": "J.E."
+      },
+      {
+        "family": "Sieber",
+        "given": "V."
+      },
+      {
+        "family": "Bleicher-Lhonneur",
+        "given": "G."
+      }
+    ],
+    "title": "Systematics and genetic variation in commercial Kappaphycus and Eucheuma (Solieriaceae, Rhodophyta",
+    "volume": "18",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Phycology",
+    "issued": "2006",
+    "page": "643–651",
+    "URL": "http://dx.doi.org/10.1007/s10811-006-9066-2",
+    "DOI": "10.1007/s10811-006-9066-2"
+  }
+]

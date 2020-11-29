@@ -1,0 +1,1596 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bankevich",
+        "given": "A."
+      },
+      {
+        "family": "Nurk",
+        "given": "S."
+      },
+      {
+        "family": "Antipov",
+        "given": "D."
+      },
+      {
+        "family": "Gurevich",
+        "given": "A.A."
+      },
+      {
+        "family": "Dvorkin",
+        "given": "M."
+      },
+      {
+        "family": "Kulikov",
+        "given": "A.S."
+      },
+      {
+        "family": "Lesin",
+        "given": "V.M."
+      },
+      {
+        "family": "Nikolenko",
+        "given": "S.I."
+      },
+      {
+        "family": "Son",
+        "given": "P."
+      },
+      {
+        "family": "Prjibelski",
+        "given": "A.D."
+      },
+      {
+        "family": "Pyshkin",
+        "given": "A.V."
+      },
+      {
+        "family": "Sirotkin",
+        "given": "A.V."
+      },
+      {
+        "family": "Vyahhi",
+        "given": "N."
+      },
+      {
+        "family": "Tesler",
+        "given": "G."
+      },
+      {
+        "family": "Alekseyev",
+        "given": "M.A."
+      },
+      {
+        "family": "Pevzner",
+        "given": "P.A."
+      }
+    ],
+    "title": "SPAdes: A new genome assembly algorithm and its applications to single-cell sequencing",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Journal of Computational Biology",
+    "issued": "2012",
+    "page": "455–477",
+    "URL": "https://doi.org/10.1089/cmb.2012.0021",
+    "DOI": "10.1089/cmb.2012.0021"
+  },
+  {
+    "author": [
+      {
+        "family": "Daniell",
+        "given": "H."
+      },
+      {
+        "family": "Lin",
+        "given": "C."
+      },
+      {
+        "family": "Yu",
+        "given": "M."
+      },
+      {
+        "family": "Chang",
+        "given": "W."
+      }
+    ],
+    "title": "Chloroplast genomes: diversity, evolution, and applications in genetic engineering",
+    "volume": "17",
+    "type": "article-journal",
+    "container-title": "Genome Biology",
+    "issued": "2016",
+    "page": "134",
+    "URL": "https://doi.org/10.1186/s13059-016-1004-2",
+    "DOI": "10.1186/s13059-016-1004-2"
+  },
+  {
+    "author": [
+      {
+        "family": "Diep",
+        "given": "T."
+      },
+      {
+        "family": "Olga",
+        "given": "C."
+      },
+      {
+        "family": "Arndt",
+        "given": "von H."
+      },
+      {
+        "family": "Bui",
+        "given": "Q."
+      },
+      {
+        "family": "Le",
+        "given": "S."
+      }
+    ],
+    "title": "UFBoot2: improving the Ultrafast bootstrap approximation",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issue": "2",
+    "issued": "2018",
+    "page": "518–522",
+    "URL": "https://doi.org/10.1093/molbev/msx281",
+    "DOI": "10.1093/molbev/msx281"
+  },
+  {
+    "author": [
+      {
+        "family": "Dong",
+        "given": "W."
+      },
+      {
+        "family": "Liu",
+        "given": "J."
+      },
+      {
+        "family": "Yu",
+        "given": "J."
+      },
+      {
+        "family": "Wang",
+        "given": "L."
+      },
+      {
+        "family": "Zhou",
+        "given": "S."
+      }
+    ],
+    "title": "Highly variable chloroplast markers for evaluating plant phylogeny at low taxonomic levels and for DNA barcoding",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "PLoS One",
+    "issued": "2012",
+    "page": "35071",
+    "URL": "https://doi.org/10.1371/journal.pone.0035071",
+    "DOI": "10.1371/journal.pone.0035071"
+  },
+  {
+    "author": [
+      {
+        "family": "Ebert",
+        "given": "D."
+      },
+      {
+        "family": "Peakall",
+        "given": "R."
+      }
+    ],
+    "title": "A new set of universal de novo sequencing primers for extensive coverage of noncoding chloroplast DNA: new opportunities for phylogenetic studies and cpSSR discovery",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology Resources",
+    "issued": "2009",
+    "page": "777–783",
+    "URL": "https://doi.org/10.1111/j.1755-0998.2008.02320.x",
+    "DOI": "10.1111/j.1755-0998.2008.02320.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "D.I."
+      },
+      {
+        "family": "Cronk",
+        "given": "Q.C."
+      }
+    ],
+    "title": "Plann: A command-line application for annotating plastome sequences",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Applications in Plant Sciences",
+    "issued": "2015",
+    "page": "1500026",
+    "URL": "https://doi.org/10.3732/apps.1500026",
+    "DOI": "10.3732/apps.1500026"
+  },
+  {
+    "author": [
+      {
+        "family": "Huotari",
+        "given": "T."
+      },
+      {
+        "family": "Korpelainen",
+        "given": "H."
+      }
+    ],
+    "title": "Comparative analyses of plastid sequences between native and introduced populations of aquatic weeds Elodea canadensis and E. nuttallii",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "PLoS One",
+    "issued": "2013",
+    "page": "580734",
+    "URL": "https://doi.org/10.1371/journal.pone.0058073",
+    "DOI": "10.1371/journal.pone.0058073"
+  },
+  {
+    "author": [
+      {
+        "family": "Imazio",
+        "given": "S."
+      },
+      {
+        "family": "Maghradze",
+        "given": "D."
+      },
+      {
+        "family": "De Lorenzis",
+        "given": "G."
+      },
+      {
+        "family": "Bacilieri",
+        "given": "R."
+      },
+      {
+        "family": "Laucou",
+        "given": "V."
+      },
+      {
+        "family": "This",
+        "given": "P."
+      },
+      {
+        "family": "Scienza",
+        "given": "A."
+      },
+      {
+        "family": "Failla",
+        "given": "O."
+      }
+    ],
+    "title": "From the cradle of grapevine domestication: molecular overview and description of Georgian grapevine (Vitis vinifera L.) germplasm",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Tree Genetics & Genomes",
+    "issued": "2013",
+    "page": "641–658",
+    "URL": "https://doi.org/10.1007/s11295-013-0597-9",
+    "DOI": "10.1007/s11295-013-0597-9"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria: Version 3.1",
+    "edition": "Second",
+    "publisher": "IUCN",
+    "type": "book",
+    "issued": "2012",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaillon",
+        "given": "O."
+      },
+      {
+        "family": "Aury",
+        "given": "J."
+      },
+      {
+        "family": "Noel",
+        "given": "B."
+      },
+      {
+        "family": "Policriti",
+        "given": "A."
+      },
+      {
+        "family": "Clepet",
+        "given": "C."
+      },
+      {
+        "family": "Casagrande",
+        "given": "A."
+      },
+      {
+        "family": "Choisne",
+        "given": "N."
+      },
+      {
+        "family": "Aubourg",
+        "given": "S."
+      },
+      {
+        "family": "Vitulo",
+        "given": "N."
+      },
+      {
+        "family": "Jubin",
+        "given": "C."
+      },
+      {
+        "family": "Vezzi",
+        "given": "A."
+      },
+      {
+        "family": "Legeai",
+        "given": "F."
+      },
+      {
+        "family": "Hugueney",
+        "given": "P."
+      },
+      {
+        "family": "Dasilva",
+        "given": "C."
+      },
+      {
+        "family": "Horner",
+        "given": "D."
+      },
+      {
+        "family": "Mica",
+        "given": "E."
+      },
+      {
+        "family": "Jublot",
+        "given": "D."
+      },
+      {
+        "family": "Poulain",
+        "given": "J."
+      },
+      {
+        "family": "Bruyere",
+        "given": "C."
+      },
+      {
+        "family": "Billault",
+        "given": "A."
+      },
+      {
+        "family": "Segurens",
+        "given": "B."
+      },
+      {
+        "family": "Gouyvenoux",
+        "given": "M."
+      },
+      {
+        "family": "Ugarte",
+        "given": "E."
+      },
+      {
+        "family": "Cattonaro",
+        "given": "F."
+      },
+      {
+        "family": "Anthouard",
+        "given": "V."
+      },
+      {
+        "family": "Vico",
+        "given": "V."
+      },
+      {
+        "family": "Del Fabbro",
+        "given": "C."
+      },
+      {
+        "family": "Alaux",
+        "given": "M."
+      },
+      {
+        "family": "Di Gaspero",
+        "given": "G."
+      },
+      {
+        "family": "Dumas",
+        "given": "V."
+      },
+      {
+        "family": "Felice",
+        "given": "N."
+      },
+      {
+        "family": "Paillard",
+        "given": "S."
+      },
+      {
+        "family": "Juman",
+        "given": "I."
+      },
+      {
+        "family": "Moroldo",
+        "given": "M."
+      },
+      {
+        "family": "Scalabrin",
+        "given": "S."
+      },
+      {
+        "family": "Canaguier",
+        "given": "A."
+      },
+      {
+        "family": "Le Clainche",
+        "given": "I."
+      },
+      {
+        "family": "Malacrida",
+        "given": "G."
+      },
+      {
+        "family": "Durand",
+        "given": "E."
+      },
+      {
+        "family": "Pesole",
+        "given": "G."
+      },
+      {
+        "family": "Laucou",
+        "given": "V."
+      },
+      {
+        "family": "Chatelet",
+        "given": "P."
+      },
+      {
+        "family": "Merdinoglu",
+        "given": "D."
+      },
+      {
+        "family": "Delledonne",
+        "given": "M."
+      },
+      {
+        "family": "Pezzotti",
+        "given": "M."
+      },
+      {
+        "family": "Lecharny",
+        "given": "A."
+      },
+      {
+        "family": "Scarpelli",
+        "given": "C."
+      },
+      {
+        "family": "Artiguenave",
+        "given": "F."
+      },
+      {
+        "family": "Pe",
+        "given": "M.E."
+      },
+      {
+        "family": "Valle",
+        "given": "G."
+      },
+      {
+        "family": "Morgante",
+        "given": "M."
+      },
+      {
+        "family": "Caboche",
+        "given": "M."
+      },
+      {
+        "family": "Adam-Blondon",
+        "given": "A."
+      },
+      {
+        "family": "Weissenbach",
+        "given": "J."
+      },
+      {
+        "family": "Quetier",
+        "given": "F."
+      },
+      {
+        "family": "Wincker",
+        "given": "P."
+      }
+    ],
+    "title": "The grapevine genome sequence suggests ancestral hexaploidization in major angiosperm phyla",
+    "volume": "449",
+    "type": "article-journal",
+    "container-title": "Nature",
+    "issued": "2007",
+    "page": "463–467",
+    "URL": "https://doi.org/10.1038/nature06148",
+    "DOI": "10.1038/nature06148"
+  },
+  {
+    "author": [
+      {
+        "family": "Kang",
+        "given": "M.S."
+      },
+      {
+        "family": "Lu",
+        "given": "D.Z."
+      }
+    ],
+    "title": "A new species of Vitis from Beijing",
+    "volume": "31",
+    "type": "article-journal",
+    "container-title": "Acta Phytotaxonomica Sinica",
+    "issued": "1993",
+    "page": "70–71"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Rozewicki",
+        "given": "J."
+      },
+      {
+        "family": "Yamada",
+        "given": "K.D."
+      }
+    ],
+    "title": "MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization. Briefings in Bioinformatics",
+    "note": "in press",
+    "type": null,
+    "issued": "2017",
+    "URL": "https://doi.org/10.1093/bib/bbx108",
+    "DOI": "10.1093/bib/bbx108"
+  },
+  {
+    "author": [
+      {
+        "family": "Kearse",
+        "given": "M."
+      },
+      {
+        "family": "Moir",
+        "given": "R."
+      },
+      {
+        "family": "Wilson",
+        "given": "A."
+      },
+      {
+        "family": "Stones-Havas",
+        "given": "S."
+      },
+      {
+        "family": "Cheung",
+        "given": "M."
+      },
+      {
+        "family": "Sturrock",
+        "given": "S."
+      },
+      {
+        "family": "Buxton",
+        "given": "S."
+      },
+      {
+        "family": "Cooper",
+        "given": "A."
+      },
+      {
+        "family": "Markowitz",
+        "given": "S."
+      },
+      {
+        "family": "Duran",
+        "given": "C."
+      },
+      {
+        "family": "Thierer",
+        "given": "T."
+      },
+      {
+        "family": "Ashton",
+        "given": "B."
+      },
+      {
+        "family": "Meintjes",
+        "given": "P."
+      },
+      {
+        "family": "Drummond",
+        "given": "A."
+      }
+    ],
+    "title": "Geneious Basic: An integrated and extendable desktop software platform for the organization and analysis of sequence data",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2012",
+    "page": "1647–1649",
+    "URL": "https://doi.org/10.1093/bioinformatics/bts199",
+    "DOI": "10.1093/bioinformatics/bts199"
+  },
+  {
+    "author": [
+      {
+        "family": "Klein",
+        "given": "L.L."
+      },
+      {
+        "family": "Miller",
+        "given": "A.J."
+      },
+      {
+        "family": "Ciotir",
+        "given": "C."
+      },
+      {
+        "family": "Hyma",
+        "given": "K."
+      },
+      {
+        "family": "Uribe-Convers",
+        "given": "S."
+      },
+      {
+        "family": "Londo",
+        "given": "J."
+      }
+    ],
+    "title": "High-throughput sequencing data clarify evolutionary relationships among North American Vitis species and improve identification in USDA Vitis germplasm collections",
+    "volume": "105",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2018",
+    "page": "215–226",
+    "URL": "https://doi.org/10.1002/ajb2.1033",
+    "DOI": "10.1002/ajb2.1033"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Stecher",
+        "given": "G."
+      },
+      {
+        "family": "Tamura",
+        "given": "K."
+      }
+    ],
+    "title": "MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets",
+    "volume": "33",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2016",
+    "page": "1870–1874",
+    "URL": "https://doi.org/10.1093/molbev/msw054",
+    "DOI": "10.1093/molbev/msw054"
+  },
+  {
+    "author": [
+      {
+        "family": "Lam-Tung",
+        "given": "N."
+      },
+      {
+        "family": "Heiko",
+        "given": "A.S."
+      },
+      {
+        "family": "Arndt",
+        "given": "von H."
+      },
+      {
+        "family": "Bui",
+        "given": "Q.M."
+      }
+    ],
+    "title": "IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies",
+    "volume": "32",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issue": "1",
+    "issued": "2015",
+    "page": "268–274",
+    "URL": "https://doi.org/10.1093/molbev/msu300",
+    "DOI": "10.1093/molbev/msu300"
+  },
+  {
+    "author": [
+      {
+        "family": "Linnaeus",
+        "given": "C.von"
+      }
+    ],
+    "title": "Species Plantarum 2",
+    "publisher": "Impensis Laurentii Salvii, Holmiae [Stockholm",
+    "type": "book",
+    "issued": "1753",
+    "page": "202"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "C.L."
+      },
+      {
+        "family": "Cao",
+        "given": "Y.L."
+      },
+      {
+        "family": "He",
+        "given": "Y.H."
+      }
+    ],
+    "title": "A taxonomical study on Vitis L. in China",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Chinese Journal of Applied and Environmental Biology",
+    "issue": "3",
+    "issued": "1996"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "C.L."
+      }
+    ],
+    "title": "Vitis",
+    "container-title": "Editorial Committee of Flora Sinicae (Org.) Flora Reipublicae Popularis Sinicae",
+    "volume": "48",
+    "publisher": "Science Press",
+    "issue": "2",
+    "type": "article-journal",
+    "issued": "1998",
+    "page": "136–178",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "J.L."
+      },
+      {
+        "family": "Wang",
+        "given": "S."
+      },
+      {
+        "family": "Yu",
+        "given": "J."
+      },
+      {
+        "family": "Wang",
+        "given": "L."
+      },
+      {
+        "family": "Zhou",
+        "given": "S.L."
+      }
+    ],
+    "title": "A modified CTAB protocol for plant DNA extraction",
+    "volume": "48",
+    "type": "article-journal",
+    "container-title": "Chinese Bulletin of Botany",
+    "issued": "2013",
+    "page": "72–78",
+    "URL": "https://doi.org/10.3724/SP.J.1259.2013.00072",
+    "DOI": "10.3724/SP.J.1259.2013.00072"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "X.Q."
+      },
+      {
+        "family": "Ickert-Bond",
+        "given": "S.M."
+      },
+      {
+        "family": "Nie",
+        "given": "Z.L."
+      },
+      {
+        "family": "Zhou",
+        "given": "Z."
+      },
+      {
+        "family": "Chen",
+        "given": "L.Q."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Phylogeny of the Ampelocissus-Vitis clade in Vitaceae supports the New World origin of the grape genus",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2016",
+    "page": "217–228",
+    "URL": "https://doi.org/10.1016/j.ympev.2015.10.013",
+    "DOI": "10.1016/j.ympev.2015.10.013"
+  },
+  {
+    "author": [
+      {
+        "family": "Logacheva",
+        "given": "M.D."
+      },
+      {
+        "family": "Penin",
+        "given": "A.A."
+      },
+      {
+        "family": "Valiejo-Roman",
+        "given": "C.M."
+      },
+      {
+        "family": "Antonov",
+        "given": "A.S."
+      }
+    ],
+    "title": "Structure and evolution of junctions between inverted repeat and small single copy regions of chloroplast genome in non-core Caryophyllales",
+    "volume": "43",
+    "type": "article-journal",
+    "container-title": "Molecular Biology",
+    "issued": "2009",
+    "page": "757–765",
+    "URL": "https://doi.org/10.1134/S0026893309050070",
+    "DOI": "10.1134/S0026893309050070"
+  },
+  {
+    "author": [
+      {
+        "family": "Logacheva",
+        "given": "M.D."
+      },
+      {
+        "family": "Samigullin",
+        "given": "T.H."
+      },
+      {
+        "family": "Dhingra",
+        "given": "A."
+      },
+      {
+        "family": "Penin",
+        "given": "A.A."
+      }
+    ],
+    "title": "Comparative chloroplast genomics and phylogenetics of Fagopyrum esculentum ssp. ancestrale - A wild ancestor of cultivated buckwheat",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "BMC Plant Biology",
+    "issued": "2008",
+    "URL": "https://doi.org/10.1186/1471-2229-8-59",
+    "DOI": "10.1186/1471-2229-8-59"
+  },
+  {
+    "author": [
+      {
+        "family": "Lohse",
+        "given": "M."
+      },
+      {
+        "family": "Drechsel",
+        "given": "O."
+      },
+      {
+        "family": "Kahlau",
+        "given": "S."
+      },
+      {
+        "family": "Bock",
+        "given": "R."
+      }
+    ],
+    "title": "OrganellarGenomeDRAW-a suite of tools for generating physical maps of plastid and mitochondrial genomes and visualizing expression data sets",
+    "volume": "41",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "2013",
+    "page": "575– 581",
+    "URL": "https://doi.org/10.1093/nar/gkt289",
+    "DOI": "10.1093/nar/gkt289"
+  },
+  {
+    "author": [
+      {
+        "family": "Lu",
+        "given": "D.Z."
+      },
+      {
+        "family": "Liang",
+        "given": "H.P."
+      }
+    ],
+    "title": "A study on Vitis in Beijing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Journal of Beijing Agricultural College",
+    "issued": "1994",
+    "page": "78–81"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Z."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      },
+      {
+        "family": "Ickert-Bond",
+        "given": "S.M."
+      },
+      {
+        "family": "Chen",
+        "given": "L."
+      },
+      {
+        "family": "Liu",
+        "given": "X."
+      }
+    ],
+    "title": "Morphology, Structure, and Ontogeny of Trichomes of the Grape Genus (Vitis, Vitaceae",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Frontiers in Plant Science",
+    "issued": "2016",
+    "page": "704",
+    "URL": "https://doi.org/10.3389/fpls.2016.00704",
+    "DOI": "10.3389/fpls.2016.00704"
+  },
+  {
+    "author": [
+      {
+        "family": "Magallon",
+        "given": "S."
+      },
+      {
+        "family": "Castillo",
+        "given": "A."
+      }
+    ],
+    "title": "Angiosperm diversification through time",
+    "volume": "96",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2009",
+    "page": "349–365",
+    "URL": "https://doi.org/10.3732/ajb.0800060",
+    "DOI": "10.3732/ajb.0800060"
+  },
+  {
+    "author": [
+      {
+        "family": "McGovern",
+        "given": "P.E."
+      }
+    ],
+    "title": "Ancient Wine: The Search for the Origins of Viniculture",
+    "publisher": "Princeton University Press",
+    "type": "book",
+    "issued": "2003",
+    "publisher-place": "Princeton"
+  },
+  {
+    "author": [
+      {
+        "family": "Myles",
+        "given": "S."
+      },
+      {
+        "family": "Boyko",
+        "given": "A.R."
+      },
+      {
+        "family": "Owens",
+        "given": "C.L."
+      },
+      {
+        "family": "Brown",
+        "given": "P.J."
+      },
+      {
+        "family": "Grassi",
+        "given": "F."
+      },
+      {
+        "family": "Aradhya",
+        "given": "M.K."
+      },
+      {
+        "family": "Prins",
+        "given": "B."
+      },
+      {
+        "family": "Reynolds",
+        "given": "A."
+      },
+      {
+        "family": "Chia",
+        "given": "J."
+      },
+      {
+        "family": "Ware",
+        "given": "D."
+      },
+      {
+        "family": "Bustamante",
+        "given": "C.D."
+      },
+      {
+        "family": "Buckler",
+        "given": "E.S."
+      }
+    ],
+    "title": "Genetic structure and domestication history of the grape",
+    "container-title": "Proceedings of the National Academy of Science",
+    "volume": "108",
+    "type": "paper-conference",
+    "issued": "2011",
+    "page": "3530–3535",
+    "publisher-place": "USA",
+    "URL": "https://doi.org/10.1073/pnas.1009363108",
+    "DOI": "10.1073/pnas.1009363108"
+  },
+  {
+    "author": [
+      {
+        "family": "Nie",
+        "given": "Z.L."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Manchester",
+        "given": "S.R."
+      },
+      {
+        "family": "Meng",
+        "given": "Y."
+      },
+      {
+        "family": "Luke",
+        "given": "Q."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Evolution of the intercontinental disjunctions in six continents in the Ampelopsis clade of the grape family (Vitaceae",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2012",
+    "page": "17",
+    "URL": "https://doi.org/10.1186/1471-2148-12-17",
+    "DOI": "10.1186/1471-2148-12-17"
+  },
+  {
+    "author": [
+      {
+        "family": "Ren",
+        "given": "H."
+      },
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Vitis",
+    "editor": [
+      {
+        "family": "Wu",
+        "given": "C.Y."
+      },
+      {
+        "family": "Hong",
+        "given": "D.Y."
+      },
+      {
+        "family": "Raven",
+        "given": "P.H."
+      }
+    ],
+    "publisher": "Science Press & Missouri Botanical Garden Press",
+    "type": "book",
+    "issued": "2007",
+    "page": "173–222",
+    "publisher-place": "Beijing"
+  },
+  {
+    "author": [
+      {
+        "family": "Rozas",
+        "given": "J."
+      },
+      {
+        "family": "Ferrer-Mata",
+        "given": "A."
+      },
+      {
+        "family": "Sánchez-DelBarrio",
+        "given": "J.C."
+      },
+      {
+        "family": "Guirao-Rico",
+        "given": "S."
+      },
+      {
+        "family": "Librado",
+        "given": "P."
+      },
+      {
+        "family": "Ramos-Onsins",
+        "given": "S.E."
+      },
+      {
+        "family": "Sánchez-Gracia",
+        "given": "A."
+      }
+    ],
+    "title": "DnaSP 6: DNA sequence polymorphism analysis of large datasets",
+    "note": "in press",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2017",
+    "URL": "https://doi.org/10.1093/molbev/msx248",
+    "DOI": "10.1093/molbev/msx248"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruprecht",
+        "given": "F.J."
+      }
+    ],
+    "title": "Die Ersten Botanichen Nachrichten Uber uas Amurland. Bulletin de la Class Physico-Mathematique de l’Academie Imperiale des Sciences de Saint-Pétersbourg",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "St. Petersburg",
+    "issued": "1857",
+    "page": "266"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Beck",
+        "given": "J.T."
+      },
+      {
+        "family": "Farmer",
+        "given": "S.B."
+      },
+      {
+        "family": "Liu",
+        "given": "W.S."
+      },
+      {
+        "family": "Miller",
+        "given": "J."
+      },
+      {
+        "family": "Siripun",
+        "given": "K.C."
+      },
+      {
+        "family": "Winder",
+        "given": "C.T."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      }
+    ],
+    "title": "The tortoise and the hare II: Relative utility of 21 noncoding chloroplast DNA sequences for phylogenetic analysis",
+    "volume": "92",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2005",
+    "page": "142–166",
+    "URL": "https://doi.org/10.3732/ajb.92.1.142",
+    "DOI": "10.3732/ajb.92.1.142"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J."
+      },
+      {
+        "family": "Lickey",
+        "given": "E.B."
+      },
+      {
+        "family": "Schilling",
+        "given": "E.E."
+      },
+      {
+        "family": "Small",
+        "given": "R.L."
+      }
+    ],
+    "title": "Comparison of whole chloroplast genome sequences to choose noncoding regions for phylogenetic studies in angiosperms: The tortoise and the hare III",
+    "volume": "94",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2007",
+    "page": "275–288",
+    "URL": "https://doi.org/10.3732/ajb.94.3.275",
+    "DOI": "10.3732/ajb.94.3.275"
+  },
+  {
+    "author": [
+      {
+        "family": "Skvortzow",
+        "given": "B.W."
+      }
+    ],
+    "title": "Notes on trees and shrubs of Northern Manchuria",
+    "volume": "15",
+    "type": "article-journal",
+    "container-title": "The Chinese Journal",
+    "issue": "4",
+    "issued": "1925",
+    "page": "200–201"
+  },
+  {
+    "author": [
+      {
+        "family": "Small",
+        "given": "R.L."
+      },
+      {
+        "family": "Ryburn",
+        "given": "J.A."
+      },
+      {
+        "family": "Cronn",
+        "given": "R.C."
+      },
+      {
+        "family": "Seelanan",
+        "given": "T."
+      },
+      {
+        "family": "Wendel",
+        "given": "J.F."
+      }
+    ],
+    "title": "The tortoise and the hare: choosing between noncoding plastome and nuclear Adh sequences for phylogeny reconstruction in a recently diverged plant group",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "1998",
+    "page": "1301–1315",
+    "URL": "https://doi.org/10.2307/2446640",
+    "DOI": "10.2307/2446640"
+  },
+  {
+    "author": [
+      {
+        "family": "Tabidze",
+        "given": "V."
+      },
+      {
+        "family": "Pipia",
+        "given": "I."
+      },
+      {
+        "family": "Gogniashvili",
+        "given": "M."
+      },
+      {
+        "family": "Kunelauri",
+        "given": "N."
+      },
+      {
+        "family": "Ujmajuridze",
+        "given": "L."
+      },
+      {
+        "family": "Pirtskhalava",
+        "given": "M."
+      },
+      {
+        "family": "Vishnepolsky",
+        "given": "B."
+      },
+      {
+        "family": "Hernandez",
+        "given": "A.G."
+      },
+      {
+        "family": "Fields",
+        "given": "C.J."
+      },
+      {
+        "family": "Beridze",
+        "given": "T."
+      }
+    ],
+    "title": "Whole genome comparative analysis of four Georgian grape cultivars",
+    "volume": "292",
+    "type": "article-journal",
+    "container-title": "Molecular Genetics and Genomics",
+    "issued": "2017",
+    "page": "1377–1389",
+    "URL": "https://doi.org/10.1007/s00438-017-1353-x",
+    "DOI": "10.1007/s00438-017-1353-x"
+  },
+  {
+    "author": [
+      {
+        "family": "Tröndle",
+        "given": "D."
+      },
+      {
+        "family": "Schroder",
+        "given": "S."
+      },
+      {
+        "family": "Kassemeyer",
+        "given": "H.H."
+      },
+      {
+        "family": "Kiefer",
+        "given": "C."
+      },
+      {
+        "family": "Koch",
+        "given": "M.A."
+      },
+      {
+        "family": "Nick",
+        "given": "P."
+      }
+    ],
+    "title": "Molecular phylogeny of the genus Vitis (Vitaceae) based on plastid markers",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "American Journal of Botany",
+    "issued": "2010",
+    "page": "1168–1178",
+    "URL": "https://doi.org/10.3732/ajb.0900218",
+    "DOI": "10.3732/ajb.0900218"
+  },
+  {
+    "author": [
+      {
+        "family": "Wan",
+        "given": "Y."
+      },
+      {
+        "family": "Schwaninger",
+        "given": "H.R."
+      },
+      {
+        "family": "Baldo",
+        "given": "A.M."
+      },
+      {
+        "family": "Labate",
+        "given": "J.A."
+      },
+      {
+        "family": "Zhong",
+        "given": "G.Y."
+      },
+      {
+        "family": "Simon",
+        "given": "C.J."
+      }
+    ],
+    "title": "A phylogenetic analysis of the grape genus (Vitis L.) reveals broad reticulation and concurrent diversification during Neogene and Quaternary climate change",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "BMC Evolutionary Biology",
+    "issued": "2013",
+    "page": "141",
+    "URL": "https://doi.org/10.1186/1471-2148-13-141",
+    "DOI": "10.1186/1471-2148-13-141"
+  },
+  {
+    "author": [
+      {
+        "family": "Wen",
+        "given": "J."
+      }
+    ],
+    "title": "Vitaceae",
+    "editor": [
+      {
+        "family": "Kubitzki",
+        "given": "K."
+      }
+    ],
+    "container-title": "The Families and Genera of Vascular Plants",
+    "publisher": "Springer-Verlag",
+    "type": "chapter",
+    "issued": "2007",
+    "page": "466–478",
+    "publisher-place": "Berlinm",
+    "URL": "https://doi.org/10.1007/978-3-540-32219-1_54",
+    "DOI": "10.1007/978-3-540-32219-1_54"
+  },
+  {
+    "author": [
+      {
+        "family": "Wyman",
+        "given": "S.K."
+      },
+      {
+        "family": "Jansen",
+        "given": "R.K."
+      },
+      {
+        "family": "Boore",
+        "given": "J.L."
+      }
+    ],
+    "title": "Automatic annotation of organellar genomes with DOGMA",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2004",
+    "page": "3252–3255",
+    "URL": "https://doi.org/10.1093/bioinformatics/bth352",
+    "DOI": "10.1093/bioinformatics/bth352"
+  },
+  {
+    "author": [
+      {
+        "family": "Xie",
+        "given": "H."
+      },
+      {
+        "family": "Jiao",
+        "given": "J."
+      },
+      {
+        "family": "Fan",
+        "given": "X."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Jiang",
+        "given": "J."
+      },
+      {
+        "family": "Sun",
+        "given": "H."
+      },
+      {
+        "family": "Liu",
+        "given": "C."
+      }
+    ],
+    "title": "The complete chloroplast genome sequence of Chinese wild grape Vitis amurensis (Vitaceae: Vitis L",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Conservation Genetics Resources",
+    "issued": "2017",
+    "page": "43–46",
+    "URL": "https://doi.org/10.1007/s12686-016-0615-y",
+    "DOI": "10.1007/s12686-016-0615-y"
+  },
+  {
+    "author": [
+      {
+        "family": "Zecca",
+        "given": "G."
+      },
+      {
+        "family": "Abbott",
+        "given": "J.R."
+      },
+      {
+        "family": "Sun",
+        "given": "W."
+      },
+      {
+        "family": "Spada",
+        "given": "A."
+      },
+      {
+        "family": "Sala",
+        "given": "F."
+      },
+      {
+        "family": "Grassi",
+        "given": "F."
+      }
+    ],
+    "title": "The timing and the mode of evolution of wild grapes (Vitis",
+    "volume": "62",
+    "type": "article-journal",
+    "container-title": "Molecular Phylogenetics and Evolution",
+    "issued": "2012",
+    "page": "736–747",
+    "URL": "https://doi.org/10.1016/j.ympev.2011.11.015",
+    "DOI": "10.1016/j.ympev.2011.11.015"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "Y."
+      },
+      {
+        "family": "Massonnet",
+        "given": "M."
+      },
+      {
+        "family": "Sanjak",
+        "given": "J.S."
+      },
+      {
+        "family": "Cantu",
+        "given": "D."
+      },
+      {
+        "family": "Gaut",
+        "given": "B.S."
+      }
+    ],
+    "title": "Evolutionary genomics of grape (Vitis vinifera ssp. vinifera) domestication",
+    "container-title": "Proceedings of the National Academy of Science",
+    "volume": "114",
+    "type": "paper-conference",
+    "issued": "2017",
+    "page": "11715–11720",
+    "publisher-place": "USA",
+    "URL": "https://doi.org/10.1073/pnas.1709257114",
+    "DOI": "10.1073/pnas.1709257114"
+  }
+]

@@ -1,0 +1,415 @@
+[
+  {
+    "author": [
+      {
+        "family": "Blackman",
+        "given": "V.H."
+      }
+    ],
+    "title": "Fungi",
+    "editor": [
+      {
+        "family": "Andrews",
+        "given": "C.W."
+      }
+    ],
+    "container-title": "A Monograph of Christmas Island (Indian Ocean",
+    "publisher": "British Museum of Natural History",
+    "type": "chapter",
+    "issued": "1900",
+    "page": "198–200",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Cannon",
+        "given": "P."
+      },
+      {
+        "family": "Sutton",
+        "given": "B."
+      }
+    ],
+    "title": "Microfungi on wood and plant debris",
+    "editor": [
+      {
+        "family": "Mueller",
+        "given": "G."
+      },
+      {
+        "family": "Bills",
+        "given": "G."
+      },
+      {
+        "family": "Foster",
+        "given": "M."
+      }
+    ],
+    "container-title": "Biodiversity of Fungi: Inventory and Monitoring Methods",
+    "publisher": "Elsevier Academic Press",
+    "type": "chapter",
+    "issued": "2004",
+    "page": "217–239",
+    "publisher-place": "Burlington, Massachusetts",
+    "URL": "https://doi.org/10.1016/B978-012509551-8/50014-3",
+    "DOI": "10.1016/B978-012509551-8/50014-3"
+  },
+  {
+    "author": [
+      {
+        "family": "Fiore-Donno",
+        "given": "A.-M."
+      },
+      {
+        "family": "Nikolaev",
+        "given": "S.I."
+      },
+      {
+        "family": "Nelson",
+        "given": "M."
+      },
+      {
+        "family": "J.",
+        "given": "Pawlowski"
+      },
+      {
+        "family": "Cavalier-Smith",
+        "given": "T."
+      },
+      {
+        "family": "Baldauf",
+        "given": "S.L."
+      }
+    ],
+    "title": "Deep phylogeny and evolution of slime moulds (mycetozoa",
+    "volume": "161",
+    "type": "article-journal",
+    "container-title": "Protist",
+    "issued": "2010",
+    "page": "55–70",
+    "URL": "https://doi.org/10.1016/j.protis.2009.05.002",
+    "DOI": "10.1016/j.protis.2009.05.002"
+  },
+  {
+    "author": [
+      {
+        "family": "Kowalski",
+        "given": "D.T."
+      }
+    ],
+    "title": "The genus Lepidoderma",
+    "volume": "63",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "1971",
+    "page": "490–516",
+    "URL": "https://doi.org/10.1080/00275514.1971.12019131",
+    "DOI": "10.1080/00275514.1971.12019131"
+  },
+  {
+    "author": [
+      {
+        "family": "Lado",
+        "given": "C."
+      }
+    ],
+    "title": "An on line nomenclatural information system of Eumycetozoa",
+    "note": "Available from:",
+    "type": null,
+    "issued": "2005",
+    "URL": "http://www.nomen.eumycetozoa.com"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "P."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      }
+    ],
+    "title": "Two new species of dictyostelid cellular slime molds from Christmas Island, Indian Ocean",
+    "note": "mSphere 4e00133-19.",
+    "type": null,
+    "issued": "2019",
+    "URL": "https://doi.org/10.1128/mSphere.00133-19",
+    "DOI": "10.1128/mSphere.00133-19"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "G.W."
+      },
+      {
+        "family": "Alexopoulos",
+        "given": "C.J."
+      }
+    ],
+    "title": "The Myxomycetes",
+    "publisher": "University of Iowa Press, Iowa City",
+    "type": "book",
+    "issued": "1969"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "G.W."
+      },
+      {
+        "family": "Alexopoulos",
+        "given": "C.J."
+      },
+      {
+        "family": "Farr",
+        "given": "M.L."
+      }
+    ],
+    "title": "The Genera of Myxomycetes",
+    "publisher": "University of Iowa Press, Iowa City",
+    "type": "book",
+    "issued": "1983"
+  },
+  {
+    "author": [
+      {
+        "family": "Moreno",
+        "given": "G."
+      },
+      {
+        "family": "López-Villabla",
+        "given": "A."
+      },
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Castillo",
+        "given": "A."
+      }
+    ],
+    "title": "Lepidoderma cristatosporum, a new species of myxomycete from Australia",
+    "volume": "59",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2018",
+    "page": "386–391",
+    "URL": "https://doi.org/10.1016/j.myc.2018.02.008",
+    "DOI": "10.1016/j.myc.2018.02.008"
+  },
+  {
+    "author": [
+      {
+        "family": "Muñoz",
+        "given": "J."
+      },
+      {
+        "family": "Felicísimo",
+        "given": "Á.M."
+      },
+      {
+        "family": "Cabezas",
+        "given": "F."
+      },
+      {
+        "family": "Burgaz",
+        "given": "A.R."
+      },
+      {
+        "family": "Martínez",
+        "given": "I."
+      }
+    ],
+    "title": "Wind as a long-distance dispersal vehicle in the Southern Hemisphere",
+    "volume": "303",
+    "type": "article-journal",
+    "container-title": "Science",
+    "issued": "2004",
+    "page": "1144–1147",
+    "URL": "https://doi.org/10.1126/science.1095210",
+    "DOI": "10.1126/science.1095210"
+  },
+  {
+    "author": [
+      {
+        "family": "Selkirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Seppelt",
+        "given": "R.D."
+      },
+      {
+        "family": "Selkirk",
+        "given": "D.R."
+      }
+    ],
+    "title": "Subantarctic Macquarie Island: Environment and Biology",
+    "publisher": "Cambridge University Press",
+    "type": "book",
+    "issued": "1990",
+    "publisher-place": "Cambridge, United Kingdom"
+  },
+  {
+    "author": [
+      {
+        "family": "Shivas",
+        "given": "R.G."
+      },
+      {
+        "family": "Hilton",
+        "given": "R.N."
+      }
+    ],
+    "title": "Collections of fungi from Christmas Island, Indian Ocean",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Kingia",
+    "issued": "1990",
+    "page": "295–301"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Moreno",
+        "given": "G."
+      }
+    ],
+    "title": "A new species of Didymium (Myxomycetes) from subantarctic Macquarie Island",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "2006",
+    "page": "255–258",
+    "URL": "https://doi.org/10.1007/s11557-006-0517-6",
+    "DOI": "10.1007/s11557-006-0517-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Laursen",
+        "given": "G.A."
+      },
+      {
+        "family": "Seppelt",
+        "given": "R.D."
+      }
+    ],
+    "title": "Myxomycetes of subantarctic Macquarie Island",
+    "volume": "55",
+    "type": "article-journal",
+    "container-title": "Australian Journal of Botany",
+    "issued": "2007",
+    "page": "439–449"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Seppelt",
+        "given": "R.L."
+      },
+      {
+        "family": "Laursen",
+        "given": "G.A."
+      }
+    ],
+    "title": "The first record of a myxomycete subantarctic Macquarie Island",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "Mycological Progress",
+    "issued": "1992",
+    "page": "255–258",
+    "URL": "https://doi.org/10.1007/s11557-006-0517-6",
+    "DOI": "10.1007/s11557-006-0517-6"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Stempen",
+        "given": "H."
+      }
+    ],
+    "title": "A Handbook of Slime Molds",
+    "publisher": "Timber Press",
+    "type": "book",
+    "issued": "1994",
+    "publisher-place": "Portland, Oregon"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephenson",
+        "given": "S.L."
+      },
+      {
+        "family": "Stephenson",
+        "given": "B.C."
+      }
+    ],
+    "title": "Distribution and ecology of myxomycetes on Christmas Island, Indian Ocean",
+    "volume": "416",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2019",
+    "page": "138–148",
+    "URL": "https://doi.org/10.11646/phytotaxa.416.2.2",
+    "DOI": "10.11646/phytotaxa.416.2.2"
+  },
+  {
+    "author": [
+      {
+        "family": "Taneja",
+        "given": "R."
+      },
+      {
+        "family": "O’Neill",
+        "given": "C."
+      },
+      {
+        "family": "Lackie",
+        "given": "M."
+      },
+      {
+        "family": "Rushmer",
+        "given": "T."
+      },
+      {
+        "family": "Schmidt",
+        "given": "P."
+      },
+      {
+        "family": "Jordan",
+        "given": "F."
+      }
+    ],
+    "title": "40Ar/39Ar geochronology and the paleoposition of Christmas Island (Australia",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Northeast Indian Ocean. Gondwana Research",
+    "issued": "2015",
+    "page": "391–406",
+    "URL": "https://doi.org/10.1016/j.gr.2014.04.004",
+    "DOI": "10.1016/j.gr.2014.04.004"
+  }
+]

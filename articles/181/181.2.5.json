@@ -1,0 +1,65 @@
+[
+  {
+    "author": [
+      {
+        "family": "Chamisso",
+        "given": "A.von"
+      },
+      {
+        "family": "Schlechtendal.",
+        "given": "F.von"
+      }
+    ],
+    "title": "De plantis editione speculatoria romanzoffiana observatis",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Linnaea",
+    "issued": "1828",
+    "page": "200–219"
+  },
+  {
+    "author": [
+      {
+        "family": "Don",
+        "given": "G."
+      }
+    ],
+    "title": "A general history of dichlamydeous plants",
+    "volume": "3",
+    "editor": [
+      {
+        "family": "G.",
+        "given": "J."
+      },
+      {
+        "family": "Rivington",
+        "given": "F."
+      },
+      {
+        "given": "London"
+      }
+    ],
+    "type": null,
+    "issued": "1834",
+    "page": "867 417–418"
+  },
+  {
+    "author": [
+      {
+        "family": "Eichler",
+        "given": "A.W."
+      }
+    ],
+    "title": "Loranthaceae",
+    "editor": [
+      {
+        "family": "Martius",
+        "given": "K.F.P."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "Cramer, Weinheim",
+    "issued": "1868",
+    "page": "1–136"
+  }
+]

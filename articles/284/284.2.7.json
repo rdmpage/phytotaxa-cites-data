@@ -1,0 +1,248 @@
+[
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.B."
+      }
+    ],
+    "title": "Didymocarpus In",
+    "director": [
+      {
+        "family": "Hooker",
+        "given": "J.D."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "container-title": "The flora of British India",
+    "volume": "4. L",
+    "publisher": "Reeve and Co. Ltd",
+    "type": "chapter",
+    "issued": "1884",
+    "page": "345–355",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "title": "Didymocarpus In",
+    "director": [
+      {
+        "family": "Gamble",
+        "given": "J.S."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "container-title": "Flora of the Presidency of Madras",
+    "volume": "2",
+    "publisher": "Adlard & Sons Ltd",
+    "type": "chapter",
+    "issued": "1921",
+    "page": "694",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "IUCN Red List Categories and Criteria",
+    "volume": "3",
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": "IUCN Red List Unit",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "1.",
+    "issued": "2012",
+    "page": "2",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK. iv"
+  },
+  {
+    "author": [
+      {
+        "given": "I.U.C.N."
+      }
+    ],
+    "title": "Guidelines for Application of IUCN Red List Criteria at Regional and National Levels, Version 4.0",
+    "publisher": "IUCN Red List Unit",
+    "type": "book",
+    "issued": "2012",
+    "page": "41",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK, iii"
+  },
+  {
+    "author": [
+      {
+        "family": "Standards",
+        "given": "I.U.C.N."
+      },
+      {
+        "family": "Subcommittee",
+        "given": "Petitions"
+      }
+    ],
+    "title": "Guidelines for Using the IUCN Red List Categories and Criteria, Version 12",
+    "publisher": "IUCN Red List Unit",
+    "type": "book",
+    "issued": "2016",
+    "publisher-place": "Gland, Switzerland and Cambridge, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Janeesha",
+        "given": "A.P."
+      },
+      {
+        "family": "Nampy",
+        "given": "Santhosh"
+      }
+    ],
+    "title": "Lectotypification of three names in the genus Henckelia Spreng",
+    "volume": "268",
+    "type": "article-journal",
+    "container-title": "Gesneriaceae). Phytotaxa",
+    "issue": "1",
+    "issued": "2016",
+    "page": "80–84",
+    "URL": "http://dx.doi.org/10.11646/phytotaxa.268.1.6",
+    "DOI": "10.11646/phytotaxa.268.1.6"
+  },
+  {
+    "author": [
+      {
+        "family": "Middleton",
+        "given": "D.J."
+      },
+      {
+        "family": "Weber",
+        "given": "A."
+      },
+      {
+        "family": "Yao",
+        "given": "Y.T."
+      },
+      {
+        "family": "Sontag",
+        "given": "S."
+      },
+      {
+        "family": "Möller",
+        "given": "M."
+      }
+    ],
+    "title": "The current status of the species hitherto assigned to Henckelia (Gesneriaceae",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Edinburgh Journal of Botany",
+    "issued": "2013",
+    "page": "385–404",
+    "URL": "http://dx.doi.org/10.1017/S0960428613000127",
+    "DOI": "10.1017/S0960428613000127"
+  },
+  {
+    "author": [
+      {
+        "family": "Sprengel",
+        "given": "K."
+      },
+      {
+        "literal": "XXIX. Perfonaten."
+      }
+    ],
+    "title": "Fam",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Zweite",
+    "issued": "1817",
+    "page": "390–406"
+  },
+  {
+    "author": [
+      {
+        "family": "Vitek",
+        "given": "E."
+      },
+      {
+        "family": "Weber",
+        "given": "A."
+      },
+      {
+        "family": "Burtt",
+        "given": "B.L."
+      }
+    ],
+    "title": "Name, type and current placement of species hitherto referred to Didymocarpus, Loxocarpus, Codonoboea, Platyadenia and Henckelia (Gesneriaceae",
+    "volume": "102B",
+    "type": "article-journal",
+    "container-title": "Annalen des Naturhistorischen Museums in Wien",
+    "issued": "2000",
+    "page": "477–530"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallich",
+        "given": "N."
+      }
+    ],
+    "title": "Art. XXVI: Notice of the progress of Botanical Science in Bengal, being the substance of a letter from Dr. Wallich, superintendent of the Botanical garden near Culcutta, to Francis Hamilton",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Edinburgh Philosophical Journal",
+    "issued": "1819",
+    "page": "377–380"
+  },
+  {
+    "author": [
+      {
+        "family": "Weber",
+        "given": "A."
+      },
+      {
+        "family": "Burtt",
+        "given": "B.L."
+      }
+    ],
+    "title": "Remodelling of Didymocarpus and associated genera (Gesneriaceae",
+    "volume": "70",
+    "type": "article-journal",
+    "container-title": "Beitriage zur Biologie der Pflanzen",
+    "issued": "1997",
+    "page": "293–363"
+  },
+  {
+    "author": [
+      {
+        "family": "Wight",
+        "given": "R."
+      }
+    ],
+    "title": "Didymocarpus lyrata",
+    "volume": "4",
+    "publisher": "Messrs. Frank & Co",
+    "type": "article-journal",
+    "container-title": "Icones Plantarum Indiae Orientalis",
+    "issue": "2",
+    "issued": "1850",
+    "page": "10 1350",
+    "publisher-place": "Madras"
+  }
+]

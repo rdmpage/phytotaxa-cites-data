@@ -1,0 +1,424 @@
+[
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Diagnoses plantarum orientalium novarum",
+    "volume": "1",
+    "editor": [
+      {
+        "family": "Cons",
+        "given": "M.Ducloux",
+        "particle": "et"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "ser",
+    "issue": "10",
+    "issued": "1849",
+    "page": "122",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Boissier",
+        "given": "E."
+      }
+    ],
+    "title": "Diagnoses plantarum novarum orientalium",
+    "volume": "2",
+    "editor": [
+      {
+        "family": "Hermann",
+        "given": "B."
+      },
+      {
+        "given": "Leipzig"
+      },
+      {
+        "given": "JBBaillière"
+      }
+    ],
+    "type": "article-journal",
+    "container-title": "ser",
+    "issue": "6",
+    "issued": "1859",
+    "page": "148",
+    "publisher-place": "Paris"
+  },
+  {
+    "author": [
+      {
+        "family": "Burdet",
+        "given": "H."
+      },
+      {
+        "family": "Charpin",
+        "given": "A."
+      },
+      {
+        "family": "Jacquemoud",
+        "given": "F."
+      }
+    ],
+    "title": "Types nomenclaturaux des taxa ibériques décrits par Boissier ou Reuter. IV",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Cistacées à Composées. Candollea",
+    "issued": "1983",
+    "page": "751–802"
+  },
+  {
+    "author": [
+      {
+        "family": "Coutinho",
+        "given": "A.X.P."
+      }
+    ],
+    "title": "A Flora de Portugal (Plantas vasculares). Disposta em chaves dicotómicas",
+    "publisher": "Aillaud, Alves & Cia, Lisboa",
+    "type": "book",
+    "issued": "1913",
+    "page": "767"
+  },
+  {
+    "author": [
+      {
+        "family": "Coutinho",
+        "given": "A.X.P."
+      }
+    ],
+    "title": "Flora de Portugal (Plantas vasculares",
+    "editor": [
+      {
+        "family": "dicotómicas",
+        "given": "Disposta",
+        "particle": "em chaves"
+      }
+    ],
+    "volume": "2",
+    "publisher": "Ltd., Lisboa",
+    "type": "book",
+    "issued": "1939",
+    "page": "938",
+    "publisher-place": "Bertrand"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernandes",
+        "given": "A."
+      }
+    ],
+    "title": "Cartas de Willkomm para Júlio Henriques sobre assuntos referentes à flora de Portugal",
+    "volume": "44",
+    "type": "article-journal",
+    "container-title": "Anuário da Sociedade Broteriana",
+    "issued": "1978",
+    "page": "15–100"
+  },
+  {
+    "author": [
+      {
+        "family": "Fernandes",
+        "given": "A."
+      }
+    ],
+    "title": "Correspondência trocada entre Júlio Henriques e John Lange sobre assuntos relativos à flora de Portugal",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Anuário da Sociedade Broteriana",
+    "issued": "1979",
+    "page": "21–127"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonçalves",
+        "given": "A."
+      },
+      {
+        "family": "Castro",
+        "given": "S."
+      },
+      {
+        "family": "Paiva",
+        "given": "J."
+      },
+      {
+        "family": "Santos",
+        "given": "C."
+      },
+      {
+        "family": "Silveira",
+        "given": "P."
+      }
+    ],
+    "title": "Taxonomic revision of the genus Calendula (Asteraceae) in the Iberian Peninsula and the Balearic Islands",
+    "volume": "352",
+    "type": "article-journal",
+    "container-title": "Phytotaxa",
+    "issued": "2018",
+    "page": "1–91",
+    "URL": "https://doi.org/10.11646/phytotaxa.352.1.1",
+    "DOI": "10.11646/phytotaxa.352.1.1"
+  },
+  {
+    "author": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      }
+    ],
+    "title": "Continuously updated] Compositae (pro parte majore",
+    "editor": [
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Raab-Straube",
+        "given": "E.von"
+      }
+    ],
+    "note": "Published on the Internet:",
+    "type": null,
+    "issued": "2006",
+    "URL": "http://ww2.bgbm.org/EuroPlusMed/"
+  },
+  {
+    "author": [
+      {
+        "family": "Henriques",
+        "given": "J."
+      }
+    ],
+    "title": "Notas",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Boletim da Sociedade Broteriana",
+    "issued": "1883",
+    "page": "48–52"
+  },
+  {
+    "author": [
+      {
+        "family": "Mariz",
+        "given": "J."
+      }
+    ],
+    "title": "Subsídios para o estudo da flora Portuguesa – Compositae L",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Boletim da Sociedade Broteriana",
+    "issued": "1891",
+    "page": "144–243"
+  },
+  {
+    "author": [
+      {
+        "family": "Nyman",
+        "given": "C.F."
+      }
+    ],
+    "title": "Conspectus Florae Europaeae",
+    "volume": "2",
+    "publisher": "Officinae Bohlinianae",
+    "type": "book",
+    "issued": "1879",
+    "page": "241–492",
+    "publisher-place": "Örebro"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohle",
+        "given": "H."
+      }
+    ],
+    "title": "Beiträge zur Taxonomie der Gattung Calendula II. Taxonomische Revision der südeuropäischen perennierenden Calendula-Sippen",
+    "volume": "85",
+    "type": "article-journal",
+    "container-title": "Feddes Repertorium",
+    "issued": "1974",
+    "page": "245–283",
+    "URL": "https://doi.org/10.1002/fedr.19740850402",
+    "DOI": "10.1002/fedr.19740850402"
+  },
+  {
+    "author": [
+      {
+        "family": "Reinchenbach",
+        "given": "H.G.L."
+      }
+    ],
+    "title": "Icones florae germanicae et helveticae [",
+    "volume": "15",
+    "publisher": "Abel, Leipzig",
+    "type": "article-journal",
+    "container-title": "Cynarocephalae et Calendulaceae",
+    "issued": "1853",
+    "page": "427"
+  },
+  {
+    "author": [
+      {
+        "family": "Sampaio",
+        "given": "G."
+      }
+    ],
+    "title": "Flora Portuguesa",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "publisher": "Imprensa Moderna, Lda., Porto",
+    "type": "book",
+    "issued": "1947",
+    "page": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Turland",
+        "given": "N.J."
+      },
+      {
+        "family": "Wiersema",
+        "given": "J.H."
+      },
+      {
+        "family": "Barrie",
+        "given": "F.R."
+      },
+      {
+        "family": "Greuter",
+        "given": "W."
+      },
+      {
+        "family": "Hawksworth",
+        "given": "D.L."
+      },
+      {
+        "family": "Herendeen",
+        "given": "P.S."
+      },
+      {
+        "family": "Knapp",
+        "given": "S."
+      },
+      {
+        "family": "Kusber",
+        "given": "W.-H."
+      },
+      {
+        "family": "Li",
+        "given": "D.-Z."
+      },
+      {
+        "family": "Marhold",
+        "given": "K."
+      },
+      {
+        "family": "May",
+        "given": "T.W."
+      },
+      {
+        "family": "McNeill",
+        "given": "J."
+      },
+      {
+        "family": "Monro",
+        "given": "A.M."
+      },
+      {
+        "family": "Prado",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "M.J."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "title": "G.F",
+    "editor": [
+      {
+        "literal": "Eds."
+      }
+    ],
+    "container-title": "International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen",
+    "publisher": "Koeltz Botanical Books",
+    "type": "chapter",
+    "issued": "2018",
+    "publisher-place": "China",
+    "URL": "https://doi.org/10.12705/Code.2018",
+    "DOI": "10.12705/Code.2018"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahl",
+        "given": "M."
+      }
+    ],
+    "title": "Symbolae botanicae",
+    "volume": "2",
+    "editor": [
+      {
+        "family": "N. Möller",
+        "given": "Impensis",
+        "particle": "auctoris."
+      },
+      {
+        "family": "filius",
+        "given": "Hauniae"
+      }
+    ],
+    "type": null,
+    "issued": "1791",
+    "page": "105"
+  },
+  {
+    "author": [
+      {
+        "family": "Willdenow",
+        "given": "K.L."
+      }
+    ],
+    "title": "Caroli a Linneì Species plantarum :exhibentes plantas rite cognitas, ad genera relatas, cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas",
+    "editor": [
+      {
+        "literal": "Ed."
+      }
+    ],
+    "volume": "4), vol. 3",
+    "publisher": "G.C. Nauk",
+    "type": "book",
+    "issued": "1803",
+    "page": "3",
+    "publisher-place": "Berlin"
+  },
+  {
+    "author": [
+      {
+        "family": "Willkomm",
+        "given": "H.M."
+      }
+    ],
+    "title": "Illustrationes florae Hispaniae insularumque Balearium",
+    "volume": "1",
+    "issue": "9",
+    "type": null,
+    "issued": "1884",
+    "page": "121–136, 75–83",
+    "publisher-place": "Stuttgart"
+  }
+]

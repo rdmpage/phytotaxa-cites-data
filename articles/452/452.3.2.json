@@ -1,0 +1,680 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bernicchia",
+        "given": "A."
+      },
+      {
+        "family": "Gorjón",
+        "given": "S.P."
+      }
+    ],
+    "title": "Fungi Europaei 12. Corticiaceae s.l",
+    "type": "article-journal",
+    "container-title": "Edizioni Candusso, Alassio, Italia",
+    "issued": "2010",
+    "page": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boidin",
+        "given": "J."
+      }
+    ],
+    "title": "Hétérobasidiomycètes saprophytes et Homobasidiomycètes résupinés. V. Essai sur le genre Stereum Pers. ex S.F.Gray",
+    "volume": "23",
+    "type": "article-journal",
+    "container-title": "Revue de Mycologie",
+    "issued": "1958",
+    "page": "318–346"
+  },
+  {
+    "author": [
+      {
+        "literal": "Crous, P.W., Carnegie, A.J., Wingfield, M.J., Sharma, R., Mughini, G., Noordeloos, M.E., Santini, A., Shouche, Y.S., Bezerra, J.D.P., Dima, B., Guarnaccia, V., Imrefi, I., Jurjevic, Z., Knapp, D.G., Kovacs, G.M., Magista, D., Perrone, G., Rama, T., Rebriev, Y.A., Shivas, R.G., Singh, S.M., Souza-Motta, C.M., Thangavel, R., Adhapure, N.N., Alexandrova, A.V., Alfenas, A.C., Alfenas, R.F., Alvarado, P., Alves, A.L., Andrade, D.A., Andrade, J.P., Barbosa, R.N., Barili, A., Barnes, C.W., Baseia, I.G., Bellanger, J. -M., Berlanas, C., Bessette, A.E., Bessette, A.R., Biketova, A. Yu., Bomfim, F.S., Brandrud, T.E., Bransgrove, K., Brito, A.C.Q., Cano-Lira, J.F., Cantillo, T., Cavalcanti, A.D., Cheewangkoon, R., Chikowski, R.S., Conforto, C., Cordeiro, T.R.L., Craine, J.D., Cruz, R., Damm, U., de Oliveira, R.J.V., de Souza, J.T., de Souza, H.G., Dearnaley, J.D.W., Dimitrov, R.A., Dovana, F., Erhard, A., Esteve-Raventos, F., Felix, C.R., Ferisin, G., Fernandes, R.A., Ferreira, R.J., Ferro, L.O., Figueiredo, C.N., Frank, J.L., Freire, K.T.L.S., Garcia, D., Gene, J., Gesiorska, A., Gibertoni, T.B., Gondra, R.A.G., Gouliamova, D.E., Gramaje, D., Guard, F., Gusmao, L.F.P., Haitook, S., Hirooka, Y., Houbraken, J., Hubka, V., Inamdar, A., Iturriaga, T., Iturrieta-Gonzalez, I., Jadan, M., Jiang, N., Justo, A., Kachalkin, A.V., Kapitonov, V.I., Karadelev, M., Karakehian, J., Kasuya, T., Kautmanova, I., Kruse, J., Kusan, I., Kuznetsova, T.A., Landell, M.F., Larsson, K. -H."
+      },
+      {
+        "family": "H.",
+        "given": "Magalhaes"
+      },
+      {
+        "family": "O.M.C.",
+        "given": "Majerova"
+      },
+      {
+        "family": "H.",
+        "given": "Malysheva"
+      },
+      {
+        "family": "E.F.",
+        "given": "Mapperson"
+      },
+      {
+        "family": "R.R.",
+        "given": "Marbach"
+      },
+      {
+        "family": "P.A.S.",
+        "given": "Martin"
+      },
+      {
+        "family": "M.P.",
+        "given": "Martin-Sanz"
+      },
+      {
+        "family": "A.",
+        "given": "Matocec"
+      },
+      {
+        "family": "N.",
+        "given": "McTaggart"
+      },
+      {
+        "family": "T.",
+        "given": "Ordonez"
+      },
+      {
+        "family": "M.E.",
+        "given": "Ottoni"
+      },
+      {
+        "family": "M.",
+        "given": "A.",
+        "particle": "de"
+      },
+      {
+        "family": "Paiva",
+        "given": "L.M."
+      },
+      {
+        "family": "Pancorbo",
+        "given": "F."
+      },
+      {
+        "family": "Pant",
+        "given": "B."
+      },
+      {
+        "family": "Pawlowska",
+        "given": "J."
+      },
+      {
+        "family": "Peterson",
+        "given": "S.W."
+      },
+      {
+        "family": "Raudabaugh",
+        "given": "D.B."
+      },
+      {
+        "family": "Rodriguez-Andrade",
+        "given": "E."
+      },
+      {
+        "family": "Rubio",
+        "given": "E."
+      },
+      {
+        "family": "Rusevska",
+        "given": "K."
+      },
+      {
+        "family": "T.",
+        "given": "Kehlet"
+      },
+      {
+        "family": "T.",
+        "given": "Laessoe"
+      },
+      {
+        "given": "T."
+      },
+      {
+        "family": "Groenewald",
+        "given": "J.Z."
+      }
+    ],
+    "publisher": "A.R",
+    "editor": [
+      {
+        "family": "Mesic",
+        "given": "A."
+      },
+      {
+        "family": "Michereff",
+        "given": "S.J."
+      },
+      {
+        "family": "Miller",
+        "given": "A.N."
+      },
+      {
+        "family": "Minoshima",
+        "given": "A."
+      },
+      {
+        "family": "Molinero-Ruiz",
+        "given": "L."
+      },
+      {
+        "family": "Morozova",
+        "given": "O.V."
+      },
+      {
+        "family": "Mosoh",
+        "given": "D."
+      },
+      {
+        "family": "Nabe",
+        "given": "M."
+      },
+      {
+        "family": "Naik",
+        "given": "R."
+      },
+      {
+        "family": "Nara",
+        "given": "K."
+      },
+      {
+        "given": "Nascimento"
+      }
+    ],
+    "title": "Fungal Planet description sheets: 868–950",
+    "volume": "42",
+    "type": "article-journal",
+    "container-title": "Persoonia",
+    "issued": "2019",
+    "page": "291–473",
+    "publisher-place": "Lee, H.B., Lima, D.X., Lira, C.R.S., Machado, A.R., Madrid",
+    "URL": "https://doi.org/10.3767/persoonia.2019.42.11",
+    "DOI": "10.3767/persoonia.2019.42.11"
+  },
+  {
+    "author": [
+      {
+        "family": "Darriba",
+        "given": "D."
+      },
+      {
+        "family": "Taboada",
+        "given": "G.L."
+      },
+      {
+        "family": "Doallo",
+        "given": "R."
+      },
+      {
+        "family": "Posada",
+        "given": "D."
+      }
+    ],
+    "title": "jModelTest 2: more models, new heuristics and parallel computing",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Nature Methods",
+    "issued": "2012",
+    "page": "772",
+    "URL": "https://doi.org/10.1038/nmeth.2109",
+    "DOI": "10.1038/nmeth.2109"
+  },
+  {
+    "author": [
+      {
+        "family": "Karsten",
+        "given": "P.A."
+      }
+    ],
+    "title": "Symbolae ad mycologiam Fennicam. VIII",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Meddelanden af Societas pro Fauna et Flora Fennica",
+    "issued": "1881",
+    "page": "7–13"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Toh",
+        "given": "H."
+      }
+    ],
+    "title": "Recent developments in the MAFFT multiple sequence alignment program",
+    "volume": "9",
+    "type": "article-journal",
+    "container-title": "Brief Bioinform",
+    "issued": "2008",
+    "page": "286–298",
+    "URL": "https://doi.org/10.1093/bib/bbn013",
+    "DOI": "10.1093/bib/bbn013"
+  },
+  {
+    "author": [
+      {
+        "family": "Klotzsch",
+        "given": "J.F."
+      }
+    ],
+    "title": "Observationes Botanicas in itinere circum terram institutas (1830-1832): Fungi",
+    "container-title": "Nova Acta Physico-Medica Academiae Caesareae Leopoldino-Carolinae Naturae Curiosum",
+    "volume": "19",
+    "issue": "Suppl. 1",
+    "type": "article-journal",
+    "issued": "1843",
+    "page": "233–246"
+  },
+  {
+    "author": [
+      {
+        "family": "Kornerup",
+        "given": "A."
+      },
+      {
+        "family": "Wanscher",
+        "given": "J.H."
+      }
+    ],
+    "title": "Methuen handbook of colour",
+    "edition": "3rd",
+    "publisher": "Eyre Methuen",
+    "type": "book",
+    "issued": "1978",
+    "page": "252",
+    "publisher-place": "London, England"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsson",
+        "given": "E."
+      },
+      {
+        "family": "Larsson",
+        "given": "K.H."
+      }
+    ],
+    "title": "Phylogenetic relationships of russuloid basidiomycetes with emphasis on aphyllophoralean taxa",
+    "volume": "95",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2003",
+    "page": "1037–1065",
+    "URL": "https://doi.org/10.1080/15572536.2004.11833020",
+    "DOI": "10.1080/15572536.2004.11833020"
+  },
+  {
+    "author": [
+      {
+        "family": "Núñez",
+        "given": "M."
+      },
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "The genus Aleurodiscus (Basidiomycotina",
+    "volume": "12",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "1997",
+    "page": "1–164"
+  },
+  {
+    "author": [
+      {
+        "family": "Persoon",
+        "given": "C.H."
+      }
+    ],
+    "title": "Neuer Versuch einer systematischen Eintheilung der Schwämme",
+    "volume": "1",
+    "type": "article-journal",
+    "container-title": "Neues Magazin für die Botanik",
+    "issued": "1794",
+    "page": "63–80"
+  },
+  {
+    "author": [
+      {
+        "family": "Popoff",
+        "given": "O.F."
+      },
+      {
+        "family": "Wright",
+        "given": "J.E."
+      }
+    ],
+    "title": "Two new corticioid fungi (Aphyllophorales) from NE Argentina and Paraguay",
+    "volume": "51",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "1994",
+    "page": "317–324"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Teslenko",
+        "given": "M."
+      },
+      {
+        "family": "Mark",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Ayres",
+        "given": "D.L."
+      },
+      {
+        "family": "Darling",
+        "given": "A."
+      },
+      {
+        "family": "Hőhna",
+        "given": "S."
+      },
+      {
+        "family": "Larget",
+        "given": "B."
+      },
+      {
+        "family": "Liu",
+        "given": "L."
+      },
+      {
+        "family": "Suchard",
+        "given": "M.A."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space",
+    "volume": "61",
+    "type": "article-journal",
+    "container-title": "Systematic Biology",
+    "issued": "2012",
+    "page": "539–542",
+    "URL": "https://doi.org/10.1093/sysbio/sys029",
+    "DOI": "10.1093/sysbio/sys029"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "Stereoid fungi of America",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2010",
+    "page": "1–206"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "A note on the genus Xylobolus P",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Karst. Synopsis Fungorum",
+    "issued": "2012",
+    "page": "17–24"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryvarden",
+        "given": "L."
+      }
+    ],
+    "title": "The genus Stereum – a synopsis",
+    "volume": "40",
+    "type": "article-journal",
+    "container-title": "Synopsis Fungorum",
+    "issued": "2020",
+    "page": "46–96"
+  },
+  {
+    "author": [
+      {
+        "family": "Schröter",
+        "given": "J."
+      }
+    ],
+    "title": "Kryptogamen-Flora von Schlesien",
+    "volume": "3–1 (4",
+    "type": null,
+    "issued": "1888",
+    "page": "385–512"
+  },
+  {
+    "author": [
+      {
+        "family": "Stamatakis",
+        "given": "A."
+      }
+    ],
+    "title": "RAxML-VI-HPC: Maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models",
+    "volume": "22",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2006",
+    "page": "2688–2690",
+    "URL": "https://doi.org/10.1093/bioinformatics/btl446",
+    "DOI": "10.1093/bioinformatics/btl446"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: Phylogenetic analysis using parsimony (*and other methods",
+    "volume": "4",
+    "type": "article-journal",
+    "container-title": "Version",
+    "issue": "0b10",
+    "issued": "2002",
+    "publisher-place": "Sinauer Associates, Sunderland, Massachusetts"
+  },
+  {
+    "author": [
+      {
+        "family": "Ţura",
+        "given": "D."
+      },
+      {
+        "family": "Zmitrovich",
+        "given": "I.V."
+      },
+      {
+        "family": "Wasser",
+        "given": "S.P."
+      },
+      {
+        "family": "Spirin",
+        "given": "W.A."
+      },
+      {
+        "family": "Nevo",
+        "given": "E."
+      }
+    ],
+    "title": "Biodiversity of the Heterobasidiomycetes and non-gilled Hymenomycetes (former Aphyllophorales) of Israel",
+    "type": "article-journal",
+    "container-title": "Ruggell",
+    "issued": "2011",
+    "page": "566"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Sninsky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols, a guide to methods and applications",
+    "publisher": "Academic",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego",
+    "URL": "https://doi.org/10.1016/B978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/B978-0-12-372180-8.50042-1"
+  },
+  {
+    "author": [
+      {
+        "family": "Woodward",
+        "given": "S."
+      },
+      {
+        "family": "Stenlid",
+        "given": "J."
+      },
+      {
+        "family": "Karjalainen",
+        "given": "R."
+      },
+      {
+        "family": "Hüttermann",
+        "given": "A."
+      }
+    ],
+    "title": "Heterobasidion annosum: Biology, Ecology, Impact, and Control",
+    "volume": "Wallingford",
+    "type": "article-journal",
+    "container-title": "CAB International",
+    "issued": "1998",
+    "page": "589"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.H."
+      },
+      {
+        "family": "Boidin",
+        "given": "J."
+      },
+      {
+        "family": "Chien",
+        "given": "C.Y."
+      }
+    ],
+    "title": "Acanthofungus rimosus gen. et sp. nov., with reevaluation of the related genera",
+    "volume": "76",
+    "type": "article-journal",
+    "container-title": "Mycotaxon",
+    "issued": "2000",
+    "page": "153–161"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.H."
+      },
+      {
+        "family": "Hibbett",
+        "given": "D.S."
+      },
+      {
+        "family": "Binder",
+        "given": "M."
+      }
+    ],
+    "title": "Phylogenetic analyses of Aleurodiscus s.l. and allied genera",
+    "volume": "93",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issued": "2001",
+    "page": "720–731",
+    "URL": "https://doi.org/10.1080/00275514.2001.12063203",
+    "DOI": "10.1080/00275514.2001.12063203"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "S.H."
+      },
+      {
+        "family": "Wei",
+        "given": "C.L."
+      },
+      {
+        "family": "Lin",
+        "given": "Y.T."
+      },
+      {
+        "family": "Chang",
+        "given": "C.C."
+      },
+      {
+        "family": "He",
+        "given": "S.H."
+      }
+    ],
+    "title": "Four new East Asian species of Aleurodiscus with echinulate basidiospores",
+    "volume": "52",
+    "type": "article-journal",
+    "container-title": "MycoKeys",
+    "issued": "2019",
+    "page": "71–87",
+    "URL": "https://doi.org/10.3897/mycokeys.52.34066",
+    "DOI": "10.3897/mycokeys.52.34066"
+  }
+]

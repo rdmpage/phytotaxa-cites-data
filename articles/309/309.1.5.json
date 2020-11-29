@@ -1,0 +1,416 @@
+[
+  {
+    "author": [
+      {
+        "family": "Balfour-Browne",
+        "given": "F.L."
+      }
+    ],
+    "title": "Some Himalayan fungi",
+    "container-title": "Bulletin of the British Museum (Natural History), Botany",
+    "volume": "7",
+    "type": "chapter",
+    "issued": "1955",
+    "page": "187–218"
+  },
+  {
+    "author": [
+      {
+        "family": "Barclay",
+        "given": "A."
+      }
+    ],
+    "title": "Rhododendron Uredineae",
+    "volume": "6",
+    "type": "article-journal",
+    "container-title": "Sci Mem Med Officers Army India",
+    "issued": "1891",
+    "page": "71–74"
+  },
+  {
+    "author": [
+      {
+        "family": "Berndt",
+        "given": "R."
+      }
+    ],
+    "title": "Chrysomyxa rust: morphology and ultrastructure of D-haustoria, uredinia, and telia",
+    "volume": "77",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issued": "1999",
+    "page": "1469–1484",
+    "URL": "http://dx.doi.org/10.1139/b99-113",
+    "DOI": "10.1139/b99-113"
+  },
+  {
+    "author": [
+      {
+        "family": "Crane",
+        "given": "P.E."
+      }
+    ],
+    "title": "Morphology, taxonomy and nomenclature of the Chrysomyxa ledi complex and related rust fungi on spruce and Ericaceae in North America and Europe",
+    "volume": "79",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issued": "2001",
+    "page": "957–982",
+    "URL": "https://doi.org/10.1139/b01-071",
+    "DOI": "10.1139/b01-071"
+  },
+  {
+    "author": [
+      {
+        "family": "Crane",
+        "given": "P.E."
+      }
+    ],
+    "title": "Rust fungi on rhododendrons in Asia: Diaphanopellis forrestii gen. et sp. nov., new species of Caeoma, and expanded descriptions of Chrysomyxa dietelii and C. succinea",
+    "volume": "97",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "2",
+    "issued": "2005",
+    "page": "534–548",
+    "URL": "http://doi.org/10.3852/mycologia.97.2.534",
+    "DOI": "10.3852/mycologia.97.2.534"
+  },
+  {
+    "author": [
+      {
+        "family": "Cummins",
+        "given": "G.B."
+      },
+      {
+        "family": "Hiratsuka",
+        "given": "Y."
+      }
+    ],
+    "title": "Illustrated genera of rust fungi",
+    "edition": "3rd edn",
+    "publisher": "The American Phytopathological Society Press, St. Paul",
+    "type": "book",
+    "issued": "2003"
+  },
+  {
+    "author": [
+      {
+        "family": "Feau",
+        "given": "N."
+      },
+      {
+        "family": "Vialle",
+        "given": "A."
+      },
+      {
+        "family": "Allaire",
+        "given": "M."
+      },
+      {
+        "family": "Maier",
+        "given": "W."
+      },
+      {
+        "family": "Hamelin",
+        "given": "R.C."
+      }
+    ],
+    "title": "DNA barcoding in the rust genus Chrysomyxa and its implications for the phylogeny of the genus",
+    "volume": "103",
+    "type": "article-journal",
+    "container-title": "Mycologia",
+    "issue": "6",
+    "issued": "2011",
+    "page": "1250–1266",
+    "URL": "https://doi.org/10.3852/10-426",
+    "DOI": "10.3852/10-426"
+  },
+  {
+    "author": [
+      {
+        "family": "Felsenstein",
+        "given": "J."
+      }
+    ],
+    "title": "Phylogenies and the comparative method",
+    "volume": "125",
+    "type": "article-journal",
+    "container-title": "The American Naturalist",
+    "issue": "1",
+    "issued": "1985",
+    "page": "1–15",
+    "URL": "https://doi.org/10.1086/284325",
+    "DOI": "10.1086/284325"
+  },
+  {
+    "author": [
+      {
+        "family": "Gardes",
+        "given": "M."
+      },
+      {
+        "family": "Bruns",
+        "given": "T.D."
+      }
+    ],
+    "title": "ITS primers with enhanced specificity for basidiomycetes: application to the identification of mycorrhizae and rusts",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Molecular Ecology",
+    "issued": "1993",
+    "page": "113–118",
+    "URL": "https://doi.org/10.1111/j.1365-294X.1993.tb00005.x",
+    "DOI": "10.1111/j.1365-294X.1993.tb00005.x"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaneko",
+        "given": "S."
+      }
+    ],
+    "title": "The species of Coleosporium, the causes of pine needle rusts in the Japanese Archipelago",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Reports of the Tottori Mycological Institute",
+    "issued": "1981",
+    "page": "1–159"
+  },
+  {
+    "author": [
+      {
+        "family": "Katoh",
+        "given": "K."
+      },
+      {
+        "family": "Standley",
+        "given": "D.M."
+      }
+    ],
+    "title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability",
+    "volume": "30",
+    "type": "article-journal",
+    "container-title": "Molecular Biology and Evolution",
+    "issued": "2013",
+    "page": "772–780",
+    "URL": "https://doi.org/10.1093/molbev/mst010",
+    "DOI": "10.1093/molbev/mst010"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "P.M."
+      },
+      {
+        "family": "Cannon",
+        "given": "P.F."
+      },
+      {
+        "family": "Minter",
+        "given": "D.W."
+      },
+      {
+        "family": "Stalpers",
+        "given": "J.A."
+      }
+    ],
+    "title": "Dictionary of the Fungi",
+    "edition": "10th",
+    "publisher": "CABI",
+    "type": "book",
+    "issued": "2008",
+    "publisher-place": "Wallingford, UK"
+  },
+  {
+    "author": [
+      {
+        "family": "Maier",
+        "given": "W."
+      },
+      {
+        "family": "Begerow",
+        "given": "D."
+      },
+      {
+        "family": "Weiß",
+        "given": "M."
+      },
+      {
+        "family": "Oberwinkler",
+        "given": "F."
+      }
+    ],
+    "title": "Phylogeny of the rust fungi: an approach using nuclear large subunit ribosomal DNA sequences",
+    "volume": "81",
+    "type": "article-journal",
+    "container-title": "Canadian Journal of Botany",
+    "issued": "2003",
+    "page": "12–23",
+    "URL": "https://doi.org/10.1139/b02-113",
+    "DOI": "10.1139/b02-113"
+  },
+  {
+    "author": [
+      {
+        "family": "Posada",
+        "given": "D."
+      },
+      {
+        "family": "Crandall",
+        "given": "K.A."
+      }
+    ],
+    "title": "MODELTEST: testing the model of DNA substitution",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "1998",
+    "page": "817–818",
+    "URL": "https://doi.org/10.1093/bioinformatics/14.9.817",
+    "DOI": "10.1093/bioinformatics/14.9.817"
+  },
+  {
+    "author": [
+      {
+        "family": "Ronquist",
+        "given": "F."
+      },
+      {
+        "family": "Huelsenbeck",
+        "given": "J.P."
+      }
+    ],
+    "title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+    "volume": "19",
+    "type": "article-journal",
+    "container-title": "Bioinformatics",
+    "issued": "2003",
+    "page": "1572–1574",
+    "URL": "https://doi.org/10.1093/bioinformatics/btg180",
+    "DOI": "10.1093/bioinformatics/btg180"
+  },
+  {
+    "author": [
+      {
+        "family": "Swofford",
+        "given": "D.L."
+      }
+    ],
+    "title": "PAUP*: phylogenetic analysis using parsimony (*and other methods), version 4.0b10",
+    "type": null,
+    "issued": "2002",
+    "publisher-place": "Sinauer, Sunderland, MA"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomson",
+        "given": "J.D."
+      },
+      {
+        "family": "Gibson",
+        "given": "T.J."
+      },
+      {
+        "family": "Plewniak",
+        "given": "F."
+      },
+      {
+        "family": "Jeanmougin",
+        "given": "F."
+      },
+      {
+        "family": "Higgins",
+        "given": "D.G."
+      }
+    ],
+    "title": "The ClustalX windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+    "volume": "25",
+    "type": "article-journal",
+    "container-title": "Nucleic Acids Research",
+    "issued": "1997",
+    "page": "4876–4882",
+    "URL": "https://doi.org/10.1093/nar/25.24.4876",
+    "DOI": "10.1093/nar/25.24.4876"
+  },
+  {
+    "author": [
+      {
+        "family": "Tian",
+        "given": "C.M."
+      },
+      {
+        "family": "Shang",
+        "given": "Y.Z."
+      },
+      {
+        "family": "Zhuang",
+        "given": "J.Y."
+      },
+      {
+        "family": "Wang",
+        "given": "Q."
+      },
+      {
+        "family": "Kakishima",
+        "given": "M."
+      }
+    ],
+    "title": "Morphological and molecular phylogenetic analysis of Melampsora species on poplars in China",
+    "volume": "45",
+    "type": "article-journal",
+    "container-title": "Mycoscience",
+    "issued": "2004",
+    "page": "56–66",
+    "URL": "https://doi.org/10.1007/S10267-003-0150-Z",
+    "DOI": "10.1007/S10267-003-0150-Z"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "T.J."
+      },
+      {
+        "family": "Bruns",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "J."
+      }
+    ],
+    "title": "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics",
+    "editor": [
+      {
+        "family": "Innis",
+        "given": "M.A."
+      },
+      {
+        "family": "Gelfand",
+        "given": "D.H."
+      },
+      {
+        "family": "Snisky",
+        "given": "J.J."
+      },
+      {
+        "family": "White",
+        "given": "T.J."
+      }
+    ],
+    "container-title": "PCR protocols: a guide to methods and applications",
+    "type": "chapter",
+    "issued": "1990",
+    "page": "315–322",
+    "publisher-place": "San Diego, USA",
+    "URL": "https://doi.org/10.1016/b978-0-12-372180-8.50042-1",
+    "DOI": "10.1016/b978-0-12-372180-8.50042-1"
+  }
+]
